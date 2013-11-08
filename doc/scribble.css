@@ -1,3 +1,145 @@
+/* define fonts */
+/* provisional method. Later: use external files */
+/* question: where to store fonts? should be within doc,
+but not use a name that a package might want in the future. 
+
+The font-family declarations deliberately omit the 'local' option. The CSS wants to use the local Racket woff fonts, rather than local versions with the same name that potentially have slightly different metrics, char sets, etc. and would produce different layout results. For instance, a version of Charter now ships with OS X 10.9 that matches the iOS version.
+
+These fonts are available under LGPL-compatible licenses and thus can be distributed with Racket.
+*/
+
+
+@font-face {
+	font-family: 'Miso';
+	src: url('_fonts/miso/miso-light.woff') format('woff');
+	font-weight: light;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Miso';
+	src: url('_fonts/miso/miso-bold.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Miso';
+	src: url('_fonts/miso/miso-regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Charter';
+    src: url('_fonts/charter/charter-bold-italic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('_fonts/charter/charter-bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Charter';
+    src: url('_fonts/charter/charter-italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Charter';
+    src: url('_fonts/charter/charter-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira';
+    src: url('_fonts/fira/fira-light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira';
+    src: url('_fonts/fira/fira-regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira';
+    src: url('_fonts/fira/fira-medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Fira';
+    src: url('_fonts/fira/fira-bold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('_fonts/source-code-pro/source-code-pro-200.otf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('_fonts/source-code-pro/source-code-pro-300.otf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('_fonts/source-code-pro/source-code-pro-400.otf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('_fonts/source-code-pro/source-code-pro-500.otf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('_fonts/source-code-pro/source-code-pro-600.otf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('_fonts/source-code-pro/source-code-pro-700.otf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('_fonts/source-code-pro/source-code-pro-800.otf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+
 /* reset margins & padding for all elements */
 * {
 margin: 0;
@@ -30,10 +172,10 @@ padding: 0;
 
 /* Sans-serif: */
 .version, .versionNoNav, .ssansserif {
-  font-family: "Fira Sans OT", sans-serif;
+  font-family: "Fira", sans-serif;
 }
 .ssansserif {
-  font-family: "Fira Sans OT";
+  font-family: "Fira";
   font-weight: 500;
   font-size: 0.9em;
 }
@@ -55,7 +197,7 @@ li {
 }   
 
 h1, h2, h3, h4, h5, h6, h7, h8 {
-    font-family: "Fira Sans OT";
+    font-family: "Fira";
     font-weight: 300;
     font-size: 1.4rem;
     color: #333;
@@ -71,8 +213,8 @@ h3, h4, h5, h6, h7, h8 {
 
 
 h2 { /* per-page main title */
-    font-family: "Miso-Bold";
-    font-weight: 300;
+    font-family: "Miso";
+    font-weight: bold;
     margin-top: 4rem;
     font-size: 2.5rem;
     line-height: 115%;
@@ -154,7 +296,7 @@ a:hover {
     left: 0;
     top: 0rem;
     height: 6rem;
-    font-family: "Fira Sans OT";
+    font-family: "Fira";
     border-bottom: 1px solid white;
 }
 
@@ -288,7 +430,7 @@ a:hover {
 }
 
 .refcontent {
-  font-family: "Fira Sans OT";
+  font-family: "Fira";
   font-size: 0.85rem;
   line-height: 160%;
   margin: 0 0 0 0;
@@ -336,7 +478,7 @@ a:hover {
   vertical-align: text-top;
   padding-bottom: 0.2rem;
   padding-left: 0.1rem;
-    font-family: "Fira Sans OT";
+    font-family: "Fira";
 }
 
 .tocset td a, .tocset .RktValLink, .tocset .RktStxLink {
@@ -434,7 +576,7 @@ a:hover {
 .tocsubtitle {
   display: none;
   font-size: 82%;
-  font-family: "Fira Sans OT";
+  font-family: "Fira";
   font-style: bolder;
   margin: 0.2em;
 }
@@ -583,7 +725,7 @@ ol ol ol ol { list-style-type: upper-alpha; }
 }
 
 .SAuthorListBox {
-    font-family: "Fira Sans OT";
+    font-family: "Fira";
     font-weight: 300;
     font-size: 110%;
     margin-bottom: 2rem;
