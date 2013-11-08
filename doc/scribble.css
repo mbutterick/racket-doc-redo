@@ -1,3 +1,12 @@
+/* reset margins & padding for all elements */
+* {
+margin: 0;
+padding: 0;
+}
+
+@media all {html {font-size: 18px;}}@media all and (max-width:1000px){html {font-size: 18px;}}@media all and (max-width:960px){html {font-size: 18px;}}@media all and (max-width:920px){html {font-size: 18px;}}@media all and (max-width:880px){html {font-size: 18px;}}@media all and (max-width:840px){html {font-size: 18px;}}@media all and (max-width:800px){html {font-size: 17px;}}@media all and (max-width:760px){html {font-size: 16px;}}@media all and (max-width:720px){html {font-size: 15px;}}@media all and (max-width:680px){html {font-size: 14px;}}@media all and (max-width:640px){html {font-size: 13px;}}@media all and (max-width:600px){html {font-size: 12px;}}@media all and (max-width:560px){html {font-size: 12px;}}@media all and (max-width:520px){html {font-size: 12px;}}
+
+
 
 /* CSS seems backward: List all the classes for which we want a
    particular font, so that the font can be changed in one place.  (It
@@ -9,37 +18,80 @@
 
 /* Monospace: */
 .maincolumn, .refpara, .refelem, .tocset, .stt, .hspace, .refparaleft, .refelemleft {
-  font-family: monospace;
+  font-family: "Source Code Pro", monospace;
 }
+
+
 
 /* Serif: */
 .main, .refcontent, .tocview, .tocsub, .sroman, i {
-  font-family: serif;
+  font-family: "Charter", serif;
 }
 
 /* Sans-serif: */
 .version, .versionNoNav, .ssansserif {
-  font-family: sans-serif;
+  font-family: "Fira Sans OT", sans-serif;
 }
 .ssansserif {
-  font-size: 80%;
-  font-weight: bold;
+  font-family: "Fira Sans OT";
+  font-weight: 500;
+  font-size: 0.9em;
 }
 
 /* ---------------------------------------- */
 
 p, .SIntrapara {
   display: block;
-  margin: 1em 0;
+  margin: 0 0 1em 0;
+  line-height: 135%;
 }
 
-h2 { /* per-page main title */
-  margin-top: 0;
+
+
+
+li {
+    list-style-position: outside;
+    margin-left: 1.2em;
+}   
+
+h1, h2, h3, h4, h5, h6, h7, h8 {
+    font-family: "Fira Sans OT";
+    font-weight: 300;
+    font-size: 1.4rem;
+    color: #333;
+    margin-bottom: 1rem;
+    line-height: 125%;
+
 }
 
 h3, h4, h5, h6, h7, h8 {
-  margin-top: 1.75em;
-  margin-bottom: 0.5em;
+    border-top: 1px solid black;
+}
+
+
+
+h2 { /* per-page main title */
+    font-family: "Miso-Bold";
+    font-weight: 300;
+    margin-top: 4rem;
+    font-size: 2.5rem;
+    line-height: 115%;
+    width: 90%;
+}
+
+h3, h4, h5, h6, h7, h8 {
+    margin-top: 2em;
+    padding-top: 0.1em;
+  margin-bottom: 0.75em;
+  }
+
+h3 .RktStxLink, 
+h4 .RktStxLink,
+h5 .RktStxLink,
+h6 .RktStxLink,
+h7 .RktStxLink,
+h8 .RktStxLink {
+    color: #333;
 }
 
 .SSubSubSubSection {
@@ -69,47 +121,67 @@ table td {
 }
 
 .maincolumn {
-  width: 43em;
-  margin-right: -40em;
-  margin-left: 15em;
+  margin-top: 4rem;
+  margin-left: 15rem;
+  margin-right: 2rem;
+  margin-bottom: 10rem; /* to avoid fixed bottom nav bar */
+  max-width: 700px;
+  min-width: 370px; /* below this size, code samples don't fit */
 }
 
-.main {
-  text-align: left;
+
+a {
+    color: #777;
+    text-decoration: inherit;
 }
+
+
+a:hover {
+    text-decoration: underline;
+}
+
 
 /* ---------------------------------------- */
 /* Navigation */
 
-.navsettop, .navsetbottom {
-  background-color: #f0f0e0;
-  padding: 0.25em 0 0.25em 0;
+.navsettop {
+    position: fixed;
+    margin-left: 0rem;
+    width: 12rem;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    background: #bbbbc5;
+    left: 0;
+    top: 0rem;
+    height: 6rem;
+    font-family: "Fira Sans OT";
+    border-bottom: 1px solid white;
 }
 
-.navsettop {
-  margin-bottom: 1.5em;
-  border-bottom: 2px solid #e0e0c0;
+
+.navleft, .navright {
+    font-size: 0.9rem;
+}
+
+.navright {
+    display:block;
+}   
+
+.navright a {
+    display: inline-block;
+    color: black;
+    padding: 0.5em;
+}
+
+.navright a:hover {
 }
 
 .navsetbottom {
-  margin-top: 2em;
-  border-top: 2px solid #e0e0c0;
+    display: none;
 }
 
-.navleft {
-  margin-left: 1ex;
-  position: relative;
-  float: left;
-  white-space: nowrap;
-}
-.navright {
-  margin-right: 1ex;
-  position: relative;
-  float: right;
-  white-space: nowrap;
-}
 .nonavigation {
-  color: #e0e0e0;
+  color: #bbbbc5;
 }
 
 .searchform {
@@ -119,13 +191,15 @@ table td {
 }
 
 .searchbox {
-  width: 16em;
-  margin: 0px;
-  padding: 0px;
-  background-color: #eee;
-  border: 1px solid #ddd;
-  text-align: center;
+  font-size: 0.9rem;
+  width: 9rem;
+  padding: 0.2em;
+  margin-top: 1rem;
   vertical-align: middle;
+}
+
+#search_box {
+  font-size: 0.8rem;
 }
 
 #contextindicator {
@@ -134,68 +208,92 @@ table td {
   color: #000;
   font-family: monospace;
   font-weight: bold;
-  padding: 2px 10px;
+  padding: 0.1rem 0.5rem;
   display: none;
   right: 0;
   bottom: 0;
 }
 
+
 /* ---------------------------------------- */
 /* Version */
 
 .versionbox {
-  position: relative;
-  float: right;
-  left: 2em;
-  height: 0em;
-  width: 13em;
-  margin: 0em -13em 0em 0em;
+  position: absolute;
+  top: 0rem;
+  left: 15rem; /* same distance as main-column */
+  z-index: 11000;
+  height: 2em;
+  font-size: 70%;
 }
-.version {
-  font-size: small;
-}
-.versionNoNav {
-  font-size: xx-small; /* avoid overlap with author */
+.version:before, .versionNoNav:before {
+  content: "v.";
 }
 
-.version:before, .versionNoNav:before {
-  content: "Version ";
-}
 
 /* ---------------------------------------- */
 /* Margin notes */
 
-.refpara, .refelem {
-  position: relative;
-  float: right;
-  left: 2em;
-  height: 0em;
-  width: 13em;
-  margin: 0em -13em 0em 0em;
+.refcolumn {
+  display: block;
+  margin: 1.5em;
+  margin-left: 2rem;
+  margin-right: 0;
+  padding: 0.5em;
+  padding-left: 0.75em;
+  padding-right: 0.25em;
+  background: #eeeef6;
+  border-left: 0.4rem solid #ccccd6;
+}
+
+.refcontent p {
+    margin: 0;
+    line-height: 1.6em;
+}
+
+.refcontent p + p {
+    margin-top: 1em;
+}
+
+.refcontent a {
+    font-weight: 400;
+}
+
+.refcontent img {
+    width: 1.5em;
 }
 
 .refpara, .refparaleft {
   top: -1em;
 }
 
-.refcolumn {
-  background-color: #F5F5DC;
-  display: block;
-  position: relative;
-  width: 13em;
-  font-size: 85%;
-  border: 0.5em solid #F5F5DC;
-  margin: 0 0 0 0;
+
+@media all and (max-width:600px) {
+    .refcolumn {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+
+@media all and (min-width:1260px) {
+    .refcolumn {
+        position: absolute;
+        left: 1020px;
+        right: 3em;
+        margin: 0;
+        float: right;
+        max-width: 260px;
+    }
 }
 
 .refcontent {
+  font-family: "Fira Sans OT";
+  font-size: 0.85rem;
+  line-height: 160%;
   margin: 0 0 0 0;
 }
 
-.refcontent p {
-  margin-top: 0;
-  margin-bottom: 0;
-}
 
 .refparaleft, .refelemleft {
   position: relative;
@@ -218,42 +316,58 @@ table td {
 
 
 /* ---------------------------------------- */
-/* Table of contents, inline */
-
-.toclink {
-  text-decoration: none;
-  color: blue;
-  font-size: 85%;
-}
-
-.toptoclink {
-  text-decoration: none;
-  color: blue;
-  font-weight: bold;
-}
-
-/* ---------------------------------------- */
 /* Table of contents, left margin */
 
 .tocset {
-  position: relative;
-  float: left;
-  width: 12.5em;
-  margin-right: 2em;
+    position: absolute;
+    left: 0;
+    top: 6rem;
+    width: 12rem;
+    padding-top: 1rem;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-bottom: 0.75em;
+    background-color: #bbbbc5;
 }
+
+
+
 .tocset td {
   vertical-align: text-top;
+  padding-bottom: 0.2rem;
+  padding-left: 0.1rem;
+    font-family: "Fira Sans OT";
+}
+
+.tocset td a, .tocset .RktValLink, .tocset .RktStxLink {
+    color: black;
+  font-weight: 400;
+}
+
+.tocset .RktValLink, .tocset .RktStxLink {
+    font-size: 0.8rem;
 }
 
 .tocview {
   text-align: left;
-  background-color: #f0f0e0;
+}
+
+
+.tocview td {
+    line-height: 1.5em;
+}
+
+
+.tocset td a.tocviewselflink,
+.tocset td a.tocviewselflink .RktValLink,
+.tocset td a.tocviewselflink .RktStxLink {
+    font-weight: normal;
+    color: white;
 }
 
 .tocsub {
   text-align: left;
   margin-top: 0.5em;
-  background-color: #f0f0e0;
 }
 
 .tocviewlist, .tocsublist {
@@ -266,13 +380,14 @@ table td {
   font-size: 82%;
 }
 
+
 .tocviewlisttopspace {
   margin-bottom: 1em;
 }
 
 .tocviewsublist, .tocviewsublistonly, .tocviewsublisttop, .tocviewsublistbottom {
   margin-left: 0.4em;
-  border-left: 1px solid #bbf;
+  border-left: 1px solid #99a;
   padding-left: 0.8em;
 }
 .tocviewsublist {
@@ -285,23 +400,9 @@ table td {
   font-size: 75%;
 }
 
-.tocviewtitle * {
-  font-weight: bold;
-}
 
-.tocviewlink {
-  text-decoration: none;
-  color: blue;
-}
-
-.tocviewselflink {
-  text-decoration: underline;
-  color: blue;
-}
 
 .tocviewtoggle {
-  text-decoration: none;
-  color: blue;
   font-size: 75%; /* looks better, and avoids bounce when toggling sub-sections due to font alignments */
 }
 
@@ -331,10 +432,24 @@ table td {
 }
 
 .tocsubtitle {
+  display: none;
   font-size: 82%;
-  font-style: italic;
+  font-family: "Fira Sans OT";
+  font-style: bolder;
   margin: 0.2em;
 }
+
+.toptoclink {
+    font-weight: bolder;
+    font-size: 1.1rem;
+}
+
+/* hack to add space around .toptoclink because markup is all td */
+.toptoclink:after {
+    content: " ";
+    font-size: 3rem;    
+}
+
 
 /* ---------------------------------------- */
 /* Some inline styles */
@@ -347,8 +462,12 @@ table td {
   white-space: nowrap;
 }
 
-pre { margin-left: 2em; }
-blockquote { margin-left: 2em; }
+pre { 
+/*  margin-left: 2em; */
+}
+blockquote { 
+/*  margin-left: 2em; */
+ }
 
 ol          { list-style-type: decimal; }
 ol ol       { list-style-type: lower-alpha; }
@@ -356,20 +475,54 @@ ol ol ol    { list-style-type: lower-roman; }
 ol ol ol ol { list-style-type: upper-alpha; }
 
 .SCodeFlow {
+/*    background: linear-gradient(to right, #fafafb 0%, #fff 70%); */
+    border-left: 1px dotted black; 
+    padding-left: 1em;
+  padding-right: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0em;
+    margin-right: 2em;
+    white-space: nowrap;
+    line-height: 1.5em;
+/*
   display: block;
   margin-left: 1em;
   margin-bottom: 0em;
   margin-right: 1em;
   margin-top: 0em;
-  white-space: nowrap;  
+  white-space: nowrap;  */
 }
 
+.SCodeFlow a {
+    color: #444;
+}
+
+
+
 .SVInsetFlow {
-  display: block;
-  margin-left: 0em;
-  margin-bottom: 0em;
-  margin-right: 0em;
-  margin-top: 0em;
+    margin-top: 2em;
+    padding: 0.25em;
+    background: #f3f3f3;
+    box-sizing:border-box;
+       border-top: 1px solid #ccc;
+        border-bottom: 2px solid #f8f8f8; 
+    font-weight: 500;
+/*    background: linear-gradient(to bottom right, #fff 0%, #fcfcfc 100%); */
+}
+
+.leftindent .SVInsetFlow { /* see e.g. section 4.5 of Racket Guide */
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.SVInsetFlow a {
+    color: #444;
+}
+
+.SVInsetFlow .RktVar {
+    font-weight: 400;
+    color: #444;
 }
 
 .SubFlow {
@@ -379,7 +532,6 @@ ol ol ol ol { list-style-type: upper-alpha; }
 
 .boxed {
   width: 100%;
-  background-color: #E8E8FF;
 }
 
 .hspace {
@@ -395,19 +547,8 @@ ol ol ol ol { list-style-type: upper-alpha; }
 }
 
 .plainlink {
-  text-decoration: none;
-  color: blue;
 }
 
-.techoutside       { text-decoration: underline; color: #b0b0b0; }
-.techoutside:hover { text-decoration: underline; color: blue; }
-
-/* .techinside:hover doesn't work with FF, .techinside:hover>
-   .techinside doesn't work with IE, so use both (and IE doesn't
-   work with inherit in the second one, so use blue directly) */
-.techinside                    { color: black; }
-.techinside:hover              { color: blue; }
-.techoutside:hover>.techinside { color: inherit; }
 
 .SCentered {
   text-align: center;
@@ -442,14 +583,17 @@ ol ol ol ol { list-style-type: upper-alpha; }
 }
 
 .SAuthorListBox {
-  position: relative;
-  float: right;
-  left: 2em;
-  top: -2.5em;
-  height: 0em;
-  width: 13em;
-  margin: 0em -13em 0em 0em;
+    font-family: "Fira Sans OT";
+    font-weight: 300;
+    font-size: 110%;
+    margin-bottom: 2rem;
 }
+
+.author > a { /* email links within author block */
+    font-weight: inherit;
+    color: inherit;
+}
+
 .SAuthorList {
   font-size: 82%;
 }
@@ -460,6 +604,28 @@ ol ol ol ol { list-style-type: upper-alpha; }
   display: inline;
   white-space: nowrap;
 }
+
+/* iphone styles, set to 480px (?? check this)*/
+
+@media all and (max-width:0px){
+    html {font-size: 20px;}
+    
+    .navsettop {
+        display: none;
+    }
+    .tocset {
+        display: none;
+    }
+    
+    .maincolumn {
+        margin-left: 1em;
+    }
+    
+    a.RktValLink, a.RktStxLink {
+        text-decoration: underline;
+    }
+}
+
 
 /* print styles : hide the navigation elements */
 @media print {

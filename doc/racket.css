@@ -5,9 +5,10 @@
 .RktIn, .RktRdr, .RktPn, .RktMeta,
 .RktMod, .RktKw, .RktVar, .RktSym,
 .RktRes, .RktOut, .RktCmt, .RktVal,
-.RktBlk {
-  font-family: monospace;
+.RktBlk, .stt, .RktErr {
+  font-family: "Source Code Pro", monospace;
   white-space: inherit;
+    font-size: 0.82rem;
 }
 
 /* Serif: */
@@ -45,12 +46,11 @@
 /* Racket text styles */
 
 .RktIn {
-  color: #cc6633;
-  background-color: #eeeeee;
+  background-color: #eee;
 }
 
 .RktInBG {
-  background-color: #eeeeee;
+  background-color: #eee;
 }
 
 .RktRdr {
@@ -65,7 +65,7 @@
 }
 
 .RktMod {
-  color: black;
+/*  color: black; */
 }
 
 .RktOpt {
@@ -78,33 +78,42 @@
 }
 
 .RktErr {
-  color: red;
+  color: #f00;
   font-style: italic;
 }
 
 .RktVar {
-  color: #262680;
+position: relative;
+left: -1px; /* so it doesn't run into s addded to end for plurals */
   font-style: italic;
 }
 
-.RktSym {
-  color: #262680;
+
+.RktVar:before {
+/*    content: "‹"; */
 }
 
-.RktValLink {
-  text-decoration: none;
-  color: blue;
+.RktVar:after {
+ /*   content: "›"; */
 }
 
-.RktModLink {
+
+.RktValLink, .RktStxLink, .RktModLink {
   text-decoration: none;
-  color: blue;
+    color: #444;
+  font-weight: 700;
+  
 }
 
-.RktStxLink {
-  text-decoration: none;
-  color: black;
-  /* font-weight: bold; */
+
+/* for syntax links within headings */
+h2 .stt, h3 .stt, h4 .stt, h5 .stt, 
+h2 a.RktStxLink, h3 a.RktStxLink, h4 a.RktStxLink, h5 a.RktStxLink,
+h2 .RktSym, h3 .RktSym, h4 .RktSym, h5 .RktSym,
+h2 .RktMod, h3 .RktMod, h4 .RktMod, h5 .RktMod,
+h2 .RktVal, h3 .RktVal, h4 .RktVal, h5 .RktVal {
+    font-size: 1.5rem;
+    font-weight: 400;
 }
 
 .RktRes {
@@ -112,7 +121,7 @@
 }
 
 .RktOut {
-  color: #960096;
+ color: #a0a;
 }
 
 .RktCmt {
@@ -120,7 +129,7 @@
 }
 
 .RktVal {
-  color: #228b22;
+  color: #080;
 }
 
 /* ---------------------------------------- */
@@ -142,7 +151,7 @@
 }
 
 .RktBlk {
-  white-space: inherit;
+  white-space: normal;
   text-align: left;
 }
 
@@ -160,24 +169,35 @@
 }
 
 .highlighted {
-  background-color: #ddddff;
+  background-color: #fee;
 }
 
 .defmodule {
-  width: 100%;
-  background-color: #F5F5DC;
+  font-family: "Source Code Pro";
+  font-size: 0.82rem;
+    padding: 0 0.25em 0 0.25em;
+    width: 100%;
+    background: #fd9;
+}
+
+.defmodule td span.hspace:first-child {
+/* hack to neutralize nbspace at front */
+    position: absolute;
+    width: 0;
 }
 
 .specgrammar {
-  float: right;
+    padding-left: 1em;
 }
+
 
 .RBibliography td {
   vertical-align: text-top;
+  padding-top: 1em;
 }
 
-.leftindent {
- margin-left: 1em;
+.leftindent {/* why  does this exist? */
+ margin-left: 2rem; 
  margin-right: 0em;
 }
 
@@ -191,24 +211,21 @@
 
 .Rfiletitle {
   text-align: right;
-  margin: 0em 0em 0em 0em;
+  margin: 0em 0em 0.5em -1em;
+  border-top: 1px dotted gray;
+  border-right: 1px dotted gray;
+  background-color: #eee;
 }
 
 .Rfilename {
-  border-top: 1px solid #6C8585;
-  border-right: 1px solid #6C8585;
   padding-left: 0.5em;
   padding-right: 0.5em;
-  background-color: #ECF5F5;
 }
 
 .Rfilecontent {
   margin: 0em 0em 0em 0em;
 }
 
-.RpackageSpec {
-  padding-right: 0.5em;
-}
 
 /* ---------------------------------------- */
 /* For background labels */
@@ -225,9 +242,12 @@
    left: -25.5em;
    top: 0px;
    text-align: right;
-   color: white;
    z-index: 0;
-   font-weight: bold;
+   font-weight: 700;
+   font-family: "Source Code Pro";
+   font-size: 0.8rem;
+      color: #777;
+
 }
 
 .RForeground {
