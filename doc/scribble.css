@@ -68,6 +68,16 @@ These fonts are available under LGPL-compatible licenses and thus can be distrib
     font-style: normal;
 }
 
+/* italic used in 
+/doc/drracket/htdp-langs.html heading */
+
+@font-face {
+    font-family: 'Fira';
+    src: url('_fonts/fira/fira-300-italic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
 @font-face {
     font-family: 'Fira';
     src: url('_fonts/fira/fira-400.woff') format('woff');
@@ -90,51 +100,53 @@ These fonts are available under LGPL-compatible licenses and thus can be distrib
     font-style: normal;
 }
 
+    /* check woff versions vs. otf: otf has an em that matches charter better */
+
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-200.woff') format('woff');
+    src: url('_fonts/source-code-pro/source-code-pro-200.otf') format('truetype');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-300.woff') format('woff');
+    src: url('_fonts/source-code-pro/source-code-pro-300.otf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-400.woff') format('woff');
+    src: url('_fonts/source-code-pro/source-code-pro-400.otf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-500.woff') format('woff');
+    src: url('_fonts/source-code-pro/source-code-pro-500.otf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-600.woff') format('woff');
+    src: url('_fonts/source-code-pro/source-code-pro-600.otf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-700.woff') format('woff');
+    src: url('_fonts/source-code-pro/source-code-pro-700.otf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-800.woff') format('woff');
+    src: url('_fonts/source-code-pro/source-code-pro-800.otf') format('truetype');
     font-weight: 800;
     font-style: normal;
 }
@@ -198,7 +210,7 @@ will not extend off the screen. */
 p, .SIntrapara {
   display: block;
   margin: 0 0 1em 0;
-  line-height: 135%;
+  line-height: 140%;
 }
 
 
@@ -214,7 +226,8 @@ h1, h2, h3, h4, h5, h6, h7, h8 {
     color: #333;
     margin-bottom: 1rem;
     line-height: 125%;
-
+    /* todo: generalize ot feature */
+-webkit-font-feature-settings: 'tnum' 1;
 }
 
 h3, h4, h5, h6, h7, h8 {
@@ -227,7 +240,7 @@ h2 { /* per-page main title */
     font-family: "Miso";
     font-weight: bold;
     margin-top: 4rem;
-    font-size: 2.5rem;
+    font-size: 2.7rem;
     line-height: 115%;
     width: 90%;
 }
@@ -300,53 +313,75 @@ a:hover {
 
 .navsettop {
     position: fixed;
-    margin-left: 0rem;
-    width: 15rem;
-    background: #bbbbc5;
     left: 0;
-    top: 0rem;
-    height: 4rem;
+    top: 0;
+    width: 15rem;
+    height: 6rem;
+    background: #bbbbc5;
     font-family: "Fira";
-    border-bottom: 1px solid white;
-}
-
-
-.navleft, .navright {
     font-size: 0.9rem;
+    border-bottom: 3px solid #bbbbc5;
 }
+
+.navsettop a {
+    color: black;
+}
+
+.navsettop a:hover {
+    background: #aab;
+    text-decoration: none;
+}
+
+
+/* this selector gets the "top" link only */
+.navleft a {    
+    display: inline-block;
+}
+
+
+/* this selector gets the active links 
+among prev, next, and up */
+.navright a {    
+    display: inline-block;
+    text-align: center;
+}
+
+/* this selector gets the active and inactive links
+(which are rendered as spans) */
+.navleft a, .navright a, .navright span {
+    display: inline-block;
+    padding: 0.5rem;
+    min-width: 1rem;
+}
+
+
 
 .navright {
-    display:block;
-}   
-
-.navright a {
-    display: inline-block;
-    color: black;
-    padding: 0.5em;
+    height: 2rem;
 }
 
-.navright a:hover {
-}
 
 .navsetbottom {
     display: none;
 }
 
 .nonavigation {
-  color: #bbbbc5;
+  color: #888;
 }
 
 .searchform {
-  display: inline;
+  display: fixed;
   margin: 0;
   padding: 0;
+  border-bottom: 1px solid #eee;
+  height: 4rem;
 }
 
 .searchbox {
-  font-size: 0.9rem;
-  width: 9rem;
-  padding: 0.2em;
-  margin-top: 1rem;
+  font-size: 1rem;
+  width: 12rem;
+  margin: 1rem;
+  padding: 0.25rem;
   vertical-align: middle;
 }
 
@@ -372,11 +407,12 @@ a:hover {
 
 .versionbox {
   position: absolute;
-  top: 0rem;
-  left: 15rem; /* same distance as main-column */
+  top: 0.25rem;
+  left: 17rem; /* same distance as main-column */
   z-index: 11000;
   height: 2em;
   font-size: 70%;
+  font-weight: lighter;
 }
 .version:before, .versionNoNav:before {
   content: "v.";
@@ -388,19 +424,19 @@ a:hover {
 
 .refcolumn {
   display: block;
-  margin: 1.5em;
+  margin: 2rem;
   margin-left: 2rem;
-  margin-right: 0;
   padding: 0.5em;
   padding-left: 0.75em;
-  padding-right: 0.25em;
+  padding-right: 1em;
   background: #eeeef6;
+  border: 1px solid #ccccd6;
   border-left: 0.4rem solid #ccccd6;
 }
 
 
 .refcontent p {
-    line-height: 1.6em;
+    line-height: 1.5rem;
     margin: 0;
 }
 
@@ -432,11 +468,11 @@ a:hover {
 @media all and (min-width:1260px) {
     .refcolumn {
         position: absolute;
-        left: 1020px;
+        left: 66rem;
         right: 3em;
         margin: 0;
         float: right;
-        max-width: 260px;
+        max-width: 18rem;
     }
 }
 
@@ -474,22 +510,25 @@ a:hover {
 .tocset {
     position: absolute;
     left: 0;
-    top: 4rem;
+    top: 6rem;
     width: 14rem;
-    padding-top: 1rem;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    padding-bottom: 0.75em;
+    padding: 1rem 0.5rem 0.5rem 0.5rem;
     background-color: #bbbbc5;
+/*        background: linear-gradient(to right, #bbbbc0 0%, #bbc 100%);  */
+
 }
 
 
 
 .tocset td {
   vertical-align: text-top;
-  padding-bottom: 0.2rem;
-  padding-left: 0.1rem;
+  padding-bottom: 0.4rem;
+  padding-left: 0.2rem;
+  line-height: 110%;
     font-family: "Fira";
+        /* todo: generalize ot feature */
+-webkit-font-feature-settings: 'tnum' 1;
+
 }
 
 .tocset td a, .tocset .RktValLink, .tocset .RktStxLink {
@@ -498,7 +537,7 @@ a:hover {
 }
 
 .tocset .RktValLink, .tocset .RktStxLink {
-    font-size: 0.8rem;
+    font-size: 1rem;
 }
 
 .tocview {
@@ -513,8 +552,11 @@ a:hover {
 
 .tocset td a.tocviewselflink,
 .tocset td a.tocviewselflink .RktValLink,
-.tocset td a.tocviewselflink .RktStxLink {
-    font-weight: normal;
+.tocset td a.tocviewselflink .RktStxLink,
+.tocset td a.tocviewselflink .RktMod, 
+.tocset td a.tocviewselflink .RktSym {
+    font-size: 110%;
+    font-weight: lighter;
     color: white;
 }
 
@@ -532,7 +574,6 @@ a:hover {
 .tocviewlist table {
   font-size: 82%;
 }
-
 
 .tocviewlisttopspace {
   margin-bottom: 1em;
@@ -581,7 +622,7 @@ a:hover {
 .tocsubnonseclink {
   font-size: 82%;
   text-decoration: none;
-  padding-left: 0.5em;
+  padding-left: 1.2em;
 }
 
 .tocsubtitle {
@@ -652,7 +693,6 @@ ol ol ol ol { list-style-type: upper-alpha; }
 }
 
 
-
 .SVInsetFlow {
     margin-top: 2em;
     padding: 0.25em;
@@ -661,7 +701,7 @@ ol ol ol ol { list-style-type: upper-alpha; }
        border-top: 1px solid #ccc;
         border-bottom: 2px solid #f8f8f8; 
     font-weight: 500;
-/*    background: linear-gradient(to bottom right, #fff 0%, #fcfcfc 100%); */
+    background: linear-gradient(to bottom, #fcfcfc 0%, #f6f6f6 100%); 
 }
 
 .leftindent .SVInsetFlow { /* see e.g. section 4.5 of Racket Guide */
@@ -739,7 +779,8 @@ ol ol ol ol { list-style-type: upper-alpha; }
     font-family: "Fira";
     font-weight: 300;
     font-size: 110%;
-    margin-bottom: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
 }
 
 .author > a { /* email links within author block */

@@ -2,6 +2,8 @@
 /* See the beginning of "scribble.css". */
 
 /* Monospace: */
+
+/* ack! this is a job for multiple class inheritance */
 .RktIn, .RktRdr, .RktPn, .RktMeta,
 .RktMod, .RktKw, .RktVar, .RktSym,
 .RktRes, .RktOut, .RktCmt, .RktVal,
@@ -53,6 +55,13 @@
   background-color: #eee;
 }
 
+
+/* todo: make special highlight color within refcolumn */
+/* see e.g. /doc/guide/regexp-intro.html */
+.refcolumn .RktInBG {
+  background-color: white;
+}
+
 .RktRdr {
 }
 
@@ -80,6 +89,7 @@
 .RktErr {
   color: #f00;
   font-style: italic;
+  font-weight: 400;
 }
 
 .RktVar {
@@ -109,19 +119,24 @@ left: -1px; /* so it doesn't run into s addded to end for plurals */
 /* for syntax links within headings */
 h2 .stt, h3 .stt, h4 .stt, h5 .stt, 
 h2 a.RktStxLink, h3 a.RktStxLink, h4 a.RktStxLink, h5 a.RktStxLink,
+h2 a.RktValLink, h3 a.RktValLink, h4 a.RktValLink, h5 a.RktValLink,
 h2 .RktSym, h3 .RktSym, h4 .RktSym, h5 .RktSym,
 h2 .RktMod, h3 .RktMod, h4 .RktMod, h5 .RktMod,
-h2 .RktVal, h3 .RktVal, h4 .RktVal, h5 .RktVal {
-    font-size: 1.5rem;
+h2 .RktVal, h3 .RktVal, h4 .RktVal, h5 .RktVal,
+h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
+    color: #444;
+    font-size: 1.65rem;
     font-weight: 400;
 }
 
 .RktRes {
   color: #0000af;
+  font-weight: 500;
 }
 
 .RktOut {
- color: #a0a;
+ color: #909;
+ font-weight: bolder;
 }
 
 .RktCmt {
@@ -173,11 +188,17 @@ h2 .RktVal, h3 .RktVal, h4 .RktVal, h5 .RktVal {
 }
 
 .defmodule {
+/* todo: why different vertical spacing in
+/doc/reference/streams.html vs.
+/doc/reference/Generators.html ? */
   font-family: "Source Code Pro";
-  font-size: 0.82rem;
-    padding: 0 0.25em 0 0.25em;
+    padding: 0.25rem 0.5rem 0.5rem 0.5rem ;
+    margin-bottom: 1rem;
     width: 100%;
-    background: #fd9;
+    background: #ffe;
+    background: linear-gradient(to bottom, #fffff6 0%, #ffe 100%); 
+
+    border-top: 1px solid #fdb;
 }
 
 .defmodule td span.hspace:first-child {
@@ -245,7 +266,7 @@ h2 .RktVal, h3 .RktVal, h4 .RktVal, h5 .RktVal {
    z-index: 0;
    font-weight: 700;
    font-family: "Source Code Pro";
-   font-size: 0.8rem;
+   font-size: 1rem;
       color: #777;
 
 }
