@@ -7,6 +7,7 @@ The files in this repo can be previewed as web pages:
 
 http://mbutterick.github.io/racket-doc-redo/doc/
 
+Or you can clone the repo and view it locally.
 
 **FAQ**
 
@@ -17,3 +18,7 @@ A: Because the documentation & CSS live in separate parts of the main repo until
 Q: Why doesn't this repo show the current documentation?
 
 A: I copied some docs from the v.5.90.0.9 build. This repo is otherwise disconnected from the main repo.
+
+Q: Why is the font file so big?
+
+A: Don't panic. The fonts will be optimized later. For now, they are base64 encoded and embedded in CSS because github pages apparently won't serve standalone webfont files.
