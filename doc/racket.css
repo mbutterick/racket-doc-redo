@@ -8,7 +8,7 @@
 .RktBlk, .stt, .RktErr {
   font-family: "Source Code Pro", monospace;
   white-space: inherit;
-    font-size: 0.82rem;
+    font-size: 1rem;
 }
 
 /* Serif: */

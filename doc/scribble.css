@@ -92,49 +92,49 @@ These fonts are available under LGPL-compatible licenses and thus can be distrib
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-200.otf') format('truetype');
+    src: url('_fonts/source-code-pro/source-code-pro-200.woff') format('woff');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-300.otf') format('truetype');
+    src: url('_fonts/source-code-pro/source-code-pro-300.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-400.otf') format('truetype');
+    src: url('_fonts/source-code-pro/source-code-pro-400.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-500.otf') format('truetype');
+    src: url('_fonts/source-code-pro/source-code-pro-500.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-600.otf') format('truetype');
+    src: url('_fonts/source-code-pro/source-code-pro-600.woff') format('woff');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-700.otf') format('truetype');
+    src: url('_fonts/source-code-pro/source-code-pro-700.woff') format('woff');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-800.otf') format('truetype');
+    src: url('_fonts/source-code-pro/source-code-pro-800.woff') format('woff');
     font-weight: 800;
     font-style: normal;
 }
@@ -146,8 +146,20 @@ margin: 0;
 padding: 0;
 }
 
-@media all {html {font-size: 18px;}}@media all and (max-width:1000px){html {font-size: 18px;}}@media all and (max-width:960px){html {font-size: 18px;}}@media all and (max-width:920px){html {font-size: 18px;}}@media all and (max-width:880px){html {font-size: 18px;}}@media all and (max-width:840px){html {font-size: 18px;}}@media all and (max-width:800px){html {font-size: 17px;}}@media all and (max-width:760px){html {font-size: 16px;}}@media all and (max-width:720px){html {font-size: 15px;}}@media all and (max-width:680px){html {font-size: 14px;}}@media all and (max-width:640px){html {font-size: 13px;}}@media all and (max-width:600px){html {font-size: 12px;}}@media all and (max-width:560px){html {font-size: 12px;}}@media all and (max-width:520px){html {font-size: 12px;}}
+/* define the root em, scaling down for narrower screens */
+/* this is calibrated so that a 72 character monospaced code sample in the main column
+will not extend off the screen. */
+@media all {html {font-size: 15px;}}
+@media all and (max-width:920px){html {font-size: 14px;}}
+@media all and (max-width:860px){html {font-size: 13px;}}
+@media all and (max-width:800px){html {font-size: 12px;}}
+@media all and (max-width:740px){html {font-size: 11px;}}
+@media all and (max-width:680px){html {font-size: 10px;}}
+@media all and (max-width:600px){html {font-size: 9px;}}
 
+
+/*@media all and (max-width:1000px){html {font-size: 18px;}}@media all and (max-width:960px){html {font-size: 18px;}}@media all and (max-width:920px){html {font-size: 18px;}}@media all and (max-width:880px){html {font-size: 18px;}}@media all and (max-width:840px){html {font-size: 18px;}}@media all and (max-width:800px){html {font-size: 17px;}}@media all and (max-width:760px){html {font-size: 16px;}}@media all and (max-width:720px){html {font-size: 15px;}}@media all and (max-width:680px){html {font-size: 14px;}}@media all and (max-width:640px){html {font-size: 13px;}}@media all and (max-width:600px){html {font-size: 12px;}}@media all and (max-width:560px){html {font-size: 12px;}}@media all and (max-width:520px){html {font-size: 12px;}}
+*/
 
 
 /* CSS seems backward: List all the classes for which we want a
@@ -168,6 +180,7 @@ padding: 0;
 /* Serif: */
 .main, .refcontent, .tocview, .tocsub, .sroman, i {
   font-family: "Charter", serif;
+  font-size: 1.2rem;
 }
 
 /* Sans-serif: */
@@ -189,8 +202,6 @@ p, .SIntrapara {
 }
 
 
-
-
 li {
     list-style-position: outside;
     margin-left: 1.2em;
@@ -199,7 +210,7 @@ li {
 h1, h2, h3, h4, h5, h6, h7, h8 {
     font-family: "Fira";
     font-weight: 300;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     color: #333;
     margin-bottom: 1rem;
     line-height: 125%;
@@ -253,6 +264,7 @@ table p {
 /* Main */
 
 body {
+text-rendering:optimizeLegibility;
   color: black;
   background-color: #ffffff;
 }
@@ -264,7 +276,7 @@ table td {
 
 .maincolumn {
   margin-top: 4rem;
-  margin-left: 15rem;
+  margin-left: 17rem;
   margin-right: 2rem;
   margin-bottom: 10rem; /* to avoid fixed bottom nav bar */
   max-width: 700px;
@@ -289,9 +301,7 @@ a:hover {
 .navsettop {
     position: fixed;
     margin-left: 0rem;
-    width: 12rem;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
+    width: 15rem;
     background: #bbbbc5;
     left: 0;
     top: 0rem;
@@ -388,9 +398,10 @@ a:hover {
   border-left: 0.4rem solid #ccccd6;
 }
 
+
 .refcontent p {
-    margin: 0;
     line-height: 1.6em;
+    margin: 0;
 }
 
 .refcontent p + p {
@@ -431,7 +442,7 @@ a:hover {
 
 .refcontent {
   font-family: "Fira";
-  font-size: 0.85rem;
+  font-size: 1rem;
   line-height: 160%;
   margin: 0 0 0 0;
 }
@@ -464,7 +475,7 @@ a:hover {
     position: absolute;
     left: 0;
     top: 4rem;
-    width: 12rem;
+    width: 14rem;
     padding-top: 1rem;
     padding-left: 0.5em;
     padding-right: 0.5em;
@@ -577,7 +588,7 @@ a:hover {
   display: none;
   font-size: 82%;
   font-family: "Fira";
-  font-style: bolder;
+  font-weight: bolder;
   margin: 0.2em;
 }
 
