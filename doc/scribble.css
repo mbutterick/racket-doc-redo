@@ -1,156 +1,4 @@
-/* define fonts */
-/* provisional method. Later: use external files */
-/* question: where to store fonts? should be within doc,
-but not use a name that a package might want in the future. 
-
-The font-family declarations deliberately omit the 'local' option. The CSS wants to use the local Racket woff fonts, rather than local versions with the same name that potentially have slightly different metrics, char sets, etc. and would produce different layout results. For instance, a version of Charter now ships with OS X 10.9 that matches the iOS version.
-
-These fonts are available under LGPL-compatible licenses and thus can be distributed with Racket.
-*/
-
-
-@font-face {
-	font-family: 'Miso';
-	src: url('_fonts/miso/miso-light.woff') format('woff');
-	font-weight: light;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Miso';
-	src: url('_fonts/miso/miso-bold.woff') format('woff');
-	font-weight: bold;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Miso';
-	src: url('_fonts/miso/miso-regular.woff') format('woff');
-	font-weight: normal;
-	font-style: normal;
-}
-
-
-@font-face {
-    font-family: 'Charter';
-    src: url('_fonts/charter/charter-bold-italic.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Charter';
-    src: url('_fonts/charter/charter-bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-}
-
-
-@font-face {
-    font-family: 'Charter';
-    src: url('_fonts/charter/charter-italic.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-}
-
-
-@font-face {
-    font-family: 'Charter';
-    src: url('_fonts/charter/charter-regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Fira';
-    src: url('_fonts/fira/fira-300.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-}
-
-/* italic used in 
-/doc/drracket/htdp-langs.html heading */
-
-@font-face {
-    font-family: 'Fira';
-    src: url('_fonts/fira/fira-300-italic.woff') format('woff');
-    font-weight: 300;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Fira';
-    src: url('_fonts/fira/fira-400.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Fira';
-    src: url('_fonts/fira/fira-500.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-}
-
-
-@font-face {
-    font-family: 'Fira';
-    src: url('_fonts/fira/fira-600.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
-}
-
-    /* check woff versions vs. otf: otf has an em that matches charter better */
-
-@font-face {
-    font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-200.otf') format('truetype');
-    font-weight: 200;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-300.otf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-400.otf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-500.otf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-600.otf') format('truetype');
-    font-weight: 600;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-700.otf') format('truetype');
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Source Code Pro';
-    src: url('_fonts/source-code-pro/source-code-pro-800.otf') format('truetype');
-    font-weight: 800;
-    font-style: normal;
-}
-
+@import url("scribble-fonts.css");
 
 /* reset margins & padding for all elements */
 * {
@@ -625,12 +473,15 @@ among prev, next, and up */
   padding-left: 1.2em;
 }
 
+/* the label "on this page" */
 .tocsubtitle {
-  display: none;
-  font-size: 82%;
+  display: block;
+  font-size: 62%;
   font-family: "Fira";
   font-weight: bolder;
-  margin: 0.2em;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin: 0.5em;
 }
 
 .toptoclink {
