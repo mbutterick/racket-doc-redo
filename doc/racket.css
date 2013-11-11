@@ -118,9 +118,9 @@ left: -1px; /* so it doesn't run into s addded to end for plurals */
 
 .RktValLink, .RktStxLink, .RktModLink {
   text-decoration: none;
-    color: #444;
-  font-weight: 700;
-  
+    color: #068;
+    font-weight: 500;  
+    
 }
 
 
@@ -139,7 +139,6 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
 
 .RktRes {
   color: #0000af;
-  font-weight: 500;
 }
 
 .RktOut {
@@ -199,10 +198,14 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
 /doc/reference/streams.html vs.
 /doc/reference/Generators.html ? */
   font-family: "Source Code Pro";
-    padding: 0.25rem 0.5rem 0.25rem 0.5rem ;
+    padding: 0.25rem 0.75rem 0.5rem 0.5rem ;
     margin-bottom: 1rem;
     width: 100%;
     background: #f5f5ec;
+}
+
+.defmodule a {
+    color: #444;
 }
 
 .defmodule td span.hspace:first-child {
@@ -272,7 +275,13 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
    font-family: "Source Code Pro";
    font-size: 0.9rem;
     color: black;
+}
 
+
+.RpackageSpec .Smaller, .RpackageSpec .stt {
+   font-weight: 300;
+   font-family: "Source Code Pro";
+   font-size: 0.9rem;
 }
 
 .RForeground {

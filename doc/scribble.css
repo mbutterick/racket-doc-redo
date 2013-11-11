@@ -31,6 +31,10 @@ will not extend off the screen. */
     font-size: 1rem;
 }
 
+.stt {
+    font-weight: 500;
+}
+
 
 /* Serif: */
 .main, .refcontent, .tocview, .tocsub, .sroman, i {
@@ -470,7 +474,8 @@ among prev, next, and up */
 .tocsubnonseclink {
   font-size: 82%;
   text-decoration: none;
-  padding-left: 1.2em;
+  margin-left: 1rem;
+  display: inline-block;
 }
 
 /* the label "on this page" */
@@ -539,9 +544,6 @@ ol ol ol ol { list-style-type: upper-alpha; }
   white-space: nowrap;  */
 }
 
-.SCodeFlow a {
-    color: #444;
-}
 
 
 .SVInsetFlow {
@@ -549,9 +551,8 @@ ol ol ol ol { list-style-type: upper-alpha; }
     padding: 0.25em;
     background: #f3f3f3;
     box-sizing:border-box;
-    border-top: 1px solid gray;
-    font-weight: 500;
-    background: linear-gradient(to top left, #fcfcfc 0%, #e8e8fc 100%); 
+    border-top: 1px solid #99b;
+    background: linear-gradient(to top left, #fcfcfc 0%, #e8f3fc 100%); 
 }
 
 .leftindent .SVInsetFlow { /* see e.g. section 4.5 of Racket Guide */
@@ -559,14 +560,38 @@ ol ol ol ol { list-style-type: upper-alpha; }
     margin-bottom: 1em;
 }
 
-.SVInsetFlow a {
-    color: #444;
+.SVInsetFlow a, .SCodeFlow a {
+    color: #068;
+    font-weight: 500;
 }
 
 .SVInsetFlow .RktVar {
     font-weight: 400;
     color: #444;
 }
+
+/* this selctor grabs the first linked Racket symbol
+in a definition box (i.e., the symbol being defined) */
+.SVInsetFlow .RktSym:first-child a {
+    font-size: 1.15rem;
+    color: black;
+    font-weight: 600;
+/*    border: 1px solid green; */
+}
+
+/* the above selector is slightly overinclusive,
+so this corrects it */ 
+.SVInsetFlow .argcontract .RktSym:first-child a,
+.SVInsetFlow td + td > .RktSym:first-child a,  /* see bytes-copy! */
+.SVInsetFlow tr + tr > td > .RktSym:first-child a
+{ 
+    font-size: inherit;
+    color: inherit;
+    font-weight: inherit;
+/*    border: 1px solid red; */
+}
+
+
 
 .SubFlow {
   display: block;
@@ -614,6 +639,7 @@ ol ol ol ol { list-style-type: upper-alpha; }
 .mywbr {
     display: inline-block; /* counter-hack to make it work better in ML Chrome */
   width: 0;
+  height: 0;
   font-size: 1px;
 }
 
@@ -655,10 +681,10 @@ ol ol ol ol { list-style-type: upper-alpha; }
 
 @media all and (max-width:680px){
     html {font-size: 14px;}
-    @media all and (max-width:620px){html {font-size: 13px;}}
-    @media all and (max-width:560px){html {font-size: 12px;}}
-    @media all and (max-width:500px){html {font-size: 11px;}}
-    @media all and (max-width:440px){html {font-size: 10px;}}
+    @media all and (max-width:630px){html {font-size: 13px;}}
+    @media all and (max-width:580px){html {font-size: 12px;}}
+    @media all and (max-width:530px){html {font-size: 11px;}}
+    @media all and (max-width:48chrom0px){html {font-size: 10px;}}
     
     .navsettop, .navsetbottom {
         display: block;
