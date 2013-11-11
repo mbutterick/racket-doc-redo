@@ -27,8 +27,9 @@ will not extend off the screen. */
 /* Monospace: */
 .maincolumn, .refpara, .refelem, .tocset, .stt, .hspace, .refparaleft, .refelemleft {
   font-family: "Source Code Pro", monospace;
+  white-space: inherit;
+    font-size: 1rem;
 }
-
 
 
 /* Serif: */
@@ -82,7 +83,7 @@ h2 { /* per-page main title */
     font-family: "Miso";
     font-weight: bold;
     margin-top: 4rem;
-    font-size: 2.7rem;
+    font-size: 3rem;
     line-height: 115%;
     width: 90%;
 }
@@ -153,10 +154,8 @@ a:hover {
 /* ---------------------------------------- */
 /* Navigation */
 
-.navsettop {
-    position: fixed;
+.navsettop, .navsetbottom {
     left: 0;
-    top: 0;
     width: 15rem;
     height: 6rem;
     background: #bbbbc5;
@@ -165,11 +164,16 @@ a:hover {
     border-bottom: 3px solid #bbbbc5;
 }
 
-.navsettop a {
+.navsettop {
+    position: fixed;
+    top: 0;
+}
+
+.navsettop a, .navsetbottom a {
     color: black;
 }
 
-.navsettop a:hover {
+.navsettop a:hover, .navsetbottom a:hover {
     background: #aab;
     text-decoration: none;
 }
@@ -197,9 +201,9 @@ among prev, next, and up */
 }
 
 
-
 .navright {
     height: 2rem;
+    white-space: nowrap;
 }
 
 
@@ -271,9 +275,9 @@ among prev, next, and up */
   padding: 0.5em;
   padding-left: 0.75em;
   padding-right: 1em;
-  background: #eeeef6;
-  border: 1px solid #ccccd6;
-  border-left: 0.4rem solid #ccccd6;
+    background: #f5f5ec;
+  border: 1px solid #ccb;
+  border-left: 0.4rem solid #ccb;
 }
 
 
@@ -391,13 +395,14 @@ among prev, next, and up */
     line-height: 1.5em;
 }
 
-
+.tocset td a.tocviewselflink {
+    font-size: 110%; /* monospaced styles below don't need to enlarge */
+}
 .tocset td a.tocviewselflink,
 .tocset td a.tocviewselflink .RktValLink,
 .tocset td a.tocviewselflink .RktStxLink,
 .tocset td a.tocviewselflink .RktMod, 
 .tocset td a.tocviewselflink .RktSym {
-    font-size: 110%;
     font-weight: lighter;
     color: white;
 }
@@ -432,7 +437,8 @@ among prev, next, and up */
 .tocviewsublist table,
 .tocviewsublistonly table,
 .tocviewsublisttop table,
-.tocviewsublistbottom table {
+.tocviewsublistbottom table,
+.tocsublist table {
   font-size: 75%;
 }
 
@@ -443,8 +449,8 @@ among prev, next, and up */
 }
 
 .tocsublist td {
-  padding-left: 1em;
-  text-indent: -1em;
+  padding-left: 0.5rem;
+  padding-top: 0.25rem;
 }
 
 .tocsublinknumber {
@@ -543,10 +549,9 @@ ol ol ol ol { list-style-type: upper-alpha; }
     padding: 0.25em;
     background: #f3f3f3;
     box-sizing:border-box;
-    border-top: 1px solid #ccc;
-    border-bottom: 2px solid #f8f8f8; 
+    border-top: 1px solid gray;
     font-weight: 500;
-    background: linear-gradient(to bottom, #fcfcfc 0%, #f6f6f6 100%); 
+    background: linear-gradient(to top left, #fcfcfc 0%, #e8e8fc 100%); 
 }
 
 .leftindent .SVInsetFlow { /* see e.g. section 4.5 of Racket Guide */
@@ -607,9 +612,11 @@ ol ol ol ol { list-style-type: upper-alpha; }
 
 /* A hack, inserted to break some Scheme ids: */
 .mywbr {
+    display: inline-block; /* counter-hack to make it work better in ML Chrome */
   width: 0;
   font-size: 1px;
 }
+
 
 .compact li p {
   margin: 0em;
@@ -647,13 +654,13 @@ ol ol ol ol { list-style-type: upper-alpha; }
 /* phone + tablet styles */
 
 @media all and (max-width:680px){
-    html {font-size: 15px;}
-    @media all and (max-width:620px){html {font-size: 14px;}}
-    @media all and (max-width:560px){html {font-size: 13px;}}
-    @media all and (max-width:500px){html {font-size: 12px;}}
-    @media all and (max-width:440px){html {font-size: 11px;}}
+    html {font-size: 14px;}
+    @media all and (max-width:620px){html {font-size: 13px;}}
+    @media all and (max-width:560px){html {font-size: 12px;}}
+    @media all and (max-width:500px){html {font-size: 11px;}}
+    @media all and (max-width:440px){html {font-size: 10px;}}
     
-    .navsettop {
+    .navsettop, .navsetbottom {
         display: block;
         position: absolute;
         width: 100%;
@@ -672,14 +679,47 @@ ol ol ol ol { list-style-type: upper-alpha; }
         margin-top: 1rem;
         border: 0px solid red;
     }
+    
+    .navsetbottom {
+        display: block;
+        margin-top: 8rem;
+    }
 
     .tocset {
+        display: none; /* until this is sorted */
+        position: relative;
+        width: 100%;
+        height: 8rem;
+        -webkit-columns: 3;
+        overflow: auto;
+    }
+    
+    .tocset table, .tocset tbody, .tocset tr, .tocset td {
+        display: inline;
+    }
+    
+    .tocview {
         display: none;
     }
+    
+    .tocsub .tocsubtitle {
+        display: none;
+    }
+    
+    .versionbox {
+        top: 4.5rem;
+        left: 1rem; /* same distance as main-column */
+        z-index: 11000;
+        height: 2em;
+        font-size: 70%;
+        font-weight: lighter;
+    }
+    
     
     .maincolumn {
         margin-left: 1em;
         margin-top: 7rem;
+        margin-bottom: 0rem;
     }
     
 
