@@ -124,7 +124,7 @@ table p {
 /* Main */
 
 body {
-text-rendering:optimizeLegibility;
+/* text-rendering:optimizeLegibility; */ /* this causes problems with Source Code Pro in Chrome */
   color: black;
   background-color: #ffffff;
 }
