@@ -539,7 +539,7 @@ ol ol ol ol { list-style-type: upper-alpha; }
     margin-left: 0em;
     margin-right: 2em;
     white-space: nowrap;
-    line-height: 1.4rem;
+    line-height: 1.4em;
 /*
   display: block;
   margin-left: 1em;
@@ -554,10 +554,11 @@ ol ol ol ol { list-style-type: upper-alpha; }
 .SVInsetFlow {
     margin-top: 2em;
     padding: 0.25em;
+    padding-bottom: 0.5em;
     background: #f3f3f3;
     box-sizing:border-box;
     border-top: 1px solid #99b;
-    background: linear-gradient(to top left, #fcfcfc 0%, #e8f3fc 100%); 
+    background: linear-gradient(to bottom left, #fcfcfc 0%, #e8f0fc 100%); 
 }
 
 .leftindent .SVInsetFlow { /* see e.g. section 4.5 of Racket Guide */
@@ -566,7 +567,7 @@ ol ol ol ol { list-style-type: upper-alpha; }
 }
 
 .SVInsetFlow a, .SCodeFlow a {
-    color: #068;
+    color: #07a;
     font-weight: 500;
 }
 
@@ -687,10 +688,10 @@ so this corrects it */
 
 @media all and (max-width:720px){
     html {font-size: 14px;}
-    @media all and (max-width:630px){html {font-size: 13px;}}
-    @media all and (max-width:580px){html {font-size: 12px;}}
-    @media all and (max-width:530px){html {font-size: 11px;}}
-    @media all and (max-width:48chrom0px){html {font-size: 10px;}}
+    @media all and (max-width:650px){html {font-size: 13px;}}
+    @media all and (max-width:600px){html {font-size: 12px;}}
+    @media all and (max-width:550px){html {font-size: 11px;}}
+    @media all and (max-width:500px){html {font-size: 10px;}}
     
     .navsettop, .navsetbottom {
         display: block;

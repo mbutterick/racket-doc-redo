@@ -118,11 +118,10 @@ left: -1px; /* so it doesn't run into s addded to end for plurals */
 
 .RktValLink, .RktStxLink, .RktModLink {
   text-decoration: none;
-    color: #068;
+    color: #07a;
     font-weight: 500;  
-    
+    font-size: 1rem;
 }
-
 
 /* for syntax links within headings */
 h2 .stt, h3 .stt, h4 .stt, h5 .stt, 
