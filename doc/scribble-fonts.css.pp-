@@ -1,0 +1,38 @@
+#lang planet mb/pollen
+◊(require (planet mb/pollen/library/css))
+
+◊; define fonts
+◊; provisional method. Later: use external files 
+◊; question: where to store fonts? should be within doc,
+◊; but not use a name that a package might want in the future. 
+
+◊; The font-family declarations deliberately omit the 'local' option. The CSS wants to use the local Racket woff fonts, rather than local versions with the same name that potentially have slightly different metrics, char sets, etc. and would produce different layout results. For instance, a version of Charter now ships with OS X 10.9 that matches the iOS version.
+
+◊; These fonts are available under LGPL-compatible licenses and thus can be distributed with Racket.
+
+◊(define do-base64 #t)
+◊(define font-dir "_fonts/")
+
+◊; Miso
+◊;(font-face-declaration "Miso" (string-append font-dir "miso/miso-light.woff") #:font-weight "light" #:base64 do-base64)
+◊;(font-face-declaration "Miso" (string-append font-dir "miso/miso-regular.woff") #:base64 do-base64)
+◊(font-face-declaration "Miso" (string-append font-dir "miso/miso-bold.woff") #:font-weight "bold" #:base64 do-base64)
+
+◊; Charter
+◊(font-face-declaration "Charter" (string-append font-dir "charter/charter-regular.woff") #:base64 do-base64)
+◊(font-face-declaration "Charter" (string-append font-dir "charter/charter-italic.woff") #:font-style "italic"  #:base64 do-base64)
+◊(font-face-declaration "Charter" (string-append font-dir "charter/charter-bold.woff") #:font-weight "bold" #:base64 do-base64)
+◊(font-face-declaration "Charter" (string-append font-dir "charter/charter-bold-italic.woff") #:font-weight "bold" #:font-style "italic" #:base64 do-base64)
+
+
+◊; Fira
+◊(define fira-weights '("300" "400" "500" "600"))
+◊(map (λ(weight) (font-face-declaration "Fira" (string-append font-dir "fira/fira-" weight ".woff") #:font-weight weight #:base64 do-base64)) fira-weights)
+
+◊(font-face-declaration "Fira" (string-append font-dir "fira/fira-300-italic.woff") #:font-weight 
+"300" #:font-style "italic" #:base64 do-base64)
+
+
+◊; Source Code Pro
+◊(define scp-weights '("300" "400" "500" "600"))
+◊(map (λ(weight) (font-face-declaration "Source Code Pro" (string-append font-dir "source-code-pro/source-code-pro-" weight ".otf") #:font-weight weight #:base64 do-base64)) scp-weights)

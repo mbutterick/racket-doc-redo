@@ -1,3 +1,6 @@
+#lang planet mb/pollen
+◊(require (planet mb/pollen/library/css))
+
 /* See the beginning of "scribble.css". */
 
 /* Monospace: */
@@ -7,7 +10,7 @@
 .RktMod, .RktKw, .RktVar, .RktSym,
 .RktRes, .RktOut, .RktCmt, .RktVal,
 .RktBlk, .RktErr {
-  font-family: 'Source Code Pro', monospace;
+  font-family: ◊|rd-mono-family|, monospace;
   white-space: inherit;
     font-size: 1rem;
 }
@@ -57,6 +60,8 @@
 }
 
 
+◊; todo: make special highlight color within refcolumn 
+◊; see e.g. /doc/guide/regexp-intro.html 
 .refcolumn .RktInBG {
   background-color: white;
 }
@@ -93,7 +98,8 @@
 
 .RktVar {
 position: relative;
-left: -1px; font-style: italic;
+left: -1px; ◊; so it doesn't run into s addded to end for plurals 
+  font-style: italic;
     color: #444;
 
 }
@@ -106,20 +112,20 @@ left: -1px; font-style: italic;
 
 .RktValLink, .RktStxLink, .RktModLink {
   text-decoration: none;
-    color: #07A;
-    font-weight: 500;
+    color: ◊|rd-anchor-color|;
+    font-weight: 500;  
     font-size: 1rem;
 }
 
 /* for syntax links within headings */
-h2 .stt, h3 .stt, h4 .stt, h5 .stt,
+h2 .stt, h3 .stt, h4 .stt, h5 .stt, 
 h2 a.RktStxLink, h3 a.RktStxLink, h4 a.RktStxLink, h5 a.RktStxLink,
 h2 a.RktValLink, h3 a.RktValLink, h4 a.RktValLink, h5 a.RktValLink,
 h2 .RktSym, h3 .RktSym, h4 .RktSym, h5 .RktSym,
 h2 .RktMod, h3 .RktMod, h4 .RktMod, h5 .RktMod,
 h2 .RktVal, h3 .RktVal, h4 .RktVal, h5 .RktVal,
 h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
-    color: #333;
+    color: ◊|rd-heading-color|;
     font-size: 1.65rem;
     font-weight: 400;
 }
@@ -182,11 +188,12 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
 }
 
 .defmodule {
-font-family: 'Source Code Pro';
+◊; todo: why different vertical spacing in /doc/reference/streams.html vs. /doc/reference/Generators.html ? 
+  font-family: ◊|rd-mono-family|;
     padding: 0.25rem 0.75rem 0.5rem 0.5rem ;
     margin-bottom: 1rem;
     width: 100%;
-    background: hsl(60, 29%, 94%);
+    background: ◊|rd-pull-color|;
 }
 
 .defmodule a {
@@ -194,7 +201,8 @@ font-family: 'Source Code Pro';
 }
 
 .defmodule td span.hspace:first-child {
-position: absolute;
+◊; hack to neutralize nbspace at front 
+    position: absolute;
     width: 0;
 }
 
@@ -208,8 +216,8 @@ position: absolute;
   padding-top: 1em;
 }
 
-.leftindent {
- margin-left: 2rem;
+.leftindent { 
+ margin-left: 2rem; 
  margin-right: 0em;
 }
 
@@ -256,7 +264,7 @@ position: absolute;
    text-align: right;
    z-index: 0;
    font-weight: 300;
-   font-family: 'Source Code Pro';
+   font-family: ◊|rd-mono-family|;
    font-size: 0.9rem;
     color: gray;
 }
@@ -264,7 +272,7 @@ position: absolute;
 
 .RpackageSpec .Smaller, .RpackageSpec .stt {
    font-weight: 300;
-   font-family: 'Source Code Pro';
+   font-family: ◊|rd-mono-family|;
    font-size: 0.9rem;
 }
 

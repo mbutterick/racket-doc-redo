@@ -1,20 +1,20 @@
+#lang planet mb/pollen
+◊(require (planet mb/pollen/library/css))
 @import url("scribble-fonts.css");
 
+◊(define top-margin "4rem")
+◊(define left-margin "17rem")
 
-
-
+◊; reset margins & padding for all elements 
 * {
 margin: 0;
 padding: 0;
 }
 
+◊; define the root em, scaling down for narrower screens 
+◊; this is calibrated so that a 72 character monospaced code sample in the main column will not extend off the screen. 
 
-@media all {html {font-size: 15px;}}
-@media all and (max-width:980px){html {font-size: 15px;}}
-@media all and (max-width:920px){html {font-size: 14px;}}
-@media all and (max-width:860px){html {font-size: 13px;}}
-@media all and (max-width:800px){html {font-size: 12px;}}
-@media all and (max-width:740px){html {font-size: 11px;}}
+◊(make-media-query 15 11 980 60)   
 
 
 /* CSS seems backward: List all the classes for which we want a
@@ -27,7 +27,7 @@ padding: 0;
 
 /* Monospace: */
 .maincolumn, .refpara, .refelem, .tocset, .stt, .hspace, .refparaleft, .refelemleft {
-  font-family: 'Source Code Pro', monospace;
+  font-family: ◊|rd-mono-family|, monospace;
   white-space: inherit;
     font-size: 1rem;
 }
@@ -39,16 +39,16 @@ padding: 0;
 
 /* Serif: */
 .main, .refcontent, .tocview, .tocsub, .sroman, i {
-  font-family: 'Charter', serif;
+  font-family: ◊|rd-serif-family|, serif;
   font-size: 1.2rem;
 }
 
 /* Sans-serif: */
 .version, .versionNoNav, .ssansserif {
-  font-family: 'Fira', sans-serif;
+  font-family: ◊|rd-sans-family|, sans-serif;
 }
 .ssansserif {
-  font-family: 'Fira';
+  font-family: ◊|rd-sans-family|;
   font-weight: 500;
   font-size: 0.9em;
 }
@@ -65,22 +65,16 @@ p, .SIntrapara {
 li {
     list-style-position: outside;
     margin-left: 1.2em;
-}
+}   
 
 h1, h2, h3, h4, h5, h6, h7, h8 {
-    font-family: 'Fira';
+    font-family: ◊|rd-sans-family|;
     font-weight: 300;
     font-size: 1.6rem;
-    color: #333;
+    color: ◊|rd-heading-color|;
     margin-bottom: 1rem;
     line-height: 125%;
-    -moz-font-feature-settings: 'tnum=1';
--moz-font-feature-settings: 'tnum' 1;
--webkit-font-feature-settings: 'tnum' 1;
--o-font-feature-settings: 'tnum' 1;
--ms-font-feature-settings: 'tnum' 1;
-font-feature-settings: 'tnum' 1;
-
+    ◊(make-css-ot-features "tnum")
 }
 
 h3, h4, h5, h6, h7, h8 {
@@ -90,7 +84,7 @@ h3, h4, h5, h6, h7, h8 {
 
 
 h2 { /* per-page main title */
-    font-family: 'Miso';
+    font-family: ◊|rd-title-family|;
     font-weight: bold;
     margin-top: 4rem;
     font-size: 3rem;
@@ -122,7 +116,8 @@ table p {
 /* Main */
 
 body {
-color: black;
+◊; text-rendering:optimizeLegibility;  /* this causes problems with Source Code Pro in Chrome */
+  color: black;
   background-color: white;
 }
 
@@ -132,8 +127,8 @@ table td {
 }
 
 .maincolumn {
-  margin-top: 4rem;
-  margin-left: 17rem;
+  margin-top: ◊|top-margin|;
+  margin-left: ◊|left-margin|;
   margin-right: 2rem;
   margin-bottom: 10rem; /* to avoid fixed bottom nav bar */
   max-width: 700px;
@@ -159,10 +154,10 @@ a:hover {
     left: 0;
     width: 15rem;
     height: 6rem;
-    background-color: hsl(216, 15%, 70%);
-    font-family: 'Fira';
+    background-color: ◊|rd-nav-color|;
+    font-family: ◊|rd-sans-family|;
     font-size: 0.9rem;
-    border-bottom: 3px solid hsl(216, 15%, 70%);
+    border-bottom: 3px solid ◊|rd-nav-color|;
 }
 
 .navsettop {
@@ -180,16 +175,19 @@ a:hover {
 }
 
 
-.navleft a {
+◊; this selector gets the "top" link only 
+.navleft a {    
     display: inline-block;
 }
 
 
-.navright a {
+◊; this selector gets the active links among prev, next, and up 
+.navright a {    
     display: inline-block;
     text-align: center;
 }
 
+◊; this selector gets the active and inactive links (which are rendered as spans)
 .navleft a, .navright a, .navright span {
     display: inline-block;
     padding: 0.5rem;
@@ -216,7 +214,7 @@ a:hover {
   margin: 0;
   padding: 0;
   border-bottom: 1px solid #eee;
-  height: 4rem;
+  height: ◊|top-margin|;
 }
 
 .searchbox {
@@ -250,7 +248,7 @@ a:hover {
 .versionbox {
   position: absolute;
   top: 0.25rem;
-  left: 17rem;
+  left: ◊|left-margin|; 
   z-index: 11000;
   height: 2em;
   font-size: 70%;
@@ -271,7 +269,7 @@ a:hover {
   padding: 0.5em;
   padding-left: 0.75em;
   padding-right: 1em;
-    background: hsl(60, 29%, 94%);
+    background: ◊|rd-pull-color|;
   border: 1px solid #ccb;
   border-left: 0.4rem solid #ccb;
 }
@@ -310,7 +308,8 @@ a:hover {
 @media all and (min-width:1260px) {
     .refcolumn {
         position: absolute;
-        left: 66rem; right: 3em;
+        left: 66rem; ◊; todo: compute this
+        right: 3em;
         margin: 0;
         float: right;
         max-width: 18rem;
@@ -318,7 +317,7 @@ a:hover {
 }
 
 .refcontent {
-  font-family: 'Fira';
+  font-family: ◊|rd-sans-family|;
   font-size: 1rem;
   line-height: 160%;
   margin: 0 0 0 0;
@@ -335,12 +334,12 @@ a:hover {
 }
 
 .refcolumnleft {
-  background-color: hsl(60, 29%, 94%);
+  background-color: ◊|rd-pull-color|;
   display: block;
   position: relative;
   width: 13em;
   font-size: 85%;
-  border: 0.5em solid hsl(60, 29%, 94%);
+  border: 0.5em solid ◊|rd-pull-color|;
   margin: 0 0 0 0;
 }
 
@@ -354,7 +353,11 @@ a:hover {
     top: 6rem;
     width: 14rem;
     padding: 1rem 0.5rem 0.5rem 0.5rem;
-background-color: hsl(216, 15%, 70%);
+◊;    background-color: #bbbbc5;
+◊;    background-color: #e8f0fc;
+◊;    background-color: hsl(216, 78%, 95%)
+    background-color: ◊|rd-nav-color|;
+◊;        background: linear-gradient(to right, #bbbbc0 0%, #bbc 100%);  
 
 }
 
@@ -365,14 +368,8 @@ background-color: hsl(216, 15%, 70%);
     padding-bottom: 0.4rem;
     padding-left: 0.2rem;
     line-height: 110%;
-    font-family: 'Fira';
-    -moz-font-feature-settings: 'tnum=1';
--moz-font-feature-settings: 'tnum' 1;
--webkit-font-feature-settings: 'tnum' 1;
--o-font-feature-settings: 'tnum' 1;
--ms-font-feature-settings: 'tnum' 1;
-font-feature-settings: 'tnum' 1;
-
+    font-family: ◊|rd-sans-family|;
+    ◊(make-css-ot-features "tnum")
 }
 
 .tocset td a, .tocset .RktValLink, .tocset .RktStxLink {
@@ -404,7 +401,7 @@ font-feature-settings: 'tnum' 1;
 .tocset td a.tocviewselflink,
 .tocset td a.tocviewselflink .RktValLink,
 .tocset td a.tocviewselflink .RktStxLink,
-.tocset td a.tocviewselflink .RktMod,
+.tocset td a.tocviewselflink .RktMod, 
 .tocset td a.tocviewselflink .RktSym {
     font-weight: lighter;
     color: white;
@@ -481,7 +478,7 @@ font-feature-settings: 'tnum' 1;
 .tocsubtitle {
   display: block;
   font-size: 62%;
-  font-family: 'Fira';
+  font-family: ◊|rd-sans-family|;
   font-weight: bolder;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -496,7 +493,7 @@ font-feature-settings: 'tnum' 1;
 /* hack to add space around .toptoclink because markup is all td */
 .toptoclink:after {
     content: " ";
-    font-size: 3rem;
+    font-size: 3rem;    
 }
 
 
@@ -511,10 +508,10 @@ font-feature-settings: 'tnum' 1;
   white-space: nowrap;
 }
 
-pre {
+pre { 
 /*  margin-left: 2em; */
 }
-blockquote {
+blockquote { 
 /*  margin-left: 2em; */
  }
 
@@ -524,7 +521,8 @@ ol ol ol    { list-style-type: lower-roman; }
 ol ol ol ol { list-style-type: upper-alpha; }
 
 .SCodeFlow {
-border-left: 1px dotted black;
+◊;    background: linear-gradient(to right, #fafafb 0%, #fff 70%); 
+    border-left: 1px dotted black; 
     padding-left: 1em;
   padding-right: 1em;
     margin-top: 1em;
@@ -544,13 +542,10 @@ border-left: 1px dotted black;
     background: #f3f3f3;
     box-sizing:border-box;
     border-top: 1px solid #99b;
-background: hsl(0, 0%, 99%);
-background: -moz-linear-gradient(to top right, hsl(216, 78%, 95%) 0%, hsl(0, 0%, 99%) 100%);
-background: -webkit-linear-gradient(to top right, hsl(216, 78%, 95%) 0%, hsl(0, 0%, 99%) 100%);
-background: -o-linear-gradient(to top right, hsl(216, 78%, 95%) 0%, hsl(0, 0%, 99%) 100%);
-background: -ms-linear-gradient(to top right, hsl(216, 78%, 95%) 0%, hsl(0, 0%, 99%) 100%);
-background: linear-gradient(to top right, hsl(216, 78%, 95%) 0%, hsl(0, 0%, 99%) 100%);
-
+◊;    background: linear-gradient(to top right, hsl(216, 78%, 95%) 0%, hsl(0, 0%, 99%) 100%); 
+◊(make-css-background-gradient (list "hsl(216, 78%, 95%)" "hsl(0, 0%, 99%)") 
+                                         (list "0%" "100%")
+                                         #:direction "to top right")
 }
 
 .leftindent .SVInsetFlow { /* see e.g. section 4.5 of Racket Guide */
@@ -559,7 +554,7 @@ background: linear-gradient(to top right, hsl(216, 78%, 95%) 0%, hsl(0, 0%, 99%)
 }
 
 .SVInsetFlow a, .SCodeFlow a {
-    color: #07A;
+    color: ◊|rd-anchor-color|;
     font-weight: 500;
 }
 
@@ -574,14 +569,19 @@ in a definition box (i.e., the symbol being defined) */
     font-size: 1.15rem;
     color: black;
     font-weight: 600;
+◊;    border: 0px solid green; 
 }
 
+◊; the above selector is slightly overinclusive, so this corrects it 
 .SVInsetFlow .argcontract .RktSym:first-child a,
-.SVInsetFlow td + td > .RktSym:first-child a,  .SVInsetFlow tr + tr > td > .RktSym:first-child a,
-.SVInsetFlow table table table > tbody > tr > td .RktSym:first-child a {
+.SVInsetFlow td + td > .RktSym:first-child a,  ◊; see bytes-copy! 
+.SVInsetFlow tr + tr > td > .RktSym:first-child a,
+.SVInsetFlow table table table > tbody > tr > td .RktSym:first-child a ◊; see split-at-right
+{ 
     font-size: inherit;
     color: inherit;
     font-weight: inherit;
+◊;    border: 0px solid red; 
 }
 
 
@@ -630,7 +630,9 @@ in a definition box (i.e., the symbol being defined) */
 
 /* A hack, inserted to break some Scheme ids: */
 .mywbr {
-  display: inline-block; height: 0; width: 0;
+  display: inline-block; ◊; counter-hack to make it work better in ML Chrome 
+  height: 0; ◊; counter-hack to make it work better in ML Chrome 
+  width: 0;
   font-size: 1px;
 }
 
@@ -645,7 +647,7 @@ in a definition box (i.e., the symbol being defined) */
 }
 
 .SAuthorListBox {
-    font-family: 'Fira';
+    font-family: ◊|rd-sans-family|;
     font-weight: 300;
     font-size: 110%;
     margin-top: 1rem;
@@ -671,52 +673,55 @@ in a definition box (i.e., the symbol being defined) */
 /* phone + tablet styles */
 
 @media all and (max-width:720px){
-
-    @media all {html {font-size: 14px;}}
-@media all and (max-width:700px){html {font-size: 14px;}}
-@media all and (max-width:650px){html {font-size: 13px;}}
-@media all and (max-width:600px){html {font-size: 12px;}}
-@media all and (max-width:550px){html {font-size: 11px;}}
-@media all and (max-width:500px){html {font-size: 10px;}}
-
+    
+    ◊(make-media-query 14 10 700 50)   
+    
     .navsettop, .navsetbottom {
         display: block;
         position: absolute;
         width: 100%;
-        height: 4rem;
+        height: ◊|top-margin|;
         border: 0;
     }
-
+    
     .searchform {
         display: inline;
         border: 0;
     }
-
+    
     .navright {
         position: absolute;
         right: 1.5rem;
         margin-top: 1rem;
         border: 0px solid red;
     }
-
+    
     .navsetbottom {
         display: block;
         margin-top: 8rem;
     }
 
-
+◊;    .tocset {
+◊;        display: none; 
+◊;        position: relative;
+◊;        width: 100%;
+◊;        height: 8rem;
+◊;        -webkit-columns: 3;
+◊;        overflow: auto;
+◊;    }
+    
     .tocset table, .tocset tbody, .tocset tr, .tocset td {
         display: inline;
     }
-
+    
     .tocview {
         display: none;
     }
-
+    
     .tocsub .tocsubtitle {
         display: none;
     }
-
+    
     .versionbox {
         top: 4.5rem;
         left: 1rem; /* same distance as main-column */
@@ -725,14 +730,14 @@ in a definition box (i.e., the symbol being defined) */
         font-size: 70%;
         font-weight: lighter;
     }
-
-
+    
+    
     .maincolumn {
         margin-left: 1em;
         margin-top: 7rem;
         margin-bottom: 0rem;
     }
-
+    
 
 }
 
