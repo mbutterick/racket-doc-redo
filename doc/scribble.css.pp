@@ -14,8 +14,13 @@ padding: 0;
 ◊; define the root em, scaling down for narrower screens 
 ◊; this is calibrated so that a 72 character monospaced code sample in the main column will not extend off the screen. 
 
-◊(make-media-query 15 11 980 60)   
+◊;(make-media-query 15 11 940 50)   
 
+@media all {html {font-size: 15px;}}
+@media all and (max-width:940px){html {font-size: 14px;}}
+@media all and (max-width:850px){html {font-size: 13px;}}
+@media all and (max-width:830px){html {font-size: 12px;}}
+@media all and (max-width:740px){html {font-size: 11px;}}
 
 /* CSS seems backward: List all the classes for which we want a
    particular font, so that the font can be changed in one place.  (It
@@ -36,12 +41,37 @@ padding: 0;
     font-weight: 500;
 }
 
+◊; h2 uses special font, so adjust monospaced text to match
+h2 .stt {
+    font-size: 2.7rem;
+}
+
+.toptoclink .stt {
+    font-size: inherit;
+}
+.toclink .stt {
+    font-size: 90%;
+}
+
+.RpackageSpec .stt {
+   font-weight: 300;
+   font-family: ◊|rd-mono-family|;
+   font-size: 0.9rem;
+}
+
+h3 .stt, h4 .stt, h5 .stt {
+    color: ◊|rd-heading-color|;
+    font-size: 1.65rem;
+    font-weight: 400;
+}
+
 
 /* Serif: */
 .main, .refcontent, .tocview, .tocsub, .sroman, i {
   font-family: ◊|rd-serif-family|, serif;
-  font-size: 1.2rem;
+  font-size: 1.18rem;
 }
+
 
 /* Sans-serif: */
 .version, .versionNoNav, .ssansserif {
@@ -51,6 +81,10 @@ padding: 0;
   font-family: ◊|rd-sans-family|;
   font-weight: 500;
   font-size: 0.9em;
+}
+
+.tocset .ssansserif {
+    font-size: 100%; ◊; see 'games'
 }
 
 /* ---------------------------------------- */
@@ -88,7 +122,7 @@ h2 { /* per-page main title */
     font-weight: bold;
     margin-top: 4rem;
     font-size: 3rem;
-    line-height: 115%;
+    line-height: 110%;
     width: 90%;
 }
 
@@ -157,7 +191,7 @@ a:hover {
     background-color: ◊|rd-nav-color|;
     font-family: ◊|rd-sans-family|;
     font-size: 0.9rem;
-    border-bottom: 3px solid ◊|rd-nav-color|;
+    border-bottom: 0px solid ◊|rd-nav-color|;
 }
 
 .navsettop {
@@ -170,7 +204,7 @@ a:hover {
 }
 
 .navsettop a:hover, .navsetbottom a:hover {
-    background: #aab;
+    background: ◊|rd-definition-box-blue|;
     text-decoration: none;
 }
 
@@ -206,7 +240,7 @@ a:hover {
 }
 
 .nonavigation {
-  color: #888;
+  color: #889;
 }
 
 .searchform {
@@ -372,40 +406,32 @@ a:hover {
     ◊(make-css-ot-features "tnum")
 }
 
-.tocset td a, .tocset .RktValLink, .tocset .RktStxLink {
+.tocset td a {
     color: black;
   font-weight: 400;
 }
 
-.tocset .RktValLink, .tocset .RktStxLink {
-    font-size: 1rem;
-}
 
 .tocview {
   text-align: left;
 }
 
 
-.tocview td {
-    line-height: 1.5em;
+.tocview td, .tocsub td {
+    line-height: 1.3em;
 }
 
 
-.tocviewtitle table {
-    width: 100%;
+.tocview table, .tocsub table {
+    width: 90%;
 }
 
 .tocset td a.tocviewselflink {
-    font-size: 110%; /* monospaced styles below don't need to enlarge */
-}
-.tocset td a.tocviewselflink,
-.tocset td a.tocviewselflink .RktValLink,
-.tocset td a.tocviewselflink .RktStxLink,
-.tocset td a.tocviewselflink .RktMod, 
-.tocset td a.tocviewselflink .RktSym {
     font-weight: lighter;
+    font-size: 110%; /* monospaced styles below don't need to enlarge */
     color: white;
 }
+
 
 .tocsub {
   text-align: left;
@@ -438,10 +464,15 @@ a:hover {
 .tocviewsublistonly table,
 .tocviewsublisttop table,
 .tocviewsublistbottom table,
-.tocsublist table {
-  font-size: 75%;
+.tocsublist table,
+.tocsub table {
+  font-size: 1rem;
 }
 
+.tocviewsublist td, .tocviewsublistbottom td, .tocviewsublisttop td, .tocsub td,
+.tocviewsublistonly td {
+    font-size: 90%;
+}
 
 
 .tocviewtoggle {
@@ -454,7 +485,7 @@ a:hover {
 }
 
 .tocsublinknumber {
-  font-size: 82%;
+  font-size: 100%;
 }
 
 .tocsublink {
@@ -463,7 +494,7 @@ a:hover {
 }
 
 .tocsubseclink {
-  font-size: 82%;
+  font-size: 100%;
   text-decoration: none;
 }
 
@@ -486,8 +517,8 @@ a:hover {
 }
 
 .toptoclink {
-    font-weight: bolder;
-    font-size: 1.1rem;
+    font-weight: bold;
+    font-size: 110%
 }
 
 /* hack to add space around .toptoclink because markup is all td */
@@ -533,9 +564,14 @@ ol ol ol ol { list-style-type: upper-alpha; }
     line-height: 1.4em;
 }
 
+.SCodeFlow img {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
 
 
-.SVInsetFlow {
+
+.SVInsetFlow, .SIntrapara > table.RBoxed {
     margin-top: 2em;
     padding: 0.25em;
     padding-bottom: 0.5em;
@@ -543,7 +579,7 @@ ol ol ol ol { list-style-type: upper-alpha; }
     box-sizing:border-box;
     border-top: 1px solid #99b;
 ◊;    background: linear-gradient(to top right, hsl(216, 78%, 95%) 0%, hsl(0, 0%, 99%) 100%); 
-◊(make-css-background-gradient (list "hsl(216, 78%, 95%)" "hsl(0, 0%, 99%)") 
+◊(make-css-background-gradient (list rd-definition-box-blue "hsl(0, 0%, 99%)") 
                                          (list "0%" "100%")
                                          #:direction "to top right")
 }
@@ -558,31 +594,7 @@ ol ol ol ol { list-style-type: upper-alpha; }
     font-weight: 500;
 }
 
-.SVInsetFlow .RktVar {
-    font-weight: 400;
-    color: #444;
-}
 
-/* this selctor grabs the first linked Racket symbol
-in a definition box (i.e., the symbol being defined) */
-.SVInsetFlow .RktSym:first-child a {
-    font-size: 1.15rem;
-    color: black;
-    font-weight: 600;
-◊;    border: 0px solid green; 
-}
-
-◊; the above selector is slightly overinclusive, so this corrects it 
-.SVInsetFlow .argcontract .RktSym:first-child a,
-.SVInsetFlow td + td > .RktSym:first-child a,  ◊; see bytes-copy! 
-.SVInsetFlow tr + tr > td > .RktSym:first-child a,
-.SVInsetFlow table table table > tbody > tr > td .RktSym:first-child a ◊; see split-at-right
-{ 
-    font-size: inherit;
-    color: inherit;
-    font-weight: inherit;
-◊;    border: 0px solid red; 
-}
 
 
 
@@ -674,8 +686,17 @@ in a definition box (i.e., the symbol being defined) */
 
 @media all and (max-width:720px){
     
-    ◊(make-media-query 14 10 700 50)   
+    ◊;(make-media-query 14 10 700 50)   
     
+    @media all and (max-width:720px){
+
+    @media all {html {font-size: 15px;}}
+@media all and (max-width:700px){html {font-size: 14px;}}
+@media all and (max-width:630px){html {font-size: 13px;}}
+@media all and (max-width:610px){html {font-size: 12px;}}
+@media all and (max-width:550px){html {font-size: 11px;}}
+@media all and (max-width:520px){html {font-size: 10px;}}
+
     .navsettop, .navsetbottom {
         display: block;
         position: absolute;

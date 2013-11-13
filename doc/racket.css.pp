@@ -5,7 +5,6 @@
 
 /* Monospace: */
 
-/* ack! this is a job for multiple class inheritance */
 .RktIn, .RktRdr, .RktPn, .RktMeta,
 .RktMod, .RktKw, .RktVar, .RktSym,
 .RktRes, .RktOut, .RktCmt, .RktVal,
@@ -16,36 +15,28 @@
 }
 
 
-/* Serif: */
+
 .inheritedlbl {
-  font-family: serif;
+  font-family: ◊|rd-sans-family|, sans;
 }
 
-/* Sans-serif: */
-.RBackgroundLabelInner {
-  font-family: sans-serif;
-}
 
 /* ---------------------------------------- */
 /* Inherited methods, left margin */
 
 .inherited {
-  width: 100%;
+  width: 95%;
   margin-top: 0.5em;
   text-align: left;
-  background-color: #ECF5F5;
 }
 
 .inherited td {
   font-size: 82%;
-  padding-left: 1em;
-  text-indent: -0.8em;
-  padding-right: 0.2em;
+  padding-left: 0.5rem;
+  line-height: 1.3em;
 }
 
-.inheritedlbl {
-  font-style: italic;
-}
+
 
 /* ---------------------------------------- */
 /* Racket text styles */
@@ -101,11 +92,16 @@ position: relative;
 left: -1px; ◊; so it doesn't run into s addded to end for plurals 
   font-style: italic;
     color: #444;
-
 }
 
+.SVInsetFlow .RktVar {
+    font-weight: 400;
+    color: #444;
+}
+
+
 .RktSym {
-  color: #444;
+/*  color: #444; */
 }
 
 
@@ -118,7 +114,6 @@ left: -1px; ◊; so it doesn't run into s addded to end for plurals
 }
 
 /* for syntax links within headings */
-h2 .stt, h3 .stt, h4 .stt, h5 .stt, 
 h2 a.RktStxLink, h3 a.RktStxLink, h4 a.RktStxLink, h5 a.RktStxLink,
 h2 a.RktValLink, h3 a.RktValLink, h4 a.RktValLink, h5 a.RktValLink,
 h2 .RktSym, h3 .RktSym, h4 .RktSym, h5 .RktSym,
@@ -128,6 +123,25 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
     color: ◊|rd-heading-color|;
     font-size: 1.65rem;
     font-weight: 400;
+}
+
+.toptoclink .RktStxLink, .toclink .RktStxLink,
+.toptoclink .RktValLink, .toclink .RktValLink {
+    color: inherit;
+}
+
+.tocset .RktValLink, .tocset .RktStxLink {
+    color: black;
+  font-weight: 400;
+    font-size: 0.9rem;
+}
+
+.tocset td a.tocviewselflink .RktValLink,
+.tocset td a.tocviewselflink .RktStxLink,
+.tocset td a.tocviewselflink .RktMod, 
+.tocset td a.tocviewselflink .RktSym {
+    font-weight: lighter;
+    color: white;
 }
 
 
@@ -270,7 +284,7 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
 }
 
 
-.RpackageSpec .Smaller, .RpackageSpec .stt {
+.RpackageSpec .Smaller {
    font-weight: 300;
    font-family: ◊|rd-mono-family|;
    font-size: 0.9rem;
