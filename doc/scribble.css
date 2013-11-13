@@ -704,6 +704,9 @@ in a definition box (i.e., the symbol being defined) */
         margin-top: 8rem;
     }
 
+    .tocset {
+        display: none;
+}
 
     .tocset table, .tocset tbody, .tocset tr, .tocset td {
         display: inline;

@@ -701,14 +701,14 @@ in a definition box (i.e., the symbol being defined) */
         margin-top: 8rem;
     }
 
-◊;    .tocset {
-◊;        display: none; 
+    .tocset {
+        display: none; 
 ◊;        position: relative;
 ◊;        width: 100%;
 ◊;        height: 8rem;
 ◊;        -webkit-columns: 3;
 ◊;        overflow: auto;
-◊;    }
+    }
     
     .tocset table, .tocset tbody, .tocset tr, .tocset td {
         display: inline;
