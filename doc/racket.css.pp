@@ -253,10 +253,14 @@ tbody > tr:first-child > td > .together {
 
 .Rfiletitle {
   text-align: right;
-  border-top: 1px dotted gray;
-  border-right: 1px dotted gray;
   background-color: #eee;
 }
+
+.SCodeFlow .Rfiletitle {
+  border-top: 1px dotted gray;
+  border-right: 1px dotted gray;
+}
+
 
 .Rfilename {
   padding-left: 0.5em;
