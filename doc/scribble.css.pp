@@ -615,7 +615,7 @@ in a definition box (i.e., the symbol being defined) */
     font-size: inherit;
     color: inherit;
     font-weight: inherit;
-    border: 1px solid red; 
+◊;    border: 0px solid red; 
 }
 
 

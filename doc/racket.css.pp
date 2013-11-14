@@ -171,7 +171,7 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
 }
 
 tbody > tr:first-child > td > .together {
-  border-top: 0px; /* erase border on first instance of together
+  border-top: 0px; /* erase border on first instance of together */
 }
 
 .prototype, .argcontract, .RBoxed {
@@ -210,11 +210,11 @@ tbody > tr:first-child > td > .together {
 
 .defmodule {
 ◊; todo: why different vertical spacing in /doc/reference/streams.html vs. /doc/reference/Generators.html ? 
-  font-family: ◊|rd-mono-family|;
-    padding: 0.25rem 0.75rem 0.5rem 0.5rem ;
+    font-family: ◊|rd-mono-family|;
+    padding: 0.25rem 0.75rem 0.5rem 0.5rem;
     margin-bottom: 1rem;
     width: 100%;
-    background: ◊|rd-pull-color|;
+    background-color: ◊|rd-pull-color|;
 }
 
 .defmodule a {
