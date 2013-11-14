@@ -578,10 +578,10 @@ ol ol ol ol { list-style-type: upper-alpha; }
     background: #f3f3f3;
     box-sizing:border-box;
     border-top: 1px solid #99b;
-◊;    background: linear-gradient(to top right, hsl(216, 78%, 95%) 0%, hsl(0, 0%, 99%) 100%); 
-◊(make-css-background-gradient (list rd-definition-box-blue "hsl(0, 0%, 99%)") 
+◊;    background: linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(216, 78%, 95%) 100%); 
+◊(make-css-background-gradient (list "hsl(0, 0%, 99%)" rd-definition-box-blue ) 
                                          (list "0%" "100%")
-                                         #:direction "to top right")
+                                         #:direction "to bottom left")
 }
 
 .leftindent .SVInsetFlow { /* see e.g. section 4.5 of Racket Guide */

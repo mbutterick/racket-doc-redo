@@ -171,7 +171,7 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
 }
 
 tbody > tr:first-child > td > .together {
-  border-top: 0px;
+  border-top: 0px; /* erase border on first instance of together
 }
 
 .prototype, .argcontract, .RBoxed {
