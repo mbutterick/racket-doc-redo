@@ -185,8 +185,7 @@ a:hover {
     left: 0;
     width: 15rem;
     height: 6rem;
-    background-color: hsl(216, 15%, 70%);
-    font-family: 'Fira';
+font-family: 'Fira';
     font-size: 0.9rem;
     border-bottom: 0px solid hsl(216, 15%, 70%);
 }
@@ -378,9 +377,9 @@ a:hover {
 .tocset {
     position: absolute;
     left: 0;
-    top: 6rem;
+    top: 0rem;
     width: 14rem;
-    padding: 1rem 0.5rem 0.5rem 0.5rem;
+    padding: 7rem 0.5rem 0.5rem 0.5rem;
 background-color: hsl(216, 15%, 70%);
 
 }
@@ -715,6 +714,7 @@ in a definition box (i.e., the symbol being defined) */
         width: 100%;
         height: 4rem;
         border: 0;
+        background-color: hsl(216, 15%, 70%);
     }
 
     .searchform {
