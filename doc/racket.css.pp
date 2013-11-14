@@ -126,7 +126,8 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
 }
 
 .toptoclink .RktStxLink, .toclink .RktStxLink,
-.toptoclink .RktValLink, .toclink .RktValLink {
+.toptoclink .RktValLink, .toclink .RktValLink,
+.toptoclink .RktModLink, .toclink .RktModLink {
     color: inherit;
 }
 
@@ -164,8 +165,13 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
 /* ---------------------------------------- */
 /* Some inline styles */
 
-.together {
+.together { /* for definitions grouped together in one box */
   width: 100%;
+  border-top: 2px solid white;
+}
+
+tbody > tr:first-child > td > .together {
+  border-top: 0px;
 }
 
 .prototype, .argcontract, .RBoxed {
@@ -198,7 +204,8 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
 }
 
 .highlighted {
-  background-color: #fee;
+    font-size: 1rem;
+    background-color: #fee;
 }
 
 .defmodule {
@@ -240,12 +247,12 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
  margin-right: 1em;
 }
 
-.Rfilebox {
+.SCodeFlow .Rfilebox {
+    margin-left: -1em; /* see 17.2 of guide, module languages */
 }
 
 .Rfiletitle {
   text-align: right;
-  margin: 0em 0em 0.5em -1em;
   border-top: 1px dotted gray;
   border-right: 1px dotted gray;
   background-color: #eee;
@@ -257,7 +264,7 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
 }
 
 .Rfilecontent {
-  margin: 0em 0em 0em 0em;
+  margin: 0.5em;
 }
 
 

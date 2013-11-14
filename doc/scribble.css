@@ -192,8 +192,9 @@ a:hover {
 }
 
 .navsettop {
-    position: fixed;
+    position: absolute;
     top: 0;
+    left: 0;
 }
 
 .navsettop a, .navsetbottom a {
@@ -459,8 +460,7 @@ font-feature-settings: 'tnum' 1;
 .tocviewsublistonly table,
 .tocviewsublisttop table,
 .tocviewsublistbottom table,
-.tocsublist table,
-.tocsub table {
+table.tocsublist {
   font-size: 1rem;
 }
 
@@ -591,6 +591,25 @@ background: linear-gradient(to top right, hsl(216, 78%, 95%) 0%, hsl(0, 0%, 99%)
     font-weight: 500;
 }
 
+
+
+/* this selctor grabs the first linked Racket symbol
+in a definition box (i.e., the symbol being defined) */
+.SVInsetFlow .RktSym:first-child a,
+.SIntrapara > table.RBoxed > tbody > tr:first-child .RktSym:first-child a  {
+    font-size: 1.15rem;
+    color: black;
+    font-weight: 600;
+}
+
+.SVInsetFlow .argcontract .RktSym:first-child a,
+.SVInsetFlow td + td > .RktSym:first-child a,  .SVInsetFlow tr + tr > td > .RktSym:first-child a
+{
+    font-size: inherit;
+    color: inherit;
+    font-weight: inherit;
+    border: 1px solid red;
+}
 
 
 

@@ -195,8 +195,9 @@ a:hover {
 }
 
 .navsettop {
-    position: fixed;
+    position: absolute;
     top: 0;
+    left: 0;
 }
 
 .navsettop a, .navsetbottom a {
@@ -464,8 +465,7 @@ a:hover {
 .tocviewsublistonly table,
 .tocviewsublisttop table,
 .tocviewsublistbottom table,
-.tocsublist table,
-.tocsub table {
+table.tocsublist {
   font-size: 1rem;
 }
 
@@ -594,6 +594,29 @@ ol ol ol ol { list-style-type: upper-alpha; }
     font-weight: 500;
 }
 
+
+
+/* this selctor grabs the first linked Racket symbol
+in a definition box (i.e., the symbol being defined) */
+.SVInsetFlow .RktSym:first-child a,
+.SIntrapara > table.RBoxed > tbody > tr:first-child .RktSym:first-child a  ◊; see 'framework'
+ {
+    font-size: 1.15rem;
+    color: black;
+    font-weight: 600;
+◊;    border: 0px solid green; 
+}
+
+◊; the above selector is slightly overinclusive, so this corrects it 
+.SVInsetFlow .argcontract .RktSym:first-child a,
+.SVInsetFlow td + td > .RktSym:first-child a,  ◊; see bytes-copy! 
+.SVInsetFlow tr + tr > td > .RktSym:first-child a
+{ 
+    font-size: inherit;
+    color: inherit;
+    font-weight: inherit;
+    border: 1px solid red; 
+}
 
 
 
