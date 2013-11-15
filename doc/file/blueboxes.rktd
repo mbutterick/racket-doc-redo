@@ -1,5 +1,5 @@
-3701
-((3) 0 () 11 ((q lib "file/gif.rkt") (q lib "file/unzip.rkt") (q lib "file/ico.rkt") (q lib "file/sha1.rkt") (q lib "file/convertible.rkt") (q 4390 . 5) (q lib "file/zip.rkt") (q lib "file/gzip.rkt") (q lib "file/gunzip.rkt") (q lib "file/tar.rkt") (q lib "file/resource.rkt")) () (h ! (equal) ((c def c (c (? . 0) q gif-add-loop-control)) q (8705 . 4)) ((c def c (c (? . 1) q zip-directory-contains?)) q (3681 . 4)) ((c def c (c (? . 0) q gif-end)) q (8953 . 3)) ((c def c (c (? . 4) q convert)) q (107 . 16)) ((c def c (c (? . 1) q zip-directory?)) q (3527 . 3)) ((q def ((lib "file/untar.rkt") untar)) q (5418 . 14)) ((c def c (c (? . 0) q empty-gif-stream?)) q (7232 . 3)) ((c def c (c (? . 8) q inflate)) q (2031 . 4)) ((c def c (c (? . 1) q unzip)) q (2686 . 5)) ((c def c (c (? . 3) q sha1)) q (6771 . 3)) ((c def c (c (? . 0) q gif-state)) q (7462 . 3)) ((c def c (c (? . 2) q ico?)) q (9258 . 3)) ((c def c (c (? . 2) q read-icos)) q (9533 . 3)) ((c def c (c (? . 1) q make-exn:fail:unzip:no-such-entry)) c (? . 5)) ((c def c (c (? . 6) q zip-verbose)) q (2600 . 4)) ((c def c (c (? . 3) q hex-string->bytes)) q (6959 . 3)) ((c def c (c (? . 2) q replace-icos)) q (10042 . 4)) ((c def c (c (? . 4) q prop:convertible)) q (0 . 2)) ((c def c (c (? . 1) q exn:fail:unzip:no-such-entry-entry)) c (? . 5)) ((q def ((lib "file/untgz.rkt") untgz)) q (6029 . 14)) ((c def c (c (? . 0) q image-ready-gif-stream?)) q (7083 . 3)) ((c def c (c (? . 7) q gzip)) q (1042 . 4)) ((c def c (c (? . 2) q ico-height)) q (9378 . 3)) ((c def c (c (? . 1) q exn:fail:unzip:no-such-entry?)) c (? . 5)) ((c def c (c (? . 6) q zip)) q (2119 . 5)) ((c def c (c (? . 1) q path->zip-path)) q (4319 . 3)) ((c def c (c (? . 0) q quantize)) q (9042 . 5)) ((c def c (c (? . 2) q ico->argb)) q (10166 . 3)) ((c def c (c (? . 1) q exn:fail:unzip:no-such-entry)) c (? . 5)) ((c def c (c (? . 0) q color?)) q (7354 . 3)) ((c def c (c (? . 1) q struct:exn:fail:unzip:no-such-entry)) c (? . 5)) ((c def c (c (? . 2) q ico-depth)) q (9449 . 3)) ((q def ((lib "file/md5.rkt") md5)) q (6640 . 4)) ((c def c (c (? . 1) q zip-directory-entries)) q (3587 . 3)) ((c def c (c (? . 7) q gzip-through-ports)) q (1186 . 9)) ((c def c (c (? . 1) q zip-directory-includes-directory?)) q (3817 . 5)) ((c def c (c (? . 2) q argb->ico)) q (10222 . 6)) ((c def c (c (? . 6) q zip->output)) q (2301 . 7)) ((c def c (c (? . 1) q unzip-entry)) q (4009 . 7)) ((c def c (c (? . 3) q sha1-bytes)) q (6828 . 3)) ((c def c (c (? . 9) q tar-gzip)) q (5146 . 7)) ((c def c (c (? . 7) q deflate)) q (1505 . 6)) ((c def c (c (? . 8) q gunzip)) q (1708 . 5)) ((c def c (c (? . 0) q gif-colormap?)) q (7295 . 3)) ((c def c (c (? . 3) q bytes->hex-string)) q (6890 . 3)) ((c def c (c (? . 9) q tar->output)) q (4832 . 8)) ((c def c (c (? . 0) q gif-add-control)) q (8265 . 11)) ((c def c (c (? . 1) q make-filesystem-entry-reader)) q (2897 . 10)) ((c def c (c (? . 0) q gif-add-comment)) q (8830 . 4)) ((c def c (c (? . 0) q gif-add-image)) q (7728 . 17)) ((c def c (c (? . 9) q tar)) q (4555 . 7)) ((c def c (c (? . 2) q ico-width)) q (9308 . 3)) ((c def c (c (? . 10) q get-resource)) q (10436 . 13)) ((c def c (c (? . 0) q gif-start)) q (7532 . 7)) ((c def c (c (? . 4) q convertible?)) q (49 . 3)) ((c def c (c (? . 0) q gif-stream?)) q (7026 . 3)) ((c def c (c (? . 10) q write-resource)) q (10928 . 13)) ((c def c (c (? . 0) q image-or-control-ready-gif-stream?)) q (7152 . 3)) ((c def c (c (? . 2) q read-icos-from-exe)) q (9626 . 3)) ((c def c (c (? . 2) q write-icos)) q (9728 . 7)) ((c def c (c (? . 8) q gunzip-through-ports)) q (1930 . 4)) ((c def c (c (? . 0) q dimension?)) q (7406 . 3)) ((c def c (c (? . 1) q read-zip-directory)) q (3427 . 3))))
+3836
+((3) 0 () 12 ((q lib "file/sha1.rkt") (q lib "file/gif.rkt") (q lib "file/ico.rkt") (q lib "file/unzip.rkt") (q lib "file/gunzip.rkt") (q lib "file/tar.rkt") (q lib "file/resource.rkt") (q 4401 . 5) (q lib "file/cache.rkt") (q lib "file/convertible.rkt") (q lib "file/zip.rkt") (q lib "file/gzip.rkt")) () (h ! (equal) ((c def c (c (? . 5) q tar-gzip)) q (5157 . 7)) ((c def c (c (? . 3) q read-zip-directory)) q (3438 . 3)) ((c def c (c (? . 9) q convert)) q (107 . 16)) ((q def ((lib "file/untar.rkt") untar)) q (5429 . 14)) ((c def c (c (? . 2) q ico-width)) q (9319 . 3)) ((c def c (c (? . 0) q bytes->hex-string)) q (6901 . 3)) ((c def c (c (? . 0) q sha1)) q (6782 . 3)) ((c def c (c (? . 1) q gif-add-comment)) q (8841 . 4)) ((c def c (c (? . 1) q color?)) q (7365 . 3)) ((c def c (c (? . 2) q replace-icos)) q (10053 . 4)) ((c def c (c (? . 10) q zip->output)) q (2312 . 7)) ((c def c (c (? . 1) q gif-state)) q (7473 . 3)) ((c def c (c (? . 2) q ico-height)) q (9389 . 3)) ((c def c (c (? . 4) q gunzip-through-ports)) q (1941 . 4)) ((c def c (c (? . 3) q path->zip-path)) q (4330 . 3)) ((c def c (c (? . 6) q write-resource)) q (10939 . 13)) ((c def c (c (? . 3) q exn:fail:unzip:no-such-entry?)) c (? . 7)) ((c def c (c (? . 1) q gif-add-image)) q (7739 . 17)) ((c def c (c (? . 4) q inflate)) q (2042 . 4)) ((c def c (c (? . 3) q zip-directory-entries)) q (3598 . 3)) ((c def c (c (? . 3) q zip-directory-contains?)) q (3692 . 4)) ((c def c (c (? . 5) q tar)) q (4566 . 7)) ((c def c (c (? . 2) q read-icos)) q (9544 . 3)) ((c def c (c (? . 2) q ico?)) q (9269 . 3)) ((c def c (c (? . 6) q get-resource)) q (10447 . 13)) ((c def c (c (? . 2) q ico->argb)) q (10177 . 3)) ((c def c (c (? . 3) q exn:fail:unzip:no-such-entry-entry)) c (? . 7)) ((c def c (c (? . 8) q cache-remove)) q (12924 . 11)) ((c def c (c (? . 1) q quantize)) q (9053 . 5)) ((c def c (c (? . 2) q write-icos)) q (9739 . 7)) ((c def c (c (? . 1) q image-or-control-ready-gif-stream?)) q (7163 . 3)) ((c def c (c (? . 5) q tar->output)) q (4843 . 8)) ((c def c (c (? . 1) q image-ready-gif-stream?)) q (7094 . 3)) ((c def c (c (? . 1) q gif-start)) q (7543 . 7)) ((c def c (c (? . 8) q cache-file)) q (11528 . 28)) ((c def c (c (? . 3) q exn:fail:unzip:no-such-entry)) c (? . 7)) ((c def c (c (? . 4) q gunzip)) q (1719 . 5)) ((c def c (c (? . 1) q gif-end)) q (8964 . 3)) ((c def c (c (? . 2) q ico-depth)) q (9460 . 3)) ((c def c (c (? . 1) q gif-add-control)) q (8276 . 11)) ((c def c (c (? . 3) q make-exn:fail:unzip:no-such-entry)) c (? . 7)) ((c def c (c (? . 11) q gzip-through-ports)) q (1197 . 9)) ((c def c (c (? . 3) q make-filesystem-entry-reader)) q (2908 . 10)) ((c def c (c (? . 1) q gif-colormap?)) q (7306 . 3)) ((c def c (c (? . 9) q prop:convertible)) q (0 . 2)) ((c def c (c (? . 0) q hex-string->bytes)) q (6970 . 3)) ((c def c (c (? . 10) q zip)) q (2130 . 5)) ((c def c (c (? . 1) q dimension?)) q (7417 . 3)) ((c def c (c (? . 1) q gif-add-loop-control)) q (8716 . 4)) ((c def c (c (? . 2) q argb->ico)) q (10233 . 6)) ((c def c (c (? . 3) q struct:exn:fail:unzip:no-such-entry)) c (? . 7)) ((c def c (c (? . 0) q sha1-bytes)) q (6839 . 3)) ((c def c (c (? . 11) q gzip)) q (1053 . 4)) ((c def c (c (? . 9) q convertible?)) q (49 . 3)) ((q def ((lib "file/md5.rkt") md5)) q (6651 . 4)) ((c def c (c (? . 3) q unzip)) q (2697 . 5)) ((c def c (c (? . 3) q zip-directory-includes-directory?)) q (3828 . 5)) ((c def c (c (? . 1) q empty-gif-stream?)) q (7243 . 3)) ((c def c (c (? . 10) q zip-verbose)) q (2611 . 4)) ((c def c (c (? . 1) q gif-stream?)) q (7037 . 3)) ((c def c (c (? . 11) q deflate)) q (1516 . 6)) ((c def c (c (? . 3) q zip-directory?)) q (3538 . 3)) ((c def c (c (? . 3) q unzip-entry)) q (4020 . 7)) ((q def ((lib "file/untgz.rkt") untgz)) q (6040 . 14)) ((c def c (c (? . 2) q read-icos-from-exe)) q (9637 . 3))))
 value
 prop:convertible : struct-type-property?
 procedure
@@ -9,7 +9,7 @@ procedure
 (convert v request [default])
  -> (case request
       [(text) (or/c string? (λ (x) (eq? x default)))]
-      [(gif-bytes png-bytes ps-bytes eps-bytes pdf-bytes)
+      [(gif-bytes png-bytes ps-bytes eps-bytes pdf-bytes svg-bytes)
        (or/c bytes? (λ (x) (eq? x default)))]
       [(pdf-bytes+bounds) (or/c (list/c bytes?
                                         (and/c real? (not/c negative?))
@@ -322,3 +322,42 @@ procedure
   file : (or/c path-string? #f) = #f
   type : (or/c 'string 'bytes 'integer) = 'string
   create-key? : any/c = #f
+procedure
+(cache-file  dest-file                                 
+            [#:exists-ok? exists-ok?]                  
+             key                                       
+             cache-dir                                 
+             fetch                                     
+            [#:notify-cache-use notify-cache-use       
+             #:max-cache-files max-files               
+             #:max-cache-size max-size                 
+             #:evict-before? evict-before?             
+             #:log-error-string log-error-string       
+             #:log-debug-string log-debug-string]) -> void?
+  dest-file : path-string?
+  exists-ok? : any/c = #f
+  key : (not/c #f)
+  cache-dir : path-string?
+  fetch : (-> any)
+  notify-cache-use : (string? . -> . any) = void
+  max-files : real? = 1024
+  max-size : real? = (* 64 1024 1024)
+  evict-before? : (hash? hash? . -> . boolean?)
+                = (lambda (a b)
+                    (< (hash-ref a 'modify-seconds)
+                       (hash-ref b 'modify-seconds)))
+  log-error-string : (string? . -> . any)
+                   = (lambda (s) (log-error s))
+  log-debug-string : (string? . -> . any)
+                   = (lambda (s) (log-debug s))
+procedure
+(cache-remove  key                                       
+               cache-dir                                 
+              [#:log-error-string log-error-string       
+               #:log-debug-string log-debug-string]) -> void?
+  key : any/c
+  cache-dir : path-string?
+  log-error-string : (string? . -> . any)
+                   = (lambda (s) (log-error s))
+  log-debug-string : (string? . -> . any)
+                   = (lambda (s) (log-debug s))

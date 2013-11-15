@@ -1,5 +1,5 @@
-3743
-((3) 0 () 3 ((q lib "slideshow/base.rkt") (q lib "slideshow/play.rkt") (q lib "slideshow/step.rkt")) () (h ! (equal) ((c def c (c (? . 0) q bt)) q (1040 . 3)) ((c form c (c (? . 2) q with-steps)) q (7144 . 2)) ((c def c (c (? . 0) q clickback)) q (3153 . 4)) ((c def c (c (? . 0) q slide?)) q (3800 . 3)) ((c def c (c (? . 0) q gap-size)) q (5051 . 2)) ((c def c (c (? . 0) q make-outline)) q (3412 . 6)) ((c def c (c (? . 0) q rt)) q (1194 . 3)) ((c def c (c (? . 1) q fade-around-pict)) q (9889 . 5)) ((c def c (c (? . 1) q fast-middle)) q (10707 . 3)) ((c def c (c (? . 0) q set-spotlight-style!)) q (4836 . 5)) ((c def c (c (? . 0) q retract-most-recent-slide)) q (3894 . 2)) ((c def c (c (? . 0) q current-font-size)) q (5390 . 4)) ((c def c (c (? . 0) q set-margin!)) q (6593 . 3)) ((c def c (c (? . 1) q reverse-animations)) q (10332 . 3)) ((c def c (c (? . 0) q item)) q (1758 . 16)) ((c def c (c (? . 0) q current-main-font)) q (5523 . 4)) ((c def c (c (? . 0) q bullet)) q (5184 . 2)) ((c def c (c (? . 0) q printing?)) q (5332 . 2)) ((c def c (c (? . 0) q slide-inset?)) q (7086 . 3)) ((c def c (c (? . 0) q most-recent-slide)) q (3852 . 2)) ((c def c (c (? . 0) q set-use-background-frame!)) q (4219 . 3)) ((c def c (c (? . 0) q subitem)) q (2444 . 16)) ((c def c (c (? . 1) q fast-end)) q (10547 . 3)) ((c def c (c (? . 1) q play)) q (7636 . 19)) ((c def c (c (? . 0) q it)) q (989 . 3)) ((c def c (c (? . 0) q re-slide)) q (3944 . 4)) ((c def c (c (? . 0) q current-page-number-font)) q (4363 . 4)) ((c def c (c (? . 0) q o-bullet)) q (5207 . 2)) ((c def c (c (? . 1) q sequence-animations)) q (10196 . 4)) ((c def c (c (? . 1) q split-phase)) q (10789 . 3)) ((c def c (c (? . 1) q fast-edges)) q (10626 . 3)) ((c def c (c (? . 0) q para)) q (1300 . 12)) ((c def c (c (? . 0) q bit)) q (1091 . 3)) ((c def c (c (? . 0) q interactive)) q (3242 . 4)) ((c def c (c (? . 0) q comment)) q (3665 . 3)) ((c def c (c (? . 0) q current-gap-size)) q (5073 . 4)) ((c def c (c (? . 1) q fade-pict)) q (9694 . 6)) ((c def c (c (? . 1) q animate-slide)) q (9455 . 6)) ((c form c (c (? . 0) q client-h)) q (5248 . 2)) ((c form c (c (? . 2) q with-steps~)) q (7186 . 2)) ((c def c (c (? . 0) q current-line-sep)) q (5636 . 4)) ((c def c (c (? . 1) q slide-pict)) q (10031 . 7)) ((c form c (c (? . 0) q title-h)) q (5317 . 2)) ((c form c (c (? . 0) q full-page)) q (5264 . 2)) ((c def c (c (? . 0) q make-slide-inset)) q (6710 . 9)) ((c def c (c (? . 0) q set-title-h!)) q (6651 . 3)) ((c def c (c (? . 0) q current-page-number-color)) q (4496 . 4)) ((c def c (c (? . 0) q current-title-color)) q (5902 . 4)) ((c def c (c (? . 0) q t)) q (939 . 3)) ((c form c (c (? . 0) q titleless-page)) q (5281 . 2)) ((c def c (c (? . 0) q slide)) q (0 . 21)) ((c def c (c (? . 1) q fast-start)) q (10466 . 3)) ((c def c (c (? . 0) q titlet)) q (1245 . 3)) ((c form c (c (? . 0) q client-w)) q (5232 . 2)) ((q def ((lib "slideshow/slides-to-picts.rkt") get-slides-as-picts)) q (7229 . 11)) ((c def c (c (? . 0) q current-para-width)) q (5767 . 4)) ((c def c (c (? . 0) q current-titlet)) q (6464 . 4)) ((c def c (c (? . 0) q slide->pict)) q (4043 . 3)) ((c def c (c (? . 0) q size-in-pixels)) q (3349 . 3)) ((c def c (c (? . 0) q current-page-number-adjust)) q (4669 . 4)) ((c form c (c (? . 0) q margin)) q (5303 . 2)) ((c def c (c (? . 0) q set-page-numbers-visible!)) q (4291 . 3)) ((c def c (c (? . 0) q condense?)) q (5361 . 2)) ((c def c (c (? . 0) q tt)) q (1143 . 3)) ((c def c (c (? . 1) q play-n)) q (8445 . 22)) ((c def c (c (? . 0) q current-slide-assembler)) q (6063 . 12)) ((c def c (c (? . 0) q start-at-recent-slide)) q (4106 . 2)) ((c def c (c (? . 0) q comment?)) q (3746 . 3)) ((c def c (c (? . 0) q enable-click-advance!)) q (4151 . 3))))
+3213
+((3) 0 () 3 ((q lib "slideshow/base.rkt") (q lib "slideshow/play.rkt") (q lib "slideshow/step.rkt")) () (h ! (equal) ((c def c (c (? . 0) q bullet)) q (5184 . 2)) ((q def ((lib "slideshow/slides-to-picts.rkt") get-slides-as-picts)) q (7229 . 11)) ((c def c (c (? . 0) q enable-click-advance!)) q (4151 . 3)) ((c form c (c (? . 0) q titleless-page)) q (5281 . 2)) ((c def c (c (? . 0) q current-font-size)) q (5390 . 4)) ((c def c (c (? . 0) q current-line-sep)) q (5636 . 4)) ((c def c (c (? . 0) q comment)) q (3665 . 3)) ((c def c (c (? . 0) q current-page-number-font)) q (4363 . 4)) ((c def c (c (? . 0) q slide)) q (0 . 21)) ((c def c (c (? . 0) q tt)) q (1143 . 3)) ((c def c (c (? . 0) q size-in-pixels)) q (3349 . 3)) ((c def c (c (? . 0) q rt)) q (1194 . 3)) ((c def c (c (? . 0) q current-slide-assembler)) q (6063 . 12)) ((c def c (c (? . 0) q set-page-numbers-visible!)) q (4291 . 3)) ((c def c (c (? . 0) q slide->pict)) q (4043 . 3)) ((c def c (c (? . 0) q start-at-recent-slide)) q (4106 . 2)) ((c def c (c (? . 1) q play-n)) q (8445 . 22)) ((c form c (c (? . 0) q margin)) q (5303 . 2)) ((c def c (c (? . 0) q bit)) q (1091 . 3)) ((c def c (c (? . 0) q slide?)) q (3800 . 3)) ((c def c (c (? . 0) q current-main-font)) q (5523 . 4)) ((c def c (c (? . 1) q play)) q (7636 . 19)) ((c def c (c (? . 0) q t)) q (939 . 3)) ((c def c (c (? . 0) q printing?)) q (5332 . 2)) ((c def c (c (? . 1) q animate-slide)) q (9455 . 6)) ((c def c (c (? . 0) q o-bullet)) q (5207 . 2)) ((c def c (c (? . 0) q titlet)) q (1245 . 3)) ((c form c (c (? . 2) q with-steps~)) q (7186 . 2)) ((c def c (c (? . 0) q set-spotlight-style!)) q (4836 . 5)) ((c def c (c (? . 0) q make-outline)) q (3412 . 6)) ((c def c (c (? . 0) q interactive)) q (3242 . 4)) ((c def c (c (? . 0) q current-gap-size)) q (5073 . 4)) ((c form c (c (? . 0) q full-page)) q (5264 . 2)) ((c def c (c (? . 0) q current-page-number-color)) q (4496 . 4)) ((c def c (c (? . 0) q re-slide)) q (3944 . 4)) ((c def c (c (? . 0) q comment?)) q (3746 . 3)) ((c form c (c (? . 0) q client-w)) q (5232 . 2)) ((c def c (c (? . 0) q most-recent-slide)) q (3852 . 2)) ((c def c (c (? . 0) q condense?)) q (5361 . 2)) ((c def c (c (? . 0) q it)) q (989 . 3)) ((c def c (c (? . 0) q subitem)) q (2444 . 16)) ((c def c (c (? . 0) q set-use-background-frame!)) q (4219 . 3)) ((c def c (c (? . 0) q gap-size)) q (5051 . 2)) ((c def c (c (? . 0) q retract-most-recent-slide)) q (3894 . 2)) ((c def c (c (? . 0) q slide-inset?)) q (7086 . 3)) ((c def c (c (? . 0) q set-margin!)) q (6593 . 3)) ((c def c (c (? . 0) q item)) q (1758 . 16)) ((c def c (c (? . 0) q clickback)) q (3153 . 4)) ((c form c (c (? . 0) q title-h)) q (5317 . 2)) ((c def c (c (? . 0) q current-titlet)) q (6464 . 4)) ((c def c (c (? . 0) q para)) q (1300 . 12)) ((c def c (c (? . 0) q bt)) q (1040 . 3)) ((c form c (c (? . 0) q client-h)) q (5248 . 2)) ((c def c (c (? . 0) q current-page-number-adjust)) q (4669 . 4)) ((c def c (c (? . 0) q current-title-color)) q (5902 . 4)) ((c def c (c (? . 0) q make-slide-inset)) q (6710 . 9)) ((c def c (c (? . 0) q current-para-width)) q (5767 . 4)) ((c form c (c (? . 2) q with-steps)) q (7144 . 2)) ((c def c (c (? . 0) q set-title-h!)) q (6651 . 3))))
 procedure
 (slide [#:title title               
         #:name name                 
@@ -293,43 +293,3 @@ procedure
   element : (flat-rec-contract elem/c
               (or/c pict? 'next 'alts
                    (listof (listof elem/c))))
-procedure
-(fade-pict n p1 p2 [#:combine combine]) -> pict?
-  n : (real-in 0.0 1.0)
-  p1 : pict?
-  p2 : pict?
-  combine : (pict? pict? . -> . pict?) = cc-superimpose
-procedure
-(fade-around-pict n p1 make-p2) -> pict?
-  n : (real-in 0.0 1.0)
-  p1 : pict?
-  make-p2 : (pict? . -> . pict?)
-procedure
-(slide-pict base p p-from p-to n) -> pict?
-  base : pict?
-  p : pict?
-  p-from : pict?
-  p-to : pict?
-  n : (in-real 0.0 1.0)
-procedure
-(sequence-animations gen ...)
- -> ((real-in 0.0 1.0) . ->* . pict?)
-  gen : ((real-in 0.0 1.0) . ->* . pict?)
-procedure
-(reverse-animations gen ...) -> ((real-in 0.0 1.0) . ->* . pict?)
-  gen : ((real-in 0.0 1.0) . ->* . pict?)
-procedure
-(fast-start n) -> (in-real 0.0 1.0)
-  n : (in-real 0.0 1.0)
-procedure
-(fast-end n) -> (in-real 0.0 1.0)
-  n : (in-real 0.0 1.0)
-procedure
-(fast-edges n) -> (in-real 0.0 1.0)
-  n : (in-real 0.0 1.0)
-procedure
-(fast-middle n) -> (in-real 0.0 1.0)
-  n : (in-real 0.0 1.0)
-procedure
-(split-phase n) -> (in-real 0.0 1.0) (in-real 0.0 1.0)
-  n : (in-real 0.0 1.0)

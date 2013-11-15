@@ -1,5 +1,5 @@
-4836
-((3) 0 () 8 ((q lib "pkg/lib.rkt") (q lib "pkg/main.rkt") (q lib "pkg/db.rkt") (q 11847 . 10) (q lib "pkg/path.rkt") (q 10684 . 3) (q 10293 . 10) (q lib "pkg/strip.rkt")) () (h ! (equal) ((c def c (c (? . 2) q struct:pkg)) c (? . 3)) ((c def c (c (? . 1) q pkg-remove-command)) q (512 . 2)) ((c def c (c (? . 0) q extract-pkg-dependencies)) q (9617 . 8)) ((c def c (c (? . 0) q pkg-remove)) q (5488 . 15)) ((c def c (c (? . 0) q pkg-directory->module-paths)) q (9976 . 8)) ((c def c (c (? . 0) q pkg-catalog-suggestions-for-module)) q (8296 . 7)) ((c def c (c (? . 4) q path->pkg+subpath)) q (10937 . 5)) ((c def c (c (? . 1) q pkg-update-command)) q (472 . 2)) ((c def c (c (? . 1) q pkg-install-command)) q (431 . 2)) ((c def c (c (? . 0) q pkg-config-catalogs)) q (1516 . 2)) ((c def c (c (? . 2) q get-pkgs)) q (12373 . 4)) ((c def c (c (? . 7) q generate-stripped-directory)) q (0 . 7)) ((c def c (c (? . 2) q pkg-checksum)) c (? . 3)) ((c def c (c (? . 0) q installed-pkg-table)) q (1957 . 5)) ((c form c (c (? . 0) q with-pkg-lock)) q (803 . 2)) ((c def c (c (? . 0) q pkg-directory)) q (1571 . 3)) ((c def c (c (? . 4) q sc-pkg-info?)) c (? . 5)) ((c def c (c (? . 4) q pkg-info)) c (? . 6)) ((c form c (c (? . 0) q with-pkg-lock/read-only)) q (838 . 2)) ((c def c (c (? . 1) q pkg-catalog-show-command)) q (711 . 2)) ((c def c (c (? . 2) q pkg-catalog)) c (? . 3)) ((c def c (c (? . 0) q pkg-desc?)) q (2140 . 3)) ((c def c (c (? . 0) q get-pkg-content)) q (9231 . 11)) ((c def c (c (? . 1) q pkg-show-command)) q (552 . 2)) ((c def c (c (? . 4) q struct:sc-pkg-info)) c (? . 5)) ((c def c (c (? . 4) q pkg-info?)) c (? . 6)) ((c def c (c (? . 4) q read-pkg-file-hash)) q (11780 . 3)) ((c def c (c (? . 0) q pkg-migrate)) q (6128 . 18)) ((c def c (c (? . 0) q pkg-show)) q (6005 . 4)) ((c def c (c (? . 2) q make-pkg)) c (? . 3)) ((c def c (c (? . 0) q current-pkg-error)) q (1258 . 4)) ((c def c (c (? . 0) q pkg-catalog-show)) q (6922 . 9)) ((c def c (c (? . 0) q pkg-install)) q (3424 . 22)) ((c def c (c (? . 0) q current-pkg-scope)) q (883 . 6)) ((c def c (c (? . 2) q set-pkg-modules!)) q (14379 . 9)) ((c def c (c (? . 4) q read-pkgs-db)) q (11607 . 4)) ((c def c (c (? . 4) q path->pkg+subpath+collect)) q (11129 . 8)) ((c def c (c (? . 4) q pkg-info-orig-pkg)) c (? . 6)) ((c def c (c (? . 4) q get-pkgs-dir)) q (11398 . 5)) ((c def c (c (? . 0) q pkg-desc)) q (2195 . 8)) ((c def c (c (? . 2) q get-pkg-dependencies)) q (13769 . 5)) ((c def c (c (? . 2) q pkg-name)) c (? . 3)) ((c def c (c (? . 0) q pkg-create)) q (3250 . 5)) ((c def c (c (? . 2) q set-catalogs!)) q (12291 . 3)) ((c def c (c (? . 0) q get-all-pkg-names-from-catalogs)) q (8618 . 2)) ((c def c (c (? . 1) q pkg-config-command)) q (631 . 2)) ((c def c (c (? . 0) q get-all-pkg-details-from-catalogs)) q (8685 . 3)) ((c def c (c (? . 0) q current-pkg-scope-version)) q (1147 . 4)) ((c def c (c (? . 4) q struct:pkg-info)) c (? . 6)) ((c def c (c (? . 4) q path->pkg)) q (10780 . 4)) ((c def c (c (? . 4) q make-pkg-info)) c (? . 6)) ((c def c (c (? . 2) q get-module-pkgs)) q (14676 . 3)) ((c def c (c (? . 2) q set-pkg-tags!)) q (13619 . 5)) ((c def c (c (? . 2) q pkg?)) c (? . 3)) ((c def c (c (? . 2) q get-pkg-tags)) q (13511 . 4)) ((c def c (c (? . 4) q sc-pkg-info)) c (? . 5)) ((c def c (c (? . 2) q pkg-desc)) c (? . 3)) ((c def c (c (? . 0) q pkg-catalog-update-local)) q (7851 . 9)) ((c def c (c (? . 0) q current-pkg-catalogs)) q (1363 . 4)) ((c def c (c (? . 0) q get-pkg-details-from-catalogs)) q (8781 . 4)) ((c def c (c (? . 2) q set-pkg-dependencies!)) q (13918 . 9)) ((c def c (c (? . 2) q set-pkgs!)) q (12533 . 8)) ((c def c (c (? . 0) q pkg-config)) q (3153 . 4)) ((c def c (c (? . 2) q set-pkg!)) q (12850 . 16)) ((c def c (c (? . 2) q pkg-source)) c (? . 3)) ((c def c (c (? . 1) q pkg-migrate-command)) q (590 . 2)) ((c def c (c (? . 0) q pkg-update)) q (4409 . 24)) ((c def c (c (? . 0) q pkg-stage)) q (2499 . 15)) ((c def c (c (? . 4) q pkg-info-checksum)) c (? . 6)) ((c def c (c (? . 0) q pkg-catalog-copy)) q (7290 . 13)) ((c def c (c (? . 2) q get-catalogs)) q (12243 . 2)) ((c def c (c (? . 2) q current-pkg-catalog-file)) q (12118 . 4)) ((c def c (c (? . 1) q pkg-catalog-copy-command)) q (757 . 2)) ((c def c (c (? . 1) q pkg-create-command)) q (671 . 2)) ((c def c (c (? . 2) q pkg)) c (? . 3)) ((c def c (c (? . 2) q pkg-author)) c (? . 3)) ((c def c (c (? . 7) q fixup-local-redirect-reference)) q (266 . 5)) ((c def c (c (? . 4) q make-sc-pkg-info)) c (? . 5)) ((c def c (c (? . 0) q pkg-single-collection)) q (8893 . 8)) ((c def c (c (? . 0) q installed-pkg-names)) q (1786 . 4)) ((c def c (c (? . 4) q pkg-info-auto?)) c (? . 6)) ((c def c (c (? . 0) q default-pkg-scope)) q (1654 . 3)) ((c def c (c (? . 2) q get-pkgs-without-modules)) q (14770 . 3)) ((c def c (c (? . 2) q get-pkg-modules)) q (14228 . 5))))
+5644
+((3) 0 () 11 ((q lib "pkg/main.rkt") (q lib "pkg/lib.rkt") (q lib "pkg/path.rkt") (q 12115 . 3) (q lib "pkg/db.rkt") (q 11658 . 9) (q 13680 . 10) (q 11999 . 2) (q lib "pkg/strip.rkt") (q lib "pkg/name.rkt") (q 12040 . 3)) () (h ! (equal) ((c def c (c (? . 8) q generate-stripped-directory)) q (0 . 7)) ((c def c (c (? . 2) q sc-pkg-info/alt)) c (? . 3)) ((c def c (c (? . 1) q installed-pkg-table)) q (2505 . 5)) ((c def c (c (? . 0) q pkg-catalog-copy-command)) q (757 . 2)) ((c def c (c (? . 0) q pkg-install-command)) q (431 . 2)) ((c def c (c (? . 1) q current-pkg-download-cache-dir)) q (1571 . 5)) ((c def c (c (? . 2) q pkg-info-auto?)) c (? . 5)) ((c def c (c (? . 1) q pkg-show)) q (7256 . 4)) ((c def c (c (? . 1) q default-pkg-scope)) q (2202 . 3)) ((c def c (c (? . 4) q set-pkg-modules!)) q (16212 . 9)) ((c def c (c (? . 9) q package-source-format?)) q (13263 . 3)) ((c def c (c (? . 0) q pkg-create-command)) q (671 . 2)) ((c def c (c (? . 1) q current-pkg-download-cache-max-files)) q (1781 . 4)) ((c def c (c (? . 2) q struct:sc-pkg-info)) c (? . 7)) ((c def c (c (? . 2) q pkg-info/alt?)) c (? . 10)) ((c def c (c (? . 1) q pkg-migrate)) q (7379 . 20)) ((c def c (c (? . 2) q sc-pkg-info/alt?)) c (? . 3)) ((c def c (c (? . 1) q pkg-catalog-update-local)) q (9216 . 9)) ((c def c (c (? . 4) q set-pkg-tags!)) q (15452 . 5)) ((c def c (c (? . 4) q pkg-name)) c (? . 6)) ((c def c (c (? . 1) q pkg-single-collection)) q (10258 . 8)) ((c def c (c (? . 1) q pkg-update)) q (5328 . 26)) ((c def c (c (? . 1) q pkg-stage)) q (3047 . 15)) ((c def c (c (? . 2) q pkg-info-checksum)) c (? . 5)) ((c def c (c (? . 4) q pkg-desc)) c (? . 6)) ((c def c (c (? . 4) q get-pkgs-without-modules)) q (16603 . 3)) ((c def c (c (? . 2) q sc-pkg-info)) c (? . 7)) ((c def c (c (? . 2) q path->pkg)) q (12196 . 4)) ((c def c (c (? . 1) q pkg-install)) q (4225 . 24)) ((c def c (c (? . 4) q pkg)) c (? . 6)) ((c def c (c (? . 4) q set-pkg-dependencies!)) q (15751 . 9)) ((c def c (c (? . 2) q pkg-info-orig-pkg)) c (? . 5)) ((c def c (c (? . 8) q fixup-local-redirect-reference)) q (266 . 5)) ((c def c (c (? . 4) q pkg-source)) c (? . 6)) ((c def c (c (? . 9) q package-source->name+type)) q (13483 . 6)) ((c def c (c (? . 1) q pkg-catalog-suggestions-for-module)) q (9661 . 7)) ((c def c (c (? . 1) q current-pkg-download-cache-max-bytes)) q (1950 . 4)) ((c def c (c (? . 1) q pkg-directory)) q (2119 . 3)) ((c def c (c (? . 2) q struct:pkg-info)) c (? . 5)) ((c def c (c (? . 2) q pkg-info/alt)) c (? . 10)) ((c def c (c (? . 4) q get-pkg-dependencies)) q (15602 . 5)) ((c def c (c (? . 4) q get-pkgs)) q (14206 . 4)) ((c def c (c (? . 4) q struct:pkg)) c (? . 6)) ((c def c (c (? . 2) q path->pkg+subpath+collect)) q (12545 . 8)) ((c def c (c (? . 0) q pkg-remove-command)) q (512 . 2)) ((c def c (c (? . 2) q path->pkg+subpath)) q (12353 . 5)) ((c def c (c (? . 1) q get-all-pkg-names-from-catalogs)) q (9983 . 2)) ((c def c (c (? . 4) q get-pkg-tags)) q (15344 . 4)) ((c def c (c (? . 9) q package-source->name)) q (13331 . 4)) ((c def c (c (? . 2) q pkg-info/alt-dir-name)) c (? . 10)) ((c def c (c (? . 4) q set-pkg!)) q (14683 . 16)) ((c form c (c (? . 1) q with-pkg-lock)) q (803 . 2)) ((c def c (c (? . 1) q current-pkg-catalogs)) q (1363 . 4)) ((c def c (c (? . 4) q pkg-checksum)) c (? . 6)) ((c def c (c (? . 1) q get-pkg-content)) q (10596 . 11)) ((c def c (c (? . 0) q pkg-migrate-command)) q (590 . 2)) ((c def c (c (? . 0) q pkg-update-command)) q (472 . 2)) ((c def c (c (? . 2) q struct:pkg-info/alt)) c (? . 10)) ((c def c (c (? . 2) q struct:sc-pkg-info/alt)) c (? . 3)) ((c def c (c (? . 4) q current-pkg-catalog-file)) q (13951 . 4)) ((c def c (c (? . 4) q get-catalogs)) q (14076 . 2)) ((c def c (c (? . 2) q pkg-info?)) c (? . 5)) ((c def c (c (? . 1) q installed-pkg-names)) q (2334 . 4)) ((c def c (c (? . 2) q sc-pkg-info?)) c (? . 7)) ((c def c (c (? . 1) q current-pkg-error)) q (1258 . 4)) ((c def c (c (? . 2) q get-pkgs-dir)) q (12814 . 5)) ((c form c (c (? . 1) q with-pkg-lock/read-only)) q (838 . 2)) ((c def c (c (? . 1) q pkg-directory->module-paths)) q (11341 . 8)) ((c def c (c (? . 0) q pkg-config-command)) q (631 . 2)) ((c def c (c (? . 4) q get-pkg-modules)) q (16061 . 5)) ((c def c (c (? . 1) q current-pkg-scope)) q (883 . 6)) ((c def c (c (? . 4) q set-catalogs!)) q (14124 . 3)) ((c def c (c (? . 1) q pkg-config)) q (3701 . 4)) ((c def c (c (? . 1) q get-all-pkg-details-from-catalogs)) q (10050 . 3)) ((c def c (c (? . 1) q pkg-remove)) q (6526 . 17)) ((c def c (c (? . 1) q pkg-create)) q (3798 . 9)) ((c def c (c (? . 2) q pkg-info)) c (? . 5)) ((c def c (c (? . 4) q pkg?)) c (? . 6)) ((c def c (c (? . 2) q read-pkg-file-hash)) q (13196 . 3)) ((c def c (c (? . 4) q set-pkgs!)) q (14366 . 8)) ((c def c (c (? . 1) q get-pkg-details-from-catalogs)) q (10146 . 4)) ((c def c (c (? . 1) q pkg-catalog-show)) q (8287 . 9)) ((c def c (c (? . 0) q pkg-catalog-show-command)) q (711 . 2)) ((c def c (c (? . 2) q sc-pkg-info/alt-dir-name)) c (? . 3)) ((c def c (c (? . 4) q make-pkg)) c (? . 6)) ((c def c (c (? . 1) q pkg-desc)) q (2743 . 8)) ((c def c (c (? . 0) q pkg-show-command)) q (552 . 2)) ((c def c (c (? . 1) q pkg-catalog-copy)) q (8655 . 13)) ((c def c (c (? . 4) q pkg-author)) c (? . 6)) ((c def c (c (? . 1) q current-pkg-scope-version)) q (1147 . 4)) ((c def c (c (? . 1) q pkg-desc?)) q (2688 . 3)) ((c def c (c (? . 1) q pkg-config-catalogs)) q (1516 . 2)) ((c def c (c (? . 4) q get-module-pkgs)) q (16509 . 3)) ((c def c (c (? . 1) q extract-pkg-dependencies)) q (10982 . 8)) ((c def c (c (? . 4) q pkg-catalog)) c (? . 6)) ((c def c (c (? . 2) q read-pkgs-db)) q (13023 . 4))))
 procedure
 (generate-stripped-directory mode          
                              src-dir       
@@ -54,6 +54,19 @@ parameter
   catalogs : (or/c #f (listof url?))
 procedure
 (pkg-config-catalogs) -> (listof string?)
+parameter
+(current-pkg-download-cache-dir)
+ -> (or/c #f (and/c path-string? complete-path?))
+(current-pkg-download-cache-dir dir) -> void?
+  dir : (or/c #f (and/c path-string? complete-path?))
+parameter
+(current-pkg-download-cache-max-files) -> (or/c #f real?)
+(current-pkg-download-cache-max-files max-files) -> void?
+  max-files : (or/c #f real?)
+parameter
+(current-pkg-download-cache-max-bytes) -> (or/c #f real?)
+(current-pkg-download-cache-max-bytes max-bytes) -> void?
+  max-bytes : (or/c #f real?)
 procedure
 (pkg-directory name) -> (or/c path-string? #f)
   name : string?
@@ -100,19 +113,24 @@ procedure
   set? : boolean?
   keys/vals : list?
 procedure
-(pkg-create format dir [#:quiet? quiet?]) -> void?
+(pkg-create  format                                        
+             dir                                           
+            [#:quiet? quiet?                               
+             #:from-command-line? from-command-line?]) -> void?
   format : (or/c 'zip 'tgz 'plt 'MANIFEST)
   dir : path-string?
   quiet? : boolean? = #f
+  from-command-line? : boolean? = #f
 procedure
-(pkg-install  descs                                 
-             [#:dep-behavior dep-behavior           
-              #:update-deps? update-deps?           
-              #:force? force?                       
-              #:ignore-checksums? ignore-checksums? 
-              #:quiet? boolean?                     
-              #:strip strip                         
-              #:link-dirs? link-dirs?])             
+(pkg-install  descs                                   
+             [#:dep-behavior dep-behavior             
+              #:update-deps? update-deps?             
+              #:force? force?                         
+              #:ignore-checksums? ignore-checksums?   
+              #:quiet? boolean?                       
+              #:from-command-line? from-command-line? 
+              #:strip strip                           
+              #:link-dirs? link-dirs?])               
  -> (or/c 'skip
           #f
           (listof (or/c path-string?
@@ -124,18 +142,20 @@ procedure
   force? : boolean? = #f
   ignore-checksums? : boolean? = #f
   boolean? : quiet? = #f
+  from-command-line? : boolean? = #f
   strip : (or/c #f 'source 'binary) = #f
   link-dirs? : boolean? = #f
 procedure
-(pkg-update  names                                 
-            [#:all? all?                           
-             #:dep-behavior dep-behavior           
-             #:update-deps? update-deps?           
-             #:force? force?                       
-             #:ignore-checksums? ignore-checksums? 
-             #:quiet? boolean?                     
-             #:strip strip                         
-             #:link-dirs? link-dirs?])             
+(pkg-update  names                                   
+            [#:all? all?                             
+             #:dep-behavior dep-behavior             
+             #:update-deps? update-deps?             
+             #:force? force?                         
+             #:ignore-checksums? ignore-checksums?   
+             #:quiet? boolean?                       
+             #:from-command-line? from-command-line? 
+             #:strip strip                           
+             #:link-dirs? link-dirs?])               
  -> (or/c 'skip
           #f
           (listof (or/c path-string?
@@ -148,14 +168,16 @@ procedure
   force? : boolean? = #f
   ignore-checksums? : boolean? = #f
   boolean? : quiet? = #f
+  from-command-line? : boolean? = #f
   strip : (or/c #f 'source 'binary) = #f
   link-dirs? : boolean? = #f
 procedure
-(pkg-remove  names               
-            [#:demote? demote?   
-             #:auto? auto?       
-             #:force? force?     
-             #:quiet? boolean?]) 
+(pkg-remove  names                                     
+            [#:demote? demote?                         
+             #:auto? auto?                             
+             #:force? force?                           
+             #:quiet? boolean?                         
+             #:from-command-line? from-command-line?]) 
  -> (or/c 'skip
           #f
           (listof (or/c path-string?
@@ -165,17 +187,19 @@ procedure
   auto? : boolean? = #f
   force? : boolean? = #f
   boolean? : quiet? = #f
+  from-command-line? : boolean? = #f
 procedure
 (pkg-show indent [#:directory show-dir?]) -> void?
   indent : string?
   show-dir? : boolean? = #f
 procedure
-(pkg-migrate  from-version                          
-             [#:dep-behavior dep-behavior           
-              #:force? force?                       
-              #:ignore-checksums? ignore-checksums? 
-              #:quiet? boolean?                     
-              #:strip strip])                       
+(pkg-migrate  from-version                            
+             [#:dep-behavior dep-behavior             
+              #:force? force?                         
+              #:ignore-checksums? ignore-checksums?   
+              #:quiet? boolean?                       
+              #:from-command-line? from-command-line? 
+              #:strip strip])                         
  -> (or/c 'skip
           #f
           (listof (or/c path-string?
@@ -186,6 +210,7 @@ procedure
   force? : boolean? = #f
   ignore-checksums? : boolean? = #f
   boolean? : quiet? = #f
+  from-command-line? : boolean? = #f
   strip : (or/c #f 'source 'binary) = #f
 procedure
 (pkg-catalog-show  names                         
@@ -271,7 +296,6 @@ procedure
   namespace : namespace? = (make-base-namespace)
 struct
 (struct pkg-info (orig-pkg checksum auto?)
-        #:extra-constructor-name make-pkg-info
         #:prefab)
   orig-pkg : (or/c (list/c 'catalog string?)
                    (list/c 'url string?)
@@ -280,8 +304,13 @@ struct
   checksum : (or/c #f string?)
   auto? : boolean?
 struct
-(struct sc-pkg-info pkg-info ()
-        #:extra-constructor-name make-sc-pkg-info)
+(struct sc-pkg-info pkg-info ())
+struct
+(struct pkg-info/alt pkg-info (dir-name))
+  dir-name : string?
+struct
+(struct sc-pkg-info/alt sc-pkg-info (dir-name))
+  dir-name : string?
 procedure
 (path->pkg path #:cache cache) -> (or/c string? #f)
   path : path-string?
@@ -311,6 +340,19 @@ procedure
 procedure
 (read-pkg-file-hash path) -> hash?
   path : path?
+procedure
+(package-source-format? v) -> boolean?
+  v : any/c
+procedure
+(package-source->name source [type]) -> (or/c #f string?)
+  source : string?
+  type : (or/c package-source-format? #f) = #f
+procedure
+(package-source->name+type source [type])
+ -> (or/c #f string?)
+    (or/c package-source-format? #f)
+  source : string?
+  type : (or/c package-source-format? #f) = #f
 struct
 (struct pkg (name catalog author source checksum desc)
         #:extra-constructor-name make-pkg

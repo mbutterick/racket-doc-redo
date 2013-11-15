@@ -1,8 +1,22 @@
+Version 5.90.0.11
+Added flrandom and unsafe-flrandom
+
+Version 5.90.0.10
+Changed serializable-struct, etc. to provide deserialized-info:...
+ through a derialized-info submodule
+Added chaperone-channel and impersonate-channel
+Change string->path-element and bytes->path-element to raise an
+ exception for an empty [byte-]string argument
+Change path-replace-suffix to raise an excpetion when a path element
+ would be made empty
+racket/runtime-path: added runtime-require
+
 Version 5.90.0.9
-Allow hash table chaperones and impersonators to Support efficient
+Allow hash table chaperones and impersonators to support efficient
  hash-clear and hash-clear!
 setup/collection-name: added
 syntax/unsafe/for-transform: added
+raco pkg install with no arguments installs the current directory.
 
 Version 5.90.0.6
 Added path<?, symbol<?

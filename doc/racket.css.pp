@@ -14,6 +14,16 @@
     font-size: 1rem;
 }
 
+/* this selctor grabs the first linked Racket symbol
+in a definition box (i.e., the symbol being defined) */
+a.RktValDef, a.RktStxDef, a.RktSymDef,
+span.RktValDef, span.RktStxDef, span.RktSymDef
+{
+    font-size: 1.15rem;
+    color: black;
+    font-weight: 600;
+◊;    border: 0px solid green; 
+}
 
 
 .inheritedlbl {
