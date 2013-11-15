@@ -82,14 +82,14 @@ Released
 ◊(font-face-declaration "Charter" (string-append font-dir "charter/charter-regular.woff") #:base64 do-base64)
 ◊(font-face-declaration "Charter" (string-append font-dir "charter/charter-italic.woff") #:font-style "italic"  #:base64 do-base64)
 ◊(font-face-declaration "Charter" (string-append font-dir "charter/charter-bold.woff") #:font-weight "bold" #:base64 do-base64)
-◊(font-face-declaration "Charter" (string-append font-dir "charter/charter-bold-italic.woff") #:font-weight "bold" #:font-style "italic" #:base64 do-base64)
+◊;(font-face-declaration "Charter" (string-append font-dir "charter/charter-bold-italic.woff") #:font-weight "bold" #:font-style "italic" #:base64 do-base64)
 
 /* Charter license */
 /* (c) Copyright 1989-1992, Bitstream Inc., Cambridge, MA. You are hereby granted permission under all Bitstream propriety rights to use, copy, modify, sublicense, sell, and redistribute the 4 Bitstream Charter (r) Type 1 outline fonts and the 4 Courier Type 1 outline fonts for any purpose and without restriction; provided, that this notice is left intact on all copies of such fonts and that Bitstream's trademark is acknowledged as shown below on all unmodified copies of the 4 Charter Type 1 fonts. BITSTREAM CHARTER is a registered trademark of Bitstream Inc. */
 
 
 ◊; Fira
-◊(define fira-weights '("300" "400" "500" "600"))
+◊(define fira-weights '("300" "400" "600"))
 ◊(map (λ(weight) (font-face-declaration "Fira" (string-append font-dir "fira/fira-" weight ".woff") #:font-weight weight #:base64 do-base64)) fira-weights)
 
 ◊(font-face-declaration "Fira" (string-append font-dir "fira/fira-300-italic.woff") #:font-weight 
@@ -190,8 +190,8 @@ OTHER DEALINGS IN THE FONT SOFTWARE. */
 
 
 ◊; Source Code Pro
-◊(define scp-weights '("300" "400" "500" "600"))
-◊(map (λ(weight) (font-face-declaration "Source Code Pro" (string-append font-dir "source-code-pro/source-code-pro-" weight ".otf") #:font-weight weight #:base64 do-base64)) scp-weights)
+◊(define scp-weights '("300" "400" "500"))
+◊(map (λ(weight) (font-face-declaration "Source Code Pro" (string-append font-dir "source-code-pro/source-code-pro-" weight ".woff") #:font-weight weight #:base64 do-base64)) scp-weights)
 
 /* Source Code Pro license */
 /* Copyright 2010, 2012 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.

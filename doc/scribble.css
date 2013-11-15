@@ -168,7 +168,7 @@ table td {
 
 
 a {
-    color: #777;
+    color: #07A;
     text-decoration: inherit;
 }
 
@@ -636,8 +636,10 @@ background: linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(216, 78%, 95
 
 /* A hack, inserted to break some Scheme ids: */
 .mywbr {
-  display: inline-block; height: 0; width: 0;
-  font-size: 1px;
+display: inline-block;
+height: 0;
+    width: 0;
+    font-size: 1px;
 }
 
 

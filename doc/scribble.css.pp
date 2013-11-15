@@ -171,7 +171,7 @@ table td {
 
 
 a {
-    color: #777;
+    color: ◊|rd-anchor-color|;
     text-decoration: inherit;
 }
 
@@ -640,10 +640,12 @@ ol ol ol ol { list-style-type: upper-alpha; }
 
 /* A hack, inserted to break some Scheme ids: */
 .mywbr {
-  display: inline-block; ◊; counter-hack to make it work better in ML Chrome 
-  height: 0; ◊; counter-hack to make it work better in ML Chrome 
-  width: 0;
-  font-size: 1px;
+◊; counter-hack to make it work better in ML Chrome 
+    display: inline-block;
+◊; counter-hack to make it work better in ML Chrome  
+    height: 0;
+    width: 0;
+    font-size: 1px;
 }
 
 

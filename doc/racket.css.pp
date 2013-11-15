@@ -141,7 +141,7 @@ h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
     color: inherit;
 }
 
-.tocset .RktValLink, .tocset .RktStxLink {
+.tocset .RktValLink, .tocset .RktStxLink, .tocset .RktModLink {
     color: black;
   font-weight: 400;
     font-size: 0.9rem;
