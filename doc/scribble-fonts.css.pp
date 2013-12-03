@@ -190,7 +190,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE. */
 
 
 ◊; Source Code Pro
-◊(define scp-weights '("300" "400" "500"))
+◊(define scp-weights '("300" "400" "500" "600"))
 ◊(map (λ(weight) (font-face-declaration "Source Code Pro" (string-append font-dir "source-code-pro/source-code-pro-" weight ".woff") #:font-weight weight #:base64 do-base64)) scp-weights)
 
 /* Source Code Pro license */
