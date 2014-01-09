@@ -1,5 +1,5 @@
 352
-((3) 0 () 1 ((q lib "net/win32-ssl.rkt")) () (h ! (equal) ((c def c (c (? . 0) q win32-ssl-available?)) q (1025 . 2)) ((c def c (c (? . 0) q win32-ssl-connect)) q (0 . 12)) ((c def c (c (? . 0) q win32-ssl-abandon-port)) q (463 . 3)) ((c def c (c (? . 0) q ports->win32-ssl-ports)) q (563 . 10)) ((c def c (c (? . 0) q win32-ssl-port?)) q (964 . 3))))
+((3) 0 () 1 ((q lib "net/win32-ssl.rkt")) () (h ! (equal) ((c def c (c (? . 0) q win32-ssl-connect)) q (0 . 12)) ((c def c (c (? . 0) q win32-ssl-available?)) q (1025 . 2)) ((c def c (c (? . 0) q win32-ssl-abandon-port)) q (463 . 3)) ((c def c (c (? . 0) q win32-ssl-port?)) q (964 . 3)) ((c def c (c (? . 0) q ports->win32-ssl-ports)) q (563 . 10))))
 procedure
 (win32-ssl-connect  hostname          
                     port-no           

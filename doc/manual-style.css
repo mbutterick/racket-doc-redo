@@ -317,10 +317,6 @@ a:hover {
     font-weight: 400;
 }
 
-.refcontent img {
-    width: 1.5em;
-}
-
 .refpara, .refparaleft {
     top: -1em;
 }
@@ -560,7 +556,7 @@ blockquote {
     margin-left: 0em;
     margin-right: 2em;
     white-space: nowrap;
-    line-height: 1.4;
+    line-height: 1.5;
 }
 
 .SCodeFlow img {

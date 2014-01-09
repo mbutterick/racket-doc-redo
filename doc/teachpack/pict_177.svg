@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18pt" height="18pt" viewBox="0 0 18 18" version="1.1">
+<defs>
+<image id="image4841" width="17" height="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAABmJLR0QA/wD/AP+gvaeTAAABGUlEQVQ4jaXSTSvEURgF8N9oZDFJmg8g4gMgsyJfQJGVsUDWSlOys1OysLKyslSz9fIJZGWP3SSlFNlIXgaL/53xb3LNDKdu3ZfnnOec7pPRPvIohv0B7v8iUMFnWBXks22KFNGH8XA+RbGjCWkE6+hts1kdPbiS2H7CHnZ9R6nHiQlkcIgXLAWB50A8w0pYeYjFWcYUVlFGFV14xyBuMBqcLsSc9GMRY7gMItuYSEV5wH6ojWIHr5Lck6n7EmbR+RsZCqmO19jEUDNSI45xh3kc4S0IlloVmMGHZD5qmA4ic83IBZwEgUfkUm9bku/ujpGHU+S74CDXUHOBW2yI/MZasFr+gVzDY6ipisxFFueSAfoXBmIdWsEX+9tFZesM5iQAAAAASUVORK5CYII="/>
+<pattern id="pattern0" patternUnits="userSpaceOnUse" width="17" height="17" >
+  <use xlink:href="#image4841"/>
+</pattern>
+</defs>
+<g id="surface4838">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#pattern0);" d="M 0 0 L 17 0 L 17 17 L 0 17 Z M 0 0 "/>
+</g>
+</svg>
