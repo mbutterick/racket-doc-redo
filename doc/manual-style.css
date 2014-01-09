@@ -564,7 +564,7 @@ blockquote {
     margin-bottom: 0.5em;
 }
 
-.SVInsetFlow, .SIntrapara > table.RBoxed {
+.boxed {
     margin: 0;
     margin-top: 2em;
     padding: 0.25em;
