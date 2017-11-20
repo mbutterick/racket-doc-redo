@@ -18,9 +18,9 @@ in a definition box (i.e., the symbol being defined) */
 a.RktValDef, a.RktStxDef, a.RktSymDef,
 span.RktValDef, span.RktStxDef, span.RktSymDef
 {
-    font-size: 1.15rem;
+    font-size: 1.2rem;
     color: black;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 
@@ -219,6 +219,10 @@ tbody > tr:first-child > td > .together {
     font-size: 1rem;
 }
 
+/* make parens ordinary color in defmodule */
+.defmodule .RktPn {
+    color: inherit;
+}
 
 .specgrammar {
     float: none;

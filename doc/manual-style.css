@@ -483,9 +483,21 @@ table.tocsublist {
     font-size: 1rem;
 }
 
-.tocviewsublist td, .tocviewsublistbottom td, .tocviewsublisttop td, .tocsub td,
+.tocviewsublist td, 
+.tocviewsublistbottom td, 
+.tocviewsublisttop td, 
+.tocsub td,
 .tocviewsublistonly td {
     font-size: 90%;
+}
+
+/* shrink the monospaced text (`stt`) within nav */
+.tocviewsublist td .stt, 
+.tocviewsublistbottom td .stt, 
+.tocviewsublisttop td .stt, 
+.tocsub td .stt,
+.tocviewsublistonly td .stt {
+    font-size: 95%;
 }
 
 
