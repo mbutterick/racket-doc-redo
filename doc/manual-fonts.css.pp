@@ -1,7 +1,7 @@
 #lang pollen
 ◊(require css-tools racket/string racket/file)
 
-◊(define do-base64 #t)
+◊(define do-base64 #f)
 ◊(define font-dir "manual-fonts/")
 
 ◊(define (embed-license which)
