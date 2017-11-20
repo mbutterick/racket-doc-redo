@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="81pt" height="81pt" viewBox="0 0 81 81" version="1.1">
-<defs>
-<clipPath id="clip1">
-  <path d="M 40 40 L 80 40 L 80 80 L 40 80 Z M 40 40 "/>
-</clipPath>
-<clipPath id="clip2">
-  <path d="M 0 40 L 40 40 L 40 80 L 0 80 Z M 0 40 "/>
-</clipPath>
-<clipPath id="clip3">
-  <path d="M 40 0 L 80 0 L 80 40 L 40 40 Z M 40 0 "/>
-</clipPath>
-<clipPath id="clip4">
-  <path d="M 0 0 L 40 0 L 40 40 L 0 40 Z M 0 0 "/>
-</clipPath>
-</defs>
-<g id="surface4817">
-<g clip-path="url(#clip1)" clip-rule="evenodd">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(85.882353%,43.921569%,57.647059%);fill-opacity:1;" d="M 120 80 C 120 102.089844 102.089844 120 80 120 C 57.910156 120 40 102.089844 40 80 C 40 57.910156 57.910156 40 80 40 C 102.089844 40 120 57.910156 120 80 Z M 120 80 "/>
-</g>
-<g clip-path="url(#clip2)" clip-rule="evenodd">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(94.117647%,50.196078%,50.196078%);fill-opacity:1;" d="M 40 80 C 40 102.089844 22.089844 120 0 120 C -22.089844 120 -40 102.089844 -40 80 C -40 57.910156 -22.089844 40 0 40 C 22.089844 40 40 57.910156 40 80 Z M 40 80 "/>
-</g>
-<g clip-path="url(#clip3)" clip-rule="evenodd">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(94.117647%,50.196078%,50.196078%);fill-opacity:1;" d="M 120 0 C 120 22.089844 102.089844 40 80 40 C 57.910156 40 40 22.089844 40 0 C 40 -22.089844 57.910156 -40 80 -40 C 102.089844 -40 120 -22.089844 120 0 Z M 120 0 "/>
-</g>
-<g clip-path="url(#clip4)" clip-rule="evenodd">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(85.882353%,43.921569%,57.647059%);fill-opacity:1;" d="M 40 0 C 40 22.089844 22.089844 40 0 40 C -22.089844 40 -40 22.089844 -40 0 C -40 -22.089844 -22.089844 -40 0 -40 C 22.089844 -40 40 -22.089844 40 0 Z M 40 0 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" viewBox="0 0 52 52" version="1.1">
+<g id="surface7184">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(41.960784%,55.686275%,13.72549%);fill-opacity:1;" d="M 46.574219 4.148438 C 50.480469 8.050781 44.148438 20.714844 32.433594 32.433594 C 20.714844 44.148438 8.050781 50.480469 4.148438 46.574219 C 0.242188 42.667969 6.574219 30.003906 18.289062 18.289062 C 30.003906 6.574219 42.667969 0.242188 46.574219 4.148438 Z "/>
 </g>
 </svg>

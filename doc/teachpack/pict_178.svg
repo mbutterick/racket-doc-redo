@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121pt" height="41pt" viewBox="0 0 121 41" version="1.1">
-<defs>
-<image id="image4847" width="3" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAABCAIAAACUgoPjAAAABmJLR0QA/wD/AP+gvaeTAAAAEklEQVQImWP4z8DA8J+BgeE/AA77Av5uD9TVAAAAAElFTkSuQmCC"/>
-<pattern id="pattern0" patternUnits="userSpaceOnUse" width="3" height="1"  patternTransform="matrix(40,0,0,40,0,0)">
-  <use xlink:href="#image4847"/>
-</pattern>
-</defs>
-<g id="surface4844">
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#pattern0);" d="M 0 0 L 120 0 L 120 40 L 0 40 Z M 0 0 "/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="67" viewBox="0 0 67 67" version="1.1">
+<g id="surface7214">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,100%);fill-opacity:1;" d="M 63 33 C 63 49.570312 49.570312 63 33 63 C 16.429688 63 3 49.570312 3 33 C 3 16.429688 16.429688 3 33 3 C 49.570312 3 63 16.429688 63 33 Z "/>
 </g>
 </svg>

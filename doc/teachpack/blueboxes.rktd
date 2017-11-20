@@ -1,5 +1,5 @@
-20334
-((3) 0 () 27 ((q lib "2htdp/planetcute.rkt") (q lib "htdp/image.rkt") (q lib "2htdp/universe.rkt") (q lib "2htdp/image.rkt") (q lib "2htdp/batch-io.rkt") (q lib "htdp/dir.rkt") (q lib "htdp/big-draw.rkt") (q lib "htdp/world.rkt") (q 126 . 6) (q lib "htdp/guess-gui.rkt") (q 4312 . 7) (q lib "htdp/matrix.rkt") (q 10471 . 6) (q 42501 . 3) (q lib "htdp/gui.rkt") (q 37482 . 8) (q lib "teachpack/2htdp/image.rkt") (q 36842 . 7) (q lib "htdp/arrow-gui.rkt") (q lib "htdp/guess.rkt") (q lib "htdp/docs.rkt") (q 10307 . 6) (q lib "htdp/arrow.rkt") (q lib "htdp/lkup-gui.rkt") (q lib "htdp/hangman.rkt") (q lib "htdp/convert.rkt") (q lib "htdp/graphing.rkt")) () (h ! (equal) ((c def c (c (? . 0) q roof-south-west)) q (46501 . 2)) ((c def c (c (? . 0) q ramp-south)) q (46226 . 2)) ((c def c (c (? . 24) q hangman)) q (8988 . 5)) ((c def c (c (? . 4) q read-plain-xexpr)) q (15059 . 3)) ((c def c (c (? . 5) q dir-files)) c (? . 21)) ((c def c (c (? . 1) q color?)) c (? . 8)) ((c def c (c (? . 18) q view)) q (11704 . 3)) ((c def c (c (? . 0) q wall-block-tall)) q (45684 . 2)) ((c form c (c (? . 2) q up)) q (41505 . 4)) ((c def c (c (? . 1) q shrink-tl)) q (2618 . 5)) ((c def c (c (? . 3) q above)) q (32434 . 5)) ((c def c (c (? . 0) q brown-block)) q (45506 . 2)) ((c form c (c (? . 2) q on-release)) q (40961 . 4)) ((c def c (c (? . 2) q mail?)) q (43629 . 3)) ((c def c (c (? . 2) q animate)) q (39067 . 3)) ((c def c (c (? . 0) q character-horn-girl)) q (45333 . 2)) ((c def c (c (? . 0) q wood-block)) q (45774 . 2)) ((c def c (c (? . 3) q underlay/align)) q (31390 . 7)) ((c def c (c (? . 3) q pen-join)) c (? . 15)) ((c form c (c (? . 2) q on-disconnect)) q (44724 . 4)) ((c def c (c (? . 1) q alpha-color-alpha)) c (? . 10)) ((c def c (c (? . 3) q triangle/ass)) q (20957 . 21)) ((c def c (c (? . 16) q struct:stop-with)) c (? . 13)) ((c def c (c (? . 4) q read-csv-file)) q (14657 . 3)) ((c def c (c (? . 6) q draw-circle)) q (7434 . 5)) ((c def c (c (? . 2) q make-bundle)) q (43493 . 5)) ((c def c (c (? . 4) q read-xexpr)) q (14950 . 3)) ((c def c (c (? . 3) q image-baseline)) q (36583 . 3)) ((c def c (c (? . 1) q alpha-color-list->image)) q (4716 . 7)) ((c def c (c (? . 9) q control)) q (12183 . 3)) ((c def c (c (? . 5) q file-size)) c (? . 12)) ((c def c (c (? . 6) q start/cartesian-plane)) q (7303 . 4)) ((c def c (c (? . 3) q triangle)) q (18283 . 11)) ((c def c (c (? . 7) q on-mouse-event)) q (5842 . 3)) ((c def c (c (? . 1) q image->alpha-color-list)) q (4627 . 3)) ((c form c (c (? . 2) q register)) q (43023 . 4)) ((c def c (c (? . 3) q overlay/xy)) q (31169 . 6)) ((c def c (c (? . 7) q on-tick-event)) q (5545 . 3)) ((c def c (c (? . 4) q xexpr-as-string)) q (15528 . 3)) ((c def c (c (? . 23) q connect)) q (12084 . 3)) ((c def c (c (? . 3) q clear-pinhole)) q (38211 . 3)) ((c form c (c (? . 2) q name)) q (42742 . 4)) ((c def c (c (? . 11) q rectangle->matrix)) q (12683 . 3)) ((c def c (c (? . 1) q color-green)) c (? . 8)) ((c def c (c (? . 7) q big-bang)) q (5191 . 12)) ((c def c (c (? . 4) q xexpr?)) q (15477 . 3)) ((c def c (c (? . 3) q above/align)) q (32535 . 6)) ((c def c (c (? . 7) q on-redraw)) q (5967 . 3)) ((c def c (c (? . 4) q read-words)) q (14260 . 3)) ((c form c (c (? . 2) q universe)) q (43767 . 12)) ((c form c (c (? . 2) q big-bang)) q (39379 . 20)) ((c def c (c (? . 1) q line)) q (1361 . 5)) ((c def c (c (? . 0) q enemy-bug)) q (45448 . 2)) ((c def c (c (? . 6) q clear-solid-rect)) q (8224 . 6)) ((c def c (c (? . 9) q connect)) q (12324 . 3)) ((c def c (c (? . 1) q List-of-color)) q (4002 . 2)) ((c def c (c (? . 1) q scene?)) q (3259 . 3)) ((c def c (c (? . 0) q gem-orange)) q (45940 . 2)) ((c def c (c (? . 1) q alpha-color?)) c (? . 10)) ((c def c (c (? . 1) q shrink-tr)) q (2736 . 5)) ((c def c (c (? . 2) q run-simulation)) q (39175 . 3)) ((c def c (c (? . 3) q place-image/align)) q (33130 . 13)) ((c def c (c (? . 11) q matrix-rows)) q (12549 . 3)) ((c def c (c (? . 5) q file-name)) c (? . 12)) ((c form c (c (? . 2) q to-draw)) q (40070 . 4)) ((c def c (c (? . 3) q overlay/align)) q (30495 . 7)) ((c def c (c (? . 1) q overlay/xy)) q (2287 . 6)) ((c def c (c (? . 3) q bitmap/url)) q (35562 . 3)) ((c def c (c (? . 2) q mouse-event?)) q (41975 . 3)) ((c def c (c (? . 0) q shadow-north)) q (46717 . 2)) ((c def c (c (? . 3) q bitmap/file)) q (35622 . 3)) ((c def c (c (? . 2) q make-mail)) q (43680 . 4)) ((c def c (c (? . 6) q wait-for-mouse-click)) q (8590 . 2)) ((c def c (c (? . 3) q image-color?)) q (36784 . 3)) ((c def c (c (? . 11) q matrix-render)) q (13658 . 3)) ((c def c (c (? . 3) q star)) q (27086 . 9)) ((c def c (c (? . 2) q stop-with)) c (? . 13)) ((c def c (c (? . 3) q image-height)) q (36487 . 3)) ((c def c (c (? . 14) q make-message)) q (11257 . 3)) ((c form c (c (? . 2) q on-pad)) q (41197 . 4)) ((c def c (c (? . 14) q make-text)) q (11399 . 3)) ((c def c (c (? . 3) q freeze)) q (35969 . 13)) ((c def c (c (? . 3) q underlay)) q (31286 . 5)) ((c def c (c (? . 3) q overlay)) q (30392 . 5)) ((c def c (c (? . 0) q plain-block)) q (45592 . 2)) ((c def c (c (? . 3) q square)) q (25679 . 9)) ((c def c (c (? . 2) q bundle?)) q (43440 . 3)) ((c def c (c (? . 3) q rectangle)) q (26039 . 14)) ((c def c (c (? . 3) q ellipse)) q (16058 . 11)) ((c def c (c (? . 3) q overlay/align/offset)) q (30793 . 13)) ((c form c (c (? . 2) q stop-when)) q (42277 . 4)) ((c def c (c (? . 2) q sexp?)) q (42813 . 3)) ((c def c (c (? . 3) q center-pinhole)) q (37884 . 3)) ((c def c (c (? . 11) q matrix-set)) q (13343 . 6)) ((c def c (c (? . 3) q add-curve)) q (16848 . 21)) ((c def c (c (? . 0) q shadow-south-west)) q (46816 . 2)) ((c def c (c (? . 1) q scene+line)) q (3836 . 8)) ((c def c (c (? . 3) q pen-join?)) q (37829 . 3)) ((c def c (c (? . 3) q save-image)) q (38500 . 7)) ((c def c (c (? . 0) q shadow-west)) q (46881 . 2)) ((c def c (c (? . 3) q make-color)) c (? . 17)) ((c def c (c (? . 0) q wall-block)) q (45717 . 2)) ((c def c (c (? . 7) q run-movie)) q (4907 . 4)) ((c def c (c (? . 3) q underlay/align/offset)) q (31690 . 13)) ((c def c (c (? . 19) q guess-with-gui-3)) q (6811 . 3)) ((c def c (c (? . 3) q put-pinhole)) q (37951 . 5)) ((c def c (c (? . 1) q alpha-color-blue)) c (? . 10)) ((c form c (c (? . 2) q down)) q (41579 . 4)) ((c def c (c (? . 3) q scene+line)) q (33976 . 8)) ((c def c (c (? . 3) q radial-star)) q (28211 . 21)) ((c def c (c (? . 3) q pen-cap)) c (? . 15)) ((c def c (c (? . 4) q read-1strings)) q (14016 . 3)) ((c def c (c (? . 3) q text)) q (17441 . 5)) ((c def c (c (? . 3) q pinhole-x)) q (38059 . 3)) ((c def c (c (? . 3) q underlay/pinhole)) q (38388 . 5)) ((c def c (c (? . 3) q place-images)) q (33494 . 5)) ((c def c (c (? . 0) q dirt-block)) q (45535 . 2)) ((c def c (c (? . 3) q color-list->bitmap)) q (35766 . 5)) ((c def c (c (? . 7) q run-simulation)) q (5008 . 6)) ((c def c (c (? . 4) q read-file)) q (13907 . 3)) ((c def c (c (? . 0) q tree-ugly)) q (46115 . 2)) ((c def c (c (? . 5) q create-dir)) q (10635 . 3)) ((c def c (c (? . 14) q make-choice)) q (11521 . 3)) ((c def c (c (? . 1) q color)) c (? . 8)) ((c def c (c (? . 6) q draw-solid-line)) q (7774 . 5)) ((c def c (c (? . 4) q read-lines)) q (14140 . 3)) ((c def c (c (? . 11) q matrix-where?)) q (13547 . 4)) ((c def c (c (? . 2) q iworld-name)) q (43304 . 3)) ((c def c (c (? . 3) q triangle/sss)) q (20068 . 21)) ((c def c (c (? . 16) q stop-with-w)) c (? . 13)) ((c def c (c (? . 4) q read-csv-file/rows)) q (14788 . 4)) ((c def c (c (? . 5) q file-content)) c (? . 12)) ((c def c (c (? . 6) q on-key-event)) q (8768 . 3)) ((c def c (c (? . 1) q color-blue)) c (? . 8)) ((c def c (c (? . 6) q on-tick-event)) q (8867 . 3)) ((c def c (c (? . 1) q color-list->image)) q (4105 . 7)) ((c def c (c (? . 1) q shrink-br)) q (2972 . 5)) ((c def c (c (? . 5) q struct:file)) c (? . 12)) ((c def c (c (? . 2) q run-movie)) q (39278 . 4)) ((c def c (c (? . 1) q image-color?)) q (370 . 3)) ((c def c (c (? . 25) q convert-file)) q (6578 . 5)) ((c def c (c (? . 3) q pen?)) c (? . 15)) ((c def c (c (? . 0) q heart)) q (45968 . 2)) ((c def c (c (? . 0) q shadow-north-west)) q (46682 . 2)) ((c def c (c (? . 1) q place-image)) q (3425 . 6)) ((c def c (c (? . 0) q roof-north)) q (46440 . 2)) ((c def c (c (? . 11) q make-matrix)) q (12815 . 5)) ((c def c (c (? . 3) q color-alpha)) c (? . 17)) ((c def c (c (? . 3) q angle?)) q (37253 . 3)) ((c def c (c (? . 0) q tree-short)) q (46060 . 2)) ((c def c (c (? . 3) q mode?)) q (36733 . 3)) ((c form c (c (? . 2) q on-mouse)) q (42117 . 6)) ((c def c (c (? . 11) q matrix-ref)) q (13160 . 5)) ((c def c (c (? . 3) q add-polygon)) q (30070 . 6)) ((c def c (c (? . 1) q move-pinhole)) q (1887 . 5)) ((c def c (c (? . 0) q ramp-west)) q (46254 . 2)) ((c def c (c (? . 0) q character-pink-girl)) q (45370 . 2)) ((c def c (c (? . 0) q window-tall)) q (46589 . 2)) ((c def c (c (? . 3) q y-place?)) q (37145 . 3)) ((c def c (c (? . 20) q annotation?)) q (10121 . 3)) ((c def c (c (? . 7) q stop-when)) q (6045 . 3)) ((c def c (c (? . 3) q struct:pen)) c (? . 15)) ((c def c (c (? . 4) q read-xexpr/web)) q (15292 . 3)) ((c def c (c (? . 6) q clear-solid-line)) q (8367 . 5)) ((c def c (c (? . 3) q color-blue)) c (? . 17)) ((c def c (c (? . 1) q struct:alpha-color)) c (? . 10)) ((c def c (c (? . 2) q iworld1)) q (43362 . 2)) ((c def c (c (? . 3) q star-polygon)) q (27440 . 21)) ((c def c (c (? . 2) q launch-many-worlds/proc)) q (45088 . 4)) ((c def c (c (? . 3) q pen-style?)) q (37719 . 3)) ((c def c (c (? . 3) q overlay/offset)) q (30672 . 6)) ((c def c (c (? . 2) q package?)) q (42864 . 3)) ((c form c (c (? . 2) q on-key)) q (40871 . 4)) ((c def c (c (? . 3) q empty-image)) q (18254 . 2)) ((c form c (c (? . 2) q check-with)) q (42555 . 4)) ((c def c (c (? . 14) q draw-message)) q (11321 . 4)) ((c def c (c (? . 1) q rectangle)) q (426 . 6)) ((c def c (c (? . 6) q clear-circle)) q (8024 . 5)) ((c def c (c (? . 0) q character-boy)) q (45266 . 2)) ((c def c (c (? . 3) q place-images/align)) q (33636 . 11)) ((c def c (c (? . 1) q image->color-list)) q (4032 . 3)) ((c def c (c (? . 6) q clear-solid-string)) q (8477 . 4)) ((c def c (c (? . 3) q triangle/aas)) q (23420 . 21)) ((c def c (c (? . 4) q read-words/line)) q (14380 . 3)) ((c def c (c (? . 3) q pen-width)) c (? . 15)) ((c def c (c (? . 1) q pinhole-y)) q (1733 . 3)) ((c def c (c (? . 18) q control)) q (11671 . 2)) ((q def ((lib "htdp/show-queen.rkt") show-queen)) q (12411 . 3)) ((c def c (c (? . 14) q show-window)) q (11031 . 3)) ((c def c (c (? . 0) q gem-green)) q (45913 . 2)) ((c form c (c (? . 2) q on-new)) q (44157 . 4)) ((c def c (c (? . 6) q draw-solid-rect)) q (7632 . 6)) ((c def c (c (? . 0) q ramp-north)) q (46198 . 2)) ((c def c (c (? . 14) q choice-index)) q (11602 . 3)) ((c def c (c (? . 3) q add-line)) q (16641 . 8)) ((c def c (c (? . 19) q guess-with-gui-list)) q (6930 . 3)) ((c def c (c (? . 0) q door-tall-closed)) q (46281 . 2)) ((c def c (c (? . 0) q gem-blue)) q (45887 . 2)) ((q def ((lib "htdp/hangman-play.rkt") go)) q (9454 . 3)) ((c def c (c (? . 2) q key-event?)) q (40737 . 3)) ((c def c (c (? . 6) q sleep-for-a-while)) q (7963 . 3)) ((c form c (c (? . 2) q record?)) q (42631 . 4)) ((c def c (c (? . 3) q make-pen)) c (? . 15)) ((c def c (c (? . 3) q struct:color)) c (? . 17)) ((c def c (c (? . 3) q rhombus)) q (26588 . 14)) ((c def c (c (? . 6) q clear-all)) q (8558 . 2)) ((c def c (c (? . 3) q color)) c (? . 17)) ((c def c (c (? . 1) q empty-scene)) q (3311 . 4)) ((c def c (c (? . 3) q text/font)) q (17598 . 18)) ((c def c (c (? . 20) q atom?)) q (10070 . 3)) ((c def c (c (? . 0) q stone-block-tall)) q (45621 . 2)) ((c def c (c (? . 0) q shadow-south-east)) q (46781 . 2)) ((c def c (c (? . 3) q scene+curve)) q (34185 . 21)) ((c def c (c (? . 3) q scale)) q (34808 . 4)) ((c def c (c (? . 0) q stone-block)) q (45655 . 2)) ((c def c (c (? . 3) q image->color-list)) q (35686 . 3)) ((c def c (c (? . 11) q matrix-minor)) q (13720 . 5)) ((c form c (c (? . 2) q on-tick)) q (40324 . 4)) ((c def c (c (? . 4) q url-html-neighbors)) q (15589 . 3)) ((c def c (c (? . 3) q overlay/pinhole)) q (38277 . 5)) ((c def c (c (? . 1) q text)) q (1451 . 5)) ((c def c (c (? . 7) q key-event?)) q (5619 . 3)) ((c def c (c (? . 0) q chest-lid)) q (45832 . 2)) ((c def c (c (? . 1) q regular-polygon)) q (1210 . 7)) ((c def c (c (? . 0) q roof-west)) q (46562 . 2)) ((c def c (c (? . 18) q connect)) q (11769 . 6)) ((c def c (c (? . 2) q iworld=?)) q (43227 . 4)) ((c def c (c (? . 3) q underlay/offset)) q (31568 . 6)) ((c def c (c (? . 0) q rock)) q (46012 . 2)) ((c def c (c (? . 20) q write-file)) q (10245 . 3)) ((c def c (c (? . 5) q dir-dirs)) c (? . 21)) ((c def c (c (? . 3) q color?)) c (? . 17)) ((c def c (c (? . 9) q view)) q (12253 . 3)) ((c def c (c (? . 3) q pen)) c (? . 15)) ((c def c (c (? . 3) q triangle/ssa)) q (22599 . 21)) ((c def c (c (? . 0) q character-princess-girl)) q (45407 . 2)) ((c def c (c (? . 3) q polygon)) q (29722 . 9)) ((c def c (c (? . 22) q control-up-down)) q (9679 . 6)) ((c def c (c (? . 1) q nw:rectangle)) q (3547 . 9)) ((c form c (c (? . 2) q left)) q (41657 . 4)) ((c def c (c (? . 0) q shadow-east)) q (46618 . 2)) ((c def c (c (? . 1) q image?)) q (0 . 3)) ((c def c (c (? . 0) q roof-north-west)) q (46407 . 2)) ((c def c (c (? . 0) q grass-block)) q (45563 . 2)) ((c def c (c (? . 26) q graph-line)) q (10794 . 4)) ((c def c (c (? . 0) q roof-south)) q (46534 . 2)) ((c form c (c (? . 2) q on-receive)) q (43077 . 4)) ((c def c (c (? . 22) q control)) q (9849 . 7)) ((c def c (c (? . 0) q selector)) q (46034 . 2)) ((c def c (c (? . 7) q on-key-event)) q (5753 . 3)) ((c def c (c (? . 11) q build-matrix)) q (12937 . 7)) ((c def c (c (? . 3) q beside)) q (32190 . 5)) ((c def c (c (? . 1) q shrink)) q (3090 . 7)) ((c def c (c (? . 14) q window?)) q (10978 . 3)) ((c def c (c (? . 2) q iworld?)) q (43174 . 3)) ((c def c (c (? . 3) q line)) q (16508 . 5)) ((c def c (c (? . 0) q shadow-side-west)) q (46747 . 2)) ((c def c (c (? . 3) q pen-color)) c (? . 15)) ((c def c (c (? . 5) q dir)) c (? . 21)) ((c def c (c (? . 3) q color-green)) c (? . 17)) ((c def c (c (? . 14) q create-window)) q (10898 . 3)) ((c form c (c (? . 2) q space)) q (41815 . 4)) ((c form c (c (? . 2) q state)) q (42680 . 4)) ((q def ((lib "htdp/elevator.rkt") run)) q (11879 . 3)) ((c def c (c (? . 3) q place-image)) q (33000 . 6)) ((c def c (c (? . 5) q file?)) c (? . 12)) ((c def c (c (? . 3) q real-valued-posn?)) q (37419 . 3)) ((c def c (c (? . 1) q circle)) q (609 . 5)) ((c def c (c (? . 3) q frame)) q (35425 . 3)) ((c def c (c (? . 3) q triangle/sas)) q (21778 . 21)) ((c def c (c (? . 3) q underlay/xy)) q (32072 . 6)) ((c def c (c (? . 0) q shadow-north-east)) q (46647 . 2)) ((c def c (c (? . 3) q image-width)) q (36392 . 3)) ((c def c (c (? . 6) q stop)) q (7407 . 2)) ((c def c (c (? . 0) q ramp-east)) q (46171 . 2)) ((c def c (c (? . 16) q stop-with?)) c (? . 13)) ((c def c (c (? . 6) q get-key-event)) q (8634 . 2)) ((c def c (c (? . 1) q pinhole-x)) q (1677 . 3)) ((c def c (c (? . 0) q character-cat-girl)) q (45297 . 2)) ((c def c (c (? . 1) q find-image)) q (2532 . 4)) ((c def c (c (? . 0) q yellow-star)) q (46142 . 2)) ((c def c (c (? . 3) q crop)) q (35216 . 7)) ((c def c (c (? . 2) q LOCALHOST)) q (42995 . 2)) ((c def c (c (? . 1) q make-color)) c (? . 8)) ((c def c (c (? . 3) q triangle/asa)) q (24173 . 21)) ((c def c (c (? . 0) q key)) q (45991 . 2)) ((c def c (c (? . 23) q control)) q (11943 . 3)) ((c def c (c (? . 3) q pinhole-y)) q (38135 . 3)) ((c def c (c (? . 6) q big-bang)) q (8693 . 4)) ((c def c (c (? . 1) q alpha-color-red)) c (? . 10)) ((c def c (c (? . 1) q image-height)) q (1618 . 3)) ((c def c (c (? . 2) q pad=?)) q (41117 . 4)) ((c def c (c (? . 3) q right-triangle)) q (18702 . 17)) ((c def c (c (? . 1) q make-alpha-color)) c (? . 10)) ((c def c (c (? . 0) q roof-east)) q (46347 . 2)) ((c def c (c (? . 0) q chest-closed)) q (45802 . 2)) ((c def c (c (? . 3) q step-count?)) q (37362 . 3)) ((c def c (c (? . 0) q roof-south-east)) q (46468 . 2)) ((c def c (c (? . 3) q beside/align)) q (32292 . 6)) ((c def c (c (? . 6) q draw-solid-string)) q (7883 . 4)) ((c def c (c (? . 4) q read-words-and-numbers/line)) q (14505 . 3)) ((c def c (c (? . 3) q x-place?)) q (37199 . 3)) ((c def c (c (? . 5) q struct:dir)) c (? . 21)) ((c def c (c (? . 1) q color-red)) c (? . 8)) ((c def c (c (? . 2) q key=?)) q (40791 . 4)) ((c def c (c (? . 3) q scale/xy)) q (34915 . 5)) ((c def c (c (? . 3) q rotate)) q (34721 . 4)) ((c def c (c (? . 3) q pen-cap?)) q (37775 . 3)) ((c def c (c (? . 11) q matrix?)) q (12496 . 3)) ((c def c (c (? . 3) q color-red)) c (? . 17)) ((c def c (c (? . 4) q url-exists?)) q (15418 . 3)) ((c form c (c (? . 2) q on-msg)) q (44241 . 4)) ((c def c (c (? . 1) q ellipse)) q (733 . 6)) ((c def c (c (? . 19) q guess-with-gui)) q (6709 . 3)) ((c def c (c (? . 24) q hangman-list)) q (9194 . 6)) ((c def c (c (? . 20) q end-annotation)) q (10178 . 3)) ((c def c (c (? . 1) q overlay)) q (2174 . 5)) ((c def c (c (? . 3) q isosceles-triangle)) q (19407 . 17)) ((c def c (c (? . 1) q star)) q (1005 . 7)) ((c def c (c (? . 0) q speech-bubble)) q (45475 . 2)) ((c def c (c (? . 4) q write-file)) q (15174 . 4)) ((c def c (c (? . 3) q side-count?)) q (37305 . 3)) ((c def c (c (? . 7) q key=?)) q (5673 . 4)) ((q def ((lib "htdp/master-play.rkt") go)) q (7163 . 3)) ((c def c (c (? . 6) q draw-solid-disk)) q (7531 . 5)) ((c def c (c (? . 2) q iworld3)) q (43414 . 2)) ((c def c (c (? . 11) q matrix->rectangle)) q (12749 . 3)) ((c def c (c (? . 25) q convert-repl)) q (6495 . 3)) ((c def c (c (? . 11) q matrix-cols)) q (12616 . 3)) ((c def c (c (? . 3) q save-svg-image)) q (38783 . 7)) ((c def c (c (? . 1) q add-line)) q (2010 . 8)) ((c def c (c (? . 1) q alpha-color)) c (? . 10)) ((c def c (c (? . 6) q clear-solid-disk)) q (8122 . 5)) ((c def c (c (? . 5) q make-dir)) c (? . 21)) ((c def c (c (? . 0) q shadow-south)) q (46851 . 2)) ((c def c (c (? . 25) q convert-gui)) q (6413 . 3)) ((c def c (c (? . 3) q flip-vertical)) q (35150 . 3)) ((c def c (c (? . 6) q start)) q (7215 . 4)) ((c def c (c (? . 0) q door-tall-open)) q (46315 . 2)) ((c def c (c (? . 0) q roof-north-east)) q (46374 . 2)) ((c def c (c (? . 1) q image-width)) q (1560 . 3)) ((c def c (c (? . 14) q hide-window)) q (11085 . 3)) ((c def c (c (? . 23) q view)) q (12013 . 3)) ((q def ((lib "htdp/master.rkt") master)) q (7047 . 3)) ((c def c (c (? . 4) q read-plain-xexpr/web)) q (15352 . 3)) ((c def c (c (? . 22) q control-left-right)) q (9506 . 6)) ((c def c (c (? . 0) q water-block)) q (45745 . 2)) ((c def c (c (? . 2) q mouse=?)) q (42031 . 4)) ((c def c (c (? . 0) q tree-tall)) q (46088 . 2)) ((c def c (c (? . 2) q make-package)) q (42918 . 4)) ((c def c (c (? . 2) q iworld2)) q (43388 . 2)) ((c def c (c (? . 1) q put-pinhole)) q (1789 . 5)) ((c def c (c (? . 3) q flip-horizontal)) q (35082 . 3)) ((c def c (c (? . 5) q dir-name)) c (? . 21)) ((c def c (c (? . 14) q text-contents)) q (11460 . 3)) ((c def c (c (? . 3) q circle)) q (15706 . 9)) ((c def c (c (? . 0) q chest-open)) q (45859 . 2)) ((c def c (c (? . 3) q triangle/saa)) q (24926 . 21)) ((c def c (c (? . 1) q image-inside?)) q (2440 . 4)) ((c form c (c (? . 2) q to-string)) q (44815 . 4)) ((c def c (c (? . 1) q shrink-bl)) q (2854 . 5)) ((c def c (c (? . 3) q regular-polygon)) q (29065 . 17)) ((c def c (c (? . 3) q empty-scene)) q (32676 . 8)) ((c def c (c (? . 5) q file)) c (? . 12)) ((c def c (c (? . 6) q end-of-time)) q (8949 . 2)) ((c def c (c (? . 1) q struct:color)) c (? . 8)) ((c def c (c (? . 2) q pad-event?)) q (41063 . 3)) ((c form c (c (? . 2) q shift)) q (41895 . 4)) ((c form c (c (? . 2) q pad-handler)) q (41287 . 9)) ((c form c (c (? . 3) q bitmap)) q (35483 . 5)) ((c def c (c (? . 14) q make-button)) q (11139 . 4)) ((c def c (c (? . 1) q alpha-color-green)) c (? . 10)) ((c form c (c (? . 2) q launch-many-worlds)) q (45043 . 2)) ((c def c (c (? . 5) q make-file)) c (? . 12)) ((c def c (c (? . 3) q pen-style)) c (? . 15)) ((c form c (c (? . 4) q simulate-file)) q (15664 . 2)) ((c def c (c (? . 5) q dir?)) c (? . 21)) ((c def c (c (? . 3) q scene+polygon)) q (30230 . 6)) ((c form c (c (? . 2) q right)) q (41735 . 4)) ((c def c (c (? . 26) q graph-fun)) q (10695 . 4)) ((c def c (c (? . 1) q triangle)) q (914 . 5)) ((c def c (c (? . 1) q image=?)) q (52 . 4)) ((c def c (c (? . 3) q image?)) q (36681 . 3))))
+24145
+((3) 0 () 33 ((q lib "2htdp/universe.rkt") (q lib "2htdp/image.rkt") (q lib "htdp/dir.rkt") (q lib "2htdp/planetcute.rkt") (q lib "2htdp/batch-io.rkt") (q lib "htdp/guess.rkt") (q 10482 . 7) (q lib "htdp/image.rkt") (q 4310 . 7) (q lib "teachpack/2htdp/abstraction.rkt") (q lib "htdp/world.rkt") (q lib "htdp/matrix.rkt") (q 39577 . 7) (q lib "teachpack/2htdp/itunes.rkt") (q 10303 . 6) (q 10746 . 9) (q 39878 . 9) (q lib "htdp/big-draw.rkt") (q lib "htdp/gui.rkt") (q lib "htdp/arrow.rkt") (q lib "htdp/docs.rkt") (q 48733 . 11) (q 45582 . 3) (q lib "htdp/arrow-gui.rkt") (q 126 . 6) (q 49053 . 9) (q lib "teachpack/2htdp/image.rkt") (q lib "htdp/lkup-gui.rkt") (q 40446 . 8) (q lib "htdp/hangman.rkt") (q lib "htdp/guess-gui.rkt") (q lib "htdp/convert.rkt") (q lib "htdp/graphing.rkt")) () (h ! (equal) ((c def c (c (? . 11) q matrix-set)) q (13687 . 6)) ((c def c (c (? . 0) q key=?)) q (43872 . 4)) ((c form c (c (? . 0) q on-new)) q (47464 . 4)) ((q def ((lib "htdp/show-queen.rkt") show-queen)) q (12755 . 3)) ((c def c (c (? . 2) q file-date)) c (? . 6)) ((c def c (c (? . 1) q ellipse)) q (16467 . 11)) ((c def c (c (? . 10) q key-event?)) q (5615 . 3)) ((c def c (c (? . 0) q iworld-name)) q (46572 . 3)) ((c def c (c (? . 1) q overlay/align)) q (32781 . 7)) ((c def c (c (? . 5) q guess-with-gui-list)) q (6926 . 3)) ((c def c (c (? . 2) q dir-files)) c (? . 14)) ((c form c (c (? . 0) q shift)) q (44976 . 4)) ((c def c (c (? . 1) q place-image)) q (35286 . 6)) ((c def c (c (? . 17) q get-key-event)) q (8630 . 2)) ((c def c (c (? . 3) q wall-block-tall)) q (52468 . 2)) ((c def c (c (? . 4) q read-xexpr/web)) q (15701 . 3)) ((c def c (c (? . 1) q center-pinhole)) q (40846 . 3)) ((c def c (c (? . 1) q angle?)) q (40217 . 3)) ((c def c (c (? . 1) q image-color?)) q (39519 . 3)) ((c def c (c (? . 3) q chest-open)) q (52643 . 2)) ((c def c (c (? . 1) q regular-polygon)) q (30262 . 17)) ((c def c (c (? . 1) q rectangle)) q (27236 . 14)) ((c form c (c (? . 0) q to-string)) q (48323 . 4)) ((c def c (c (? . 1) q save-svg-image)) q (41745 . 7)) ((c form c (c (? . 0) q down)) q (44660 . 4)) ((c def c (c (? . 20) q annotation?)) q (10117 . 3)) ((q def ((lib "htdp/master-play.rkt") go)) q (7159 . 3)) ((c def c (c (? . 1) q color)) c (? . 12)) ((c def c (c (? . 27) q control)) q (12287 . 3)) ((c form c (c (? . 9) q for/or)) q (50483 . 2)) ((c def c (c (? . 1) q crop)) q (37502 . 7)) ((c form c (c (? . 0) q on-msg)) q (47571 . 4)) ((c def c (c (? . 4) q read-csv-file/rows)) q (15197 . 4)) ((c def c (c (? . 1) q pulled-point-rpull)) c (? . 16)) ((c def c (c (? . 1) q triangle/aas)) q (24617 . 21)) ((c def c (c (? . 1) q scene+line)) q (36262 . 8)) ((c def c (c (? . 5) q guess-with-gui-3)) q (6807 . 3)) ((c def c (c (? . 13) q create-date)) q (49998 . 9)) ((c def c (c (? . 2) q file-size)) c (? . 6)) ((c form c (c (? . 0) q space)) q (44896 . 4)) ((c def c (c (? . 7) q struct:alpha-color)) c (? . 8)) ((c def c (c (? . 7) q pinhole-x)) q (1675 . 3)) ((c def c (c (? . 7) q alpha-color?)) c (? . 8)) ((c def c (c (? . 7) q image-inside?)) q (2438 . 4)) ((c def c (c (? . 3) q ramp-north)) q (52982 . 2)) ((c form c (c (? . 9) q type-case)) q (51973 . 2)) ((c def c (c (? . 3) q tree-tall)) q (52872 . 2)) ((c def c (c (? . 10) q big-bang)) q (5187 . 12)) ((c def c (c (? . 7) q alpha-color-green)) c (? . 8)) ((c def c (c (? . 2) q struct:date)) c (? . 15)) ((c def c (c (? . 11) q rectangle->matrix)) q (13027 . 3)) ((c def c (c (? . 3) q window-tall)) q (53373 . 2)) ((c def c (c (? . 31) q convert-file)) q (6574 . 5)) ((c def c (c (? . 1) q color-alpha)) c (? . 12)) ((c def c (c (? . 19) q control)) q (9845 . 7)) ((c def c (c (? . 18) q choice-index)) q (11946 . 3)) ((c def c (c (? . 4) q read-file)) q (14306 . 3)) ((c def c (c (? . 26) q stop-with-w)) c (? . 22)) ((c def c (c (? . 4) q read-plain-xexpr/web)) q (15761 . 3)) ((c def c (c (? . 13) q track-album)) c (? . 21)) ((c def c (c (? . 3) q roof-north-east)) q (53158 . 2)) ((c def c (c (? . 1) q x-place?)) q (40163 . 3)) ((c def c (c (? . 0) q launch-many-worlds/proc)) q (48555 . 4)) ((q def ((lib "htdp/hangman-play.rkt") go)) q (9450 . 3)) ((c def c (c (? . 3) q heart)) q (52752 . 2)) ((c def c (c (? . 1) q pulled-regular-polygon)) q (30919 . 25)) ((c def c (c (? . 2) q dir-dirs)) c (? . 14)) ((c def c (c (? . 11) q matrix?)) q (12840 . 3)) ((c def c (c (? . 1) q overlay/xy)) q (33455 . 6)) ((c def c (c (? . 3) q grass-block)) q (52347 . 2)) ((c def c (c (? . 3) q ramp-east)) q (52955 . 2)) ((c def c (c (? . 1) q add-line)) q (17050 . 8)) ((c def c (c (? . 7) q struct:color)) c (? . 24)) ((c def c (c (? . 2) q date-hours)) c (? . 15)) ((c def c (c (? . 1) q crop/align)) q (37711 . 11)) ((c def c (c (? . 7) q List-of-color)) q (4000 . 2)) ((c form c (c (? . 0) q to-draw)) q (43151 . 4)) ((c def c (c (? . 1) q place-images)) q (35780 . 5)) ((c def c (c (? . 1) q underlay)) q (33572 . 5)) ((c def c (c (? . 1) q pinhole-x)) q (41021 . 3)) ((c def c (c (? . 0) q make-bundle)) q (46778 . 5)) ((c def c (c (? . 7) q put-pinhole)) q (1787 . 5)) ((c def c (c (? . 1) q text/font)) q (18569 . 22)) ((c def c (c (? . 3) q gem-orange)) q (52724 . 2)) ((c def c (c (? . 2) q file-content)) c (? . 6)) ((c def c (c (? . 2) q struct:dir)) c (? . 14)) ((c def c (c (? . 1) q place-images/align)) q (35922 . 11)) ((c def c (c (? . 1) q overlay)) q (32678 . 5)) ((c def c (c (? . 1) q pulled-point-x)) c (? . 16)) ((c def c (c (? . 23) q view)) q (12048 . 3)) ((c def c (c (? . 3) q chest-lid)) q (52616 . 2)) ((c def c (c (? . 11) q build-matrix)) q (13281 . 7)) ((c def c (c (? . 3) q roof-north)) q (53224 . 2)) ((c def c (c (? . 17) q clear-circle)) q (8020 . 5)) ((c def c (c (? . 32) q graph-line)) q (11138 . 4)) ((c def c (c (? . 0) q pad=?)) q (44198 . 4)) ((c def c (c (? . 7) q empty-scene)) q (3309 . 4)) ((c def c (c (? . 3) q shadow-south-east)) q (53565 . 2)) ((c def c (c (? . 17) q stop)) q (7403 . 2)) ((c form c (c (? . 9) q define-type)) q (51769 . 10)) ((c def c (c (? . 1) q underlay/align)) q (33676 . 7)) ((c def c (c (? . 1) q side-count?)) q (40269 . 3)) ((c def c (c (? . 18) q make-button)) q (11483 . 4)) ((c def c (c (? . 3) q door-tall-closed)) q (53065 . 2)) ((c def c (c (? . 1) q image-width)) q (39127 . 3)) ((c def c (c (? . 3) q character-princess-girl)) q (52191 . 2)) ((c def c (c (? . 1) q right-triangle)) q (19899 . 17)) ((c def c (c (? . 0) q mouse-event?)) q (45056 . 3)) ((c def c (c (? . 19) q control-up-down)) q (9675 . 6)) ((c def c (c (? . 20) q atom?)) q (10066 . 3)) ((c def c (c (? . 13) q track-track#)) c (? . 21)) ((c def c (c (? . 1) q pen-style?)) q (40681 . 3)) ((c def c (c (? . 1) q rhombus)) q (27785 . 14)) ((c def c (c (? . 1) q put-pinhole)) q (40913 . 5)) ((c def c (c (? . 3) q gem-green)) q (52697 . 2)) ((c form c (c (? . 9) q match)) q (51571 . 8)) ((c form c (c (? . 0) q state)) q (45926 . 2)) ((c def c (c (? . 1) q image-height)) q (39222 . 3)) ((c form c (c (? . 9) q for/list)) q (50274 . 4)) ((c def c (c (? . 1) q bitmap/url)) q (38297 . 3)) ((c def c (c (? . 0) q stop-with)) c (? . 22)) ((c def c (c (? . 20) q end-annotation)) q (10174 . 3)) ((c def c (c (? . 7) q image-height)) q (1616 . 3)) ((c def c (c (? . 1) q color-red)) c (? . 12)) ((c def c (c (? . 17) q clear-solid-rect)) q (8220 . 6)) ((c def c (c (? . 4) q read-words/line)) q (14779 . 3)) ((c def c (c (? . 1) q pulled-point-langle)) c (? . 16)) ((c def c (c (? . 1) q color-frame)) q (38106 . 4)) ((c def c (c (? . 1) q line)) q (16917 . 5)) ((c def c (c (? . 23) q connect)) q (12113 . 6)) ((c def c (c (? . 7) q pinhole-y)) q (1731 . 3)) ((c form c (c (? . 0) q big-bang)) q (42365 . 23)) ((c def c (c (? . 17) q draw-solid-string)) q (7879 . 4)) ((c def c (c (? . 2) q dir-name)) c (? . 14)) ((c def c (c (? . 2) q date-day)) c (? . 15)) ((c def c (c (? . 4) q write-file)) q (15583 . 4)) ((c def c (c (? . 3) q roof-north-west)) q (53191 . 2)) ((c def c (c (? . 7) q make-color)) c (? . 24)) ((c def c (c (? . 3) q roof-south)) q (53318 . 2)) ((c def c (c (? . 2) q dir?)) c (? . 14)) ((c def c (c (? . 3) q roof-south-east)) q (53252 . 2)) ((c def c (c (? . 0) q run-movie)) q (42252 . 4)) ((c def c (c (? . 7) q shrink-tr)) q (2734 . 5)) ((c def c (c (? . 1) q scene+curve)) q (36471 . 21)) ((c def c (c (? . 1) q add-curve)) q (17257 . 21)) ((c def c (c (? . 13) q date-year)) c (? . 25)) ((c def c (c (? . 18) q make-text)) q (11743 . 3)) ((c def c (c (? . 7) q move-pinhole)) q (1885 . 5)) ((c form c (c (? . 0) q left)) q (44738 . 4)) ((c def c (c (? . 0) q LOCALHOST)) q (46200 . 2)) ((c def c (c (? . 10) q on-mouse-event)) q (5838 . 3)) ((c def c (c (? . 1) q add-polygon)) q (32356 . 6)) ((c def c (c (? . 29) q hangman-list)) q (9190 . 6)) ((c def c (c (? . 17) q on-key-event)) q (8764 . 3)) ((c def c (c (? . 13) q date-second)) c (? . 25)) ((c def c (c (? . 1) q frame)) q (38048 . 3)) ((c def c (c (? . 1) q place-image/align)) q (35416 . 13)) ((c def c (c (? . 17) q big-bang)) q (8689 . 4)) ((c def c (c (? . 2) q make-dir)) c (? . 14)) ((c def c (c (? . 7) q place-image)) q (3423 . 6)) ((c def c (c (? . 1) q scale)) q (37094 . 4)) ((c def c (c (? . 17) q draw-circle)) q (7430 . 5)) ((c def c (c (? . 7) q color-blue)) c (? . 24)) ((c def c (c (? . 13) q track-play#)) c (? . 21)) ((c form c (c (? . 0) q on-tick)) q (43405 . 4)) ((c def c (c (? . 11) q matrix->rectangle)) q (13093 . 3)) ((c def c (c (? . 1) q empty-scene)) q (34962 . 8)) ((c form c (c (? . 0) q right)) q (44816 . 4)) ((c def c (c (? . 3) q plain-block)) q (52376 . 2)) ((c def c (c (? . 1) q color-list->bitmap)) q (38501 . 5)) ((c def c (c (? . 1) q make-pulled-point)) c (? . 16)) ((c def c (c (? . 3) q water-block)) q (52529 . 2)) ((c def c (c (? . 1) q pen-width)) c (? . 28)) ((c def c (c (? . 4) q read-lines)) q (14539 . 3)) ((c def c (c (? . 1) q above/align)) q (34821 . 6)) ((c def c (c (? . 7) q overlay/xy)) q (2285 . 6)) ((c def c (c (? . 1) q pen-join?)) q (40791 . 3)) ((c def c (c (? . 18) q make-choice)) q (11865 . 3)) ((c def c (c (? . 11) q matrix-where?)) q (13891 . 4)) ((c def c (c (? . 7) q image=?)) q (52 . 4)) ((c def c (c (? . 1) q color?)) c (? . 12)) ((c def c (c (? . 3) q character-boy)) q (52050 . 2)) ((c def c (c (? . 0) q iworld=?)) q (46495 . 4)) ((c def c (c (? . 3) q yellow-star)) q (52926 . 2)) ((c def c (c (? . 13) q struct:track)) c (? . 21)) ((c form c (c (? . 9) q for*/product)) q (51041 . 2)) ((c def c (c (? . 1) q freeze)) q (38704 . 13)) ((c def c (c (? . 4) q url-html-neighbors)) q (15998 . 3)) ((c def c (c (? . 7) q ellipse)) q (731 . 6)) ((c def c (c (? . 3) q brown-block)) q (52290 . 2)) ((c def c (c (? . 1) q color-green)) c (? . 12)) ((c def c (c (? . 7) q scene+line)) q (3834 . 8)) ((c def c (c (? . 2) q date-minutes)) c (? . 15)) ((c form c (c (? . 0) q on-receive)) q (46345 . 4)) ((c form c (c (? . 0) q on-key)) q (43952 . 4)) ((c def c (c (? . 4) q read-words-and-numbers/line)) q (14914 . 3)) ((c form c (c (? . 0) q display-mode)) q (45849 . 4)) ((c def c (c (? . 10) q on-redraw)) q (5963 . 3)) ((c def c (c (? . 26) q struct:stop-with)) c (? . 22)) ((c def c (c (? . 1) q star-polygon)) q (28637 . 21)) ((c def c (c (? . 3) q wall-block)) q (52501 . 2)) ((c def c (c (? . 7) q image-color?)) q (368 . 3)) ((c def c (c (? . 17) q clear-solid-line)) q (8363 . 5)) ((c def c (c (? . 11) q snip-class)) q (14251 . 2)) ((c def c (c (? . 3) q door-tall-open)) q (53099 . 2)) ((c def c (c (? . 3) q ramp-west)) q (53038 . 2)) ((c def c (c (? . 1) q text)) q (18412 . 5)) ((c def c (c (? . 11) q matrix-rows)) q (12893 . 3)) ((c def c (c (? . 3) q character-horn-girl)) q (52117 . 2)) ((c def c (c (? . 1) q overlay/offset)) q (32958 . 6)) ((c def c (c (? . 13) q track-added)) c (? . 21)) ((c def c (c (? . 3) q gem-blue)) q (52671 . 2)) ((c def c (c (? . 1) q bitmap/file)) q (38357 . 3)) ((c def c (c (? . 1) q pinhole-y)) q (41097 . 3)) ((c form c (c (? . 9) q for*/and)) q (50719 . 2)) ((c form c (c (? . 0) q close-on-stop)) q (45761 . 4)) ((c def c (c (? . 13) q struct:date)) c (? . 25)) ((c def c (c (? . 2) q file?)) c (? . 6)) ((c def c (c (? . 3) q shadow-side-west)) q (53531 . 2)) ((c def c (c (? . 1) q radial-star)) q (29408 . 21)) ((c def c (c (? . 26) q stop-with?)) c (? . 22)) ((c def c (c (? . 17) q clear-all)) q (8554 . 2)) ((c def c (c (? . 13) q date?)) c (? . 25)) ((c def c (c (? . 10) q run-movie)) q (4903 . 4)) ((c def c (c (? . 2) q struct:file)) c (? . 6)) ((c def c (c (? . 0) q iworld2)) q (46673 . 2)) ((c def c (c (? . 11) q make-matrix)) q (13159 . 5)) ((c def c (c (? . 3) q ramp-south)) q (53010 . 2)) ((c def c (c (? . 2) q file-name)) c (? . 6)) ((c def c (c (? . 1) q underlay/pinhole)) q (41350 . 5)) ((c def c (c (? . 1) q overlay/pinhole)) q (41239 . 5)) ((q def ((lib "htdp/master.rkt") master)) q (7043 . 3)) ((c def c (c (? . 13) q date-minute)) c (? . 25)) ((c def c (c (? . 0) q make-mail)) q (46965 . 4)) ((c def c (c (? . 7) q rectangle)) q (424 . 6)) ((c def c (c (? . 7) q regular-polygon)) q (1208 . 7)) ((c def c (c (? . 2) q date-month)) c (? . 15)) ((c def c (c (? . 11) q matrix-cols)) q (12960 . 3)) ((c def c (c (? . 7) q image->alpha-color-list)) q (4623 . 3)) ((c def c (c (? . 3) q shadow-south-west)) q (53600 . 2)) ((c form c (c (? . 0) q on-disconnect)) q (48146 . 4)) ((c def c (c (? . 13) q read-itunes-as-lists)) q (49340 . 3)) ((c def c (c (? . 19) q control-left-right)) q (9502 . 6)) ((c form c (c (? . 0) q record?)) q (45712 . 4)) ((c form c (c (? . 9) q for*/string)) q (51207 . 2)) ((c def c (c (? . 17) q clear-solid-disk)) q (8118 . 5)) ((c def c (c (? . 1) q scale/xy)) q (37201 . 5)) ((c def c (c (? . 11) q matrix-render)) q (14002 . 3)) ((c def c (c (? . 1) q beside)) q (34476 . 5)) ((c def c (c (? . 18) q make-message)) q (11601 . 3)) ((c def c (c (? . 20) q write-file)) q (10241 . 3)) ((c def c (c (? . 7) q triangle)) q (912 . 5)) ((c def c (c (? . 1) q triangle)) q (19480 . 11)) ((c def c (c (? . 30) q control)) q (12527 . 3)) ((c def c (c (? . 1) q rotate)) q (37007 . 4)) ((c def c (c (? . 17) q clear-solid-string)) q (8473 . 4)) ((c form c (c (? . 9) q for*/list)) q (50402 . 2)) ((c def c (c (? . 7) q alpha-color-red)) c (? . 8)) ((c def c (c (? . 13) q date-day)) c (? . 25)) ((c def c (c (? . 1) q star)) q (28283 . 9)) ((c def c (c (? . 3) q shadow-north-west)) q (53466 . 2)) ((c def c (c (? . 3) q selector)) q (52818 . 2)) ((c def c (c (? . 1) q circle)) q (16115 . 9)) ((c def c (c (? . 1) q scene+polygon)) q (32516 . 6)) ((c def c (c (? . 17) q draw-solid-disk)) q (7527 . 5)) ((c def c (c (? . 27) q view)) q (12357 . 3)) ((c def c (c (? . 13) q track?)) c (? . 21)) ((c def c (c (? . 3) q shadow-north-east)) q (53431 . 2)) ((c def c (c (? . 9) q in-range)) q (51290 . 7)) ((c def c (c (? . 3) q shadow-west)) q (53665 . 2)) ((c def c (c (? . 1) q pen)) c (? . 28)) ((c def c (c (? . 13) q create-track)) q (49506 . 17)) ((c def c (c (? . 4) q read-xexpr)) q (15359 . 3)) ((c def c (c (? . 0) q pad-event?)) q (44144 . 3)) ((c def c (c (? . 2) q date-year)) c (? . 15)) ((c form c (c (? . 0) q on-mouse)) q (45198 . 6)) ((c def c (c (? . 1) q step-count?)) q (40326 . 3)) ((c def c (c (? . 10) q on-key-event)) q (5749 . 3)) ((c def c (c (? . 1) q square)) q (26876 . 9)) ((c def c (c (? . 1) q pulled-point-lpull)) c (? . 16)) ((c def c (c (? . 7) q shrink-br)) q (2970 . 5)) ((c def c (c (? . 3) q stone-block-tall)) q (52405 . 2)) ((c def c (c (? . 2) q file)) c (? . 6)) ((c def c (c (? . 29) q hangman)) q (8984 . 5)) ((c form c (c (? . 0) q on-pad)) q (44278 . 4)) ((c def c (c (? . 1) q add-solid-curve)) q (17850 . 21)) ((c def c (c (? . 17) q start/cartesian-plane)) q (7299 . 4)) ((c form c (c (? . 9) q for*/or)) q (50561 . 2)) ((c def c (c (? . 30) q view)) q (12597 . 3)) ((c def c (c (? . 1) q underlay/xy)) q (34358 . 6)) ((c def c (c (? . 0) q sexp?)) q (46018 . 3)) ((c form c (c (? . 9) q for*/sum)) q (50878 . 2)) ((c def c (c (? . 3) q rock)) q (52796 . 2)) ((c def c (c (? . 0) q package?)) q (46069 . 3)) ((c def c (c (? . 13) q make-track)) c (? . 21)) ((c def c (c (? . 1) q pen?)) c (? . 28)) ((c def c (c (? . 11) q matrix-minor)) q (14064 . 5)) ((c def c (c (? . 7) q color-red)) c (? . 24)) ((c def c (c (? . 4) q url-exists?)) q (15827 . 3)) ((c def c (c (? . 4) q read-1strings)) q (14415 . 3)) ((c def c (c (? . 3) q stone-block)) q (52439 . 2)) ((c def c (c (? . 1) q pulled-point?)) c (? . 16)) ((c form c (c (? . 0) q up)) q (44586 . 4)) ((c def c (c (? . 7) q shrink-bl)) q (2852 . 5)) ((c def c (c (? . 7) q nw:rectangle)) q (3545 . 9)) ((c def c (c (? . 31) q convert-repl)) q (6491 . 3)) ((c def c (c (? . 1) q struct:pulled-point)) c (? . 16)) ((c def c (c (? . 1) q pen-style)) c (? . 28)) ((c form c (c (? . 0) q port)) q (46282 . 4)) ((c def c (c (? . 1) q triangle/ass)) q (22154 . 21)) ((c def c (c (? . 10) q stop-when)) q (6041 . 3)) ((c def c (c (? . 17) q sleep-for-a-while)) q (7959 . 3)) ((c def c (c (? . 1) q pen-color)) c (? . 28)) ((c def c (c (? . 1) q empty-image)) q (19451 . 2)) ((c form c (c (? . 0) q pad-handler)) q (44368 . 9)) ((c def c (c (? . 1) q triangle/sas)) q (22975 . 21)) ((c def c (c (? . 1) q struct:pen)) c (? . 28)) ((c def c (c (? . 7) q image->color-list)) q (4030 . 3)) ((c def c (c (? . 11) q matrix-ref)) q (13504 . 5)) ((c def c (c (? . 18) q text-contents)) q (11804 . 3)) ((c def c (c (? . 13) q track-artist)) c (? . 21)) ((c def c (c (? . 18) q create-window)) q (11242 . 3)) ((c form c (c (? . 4) q simulate-file)) q (16073 . 2)) ((c def c (c (? . 7) q color?)) c (? . 24)) ((c def c (c (? . 0) q run-simulation)) q (42137 . 3)) ((c def c (c (? . 2) q make-file)) c (? . 6)) ((c def c (c (? . 4) q xexpr-as-string)) q (15937 . 3)) ((c def c (c (? . 0) q key-event?)) q (43818 . 3)) ((c def c (c (? . 1) q make-pen)) c (? . 28)) ((c form c (c (? . 0) q register)) q (46228 . 4)) ((c def c (c (? . 3) q tree-ugly)) q (52899 . 2)) ((c def c (c (? . 10) q key=?)) q (5669 . 4)) ((c def c (c (? . 0) q iworld?)) q (46442 . 3)) ((c def c (c (? . 0) q iworld1)) q (46647 . 2)) ((c def c (c (? . 1) q above)) q (34720 . 5)) ((c def c (c (? . 1) q flip-horizontal)) q (37368 . 3)) ((c def c (c (? . 17) q end-of-time)) q (8945 . 2)) ((c def c (c (? . 1) q pulled-point-rangle)) c (? . 16)) ((c def c (c (? . 13) q track-name)) c (? . 21)) ((c def c (c (? . 0) q mail?)) q (46914 . 3)) ((c def c (c (? . 1) q triangle/asa)) q (25370 . 21)) ((c def c (c (? . 13) q read-itunes-as-tracks)) q (49422 . 3)) ((c def c (c (? . 3) q character-cat-girl)) q (52081 . 2)) ((c def c (c (? . 3) q key)) q (52775 . 2)) ((c def c (c (? . 7) q star)) q (1003 . 7)) ((c def c (c (? . 1) q save-image)) q (41462 . 7)) ((c def c (c (? . 13) q date-hour)) c (? . 25)) ((c def c (c (? . 1) q beside/align)) q (34578 . 6)) ((c def c (c (? . 1) q flip-vertical)) q (37436 . 3)) ((c def c (c (? . 1) q struct:color)) c (? . 12)) ((c def c (c (? . 7) q scene?)) q (3257 . 3)) ((c def c (c (? . 13) q date)) c (? . 25)) ((c def c (c (? . 7) q find-image)) q (2530 . 4)) ((c def c (c (? . 7) q alpha-color-blue)) c (? . 8)) ((c def c (c (? . 7) q alpha-color-alpha)) c (? . 8)) ((c def c (c (? . 17) q wait-for-mouse-click)) q (8586 . 2)) ((c def c (c (? . 17) q draw-solid-line)) q (7770 . 5)) ((c def c (c (? . 1) q underlay/offset)) q (33854 . 6)) ((c def c (c (? . 7) q image?)) q (0 . 3)) ((c def c (c (? . 7) q color-list->image)) q (4103 . 7)) ((c def c (c (? . 7) q shrink)) q (3088 . 7)) ((c def c (c (? . 3) q character-pink-girl)) q (52154 . 2)) ((c def c (c (? . 17) q on-tick-event)) q (8863 . 3)) ((c def c (c (? . 3) q enemy-bug)) q (52232 . 2)) ((c def c (c (? . 3) q roof-west)) q (53346 . 2)) ((c def c (c (? . 5) q guess-with-gui)) q (6705 . 3)) ((c def c (c (? . 7) q add-line)) q (2008 . 8)) ((c def c (c (? . 18) q draw-message)) q (11665 . 4)) ((c def c (c (? . 1) q triangle/saa)) q (26123 . 21)) ((c def c (c (? . 2) q date)) c (? . 15)) ((c def c (c (? . 7) q color-green)) c (? . 24)) ((c def c (c (? . 3) q shadow-east)) q (53402 . 2)) ((c def c (c (? . 1) q pen-cap?)) q (40737 . 3)) ((c def c (c (? . 0) q make-package)) q (46123 . 4)) ((c def c (c (? . 7) q shrink-tl)) q (2616 . 5)) ((c def c (c (? . 10) q on-tick-event)) q (5541 . 3)) ((c form c (c (? . 9) q for/product)) q (50958 . 2)) ((c def c (c (? . 3) q wood-block)) q (52558 . 2)) ((c def c (c (? . 18) q show-window)) q (11375 . 3)) ((c form c (c (? . 9) q for/and)) q (50640 . 2)) ((c def c (c (? . 7) q alpha-color)) c (? . 8)) ((c def c (c (? . 4) q xexpr?)) q (15886 . 3)) ((c def c (c (? . 7) q text)) q (1449 . 5)) ((c def c (c (? . 32) q graph-fun)) q (11039 . 4)) ((c def c (c (? . 1) q real-valued-posn?)) q (40383 . 3)) ((c def c (c (? . 3) q roof-east)) q (53131 . 2)) ((c def c (c (? . 1) q pen-join)) c (? . 28)) ((c def c (c (? . 4) q read-csv-file)) q (15066 . 3)) ((c def c (c (? . 4) q read-plain-xexpr)) q (15468 . 3)) ((c form c (c (? . 0) q check-with)) q (45636 . 4)) ((c def c (c (? . 1) q polygon)) q (31962 . 9)) ((c def c (c (? . 1) q pulled-point-y)) c (? . 16)) ((c def c (c (? . 1) q image?)) q (39416 . 3)) ((c def c (c (? . 7) q alpha-color-list->image)) q (4712 . 7)) ((c def c (c (? . 0) q iworld3)) q (46699 . 2)) ((c def c (c (? . 13) q date-month)) c (? . 25)) ((c def c (c (? . 13) q track-time)) c (? . 21)) ((c def c (c (? . 1) q y-place?)) q (40109 . 3)) ((c def c (c (? . 2) q create-dir)) q (10686 . 3)) ((c def c (c (? . 3) q chest-closed)) q (52586 . 2)) ((c def c (c (? . 2) q date?)) c (? . 15)) ((c def c (c (? . 13) q make-date)) c (? . 25)) ((c def c (c (? . 1) q pulled-point)) c (? . 16)) ((c def c (c (? . 3) q speech-bubble)) q (52259 . 2)) ((c form c (c (? . 0) q launch-many-worlds)) q (48510 . 2)) ((c def c (c (? . 17) q draw-solid-rect)) q (7628 . 6)) ((c def c (c (? . 13) q track)) c (? . 21)) ((c def c (c (? . 17) q start)) q (7211 . 4)) ((c def c (c (? . 4) q read-words)) q (14659 . 3)) ((c def c (c (? . 1) q mode?)) q (39468 . 3)) ((c def c (c (? . 1) q overlay/align/offset)) q (33079 . 13)) ((c def c (c (? . 3) q dirt-block)) q (52319 . 2)) ((c def c (c (? . 7) q overlay)) q (2172 . 5)) ((c def c (c (? . 27) q connect)) q (12428 . 3)) ((c def c (c (? . 3) q shadow-south)) q (53635 . 2)) ((c def c (c (? . 18) q window?)) q (11322 . 3)) ((q def ((lib "htdp/elevator.rkt") run)) q (12223 . 3)) ((c def c (c (? . 30) q connect)) q (12668 . 3)) ((c def c (c (? . 18) q hide-window)) q (11429 . 3)) ((c form c (c (? . 0) q on-release)) q (44042 . 4)) ((c def c (c (? . 31) q convert-gui)) q (6409 . 3)) ((c def c (c (? . 1) q underlay/align/offset)) q (33976 . 13)) ((c def c (c (? . 2) q date-seconds)) c (? . 15)) ((c form c (c (? . 9) q for/sum)) q (50799 . 2)) ((c form c (c (? . 1) q bitmap)) q (38218 . 5)) ((c def c (c (? . 1) q triangle/sss)) q (21265 . 21)) ((c def c (c (? . 7) q color)) c (? . 24)) ((c def c (c (? . 3) q shadow-north)) q (53501 . 2)) ((c form c (c (? . 0) q universe)) q (47052 . 13)) ((c form c (c (? . 0) q name)) q (45947 . 4)) ((c form c (c (? . 9) q for/string)) q (51125 . 2)) ((c def c (c (? . 1) q color-blue)) c (? . 12)) ((c def c (c (? . 1) q isosceles-triangle)) q (20604 . 17)) ((c form c (c (? . 0) q stop-when)) q (45358 . 4)) ((c def c (c (? . 1) q pen-cap)) c (? . 28)) ((c def c (c (? . 1) q image-baseline)) q (39318 . 3)) ((c def c (c (? . 2) q dir)) c (? . 14)) ((c def c (c (? . 13) q track-played)) c (? . 21)) ((c def c (c (? . 23) q control)) q (12015 . 2)) ((c def c (c (? . 7) q image-width)) q (1558 . 3)) ((c def c (c (? . 7) q line)) q (1359 . 5)) ((c def c (c (? . 1) q make-color)) c (? . 12)) ((c def c (c (? . 0) q animate)) q (42029 . 3)) ((c def c (c (? . 3) q roof-south-west)) q (53285 . 2)) ((c def c (c (? . 0) q mouse=?)) q (45112 . 4)) ((c def c (c (? . 9) q in-naturals)) q (51494 . 3)) ((c def c (c (? . 1) q triangle/ssa)) q (23796 . 21)) ((c def c (c (? . 2) q make-date)) c (? . 15)) ((c def c (c (? . 1) q clear-pinhole)) q (41173 . 3)) ((c def c (c (? . 3) q tree-short)) q (52844 . 2)) ((c def c (c (? . 0) q bundle?)) q (46725 . 3)) ((c def c (c (? . 1) q image->color-list)) q (38421 . 3)) ((c def c (c (? . 7) q circle)) q (607 . 5)) ((c def c (c (? . 10) q run-simulation)) q (5004 . 6)) ((c def c (c (? . 7) q make-alpha-color)) c (? . 8))))
 procedure
 (image? x) -> boolean?
   x : any/c
@@ -9,7 +9,7 @@ procedure
   y : image?
 struct
 (struct color (red green blue)
-        #:extra-constructor-name make-color)
+    #:extra-constructor-name make-color)
   red : (and/c natural-number/c (<=/c 255))
   green : (and/c natural-number/c (<=/c 255))
   blue : (and/c natural-number/c (<=/c 255))
@@ -182,7 +182,7 @@ procedure
   y : natural-number/c
 struct
 (struct alpha-color (alpha red green blue)
-        #:extra-constructor-name make-alpha-color)
+    #:extra-constructor-name make-alpha-color)
   alpha : (and/c natural-number/c (<=/c 255))
   red : (and/c natural-number/c (<=/c 255))
   green : (and/c natural-number/c (<=/c 255))
@@ -406,19 +406,29 @@ procedure
   l : (list-of atom)
 struct
 (struct dir (name dirs files)
-        #:extra-constructor-name make-dir)
-  name : symbol?
+    #:extra-constructor-name make-dir)
+  name : (or/c string? symbol?)
   dirs : (listof dir?)
   files : (listof file?)
 struct
-(struct file (name size content)
-        #:extra-constructor-name make-file)
-  name : symbol?
+(struct file (name size date content)
+    #:extra-constructor-name make-file)
+  name : (or/c string? symbol?)
   size : integer?
-  content : (listof char?)
+  date : (or/c 0 date?)
+  content : any/c
 procedure
 (create-dir path) -> dir?
-  path : symbol?
+  path : string?
+struct
+(struct date (year month day hours minutes seconds)
+    #:extra-constructor-name make-date)
+  year : natural-number/c
+  month : natural-number/c
+  day : natural-number/c
+  hours : natural-number/c
+  minutes : natural-number/c
+  seconds : natural-number/c
 procedure
 (graph-fun f color) -> true
   f : (-> number?  number?)
@@ -547,6 +557,8 @@ procedure
   m : matrix?
   i : (and/c natural-number/c (</c (matrix-rows m)))
   j : (and/c natural-number/c (</c (matrix-rows m)))
+value
+snip-class : (instance/of matrix-snip-class%)
 procedure
 (read-file f) -> string?
   f : (or/c 'standard-in 'stdin (and/c string? file-exists?))
@@ -560,7 +572,7 @@ procedure
 (read-words f) -> (listof string?)
   f : (or/c 'standard-in 'stdin (and/c string? file-exists?))
 procedure
-(read-words/line f) -> (listof string?)
+(read-words/line f) -> (listof (listof string?))
   f : (or/c 'standard-in 'stdin (and/c string? file-exists?))
 procedure
 (read-words-and-numbers/line f) -> (listof (or number? string?))
@@ -657,6 +669,27 @@ procedure
   pull2 : real?
   pen-or-color : (or/c pen? image-color?)
 procedure
+(add-solid-curve image      
+                 x1         
+                 y1         
+                 angle1     
+                 pull1      
+                 x2         
+                 y2         
+                 angle2     
+                 pull2      
+                 color) -> image?
+  image : image?
+  x1 : real?
+  y1 : real?
+  angle1 : angle?
+  pull1 : real?
+  x2 : real?
+  y2 : real?
+  angle2 : angle?
+  pull2 : real?
+  color : image-color?
+procedure
 (text string font-size color) -> image?
   string : string?
   font-size : (and/c integer? (<=/c 1 255))
@@ -674,10 +707,14 @@ procedure
   font-size : (and/c integer? (<=/c 1 255))
   color : image-color?
   face : (or/c string? #f)
-  family : (or/c 'default 'decorative 'roman 'script
+  family : (or/c "default" "decorative" "roman" "script"
+                 "swiss" "modern" "symbol" "system"
+                 'default 'decorative 'roman 'script
                  'swiss 'modern 'symbol 'system)
-  style : (or/c 'normal 'italic 'slant)
-  weight : (or/c 'normal 'bold 'light)
+  style : (or/c "normal" "italic" "slant"
+                'normal 'italic 'slant)
+  weight : (or/c "normal" "bold" "light"
+                 'normal 'bold 'light)
   underline? : any/c
 value
 empty-image : image?
@@ -979,12 +1016,37 @@ procedure
   outline-mode : (or/c 'outline "outline")
   pen-or-color : (or/c pen? image-color?)
 procedure
+(pulled-regular-polygon side-length     
+                        side-count      
+                        pull            
+                        angle           
+                        mode            
+                        color)      -> image?
+  side-length : (and/c real? (not/c negative?))
+  side-count : side-count?
+  pull : (and/c real? (not/c negative?))
+  angle : angle?
+  mode : mode?
+  color : image-color?
+(pulled-regular-polygon side-length       
+                        side-count        
+                        pull              
+                        angle             
+                        outline-mode      
+                        pen-or-color) -> image?
+  side-length : (and/c real? (not/c negative?))
+  side-count : side-count?
+  pull : (and/c real? (not/c negative?))
+  angle : angle?
+  outline-mode : (or/c 'outline "outline")
+  pen-or-color : (or/c pen? image-color?)
+procedure
 (polygon vertices mode color) -> image?
-  vertices : (listof real-valued-posn?)
+  vertices : (listof (or/c real-valued-posn? pulled-point?))
   mode : mode?
   color : image-color?
 (polygon vertices outline-mode pen-or-color) -> image?
-  vertices : (listof real-valued-posn?)
+  vertices : (listof (or/c real-valued-posn? pulled-point?))
   outline-mode : (or/c 'outline "outline")
   pen-or-color : (or/c pen? image-color?)
 procedure
@@ -1194,13 +1256,28 @@ procedure
   height : (and/c real? (not/c negative?))
   image : image?
 procedure
+(crop/align x-place     
+            y-place     
+            width       
+            height      
+            image)  -> image?
+  x-place : x-place?
+  y-place : y-place?
+  width : (and/c real? (not/c negative?))
+  height : (and/c real? (not/c negative?))
+  image : image?
+procedure
 (frame image) -> image?
+  image : image?
+procedure
+(color-frame color image) -> image?
+  color : (or/c pen? image-color?)
   image : image?
 syntax
 (bitmap bitmap-spec)
  
 bitmap-spec = rel-string
-            | id
+            | id
 procedure
 (bitmap/url url) -> image?
   url : string?
@@ -1248,11 +1325,20 @@ procedure
   x : any/c
 struct
 (struct color (red green blue alpha)
-        #:extra-constructor-name make-color)
+    #:extra-constructor-name make-color)
   red : (and/c natural-number/c (<=/c 255))
   green : (and/c natural-number/c (<=/c 255))
   blue : (and/c natural-number/c (<=/c 255))
   alpha : (and/c natural-number/c (<=/c 255))
+struct
+(struct pulled-point (lpull langle x y rpull rangle)
+    #:extra-constructor-name make-pulled-point)
+  lpull : real?
+  langle : angle?
+  x : real?
+  y : real?
+  rpull : real?
+  rangle : angle?
 procedure
 (y-place? x) -> boolean?
   x : any/c
@@ -1273,7 +1359,7 @@ procedure
   x : any/c
 struct
 (struct pen (color width style cap join)
-        #:extra-constructor-name make-pen)
+    #:extra-constructor-name make-pen)
   color : image-color?
   width : (and/c real? (<=/c 0 255))
   style : pen-style?
@@ -1333,32 +1419,35 @@ procedure
 (animate create-image) -> natural-number/c
   create-image : (-> natural-number/c scene?)
 procedure
-(run-simulation create-image) -> true
+(run-simulation create-image) -> natural-number/c
   create-image : (-> natural-number/c scene?)
 procedure
-(run-movie r m) -> true
+(run-movie r m) -> [Listof image?]
   r : (and/c real? positive?)
   m : [Listof image?]
 syntax
 (big-bang state-expr clause ...)
  
 clause = (on-tick tick-expr)
-       | (on-tick tick-expr rate-expr)
-       | (on-tick tick-expr rate-expr limit-expr)
-       | (on-key key-expr)
-       | (on-pad pad-expr)
-       | (on-release release-expr)
-       | (on-mouse mouse-expr)
-       | (to-draw draw-expr)
-       | (to-draw draw-expr width-expr height-expr)
-       | (stop-when stop-expr)
-       | (stop-when stop-expr last-scene-expr)
-       | (check-with world?-expr)
-       | (record? r-expr)
-       | (state boolean-expr)
-       | (on-receive rec-expr)
-       | (register IP-expr)
-       | (name name-expr)
+       | (on-tick tick-expr rate-expr)
+       | (on-tick tick-expr rate-expr limit-expr)
+       | (on-key key-expr)
+       | (on-pad pad-expr)
+       | (on-release release-expr)
+       | (on-mouse mouse-expr)
+       | (to-draw draw-expr)
+       | (to-draw draw-expr width-expr height-expr)
+       | (stop-when stop-expr)
+       | (stop-when stop-expr last-scene-expr)
+       | (check-with world?-expr)
+       | (record? r-expr)
+       | (close-on-stop cos-expr)
+       | (display-mode d-expr)
+       | (state expr)
+       | (on-receive rec-expr)
+       | (register IP-expr)
+       | (port Port-expr)
+       | (name name-expr)
 syntax
 (to-draw render-expr)
  
@@ -1414,11 +1503,11 @@ syntax
 (pad-handler clause ...)
  
 clause = (up up-expr)
-       | (down down-expr)
-       | (left left-expr)
-       | (right right-expr)
-       | (space space-expr)
-       | (shift shift-expr)
+       | (down down-expr)
+       | (left left-expr)
+       | (right right-expr)
+       | (space space-expr)
+       | (shift shift-expr)
 syntax
 (up up-expr)
  
@@ -1477,9 +1566,15 @@ syntax
  
   r-expr : any/c
 syntax
-(state boolean-expr)
+(close-on-stop cos-expr)
  
-  boolean-expr : boolean?
+  cos-expr : (or/c boolean? natural-number/c)
+syntax
+(display-mode d-expr)
+ 
+  d-expr : (or/c 'fullscreen 'normal)
+syntax
+(state expr)
 syntax
 (name name-expr)
  
@@ -1501,6 +1596,10 @@ syntax
  
   ip-expr : string?
 syntax
+(port port-expr)
+ 
+  port-expr : natural-number/c
+syntax
 (on-receive receive-expr)
  
   receive-expr : (-> WorldState sexp? HandlerResult)
@@ -1512,7 +1611,7 @@ procedure
   u : iworld?
   v : iworld?
 procedure
-(iworld-name w) -> string?
+(iworld-name w) -> (or/c symbol? string?)
   w : iworld?
 value
 iworld1 : iworld?
@@ -1539,41 +1638,46 @@ syntax
 (universe state-expr clause ...)
  
 clause = (on-new new-expr)
-       | (on-msg msg-expr)
-       | (on-tick tick-expr)
-       | (on-tick tick-expr rate-expr)
-       | (on-tick tick-expr rate-expr limit-expr)
-       | (on-disconnect dis-expr)
-       | (state boolean-expr)
-       | (to-string render-expr)
-       | (check-with universe?-expr)
+       | (on-msg msg-expr)
+       | (on-tick tick-expr)
+       | (on-tick tick-expr rate-expr)
+       | (on-tick tick-expr rate-expr limit-expr)
+       | (on-disconnect dis-expr)
+       | (state expr)
+       | (to-string render-expr)
+       | (port port-expr)
+       | (check-with universe?-expr)
 syntax
 (on-new new-expr)
  
-  new-expr : (-> UniverseState iworld? bundle?)
+  new-expr : (-> UniverseState iworld? (or/c UniverseState bundle?))
 syntax
 (on-msg msg-expr)
  
-  msg-expr : (-> UniverseState iworld? sexp? bundle?)
+  msg-expr : (-> UniverseState iworld? sexp? (or/c UniverseState bundle?))
 syntax
 (on-tick tick-expr)
  
-  tick-expr : (-> UniverseState bundle?)
+  tick-expr : (-> UniverseState (or/c UniverseState bundle?))
 syntax
 (on-tick tick-expr rate-expr)
  
-  tick-expr : (-> UniverseState bundle?)
+  tick-expr : (-> UniverseState (or/c UniverseState bundle?))
   rate-expr : (and/c real? positive?)
 syntax
 (on-tick tick-expr rate-expr)
  
-  tick-expr : (-> UniverseState bundle?)
+  tick-expr : (-> UniverseState (or/c UniverseState bundle?))
   rate-expr : (and/c real? positive?)
   limit-expr : (and/c integer? positive?)
 syntax
 (on-disconnect dis-expr)
  
-  dis-expr : (-> UniverseState iworld? bundle?)
+  dis-expr : (-> UniverseState iworld? (or/c UniverseState bundle?))
+syntax
+(port port-expr)
+ 
+  port-expr : natural-number/c
 syntax
 (to-string render-expr)
  
@@ -1583,15 +1687,121 @@ syntax
  
   universe?-expr : (-> Any boolean?)
 syntax
-(state boolean-expr)
- 
-  boolean-expr : boolean?
+(state expr)
 syntax
 (launch-many-worlds expression ...)
 procedure
 (launch-many-worlds/proc thunk-that-runs-a-world     
                          ...)                    -> any ...
   thunk-that-runs-a-world : (-> any/c)
+struct
+(struct track (name artist album time track# added play# played)
+    #:extra-constructor-name make-track)
+  name : string?
+  artist : string?
+  album : string?
+  time : natural-number/c
+  track# : natural-number/c
+  added : date?
+  play# : natural-number/c
+  played : date?
+struct
+(struct date (year month day hour minute second)
+    #:extra-constructor-name make-date)
+  year : natural-number/c
+  month : natural-number/c
+  day : natural-number/c
+  hour : natural-number/c
+  minute : natural-number/c
+  second : natural-number/c
+procedure
+(read-itunes-as-lists file-name) -> LLists
+  file-name : string?
+procedure
+(read-itunes-as-tracks file-name) -> LTracks
+  file-name : string?
+procedure
+(create-track name        
+              artist      
+              album       
+              time        
+              track#      
+              added       
+              play#       
+              played) -> (or/c track? false?)
+  name : string?
+  artist : string?
+  album : string?
+  time : natural-number/c
+  track# : natural-number/c
+  added : date?
+  play# : natural-number/c
+  played : date?
+procedure
+(create-date year month day hour minute second)
+ -> (or/c date? false?)
+  year : natural-number/c
+  month : natural-number/c
+  day : natural-number/c
+  hour : natural-number/c
+  minute : natural-number/c
+  second : natural-number/c
+syntax
+(for/list (comprehension-clause comprehension-clause ...) body-expr)
+ 
+comprehension-clause = (name clause-expr)
+syntax
+(for*/list (comprehension-clause comprehension-clause ...) body-expr)
+syntax
+(for/or (comprehension-clause comprehension-clause ...) body-expr)
+syntax
+(for*/or (comprehension-clause comprehension-clause ...) body-expr)
+syntax
+(for/and (comprehension-clause comprehension-clause ...) body-expr)
+syntax
+(for*/and (comprehension-clause comprehension-clause ...) body-expr)
+syntax
+(for/sum (comprehension-clause comprehension-clause ...) body-expr)
+syntax
+(for*/sum (comprehension-clause comprehension-clause ...) body-expr)
+syntax
+(for/product (comprehension-clause comprehension-clause ...) body-expr)
+syntax
+(for*/product (comprehension-clause comprehension-clause ...) body-expr)
+syntax
+(for/string (comprehension-clause comprehension-clause ...) body-expr)
+syntax
+(for*/string (comprehension-clause comprehension-clause ...) body-expr)
+procedure
+(in-range start end step) -> sequence?
+  start : natural-number/c
+  end : natural-number/c
+  step : natural-number/c
+(in-range end) -> sequence?
+  end : natural-number/c
+procedure
+(in-naturals start) -> sequence?
+  start : natural-number/c
+syntax
+(match case-expr (pattern body-expr) ...)
+ 
+pattern = name
+        | literal-constant
+        | (cons pattern pattern)
+        | (name pattern ...)
+        | (? name)
+syntax
+(define-type type (variant (field predicate) ...) ...)
+ 
+     type = name
+             
+  variant = name
+             
+    field = name
+             
+predicate = name
+syntax
+(type-case type case-expr (variant (field ...) body-expr) ...)
 value
 character-boy : image?
 value

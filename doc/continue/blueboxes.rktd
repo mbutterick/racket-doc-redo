@@ -1,5 +1,5 @@
-2961
-((3) 0 () 13 ((q lib "web-server/scribblings/tutorial/examples/iteration-9.rkt") (q 984 . 6) (q lib "web-server/scribblings/tutorial/examples/iteration-5.rkt") (q lib "web-server/scribblings/tutorial/examples/iteration-1.rkt") (q 691 . 6) (q 0 . 4) (q lib "web-server/scribblings/tutorial/examples/iteration-4.rkt") (q lib "web-server/scribblings/tutorial/examples/dummy-10.rkt") (q 1296 . 4) (q 1247 . 3) (q 510 . 3) (q lib "web-server/servlet.rkt") (q lib "web-server/scribblings/tutorial/examples/iteration-2.rkt")) () (h ! (equal) ((c def c (c (? . 6) q struct:blog)) c (? . 10)) ((c def c (c (? . 0) q blog?)) c (? . 1)) ((c def c (c (? . 0) q set-blog-home!)) c (? . 1)) ((c def c (c (? . 7) q blog)) c (? . 9)) ((c def c (c (? . 2) q post-add-comment!)) q (834 . 2)) ((c def c (c (? . 0) q struct:blog)) c (? . 1)) ((c def c (c (? . 2) q set-post-body!)) c (? . 4)) ((c def c (c (? . 3) q blog)) q (77 . 2)) ((c def c (c (? . 3) q struct:post)) c (? . 5)) ((q def ((lib "web-server/scribblings/tutorial/examples/iteration-7.rkt") static-files-path)) q (893 . 2)) ((c def c (c (? . 2) q post)) c (? . 4)) ((c def c (c (? . 3) q post)) c (? . 5)) ((c def c (c (? . 2) q post?)) c (? . 4)) ((c def c (c (? . 0) q blog-home)) c (? . 1)) ((c def c (c (? . 2) q set-post-title!)) c (? . 4)) ((c def c (c (? . 6) q set-blog-posts!)) q (569 . 2)) ((c def c (c (? . 7) q post-blog)) c (? . 8)) ((c def c (c (? . 7) q post-id)) c (? . 8)) ((c def c (c (? . 3) q render-posts)) q (155 . 2)) ((c def c (c (? . 2) q post-title)) c (? . 4)) ((c def c (c (? . 0) q blog-insert-post!)) q (1110 . 2)) ((c def c (c (? . 12) q parse-post)) q (462 . 2)) ((c def c (c (? . 11) q extract-binding/single)) q (270 . 2)) ((c def c (c (? . 7) q post?)) c (? . 8)) ((c def c (c (? . 0) q blog-posts)) c (? . 1)) ((c def c (c (? . 7) q blog?)) c (? . 9)) ((c def c (c (? . 6) q blog-posts)) c (? . 10)) ((c def c (c (? . 2) q set-post-comments!)) c (? . 4)) ((c def c (c (? . 7) q struct:post)) c (? . 8)) ((c def c (c (? . 0) q blog)) c (? . 1)) ((c def c (c (? . 0) q post-insert-comment!)) q (1178 . 2)) ((c def c (c (? . 11) q redirect/get)) q (946 . 2)) ((c def c (c (? . 7) q blog-db)) c (? . 9)) ((c def c (c (? . 3) q post-title)) c (? . 5)) ((c def c (c (? . 11) q request-bindings)) q (213 . 2)) ((c def c (c (? . 6) q blog-insert-post!)) q (634 . 2)) ((c def c (c (? . 2) q post-body)) c (? . 4)) ((c def c (c (? . 12) q can-parse-post?)) q (406 . 2)) ((c def c (c (? . 6) q blog?)) c (? . 10)) ((c def c (c (? . 3) q post-body)) c (? . 5)) ((c def c (c (? . 7) q struct:blog)) c (? . 9)) ((c def c (c (? . 3) q post?)) c (? . 5)) ((c def c (c (? . 2) q post-comments)) c (? . 4)) ((c def c (c (? . 0) q set-blog-posts!)) c (? . 1)) ((c def c (c (? . 3) q render-post)) q (108 . 2)) ((c def c (c (? . 2) q struct:post)) c (? . 4)) ((c def c (c (? . 11) q exists-binding?)) q (341 . 2)) ((c def c (c (? . 7) q post)) c (? . 8)) ((c def c (c (? . 6) q blog)) c (? . 10))))
+2965
+((3) 0 () 13 ((q lib "web-server/scribblings/tutorial/examples/iteration-5.rkt") (q 691 . 6) (q lib "web-server/scribblings/tutorial/examples/dummy-10.rkt") (q 1293 . 4) (q 1244 . 3) (q lib "web-server/scribblings/tutorial/examples/iteration-1.rkt") (q lib "web-server/scribblings/tutorial/examples/iteration-9.rkt") (q 985 . 6) (q lib "web-server/scribblings/tutorial/examples/iteration-4.rkt") (q 510 . 3) (q lib "web-server/servlet.rkt") (q 0 . 4) (q lib "web-server/scribblings/tutorial/examples/iteration-2.rkt")) () (h ! (equal) ((c def c (c (? . 2) q blog?)) c (? . 4)) ((c def c (c (? . 5) q post)) c (? . 11)) ((c def c (c (? . 0) q post-comments)) c (? . 1)) ((c def c (c (? . 8) q blog)) c (? . 9)) ((q def ((lib "web-server/scribblings/tutorial/examples/iteration-7.rkt") static-files-path)) q (894 . 2)) ((c def c (c (? . 0) q set-post-title!)) c (? . 1)) ((c def c (c (? . 12) q can-parse-post?)) q (406 . 2)) ((c def c (c (? . 6) q set-blog-home!)) c (? . 7)) ((c def c (c (? . 2) q struct:post)) c (? . 3)) ((c def c (c (? . 10) q exists-binding?)) q (341 . 2)) ((c def c (c (? . 2) q post)) c (? . 3)) ((c def c (c (? . 2) q blog-db)) c (? . 4)) ((c def c (c (? . 0) q post-body)) c (? . 1)) ((c def c (c (? . 5) q blog)) q (77 . 2)) ((c def c (c (? . 2) q post-blog)) c (? . 3)) ((c def c (c (? . 6) q struct:blog)) c (? . 7)) ((c def c (c (? . 2) q blog)) c (? . 4)) ((c def c (c (? . 0) q set-post-comments!)) c (? . 1)) ((c def c (c (? . 6) q blog-posts)) c (? . 7)) ((c def c (c (? . 6) q blog-insert-post!)) q (1107 . 2)) ((c def c (c (? . 2) q struct:blog)) c (? . 4)) ((c def c (c (? . 6) q blog?)) c (? . 7)) ((c def c (c (? . 0) q post?)) c (? . 1)) ((c def c (c (? . 8) q blog-posts)) c (? . 9)) ((c def c (c (? . 10) q request-bindings)) q (213 . 2)) ((c def c (c (? . 5) q post?)) c (? . 11)) ((c def c (c (? . 0) q set-post-body!)) c (? . 1)) ((c def c (c (? . 6) q blog-home)) c (? . 7)) ((c def c (c (? . 5) q struct:post)) c (? . 11)) ((c def c (c (? . 10) q redirect/get)) q (947 . 2)) ((c def c (c (? . 6) q blog)) c (? . 7)) ((c def c (c (? . 6) q set-blog-posts!)) c (? . 7)) ((c def c (c (? . 0) q post)) c (? . 1)) ((c def c (c (? . 6) q post-insert-comment!)) q (1175 . 2)) ((c def c (c (? . 0) q struct:post)) c (? . 1)) ((c def c (c (? . 5) q render-posts)) q (155 . 2)) ((c def c (c (? . 0) q post-insert-comment!)) q (832 . 2)) ((c def c (c (? . 5) q post-body)) c (? . 11)) ((c def c (c (? . 2) q post-id)) c (? . 3)) ((c def c (c (? . 12) q parse-post)) q (462 . 2)) ((c def c (c (? . 5) q post-title)) c (? . 11)) ((c def c (c (? . 8) q blog-insert-post!)) q (634 . 2)) ((c def c (c (? . 8) q set-blog-posts!)) q (569 . 2)) ((c def c (c (? . 10) q extract-binding/single)) q (270 . 2)) ((c def c (c (? . 5) q render-post)) q (108 . 2)) ((c def c (c (? . 8) q struct:blog)) c (? . 9)) ((c def c (c (? . 8) q blog?)) c (? . 9)) ((c def c (c (? . 0) q post-title)) c (? . 1)) ((c def c (c (? . 2) q post?)) c (? . 3))))
 struct
 (struct post (title body))
   title : string?
@@ -29,20 +29,20 @@ value
 blog-insert-post! : (blog? post? . -> . void)
 struct
 (struct post (title body comments)
-        #:mutable)
+    #:mutable)
   title : string?
   body : string?
   comments : (listof string?)
 value
-post-add-comment! : (post? string? . -> . void)
+post-insert-comment! : (post? string? . -> . void)
 value
 static-files-path : (path-string? -> void)
 value
 redirect/get : (-> request?)
 struct
 (struct blog (home posts)
-        #:mutable
-        #:prefab)
+    #:mutable
+    #:prefab)
   home : string?
   posts : (listof post?)
 value

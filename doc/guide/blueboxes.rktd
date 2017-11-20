@@ -6,14 +6,14 @@
 (something-else [thing ...+] an-expr ...)
  
 thing = thing-id
-      | thing-keyword
+      | thing-keyword
 
 (proc-expr arg-expr ...)
 
 (proc-expr arg ...)
  
 arg = arg-expr
-    | arg-keyword arg-expr
+    | arg-keyword arg-expr
 
 (lambda (arg-id ...)
   body ...+)
@@ -28,31 +28,31 @@ arg = arg-expr
   body ...+)
  
 gen-formals = (arg ...)
-            | rest-id
-            | (arg ...+ . rest-id)
-               
-arg         = arg-id
-            | [arg-id default-expr]
+            | rest-id
+            | (arg ...+ . rest-id)
+               
+        arg = arg-id
+            | [arg-id default-expr]
 
 (lambda gen-formals
   body ...+)
  
 gen-formals = (arg ...)
-            | rest-id
-            | (arg ...+ . rest-id)
-               
-arg         = arg-id
-            | [arg-id default-expr]
-            | arg-keyword arg-id
-            | arg-keyword [arg-id default-expr]
+            | rest-id
+            | (arg ...+ . rest-id)
+               
+        arg = arg-id
+            | [arg-id default-expr]
+            | arg-keyword arg-id
+            | arg-keyword [arg-id default-expr]
 
 (case-lambda
   [formals body ...+]
   ...)
  
 formals = (arg-id ...)
-        | rest-id
-        | (arg-id ...+ . rest-id)
+        | rest-id
+        | (arg-id ...+ . rest-id)
 
 (define id expr)
 
@@ -63,10 +63,10 @@ formals = (arg-id ...)
 (define (head args) body ...+)
  
 head = id
-     | (head args)
-        
+     | (head args)
+        
 args = arg ...
-     | arg ... . rest-id
+     | arg ... . rest-id
 
 (define-values (id ...) expr)
 
@@ -103,9 +103,9 @@ args = arg ...
 (cond cond-clause ...)
  
 cond-clause = [test-expr then-body ...+]
-            | [else then-body ...+]
-            | [test-expr => proc-expr]
-            | [test-expr]
+            | [else then-body ...+]
+            | [test-expr => proc-expr]
+            | [test-expr]
 
 (begin expr ...+)
 
@@ -142,10 +142,10 @@ cond-clause = [test-expr then-body ...+]
         struct-option ...)
  
 maybe-super = 
-            | super-id
-               
-field       = field-id
-            | [field-id field-option ...]
+            | super-id
+               
+      field = field-id
+            | [field-id field-option ...]
 
 #:mutable
 
@@ -189,21 +189,21 @@ id
 (planet rel-string (user-string pkg-string vers ...))
  
 vers = nat
-     | (nat nat)
-     | (= nat)
-     | (+ nat)
-     | (- nat)
+     | (nat nat)
+     | (= nat)
+     | (+ nat)
+     | (- nat)
 
 (file string)
 
 (submod base element ...+)
  
-base    = module-path
-        | "."
-        | ".."
-           
+   base = module-path
+        | "."
+        | ".."
+           
 element = id
-        | ".."
+        | ".."
 
 (require require-spec ...)
 
@@ -212,7 +212,7 @@ module-path
 (only-in require-spec id-maybe-renamed ...)
  
 id-maybe-renamed = id
-                 | [orig-id bind-id]
+                 | [orig-id bind-id]
 
 (except-in require-spec id ...)
 
@@ -246,22 +246,22 @@ identifier
   body ...+)
  
 clause = [id sequence-expr]
-       | #:when boolean-expr
-       | #:unless boolean-expr
+       | #:when boolean-expr
+       | #:unless boolean-expr
 
 (for (clause ...)
   body-or-break ... body)
  
-clause        = [id sequence-expr]
-              | #:when boolean-expr
-              | #:unless boolean-expr
-              | break
-                 
+       clause = [id sequence-expr]
+              | #:when boolean-expr
+              | #:unless boolean-expr
+              | break
+                 
 body-or-break = body
-              | break
-                 
-break         = #:break boolean-expr
-              | #:final boolean-expr
+              | break
+                 
+        break = #:break boolean-expr
+              | #:final boolean-expr
 
 (match target-expr
   [pattern expr ...+] ...)
@@ -283,11 +283,6 @@ break         = #:break boolean-expr
 
 (define-syntax id
   (syntax-rules (literal-id ...)
-    [pattern template]
-    ...))
-
-(define-syntax id
-  (syntax-id-rules (literal-id ...)
     [pattern template]
     ...))
 

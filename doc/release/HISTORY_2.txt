@@ -1,9 +1,172 @@
 ------------------------------
+       Version 6.11
+------------------------------
+
+  . added a font size option to the "insert large letters"
+    menu item
+
+  . added color scheme entries for syntax-check arrows
+
+  . change the implementation strategy for the program
+    contour to one that uses less screen real-estate and
+    is significantly more efficient.
+
+    Thanks to Jennie Tran for the implementation.
+
+------------------------------
+       Version 6.10
+------------------------------
+
+  . reduce the number of nested panel% objects to attempt to work around
+    a bug in the Windows 10 Creators Update
+
+  . misc bug fixes
+
+------------------------------
+       Version 6.9
+------------------------------
+
+  . add the "remove unused requires" refactoring
+
+  . improved support for #lang-based tooling
+
+  . add opt-in toolbar buttons
+
+  . add support for #lang-specified keybindings
+
+  . bug fixes and minor performance improvements
+
+------------------------------
+       Version 6.8
+------------------------------
+
+  . new logo
+
+  . bug fixes
+
+------------------------------
+       Version 6.7
+------------------------------
+
+  . improvements in the way DrRacket's sets up the printing parameters
+    to make the "#lang" variants of the teaching languages work better
+
+  . misc bug fixes
+
+------------------------------
+       Version 6.6
+------------------------------
+
+  . misc bug fixes
+
+  . cmd-9 always goes to the last tab, even when there are fewer than 9
+
+------------------------------
+       Version 6.5
+------------------------------
+
+  . changed the indentation strategy for sequences that begin with
+    keywords to assume that they are part of some internal structure
+    of something that, in general looks like
+    
+      (#:x 1 #:y 2 #:z 3)
+    
+    and so prefer to indent like this:
+    
+      (#:x 1
+       #:y 2
+       #:z 3)
+    
+    instead of like this:
+    
+      (#:x 1
+           #:y 2
+           #:z 3)
+
+  . the break button aborts the program the second time it is 
+    clicked on and its label changes to indicate what it will do
+
+------------------------------
+       Version 6.4
+------------------------------
+
+  . sped up scrolling
+
+  . added submodules to the popup menu navigator
+    that contained only definitions before
+
+------------------------------
+       Version 6.3
+------------------------------
+
+  . initialize the pretty-print-size-hook and the 
+    pretty-print-print-hook to handle special values like images, 
+    fractions etc, in the user's program
+
+  . added a weight option to the font preferences dialog
+
+  . add c:x;c keybinding for "tack crossing arrows" in Check Syntax
+
+  . added the "Paste and Indent" menu item
+
+  . misc bug fixes
+
+------------------------------
+       Version 6.2
+------------------------------
+
+  . change the teaching languages to use #true, #false, and '()
+    for true, false, and empty
+
+  . Added an indentation mode for Scribble (and better support for
+    #lang-based specification of indentation)
+
+  . change the way 'return' handles whitespace, making it match the
+    way return works in Greg Hendershott's racket-mode in Emacs. The
+    difference from the previous DrRacket behavior is that it removes
+    all of the trailing whitespace on the line before the newly
+    inserted return (possibly removing all of the whitespace in the
+    case that the line contains only whitespace).
+
+------------------------------
+       Version 6.1.1
+------------------------------
+
+  . added support for hiding the content of ellipsis-labelled sections
+    in error messages
+
+  . remove 'print' mode from the Pretty Big language
+
+  . improve support for tooltips in Check Syntax
+
+  . DrRacket: drop numpad Enter treatment as force-evaluation
+    (see commit a41cc0c3c0 for details)
+
+  . macro expansion that exhausts memory no longer breaks DrRacket's
+    online expansion & check syntax
+
+------------------------------
        Version 6.1
 ------------------------------
 
+  . added better spell-checking support: DrRacket can suggest
+    corrections and has a keystroke to jump the next misspelling.
+
   . changed the online expansion handler machinery so that
     the handlers receive exceptions when expansion raises one
+
+  . made the memory log and the () highlighter's computation status
+    visible in released versions of DrRacket (previously they were
+    visible only in git-based versions and nightly builds)
+
+  . improved DrRacket .plt installation functionality so that it
+    prints out the start of the contents of the file it tried to
+    unpack when it fails
+
+  . Mac OS X: added full screen support
+
+  . added a re-indent paragraph key binding (esc;q) for Scribble
+    mode. Thanks to Lei Wang for implementing this.
 
 ------------------------------
        Version 6.0

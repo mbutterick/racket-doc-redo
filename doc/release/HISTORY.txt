@@ -1,4 +1,43 @@
-Version 6.0.0.1
+Version 6.10, July 2017
+Extract OS adapters to the "rktio" library
+Bug repairs and other changes noted in the documentation
+
+Version 6.9, April 2017
+Bug repairs and other changes noted in the documentation
+
+Version 6.8, January 2017
+Bug repairs and other changes noted in the documentation
+
+Version 6.7, October 2016
+Bug repairs and other changes noted in the documentation
+
+Version 6.6, July 2016
+Bug repairs and other changes noted in the documentation
+
+Version 6.5, April 2016
+Bug repairs and other changes noted in the documentation
+
+Version 6.4, January 2016
+Changes noted in the documentation, including support for
+ incremental garbage collection
+Performance improvements and bug repairs
+
+Version 6.3, October 2015
+Bug repairs and other changes noted in the documentation,
+ including substantial changes to the macro expander
+
+Version 6.2, April 2015
+Bug repairs and other changes noted in the documentation
+
+Version 6.1.1, October 2014
+Bug repairs and other changes noted in the documentation
+
+Version 6.1, July 2014
+Changed use-before-definition to be an error instead of producing
+ an #<undefined> value
+Removed the mzlib/class100 library
+
+Version 6.0.1, April 2014
 Moved detailed-change recording to documentation
 
 Version 6.0, January 2014

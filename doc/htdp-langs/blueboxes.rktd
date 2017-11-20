@@ -1,5 +1,5 @@
-57979
-((3) 0 () 5 ((q lib "lang/htdp-intermediate.rkt") (q lib "lang/htdp-advanced.rkt") (q lib "lang/htdp-intermediate-lambda.rkt") (q lib "lang/htdp-beginner-abbr.rkt") (q lib "lang/htdp-beginner.rkt")) () (h ! (equal) ((c def c (c (? . 1) q angle)) q (60496 . 3)) ((c def c (c (? . 3) q string-contains?)) q (24862 . 4)) ((c def c (c (? . 4) q make-list)) q (7178 . 4)) ((c def c (c (? . 0) q list)) q (34092 . 3)) ((c def c (c (? . 0) q char<=?)) q (36504 . 5)) ((c def c (c (? . 1) q string-ci=?)) q (69484 . 5)) ((c def c (c (? . 2) q real-part)) q (47068 . 3)) ((c def c (c (? . 0) q make-list)) q (34338 . 4)) ((c def c (c (? . 1) q string->symbol)) q (69090 . 3)) ((c def c (c (? . 2) q replicate)) q (52733 . 4)) ((c def c (c (? . 0) q image=?)) q (39720 . 4)) ((c def c (c (? . 1) q exact?)) q (61128 . 3)) ((c def c (c (? . 2) q empty)) q (42236 . 2)) ((c def c (c (? . 2) q second)) q (50455 . 3)) ((c def c (c (? . 2) q expt)) q (45464 . 4)) ((c def c (c (? . 2) q char-lower-case?)) q (51544 . 3)) ((c def c (c (? . 2) q cons?)) q (49069 . 3)) ((c def c (c (? . 2) q char-ci<?)) q (51109 . 5)) ((c def c (c (? . 3) q cons?)) q (20209 . 3)) ((c def c (c (? . 0) q char-whitespace?)) q (36443 . 3)) ((c def c (c (? . 1) q hash-set!)) q (76329 . 5)) ((c def c (c (? . 4) q explode)) q (9857 . 3)) ((c form c (c (? . 0) q require)) q (28507 . 2)) ((c def c (c (? . 0) q asin)) q (29446 . 3)) ((c def c (c (? . 0) q reverse)) q (35073 . 3)) ((c def c (c (? . 1) q gensym)) q (71870 . 2)) ((c form c (c (? . 4) q quote)) q (313 . 2)) ((c def c (c (? . 1) q char>?)) q (68230 . 5)) ((c def c (c (? . 2) q exact?)) q (45363 . 3)) ((c def c (c (? . 2) q append)) q (48138 . 3)) ((c def c (c (? . 2) q char-numeric?)) q (51605 . 3)) ((c def c (c (? . 2) q cdar)) q (48767 . 3)) ((c def c (c (? . 1) q current-seconds)) q (60898 . 2)) ((c def c (c (? . 1) q quicksort)) q (73706 . 4)) ((c def c (c (? . 0) q eof)) q (39944 . 2)) ((c def c (c (? . 4) q cos)) q (2570 . 3)) ((c def c (c (? . 3) q posn-x)) q (21843 . 3)) ((c def c (c (? . 0) q string->list)) q (37594 . 3)) ((c def c (c (? . 1) q odd?)) q (62523 . 3)) ((c def c (c (? . 0) q =)) q (28988 . 5)) ((c def c (c (? . 0) q round)) q (31915 . 3)) ((c form c (c (? . 0) q cond)) q (27841 . 5)) ((c def c (c (? . 4) q >=)) q (2035 . 5)) ((c def c (c (? . 2) q >)) q (44414 . 5)) ((c def c (c (? . 0) q ormap)) q (41893 . 4)) ((c def c (c (? . 4) q string-ci>?)) q (11175 . 5)) ((c def c (c (? . 0) q exp)) q (30083 . 3)) ((c def c (c (? . 3) q rest)) q (21450 . 3)) ((c def c (c (? . 1) q read)) q (74152 . 2)) ((c def c (c (? . 0) q real?)) q (31787 . 3)) ((c def c (c (? . 2) q >=)) q (44501 . 5)) ((c form c (c (? . 2) q unquote)) q (43029 . 2)) ((c def c (c (? . 0) q list->string)) q (37262 . 3)) ((c form c (c (? . 1) q set!)) q (57990 . 2)) ((c form c (c (? . 0) q check-range)) q (28441 . 2)) ((c def c (c (? . 0) q acos)) q (29300 . 3)) ((c def c (c (? . 2) q real?)) q (47120 . 3)) ((c def c (c (? . 3) q complex?)) q (16046 . 3)) ((c def c (c (? . 4) q char-upcase)) q (9170 . 3)) ((c def c (c (? . 3) q integer?)) q (17064 . 3)) ((c def c (c (? . 1) q foldr)) q (73174 . 5)) ((c def c (c (? . 2) q string-ci<?)) q (53358 . 5)) ((c def c (c (? . 1) q third)) q (66486 . 3)) ((c def c (c (? . 3) q even?)) q (16369 . 3)) ((c def c (c (? . 3) q string-lower-case?)) q (25141 . 3)) ((c form c (c (? . 3) q check-expect)) q (14353 . 2)) ((c def c (c (? . 0) q posn)) q (35387 . 2)) ((c def c (c (? . 4) q false)) q (47 . 2)) ((c def c (c (? . 4) q zero?)) q (5195 . 3)) ((c def c (c (? . 1) q asin)) q (60544 . 3)) ((c def c (c (? . 3) q format)) q (23503 . 4)) ((c def c (c (? . 3) q +)) q (15011 . 5)) ((c def c (c (? . 2) q not)) q (47899 . 3)) ((c def c (c (? . 1) q gcd)) q (61347 . 4)) ((c def c (c (? . 2) q format)) q (52412 . 4)) ((c def c (c (? . 2) q true)) q (42259 . 2)) ((c def c (c (? . 1) q unbox)) q (75348 . 3)) ((c def c (c (? . 2) q char-ci<=?)) q (51013 . 5)) ((c def c (c (? . 3) q pi)) q (17928 . 2)) ((c def c (c (? . 3) q magnitude)) q (17242 . 3)) ((c form c (c (? . 3) q cond)) q (14019 . 5)) ((c def c (c (? . 2) q sin)) q (47370 . 3)) ((c def c (c (? . 2) q string>?)) q (54790 . 5)) ((c def c (c (? . 4) q string->int)) q (10377 . 3)) ((c def c (c (? . 3) q integer->char)) q (16942 . 3)) ((c form c (c (? . 3) q unquote-splicing)) q (13714 . 2)) ((c def c (c (? . 2) q null)) q (50113 . 2)) ((c def c (c (? . 0) q symbol?)) q (32752 . 3)) ((c def c (c (? . 0) q posn-y)) q (35465 . 3)) ((c def c (c (? . 4) q random)) q (4494 . 3)) ((c def c (c (? . 4) q image?)) q (12632 . 3)) ((c def c (c (? . 0) q char-ci>=?)) q (35966 . 5)) ((c form c (c (? . 3) q ....)) q (13453 . 2)) ((c def c (c (? . 1) q string>?)) q (70813 . 5)) ((c def c (c (? . 0) q min)) q (31058 . 4)) ((c def c (c (? . 1) q char-alphabetic?)) q (66975 . 3)) ((c def c (c (? . 2) q range)) q (50184 . 5)) ((c def c (c (? . 3) q identity)) q (26842 . 3)) ((c def c (c (? . 3) q caddr)) q (19670 . 3)) ((c def c (c (? . 2) q exit)) q (55724 . 2)) ((c def c (c (? . 3) q symbol?)) q (19203 . 3)) ((c form c (c (? . 1) q match)) q (58395 . 2)) ((c def c (c (? . 4) q string-upper-case?)) q (11765 . 3)) ((c def c (c (? . 4) q symbol=?)) q (5544 . 4)) ((c def c (c (? . 0) q string-ith)) q (38577 . 4)) ((c def c (c (? . 2) q asin)) q (44779 . 3)) ((c def c (c (? . 1) q remove)) q (66175 . 4)) ((c def c (c (? . 0) q char-ci>?)) q (36062 . 5)) ((c def c (c (? . 2) q seventh)) q (50504 . 3)) ((c def c (c (? . 1) q <)) q (59911 . 5)) ((c form c (c (? . 2) q let*)) q (42626 . 2)) ((c def c (c (? . 0) q string-whitespace?)) q (38990 . 3)) ((c def c (c (? . 0) q pi)) q (31477 . 2)) ((c form c (c (? . 2) q .....)) q (42341 . 2)) ((c def c (c (? . 2) q string-ci<=?)) q (53254 . 5)) ((c def c (c (? . 3) q char-numeric?)) q (22696 . 3)) ((c def c (c (? . 0) q memv)) q (34700 . 4)) ((c form c (c (? . 1) q begin)) q (57901 . 2)) ((c def c (c (? . 0) q equal?)) q (40095 . 4)) ((c def c (c (? . 2) q sinh)) q (47418 . 3)) ((c def c (c (? . 1) q char-lower-case?)) q (67567 . 3)) ((c def c (c (? . 3) q string-append)) q (24282 . 3)) ((c def c (c (? . 2) q eof)) q (55277 . 2)) ((c def c (c (? . 3) q append)) q (19256 . 5)) ((c def c (c (? . 2) q min)) q (46391 . 4)) ((c def c (c (? . 4) q memq)) q (7401 . 4)) ((c def c (c (? . 1) q empty?)) q (65039 . 3)) ((c def c (c (? . 0) q char-downcase)) q (36157 . 3)) ((c def c (c (? . 1) q append)) q (63903 . 3)) ((c form c (c (? . 1) q begin0)) q (57945 . 2)) ((c def c (c (? . 1) q hash-remove)) q (76075 . 4)) ((c def c (c (? . 1) q vector-set!)) q (75042 . 5)) ((c def c (c (? . 1) q posn)) q (66604 . 2)) ((c def c (c (? . 0) q gcd)) q (30249 . 4)) ((c def c (c (? . 0) q string-ref)) q (38844 . 4)) ((c def c (c (? . 1) q inexact->exact)) q (61475 . 3)) ((c def c (c (? . 3) q real-part)) q (18186 . 3)) ((c def c (c (? . 4) q >)) q (1948 . 5)) ((c def c (c (? . 0) q real-part)) q (31735 . 3)) ((c def c (c (? . 1) q ormap)) q (73564 . 4)) ((c def c (c (? . 1) q string<?)) q (70512 . 5)) ((c form c (c (? . 2) q ....)) q (42329 . 2)) ((c def c (c (? . 4) q e)) q (2768 . 2)) ((c def c (c (? . 0) q string->symbol)) q (37734 . 3)) ((c def c (c (? . 2) q sqr)) q (47467 . 3)) ((c def c (c (? . 4) q current-seconds)) q (2667 . 2)) ((c def c (c (? . 0) q string-ci<?)) q (38025 . 5)) ((c def c (c (? . 2) q struct?)) q (55800 . 3)) ((c def c (c (? . 1) q second)) q (66339 . 3)) ((c def c (c (? . 3) q positive?)) q (17946 . 3)) ((c def c (c (? . 0) q map)) q (41698 . 4)) ((c def c (c (? . 0) q remove)) q (34958 . 4)) ((c def c (c (? . 4) q make-rectangular)) q (3781 . 4)) ((c def c (c (? . 4) q char>?)) q (9714 . 5)) ((c def c (c (? . 4) q error)) q (13178 . 3)) ((c def c (c (? . 3) q list-ref)) q (20689 . 4)) ((c def c (c (? . 2) q third)) q (50602 . 3)) ((c def c (c (? . 0) q exit)) q (40391 . 2)) ((c def c (c (? . 3) q atan)) q (15946 . 3)) ((c def c (c (? . 2) q cosh)) q (45084 . 3)) ((c def c (c (? . 4) q second)) q (7962 . 3)) ((c def c (c (? . 2) q caaar)) q (48290 . 3)) ((c form c (c (? . 0) q check-error)) q (28292 . 3)) ((c def c (c (? . 1) q negative?)) q (62297 . 3)) ((c def c (c (? . 1) q string-ci<=?)) q (69277 . 5)) ((c def c (c (? . 0) q random)) q (31627 . 3)) ((c def c (c (? . 0) q string-ci<=?)) q (37921 . 5)) ((c def c (c (? . 4) q integer?)) q (3480 . 3)) ((c def c (c (? . 0) q integer->char)) q (30491 . 3)) ((c def c (c (? . 0) q sinh)) q (32085 . 3)) ((c def c (c (? . 4) q string->number)) q (10499 . 3)) ((c def c (c (? . 2) q string-upper-case?)) q (54258 . 3)) ((c def c (c (? . 2) q make-polar)) q (46176 . 4)) ((c def c (c (? . 0) q first)) q (33936 . 3)) ((c def c (c (? . 1) q vector-ref)) q (74970 . 4)) ((c def c (c (? . 1) q boolean?)) q (63558 . 3)) ((c def c (c (? . 1) q null?)) q (66017 . 3)) ((c form c (c (? . 1) q or)) q (59220 . 2)) ((c def c (c (? . 4) q char-ci=?)) q (8711 . 5)) ((c form c (c (? . 2) q ......)) q (42354 . 2)) ((c def c (c (? . 1) q hash-has-key?)) q (75750 . 4)) ((c form c (c (? . 2) q local)) q (42523 . 2)) ((c form c (c (? . 4) q or)) q (716 . 2)) ((c def c (c (? . 0) q number->string)) q (31255 . 3)) ((c def c (c (? . 3) q exit)) q (26815 . 2)) ((c def c (c (? . 0) q string-ci>?)) q (38335 . 5)) ((c def c (c (? . 1) q display)) q (73907 . 3)) ((c def c (c (? . 0) q foldl)) q (41405 . 5)) ((c def c (c (? . 2) q compose)) q (56561 . 4)) ((c def c (c (? . 1) q false?)) q (63612 . 3)) ((c def c (c (? . 0) q caddr)) q (33197 . 3)) ((c def c (c (? . 3) q memq?)) q (21054 . 4)) ((c def c (c (? . 3) q sinh)) q (18536 . 3)) ((c def c (c (? . 1) q compose)) q (72899 . 4)) ((c def c (c (? . 1) q cons)) q (64865 . 4)) ((c def c (c (? . 0) q modulo)) q (31125 . 4)) ((c form c (c (? . 4) q require)) q (1101 . 2)) ((c def c (c (? . 1) q member)) q (65635 . 4)) ((c def c (c (? . 2) q ceiling)) q (44877 . 3)) ((c def c (c (? . 3) q =)) q (15439 . 5)) ((c def c (c (? . 2) q string-contains?)) q (53771 . 4)) ((c def c (c (? . 0) q rational?)) q (31680 . 3)) ((c def c (c (? . 1) q inexact?)) q (61534 . 3)) ((c form c (c (? . 2) q check-range)) q (43774 . 2)) ((c def c (c (? . 2) q make-list)) q (49671 . 4)) ((c def c (c (? . 4) q true)) q (23 . 2)) ((c def c (c (? . 4) q +)) q (1427 . 5)) ((c def c (c (? . 1) q null)) q (65997 . 2)) ((c def c (c (? . 4) q remove)) q (7798 . 4)) ((c def c (c (? . 2) q tan)) q (47613 . 3)) ((c def c (c (? . 3) q string?)) q (25981 . 3)) ((c def c (c (? . 4) q int->string)) q (10045 . 3)) ((c form c (c (? . 1) q require)) q (59605 . 2)) ((c def c (c (? . 1) q range)) q (66068 . 5)) ((c def c (c (? . 0) q >)) q (29081 . 5)) ((c def c (c (? . 1) q assq)) q (64070 . 4)) ((c def c (c (? . 1) q length)) q (65236 . 3)) ((c def c (c (? . 4) q number->string)) q (4122 . 3)) ((c def c (c (? . 4) q reverse)) q (7913 . 3)) ((c def c (c (? . 3) q min)) q (17509 . 4)) ((c def c (c (? . 3) q sub1)) q (18682 . 3)) ((c def c (c (? . 1) q string>=?)) q (70712 . 5)) ((c def c (c (? . 0) q eqv?)) q (40269 . 4)) ((c def c (c (? . 4) q implode)) q (9994 . 3)) ((c def c (c (? . 1) q make-immutable-hasheq)) q (76849 . 2)) ((c def c (c (? . 1) q char-whitespace?)) q (67799 . 3)) ((c def c (c (? . 0) q posn?)) q (35511 . 3)) ((c def c (c (? . 3) q error)) q (26762 . 3)) ((c def c (c (? . 4) q sin)) q (4904 . 3)) ((c def c (c (? . 2) q memq?)) q (49963 . 4)) ((c form c (c (? . 2) q quasiquote)) q (42958 . 2)) ((c def c (c (? . 2) q eighth)) q (49120 . 3)) ((c def c (c (? . 1) q cdddr)) q (64724 . 3)) ((c def c (c (? . 0) q memq?)) q (34630 . 4)) ((c def c (c (? . 3) q char>=?)) q (23205 . 5)) ((c def c (c (? . 3) q posn?)) q (21935 . 3)) ((c def c (c (? . 4) q struct?)) q (13307 . 3)) ((c def c (c (? . 3) q make-list)) q (20762 . 4)) ((c def c (c (? . 0) q symbol->string)) q (32618 . 3)) ((c def c (c (? . 2) q reverse)) q (50406 . 3)) ((c def c (c (? . 1) q =)) q (60086 . 5)) ((c def c (c (? . 0) q odd?)) q (31425 . 3)) ((c def c (c (? . 2) q length)) q (49366 . 3)) ((c def c (c (? . 1) q cdr)) q (64819 . 3)) ((c form c (c (? . 1) q check-within)) q (59328 . 2)) ((c def c (c (? . 2) q boolean?)) q (47793 . 3)) ((c def c (c (? . 3) q gcd)) q (16700 . 4)) ((c def c (c (? . 4) q string-lower-case?)) q (11557 . 3)) ((c def c (c (? . 1) q string->int)) q (68893 . 3)) ((c def c (c (? . 1) q eof-object?)) q (71378 . 3)) ((c def c (c (? . 2) q first)) q (49269 . 3)) ((c def c (c (? . 0) q string?)) q (39557 . 3)) ((c def c (c (? . 2) q cos)) q (45036 . 3)) ((c def c (c (? . 0) q string)) q (37482 . 3)) ((c def c (c (? . 4) q <)) q (1680 . 5)) ((c def c (c (? . 1) q current-milliseconds)) q (71300 . 2)) ((c def c (c (? . 2) q foldl)) q (56738 . 5)) ((c def c (c (? . 1) q member?)) q (65706 . 4)) ((c def c (c (? . 3) q symbol=?)) q (19128 . 4)) ((c def c (c (? . 2) q eof-object?)) q (55303 . 3)) ((c def c (c (? . 3) q memq)) q (20985 . 4)) ((c def c (c (? . 3) q cadar)) q (19573 . 3)) ((c def c (c (? . 1) q string-alphabetic?)) q (69149 . 3)) ((c def c (c (? . 0) q string-copy)) q (38521 . 3)) ((c def c (c (? . 1) q *)) q (72191 . 3)) ((c def c (c (? . 2) q inexact->exact)) q (45710 . 3)) ((c def c (c (? . 2) q andmap)) q (56026 . 4)) ((c def c (c (? . 3) q numerator)) q (17818 . 3)) ((c def c (c (? . 2) q image=?)) q (55053 . 4)) ((c def c (c (? . 1) q number?)) q (62412 . 3)) ((c def c (c (? . 3) q cddr)) q (20050 . 3)) ((c def c (c (? . 1) q reverse)) q (66290 . 3)) ((c def c (c (? . 0) q empty)) q (26944 . 2)) ((c def c (c (? . 0) q append)) q (32805 . 3)) ((c def c (c (? . 4) q remainder)) q (4705 . 4)) ((c def c (c (? . 1) q set-posn-y!)) q (66849 . 4)) ((c def c (c (? . 2) q <=)) q (44233 . 5)) ((c def c (c (? . 2) q char<=?)) q (51837 . 5)) ((c form c (c (? . 1) q cond)) q (58939 . 5)) ((c def c (c (? . 1) q foldl)) q (73076 . 5)) ((c def c (c (? . 3) q sin)) q (18488 . 3)) ((c def c (c (? . 3) q char-alphabetic?)) q (22043 . 3)) ((c def c (c (? . 3) q imag-part)) q (16776 . 3)) ((c def c (c (? . 0) q empty?)) q (33836 . 3)) ((c def c (c (? . 0) q list*)) q (34144 . 4)) ((c def c (c (? . 0) q implode)) q (37154 . 3)) ((c def c (c (? . 1) q make-immutable-hash)) q (76799 . 2)) ((c def c (c (? . 3) q e)) q (16352 . 2)) ((c def c (c (? . 4) q char?)) q (9806 . 3)) ((c def c (c (? . 0) q null?)) q (34800 . 3)) ((c def c (c (? . 0) q /)) q (40622 . 4)) ((c def c (c (? . 4) q even?)) q (2785 . 3)) ((c def c (c (? . 4) q third)) q (8109 . 3)) ((c def c (c (? . 3) q string-length)) q (25086 . 3)) ((c def c (c (? . 3) q string->int)) q (23961 . 3)) ((c def c (c (? . 1) q newline)) q (73954 . 2)) ((c def c (c (? . 3) q replicate)) q (23824 . 4)) ((c def c (c (? . 0) q build-list)) q (41062 . 4)) ((c def c (c (? . 2) q string=?)) q (54589 . 5)) ((c form c (c (? . 1) q ..)) q (57641 . 2)) ((c def c (c (? . 2) q string-numeric?)) q (54115 . 3)) ((c def c (c (? . 2) q integer?)) q (45946 . 3)) ((c def c (c (? . 2) q string-ci>=?)) q (53564 . 5)) ((c def c (c (? . 4) q char<=?)) q (9344 . 5)) ((c def c (c (? . 1) q force)) q (71826 . 3)) ((c def c (c (? . 3) q explode)) q (23441 . 3)) ((c def c (c (? . 2) q image?)) q (55125 . 3)) ((c def c (c (? . 4) q string=?)) q (12096 . 5)) ((c def c (c (? . 1) q integer->char)) q (61589 . 3)) ((c def c (c (? . 1) q add1)) q (60447 . 3)) ((c def c (c (? . 0) q char-ci<=?)) q (35680 . 5)) ((c def c (c (? . 1) q max)) q (62089 . 4)) ((c def c (c (? . 4) q string-whitespace?)) q (11830 . 3)) ((c def c (c (? . 3) q abs)) q (15707 . 3)) ((c def c (c (? . 4) q false?)) q (5381 . 3)) ((c def c (c (? . 0) q cosh)) q (29751 . 3)) ((c def c (c (? . 3) q conjugate)) q (16100 . 3)) ((c def c (c (? . 1) q -)) q (59840 . 4)) ((c def c (c (? . 1) q lcm)) q (61765 . 4)) ((c def c (c (? . 2) q string<=?)) q (54388 . 5)) ((c def c (c (? . 2) q char=?)) q (52022 . 5)) ((c def c (c (? . 3) q cdar)) q (19907 . 3)) ((c form c (c (? . 2) q time)) q (42735 . 2)) ((c def c (c (? . 1) q list)) q (65295 . 3)) ((c def c (c (? . 4) q cdddr)) q (6418 . 3)) ((c def c (c (? . 2) q caar)) q (48386 . 3)) ((c def c (c (? . 2) q member)) q (49751 . 4)) ((c def c (c (? . 2) q conjugate)) q (44982 . 3)) ((c def c (c (? . 1) q cons?)) q (64939 . 3)) ((c def c (c (? . 3) q memv)) q (21124 . 4)) ((c def c (c (? . 4) q append)) q (5672 . 5)) ((c def c (c (? . 1) q sub1)) q (63329 . 3)) ((c def c (c (? . 2) q string)) q (52815 . 3)) ((c def c (c (? . 1) q complex?)) q (60693 . 3)) ((c def c (c (? . 1) q =~)) q (71200 . 5)) ((c def c (c (? . 2) q integer->char)) q (45824 . 3)) ((c form c (c (? . 0) q or)) q (28122 . 2)) ((c def c (c (? . 2) q explode)) q (52350 . 3)) ((c def c (c (? . 2) q make-rectangular)) q (46247 . 4)) ((c form c (c (? . 2) q if)) q (43338 . 2)) ((c def c (c (? . 4) q *)) q (1336 . 5)) ((c def c (c (? . 3) q real?)) q (18238 . 3)) ((c def c (c (? . 4) q sub1)) q (5098 . 3)) ((c def c (c (? . 0) q string<?)) q (39156 . 5)) ((c def c (c (? . 2) q abs)) q (44589 . 3)) ((c def c (c (? . 4) q cdadr)) q (6275 . 3)) ((c def c (c (? . 4) q cdaar)) q (6227 . 3)) ((c def c (c (? . 3) q string>?)) q (25881 . 5)) ((c def c (c (? . 2) q posn?)) q (50844 . 3)) ((c def c (c (? . 2) q number->string)) q (46588 . 3)) ((c form c (c (? . 4) q .....)) q (105 . 2)) ((c def c (c (? . 1) q hash-count)) q (75443 . 3)) ((c def c (c (? . 3) q string-ci>=?)) q (24655 . 5)) ((c def c (c (? . 3) q char<=?)) q (22928 . 5)) ((c def c (c (? . 1) q posn-x)) q (66636 . 3)) ((c def c (c (? . 0) q boolean?)) q (32460 . 3)) ((c def c (c (? . 0) q conjugate)) q (29649 . 3)) ((c def c (c (? . 4) q char->integer)) q (8402 . 3)) ((c def c (c (? . 4) q -)) q (1518 . 4)) ((c def c (c (? . 0) q procedure?)) q (41981 . 3)) ((c def c (c (? . 1) q make-hash)) q (76674 . 2)) ((c def c (c (? . 1) q conjugate)) q (60747 . 3)) ((c form c (c (? . 3) q or)) q (14300 . 2)) ((c form c (c (? . 1) q case)) q (58226 . 2)) ((c def c (c (? . 2) q exact->inexact)) q (45304 . 3)) ((c def c (c (? . 0) q memf)) q (41790 . 4)) ((c def c (c (? . 1) q string<=?)) q (70411 . 5)) ((c def c (c (? . 2) q ormap)) q (57226 . 4)) ((c def c (c (? . 1) q memq?)) q (65847 . 4)) ((c def c (c (? . 2) q random)) q (46960 . 3)) ((c def c (c (? . 0) q for-each)) q (41601 . 4)) ((c form c (c (? . 1) q check-error)) q (59390 . 3)) ((c def c (c (? . 4) q sqr)) q (5001 . 3)) ((c form c (c (? . 3) q ..)) q (13432 . 2)) ((c def c (c (? . 1) q make-string)) q (68674 . 4)) ((c def c (c (? . 4) q char-ci<=?)) q (8520 . 5)) ((c def c (c (? . 1) q imag-part)) q (61423 . 3)) ((c def c (c (? . 1) q implode)) q (68510 . 3)) ((c def c (c (? . 0) q negative?)) q (31199 . 3)) ((c def c (c (? . 3) q list*)) q (20617 . 4)) ((c def c (c (? . 0) q even?)) q (29918 . 3)) ((c def c (c (? . 0) q number?)) q (31314 . 3)) ((c form c (c (? . 2) q or)) q (43455 . 2)) ((c def c (c (? . 1) q symbol?)) q (63850 . 3)) ((c def c (c (? . 2) q posn-y)) q (50798 . 3)) ((c form c (c (? . 1) q check-range)) q (59539 . 2)) ((c def c (c (? . 1) q string-ref)) q (70200 . 4)) ((c def c (c (? . 0) q string-upper-case?)) q (38925 . 3)) ((c def c (c (? . 2) q cdadr)) q (48719 . 3)) ((c def c (c (? . 3) q string-ci<?)) q (24449 . 5)) ((c def c (c (? . 0) q boolean=?)) q (32380 . 4)) ((c form c (c (? . 3) q if)) q (14183 . 2)) ((c def c (c (? . 0) q cddar)) q (33481 . 3)) ((c def c (c (? . 1) q hash-equal?)) q (75549 . 3)) ((c def c (c (? . 0) q length)) q (34033 . 3)) ((c def c (c (? . 1) q <=)) q (59998 . 5)) ((c form c (c (? . 4) q check-range)) q (1035 . 2)) ((c def c (c (? . 4) q empty)) q (0 . 2)) ((c def c (c (? . 4) q tan)) q (5147 . 3)) ((c def c (c (? . 2) q string-ci>?)) q (53668 . 5)) ((c def c (c (? . 4) q caar)) q (5942 . 3)) ((c def c (c (? . 0) q ceiling)) q (29544 . 3)) ((c form c (c (? . 1) q if)) q (59103 . 2)) ((c def c (c (? . 2) q zero?)) q (47661 . 3)) ((c def c (c (? . 4) q exact?)) q (2897 . 3)) ((c def c (c (? . 4) q eighth)) q (6676 . 3)) ((c def c (c (? . 3) q car)) q (19765 . 3)) ((c def c (c (? . 1) q sin)) q (63135 . 3)) ((c def c (c (? . 0) q make-string)) q (37318 . 4)) ((c def c (c (? . 0) q car)) q (33292 . 3)) ((c def c (c (? . 1) q vector)) q (74780 . 3)) ((c def c (c (? . 0) q cadar)) q (33100 . 3)) ((c def c (c (? . 1) q memf)) q (73461 . 4)) ((c def c (c (? . 2) q char?)) q (52299 . 3)) ((c def c (c (? . 2) q int->string)) q (52538 . 3)) ((c def c (c (? . 3) q floor)) q (16651 . 3)) ((c def c (c (? . 4) q string->list)) q (10434 . 3)) ((c def c (c (? . 4) q symbol?)) q (5619 . 3)) ((c def c (c (? . 4) q angle)) q (2265 . 3)) ((c def c (c (? . 3) q member)) q (20842 . 4)) ((c def c (c (? . 0) q zero?)) q (32328 . 3)) ((c def c (c (? . 1) q make-immutable-hasheqv)) q (76901 . 2)) ((c def c (c (? . 1) q string-append)) q (69214 . 3)) ((c def c (c (? . 1) q vector-length)) q (74910 . 3)) ((c def c (c (? . 3) q range)) q (21275 . 5)) ((c def c (c (? . 0) q compose)) q (41228 . 4)) ((c def c (c (? . 3) q third)) q (21693 . 3)) ((c form c (c (? . 1) q define)) q (58786 . 2)) ((c def c (c (? . 1) q char-ci>?)) q (67418 . 5)) ((c def c (c (? . 0) q filter)) q (41312 . 4)) ((c def c (c (? . 2) q eq?)) q (55360 . 4)) ((c def c (c (? . 1) q caar)) q (64248 . 3)) ((c def c (c (? . 2) q apply)) q (56115 . 5)) ((c def c (c (? . 2) q sixth)) q (50554 . 3)) ((c def c (c (? . 4) q equal?)) q (12935 . 4)) ((c def c (c (? . 3) q cons)) q (20143 . 4)) ((c form c (c (? . 3) q unquote)) q (13665 . 2)) ((c def c (c (? . 3) q reverse)) q (21497 . 3)) ((c form c (c (? . 3) q quote)) q (13522 . 2)) ((c def c (c (? . 2) q lcm)) q (46000 . 4)) ((c def c (c (? . 0) q posn-x)) q (35419 . 3)) ((c def c (c (? . 0) q substring)) q (39610 . 5)) ((c form c (c (? . 4) q check-expect)) q (769 . 2)) ((c def c (c (? . 4) q real-part)) q (4602 . 3)) ((c def c (c (? . 4) q make-polar)) q (3710 . 4)) ((c def c (c (? . 1) q andmap)) q (72364 . 4)) ((c def c (c (? . 1) q min)) q (62156 . 4)) ((c def c (c (? . 1) q explode)) q (68373 . 3)) ((c def c (c (? . 0) q cos)) q (29703 . 3)) ((c def c (c (? . 2) q string-ith)) q (53910 . 4)) ((c def c (c (? . 2) q cdr)) q (48957 . 3)) ((c def c (c (? . 3) q string>=?)) q (25780 . 5)) ((c def c (c (? . 0) q cons)) q (33670 . 4)) ((c def c (c (? . 1) q cdadr)) q (64581 . 3)) ((c def c (c (? . 3) q string-ci=?)) q (24552 . 5)) ((c def c (c (? . 2) q char>?)) q (52207 . 5)) ((c def c (c (? . 1) q sort)) q (73809 . 4)) ((c form c (c (? . 0) q quasiquote)) q (27416 . 2)) ((c def c (c (? . 4) q string-length)) q (11502 . 3)) ((c def c (c (? . 0) q false?)) q (32514 . 3)) ((c def c (c (? . 2) q list*)) q (49477 . 4)) ((c def c (c (? . 0) q current-seconds)) q (29800 . 2)) ((c def c (c (? . 4) q cdar)) q (6323 . 3)) ((c def c (c (? . 1) q numerator)) q (62465 . 3)) ((c def c (c (? . 0) q make-polar)) q (30843 . 4)) ((c def c (c (? . 0) q *)) q (40520 . 3)) ((c form c (c (? . 1) q let)) q (58706 . 2)) ((c def c (c (? . 3) q char?)) q (23390 . 3)) ((c def c (c (? . 0) q caar)) q (33053 . 3)) ((c def c (c (? . 1) q char-ci<?)) q (67132 . 5)) ((c form c (c (? . 3) q define-struct)) q (13918 . 2)) ((c form c (c (? . 4) q if)) q (599 . 2)) ((c def c (c (? . 2) q assq)) q (48208 . 4)) ((c def c (c (? . 4) q char=?)) q (9529 . 5)) ((c def c (c (? . 3) q image=?)) q (26144 . 4)) ((c def c (c (? . 3) q >)) q (15532 . 5)) ((c def c (c (? . 2) q remove)) q (50291 . 4)) ((c def c (c (? . 4) q char-ci>=?)) q (8806 . 5)) ((c def c (c (? . 1) q even?)) q (61016 . 3)) ((c def c (c (? . 2) q string->list)) q (52927 . 3)) ((c form c (c (? . 0) q .....)) q (27049 . 2)) ((c def c (c (? . 1) q set-posn-x!)) q (66779 . 4)) ((c form c (c (? . 1) q local)) q (58548 . 2)) ((c def c (c (? . 4) q string-ci<=?)) q (10761 . 5)) ((c def c (c (? . 4) q seventh)) q (8011 . 3)) ((c def c (c (? . 3) q char-downcase)) q (22581 . 3)) ((c def c (c (? . 0) q atan)) q (29495 . 3)) ((c def c (c (? . 1) q hash-remove!)) q (76158 . 4)) ((c def c (c (? . 2) q remainder)) q (47171 . 4)) ((c def c (c (? . 0) q sort)) q (42138 . 4)) ((c def c (c (? . 4) q string)) q (10322 . 3)) ((c def c (c (? . 2) q memv)) q (50033 . 4)) ((c def c (c (? . 3) q angle)) q (15849 . 3)) ((c def c (c (? . 0) q null)) q (34780 . 2)) ((c def c (c (? . 3) q sixth)) q (21645 . 3)) ((c def c (c (? . 4) q char-ci>?)) q (8902 . 5)) ((c def c (c (? . 3) q cadr)) q (19718 . 3)) ((c def c (c (? . 4) q lcm)) q (3534 . 4)) ((c def c (c (? . 3) q fourth)) q (20457 . 3)) ((c def c (c (? . 3) q true)) q (13383 . 2)) ((c form c (c (? . 4) q define)) q (132 . 2)) ((c def c (c (? . 2) q magnitude)) q (46124 . 3)) ((c def c (c (? . 0) q string-lower-case?)) q (38717 . 3)) ((c def c (c (? . 4) q integer->char)) q (3358 . 3)) ((c def c (c (? . 2) q pi)) q (46810 . 2)) ((c def c (c (? . 3) q make-posn)) q (21741 . 4)) ((c form c (c (? . 3) q check-within)) q (14408 . 2)) ((c def c (c (? . 3) q char-ci>=?)) q (22390 . 5)) ((c def c (c (? . 4) q gcd)) q (3116 . 4)) ((c def c (c (? . 1) q for-each)) q (73272 . 4)) ((c def c (c (? . 2) q equal~?)) q (55499 . 5)) ((c form c (c (? . 0) q check-member-of)) q (28375 . 2)) ((c def c (c (? . 1) q >)) q (60179 . 5)) ((c def c (c (? . 0) q <)) q (28813 . 5)) ((c def c (c (? . 1) q abs)) q (60354 . 3)) ((c def c (c (? . 0) q +)) q (40571 . 3)) ((c form c (c (? . 2) q unquote-splicing)) q (43078 . 2)) ((c def c (c (? . 3) q lcm)) q (17118 . 4)) ((c def c (c (? . 1) q cdaar)) q (64533 . 3)) ((c def c (c (? . 3) q symbol->string)) q (19069 . 3)) ((c def c (c (? . 4) q cddar)) q (6370 . 3)) ((c def c (c (? . 4) q posn)) q (8227 . 2)) ((c def c (c (? . 0) q floor)) q (30200 . 3)) ((c def c (c (? . 0) q char-numeric?)) q (36272 . 3)) ((c def c (c (? . 0) q cdaar)) q (33338 . 3)) ((c def c (c (? . 1) q char-ci<=?)) q (67036 . 5)) ((c def c (c (? . 2) q cddar)) q (48814 . 3)) ((c def c (c (? . 1) q first)) q (65139 . 3)) ((c def c (c (? . 4) q eof-object?)) q (12810 . 3)) ((c def c (c (? . 0) q log)) q (30743 . 3)) ((c def c (c (? . 0) q false)) q (26991 . 2)) ((c def c (c (? . 1) q hash-eq?)) q (75497 . 3)) ((c def c (c (? . 1) q denominator)) q (60939 . 3)) ((c def c (c (? . 1) q hash?)) q (76626 . 3)) ((c def c (c (? . 1) q make-posn)) q (66534 . 4)) ((c def c (c (? . 3) q list->string)) q (23686 . 3)) ((c def c (c (? . 1) q pretty-print)) q (73984 . 3)) ((c def c (c (? . 0) q char>?)) q (36874 . 5)) ((c def c (c (? . 4) q atan)) q (2362 . 3)) ((c def c (c (? . 3) q number->string)) q (17706 . 3)) ((c def c (c (? . 1) q hash-update!)) q (76525 . 5)) ((c def c (c (? . 2) q cons)) q (49003 . 4)) ((c def c (c (? . 1) q expt)) q (61229 . 4)) ((c def c (c (? . 4) q rational?)) q (4547 . 3)) ((c form c (c (? . 1) q shared)) q (58053 . 2)) ((c def c (c (? . 0) q range)) q (34851 . 5)) ((c def c (c (? . 1) q char->integer)) q (66918 . 3)) ((c def c (c (? . 0) q char<?)) q (36597 . 5)) ((c def c (c (? . 1) q void)) q (72114 . 2)) ((c def c (c (? . 0) q format)) q (37079 . 4)) ((c def c (c (? . 0) q sixth)) q (35221 . 3)) ((c def c (c (? . 1) q printf)) q (74081 . 4)) ((c def c (c (? . 4) q cadr)) q (6134 . 3)) ((c def c (c (? . 3) q char<?)) q (23021 . 5)) ((c def c (c (? . 0) q complex?)) q (29595 . 3)) ((c def c (c (? . 3) q list)) q (20565 . 3)) ((c def c (c (? . 0) q add1)) q (29349 . 3)) ((c def c (c (? . 1) q e)) q (60999 . 2)) ((c def c (c (? . 0) q make-posn)) q (35317 . 4)) ((c def c (c (? . 1) q /)) q (72293 . 4)) ((c def c (c (? . 1) q rest)) q (66243 . 3)) ((c form c (c (? . 4) q ..)) q (72 . 2)) ((c def c (c (? . 1) q substring)) q (70966 . 5)) ((c def c (c (? . 2) q e)) q (45234 . 2)) ((c def c (c (? . 2) q add1)) q (44682 . 3)) ((c def c (c (? . 0) q imag-part)) q (30325 . 3)) ((c def c (c (? . 1) q cdar)) q (64629 . 3)) ((c def c (c (? . 2) q positive?)) q (46828 . 3)) ((c def c (c (? . 1) q hash-eqv?)) q (75605 . 3)) ((c form c (c (? . 2) q let)) q (42681 . 2)) ((c def c (c (? . 0) q cdadr)) q (33386 . 3)) ((c def c (c (? . 1) q cos)) q (60801 . 3)) ((c def c (c (? . 0) q sub1)) q (32231 . 3)) ((c def c (c (? . 3) q -)) q (15102 . 4)) ((c def c (c (? . 1) q box)) q (75185 . 3)) ((c def c (c (? . 0) q apply)) q (40782 . 5)) ((c def c (c (? . 3) q negative?)) q (17650 . 3)) ((c def c (c (? . 0) q max)) q (30991 . 4)) ((c form c (c (? . 0) q define-struct)) q (27740 . 2)) ((c def c (c (? . 3) q string->list)) q (24018 . 3)) ((c form c (c (? . 0) q let*)) q (27179 . 2)) ((c def c (c (? . 1) q box?)) q (75230 . 3)) ((c def c (c (? . 2) q caadr)) q (48338 . 3)) ((c def c (c (? . 4) q char<?)) q (9437 . 5)) ((c def c (c (? . 1) q vector->list)) q (74841 . 3)) ((c def c (c (? . 0) q eighth)) q (33787 . 3)) ((c def c (c (? . 3) q make-string)) q (23742 . 4)) ((c def c (c (? . 2) q *)) q (55853 . 3)) ((c def c (c (? . 1) q rational?)) q (62778 . 3)) ((c def c (c (? . 4) q eqv?)) q (13109 . 4)) ((c def c (c (? . 1) q string-ci>=?)) q (69587 . 5)) ((c def c (c (? . 0) q cdr)) q (33624 . 3)) ((c form c (c (? . 3) q check-error)) q (14470 . 3)) ((c def c (c (? . 1) q assoc)) q (63973 . 4)) ((c def c (c (? . 2) q sgn)) q (47297 . 3)) ((c def c (c (? . 0) q char-alphabetic?)) q (35619 . 3)) ((c def c (c (? . 3) q expt)) q (16582 . 4)) ((c def c (c (? . 4) q posn?)) q (8351 . 3)) ((c def c (c (? . 4) q char-whitespace?)) q (9283 . 3)) ((c def c (c (? . 1) q char?)) q (68322 . 3)) ((c def c (c (? . 0) q third)) q (35269 . 3)) ((c def c (c (? . 1) q hash-map)) q (75830 . 4)) ((c def c (c (? . 2) q string-whitespace?)) q (54323 . 3)) ((c def c (c (? . 1) q true)) q (57592 . 2)) ((c def c (c (? . 3) q make-rectangular)) q (17365 . 4)) ((c form c (c (? . 1) q lambda)) q (57701 . 2)) ((c def c (c (? . 1) q list->string)) q (68618 . 3)) ((c def c (c (? . 3) q cddar)) q (19954 . 3)) ((c def c (c (? . 4) q imag-part)) q (3192 . 3)) ((c def c (c (? . 1) q apply)) q (72453 . 5)) ((c def c (c (? . 0) q sin)) q (32037 . 3)) ((c def c (c (? . 0) q cons?)) q (33736 . 3)) ((c def c (c (? . 0) q lcm)) q (30667 . 4)) ((c def c (c (? . 2) q complex?)) q (44928 . 3)) ((c def c (c (? . 2) q symbol=?)) q (48010 . 4)) ((c def c (c (? . 1) q format)) q (68435 . 4)) ((c def c (c (? . 3) q posn-y)) q (21889 . 3)) ((c form c (c (? . 0) q ......)) q (27062 . 2)) ((c def c (c (? . 2) q string<?)) q (54489 . 5)) ((c def c (c (? . 4) q abs)) q (2123 . 3)) ((c def c (c (? . 2) q round)) q (47248 . 3)) ((c def c (c (? . 1) q string-ith)) q (69933 . 4)) ((c def c (c (? . 0) q numerator)) q (31367 . 3)) ((c def c (c (? . 3) q char-upcase)) q (22754 . 3)) ((c def c (c (? . 0) q string-ci=?)) q (38128 . 5)) ((c def c (c (? . 4) q complex?)) q (2462 . 3)) ((c def c (c (? . 3) q char>?)) q (23298 . 5)) ((c def c (c (? . 1) q car)) q (64487 . 3)) ((c def c (c (? . 4) q caddr)) q (6086 . 3)) ((c form c (c (? . 4) q ......)) q (118 . 2)) ((c def c (c (? . 4) q string-contains?)) q (11278 . 4)) ((c form c (c (? . 2) q ..)) q (42308 . 2)) ((c form c (c (? . 4) q ...)) q (82 . 2)) ((c def c (c (? . 2) q =)) q (44321 . 5)) ((c form c (c (? . 3) q quasiquote)) q (13594 . 2)) ((c def c (c (? . 2) q floor)) q (45533 . 3)) ((c def c (c (? . 4) q list*)) q (7033 . 4)) ((c def c (c (? . 3) q fifth)) q (20361 . 3)) ((c def c (c (? . 0) q cdddr)) q (33529 . 3)) ((c def c (c (? . 3) q cdadr)) q (19859 . 3)) ((c def c (c (? . 0) q seventh)) q (35171 . 3)) ((c def c (c (? . 0) q char?)) q (36966 . 3)) ((c form c (c (? . 0) q check-expect)) q (28175 . 2)) ((c def c (c (? . 3) q eof-object?)) q (26394 . 3)) ((c def c (c (? . 4) q magnitude)) q (3658 . 3)) ((c def c (c (? . 0) q string-numeric?)) q (38782 . 3)) ((c def c (c (? . 4) q cosh)) q (2618 . 3)) ((c def c (c (? . 4) q memv)) q (7540 . 4)) ((c def c (c (? . 4) q string-ref)) q (11684 . 4)) ((c def c (c (? . 4) q char-ci<?)) q (8616 . 5)) ((c def c (c (? . 3) q <=)) q (15351 . 5)) ((c def c (c (? . 0) q make-rectangular)) q (30914 . 4)) ((c def c (c (? . 1) q cadar)) q (64295 . 3)) ((c def c (c (? . 1) q char-ci=?)) q (67227 . 5)) ((c def c (c (? . 1) q round)) q (63013 . 3)) ((c def c (c (? . 3) q string->number)) q (24083 . 3)) ((c def c (c (? . 3) q log)) q (17194 . 3)) ((c def c (c (? . 2) q identity)) q (55751 . 3)) ((c def c (c (? . 4) q format)) q (9919 . 4)) ((c def c (c (? . 4) q make-posn)) q (8157 . 4)) ((c def c (c (? . 1) q char-downcase)) q (67513 . 3)) ((c form c (c (? . 1) q ......)) q (57687 . 2)) ((c def c (c (? . 1) q log)) q (61841 . 3)) ((c def c (c (? . 2) q atan)) q (44828 . 3)) ((c def c (c (? . 3) q cdaar)) q (19811 . 3)) ((c def c (c (? . 1) q string-ci<?)) q (69381 . 5)) ((c def c (c (? . 4) q identity)) q (13258 . 3)) ((c def c (c (? . 2) q caddr)) q (48530 . 3)) ((c def c (c (? . 0) q fourth)) q (33984 . 3)) ((c form c (c (? . 3) q ...)) q (13442 . 2)) ((c def c (c (? . 4) q replicate)) q (10240 . 4)) ((c def c (c (? . 1) q positive?)) q (62593 . 3)) ((c def c (c (? . 4) q image=?)) q (12560 . 4)) ((c def c (c (? . 4) q caadr)) q (5894 . 3)) ((c form c (c (? . 2) q cond)) q (43174 . 5)) ((c def c (c (? . 4) q rest)) q (7866 . 3)) ((c form c (c (? . 2) q lambda)) q (42368 . 2)) ((c form c (c (? . 1) q ....)) q (57662 . 2)) ((c form c (c (? . 2) q check-expect)) q (43508 . 2)) ((c def c (c (? . 2) q quicksort)) q (57368 . 4)) ((c def c (c (? . 1) q string-numeric?)) q (70138 . 3)) ((c def c (c (? . 2) q for-each)) q (56934 . 4)) ((c def c (c (? . 2) q current-seconds)) q (45133 . 2)) ((c def c (c (? . 1) q string-length)) q (70018 . 3)) ((c form c (c (? . 1) q .....)) q (57674 . 2)) ((c def c (c (? . 0) q quotient)) q (31551 . 4)) ((c def c (c (? . 4) q cddr)) q (6466 . 3)) ((c def c (c (? . 2) q string-copy)) q (53854 . 3)) ((c def c (c (? . 1) q hash-update)) q (76418 . 5)) ((c def c (c (? . 3) q assq)) q (19348 . 4)) ((c form c (c (? . 0) q local)) q (27076 . 2)) ((c def c (c (? . 2) q cadddr)) q (48481 . 3)) ((c form c (c (? . 3) q check-range)) q (14619 . 2)) ((c def c (c (? . 1) q equal~?)) q (71574 . 5)) ((c def c (c (? . 0) q -)) q (28742 . 4)) ((c def c (c (? . 1) q set-box!)) q (75280 . 4)) ((c def c (c (? . 4) q exact->inexact)) q (2838 . 3)) ((c def c (c (? . 4) q /)) q (1589 . 5)) ((c def c (c (? . 0) q tan)) q (32280 . 3)) ((c form c (c (? . 1) q delay)) q (58026 . 2)) ((c def c (c (? . 2) q sub1)) q (47564 . 3)) ((c def c (c (? . 1) q string=?)) q (70612 . 5)) ((c def c (c (? . 3) q /)) q (15173 . 5)) ((c def c (c (? . 2) q false)) q (42283 . 2)) ((c def c (c (? . 4) q fourth)) q (6873 . 3)) ((c def c (c (? . 3) q member?)) q (20913 . 4)) ((c def c (c (? . 0) q positive?)) q (31495 . 3)) ((c def c (c (? . 0) q =~)) q (39844 . 5)) ((c def c (c (? . 0) q member)) q (34418 . 4)) ((c def c (c (? . 1) q char-numeric?)) q (67628 . 3)) ((c def c (c (? . 3) q string->symbol)) q (24158 . 3)) ((c def c (c (? . 1) q symbol=?)) q (63775 . 4)) ((c def c (c (? . 4) q eq?)) q (12867 . 4)) ((c def c (c (? . 0) q cddr)) q (33577 . 3)) ((c form c (c (? . 0) q ..)) q (27016 . 2)) ((c def c (c (? . 2) q quotient)) q (46884 . 4)) ((c form c (c (? . 2) q check-member-of)) q (43708 . 2)) ((c def c (c (? . 2) q build-list)) q (56395 . 4)) ((c form c (c (? . 2) q require)) q (43840 . 2)) ((c def c (c (? . 0) q char-ci<?)) q (35776 . 5)) ((c def c (c (? . 4) q odd?)) q (4292 . 3)) ((c def c (c (? . 1) q sinh)) q (63183 . 3)) ((c def c (c (? . 2) q string?)) q (54890 . 3)) ((c def c (c (? . 2) q numerator)) q (46700 . 3)) ((c def c (c (? . 1) q string->number)) q (69015 . 3)) ((c def c (c (? . 4) q string-copy)) q (11361 . 3)) ((c def c (c (? . 0) q >=)) q (29168 . 5)) ((c def c (c (? . 1) q posn?)) q (66728 . 3)) ((c def c (c (? . 1) q equal?)) q (71503 . 4)) ((c form c (c (? . 2) q λ)) q (42423 . 2)) ((c def c (c (? . 1) q magnitude)) q (61889 . 3)) ((c def c (c (? . 2) q list?)) q (49622 . 3)) ((c def c (c (? . 1) q acos)) q (60398 . 3)) ((c def c (c (? . 1) q string->list)) q (68950 . 3)) ((c def c (c (? . 2) q string->symbol)) q (53067 . 3)) ((c def c (c (? . 2) q char->integer)) q (50895 . 3)) ((c form c (c (? . 1) q check-member-of)) q (59473 . 2)) ((c def c (c (? . 1) q boolean=?)) q (63478 . 4)) ((c def c (c (? . 0) q equal~?)) q (40166 . 5)) ((c def c (c (? . 0) q not)) q (32566 . 3)) ((c def c (c (? . 0) q true)) q (26967 . 2)) ((c def c (c (? . 1) q argmax)) q (72577 . 4)) ((c def c (c (? . 3) q false?)) q (18965 . 3)) ((c def c (c (? . 1) q make-vector)) q (74702 . 4)) ((c def c (c (? . 2) q char-upcase)) q (51663 . 3)) ((c def c (c (? . 1) q sgn)) q (63062 . 3)) ((c def c (c (? . 0) q exact->inexact)) q (29971 . 3)) ((c def c (c (? . 2) q filter)) q (56645 . 4)) ((c def c (c (? . 2) q rest)) q (50359 . 3)) ((c def c (c (? . 4) q inexact?)) q (3303 . 3)) ((c def c (c (? . 1) q not)) q (63664 . 3)) ((c def c (c (? . 1) q floor)) q (61298 . 3)) ((c def c (c (? . 1) q build-vector)) q (74546 . 4)) ((c def c (c (? . 2) q argmax)) q (56239 . 4)) ((c def c (c (? . 4) q denominator)) q (2708 . 3)) ((c def c (c (? . 3) q equal~?)) q (26590 . 5)) ((c form c (c (? . 0) q letrec)) q (27122 . 2)) ((c def c (c (? . 2) q even?)) q (45251 . 3)) ((c def c (c (? . 1) q cadr)) q (64440 . 3)) ((c def c (c (? . 0) q string->int)) q (37537 . 3)) ((c def c (c (? . 2) q /)) q (55955 . 4)) ((c def c (c (? . 1) q list-ref)) q (65433 . 4)) ((c def c (c (? . 3) q length)) q (20506 . 3)) ((c def c (c (? . 0) q memq)) q (34561 . 4)) ((c def c (c (? . 4) q memq?)) q (7470 . 4)) ((c def c (c (? . 4) q asin)) q (2313 . 3)) ((c def c (c (? . 2) q char-whitespace?)) q (51776 . 3)) ((c def c (c (? . 4) q sqrt)) q (5049 . 3)) ((c def c (c (? . 3) q >=)) q (15619 . 5)) ((c def c (c (? . 2) q cadar)) q (48433 . 3)) ((c def c (c (? . 4) q boolean=?)) q (5247 . 4)) ((c def c (c (? . 2) q build-string)) q (56478 . 4)) ((c def c (c (? . 4) q eof)) q (12784 . 2)) ((c def c (c (? . 2) q modulo)) q (46458 . 4)) ((c form c (c (? . 0) q ...)) q (27026 . 2)) ((c def c (c (? . 2) q number?)) q (46647 . 3)) ((c def c (c (? . 1) q print)) q (74036 . 3)) ((c def c (c (? . 1) q make-hasheq)) q (76714 . 2)) ((c def c (c (? . 3) q string)) q (23906 . 3)) ((c def c (c (? . 2) q =~)) q (55177 . 5)) ((c def c (c (? . 0) q sqrt)) q (32182 . 3)) ((c form c (c (? . 1) q and)) q (59166 . 2)) ((c def c (c (? . 0) q char=?)) q (36689 . 5)) ((c def c (c (? . 4) q ceiling)) q (2411 . 3)) ((c def c (c (? . 0) q explode)) q (37017 . 3)) ((c def c (c (? . 2) q map)) q (57031 . 4)) ((c form c (c (? . 4) q ....)) q (93 . 2)) ((c def c (c (? . 1) q identity)) q (71902 . 3)) ((c def c (c (? . 1) q string?)) q (70913 . 3)) ((c def c (c (? . 3) q random)) q (18078 . 3)) ((c def c (c (? . 3) q exact->inexact)) q (16422 . 3)) ((c def c (c (? . 4) q positive?)) q (4362 . 3)) ((c def c (c (? . 0) q char->integer)) q (35562 . 3)) ((c def c (c (? . 2) q acos)) q (44633 . 3)) ((c def c (c (? . 2) q char-ci>?)) q (51395 . 5)) ((c def c (c (? . 4) q list)) q (6981 . 3)) ((c form c (c (? . 4) q check-within)) q (824 . 2)) ((c def c (c (? . 2) q cddr)) q (48910 . 3)) ((c def c (c (? . 2) q substring)) q (54943 . 5)) ((c def c (c (? . 4) q null?)) q (7640 . 3)) ((c form c (c (? . 3) q ......)) q (13478 . 2)) ((c def c (c (? . 3) q empty?)) q (20309 . 3)) ((c def c (c (? . 3) q remove)) q (21382 . 4)) ((c def c (c (? . 1) q string-lower-case?)) q (70073 . 3)) ((c def c (c (? . 4) q caaar)) q (5846 . 3)) ((c def c (c (? . 1) q >=)) q (60266 . 5)) ((c def c (c (? . 2) q list-ref)) q (49549 . 4)) ((c def c (c (? . 4) q string?)) q (12397 . 3)) ((c def c (c (? . 3) q round)) q (18366 . 3)) ((c def c (c (? . 1) q sixth)) q (66438 . 3)) ((c def c (c (? . 4) q empty?)) q (6725 . 3)) ((c def c (c (? . 4) q inexact->exact)) q (3244 . 3)) ((c def c (c (? . 2) q log)) q (46076 . 3)) ((c def c (c (? . 4) q posn-y)) q (8305 . 3)) ((c def c (c (? . 1) q real?)) q (62885 . 3)) ((c def c (c (? . 3) q string-alphabetic?)) q (24217 . 3)) ((c def c (c (? . 1) q sqr)) q (63232 . 3)) ((c def c (c (? . 1) q string-whitespace?)) q (70346 . 3)) ((c def c (c (? . 1) q char-upcase)) q (67686 . 3)) ((c def c (c (? . 0) q rest)) q (35026 . 3)) ((c def c (c (? . 1) q hash-ref!)) q (75990 . 5)) ((c def c (c (? . 0) q replicate)) q (37400 . 4)) ((c def c (c (? . 0) q string<=?)) q (39055 . 5)) ((c def c (c (? . 2) q char-alphabetic?)) q (50952 . 3)) ((c def c (c (? . 1) q hash-set)) q (76234 . 5)) ((c def c (c (? . 4) q floor)) q (3067 . 3)) ((c def c (c (? . 0) q abs)) q (29256 . 3)) ((c def c (c (? . 3) q current-seconds)) q (16251 . 2)) ((c def c (c (? . 2) q procedure?)) q (57314 . 3)) ((c def c (c (? . 4) q char-numeric?)) q (9112 . 3)) ((c def c (c (? . 0) q char-upcase)) q (36330 . 3)) ((c def c (c (? . 3) q char-ci=?)) q (22295 . 5)) ((c def c (c (? . 2) q char<?)) q (51930 . 5)) ((c def c (c (? . 0) q eof-object?)) q (39970 . 3)) ((c def c (c (? . 3) q string-numeric?)) q (25206 . 3)) ((c def c (c (? . 4) q char-lower-case?)) q (9051 . 3)) ((c form c (c (? . 3) q require)) q (14685 . 2)) ((c form c (c (? . 0) q unquote)) q (27487 . 2)) ((c def c (c (? . 2) q string-alphabetic?)) q (53126 . 3)) ((c def c (c (? . 2) q max)) q (46324 . 4)) ((c def c (c (? . 2) q +)) q (55904 . 3)) ((c def c (c (? . 0) q string-alphabetic?)) q (37793 . 3)) ((c def c (c (? . 1) q eqv?)) q (71677 . 4)) ((c def c (c (? . 3) q first)) q (20409 . 3)) ((c def c (c (? . 1) q list*)) q (65347 . 4)) ((c def c (c (? . 1) q replicate)) q (68756 . 4)) ((c def c (c (? . 4) q add1)) q (2216 . 3)) ((c def c (c (? . 1) q promise?)) q (71951 . 3)) ((c def c (c (? . 2) q foldr)) q (56836 . 5)) ((c form c (c (? . 2) q define)) q (42761 . 2)) ((c def c (c (? . 3) q boolean?)) q (18911 . 3)) ((c def c (c (? . 2) q memq)) q (49894 . 4)) ((c form c (c (? . 2) q check-within)) q (43563 . 2)) ((c def c (c (? . 1) q list?)) q (65506 . 3)) ((c def c (c (? . 4) q numerator)) q (4234 . 3)) ((c def c (c (? . 3) q eq?)) q (26451 . 4)) ((c def c (c (? . 4) q real?)) q (4654 . 3)) ((c def c (c (? . 1) q exact->inexact)) q (61069 . 3)) ((c def c (c (? . 3) q integer-sqrt)) q (17006 . 3)) ((c def c (c (? . 3) q char-upper-case?)) q (22806 . 3)) ((c def c (c (? . 2) q fourth)) q (49317 . 3)) ((c def c (c (? . 2) q make-string)) q (52651 . 4)) ((c def c (c (? . 1) q with-output-to-string)) q (74435 . 3)) ((c def c (c (? . 2) q posn-x)) q (50752 . 3)) ((c def c (c (? . 0) q char>=?)) q (36781 . 5)) ((c def c (c (? . 0) q error)) q (40338 . 3)) ((c def c (c (? . 0) q struct?)) q (40467 . 3)) ((c def c (c (? . 3) q inexact?)) q (16887 . 3)) ((c def c (c (? . 3) q sqr)) q (18585 . 3)) ((c def c (c (? . 1) q tan)) q (63378 . 3)) ((c def c (c (? . 4) q string-ith)) q (11417 . 4)) ((c def c (c (? . 4) q list-ref)) q (7105 . 4)) ((c def c (c (? . 3) q null?)) q (21224 . 3)) ((c def c (c (? . 2) q symbol->string)) q (47951 . 3)) ((c def c (c (? . 0) q char-upper-case?)) q (36382 . 3)) ((c def c (c (? . 3) q false)) q (13407 . 2)) ((c form c (c (? . 4) q check-error)) q (886 . 3)) ((c def c (c (? . 1) q memq)) q (65778 . 4)) ((c form c (c (? . 3) q check-member-of)) q (14553 . 2)) ((c def c (c (? . 2) q make-posn)) q (50650 . 4)) ((c def c (c (? . 4) q cons)) q (6559 . 4)) ((c def c (c (? . 2) q char-downcase)) q (51490 . 3)) ((c form c (c (? . 0) q unquote-splicing)) q (27536 . 2)) ((c def c (c (? . 0) q symbol=?)) q (32677 . 4)) ((c def c (c (? . 4) q string<?)) q (11996 . 5)) ((c def c (c (? . 2) q odd?)) q (46758 . 3)) ((c def c (c (? . 3) q cdddr)) q (20002 . 3)) ((c def c (c (? . 1) q char-upper-case?)) q (67738 . 3)) ((c def c (c (? . 1) q argmin)) q (72655 . 4)) ((c def c (c (? . 1) q number->string)) q (62353 . 3)) ((c form c (c (? . 0) q quote)) q (27344 . 2)) ((c form c (c (? . 2) q letrec)) q (42569 . 2)) ((c def c (c (? . 2) q denominator)) q (45174 . 3)) ((c form c (c (? . 0) q define)) q (27574 . 2)) ((c def c (c (? . 2) q equal?)) q (55428 . 4)) ((c def c (c (? . 2) q -)) q (44075 . 4)) ((c def c (c (? . 4) q cadddr)) q (6037 . 3)) ((c def c (c (? . 2) q char-upper-case?)) q (51715 . 3)) ((c def c (c (? . 1) q with-input-from-string)) q (74264 . 4)) ((c def c (c (? . 1) q posn-y)) q (66682 . 3)) ((c def c (c (? . 0) q <=)) q (28900 . 5)) ((c def c (c (? . 3) q exact?)) q (16481 . 3)) ((c form c (c (? . 1) q letrec)) q (58594 . 2)) ((c def c (c (? . 2) q char-ci=?)) q (51204 . 5)) ((c def c (c (? . 3) q cdr)) q (20097 . 3)) ((c def c (c (? . 1) q hash-ref)) q (75921 . 4)) ((c def c (c (? . 1) q eq?)) q (71435 . 4)) ((c def c (c (? . 0) q char-ci=?)) q (35871 . 5)) ((c def c (c (? . 3) q eqv?)) q (26693 . 4)) ((c def c (c (? . 2) q list->string)) q (52595 . 3)) ((c def c (c (? . 2) q exp)) q (45416 . 3)) ((c def c (c (? . 1) q eof)) q (71352 . 2)) ((c def c (c (? . 1) q make-hasheqv)) q (76756 . 2)) ((c def c (c (? . 3) q char->integer)) q (21986 . 3)) ((c form c (c (? . 1) q let*)) q (58651 . 2)) ((c def c (c (? . 0) q string-ci>=?)) q (38231 . 5)) ((c def c (c (? . 3) q string-ith)) q (25001 . 4)) ((c def c (c (? . 0) q foldr)) q (41503 . 5)) ((c def c (c (? . 4) q string-append)) q (10698 . 3)) ((c def c (c (? . 4) q char-alphabetic?)) q (8459 . 3)) ((c def c (c (? . 3) q <)) q (15264 . 5)) ((c def c (c (? . 0) q quicksort)) q (42035 . 4)) ((c def c (c (? . 3) q zero?)) q (18779 . 3)) ((c def c (c (? . 3) q inexact->exact)) q (16828 . 3)) ((c def c (c (? . 4) q make-string)) q (10158 . 4)) ((c def c (c (? . 3) q string=?)) q (25680 . 5)) ((c def c (c (? . 2) q string-ci=?)) q (53461 . 5)) ((c def c (c (? . 3) q eighth)) q (20260 . 3)) ((c def c (c (? . 4) q acos)) q (2167 . 3)) ((c form c (c (? . 3) q .....)) q (13465 . 2)) ((c def c (c (? . 3) q cosh)) q (16202 . 3)) ((c def c (c (? . 3) q char-ci<=?)) q (22104 . 5)) ((c def c (c (? . 4) q member)) q (7258 . 4)) ((c def c (c (? . 1) q make-rectangular)) q (62012 . 4)) ((c def c (c (? . 1) q quotient)) q (62649 . 4)) ((c def c (c (? . 0) q cadr)) q (33245 . 3)) ((c def c (c (? . 3) q acos)) q (15751 . 3)) ((c def c (c (? . 4) q sixth)) q (8061 . 3)) ((c form c (c (? . 4) q and)) q (662 . 2)) ((c def c (c (? . 2) q memf)) q (57123 . 4)) ((c def c (c (? . 3) q equal?)) q (26519 . 4)) ((c def c (c (? . 3) q =~)) q (26268 . 5)) ((c def c (c (? . 3) q null)) q (21204 . 2)) ((c def c (c (? . 4) q =~)) q (12684 . 5)) ((c def c (c (? . 0) q int->string)) q (37205 . 3)) ((c form c (c (? . 0) q check-within)) q (28230 . 2)) ((c def c (c (? . 3) q image?)) q (26216 . 3)) ((c def c (c (? . 0) q fifth)) q (33888 . 3)) ((c def c (c (? . 4) q null)) q (7620 . 2)) ((c def c (c (? . 0) q remainder)) q (31838 . 4)) ((c def c (c (? . 2) q angle)) q (44731 . 3)) ((c def c (c (? . 1) q void?)) q (72142 . 3)) ((c def c (c (? . 0) q magnitude)) q (30791 . 3)) ((c def c (c (? . 3) q int->string)) q (23629 . 3)) ((c def c (c (? . 0) q caaar)) q (32957 . 3)) ((c def c (c (? . 0) q exact?)) q (30030 . 3)) ((c def c (c (? . 4) q char>=?)) q (9621 . 5)) ((c def c (c (? . 0) q list-ref)) q (34216 . 4)) ((c def c (c (? . 3) q posn)) q (21811 . 2)) ((c def c (c (? . 0) q cadddr)) q (33148 . 3)) ((c def c (c (? . 1) q char=?)) q (68045 . 5)) ((c def c (c (? . 3) q cos)) q (16154 . 3)) ((c def c (c (? . 1) q seventh)) q (66388 . 3)) ((c def c (c (? . 4) q string-ci<?)) q (10865 . 5)) ((c def c (c (? . 1) q ceiling)) q (60642 . 3)) ((c def c (c (? . 1) q symbol->string)) q (63716 . 3)) ((c def c (c (? . 4) q negative?)) q (4066 . 3)) ((c def c (c (? . 0) q image?)) q (39792 . 3)) ((c def c (c (? . 1) q hash-copy)) q (75393 . 3)) ((c def c (c (? . 1) q string-ci>?)) q (69691 . 5)) ((c def c (c (? . 3) q max)) q (17442 . 4)) ((c form c (c (? . 1) q unless)) q (58498 . 2)) ((c def c (c (? . 1) q struct?)) q (72061 . 3)) ((c def c (c (? . 1) q eighth)) q (64990 . 3)) ((c form c (c (? . 1) q define-struct)) q (58881 . 2)) ((c def c (c (? . 1) q sqrt)) q (63280 . 3)) ((c def c (c (? . 0) q eq?)) q (40027 . 4)) ((c def c (c (? . 1) q caddr)) q (64392 . 3)) ((c def c (c (? . 3) q caadr)) q (19478 . 3)) ((c def c (c (? . 1) q char-ci>=?)) q (67322 . 5)) ((c def c (c (? . 1) q fifth)) q (65091 . 3)) ((c def c (c (? . 4) q equal~?)) q (13006 . 5)) ((c def c (c (? . 4) q car)) q (6181 . 3)) ((c def c (c (? . 4) q range)) q (7691 . 5)) ((c def c (c (? . 2) q list)) q (49425 . 3)) ((c def c (c (? . 0) q member?)) q (34489 . 4)) ((c def c (c (? . 2) q fifth)) q (49221 . 3)) ((c def c (c (? . 1) q list->vector)) q (74633 . 3)) ((c def c (c (? . 3) q string-upper-case?)) q (25349 . 3)) ((c def c (c (? . 1) q caaar)) q (64152 . 3)) ((c form c (c (? . 1) q λ)) q (57746 . 2)) ((c form c (c (? . 1) q when)) q (58450 . 2)) ((c def c (c (? . 1) q modulo)) q (62223 . 4)) ((c def c (c (? . 4) q sgn)) q (4831 . 3)) ((c form c (c (? . 0) q and)) q (28068 . 2)) ((c def c (c (? . 4) q list->string)) q (10102 . 3)) ((c def c (c (? . 3) q *)) q (14920 . 5)) ((c form c (c (? . 1) q recur)) q (58108 . 2)) ((c def c (c (? . 2) q posn)) q (50720 . 2)) ((c def c (c (? . 3) q ceiling)) q (15995 . 3)) ((c def c (c (? . 1) q remainder)) q (62936 . 4)) ((c def c (c (? . 2) q eqv?)) q (55602 . 4)) ((c def c (c (? . 0) q string->number)) q (37659 . 3)) ((c def c (c (? . 3) q string-copy)) q (24945 . 3)) ((c def c (c (? . 0) q sgn)) q (31964 . 3)) ((c def c (c (? . 1) q pi)) q (62575 . 2)) ((c form c (c (? . 4) q check-member-of)) q (969 . 2)) ((c def c (c (? . 1) q integer-sqrt)) q (61653 . 3)) ((c def c (c (? . 0) q integer?)) q (30613 . 3)) ((c def c (c (? . 4) q quotient)) q (4418 . 4)) ((c def c (c (? . 1) q make-polar)) q (61941 . 4)) ((c def c (c (? . 3) q string-ci<=?)) q (24345 . 5)) ((c def c (c (? . 4) q cons?)) q (6625 . 3)) ((c def c (c (? . 3) q struct?)) q (26891 . 3)) ((c def c (c (? . 3) q empty)) q (13360 . 2)) ((c def c (c (? . 2) q symbol?)) q (48085 . 3)) ((c def c (c (? . 0) q char-lower-case?)) q (36211 . 3)) ((c def c (c (? . 1) q procedure?)) q (73652 . 3)) ((c def c (c (? . 0) q caadr)) q (33005 . 3)) ((c def c (c (? . 3) q asin)) q (15897 . 3)) ((c def c (c (? . 2) q char-ci>=?)) q (51299 . 5)) ((c def c (c (? . 0) q integer-sqrt)) q (30555 . 3)) ((c def c (c (? . 3) q not)) q (19017 . 3)) ((c def c (c (? . 0) q list?)) q (34289 . 3)) ((c def c (c (? . 4) q assq)) q (5764 . 4)) ((c def c (c (? . 1) q atan)) q (60593 . 3)) ((c def c (c (? . 4) q symbol->string)) q (5485 . 3)) ((c def c (c (? . 3) q char-whitespace?)) q (22867 . 3)) ((c def c (c (? . 1) q char<=?)) q (67860 . 5)) ((c def c (c (? . 4) q member?)) q (7329 . 4)) ((c def c (c (? . 0) q denominator)) q (29841 . 3)) ((c form c (c (? . 2) q check-error)) q (43625 . 3)) ((c def c (c (? . 2) q string-lower-case?)) q (54050 . 3)) ((c def c (c (? . 2) q cadr)) q (48578 . 3)) ((c def c (c (? . 3) q string-whitespace?)) q (25414 . 3)) ((c def c (c (? . 4) q log)) q (3610 . 3)) ((c def c (c (? . 1) q empty)) q (57569 . 2)) ((c def c (c (? . 3) q char-lower-case?)) q (22635 . 3)) ((c def c (c (? . 0) q second)) q (35122 . 3)) ((c def c (c (? . 2) q string->number)) q (52992 . 3)) ((c def c (c (? . 2) q sqrt)) q (47515 . 3)) ((c def c (c (? . 1) q build-list)) q (72733 . 4)) ((c form c (c (? . 1) q ...)) q (57651 . 2)) ((c def c (c (? . 1) q +)) q (72242 . 3)) ((c def c (c (? . 4) q min)) q (3925 . 4)) ((c def c (c (? . 3) q denominator)) q (16292 . 3)) ((c def c (c (? . 4) q fifth)) q (6777 . 3)) ((c def c (c (? . 1) q with-output-to-file)) q (74351 . 4)) ((c def c (c (? . 4) q string->symbol)) q (10574 . 3)) ((c def c (c (? . 4) q =)) q (1855 . 5)) ((c def c (c (? . 3) q boolean=?)) q (18831 . 4)) ((c def c (c (? . 3) q seventh)) q (21595 . 3)) ((c def c (c (? . 1) q memv)) q (65917 . 4)) ((c form c (c (? . 0) q if)) q (28005 . 2)) ((c def c (c (? . 2) q char>=?)) q (52114 . 5)) ((c def c (c (? . 2) q argmin)) q (56317 . 4)) ((c def c (c (? . 2) q car)) q (48625 . 3)) ((c form c (c (? . 2) q ...)) q (42318 . 2)) ((c def c (c (? . 4) q not)) q (5433 . 3)) ((c def c (c (? . 1) q vector?)) q (75135 . 3)) ((c def c (c (? . 1) q exp)) q (61181 . 3)) ((c def c (c (? . 3) q add1)) q (15800 . 3)) ((c def c (c (? . 2) q imag-part)) q (45658 . 3)) ((c def c (c (? . 1) q int->string)) q (68561 . 3)) ((c def c (c (? . 1) q filter)) q (72983 . 4)) ((c form c (c (? . 4) q define-struct)) q (334 . 2)) ((c def c (c (? . 4) q length)) q (6922 . 3)) ((c def c (c (? . 2) q inexact?)) q (45769 . 3)) ((c def c (c (? . 4) q pi)) q (4344 . 2)) ((c def c (c (? . 2) q empty?)) q (49169 . 3)) ((c def c (c (? . 3) q odd?)) q (17876 . 3)) ((c def c (c (? . 1) q integer?)) q (61711 . 3)) ((c form c (c (? . 3) q define)) q (13752 . 2)) ((c def c (c (? . 1) q string-contains?)) q (69794 . 4)) ((c def c (c (? . 1) q zero?)) q (63426 . 3)) ((c def c (c (? . 2) q false?)) q (47847 . 3)) ((c def c (c (? . 1) q exit)) q (71799 . 2)) ((c def c (c (? . 4) q first)) q (6825 . 3)) ((c form c (c (? . 1) q time)) q (58760 . 2)) ((c def c (c (? . 0) q string-append)) q (37858 . 3)) ((c def c (c (? . 2) q cdddr)) q (48862 . 3)) ((c form c (c (? . 1) q check-expect)) q (59273 . 2)) ((c def c (c (? . 4) q substring)) q (12450 . 5)) ((c def c (c (? . 4) q string-alphabetic?)) q (10633 . 3)) ((c def c (c (? . 0) q e)) q (29901 . 2)) ((c def c (c (? . 4) q char-downcase)) q (8997 . 3)) ((c form c (c (? . 0) q let)) q (27234 . 2)) ((c form c (c (? . 0) q time)) q (27288 . 2)) ((c form c (c (? . 1) q define-datatype)) q (57824 . 2)) ((c form c (c (? . 2) q quote)) q (42886 . 2)) ((c def c (c (? . 1) q hash-for-each)) q (75658 . 4)) ((c def c (c (? . 3) q char-ci>?)) q (22486 . 5)) ((c form c (c (? . 3) q and)) q (14246 . 2)) ((c def c (c (? . 3) q number?)) q (17765 . 3)) ((c form c (c (? . 0) q ....)) q (27037 . 2)) ((c def c (c (? . 0) q assq)) q (32875 . 4)) ((c def c (c (? . 2) q string>=?)) q (54689 . 5)) ((c def c (c (? . 0) q string>?)) q (39457 . 5)) ((c def c (c (? . 3) q cadddr)) q (19621 . 3)) ((c def c (c (? . 3) q char-ci<?)) q (22200 . 5)) ((c def c (c (? . 2) q rational?)) q (47013 . 3)) ((c def c (c (? . 2) q string-length)) q (53995 . 3)) ((c def c (c (? . 3) q implode)) q (23578 . 3)) ((c def c (c (? . 4) q conjugate)) q (2516 . 3)) ((c def c (c (? . 3) q string<?)) q (25580 . 5)) ((c def c (c (? . 3) q tan)) q (18731 . 3)) ((c def c (c (? . 4) q integer-sqrt)) q (3422 . 3)) ((c def c (c (? . 1) q real-part)) q (62833 . 3)) ((c def c (c (? . 1) q string)) q (68838 . 3)) ((c def c (c (? . 2) q <)) q (44146 . 5)) ((c def c (c (? . 3) q rational?)) q (18131 . 3)) ((c def c (c (? . 2) q gcd)) q (45582 . 4)) ((c def c (c (? . 2) q string->int)) q (52870 . 3)) ((c def c (c (? . 4) q max)) q (3858 . 4)) ((c def c (c (? . 0) q build-string)) q (41145 . 4)) ((c def c (c (? . 1) q caadr)) q (64200 . 3)) ((c def c (c (? . 0) q identity)) q (40418 . 3)) ((c def c (c (? . 0) q argmin)) q (40984 . 4)) ((c def c (c (? . 0) q expt)) q (30131 . 4)) ((c def c (c (? . 4) q string-ci>=?)) q (11071 . 5)) ((c def c (c (? . 1) q build-string)) q (72816 . 4)) ((c def c (c (? . 1) q write)) q (74501 . 3)) ((c def c (c (? . 0) q angle)) q (29398 . 3)) ((c def c (c (? . 1) q cddar)) q (64676 . 3)) ((c def c (c (? . 3) q remainder)) q (18289 . 4)) ((c def c (c (? . 4) q <=)) q (1767 . 5)) ((c def c (c (? . 3) q char=?)) q (23113 . 5)) ((c def c (c (? . 0) q inexact?)) q (30436 . 3)) ((c def c (c (? . 0) q sqr)) q (32134 . 3)) ((c def c (c (? . 4) q exp)) q (2950 . 3)) ((c def c (c (? . 3) q caar)) q (19526 . 3)) ((c def c (c (? . 0) q andmap)) q (40693 . 4)) ((c def c (c (? . 1) q cosh)) q (60849 . 3)) ((c def c (c (? . 3) q eof)) q (26368 . 2)) ((c def c (c (? . 4) q number?)) q (4181 . 3)) ((c def c (c (? . 4) q string<=?)) q (11895 . 5)) ((c def c (c (? . 4) q char-upper-case?)) q (9222 . 3)) ((c def c (c (? . 1) q random)) q (62725 . 3)) ((c def c (c (? . 1) q cddr)) q (64772 . 3)) ((c def c (c (? . 4) q sinh)) q (4952 . 3)) ((c def c (c (? . 3) q sgn)) q (18415 . 3)) ((c def c (c (? . 4) q round)) q (4782 . 3)) ((c def c (c (? . 1) q fourth)) q (65187 . 3)) ((c def c (c (? . 3) q string-ref)) q (25268 . 4)) ((c def c (c (? . 2) q string-ref)) q (54177 . 4)) ((c def c (c (? . 4) q cadar)) q (5989 . 3)) ((c def c (c (? . 3) q sqrt)) q (18633 . 3)) ((c def c (c (? . 2) q boolean=?)) q (47713 . 4)) ((c def c (c (? . 1) q map)) q (73369 . 4)) ((c def c (c (? . 2) q null?)) q (50133 . 3)) ((c def c (c (? . 1) q cadddr)) q (64343 . 3)) ((c def c (c (? . 4) q cdr)) q (6513 . 3)) ((c def c (c (? . 1) q string-upper-case?)) q (70281 . 3)) ((c def c (c (? . 2) q member?)) q (49822 . 4)) ((c def c (c (? . 0) q string=?)) q (39256 . 5)) ((c def c (c (? . 3) q substring)) q (26034 . 5)) ((c def c (c (? . 0) q string>=?)) q (39356 . 5)) ((c def c (c (? . 4) q string>=?)) q (12196 . 5)) ((c def c (c (? . 4) q string-numeric?)) q (11622 . 3)) ((c def c (c (? . 2) q sort)) q (57471 . 4)) ((c def c (c (? . 1) q char>=?)) q (68137 . 5)) ((c def c (c (? . 1) q error)) q (71746 . 3)) ((c def c (c (? . 0) q string-length)) q (38662 . 3)) ((c def c (c (? . 1) q sleep)) q (72003 . 3)) ((c def c (c (? . 1) q with-input-from-file)) q (74179 . 4)) ((c form c (c (? . 4) q cond)) q (435 . 5)) ((c form c (c (? . 2) q and)) q (43401 . 2)) ((c def c (c (? . 1) q image=?)) q (71076 . 4)) ((c def c (c (? . 4) q expt)) q (2998 . 4)) ((c def c (c (? . 2) q negative?)) q (46532 . 3)) ((c def c (c (? . 1) q image?)) q (71148 . 3)) ((c def c (c (? . 2) q string-append)) q (53191 . 3)) ((c def c (c (? . 4) q string>?)) q (12297 . 5)) ((c def c (c (? . 4) q exit)) q (13231 . 2)) ((c def c (c (? . 2) q cdaar)) q (48671 . 3)) ((c def c (c (? . 0) q cdar)) q (33434 . 3)) ((c def c (c (? . 0) q string-contains?)) q (38438 . 4)) ((c def c (c (? . 3) q string-ci>?)) q (24759 . 5)) ((c def c (c (? . 4) q modulo)) q (3992 . 4)) ((c def c (c (? . 4) q boolean?)) q (5327 . 3)) ((c def c (c (? . 4) q posn-x)) q (8259 . 3)) ((c def c (c (? . 3) q exp)) q (16534 . 3)) ((c def c (c (? . 1) q false)) q (57616 . 2)) ((c def c (c (? . 2) q integer-sqrt)) q (45888 . 3)) ((c form c (c (? . 2) q define-struct)) q (43116 . 2)) ((c def c (c (? . 1) q string-copy)) q (69877 . 3)) ((c def c (c (? . 3) q make-polar)) q (17294 . 4)) ((c def c (c (? . 3) q modulo)) q (17576 . 4)) ((c def c (c (? . 3) q caaar)) q (19430 . 3)) ((c def c (c (? . 1) q make-list)) q (65555 . 4)) ((c def c (c (? . 2) q implode)) q (52487 . 3)) ((c def c (c (? . 3) q second)) q (21546 . 3)) ((c def c (c (? . 3) q string<=?)) q (25479 . 5)) ((c def c (c (? . 4) q string-ci=?)) q (10968 . 5)) ((c def c (c (? . 1) q char<?)) q (67953 . 5)) ((c def c (c (? . 3) q quotient)) q (18002 . 4)) ((c def c (c (? . 0) q argmax)) q (40906 . 4)) ((c def c (c (? . 0) q inexact->exact)) q (30377 . 3)) ((c def c (c (? . 2) q error)) q (55671 . 3))))
+58976
+((3) 0 () 5 ((q lib "lang/htdp-beginner.rkt") (q lib "lang/htdp-advanced.rkt") (q lib "lang/htdp-beginner-abbr.rkt") (q lib "lang/htdp-intermediate.rkt") (q lib "lang/htdp-intermediate-lambda.rkt")) () (h ! (equal) ((c def c (c (? . 0) q cddr)) q (6703 . 3)) ((c def c (c (? . 0) q cdaar)) q (6464 . 3)) ((c def c (c (? . 4) q string-ci>=?)) q (54858 . 5)) ((c def c (c (? . 1) q pi)) q (64083 . 2)) ((c def c (c (? . 0) q string=?)) q (12424 . 5)) ((c def c (c (? . 2) q string-ref)) q (25928 . 4)) ((c form c (c (? . 1) q .....)) q (59040 . 2)) ((c form c (c (? . 1) q check-satisfied)) q (60789 . 2)) ((c form c (c (? . 1) q delay)) q (59392 . 2)) ((c def c (c (? . 3) q cdaar)) q (34239 . 3)) ((c form c (c (? . 2) q if)) q (14515 . 4)) ((c def c (c (? . 0) q pi)) q (4478 . 2)) ((c def c (c (? . 3) q null)) q (35682 . 2)) ((c def c (c (? . 2) q string-length)) q (25746 . 3)) ((c def c (c (? . 4) q member)) q (51003 . 4)) ((c def c (c (? . 0) q char=?)) q (9856 . 5)) ((c def c (c (? . 0) q sinh)) q (5090 . 3)) ((c def c (c (? . 4) q memv)) q (51285 . 4)) ((c def c (c (? . 3) q string=?)) q (40199 . 5)) ((c def c (c (? . 1) q symbol->string)) q (65228 . 3)) ((c def c (c (? . 3) q false?)) q (33316 . 3)) ((c form c (c (? . 3) q ....)) q (27701 . 2)) ((c def c (c (? . 0) q true)) q (23 . 2)) ((c def c (c (? . 1) q acos)) q (61907 . 3)) ((c def c (c (? . 3) q equal?)) q (41042 . 4)) ((c def c (c (? . 3) q remove-all)) q (35928 . 4)) ((c def c (c (? . 2) q string-ci=?)) q (25212 . 5)) ((c def c (c (? . 1) q pretty-print)) q (75612 . 3)) ((c def c (c (? . 0) q =)) q (1990 . 5)) ((c form c (c (? . 1) q define)) q (60160 . 2)) ((c def c (c (? . 1) q real-part)) q (64339 . 3)) ((c def c (c (? . 4) q char-ci<=?)) q (52306 . 5)) ((c def c (c (? . 1) q memv)) q (67431 . 4)) ((c def c (c (? . 1) q hash-for-each)) q (77286 . 4)) ((c def c (c (? . 1) q expt)) q (62738 . 4)) ((c def c (c (? . 2) q char=?)) q (23772 . 5)) ((c def c (c (? . 0) q zero?)) q (5333 . 3)) ((c def c (c (? . 1) q vector?)) q (76763 . 3)) ((c def c (c (? . 0) q list-ref)) q (7342 . 4)) ((c def c (c (? . 0) q gcd)) q (3251 . 4)) ((c def c (c (? . 2) q gcd)) q (17167 . 4)) ((c def c (c (? . 3) q max)) q (31791 . 4)) ((c def c (c (? . 4) q image?)) q (56419 . 3)) ((c def c (c (? . 0) q sqr)) q (5139 . 3)) ((c def c (c (? . 2) q integer->char)) q (17409 . 3)) ((c form c (c (? . 4) q ......)) q (43369 . 2)) ((c form c (c (? . 2) q ...)) q (13774 . 2)) ((c def c (c (? . 3) q image?)) q (40735 . 3)) ((c def c (c (? . 0) q string-ci<=?)) q (11089 . 5)) ((c def c (c (? . 1) q char-downcase)) q (69068 . 3)) ((c form c (c (? . 4) q define)) q (43776 . 2)) ((c def c (c (? . 0) q string->list)) q (10761 . 3)) ((c def c (c (? . 4) q char-upper-case?)) q (53008 . 3)) ((c def c (c (? . 4) q equal?)) q (56726 . 4)) ((c def c (c (? . 0) q integer-sqrt)) q (3557 . 3)) ((c def c (c (? . 4) q string-ref)) q (55471 . 4)) ((c def c (c (? . 4) q fourth)) q (50569 . 3)) ((c def c (c (? . 0) q char<?)) q (9764 . 5)) ((c def c (c (? . 2) q caaar)) q (19999 . 3)) ((c form c (c (? . 2) q check-member-of)) q (15020 . 2)) ((c def c (c (? . 1) q null?)) q (67532 . 3)) ((c def c (c (? . 4) q length)) q (50618 . 3)) ((c def c (c (? . 3) q list*)) q (35045 . 4)) ((c def c (c (? . 2) q >)) q (15999 . 5)) ((c def c (c (? . 1) q box?)) q (76858 . 3)) ((c def c (c (? . 0) q number->string)) q (4256 . 3)) ((c def c (c (? . 1) q sgn)) q (64568 . 3)) ((c def c (c (? . 3) q cosh)) q (30550 . 3)) ((c def c (c (? . 2) q round)) q (18830 . 3)) ((c def c (c (? . 1) q newline)) q (75582 . 2)) ((c form c (c (? . 4) q ....)) q (43344 . 2)) ((c def c (c (? . 3) q =~)) q (40787 . 5)) ((c def c (c (? . 1) q string->number)) q (70570 . 3)) ((c def c (c (? . 0) q error)) q (13510 . 3)) ((c def c (c (? . 3) q cddr)) q (34478 . 3)) ((c def c (c (? . 4) q zero?)) q (48814 . 3)) ((c def c (c (? . 1) q string-length)) q (71574 . 3)) ((c def c (c (? . 1) q posn-y)) q (68237 . 3)) ((c def c (c (? . 4) q ormap)) q (58592 . 4)) ((c def c (c (? . 1) q sqrt)) q (64792 . 3)) ((c def c (c (? . 1) q number?)) q (63920 . 3)) ((c def c (c (? . 0) q car)) q (6418 . 3)) ((c def c (c (? . 3) q string->symbol)) q (38677 . 3)) ((c def c (c (? . 3) q map)) q (42712 . 4)) ((c form c (c (? . 0) q check-satisfied)) q (911 . 2)) ((c def c (c (? . 4) q car)) q (49877 . 3)) ((c def c (c (? . 3) q inexact->exact)) q (31176 . 3)) ((c def c (c (? . 0) q sixth)) q (8420 . 3)) ((c def c (c (? . 1) q list->vector)) q (76261 . 3)) ((c def c (c (? . 4) q lcm)) q (47151 . 4)) ((c form c (c (? . 1) q check-random)) q (60734 . 2)) ((c form c (c (? . 1) q lambda)) q (59067 . 2)) ((c def c (c (? . 2) q make-posn)) q (22432 . 4)) ((c def c (c (? . 2) q sin)) q (18958 . 3)) ((c def c (c (? . 4) q foldl)) q (58083 . 5)) ((c def c (c (? . 1) q char>=?)) q (69692 . 5)) ((c def c (c (? . 4) q sqr)) q (48620 . 3)) ((c def c (c (? . 4) q log)) q (47227 . 3)) ((c def c (c (? . 4) q random)) q (48107 . 3)) ((c def c (c (? . 0) q remove-all)) q (8153 . 4)) ((c def c (c (? . 1) q remove)) q (67690 . 4)) ((c form c (c (? . 1) q require)) q (61114 . 2)) ((c def c (c (? . 1) q make-hasheqv)) q (78384 . 2)) ((c def c (c (? . 2) q make-string)) q (24401 . 4)) ((c def c (c (? . 1) q sleep)) q (73563 . 3)) ((c def c (c (? . 1) q display)) q (75535 . 3)) ((c def c (c (? . 2) q char-downcase)) q (23240 . 3)) ((c def c (c (? . 1) q list*)) q (66861 . 4)) ((c def c (c (? . 3) q e)) q (30700 . 2)) ((c def c (c (? . 4) q apply)) q (57460 . 5)) ((c def c (c (? . 1) q list)) q (66809 . 3)) ((c def c (c (? . 1) q andmap)) q (73956 . 4)) ((c def c (c (? . 2) q struct?)) q (27555 . 3)) ((c def c (c (? . 2) q string-ci<=?)) q (25005 . 5)) ((c def c (c (? . 4) q cons)) q (50255 . 4)) ((c def c (c (? . 4) q sqrt)) q (48668 . 3)) ((c def c (c (? . 2) q remove-all)) q (22069 . 4)) ((c def c (c (? . 4) q >=)) q (45651 . 5)) ((c def c (c (? . 2) q char-ci<?)) q (22859 . 5)) ((c form c (c (? . 2) q and)) q (14610 . 2)) ((c def c (c (? . 4) q gcd)) q (46732 . 4)) ((c def c (c (? . 2) q exact?)) q (16948 . 3)) ((c def c (c (? . 3) q integer->char)) q (31290 . 3)) ((c def c (c (? . 3) q cdddr)) q (34430 . 3)) ((c def c (c (? . 1) q string-whitespace?)) q (71902 . 3)) ((c def c (c (? . 4) q boolean=?)) q (48866 . 4)) ((c def c (c (? . 1) q hash-remove!)) q (77786 . 4)) ((c def c (c (? . 3) q reverse)) q (36047 . 3)) ((c form c (c (? . 4) q or)) q (44502 . 2)) ((c form c (c (? . 4) q let*)) q (43641 . 2)) ((c form c (c (? . 2) q ......)) q (13810 . 2)) ((c def c (c (? . 2) q lcm)) q (17586 . 4)) ((c def c (c (? . 2) q add1)) q (16267 . 3)) ((c def c (c (? . 1) q second)) q (67926 . 3)) ((c def c (c (? . 0) q first)) q (7062 . 3)) ((c def c (c (? . 2) q sinh)) q (19006 . 3)) ((c def c (c (? . 3) q posn)) q (41640 . 2)) ((c def c (c (? . 3) q assoc)) q (33677 . 4)) ((c def c (c (? . 2) q integer?)) q (17532 . 3)) ((c def c (c (? . 4) q false?)) q (49000 . 3)) ((c def c (c (? . 4) q range)) q (51437 . 5)) ((c def c (c (? . 4) q remove-all)) q (51612 . 4)) ((c form c (c (? . 0) q check-range)) q (1170 . 2)) ((c def c (c (? . 2) q current-seconds)) q (16718 . 2)) ((c def c (c (? . 1) q false?)) q (65124 . 3)) ((c form c (c (? . 0) q require)) q (1236 . 2)) ((c def c (c (? . 4) q string<=?)) q (55682 . 5)) ((c def c (c (? . 1) q sort)) q (75437 . 4)) ((c def c (c (? . 1) q car)) q (66001 . 3)) ((c def c (c (? . 1) q vector->list)) q (76469 . 3)) ((c def c (c (? . 0) q equal?)) q (13267 . 4)) ((c def c (c (? . 2) q null?)) q (21843 . 3)) ((c def c (c (? . 2) q cons)) q (20712 . 4)) ((c def c (c (? . 1) q integer->char)) q (63098 . 3)) ((c def c (c (? . 4) q string)) q (54108 . 3)) ((c def c (c (? . 2) q make-list)) q (21380 . 4)) ((c def c (c (? . 2) q modulo)) q (18044 . 4)) ((c def c (c (? . 3) q list?)) q (35190 . 3)) ((c def c (c (? . 4) q eof)) q (56575 . 2)) ((c def c (c (? . 1) q not)) q (65176 . 3)) ((c def c (c (? . 1) q hash-count)) q (77071 . 3)) ((c form c (c (? . 3) q .....)) q (27713 . 2)) ((c def c (c (? . 1) q gcd)) q (62856 . 4)) ((c def c (c (? . 2) q <=)) q (15818 . 5)) ((c def c (c (? . 1) q memq)) q (67292 . 4)) ((c def c (c (? . 1) q caadr)) q (65714 . 3)) ((c def c (c (? . 4) q compose)) q (57906 . 4)) ((c def c (c (? . 0) q integer->char)) q (3493 . 3)) ((c def c (c (? . 2) q -)) q (15569 . 4)) ((c def c (c (? . 1) q vector-length)) q (76538 . 3)) ((c def c (c (? . 1) q caar)) q (65762 . 3)) ((c def c (c (? . 3) q replicate)) q (38342 . 4)) ((c def c (c (? . 1) q inexact->exact)) q (62984 . 3)) ((c form c (c (? . 3) q if)) q (28669 . 4)) ((c form c (c (? . 1) q check-error)) q (60899 . 3)) ((c def c (c (? . 3) q format)) q (38021 . 4)) ((c def c (c (? . 3) q struct?)) q (41414 . 3)) ((c def c (c (? . 2) q rest)) q (22141 . 3)) ((c def c (c (? . 3) q caaar)) q (33858 . 3)) ((c def c (c (? . 3) q string-ci>=?)) q (39174 . 5)) ((c def c (c (? . 3) q expt)) q (30930 . 4)) ((c def c (c (? . 0) q complex?)) q (2597 . 3)) ((c def c (c (? . 0) q char<=?)) q (9671 . 5)) ((c def c (c (? . 1) q numerator)) q (63973 . 3)) ((c def c (c (? . 0) q expt)) q (3133 . 4)) ((c form c (c (? . 1) q if)) q (60477 . 4)) ((c def c (c (? . 4) q even?)) q (46401 . 3)) ((c def c (c (? . 1) q string)) q (70393 . 3)) ((c def c (c (? . 4) q char?)) q (53592 . 3)) ((c def c (c (? . 1) q make-immutable-hash)) q (78427 . 2)) ((c def c (c (? . 0) q member?)) q (7615 . 4)) ((c def c (c (? . 0) q string->number)) q (10826 . 3)) ((c def c (c (? . 1) q int->string)) q (70116 . 3)) ((c form c (c (? . 2) q ....)) q (13785 . 2)) ((c def c (c (? . 1) q char-numeric?)) q (69183 . 3)) ((c def c (c (? . 3) q lcm)) q (31467 . 4)) ((c def c (c (? . 1) q posn?)) q (68283 . 3)) ((c def c (c (? . 2) q explode)) q (24100 . 3)) ((c def c (c (? . 3) q add1)) q (30148 . 3)) ((c def c (c (? . 2) q posn-x)) q (22502 . 3)) ((c def c (c (? . 1) q inexact?)) q (63043 . 3)) ((c def c (c (? . 0) q -)) q (1653 . 4)) ((c def c (c (? . 4) q exact->inexact)) q (46454 . 3)) ((c def c (c (? . 4) q posn)) q (57324 . 2)) ((c def c (c (? . 1) q string-contains?)) q (71350 . 4)) ((c def c (c (? . 2) q member)) q (21460 . 4)) ((c def c (c (? . 4) q string>?)) q (56084 . 5)) ((c def c (c (? . 4) q sinh)) q (48571 . 3)) ((c def c (c (? . 4) q sort)) q (58837 . 4)) ((c def c (c (? . 1) q make-posn)) q (68121 . 4)) ((c def c (c (? . 3) q +)) q (41518 . 3)) ((c def c (c (? . 4) q char<=?)) q (53130 . 5)) ((c def c (c (? . 2) q caddr)) q (20239 . 3)) ((c def c (c (? . 1) q sin)) q (64647 . 3)) ((c def c (c (? . 1) q print)) q (75664 . 3)) ((c def c (c (? . 1) q string-ci<=?)) q (70833 . 5)) ((c def c (c (? . 0) q min)) q (4061 . 4)) ((c def c (c (? . 3) q exact->inexact)) q (30770 . 3)) ((c def c (c (? . 4) q error)) q (56969 . 3)) ((c def c (c (? . 2) q empty?)) q (20878 . 3)) ((c def c (c (? . 3) q even?)) q (30717 . 3)) ((c def c (c (? . 0) q sqrt)) q (5187 . 3)) ((c def c (c (? . 0) q atan)) q (2497 . 3)) ((c def c (c (? . 3) q sixth)) q (36195 . 3)) ((c def c (c (? . 2) q caadr)) q (20047 . 3)) ((c def c (c (? . 1) q eof)) q (72912 . 2)) ((c form c (c (? . 4) q ..)) q (43323 . 2)) ((c def c (c (? . 1) q remainder)) q (64442 . 4)) ((c form c (c (? . 3) q quasiquote)) q (28080 . 2)) ((c def c (c (? . 0) q string-append)) q (11026 . 3)) ((c def c (c (? . 3) q char>?)) q (37816 . 5)) ((c form c (c (? . 2) q .....)) q (13797 . 2)) ((c def c (c (? . 0) q string-ci>?)) q (11503 . 5)) ((c def c (c (? . 2) q null)) q (21823 . 2)) ((c def c (c (? . 3) q min)) q (31858 . 4)) ((c def c (c (? . 4) q identity)) q (57049 . 3)) ((c def c (c (? . 1) q complex?)) q (62202 . 3)) ((c def c (c (? . 4) q eq?)) q (56658 . 4)) ((c def c (c (? . 2) q third)) q (22384 . 3)) ((c def c (c (? . 2) q zero?)) q (19249 . 3)) ((c def c (c (? . 4) q string-alphabetic?)) q (54420 . 3)) ((c def c (c (? . 3) q not)) q (33368 . 3)) ((c form c (c (? . 1) q λ)) q (59112 . 2)) ((c def c (c (? . 3) q symbol->string)) q (33420 . 3)) ((c def c (c (? . 3) q string-contains?)) q (39381 . 4)) ((c def c (c (? . 0) q magnitude)) q (3794 . 3)) ((c def c (c (? . 1) q positive?)) q (64101 . 3)) ((c def c (c (? . 2) q int->string)) q (24288 . 3)) ((c def c (c (? . 2) q even?)) q (16836 . 3)) ((c def c (c (? . 4) q string-numeric?)) q (55409 . 3)) ((c def c (c (? . 4) q e)) q (46384 . 2)) ((c def c (c (? . 2) q image=?)) q (26804 . 4)) ((c def c (c (? . 4) q number?)) q (47796 . 3)) ((c def c (c (? . 0) q remainder)) q (4837 . 4)) ((c def c (c (? . 4) q list?)) q (50874 . 3)) ((c def c (c (? . 1) q explode)) q (69928 . 3)) ((c def c (c (? . 1) q exit)) q (73359 . 2)) ((c def c (c (? . 0) q cdadr)) q (6512 . 3)) ((c def c (c (? . 1) q make-string)) q (70229 . 4)) ((c def c (c (? . 1) q cosh)) q (62358 . 3)) ((c def c (c (? . 1) q cdr)) q (66333 . 3)) ((c def c (c (? . 4) q int->string)) q (53831 . 3)) ((c def c (c (? . 0) q symbol?)) q (5757 . 3)) ((c def c (c (? . 3) q posn-y)) q (36407 . 3)) ((c def c (c (? . 4) q assq)) q (49459 . 4)) ((c def c (c (? . 2) q symbol=?)) q (19598 . 4)) ((c def c (c (? . 2) q cddar)) q (20523 . 3)) ((c form c (c (? . 3) q cond)) q (28505 . 5)) ((c def c (c (? . 3) q string<=?)) q (39998 . 5)) ((c form c (c (? . 2) q check-expect)) q (14717 . 2)) ((c def c (c (? . 0) q second)) q (8321 . 3)) ((c def c (c (? . 1) q hash-set!)) q (77957 . 5)) ((c def c (c (? . 1) q equal?)) q (73063 . 4)) ((c def c (c (? . 4) q integer-sqrt)) q (47038 . 3)) ((c def c (c (? . 0) q modulo)) q (4128 . 4)) ((c def c (c (? . 3) q string-alphabetic?)) q (38736 . 3)) ((c def c (c (? . 0) q list?)) q (7415 . 3)) ((c form c (c (? . 1) q time)) q (60134 . 2)) ((c def c (c (? . 1) q set-box!)) q (76908 . 4)) ((c def c (c (? . 1) q unbox)) q (76976 . 3)) ((c def c (c (? . 4) q make-rectangular)) q (47398 . 4)) ((c def c (c (? . 1) q sub1)) q (64841 . 3)) ((c def c (c (? . 4) q make-polar)) q (47327 . 4)) ((c def c (c (? . 1) q sqr)) q (64744 . 3)) ((c def c (c (? . 0) q lcm)) q (3670 . 4)) ((c def c (c (? . 2) q char->integer)) q (22645 . 3)) ((c def c (c (? . 4) q symbol->string)) q (49104 . 3)) ((c def c (c (? . 3) q null?)) q (35702 . 3)) ((c form c (c (? . 4) q time)) q (43750 . 2)) ((c def c (c (? . 4) q cdadr)) q (49971 . 3)) ((c form c (c (? . 4) q unquote)) q (44044 . 2)) ((c def c (c (? . 0) q char>?)) q (10041 . 5)) ((c def c (c (? . 1) q cdar)) q (66143 . 3)) ((c def c (c (? . 3) q cdadr)) q (34287 . 3)) ((c def c (c (? . 1) q string->symbol)) q (70646 . 3)) ((c def c (c (? . 4) q numerator)) q (47849 . 3)) ((c def c (c (? . 2) q conjugate)) q (16567 . 3)) ((c def c (c (? . 3) q explode)) q (37959 . 3)) ((c def c (c (? . 0) q inexact->exact)) q (3379 . 3)) ((c def c (c (? . 4) q caadr)) q (49590 . 3)) ((c def c (c (? . 4) q string>=?)) q (55983 . 5)) ((c def c (c (? . 1) q with-input-from-file)) q (75807 . 4)) ((c def c (c (? . 3) q false)) q (27655 . 2)) ((c def c (c (? . 0) q char-ci=?)) q (9038 . 5)) ((c def c (c (? . 4) q rest)) q (51684 . 3)) ((c def c (c (? . 0) q char-upper-case?)) q (9549 . 3)) ((c def c (c (? . 3) q pi)) q (32275 . 2)) ((c def c (c (? . 4) q quicksort)) q (58734 . 4)) ((c def c (c (? . 0) q third)) q (8468 . 3)) ((c def c (c (? . 0) q add1)) q (2351 . 3)) ((c def c (c (? . 0) q >)) q (2083 . 5)) ((c def c (c (? . 3) q eighth)) q (34688 . 3)) ((c def c (c (? . 4) q integer?)) q (47097 . 3)) ((c def c (c (? . 3) q complex?)) q (30394 . 3)) ((c def c (c (? . 2) q quotient)) q (18466 . 4)) ((c def c (c (? . 4) q cdar)) q (50019 . 3)) ((c def c (c (? . 3) q char<=?)) q (37446 . 5)) ((c form c (c (? . 0) q ....)) q (93 . 2)) ((c def c (c (? . 0) q substring)) q (12778 . 5)) ((c def c (c (? . 2) q cdddr)) q (20571 . 3)) ((c def c (c (? . 4) q remainder)) q (48318 . 4)) ((c def c (c (? . 1) q hash-ref)) q (77549 . 4)) ((c def c (c (? . 1) q cos)) q (62310 . 3)) ((c def c (c (? . 1) q memf)) q (75088 . 4)) ((c form c (c (? . 3) q letrec)) q (27786 . 2)) ((c def c (c (? . 2) q atan)) q (16413 . 3)) ((c def c (c (? . 2) q sub1)) q (19152 . 3)) ((c def c (c (? . 4) q char-alphabetic?)) q (52245 . 3)) ((c form c (c (? . 3) q check-member-of)) q (29174 . 2)) ((c def c (c (? . 4) q replicate)) q (54026 . 4)) ((c def c (c (? . 0) q quotient)) q (4550 . 4)) ((c def c (c (? . 4) q magnitude)) q (47275 . 3)) ((c def c (c (? . 2) q char<?)) q (23680 . 5)) ((c def c (c (? . 3) q quotient)) q (32347 . 4)) ((c def c (c (? . 3) q third)) q (36243 . 3)) ((c def c (c (? . 3) q caadr)) q (33906 . 3)) ((c def c (c (? . 2) q fourth)) q (21026 . 3)) ((c def c (c (? . 1) q read)) q (75780 . 2)) ((c def c (c (? . 4) q real-part)) q (48215 . 3)) ((c def c (c (? . 3) q acos)) q (30099 . 3)) ((c def c (c (? . 3) q negative?)) q (31999 . 3)) ((c def c (c (? . 2) q char-lower-case?)) q (23294 . 3)) ((c form c (c (? . 3) q quote)) q (28008 . 2)) ((c form c (c (? . 0) q .....)) q (105 . 2)) ((c def c (c (? . 1) q promise?)) q (73511 . 3)) ((c def c (c (? . 2) q string>?)) q (26541 . 5)) ((c def c (c (? . 1) q number->string)) q (63861 . 3)) ((c def c (c (? . 2) q asin)) q (16364 . 3)) ((c def c (c (? . 0) q floor)) q (3202 . 3)) ((c form c (c (? . 0) q define-struct)) q (334 . 2)) ((c def c (c (? . 1) q char?)) q (69877 . 3)) ((c def c (c (? . 1) q log)) q (63351 . 3)) ((c def c (c (? . 4) q string-ci=?)) q (54755 . 5)) ((c def c (c (? . 4) q asin)) q (45929 . 3)) ((c def c (c (? . 2) q string-ci<?)) q (25109 . 5)) ((c def c (c (? . 4) q string-copy)) q (55148 . 3)) ((c def c (c (? . 3) q memv)) q (35601 . 4)) ((c def c (c (? . 1) q max)) q (63599 . 4)) ((c def c (c (? . 3) q make-string)) q (38260 . 4)) ((c def c (c (? . 2) q sqrt)) q (19103 . 3)) ((c form c (c (? . 3) q check-range)) q (29240 . 2)) ((c def c (c (? . 3) q positive?)) q (32293 . 3)) ((c def c (c (? . 3) q char-ci>?)) q (37004 . 5)) ((c def c (c (? . 2) q cdar)) q (20476 . 3)) ((c def c (c (? . 0) q char-ci>?)) q (9229 . 5)) ((c def c (c (? . 3) q empty)) q (27608 . 2)) ((c def c (c (? . 0) q cadddr)) q (6274 . 3)) ((c def c (c (? . 0) q cons?)) q (6862 . 3)) ((c def c (c (? . 4) q second)) q (51780 . 3)) ((c def c (c (? . 2) q char>=?)) q (23864 . 5)) ((c def c (c (? . 1) q sixth)) q (68025 . 3)) ((c def c (c (? . 4) q positive?)) q (47977 . 3)) ((c def c (c (? . 2) q char-numeric?)) q (23355 . 3)) ((c def c (c (? . 2) q list*)) q (21186 . 4)) ((c def c (c (? . 0) q exit)) q (13563 . 2)) ((c def c (c (? . 1) q make-immutable-hasheq)) q (78477 . 2)) ((c def c (c (? . 1) q hash-remove)) q (77703 . 4)) ((c def c (c (? . 1) q char<?)) q (69508 . 5)) ((c form c (c (? . 0) q cond)) q (435 . 5)) ((c def c (c (? . 2) q string-append)) q (24942 . 3)) ((c def c (c (? . 3) q remove)) q (35860 . 4)) ((c def c (c (? . 2) q char?)) q (24049 . 3)) ((c def c (c (? . 4) q make-string)) q (53944 . 4)) ((c def c (c (? . 4) q member?)) q (51074 . 4)) ((c def c (c (? . 0) q list->string)) q (10429 . 3)) ((c def c (c (? . 4) q null)) q (51366 . 2)) ((c def c (c (? . 2) q =)) q (15906 . 5)) ((c def c (c (? . 2) q +)) q (15478 . 5)) ((c form c (c (? . 2) q ..)) q (13764 . 2)) ((c def c (c (? . 0) q acos)) q (2302 . 3)) ((c def c (c (? . 1) q =~)) q (72756 . 5)) ((c def c (c (? . 4) q negative?)) q (47683 . 3)) ((c def c (c (? . 4) q char-upcase)) q (52956 . 3)) ((c def c (c (? . 1) q integer?)) q (63221 . 3)) ((c def c (c (? . 3) q <)) q (29612 . 5)) ((c def c (c (? . 2) q angle)) q (16316 . 3)) ((c def c (c (? . 2) q numerator)) q (18284 . 3)) ((c def c (c (? . 4) q char-whitespace?)) q (53069 . 3)) ((c def c (c (? . 2) q sqr)) q (19055 . 3)) ((c def c (c (? . 4) q symbol=?)) q (49163 . 4)) ((c form c (c (? . 0) q if)) q (599 . 4)) ((c def c (c (? . 3) q eof-object?)) q (40917 . 3)) ((c def c (c (? . 1) q argmin)) q (74262 . 4)) ((c def c (c (? . 3) q error)) q (41285 . 3)) ((c form c (c (? . 4) q quasiquote)) q (43973 . 2)) ((c def c (c (? . 2) q string-ci>=?)) q (25315 . 5)) ((c def c (c (? . 3) q make-posn)) q (36291 . 4)) ((c def c (c (? . 3) q string->int)) q (38479 . 3)) ((c def c (c (? . 1) q string-copy)) q (71433 . 3)) ((c def c (c (? . 4) q cdaar)) q (49923 . 3)) ((c def c (c (? . 1) q boolean?)) q (65070 . 3)) ((c def c (c (? . 4) q char=?)) q (53315 . 5)) ((c def c (c (? . 1) q char-ci=?)) q (68782 . 5)) ((c def c (c (? . 3) q list->string)) q (38204 . 3)) ((c def c (c (? . 1) q struct?)) q (73621 . 3)) ((c def c (c (? . 2) q string-whitespace?)) q (26074 . 3)) ((c def c (c (? . 1) q false)) q (58982 . 2)) ((c def c (c (? . 0) q format)) q (10246 . 4)) ((c def c (c (? . 2) q sixth)) q (22336 . 3)) ((c def c (c (? . 4) q list)) q (50677 . 3)) ((c def c (c (? . 1) q denominator)) q (62448 . 3)) ((c def c (c (? . 2) q acos)) q (16218 . 3)) ((c form c (c (? . 3) q unquote)) q (28151 . 2)) ((c def c (c (? . 4) q string->symbol)) q (54361 . 3)) ((c def c (c (? . 4) q sixth)) q (51879 . 3)) ((c def c (c (? . 1) q quotient)) q (64155 . 4)) ((c def c (c (? . 2) q positive?)) q (18412 . 3)) ((c def c (c (? . 0) q rest)) q (8225 . 3)) ((c def c (c (? . 1) q string-ci=?)) q (71040 . 5)) ((c def c (c (? . 0) q length)) q (7159 . 3)) ((c def c (c (? . 1) q gensym)) q (73430 . 2)) ((c def c (c (? . 1) q >=)) q (61775 . 5)) ((c def c (c (? . 1) q string-ci>=?)) q (71143 . 5)) ((c def c (c (? . 0) q string-ref)) q (12012 . 4)) ((c def c (c (? . 4) q format)) q (53705 . 4)) ((c def c (c (? . 4) q max)) q (47475 . 4)) ((c def c (c (? . 0) q caar)) q (6179 . 3)) ((c def c (c (? . 0) q log)) q (3746 . 3)) ((c form c (c (? . 3) q check-within)) q (29029 . 2)) ((c def c (c (? . 3) q >)) q (29880 . 5)) ((c def c (c (? . 4) q eighth)) q (50372 . 3)) ((c def c (c (? . 3) q argmax)) q (41900 . 4)) ((c def c (c (? . 1) q null)) q (67512 . 2)) ((c def c (c (? . 1) q hash-eq?)) q (77125 . 3)) ((c form c (c (? . 1) q ....)) q (59028 . 2)) ((c def c (c (? . 4) q /)) q (57253 . 4)) ((c def c (c (? . 2) q inexact->exact)) q (17295 . 3)) ((c form c (c (? . 4) q and)) q (44448 . 2)) ((c def c (c (? . 1) q void)) q (73674 . 2)) ((c def c (c (? . 3) q cdar)) q (34335 . 3)) ((c def c (c (? . 1) q char-ci<?)) q (68687 . 5)) ((c def c (c (? . 1) q make-rectangular)) q (63522 . 4)) ((c def c (c (? . 2) q eqv?)) q (27357 . 4)) ((c def c (c (? . 2) q /)) q (15640 . 5)) ((c def c (c (? . 4) q char-ci=?)) q (52497 . 5)) ((c def c (c (? . 2) q cosh)) q (16669 . 3)) ((c def c (c (? . 4) q string=?)) q (55883 . 5)) ((c def c (c (? . 0) q member)) q (7544 . 4)) ((c form c (c (? . 0) q check-random)) q (856 . 2)) ((c def c (c (? . 1) q modulo)) q (63733 . 4)) ((c def c (c (? . 1) q eighth)) q (66504 . 3)) ((c def c (c (? . 2) q max)) q (17910 . 4)) ((c def c (c (? . 1) q lcm)) q (63275 . 4)) ((c def c (c (? . 0) q memq?)) q (7756 . 4)) ((c def c (c (? . 0) q empty)) q (0 . 2)) ((c def c (c (? . 3) q list-ref)) q (35117 . 4)) ((c def c (c (? . 0) q string->symbol)) q (10902 . 3)) ((c form c (c (? . 2) q require)) q (15152 . 2)) ((c def c (c (? . 2) q string?)) q (26641 . 3)) ((c def c (c (? . 4) q struct?)) q (57098 . 3)) ((c def c (c (? . 4) q <)) q (45296 . 5)) ((c def c (c (? . 4) q expt)) q (46614 . 4)) ((c def c (c (? . 4) q andmap)) q (57356 . 4)) ((c def c (c (? . 1) q empty?)) q (66553 . 3)) ((c def c (c (? . 0) q conjugate)) q (2651 . 3)) ((c def c (c (? . 2) q symbol->string)) q (19539 . 3)) ((c def c (c (? . 1) q eq?)) q (72995 . 4)) ((c form c (c (? . 4) q if)) q (44353 . 4)) ((c def c (c (? . 4) q floor)) q (46683 . 3)) ((c def c (c (? . 4) q first)) q (50521 . 3)) ((c def c (c (? . 3) q char-ci<?)) q (36718 . 5)) ((c form c (c (? . 3) q check-random)) q (28926 . 2)) ((c def c (c (? . 0) q list)) q (7218 . 3)) ((c def c (c (? . 0) q cddar)) q (6607 . 3)) ((c def c (c (? . 1) q string-append)) q (70770 . 3)) ((c def c (c (? . 2) q string=?)) q (26340 . 5)) ((c def c (c (? . 0) q string-numeric?)) q (11950 . 3)) ((c def c (c (? . 2) q length)) q (21075 . 3)) ((c def c (c (? . 0) q char-whitespace?)) q (9610 . 3)) ((c def c (c (? . 2) q string-lower-case?)) q (25801 . 3)) ((c def c (c (? . 0) q caddr)) q (6323 . 3)) ((c def c (c (? . 3) q boolean?)) q (33262 . 3)) ((c def c (c (? . 3) q append)) q (33607 . 3)) ((c form c (c (? . 0) q check-error)) q (1021 . 3)) ((c def c (c (? . 0) q string-upper-case?)) q (12093 . 3)) ((c def c (c (? . 0) q angle)) q (2400 . 3)) ((c def c (c (? . 4) q build-string)) q (57823 . 4)) ((c def c (c (? . 3) q sub1)) q (33033 . 3)) ((c def c (c (? . 2) q symbol?)) q (19673 . 3)) ((c def c (c (? . 1) q make-vector)) q (76330 . 4)) ((c def c (c (? . 2) q e)) q (16819 . 2)) ((c def c (c (? . 1) q cdddr)) q (66238 . 3)) ((c def c (c (? . 0) q make-posn)) q (8516 . 4)) ((c def c (c (? . 3) q image=?)) q (40663 . 4)) ((c def c (c (? . 2) q list)) q (21134 . 3)) ((c def c (c (? . 1) q list?)) q (67020 . 3)) ((c def c (c (? . 1) q string->list)) q (70505 . 3)) ((c def c (c (? . 4) q round)) q (48395 . 3)) ((c def c (c (? . 3) q zero?)) q (33130 . 3)) ((c def c (c (? . 3) q caar)) q (33954 . 3)) ((c def c (c (? . 2) q fifth)) q (20930 . 3)) ((c def c (c (? . 0) q even?)) q (2920 . 3)) ((c def c (c (? . 3) q cons?)) q (34637 . 3)) ((c def c (c (? . 2) q char-ci<=?)) q (22763 . 5)) ((c def c (c (? . 4) q *)) q (57151 . 3)) ((c def c (c (? . 3) q eof)) q (40891 . 2)) ((c def c (c (? . 4) q cos)) q (46186 . 3)) ((c def c (c (? . 0) q *)) q (1471 . 5)) ((c form c (c (? . 1) q define-datatype)) q (59190 . 2)) ((c def c (c (? . 3) q string)) q (38424 . 3)) ((c def c (c (? . 3) q ceiling)) q (30343 . 3)) ((c def c (c (? . 2) q real?)) q (18702 . 3)) ((c def c (c (? . 3) q string->list)) q (38536 . 3)) ((c def c (c (? . 3) q remainder)) q (32634 . 4)) ((c def c (c (? . 2) q string-numeric?)) q (25866 . 3)) ((c form c (c (? . 4) q cond)) q (44189 . 5)) ((c def c (c (? . 0) q negative?)) q (4202 . 3)) ((c def c (c (? . 2) q memq?)) q (21672 . 4)) ((c def c (c (? . 2) q posn?)) q (22594 . 3)) ((c def c (c (? . 1) q vector-set!)) q (76670 . 5)) ((c def c (c (? . 1) q set-posn-y!)) q (68404 . 4)) ((c def c (c (? . 3) q rational?)) q (32476 . 3)) ((c def c (c (? . 2) q random)) q (18542 . 3)) ((c def c (c (? . 1) q hash-update)) q (78046 . 5)) ((c def c (c (? . 1) q box)) q (76813 . 3)) ((c def c (c (? . 4) q image=?)) q (56347 . 4)) ((c def c (c (? . 3) q memf)) q (42804 . 4)) ((c def c (c (? . 3) q real-part)) q (32531 . 3)) ((c def c (c (? . 3) q cdr)) q (34525 . 3)) ((c def c (c (? . 2) q boolean?)) q (19381 . 3)) ((c def c (c (? . 0) q asin)) q (2448 . 3)) ((c def c (c (? . 1) q =)) q (61595 . 5)) ((c def c (c (? . 1) q hash-map)) q (77458 . 4)) ((c def c (c (? . 1) q cddr)) q (66286 . 3)) ((c def c (c (? . 2) q number?)) q (18231 . 3)) ((c def c (c (? . 2) q real-part)) q (18650 . 3)) ((c def c (c (? . 3) q caddr)) q (34098 . 3)) ((c def c (c (? . 4) q number->string)) q (47737 . 3)) ((c def c (c (? . 1) q append)) q (65415 . 3)) ((c def c (c (? . 0) q abs)) q (2258 . 3)) ((c def c (c (? . 4) q not)) q (49052 . 3)) ((c def c (c (? . 1) q hash-has-key?)) q (77378 . 4)) ((c form c (c (? . 1) q check-member-of)) q (60982 . 2)) ((c def c (c (? . 1) q cdaar)) q (66047 . 3)) ((c def c (c (? . 0) q cosh)) q (2753 . 3)) ((c def c (c (? . 3) q string>=?)) q (40299 . 5)) ((c def c (c (? . 3) q posn-x)) q (36361 . 3)) ((c def c (c (? . 2) q string-ci>?)) q (25419 . 5)) ((c form c (c (? . 4) q unquote-splicing)) q (44093 . 2)) ((c def c (c (? . 1) q char-ci>?)) q (68973 . 5)) ((c def c (c (? . 4) q string-ith)) q (55204 . 4)) ((c def c (c (? . 3) q fourth)) q (34885 . 3)) ((c def c (c (? . 0) q string-whitespace?)) q (12158 . 3)) ((c def c (c (? . 1) q random)) q (64231 . 3)) ((c def c (c (? . 3) q cddar)) q (34382 . 3)) ((c def c (c (? . 1) q cons)) q (66379 . 4)) ((c def c (c (? . 4) q argmin)) q (57662 . 4)) ((c def c (c (? . 3) q implode)) q (38096 . 3)) ((c def c (c (? . 0) q image?)) q (12960 . 3)) ((c form c (c (? . 1) q check-within)) q (60837 . 2)) ((c def c (c (? . 3) q floor)) q (30999 . 3)) ((c def c (c (? . 0) q string-alphabetic?)) q (10961 . 3)) ((c form c (c (? . 4) q check-error)) q (44775 . 3)) ((c def c (c (? . 0) q string>?)) q (12625 . 5)) ((c def c (c (? . 1) q fifth)) q (66605 . 3)) ((c def c (c (? . 0) q string-length)) q (11830 . 3)) ((c def c (c (? . 2) q char>?)) q (23957 . 5)) ((c form c (c (? . 3) q let)) q (27898 . 2)) ((c def c (c (? . 1) q make-hasheq)) q (78342 . 2)) ((c def c (c (? . 3) q round)) q (32711 . 3)) ((c def c (c (? . 2) q exp)) q (17001 . 3)) ((c def c (c (? . 0) q boolean=?)) q (5385 . 4)) ((c def c (c (? . 2) q string-contains?)) q (25522 . 4)) ((c def c (c (? . 1) q string<?)) q (72068 . 5)) ((c def c (c (? . 0) q eqv?)) q (13441 . 4)) ((c def c (c (? . 0) q string-ci>=?)) q (11399 . 5)) ((c def c (c (? . 4) q string-whitespace?)) q (55617 . 3)) ((c def c (c (? . 1) q char-upper-case?)) q (69293 . 3)) ((c def c (c (? . 1) q remove-all)) q (67758 . 4)) ((c def c (c (? . 4) q -)) q (45225 . 4)) ((c def c (c (? . 1) q e)) q (62508 . 2)) ((c def c (c (? . 1) q image=?)) q (72632 . 4)) ((c def c (c (? . 4) q cosh)) q (46234 . 3)) ((c def c (c (? . 1) q hash-eqv?)) q (77233 . 3)) ((c def c (c (? . 3) q string?)) q (40500 . 3)) ((c def c (c (? . 1) q quicksort)) q (75334 . 4)) ((c def c (c (? . 3) q char-downcase)) q (37099 . 3)) ((c def c (c (? . 1) q posn)) q (73924 . 2)) ((c def c (c (? . 2) q cons?)) q (20778 . 3)) ((c def c (c (? . 4) q string-append)) q (54485 . 3)) ((c def c (c (? . 3) q char=?)) q (37631 . 5)) ((c def c (c (? . 1) q string-upper-case?)) q (71837 . 3)) ((c def c (c (? . 2) q char-whitespace?)) q (23526 . 3)) ((c def c (c (? . 4) q append)) q (49291 . 3)) ((c def c (c (? . 2) q remove)) q (22001 . 4)) ((c def c (c (? . 0) q reverse)) q (8272 . 3)) ((c form c (c (? . 1) q match)) q (59761 . 2)) ((c def c (c (? . 3) q make-rectangular)) q (31714 . 4)) ((c def c (c (? . 2) q string-upper-case?)) q (26009 . 3)) ((c form c (c (? . 3) q time)) q (27952 . 2)) ((c def c (c (? . 3) q char->integer)) q (36504 . 3)) ((c def c (c (? . 3) q cadar)) q (34001 . 3)) ((c def c (c (? . 0) q remove)) q (8085 . 4)) ((c def c (c (? . 0) q char-downcase)) q (9324 . 3)) ((c def c (c (? . 1) q build-vector)) q (76174 . 4)) ((c def c (c (? . 4) q list*)) q (50729 . 4)) ((c def c (c (? . 2) q exit)) q (27479 . 2)) ((c def c (c (? . 1) q make-list)) q (67069 . 4)) ((c def c (c (? . 3) q sqr)) q (32936 . 3)) ((c def c (c (? . 1) q string-lower-case?)) q (71629 . 3)) ((c def c (c (? . 1) q with-output-to-string)) q (76063 . 3)) ((c def c (c (? . 0) q fourth)) q (7110 . 3)) ((c def c (c (? . 3) q rest)) q (36000 . 3)) ((c def c (c (? . 0) q round)) q (4914 . 3)) ((c form c (c (? . 4) q check-member-of)) q (44858 . 2)) ((c def c (c (? . 4) q posn?)) q (52137 . 3)) ((c form c (c (? . 0) q quote)) q (313 . 2)) ((c def c (c (? . 2) q =~)) q (26928 . 5)) ((c form c (c (? . 3) q check-satisfied)) q (28981 . 2)) ((c def c (c (? . 4) q cons?)) q (50321 . 3)) ((c def c (c (? . 4) q string->number)) q (54285 . 3)) ((c def c (c (? . 1) q assq)) q (65583 . 4)) ((c def c (c (? . 1) q string=?)) q (72168 . 5)) ((c def c (c (? . 1) q hash-ref!)) q (77618 . 5)) ((c def c (c (? . 3) q sort)) q (43153 . 4)) ((c def c (c (? . 2) q list->string)) q (24345 . 3)) ((c def c (c (? . 1) q make-hash)) q (78302 . 2)) ((c def c (c (? . 1) q string<=?)) q (71967 . 5)) ((c def c (c (? . 0) q real-part)) q (4734 . 3)) ((c def c (c (? . 2) q eighth)) q (20829 . 3)) ((c def c (c (? . 3) q char-lower-case?)) q (37153 . 3)) ((c def c (c (? . 0) q eof-object?)) q (13142 . 3)) ((c def c (c (? . 4) q char<?)) q (53223 . 5)) ((c form c (c (? . 1) q define-struct)) q (60255 . 2)) ((c def c (c (? . 0) q rational?)) q (4679 . 3)) ((c def c (c (? . 2) q char-ci=?)) q (22954 . 5)) ((c def c (c (? . 4) q string-upper-case?)) q (55552 . 3)) ((c form c (c (? . 0) q ..)) q (72 . 2)) ((c def c (c (? . 1) q rest)) q (67830 . 3)) ((c def c (c (? . 4) q build-list)) q (57740 . 4)) ((c def c (c (? . 2) q ceiling)) q (16462 . 3)) ((c def c (c (? . 3) q cadr)) q (34146 . 3)) ((c def c (c (? . 3) q char-upcase)) q (37272 . 3)) ((c form c (c (? . 0) q ......)) q (118 . 2)) ((c def c (c (? . 1) q identity)) q (73462 . 3)) ((c def c (c (? . 4) q char-ci>?)) q (52688 . 5)) ((c def c (c (? . 3) q cadddr)) q (34049 . 3)) ((c def c (c (? . 4) q sin)) q (48523 . 3)) ((c def c (c (? . 1) q error)) q (73306 . 3)) ((c def c (c (? . 1) q string?)) q (72469 . 3)) ((c def c (c (? . 1) q with-input-from-string)) q (75892 . 4)) ((c def c (c (? . 3) q string-ci>?)) q (39278 . 5)) ((c def c (c (? . 4) q false)) q (43298 . 2)) ((c def c (c (? . 0) q positive?)) q (4496 . 3)) ((c def c (c (? . 4) q string<?)) q (55783 . 5)) ((c form c (c (? . 4) q ...)) q (43333 . 2)) ((c def c (c (? . 3) q string-whitespace?)) q (39933 . 3)) ((c def c (c (? . 2) q range)) q (21894 . 5)) ((c def c (c (? . 3) q exact?)) q (30829 . 3)) ((c form c (c (? . 1) q check-range)) q (61048 . 2)) ((c def c (c (? . 2) q cdaar)) q (20380 . 3)) ((c def c (c (? . 0) q random)) q (4626 . 3)) ((c def c (c (? . 3) q string->number)) q (38601 . 3)) ((c def c (c (? . 4) q eqv?)) q (56900 . 4)) ((c def c (c (? . 1) q member?)) q (67220 . 4)) ((c def c (c (? . 3) q <=)) q (29699 . 5)) ((c def c (c (? . 3) q seventh)) q (36145 . 3)) ((c def c (c (? . 1) q +)) q (73802 . 3)) ((c def c (c (? . 0) q exp)) q (3085 . 3)) ((c def c (c (? . 2) q char<=?)) q (23587 . 5)) ((c def c (c (? . 2) q list-ref)) q (21258 . 4)) ((c def c (c (? . 0) q range)) q (7978 . 5)) ((c def c (c (? . 2) q denominator)) q (16759 . 3)) ((c def c (c (? . 4) q list-ref)) q (50801 . 4)) ((c def c (c (? . 4) q sgn)) q (48444 . 3)) ((c def c (c (? . 2) q append)) q (19726 . 5)) ((c def c (c (? . 3) q string>?)) q (40400 . 5)) ((c form c (c (? . 1) q ...)) q (59017 . 2)) ((c def c (c (? . 3) q imag-part)) q (31124 . 3)) ((c def c (c (? . 1) q force)) q (73386 . 3)) ((c def c (c (? . 2) q >=)) q (16086 . 5)) ((c def c (c (? . 4) q char-ci>=?)) q (52592 . 5)) ((c def c (c (? . 0) q identity)) q (13590 . 3)) ((c def c (c (? . 1) q boolean=?)) q (64990 . 4)) ((c def c (c (? . 1) q exact?)) q (62637 . 3)) ((c def c (c (? . 1) q odd?)) q (64031 . 3)) ((c def c (c (? . 1) q char-ci<=?)) q (68591 . 5)) ((c def c (c (? . 4) q char>=?)) q (53407 . 5)) ((c def c (c (? . 1) q equal~?)) q (73134 . 5)) ((c def c (c (? . 0) q image=?)) q (12888 . 4)) ((c form c (c (? . 1) q when)) q (59816 . 2)) ((c def c (c (? . 1) q string>=?)) q (72268 . 5)) ((c def c (c (? . 0) q cons)) q (6796 . 4)) ((c def c (c (? . 1) q *)) q (73751 . 3)) ((c def c (c (? . 0) q char>=?)) q (9948 . 5)) ((c def c (c (? . 3) q numerator)) q (32165 . 3)) ((c def c (c (? . 2) q number->string)) q (18172 . 3)) ((c def c (c (? . 1) q caaar)) q (65666 . 3)) ((c def c (c (? . 4) q symbol?)) q (49238 . 3)) ((c def c (c (? . 4) q string?)) q (56184 . 3)) ((c def c (c (? . 4) q empty?)) q (50421 . 3)) ((c def c (c (? . 4) q ceiling)) q (46027 . 3)) ((c def c (c (? . 1) q current-milliseconds)) q (72860 . 2)) ((c def c (c (? . 1) q vector-ref)) q (76598 . 4)) ((c def c (c (? . 3) q sqrt)) q (32984 . 3)) ((c def c (c (? . 3) q andmap)) q (41672 . 4)) ((c def c (c (? . 1) q make-immutable-hasheqv)) q (78529 . 2)) ((c def c (c (? . 1) q cadar)) q (65809 . 3)) ((c def c (c (? . 2) q string)) q (24565 . 3)) ((c def c (c (? . 0) q equal~?)) q (13338 . 5)) ((c def c (c (? . 4) q cadar)) q (49685 . 3)) ((c def c (c (? . 4) q memq?)) q (51215 . 4)) ((c def c (c (? . 2) q eq?)) q (27115 . 4)) ((c def c (c (? . 3) q real?)) q (32583 . 3)) ((c def c (c (? . 1) q hash-equal?)) q (77177 . 3)) ((c form c (c (? . 3) q check-expect)) q (28871 . 2)) ((c def c (c (? . 3) q char>=?)) q (37723 . 5)) ((c form c (c (? . 1) q shared)) q (59419 . 2)) ((c def c (c (? . 3) q random)) q (32423 . 3)) ((c def c (c (? . 0) q not)) q (5571 . 3)) ((c def c (c (? . 4) q memq)) q (51146 . 4)) ((c def c (c (? . 0) q null?)) q (7927 . 3)) ((c def c (c (? . 2) q exact->inexact)) q (16889 . 3)) ((c def c (c (? . 0) q posn?)) q (8678 . 3)) ((c form c (c (? . 1) q and)) q (60572 . 2)) ((c def c (c (? . 2) q list?)) q (21331 . 3)) ((c def c (c (? . 0) q posn-x)) q (8586 . 3)) ((c def c (c (? . 0) q explode)) q (10184 . 3)) ((c def c (c (? . 0) q boolean?)) q (5465 . 3)) ((c def c (c (? . 0) q memq)) q (7687 . 4)) ((c def c (c (? . 2) q string>=?)) q (26440 . 5)) ((c def c (c (? . 0) q >=)) q (2170 . 5)) ((c def c (c (? . 2) q make-rectangular)) q (17833 . 4)) ((c def c (c (? . 3) q list)) q (34993 . 3)) ((c def c (c (? . 4) q cddr)) q (50162 . 3)) ((c def c (c (? . 0) q string-lower-case?)) q (11885 . 3)) ((c form c (c (? . 4) q require)) q (44990 . 2)) ((c def c (c (? . 2) q not)) q (19487 . 3)) ((c def c (c (? . 1) q argmax)) q (74184 . 4)) ((c def c (c (? . 2) q implode)) q (24237 . 3)) ((c form c (c (? . 1) q case)) q (59592 . 2)) ((c form c (c (? . 3) q ......)) q (27726 . 2)) ((c def c (c (? . 4) q current-seconds)) q (46283 . 2)) ((c def c (c (? . 1) q char-alphabetic?)) q (68530 . 3)) ((c def c (c (? . 1) q apply)) q (74060 . 5)) ((c def c (c (? . 3) q char<?)) q (37539 . 5)) ((c def c (c (? . 1) q ceiling)) q (62151 . 3)) ((c def c (c (? . 0) q sgn)) q (4963 . 3)) ((c def c (c (? . 2) q empty)) q (13692 . 2)) ((c def c (c (? . 3) q foldl)) q (42399 . 5)) ((c def c (c (? . 2) q cddr)) q (20619 . 3)) ((c def c (c (? . 2) q inexact?)) q (17354 . 3)) ((c def c (c (? . 1) q true)) q (58958 . 2)) ((c def c (c (? . 2) q string->number)) q (24742 . 3)) ((c def c (c (? . 3) q fifth)) q (34789 . 3)) ((c def c (c (? . 3) q denominator)) q (30640 . 3)) ((c form c (c (? . 3) q define-struct)) q (28404 . 2)) ((c def c (c (? . 1) q string->int)) q (70448 . 3)) ((c def c (c (? . 0) q make-list)) q (7464 . 4)) ((c form c (c (? . 1) q let*)) q (60025 . 2)) ((c def c (c (? . 3) q apply)) q (41776 . 5)) ((c def c (c (? . 2) q car)) q (20334 . 3)) ((c def c (c (? . 0) q eq?)) q (13199 . 4)) ((c def c (c (? . 3) q string-upper-case?)) q (39868 . 3)) ((c form c (c (? . 3) q ...)) q (27690 . 2)) ((c def c (c (? . 1) q hash-set)) q (77862 . 5)) ((c def c (c (? . 0) q char-alphabetic?)) q (8786 . 3)) ((c def c (c (? . 4) q sub1)) q (48717 . 3)) ((c def c (c (? . 3) q char-upper-case?)) q (37324 . 3)) ((c def c (c (? . 4) q modulo)) q (47609 . 4)) ((c def c (c (? . 2) q caar)) q (20095 . 3)) ((c def c (c (? . 2) q expt)) q (17049 . 4)) ((c form c (c (? . 3) q let*)) q (27843 . 2)) ((c def c (c (? . 1) q char<=?)) q (69415 . 5)) ((c form c (c (? . 1) q unless)) q (59868 . 2)) ((c form c (c (? . 1) q begin0)) q (59311 . 2)) ((c def c (c (? . 4) q posn-x)) q (52045 . 3)) ((c def c (c (? . 3) q empty?)) q (34737 . 3)) ((c form c (c (? . 2) q or)) q (14664 . 2)) ((c def c (c (? . 0) q char-ci<=?)) q (8847 . 5)) ((c def c (c (? . 3) q first)) q (34837 . 3)) ((c form c (c (? . 2) q check-error)) q (14937 . 3)) ((c def c (c (? . 3) q >=)) q (29967 . 5)) ((c def c (c (? . 4) q string-ci<=?)) q (54548 . 5)) ((c def c (c (? . 0) q caadr)) q (6131 . 3)) ((c form c (c (? . 0) q and)) q (694 . 2)) ((c form c (c (? . 3) q and)) q (28764 . 2)) ((c def c (c (? . 1) q eof-object?)) q (72938 . 3)) ((c def c (c (? . 1) q compose)) q (74506 . 4)) ((c def c (c (? . 1) q eqv?)) q (73237 . 4)) ((c def c (c (? . 4) q cadddr)) q (49733 . 3)) ((c def c (c (? . 2) q make-polar)) q (17762 . 4)) ((c def c (c (? . 1) q symbol=?)) q (65287 . 4)) ((c def c (c (? . 0) q =~)) q (13012 . 5)) ((c def c (c (? . 1) q image?)) q (72704 . 3)) ((c def c (c (? . 0) q string-ith)) q (11745 . 4)) ((c def c (c (? . 1) q char-upcase)) q (69241 . 3)) ((c def c (c (? . 2) q format)) q (24162 . 4)) ((c def c (c (? . 1) q string-alphabetic?)) q (70705 . 3)) ((c def c (c (? . 3) q memq?)) q (35531 . 4)) ((c def c (c (? . 1) q member)) q (67149 . 4)) ((c def c (c (? . 1) q format)) q (69990 . 4)) ((c def c (c (? . 1) q seventh)) q (67975 . 3)) ((c def c (c (? . 4) q exp)) q (46566 . 3)) ((c def c (c (? . 4) q real?)) q (48267 . 3)) ((c form c (c (? . 4) q λ)) q (43438 . 2)) ((c def c (c (? . 2) q floor)) q (17118 . 3)) ((c def c (c (? . 0) q cdar)) q (6560 . 3)) ((c def c (c (? . 0) q string-ci=?)) q (11296 . 5)) ((c def c (c (? . 1) q hash-copy)) q (77021 . 3)) ((c form c (c (? . 1) q recur)) q (59474 . 2)) ((c def c (c (? . 1) q integer-sqrt)) q (63162 . 3)) ((c def c (c (? . 2) q cadr)) q (20287 . 3)) ((c def c (c (? . 0) q fifth)) q (7014 . 3)) ((c def c (c (? . 4) q char->integer)) q (52188 . 3)) ((c def c (c (? . 1) q replicate)) q (70311 . 4)) ((c def c (c (? . 2) q assoc)) q (19818 . 4)) ((c form c (c (? . 4) q .....)) q (43356 . 2)) ((c def c (c (? . 3) q assq)) q (33775 . 4)) ((c form c (c (? . 2) q check-satisfied)) q (14827 . 2)) ((c def c (c (? . 3) q symbol?)) q (33554 . 3)) ((c def c (c (? . 3) q build-string)) q (42139 . 4)) ((c def c (c (? . 3) q range)) q (35753 . 5)) ((c def c (c (? . 3) q posn?)) q (36453 . 3)) ((c def c (c (? . 4) q string-ci<?)) q (54652 . 5)) ((c def c (c (? . 3) q exp)) q (30882 . 3)) ((c def c (c (? . 1) q cadr)) q (65954 . 3)) ((c def c (c (? . 4) q memf)) q (58488 . 4)) ((c def c (c (? . 4) q complex?)) q (46078 . 3)) ((c def c (c (? . 2) q seventh)) q (22286 . 3)) ((c def c (c (? . 3) q integer-sqrt)) q (31354 . 3)) ((c def c (c (? . 1) q char>?)) q (69785 . 5)) ((c def c (c (? . 0) q char-ci>=?)) q (9133 . 5)) ((c def c (c (? . 4) q string-ci>?)) q (54962 . 5)) ((c def c (c (? . 4) q assoc)) q (49361 . 4)) ((c def c (c (? . 3) q char-ci<=?)) q (36622 . 5)) ((c def c (c (? . 4) q seventh)) q (51829 . 3)) ((c def c (c (? . 4) q posn-y)) q (52091 . 3)) ((c def c (c (? . 1) q char=?)) q (69600 . 5)) ((c def c (c (? . 2) q char-upcase)) q (23413 . 3)) ((c def c (c (? . 4) q filter)) q (57990 . 4)) ((c def c (c (? . 4) q +)) q (57202 . 3)) ((c def c (c (? . 4) q reverse)) q (51731 . 3)) ((c def c (c (? . 4) q fifth)) q (50473 . 3)) ((c form c (c (? . 2) q define-struct)) q (14250 . 2)) ((c def c (c (? . 2) q cadar)) q (20142 . 3)) ((c def c (c (? . 3) q char-alphabetic?)) q (36561 . 3)) ((c def c (c (? . 0) q cdddr)) q (6655 . 3)) ((c def c (c (? . 1) q tan)) q (64890 . 3)) ((c def c (c (? . 4) q foldr)) q (58191 . 5)) ((c def c (c (? . 2) q true)) q (13715 . 2)) ((c def c (c (? . 3) q angle)) q (30197 . 3)) ((c def c (c (? . 2) q *)) q (15387 . 5)) ((c def c (c (? . 1) q for-each)) q (74899 . 4)) ((c def c (c (? . 3) q sinh)) q (32887 . 3)) ((c def c (c (? . 1) q foldr)) q (74791 . 5)) ((c form c (c (? . 1) q letrec)) q (59968 . 2)) ((c def c (c (? . 1) q zero?)) q (64938 . 3)) ((c def c (c (? . 4) q map)) q (58396 . 4)) ((c def c (c (? . 4) q empty)) q (43251 . 2)) ((c def c (c (? . 0) q /)) q (1724 . 5)) ((c def c (c (? . 2) q char-alphabetic?)) q (22702 . 3)) ((c def c (c (? . 1) q cons?)) q (66453 . 3)) ((c def c (c (? . 3) q exit)) q (41338 . 2)) ((c def c (c (? . 0) q number?)) q (4315 . 3)) ((c def c (c (? . 2) q tan)) q (19201 . 3)) ((c def c (c (? . 1) q conjugate)) q (62256 . 3)) ((c def c (c (? . 3) q string-ith)) q (39520 . 4)) ((c def c (c (? . 1) q cdadr)) q (66095 . 3)) ((c def c (c (? . 4) q argmax)) q (57584 . 4)) ((c def c (c (? . 2) q member?)) q (21531 . 4)) ((c def c (c (? . 1) q imag-part)) q (62932 . 3)) ((c def c (c (? . 4) q integer->char)) q (46974 . 3)) ((c form c (c (? . 0) q check-expect)) q (801 . 2)) ((c def c (c (? . 4) q atan)) q (45978 . 3)) ((c def c (c (? . 1) q map)) q (74996 . 4)) ((c def c (c (? . 2) q sgn)) q (18879 . 3)) ((c form c (c (? . 4) q local)) q (43538 . 2)) ((c def c (c (? . 2) q char-upper-case?)) q (23465 . 3)) ((c def c (c (? . 1) q posn-x)) q (68191 . 3)) ((c def c (c (? . 4) q eof-object?)) q (56601 . 3)) ((c def c (c (? . 2) q eof-object?)) q (27058 . 3)) ((c def c (c (? . 0) q imag-part)) q (3327 . 3)) ((c def c (c (? . 0) q string->int)) q (10704 . 3)) ((c form c (c (? . 2) q cond)) q (14351 . 5)) ((c form c (c (? . 3) q require)) q (29306 . 2)) ((c def c (c (? . 4) q char-lower-case?)) q (52837 . 3)) ((c def c (c (? . 2) q reverse)) q (22188 . 3)) ((c def c (c (? . 2) q identity)) q (27506 . 3)) ((c def c (c (? . 4) q caaar)) q (49542 . 3)) ((c def c (c (? . 0) q memv)) q (7826 . 4)) ((c def c (c (? . 3) q string-ci=?)) q (39071 . 5)) ((c def c (c (? . 1) q exact->inexact)) q (62578 . 3)) ((c def c (c (? . 1) q char-lower-case?)) q (69122 . 3)) ((c form c (c (? . 0) q check-member-of)) q (1104 . 2)) ((c form c (c (? . 3) q local)) q (27740 . 2)) ((c def c (c (? . 0) q char?)) q (10133 . 3)) ((c def c (c (? . 3) q number?)) q (32112 . 3)) ((c form c (c (? . 1) q check-expect)) q (60679 . 2)) ((c def c (c (? . 0) q ceiling)) q (2546 . 3)) ((c def c (c (? . 0) q symbol=?)) q (5682 . 4)) ((c def c (c (? . 2) q replicate)) q (24483 . 4)) ((c def c (c (? . 0) q assq)) q (6000 . 4)) ((c def c (c (? . 4) q make-list)) q (50923 . 4)) ((c def c (c (? . 1) q caddr)) q (65906 . 3)) ((c form c (c (? . 0) q ...)) q (82 . 2)) ((c def c (c (? . 0) q implode)) q (10321 . 3)) ((c form c (c (? . 3) q ..)) q (27680 . 2)) ((c def c (c (? . 3) q tan)) q (33082 . 3)) ((c def c (c (? . 3) q make-list)) q (35239 . 4)) ((c def c (c (? . 3) q inexact?)) q (31235 . 3)) ((c def c (c (? . 2) q first)) q (20978 . 3)) ((c form c (c (? . 2) q unquote-splicing)) q (14046 . 2)) ((c def c (c (? . 1) q char->integer)) q (68473 . 3)) ((c def c (c (? . 3) q string-numeric?)) q (39725 . 3)) ((c def c (c (? . 2) q min)) q (17977 . 4)) ((c def c (c (? . 3) q substring)) q (40553 . 5)) ((c def c (c (? . 4) q string-length)) q (55289 . 3)) ((c def c (c (? . 1) q substring)) q (72522 . 5)) ((c def c (c (? . 1) q with-output-to-file)) q (75979 . 4)) ((c form c (c (? . 1) q cond)) q (60313 . 5)) ((c def c (c (? . 3) q -)) q (29541 . 4)) ((c def c (c (? . 1) q add1)) q (61956 . 3)) ((c def c (c (? . 3) q sgn)) q (32760 . 3)) ((c def c (c (? . 3) q conjugate)) q (30448 . 3)) ((c form c (c (? . 4) q check-expect)) q (44555 . 2)) ((c def c (c (? . 0) q int->string)) q (10372 . 3)) ((c def c (c (? . 4) q cdddr)) q (50114 . 3)) ((c def c (c (? . 0) q odd?)) q (4426 . 3)) ((c def c (c (? . 0) q string-contains?)) q (11606 . 4)) ((c def c (c (? . 4) q cddar)) q (50066 . 3)) ((c def c (c (? . 3) q memq)) q (35462 . 4)) ((c def c (c (? . 0) q string<?)) q (12324 . 5)) ((c def c (c (? . 4) q for-each)) q (58299 . 4)) ((c def c (c (? . 1) q atan)) q (62102 . 3)) ((c def c (c (? . 1) q hash-update!)) q (78153 . 5)) ((c def c (c (? . 0) q cadar)) q (6226 . 3)) ((c def c (c (? . 3) q foldr)) q (42507 . 5)) ((c def c (c (? . 4) q third)) q (51927 . 3)) ((c def c (c (? . 0) q false?)) q (5519 . 3)) ((c def c (c (? . 0) q tan)) q (5285 . 3)) ((c def c (c (? . 3) q eqv?)) q (41216 . 4)) ((c def c (c (? . 4) q acos)) q (45783 . 3)) ((c def c (c (? . 0) q denominator)) q (2843 . 3)) ((c def c (c (? . 1) q -)) q (61349 . 4)) ((c def c (c (? . 1) q negative?)) q (63807 . 3)) ((c def c (c (? . 1) q range)) q (67583 . 5)) ((c def c (c (? . 4) q true)) q (43274 . 2)) ((c def c (c (? . 1) q filter)) q (74590 . 4)) ((c form c (c (? . 2) q unquote)) q (13997 . 2)) ((c def c (c (? . 0) q char-lower-case?)) q (9378 . 3)) ((c form c (c (? . 4) q quote)) q (43901 . 2)) ((c def c (c (? . 2) q false)) q (13739 . 2)) ((c def c (c (? . 1) q char-ci>=?)) q (68877 . 5)) ((c form c (c (? . 0) q define)) q (132 . 2)) ((c def c (c (? . 0) q make-polar)) q (3846 . 4)) ((c def c (c (? . 4) q boolean?)) q (48946 . 3)) ((c def c (c (? . 0) q e)) q (2903 . 2)) ((c def c (c (? . 0) q eighth)) q (6913 . 3)) ((c def c (c (? . 4) q char-ci<?)) q (52402 . 5)) ((c def c (c (? . 0) q inexact?)) q (3438 . 3)) ((c def c (c (? . 4) q tan)) q (48766 . 3)) ((c def c (c (? . 4) q remove)) q (51544 . 4)) ((c def c (c (? . 3) q char-whitespace?)) q (37385 . 3)) ((c def c (c (? . 3) q car)) q (34193 . 3)) ((c def c (c (? . 0) q assoc)) q (5902 . 4)) ((c def c (c (? . 2) q abs)) q (16174 . 3)) ((c form c (c (? . 4) q lambda)) q (43383 . 2)) ((c def c (c (? . 0) q sub1)) q (5236 . 3)) ((c def c (c (? . 1) q string-ref)) q (71756 . 4)) ((c def c (c (? . 4) q exact?)) q (46513 . 3)) ((c def c (c (? . 4) q explode)) q (53643 . 3)) ((c def c (c (? . 0) q string?)) q (12725 . 3)) ((c def c (c (? . 1) q rational?)) q (64284 . 3)) ((c def c (c (? . 0) q seventh)) q (8370 . 3)) ((c def c (c (? . 0) q real?)) q (4786 . 3)) ((c def c (c (? . 2) q memv)) q (21742 . 4)) ((c form c (c (? . 1) q begin)) q (59267 . 2)) ((c def c (c (? . 0) q eof)) q (13116 . 2)) ((c def c (c (? . 1) q procedure?)) q (75280 . 3)) ((c def c (c (? . 4) q make-posn)) q (51975 . 4)) ((c def c (c (? . 0) q make-rectangular)) q (3917 . 4)) ((c def c (c (? . 1) q real?)) q (64391 . 3)) ((c def c (c (? . 3) q identity)) q (41365 . 3)) ((c def c (c (? . 3) q string-append)) q (38801 . 3)) ((c def c (c (? . 4) q exit)) q (57022 . 2)) ((c def c (c (? . 3) q cos)) q (30502 . 3)) ((c def c (c (? . 1) q memq?)) q (67361 . 4)) ((c def c (c (? . 4) q imag-part)) q (46808 . 3)) ((c def c (c (? . 1) q cddar)) q (66190 . 3)) ((c def c (c (? . 4) q inexact?)) q (46919 . 3)) ((c def c (c (? . 2) q remainder)) q (18753 . 4)) ((c def c (c (? . 1) q char-whitespace?)) q (69354 . 3)) ((c def c (c (? . 1) q build-string)) q (74423 . 4)) ((c def c (c (? . 1) q /)) q (73853 . 4)) ((c def c (c (? . 1) q sinh)) q (64695 . 3)) ((c def c (c (? . 0) q cos)) q (2705 . 3)) ((c def c (c (? . 2) q string-copy)) q (25605 . 3)) ((c def c (c (? . 2) q log)) q (17662 . 3)) ((c def c (c (? . 3) q string-lower-case?)) q (39660 . 3)) ((c def c (c (? . 3) q string-length)) q (39605 . 3)) ((c def c (c (? . 3) q abs)) q (30055 . 3)) ((c def c (c (? . 3) q for-each)) q (42615 . 4)) ((c def c (c (? . 0) q posn-y)) q (8632 . 3)) ((c def c (c (? . 4) q char>?)) q (53500 . 5)) ((c def c (c (? . 0) q string)) q (10649 . 3)) ((c def c (c (? . 2) q posn-y)) q (22548 . 3)) ((c def c (c (? . 2) q <)) q (15731 . 5)) ((c def c (c (? . 0) q make-string)) q (10485 . 4)) ((c def c (c (? . 2) q char-ci>=?)) q (23049 . 5)) ((c def c (c (? . 2) q second)) q (22237 . 3)) ((c def c (c (? . 4) q cdr)) q (50209 . 3)) ((c def c (c (? . 0) q current-seconds)) q (2802 . 2)) ((c def c (c (? . 1) q min)) q (63666 . 4)) ((c def c (c (? . 1) q string-ci<?)) q (70937 . 5)) ((c def c (c (? . 1) q even?)) q (62525 . 3)) ((c def c (c (? . 0) q <=)) q (1902 . 5)) ((c def c (c (? . 4) q null?)) q (51386 . 3)) ((c def c (c (? . 0) q string>=?)) q (12524 . 5)) ((c form c (c (? . 4) q letrec)) q (43584 . 2)) ((c def c (c (? . 0) q false)) q (47 . 2)) ((c def c (c (? . 0) q numerator)) q (4368 . 3)) ((c def c (c (? . 0) q +)) q (1562 . 5)) ((c form c (c (? . 1) q set!)) q (59356 . 2)) ((c def c (c (? . 2) q cadddr)) q (20190 . 3)) ((c form c (c (? . 4) q check-satisfied)) q (44665 . 2)) ((c def c (c (? . 4) q conjugate)) q (46132 . 3)) ((c def c (c (? . 3) q string-ci<?)) q (38968 . 5)) ((c def c (c (? . 0) q exact->inexact)) q (2973 . 3)) ((c def c (c (? . 1) q ormap)) q (75192 . 4)) ((c def c (c (? . 0) q string-copy)) q (11689 . 3)) ((c def c (c (? . 1) q asin)) q (62053 . 3)) ((c def c (c (? . 1) q reverse)) q (67877 . 3)) ((c def c (c (? . 2) q equal?)) q (27183 . 4)) ((c def c (c (? . 1) q <)) q (61420 . 5)) ((c form c (c (? . 4) q check-within)) q (44713 . 2)) ((c def c (c (? . 1) q angle)) q (62005 . 3)) ((c def c (c (? . 2) q string->int)) q (24620 . 3)) ((c def c (c (? . 4) q denominator)) q (46324 . 3)) ((c def c (c (? . 3) q odd?)) q (32223 . 3)) ((c def c (c (? . 4) q cadr)) q (49830 . 3)) ((c def c (c (? . 3) q string-ci<=?)) q (38864 . 5)) ((c def c (c (? . 2) q false?)) q (19435 . 3)) ((c form c (c (? . 2) q check-within)) q (14875 . 2)) ((c form c (c (? . 1) q let)) q (60080 . 2)) ((c form c (c (? . 4) q let)) q (43696 . 2)) ((c def c (c (? . 0) q char-ci<?)) q (8943 . 5)) ((c def c (c (? . 0) q replicate)) q (10567 . 4)) ((c def c (c (? . 0) q string-ci<?)) q (11193 . 5)) ((c form c (c (? . 0) q or)) q (748 . 2)) ((c def c (c (? . 4) q <=)) q (45383 . 5)) ((c def c (c (? . 4) q =~)) q (56471 . 5)) ((c def c (c (? . 0) q cadr)) q (6371 . 3)) ((c def c (c (? . 2) q char-ci>?)) q (23145 . 5)) ((c def c (c (? . 3) q string<?)) q (40099 . 5)) ((c def c (c (? . 1) q foldl)) q (74683 . 5)) ((c def c (c (? . 2) q complex?)) q (16513 . 3)) ((c def c (c (? . 3) q equal~?)) q (41113 . 5)) ((c def c (c (? . 4) q string->int)) q (54163 . 3)) ((c def c (c (? . 2) q image?)) q (26876 . 3)) ((c def c (c (? . 4) q procedure?)) q (58680 . 3)) ((c form c (c (? . 1) q or)) q (60626 . 2)) ((c form c (c (? . 2) q quote)) q (13854 . 2)) ((c def c (c (? . 3) q compose)) q (42222 . 4)) ((c def c (c (? . 1) q current-seconds)) q (62407 . 2)) ((c def c (c (? . 3) q =)) q (29787 . 5)) ((c def c (c (? . 4) q min)) q (47542 . 4)) ((c def c (c (? . 1) q vector)) q (76408 . 3)) ((c def c (c (? . 4) q char-numeric?)) q (52898 . 3)) ((c def c (c (? . 4) q implode)) q (53780 . 3)) ((c def c (c (? . 3) q string-ref)) q (39787 . 4)) ((c def c (c (? . 1) q cadddr)) q (65857 . 3)) ((c def c (c (? . 1) q implode)) q (70065 . 3)) ((c def c (c (? . 1) q printf)) q (75709 . 4)) ((c def c (c (? . 1) q write)) q (76129 . 3)) ((c def c (c (? . 4) q caddr)) q (49782 . 3)) ((c def c (c (? . 3) q true)) q (27631 . 2)) ((c def c (c (? . 4) q add1)) q (45832 . 3)) ((c form c (c (? . 2) q check-random)) q (14772 . 2)) ((c def c (c (? . 0) q list*)) q (7270 . 4)) ((c def c (c (? . 1) q fourth)) q (66701 . 3)) ((c def c (c (? . 1) q magnitude)) q (63399 . 3)) ((c def c (c (? . 3) q atan)) q (30294 . 3)) ((c def c (c (? . 4) q string-lower-case?)) q (55344 . 3)) ((c def c (c (? . 2) q string->symbol)) q (24818 . 3)) ((c def c (c (? . 2) q integer-sqrt)) q (17473 . 3)) ((c def c (c (? . 3) q char?)) q (37908 . 3)) ((c def c (c (? . 4) q equal~?)) q (56797 . 5)) ((c def c (c (? . 1) q assoc)) q (65485 . 4)) ((c def c (c (? . 2) q string->list)) q (24677 . 3)) ((c def c (c (? . 3) q current-seconds)) q (30599 . 2)) ((c def c (c (? . 4) q rational?)) q (48160 . 3)) ((c form c (c (? . 2) q check-range)) q (15086 . 2)) ((c def c (c (? . 2) q string-ith)) q (25661 . 4)) ((c def c (c (? . 1) q string-ith)) q (71489 . 4)) ((c def c (c (? . 2) q memq)) q (21603 . 4)) ((c def c (c (? . 2) q equal~?)) q (27254 . 5)) ((c def c (c (? . 0) q integer?)) q (3616 . 3)) ((c def c (c (? . 1) q floor)) q (62807 . 3)) ((c def c (c (? . 3) q filter)) q (42306 . 4)) ((c def c (c (? . 3) q quicksort)) q (43050 . 4)) ((c def c (c (? . 0) q null)) q (7907 . 2)) ((c def c (c (? . 4) q caar)) q (49638 . 3)) ((c def c (c (? . 1) q round)) q (64519 . 3)) ((c def c (c (? . 2) q cdadr)) q (20428 . 3)) ((c def c (c (? . 0) q struct?)) q (13639 . 3)) ((c def c (c (? . 3) q *)) q (41467 . 3)) ((c def c (c (? . 1) q hash?)) q (78254 . 3)) ((c def c (c (? . 4) q inexact->exact)) q (46860 . 3)) ((c def c (c (? . 3) q boolean=?)) q (33182 . 4)) ((c def c (c (? . 4) q pi)) q (47959 . 2)) ((c def c (c (? . 4) q substring)) q (56237 . 5)) ((c def c (c (? . 4) q string->list)) q (54220 . 3)) ((c def c (c (? . 1) q abs)) q (61863 . 3)) ((c def c (c (? . 2) q cdr)) q (20666 . 3)) ((c def c (c (? . 4) q quotient)) q (48031 . 4)) ((c def c (c (? . 0) q char->integer)) q (8729 . 3)) ((c def c (c (? . 0) q caaar)) q (6083 . 3)) ((c def c (c (? . 2) q substring)) q (26694 . 5)) ((c def c (c (? . 3) q argmin)) q (41978 . 4)) ((c def c (c (? . 4) q char-downcase)) q (52783 . 3)) ((c form c (c (? . 2) q quasiquote)) q (13926 . 2)) ((c def c (c (? . 1) q exp)) q (62690 . 3)) ((c def c (c (? . 0) q exact?)) q (3032 . 3)) ((c def c (c (? . 3) q eq?)) q (40974 . 4)) ((c def c (c (? . 1) q make-polar)) q (63451 . 4)) ((c def c (c (? . 3) q integer?)) q (31413 . 3)) ((c def c (c (? . 1) q empty)) q (58935 . 2)) ((c form c (c (? . 4) q check-range)) q (44924 . 2)) ((c def c (c (? . 4) q list->string)) q (53888 . 3)) ((c def c (c (? . 3) q asin)) q (30245 . 3)) ((c def c (c (? . 3) q length)) q (34934 . 3)) ((c def c (c (? . 4) q string-contains?)) q (55065 . 4)) ((c def c (c (? . 0) q <)) q (1815 . 5)) ((c def c (c (? . 2) q cos)) q (16621 . 3)) ((c def c (c (? . 2) q pi)) q (18394 . 2)) ((c form c (c (? . 3) q or)) q (28818 . 2)) ((c form c (c (? . 0) q check-within)) q (959 . 2)) ((c def c (c (? . 0) q sin)) q (5042 . 3)) ((c def c (c (? . 1) q build-list)) q (74340 . 4)) ((c def c (c (? . 4) q =)) q (45471 . 5)) ((c def c (c (? . 1) q list-ref)) q (66947 . 4)) ((c def c (c (? . 2) q eof)) q (27032 . 2)) ((c def c (c (? . 3) q second)) q (36096 . 3)) ((c def c (c (? . 1) q <=)) q (61507 . 5)) ((c form c (c (? . 4) q define-struct)) q (44131 . 2)) ((c def c (c (? . 3) q modulo)) q (31925 . 4)) ((c def c (c (? . 2) q string<=?)) q (26139 . 5)) ((c def c (c (? . 0) q append)) q (5810 . 5)) ((c def c (c (? . 1) q list->string)) q (70173 . 3)) ((c def c (c (? . 2) q rational?)) q (18595 . 3)) ((c def c (c (? . 3) q number->string)) q (32053 . 3)) ((c def c (c (? . 1) q first)) q (66653 . 3)) ((c def c (c (? . 3) q char-ci=?)) q (36813 . 5)) ((c def c (c (? . 3) q symbol=?)) q (33479 . 4)) ((c def c (c (? . 3) q cons)) q (34571 . 4)) ((c def c (c (? . 2) q error)) q (27426 . 3)) ((c def c (c (? . 3) q procedure?)) q (42996 . 3)) ((c def c (c (? . 3) q int->string)) q (38147 . 3)) ((c def c (c (? . 3) q string-copy)) q (39464 . 3)) ((c def c (c (? . 3) q member)) q (35319 . 4)) ((c def c (c (? . 1) q set-posn-x!)) q (68334 . 4)) ((c def c (c (? . 3) q char-ci>=?)) q (36908 . 5)) ((c def c (c (? . 3) q char-numeric?)) q (37214 . 3)) ((c def c (c (? . 3) q make-polar)) q (31643 . 4)) ((c def c (c (? . 0) q string<=?)) q (12223 . 5)) ((c def c (c (? . 3) q member?)) q (35390 . 4)) ((c def c (c (? . 3) q sin)) q (32839 . 3)) ((c def c (c (? . 0) q empty?)) q (6962 . 3)) ((c form c (c (? . 1) q local)) q (59922 . 2)) ((c def c (c (? . 0) q cdr)) q (6750 . 3)) ((c form c (c (? . 4) q check-random)) q (44610 . 2)) ((c def c (c (? . 3) q log)) q (31543 . 3)) ((c form c (c (? . 3) q check-error)) q (29091 . 3)) ((c def c (c (? . 2) q string<?)) q (26240 . 5)) ((c def c (c (? . 4) q angle)) q (45881 . 3)) ((c def c (c (? . 4) q odd?)) q (47907 . 3)) ((c def c (c (? . 2) q odd?)) q (18342 . 3)) ((c def c (c (? . 0) q max)) q (3994 . 4)) ((c def c (c (? . 3) q ormap)) q (42908 . 4)) ((c def c (c (? . 1) q string-numeric?)) q (71694 . 3)) ((c def c (c (? . 2) q assq)) q (19916 . 4)) ((c def c (c (? . 2) q negative?)) q (18118 . 3)) ((c def c (c (? . 2) q string-alphabetic?)) q (24877 . 3)) ((c def c (c (? . 3) q magnitude)) q (31591 . 3)) ((c def c (c (? . 1) q >)) q (61688 . 5)) ((c def c (c (? . 0) q symbol->string)) q (5623 . 3)) ((c def c (c (? . 4) q abs)) q (45739 . 3)) ((c def c (c (? . 3) q /)) q (41569 . 4)) ((c def c (c (? . 1) q string>?)) q (72369 . 5)) ((c form c (c (? . 1) q ......)) q (59053 . 2)) ((c def c (c (? . 1) q length)) q (66750 . 3)) ((c def c (c (? . 1) q third)) q (68073 . 3)) ((c form c (c (? . 3) q unquote-splicing)) q (28200 . 2)) ((c def c (c (? . 4) q >)) q (45564 . 5)) ((c def c (c (? . 1) q string-ci>?)) q (71247 . 5)) ((c def c (c (? . 2) q magnitude)) q (17710 . 3)) ((c def c (c (? . 2) q imag-part)) q (17243 . 3)) ((c def c (c (? . 2) q boolean=?)) q (19301 . 4)) ((c def c (c (? . 0) q char-numeric?)) q (9439 . 3)) ((c def c (c (? . 3) q build-list)) q (42056 . 4)) ((c def c (c (? . 0) q char-upcase)) q (9497 . 3)) ((c def c (c (? . 1) q void?)) q (73702 . 3)) ((c form c (c (? . 1) q ..)) q (59007 . 2)) ((c def c (c (? . 1) q symbol?)) q (65362 . 3)) ((c def c (c (? . 3) q gcd)) q (31048 . 4)) ((c form c (c (? . 2) q define)) q (14084 . 2)) ((c form c (c (? . 3) q define)) q (28238 . 2))))
 value
 empty : empty?
 value
@@ -36,13 +36,19 @@ syntax
       ...
       [else answer-expression])
 syntax
-(if test-expression then-expression else-expression)
+(if question-expression
+    then-answer-expression
+    else-answer-expression)
 syntax
 (and expression expression expression ...)
 syntax
 (or expression expression expression ...)
 syntax
 (check-expect expression expected-expression)
+syntax
+(check-random expression expected-expression)
+syntax
+(check-satisfied expression predicate)
 syntax
 (check-within expression expected-expression delta)
 syntax
@@ -184,8 +190,8 @@ procedure
 (integer->char x) -> char
   x : exact-integer?
 procedure
-(integer-sqrt x) -> integer
-  x : number
+(integer-sqrt x) -> complex
+  x : integer
 procedure
 (integer? x) -> boolean?
   x : any/c
@@ -221,7 +227,7 @@ procedure
   y : integer
 procedure
 (negative? x) -> boolean?
-  x : number
+  x : real
 procedure
 (number->string x) -> string
   x : number
@@ -238,7 +244,7 @@ value
 pi : real
 procedure
 (positive? x) -> boolean?
-  x : number
+  x : real
 procedure
 (quotient x y) -> integer
   x : integer
@@ -263,7 +269,7 @@ procedure
 (round x) -> integer
   x : real
 procedure
-(sgn x) -> (union 1 1.0 0 0.0 -1 -1.0)
+(sgn x) -> (union 1 #i1.0 0 #i0.0 -1 #i-1.0)
   x : real
 procedure
 (sin x) -> number
@@ -315,1490 +321,11 @@ procedure
   y : list?
   z : list?
 procedure
-(assq x l) -> (union false cons?)
-  x : any/c
-  l : list?
-procedure
-(caaar x) -> any/c
-  x : list?
-procedure
-(caadr x) -> any/c
-  x : list?
-procedure
-(caar x) -> any/c
-  x : list?
-procedure
-(cadar x) -> any/c
-  x : list?
-procedure
-(cadddr x) -> any/c
-  x : list?
-procedure
-(caddr x) -> any/c
-  x : list?
-procedure
-(cadr x) -> any/c
-  x : list?
-procedure
-(car x) -> any/c
-  x : cons?
-procedure
-(cdaar x) -> any/c
-  x : list?
-procedure
-(cdadr x) -> any/c
-  x : list?
-procedure
-(cdar x) -> list?
-  x : list?
-procedure
-(cddar x) -> any/c
-  x : list?
-procedure
-(cdddr x) -> any/c
-  x : list?
-procedure
-(cddr x) -> list?
-  x : list?
-procedure
-(cdr x) -> any/c
-  x : cons?
-procedure
-(cons x y) -> list?
-  x : any/x
-  y : list?
-procedure
-(cons? x) -> boolean?
-  x : any/c
-procedure
-(eighth x) -> any/c
-  x : list?
-procedure
-(empty? x) -> boolean?
-  x : any/c
-procedure
-(fifth x) -> any/c
-  x : list?
-procedure
-(first x) -> any/c
-  x : cons?
-procedure
-(fourth x) -> any/c
-  x : list?
-procedure
-(length l) -> natural-number?
-  l : list?
-procedure
-(list x ...) -> list?
-  x : any/c
-procedure
-(list* x ... l) -> list?
-  x : any/c
-  l : list?
-procedure
-(list-ref x i) -> any/c
-  x : list?
-  i : natural?
-procedure
-(make-list i x) -> list?
-  i : natural-number
-  x : any/c
-procedure
-(member x l) -> boolean?
-  x : any/c
-  l : list?
-procedure
-(member? x l) -> boolean?
-  x : any/c
-  l : list?
-procedure
-(memq x l) -> boolean?
-  x : any/c
-  l : list?
-procedure
-(memq? x l) -> boolean?
-  x : any/c
-  l : list?
-procedure
-(memv x l) -> (or/c false list)
-  x : any/c
-  l : list?
-value
-null : list
-procedure
-(null? x) -> boolean?
-  x : any/c
-procedure
-(range start end step) -> list?
-  start : number
-  end : number
-  step : number
-procedure
-(remove x l) -> list?
-  x : any/c
-  l : list?
-procedure
-(rest x) -> any/c
-  x : cons?
-procedure
-(reverse l) -> list
-  l : list?
-procedure
-(second x) -> any/c
-  x : list?
-procedure
-(seventh x) -> any/c
-  x : list?
-procedure
-(sixth x) -> any/c
-  x : list?
-procedure
-(third x) -> any/c
-  x : list?
-procedure
-(make-posn x y) -> posn
-  x : any/c
-  y : any/c
-procedure
-(posn) -> signature
-procedure
-(posn-x p) -> any
-  p : posn
-procedure
-(posn-y p) -> any
-  p : posn
-procedure
-(posn? x) -> boolean?
-  x : any/c
-procedure
-(char->integer c) -> integer
-  c : char
-procedure
-(char-alphabetic? c) -> boolean?
-  c : char
-procedure
-(char-ci<=? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char-ci<? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char-ci=? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char-ci>=? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char-ci>? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char-downcase c) -> char
-  c : char
-procedure
-(char-lower-case? c) -> boolean?
-  c : char
-procedure
-(char-numeric? c) -> boolean?
-  c : char
-procedure
-(char-upcase c) -> char
-  c : char
-procedure
-(char-upper-case? c) -> boolean?
-  c : char
-procedure
-(char-whitespace? c) -> boolean?
-  c : char
-procedure
-(char<=? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char<? x d e ...) -> boolean?
-  x : char
-  d : char
-  e : char
-procedure
-(char=? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char>=? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char>? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char? x) -> boolean?
-  x : any/c
-procedure
-(explode s) -> (listof string)
-  s : string
-procedure
-(format f x ...) -> string
-  f : string
-  x : any/c
-procedure
-(implode l) -> string
-  l : list?
-procedure
-(int->string i) -> string
-  i : integer
-procedure
-(list->string l) -> string
-  l : list?
-procedure
-(make-string i c) -> string
-  i : natural-number
-  c : char
-procedure
-(replicate i s) -> string
-  i : natural-number
-  s : string
-procedure
-(string c ...) -> string?
-  c : char
-procedure
-(string->int s) -> integer
-  s : string
-procedure
-(string->list s) -> (listof char)
-  s : string
-procedure
-(string->number s) -> (union number false)
-  s : string
-procedure
-(string->symbol s) -> symbol
-  s : string
-procedure
-(string-alphabetic? s) -> boolean?
-  s : string
-procedure
-(string-append s ...) -> string
-  s : string
-procedure
-(string-ci<=? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string-ci<? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string-ci=? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string-ci>=? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string-ci>? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string-contains? s t) -> boolean?
-  s : string
-  t : string
-procedure
-(string-copy s) -> string
-  s : string
-procedure
-(string-ith s i) -> 1string?
-  s : string
-  i : natural-number
-procedure
-(string-length s) -> nat
-  s : string
-procedure
-(string-lower-case? s) -> boolean?
-  s : string
-procedure
-(string-numeric? s) -> boolean?
-  s : string
-procedure
-(string-ref s i) -> char
-  s : string
-  i : natural-number
-procedure
-(string-upper-case? s) -> boolean?
-  s : string
-procedure
-(string-whitespace? s) -> boolean?
-  s : string
-procedure
-(string<=? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string<? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string=? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string>=? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string>? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string? x) -> boolean?
-  x : any/c
-procedure
-(substring s i j) -> string
-  s : string
-  i : natural-number
-  j : natural-number
-procedure
-(image=? i j) -> boolean?
-  i : image
-  j : image
-procedure
-(image? x) -> boolean?
-  x : any/c
-procedure
-(=~ x y z) -> boolean?
-  x : number
-  y : number
-  z : non-negative-real
-value
-eof : eof-object?
-procedure
-(eof-object? x) -> boolean?
-  x : any/c
-procedure
-(eq? x y) -> boolean?
-  x : any/c
-  y : any/c
-procedure
-(equal? x y) -> boolean?
-  x : any/c
-  y : any/c
-procedure
-(equal~? x y z) -> boolean?
-  x : any/c
-  y : any/c
-  z : non-negative-real
-procedure
-(eqv? x y) -> boolean?
-  x : any/c
-  y : any/c
-procedure
-(error x ...) -> void?
-  x : any/c
-procedure
-(exit) -> void
-procedure
-(identity x) -> any
-  x : any/c
-procedure
-(struct? x) -> boolean?
-  x : any/c
-value
-empty : empty?
-value
-true : boolean?
-value
-false : boolean?
-syntax
-..
-syntax
-...
-syntax
-....
-syntax
-.....
-syntax
-......
-syntax
-’name
-syntax
-’part
-syntax
-(quote name)
-syntax
-(quote part)
-syntax
-‘name
-syntax
-‘part
-syntax
-(quasiquote name)
-syntax
-(quasiquote part)
-syntax
-,expression
-syntax
-(unquote expression)
-syntax
-,@expression
-syntax
-(unquote-splicing expression)
-syntax
-(define (name variable variable ...) expression)
-syntax
-(define name expression)
-syntax
-(define name (lambda (variable variable ...) expression))
-syntax
-(define-struct structure-name (field-name ...))
-syntax
-(name expression expression ...)
-syntax
-(cond [question-expression answer-expression] ...)
-(cond [question-expression answer-expression]
-      ...
-      [else answer-expression])
-syntax
-(if test-expression then-expression else-expression)
-syntax
-(and expression expression expression ...)
-syntax
-(or expression expression expression ...)
-syntax
-(check-expect expression expected-expression)
-syntax
-(check-within expression expected-expression delta)
-syntax
-(check-error expression expected-error-message)
-(check-error expression)
-syntax
-(check-member-of expression expression expression ...)
-syntax
-(check-range expression low-expression high-expression)
-syntax
-(require string)
-syntax
-(require module-name)
-syntax
-(require (lib string string ...))
-syntax
-(require (planet string (string string number number)))
-syntax
-(require (planet id))
-syntax
-(require (planet string))
-procedure
-(* x y z ...) -> number
-  x : number
-  y : number
-  z : number
-procedure
-(+ x y z ...) -> number
-  x : number
-  y : number
-  z : number
-procedure
-(- x y ...) -> number
-  x : number
-  y : number
-procedure
-(/ x y z ...) -> number
-  x : number
-  y : number
-  z : number
-procedure
-(< x y z ...) -> boolean?
-  x : real
-  y : real
-  z : real
-procedure
-(<= x y z ...) -> boolean?
-  x : real
-  y : real
-  z : real
-procedure
-(= x y z ...) -> boolean?
-  x : number
-  y : number
-  z : number
-procedure
-(> x y z ...) -> boolean?
-  x : real
-  y : real
-  z : real
-procedure
-(>= x y z ...) -> boolean?
-  x : real
-  y : real
-  z : real
-procedure
-(abs x) -> real
-  x : real
-procedure
-(acos x) -> number
-  x : number
-procedure
-(add1 x) -> number
-  x : number
-procedure
-(angle x) -> real
-  x : number
-procedure
-(asin x) -> number
-  x : number
-procedure
-(atan x) -> number
-  x : number
-procedure
-(ceiling x) -> integer
-  x : real
-procedure
-(complex? x) -> boolean?
-  x : any/c
-procedure
-(conjugate x) -> number
-  x : number
-procedure
-(cos x) -> number
-  x : number
-procedure
-(cosh x) -> number
-  x : number
-procedure
-(current-seconds) -> integer
-procedure
-(denominator x) -> integer
-  x : rational?
-value
-e : real
-procedure
-(even? x) -> boolean?
-  x : integer
-procedure
-(exact->inexact x) -> number
-  x : number
-procedure
-(exact? x) -> boolean?
-  x : number
-procedure
-(exp x) -> number
-  x : number
-procedure
-(expt x y) -> number
-  x : number
-  y : number
-procedure
-(floor x) -> integer
-  x : real
-procedure
-(gcd x y ...) -> integer
-  x : integer
-  y : integer
-procedure
-(imag-part x) -> real
-  x : number
-procedure
-(inexact->exact x) -> number
-  x : number
-procedure
-(inexact? x) -> boolean?
-  x : number
-procedure
-(integer->char x) -> char
-  x : exact-integer?
-procedure
-(integer-sqrt x) -> integer
-  x : number
-procedure
-(integer? x) -> boolean?
-  x : any/c
-procedure
-(lcm x y ...) -> integer
-  x : integer
-  y : integer
-procedure
-(log x) -> number
-  x : number
-procedure
-(magnitude x) -> real
-  x : number
-procedure
-(make-polar x y) -> number
-  x : real
-  y : real
-procedure
-(make-rectangular x y) -> number
-  x : real
-  y : real
-procedure
-(max x y ...) -> real
-  x : real
-  y : real
-procedure
-(min x y ...) -> real
-  x : real
-  y : real
-procedure
-(modulo x y) -> integer
-  x : integer
-  y : integer
-procedure
-(negative? x) -> boolean?
-  x : number
-procedure
-(number->string x) -> string
-  x : number
-procedure
-(number? n) -> boolean?
-  n : any/c
-procedure
-(numerator x) -> integer
-  x : rational?
-procedure
-(odd? x) -> boolean?
-  x : integer
-value
-pi : real
-procedure
-(positive? x) -> boolean?
-  x : number
-procedure
-(quotient x y) -> integer
-  x : integer
-  y : integer
-procedure
-(random x) -> natural
-  x : natural
-procedure
-(rational? x) -> boolean?
-  x : any/c
-procedure
-(real-part x) -> real
-  x : number
-procedure
-(real? x) -> boolean?
-  x : any/c
-procedure
-(remainder x y) -> integer
-  x : integer
-  y : integer
-procedure
-(round x) -> integer
-  x : real
-procedure
-(sgn x) -> (union 1 1.0 0 0.0 -1 -1.0)
-  x : real
-procedure
-(sin x) -> number
-  x : number
-procedure
-(sinh x) -> number
-  x : number
-procedure
-(sqr x) -> number
-  x : number
-procedure
-(sqrt x) -> number
-  x : number
-procedure
-(sub1 x) -> number
-  x : number
-procedure
-(tan x) -> number
-  x : number
-procedure
-(zero? x) -> boolean?
-  x : number
-procedure
-(boolean=? x y) -> boolean?
-  x : boolean?
-  y : boolean?
-procedure
-(boolean? x) -> boolean?
-  x : any/c
-procedure
-(false? x) -> boolean?
-  x : any/c
-procedure
-(not x) -> boolean?
-  x : boolean?
-procedure
-(symbol->string x) -> string
-  x : symbol
-procedure
-(symbol=? x y) -> boolean?
-  x : symbol
-  y : symbol
-procedure
-(symbol? x) -> boolean?
-  x : any/c
-procedure
-(append x y z ...) -> list?
-  x : list?
-  y : list?
-  z : list?
-procedure
-(assq x l) -> (union false cons?)
-  x : any/c
-  l : list?
-procedure
-(caaar x) -> any/c
-  x : list?
-procedure
-(caadr x) -> any/c
-  x : list?
-procedure
-(caar x) -> any/c
-  x : list?
-procedure
-(cadar x) -> any/c
-  x : list?
-procedure
-(cadddr x) -> any/c
-  x : list?
-procedure
-(caddr x) -> any/c
-  x : list?
-procedure
-(cadr x) -> any/c
-  x : list?
-procedure
-(car x) -> any/c
-  x : cons?
-procedure
-(cdaar x) -> any/c
-  x : list?
-procedure
-(cdadr x) -> any/c
-  x : list?
-procedure
-(cdar x) -> list?
-  x : list?
-procedure
-(cddar x) -> any/c
-  x : list?
-procedure
-(cdddr x) -> any/c
-  x : list?
-procedure
-(cddr x) -> list?
-  x : list?
-procedure
-(cdr x) -> any/c
-  x : cons?
-procedure
-(cons x y) -> list?
-  x : any/x
-  y : list?
-procedure
-(cons? x) -> boolean?
-  x : any/c
-procedure
-(eighth x) -> any/c
-  x : list?
-procedure
-(empty? x) -> boolean?
-  x : any/c
-procedure
-(fifth x) -> any/c
-  x : list?
-procedure
-(first x) -> any/c
-  x : cons?
-procedure
-(fourth x) -> any/c
-  x : list?
-procedure
-(length l) -> natural-number?
-  l : list?
-procedure
-(list x ...) -> list?
-  x : any/c
-procedure
-(list* x ... l) -> list?
-  x : any/c
-  l : list?
-procedure
-(list-ref x i) -> any/c
-  x : list?
-  i : natural?
-procedure
-(make-list i x) -> list?
-  i : natural-number
-  x : any/c
-procedure
-(member x l) -> boolean?
-  x : any/c
-  l : list?
-procedure
-(member? x l) -> boolean?
-  x : any/c
-  l : list?
-procedure
-(memq x l) -> boolean?
-  x : any/c
-  l : list?
-procedure
-(memq? x l) -> boolean?
-  x : any/c
-  l : list?
-procedure
-(memv x l) -> (or/c false list)
-  x : any/c
-  l : list?
-value
-null : list
-procedure
-(null? x) -> boolean?
-  x : any/c
-procedure
-(range start end step) -> list?
-  start : number
-  end : number
-  step : number
-procedure
-(remove x l) -> list?
-  x : any/c
-  l : list?
-procedure
-(rest x) -> any/c
-  x : cons?
-procedure
-(reverse l) -> list
-  l : list?
-procedure
-(second x) -> any/c
-  x : list?
-procedure
-(seventh x) -> any/c
-  x : list?
-procedure
-(sixth x) -> any/c
-  x : list?
-procedure
-(third x) -> any/c
-  x : list?
-procedure
-(make-posn x y) -> posn
-  x : any/c
-  y : any/c
-procedure
-(posn) -> signature
-procedure
-(posn-x p) -> any
-  p : posn
-procedure
-(posn-y p) -> any
-  p : posn
-procedure
-(posn? x) -> boolean?
-  x : any/c
-procedure
-(char->integer c) -> integer
-  c : char
-procedure
-(char-alphabetic? c) -> boolean?
-  c : char
-procedure
-(char-ci<=? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char-ci<? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char-ci=? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char-ci>=? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char-ci>? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char-downcase c) -> char
-  c : char
-procedure
-(char-lower-case? c) -> boolean?
-  c : char
-procedure
-(char-numeric? c) -> boolean?
-  c : char
-procedure
-(char-upcase c) -> char
-  c : char
-procedure
-(char-upper-case? c) -> boolean?
-  c : char
-procedure
-(char-whitespace? c) -> boolean?
-  c : char
-procedure
-(char<=? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char<? x d e ...) -> boolean?
-  x : char
-  d : char
-  e : char
-procedure
-(char=? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char>=? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char>? c d e ...) -> boolean?
-  c : char
-  d : char
-  e : char
-procedure
-(char? x) -> boolean?
-  x : any/c
-procedure
-(explode s) -> (listof string)
-  s : string
-procedure
-(format f x ...) -> string
-  f : string
-  x : any/c
-procedure
-(implode l) -> string
-  l : list?
-procedure
-(int->string i) -> string
-  i : integer
-procedure
-(list->string l) -> string
-  l : list?
-procedure
-(make-string i c) -> string
-  i : natural-number
-  c : char
-procedure
-(replicate i s) -> string
-  i : natural-number
-  s : string
-procedure
-(string c ...) -> string?
-  c : char
-procedure
-(string->int s) -> integer
-  s : string
-procedure
-(string->list s) -> (listof char)
-  s : string
-procedure
-(string->number s) -> (union number false)
-  s : string
-procedure
-(string->symbol s) -> symbol
-  s : string
-procedure
-(string-alphabetic? s) -> boolean?
-  s : string
-procedure
-(string-append s ...) -> string
-  s : string
-procedure
-(string-ci<=? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string-ci<? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string-ci=? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string-ci>=? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string-ci>? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string-contains? s t) -> boolean?
-  s : string
-  t : string
-procedure
-(string-copy s) -> string
-  s : string
-procedure
-(string-ith s i) -> 1string?
-  s : string
-  i : natural-number
-procedure
-(string-length s) -> nat
-  s : string
-procedure
-(string-lower-case? s) -> boolean?
-  s : string
-procedure
-(string-numeric? s) -> boolean?
-  s : string
-procedure
-(string-ref s i) -> char
-  s : string
-  i : natural-number
-procedure
-(string-upper-case? s) -> boolean?
-  s : string
-procedure
-(string-whitespace? s) -> boolean?
-  s : string
-procedure
-(string<=? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string<? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string=? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string>=? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string>? s t x ...) -> boolean?
-  s : string
-  t : string
-  x : string
-procedure
-(string? x) -> boolean?
-  x : any/c
-procedure
-(substring s i j) -> string
-  s : string
-  i : natural-number
-  j : natural-number
-procedure
-(image=? i j) -> boolean?
-  i : image
-  j : image
-procedure
-(image? x) -> boolean?
-  x : any/c
-procedure
-(=~ x y z) -> boolean?
-  x : number
-  y : number
-  z : non-negative-real
-value
-eof : eof-object?
-procedure
-(eof-object? x) -> boolean?
-  x : any/c
-procedure
-(eq? x y) -> boolean?
-  x : any/c
-  y : any/c
-procedure
-(equal? x y) -> boolean?
-  x : any/c
-  y : any/c
-procedure
-(equal~? x y z) -> boolean?
-  x : any/c
-  y : any/c
-  z : non-negative-real
-procedure
-(eqv? x y) -> boolean?
-  x : any/c
-  y : any/c
-procedure
-(error x ...) -> void?
-  x : any/c
-procedure
-(exit) -> void
-procedure
-(identity x) -> any
-  x : any/c
-procedure
-(struct? x) -> boolean?
-  x : any/c
-value
-empty : empty?
-value
-true : boolean?
-value
-false : boolean?
-syntax
-..
-syntax
-...
-syntax
-....
-syntax
-.....
-syntax
-......
-syntax
-(local [definition ...] expression)
-syntax
-(letrec ([name expr-for-let] ...) expression)
-syntax
-(let* ([name expr-for-let] ...) expression)
-syntax
-(let ([name expr-for-let] ...) expression)
-syntax
-(time expression)
-syntax
-’name
-syntax
-’part
-syntax
-(quote name)
-syntax
-(quote part)
-syntax
-‘name
-syntax
-‘part
-syntax
-(quasiquote name)
-syntax
-(quasiquote part)
-syntax
-,expression
-syntax
-(unquote expression)
-syntax
-,@expression
-syntax
-(unquote-splicing expression)
-syntax
-(define (name variable variable ...) expression)
-syntax
-(define name expression)
-syntax
-(define name (lambda (variable variable ...) expression))
-syntax
-(define-struct structure-name (field-name ...))
-syntax
-(name expression expression ...)
-syntax
-(cond [question-expression answer-expression] ...)
-(cond [question-expression answer-expression]
-      ...
-      [else answer-expression])
-syntax
-(if test-expression then-expression else-expression)
-syntax
-(and expression expression expression ...)
-syntax
-(or expression expression expression ...)
-syntax
-(check-expect expression expected-expression)
-syntax
-(check-within expression expected-expression delta)
-syntax
-(check-error expression expected-error-message)
-(check-error expression)
-syntax
-(check-member-of expression expression expression ...)
-syntax
-(check-range expression low-expression high-expression)
-syntax
-(require string)
-syntax
-(require module-name)
-syntax
-(require (lib string string ...))
-syntax
-(require (planet string (string string number number)))
-syntax
-(require (planet id))
-syntax
-(require (planet string))
-procedure
-(- x y ...) -> number
-  x : number
-  y : number
-procedure
-(< x y z ...) -> boolean?
-  x : real
-  y : real
-  z : real
-procedure
-(<= x y z ...) -> boolean?
-  x : real
-  y : real
-  z : real
-procedure
-(= x y z ...) -> boolean?
-  x : number
-  y : number
-  z : number
-procedure
-(> x y z ...) -> boolean?
-  x : real
-  y : real
-  z : real
-procedure
-(>= x y z ...) -> boolean?
-  x : real
-  y : real
-  z : real
-procedure
-(abs x) -> real
-  x : real
-procedure
-(acos x) -> number
-  x : number
-procedure
-(add1 x) -> number
-  x : number
-procedure
-(angle x) -> real
-  x : number
-procedure
-(asin x) -> number
-  x : number
-procedure
-(atan x) -> number
-  x : number
-procedure
-(ceiling x) -> integer
-  x : real
-procedure
-(complex? x) -> boolean?
-  x : any/c
-procedure
-(conjugate x) -> number
-  x : number
-procedure
-(cos x) -> number
-  x : number
-procedure
-(cosh x) -> number
-  x : number
-procedure
-(current-seconds) -> integer
-procedure
-(denominator x) -> integer
-  x : rational?
-value
-e : real
-procedure
-(even? x) -> boolean?
-  x : integer
-procedure
-(exact->inexact x) -> number
-  x : number
-procedure
-(exact? x) -> boolean?
-  x : number
-procedure
-(exp x) -> number
-  x : number
-procedure
-(expt x y) -> number
-  x : number
-  y : number
-procedure
-(floor x) -> integer
-  x : real
-procedure
-(gcd x y ...) -> integer
-  x : integer
-  y : integer
-procedure
-(imag-part x) -> real
-  x : number
-procedure
-(inexact->exact x) -> number
-  x : number
-procedure
-(inexact? x) -> boolean?
-  x : number
-procedure
-(integer->char x) -> char
-  x : exact-integer?
-procedure
-(integer-sqrt x) -> integer
-  x : number
-procedure
-(integer? x) -> boolean?
-  x : any/c
-procedure
-(lcm x y ...) -> integer
-  x : integer
-  y : integer
-procedure
-(log x) -> number
-  x : number
-procedure
-(magnitude x) -> real
-  x : number
-procedure
-(make-polar x y) -> number
-  x : real
-  y : real
-procedure
-(make-rectangular x y) -> number
-  x : real
-  y : real
-procedure
-(max x y ...) -> real
-  x : real
-  y : real
-procedure
-(min x y ...) -> real
-  x : real
-  y : real
-procedure
-(modulo x y) -> integer
-  x : integer
-  y : integer
-procedure
-(negative? x) -> boolean?
-  x : number
-procedure
-(number->string x) -> string
-  x : number
-procedure
-(number? n) -> boolean?
-  n : any/c
-procedure
-(numerator x) -> integer
-  x : rational?
-procedure
-(odd? x) -> boolean?
-  x : integer
-value
-pi : real
-procedure
-(positive? x) -> boolean?
-  x : number
-procedure
-(quotient x y) -> integer
-  x : integer
-  y : integer
-procedure
-(random x) -> natural
-  x : natural
-procedure
-(rational? x) -> boolean?
-  x : any/c
-procedure
-(real-part x) -> real
-  x : number
-procedure
-(real? x) -> boolean?
-  x : any/c
-procedure
-(remainder x y) -> integer
-  x : integer
-  y : integer
-procedure
-(round x) -> integer
-  x : real
-procedure
-(sgn x) -> (union 1 1.0 0 0.0 -1 -1.0)
-  x : real
-procedure
-(sin x) -> number
-  x : number
-procedure
-(sinh x) -> number
-  x : number
-procedure
-(sqr x) -> number
-  x : number
-procedure
-(sqrt x) -> number
-  x : number
-procedure
-(sub1 x) -> number
-  x : number
-procedure
-(tan x) -> number
-  x : number
-procedure
-(zero? x) -> boolean?
-  x : number
-procedure
-(boolean=? x y) -> boolean?
-  x : boolean?
-  y : boolean?
-procedure
-(boolean? x) -> boolean?
-  x : any/c
-procedure
-(false? x) -> boolean?
-  x : any/c
-procedure
-(not x) -> boolean?
-  x : boolean?
-procedure
-(symbol->string x) -> string
-  x : symbol
-procedure
-(symbol=? x y) -> boolean?
-  x : symbol
-  y : symbol
-procedure
-(symbol? x) -> boolean?
-  x : any/c
-procedure
-(append l ...) -> (listof any)
+(assoc x l) -> (union (listof any) #false)
+  x : any
   l : (listof any)
 procedure
-(assq x l) -> (union false cons?)
+(assq x l) -> (union #false cons?)
   x : any/c
   l : list?
 procedure
@@ -1906,7 +433,7 @@ procedure
   x : any/c
   l : list?
 procedure
-(memv x l) -> (or/c false list)
+(memv x l) -> (or/c #false list)
   x : any/c
   l : list?
 value
@@ -1921,6 +448,10 @@ procedure
   step : number
 procedure
 (remove x l) -> list?
+  x : any/c
+  l : list?
+procedure
+(remove-all x l) -> list?
   x : any/c
   l : list?
 procedure
@@ -1945,8 +476,6 @@ procedure
 (make-posn x y) -> posn
   x : any/c
   y : any/c
-procedure
-(posn) -> signature
 procedure
 (posn-x p) -> any
   p : posn
@@ -2067,7 +596,7 @@ procedure
 (string->list s) -> (listof char)
   s : string
 procedure
-(string->number s) -> (union number false)
+(string->number s) -> (union number #false)
   s : string
 procedure
 (string->symbol s) -> symbol
@@ -2174,10 +703,1523 @@ procedure
 (image? x) -> boolean?
   x : any/c
 procedure
-(=~ x y z) -> boolean?
+(=~ x y eps) -> boolean?
   x : number
   y : number
+  eps : non-negative-real
+value
+eof : eof-object?
+procedure
+(eof-object? x) -> boolean?
+  x : any/c
+procedure
+(eq? x y) -> boolean?
+  x : any/c
+  y : any/c
+procedure
+(equal? x y) -> boolean?
+  x : any/c
+  y : any/c
+procedure
+(equal~? x y z) -> boolean?
+  x : any/c
+  y : any/c
   z : non-negative-real
+procedure
+(eqv? x y) -> boolean?
+  x : any/c
+  y : any/c
+procedure
+(error x ...) -> void?
+  x : any/c
+procedure
+(exit) -> void
+procedure
+(identity x) -> any
+  x : any/c
+procedure
+(struct? x) -> boolean?
+  x : any/c
+value
+empty : empty?
+value
+true : boolean?
+value
+false : boolean?
+syntax
+..
+syntax
+...
+syntax
+....
+syntax
+.....
+syntax
+......
+syntax
+’name
+syntax
+’part
+syntax
+(quote name)
+syntax
+(quote part)
+syntax
+‘name
+syntax
+‘part
+syntax
+(quasiquote name)
+syntax
+(quasiquote part)
+syntax
+,expression
+syntax
+(unquote expression)
+syntax
+,@expression
+syntax
+(unquote-splicing expression)
+syntax
+(define (name variable variable ...) expression)
+syntax
+(define name expression)
+syntax
+(define name (lambda (variable variable ...) expression))
+syntax
+(define-struct structure-name (field-name ...))
+syntax
+(name expression expression ...)
+syntax
+(cond [question-expression answer-expression] ...)
+(cond [question-expression answer-expression]
+      ...
+      [else answer-expression])
+syntax
+(if question-expression
+    then-answer-expression
+    else-answer-expression)
+syntax
+(and expression expression expression ...)
+syntax
+(or expression expression expression ...)
+syntax
+(check-expect expression expected-expression)
+syntax
+(check-random expression expected-expression)
+syntax
+(check-satisfied expression predicate)
+syntax
+(check-within expression expected-expression delta)
+syntax
+(check-error expression expected-error-message)
+(check-error expression)
+syntax
+(check-member-of expression expression expression ...)
+syntax
+(check-range expression low-expression high-expression)
+syntax
+(require string)
+syntax
+(require module-name)
+syntax
+(require (lib string string ...))
+syntax
+(require (planet string (string string number number)))
+syntax
+(require (planet id))
+syntax
+(require (planet string))
+procedure
+(* x y z ...) -> number
+  x : number
+  y : number
+  z : number
+procedure
+(+ x y z ...) -> number
+  x : number
+  y : number
+  z : number
+procedure
+(- x y ...) -> number
+  x : number
+  y : number
+procedure
+(/ x y z ...) -> number
+  x : number
+  y : number
+  z : number
+procedure
+(< x y z ...) -> boolean?
+  x : real
+  y : real
+  z : real
+procedure
+(<= x y z ...) -> boolean?
+  x : real
+  y : real
+  z : real
+procedure
+(= x y z ...) -> boolean?
+  x : number
+  y : number
+  z : number
+procedure
+(> x y z ...) -> boolean?
+  x : real
+  y : real
+  z : real
+procedure
+(>= x y z ...) -> boolean?
+  x : real
+  y : real
+  z : real
+procedure
+(abs x) -> real
+  x : real
+procedure
+(acos x) -> number
+  x : number
+procedure
+(add1 x) -> number
+  x : number
+procedure
+(angle x) -> real
+  x : number
+procedure
+(asin x) -> number
+  x : number
+procedure
+(atan x) -> number
+  x : number
+procedure
+(ceiling x) -> integer
+  x : real
+procedure
+(complex? x) -> boolean?
+  x : any/c
+procedure
+(conjugate x) -> number
+  x : number
+procedure
+(cos x) -> number
+  x : number
+procedure
+(cosh x) -> number
+  x : number
+procedure
+(current-seconds) -> integer
+procedure
+(denominator x) -> integer
+  x : rational?
+value
+e : real
+procedure
+(even? x) -> boolean?
+  x : integer
+procedure
+(exact->inexact x) -> number
+  x : number
+procedure
+(exact? x) -> boolean?
+  x : number
+procedure
+(exp x) -> number
+  x : number
+procedure
+(expt x y) -> number
+  x : number
+  y : number
+procedure
+(floor x) -> integer
+  x : real
+procedure
+(gcd x y ...) -> integer
+  x : integer
+  y : integer
+procedure
+(imag-part x) -> real
+  x : number
+procedure
+(inexact->exact x) -> number
+  x : number
+procedure
+(inexact? x) -> boolean?
+  x : number
+procedure
+(integer->char x) -> char
+  x : exact-integer?
+procedure
+(integer-sqrt x) -> complex
+  x : integer
+procedure
+(integer? x) -> boolean?
+  x : any/c
+procedure
+(lcm x y ...) -> integer
+  x : integer
+  y : integer
+procedure
+(log x) -> number
+  x : number
+procedure
+(magnitude x) -> real
+  x : number
+procedure
+(make-polar x y) -> number
+  x : real
+  y : real
+procedure
+(make-rectangular x y) -> number
+  x : real
+  y : real
+procedure
+(max x y ...) -> real
+  x : real
+  y : real
+procedure
+(min x y ...) -> real
+  x : real
+  y : real
+procedure
+(modulo x y) -> integer
+  x : integer
+  y : integer
+procedure
+(negative? x) -> boolean?
+  x : real
+procedure
+(number->string x) -> string
+  x : number
+procedure
+(number? n) -> boolean?
+  n : any/c
+procedure
+(numerator x) -> integer
+  x : rational?
+procedure
+(odd? x) -> boolean?
+  x : integer
+value
+pi : real
+procedure
+(positive? x) -> boolean?
+  x : real
+procedure
+(quotient x y) -> integer
+  x : integer
+  y : integer
+procedure
+(random x) -> natural
+  x : natural
+procedure
+(rational? x) -> boolean?
+  x : any/c
+procedure
+(real-part x) -> real
+  x : number
+procedure
+(real? x) -> boolean?
+  x : any/c
+procedure
+(remainder x y) -> integer
+  x : integer
+  y : integer
+procedure
+(round x) -> integer
+  x : real
+procedure
+(sgn x) -> (union 1 #i1.0 0 #i0.0 -1 #i-1.0)
+  x : real
+procedure
+(sin x) -> number
+  x : number
+procedure
+(sinh x) -> number
+  x : number
+procedure
+(sqr x) -> number
+  x : number
+procedure
+(sqrt x) -> number
+  x : number
+procedure
+(sub1 x) -> number
+  x : number
+procedure
+(tan x) -> number
+  x : number
+procedure
+(zero? x) -> boolean?
+  x : number
+procedure
+(boolean=? x y) -> boolean?
+  x : boolean?
+  y : boolean?
+procedure
+(boolean? x) -> boolean?
+  x : any/c
+procedure
+(false? x) -> boolean?
+  x : any/c
+procedure
+(not x) -> boolean?
+  x : boolean?
+procedure
+(symbol->string x) -> string
+  x : symbol
+procedure
+(symbol=? x y) -> boolean?
+  x : symbol
+  y : symbol
+procedure
+(symbol? x) -> boolean?
+  x : any/c
+procedure
+(append x y z ...) -> list?
+  x : list?
+  y : list?
+  z : list?
+procedure
+(assoc x l) -> (union (listof any) #false)
+  x : any
+  l : (listof any)
+procedure
+(assq x l) -> (union #false cons?)
+  x : any/c
+  l : list?
+procedure
+(caaar x) -> any/c
+  x : list?
+procedure
+(caadr x) -> any/c
+  x : list?
+procedure
+(caar x) -> any/c
+  x : list?
+procedure
+(cadar x) -> any/c
+  x : list?
+procedure
+(cadddr x) -> any/c
+  x : list?
+procedure
+(caddr x) -> any/c
+  x : list?
+procedure
+(cadr x) -> any/c
+  x : list?
+procedure
+(car x) -> any/c
+  x : cons?
+procedure
+(cdaar x) -> any/c
+  x : list?
+procedure
+(cdadr x) -> any/c
+  x : list?
+procedure
+(cdar x) -> list?
+  x : list?
+procedure
+(cddar x) -> any/c
+  x : list?
+procedure
+(cdddr x) -> any/c
+  x : list?
+procedure
+(cddr x) -> list?
+  x : list?
+procedure
+(cdr x) -> any/c
+  x : cons?
+procedure
+(cons x y) -> list?
+  x : any/x
+  y : list?
+procedure
+(cons? x) -> boolean?
+  x : any/c
+procedure
+(eighth x) -> any/c
+  x : list?
+procedure
+(empty? x) -> boolean?
+  x : any/c
+procedure
+(fifth x) -> any/c
+  x : list?
+procedure
+(first x) -> any/c
+  x : cons?
+procedure
+(fourth x) -> any/c
+  x : list?
+procedure
+(length l) -> natural-number?
+  l : list?
+procedure
+(list x ...) -> list?
+  x : any/c
+procedure
+(list* x ... l) -> list?
+  x : any/c
+  l : list?
+procedure
+(list-ref x i) -> any/c
+  x : list?
+  i : natural?
+procedure
+(list? x) -> boolean?
+  x : any
+procedure
+(make-list i x) -> list?
+  i : natural-number
+  x : any/c
+procedure
+(member x l) -> boolean?
+  x : any/c
+  l : list?
+procedure
+(member? x l) -> boolean?
+  x : any/c
+  l : list?
+procedure
+(memq x l) -> boolean?
+  x : any/c
+  l : list?
+procedure
+(memq? x l) -> boolean?
+  x : any/c
+  l : list?
+procedure
+(memv x l) -> (or/c #false list)
+  x : any/c
+  l : list?
+value
+null : list
+procedure
+(null? x) -> boolean?
+  x : any/c
+procedure
+(range start end step) -> list?
+  start : number
+  end : number
+  step : number
+procedure
+(remove x l) -> list?
+  x : any/c
+  l : list?
+procedure
+(remove-all x l) -> list?
+  x : any/c
+  l : list?
+procedure
+(rest x) -> any/c
+  x : cons?
+procedure
+(reverse l) -> list
+  l : list?
+procedure
+(second x) -> any/c
+  x : list?
+procedure
+(seventh x) -> any/c
+  x : list?
+procedure
+(sixth x) -> any/c
+  x : list?
+procedure
+(third x) -> any/c
+  x : list?
+procedure
+(make-posn x y) -> posn
+  x : any/c
+  y : any/c
+procedure
+(posn-x p) -> any
+  p : posn
+procedure
+(posn-y p) -> any
+  p : posn
+procedure
+(posn? x) -> boolean?
+  x : any/c
+procedure
+(char->integer c) -> integer
+  c : char
+procedure
+(char-alphabetic? c) -> boolean?
+  c : char
+procedure
+(char-ci<=? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char-ci<? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char-ci=? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char-ci>=? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char-ci>? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char-downcase c) -> char
+  c : char
+procedure
+(char-lower-case? c) -> boolean?
+  c : char
+procedure
+(char-numeric? c) -> boolean?
+  c : char
+procedure
+(char-upcase c) -> char
+  c : char
+procedure
+(char-upper-case? c) -> boolean?
+  c : char
+procedure
+(char-whitespace? c) -> boolean?
+  c : char
+procedure
+(char<=? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char<? x d e ...) -> boolean?
+  x : char
+  d : char
+  e : char
+procedure
+(char=? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char>=? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char>? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char? x) -> boolean?
+  x : any/c
+procedure
+(explode s) -> (listof string)
+  s : string
+procedure
+(format f x ...) -> string
+  f : string
+  x : any/c
+procedure
+(implode l) -> string
+  l : list?
+procedure
+(int->string i) -> string
+  i : integer
+procedure
+(list->string l) -> string
+  l : list?
+procedure
+(make-string i c) -> string
+  i : natural-number
+  c : char
+procedure
+(replicate i s) -> string
+  i : natural-number
+  s : string
+procedure
+(string c ...) -> string?
+  c : char
+procedure
+(string->int s) -> integer
+  s : string
+procedure
+(string->list s) -> (listof char)
+  s : string
+procedure
+(string->number s) -> (union number #false)
+  s : string
+procedure
+(string->symbol s) -> symbol
+  s : string
+procedure
+(string-alphabetic? s) -> boolean?
+  s : string
+procedure
+(string-append s ...) -> string
+  s : string
+procedure
+(string-ci<=? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string-ci<? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string-ci=? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string-ci>=? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string-ci>? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string-contains? s t) -> boolean?
+  s : string
+  t : string
+procedure
+(string-copy s) -> string
+  s : string
+procedure
+(string-ith s i) -> 1string?
+  s : string
+  i : natural-number
+procedure
+(string-length s) -> nat
+  s : string
+procedure
+(string-lower-case? s) -> boolean?
+  s : string
+procedure
+(string-numeric? s) -> boolean?
+  s : string
+procedure
+(string-ref s i) -> char
+  s : string
+  i : natural-number
+procedure
+(string-upper-case? s) -> boolean?
+  s : string
+procedure
+(string-whitespace? s) -> boolean?
+  s : string
+procedure
+(string<=? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string<? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string=? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string>=? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string>? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string? x) -> boolean?
+  x : any/c
+procedure
+(substring s i j) -> string
+  s : string
+  i : natural-number
+  j : natural-number
+procedure
+(image=? i j) -> boolean?
+  i : image
+  j : image
+procedure
+(image? x) -> boolean?
+  x : any/c
+procedure
+(=~ x y eps) -> boolean?
+  x : number
+  y : number
+  eps : non-negative-real
+value
+eof : eof-object?
+procedure
+(eof-object? x) -> boolean?
+  x : any/c
+procedure
+(eq? x y) -> boolean?
+  x : any/c
+  y : any/c
+procedure
+(equal? x y) -> boolean?
+  x : any/c
+  y : any/c
+procedure
+(equal~? x y z) -> boolean?
+  x : any/c
+  y : any/c
+  z : non-negative-real
+procedure
+(eqv? x y) -> boolean?
+  x : any/c
+  y : any/c
+procedure
+(error x ...) -> void?
+  x : any/c
+procedure
+(exit) -> void
+procedure
+(identity x) -> any
+  x : any/c
+procedure
+(struct? x) -> boolean?
+  x : any/c
+value
+empty : empty?
+value
+true : boolean?
+value
+false : boolean?
+syntax
+..
+syntax
+...
+syntax
+....
+syntax
+.....
+syntax
+......
+syntax
+(local [definition ...] expression)
+syntax
+(letrec ([name expr-for-let] ...) expression)
+syntax
+(let* ([name expr-for-let] ...) expression)
+syntax
+(let ([name expr-for-let] ...) expression)
+syntax
+(time expression)
+syntax
+’name
+syntax
+’part
+syntax
+(quote name)
+syntax
+(quote part)
+syntax
+‘name
+syntax
+‘part
+syntax
+(quasiquote name)
+syntax
+(quasiquote part)
+syntax
+,expression
+syntax
+(unquote expression)
+syntax
+,@expression
+syntax
+(unquote-splicing expression)
+syntax
+(define (name variable variable ...) expression)
+syntax
+(define name expression)
+syntax
+(define name (lambda (variable variable ...) expression))
+syntax
+(define-struct structure-name (field-name ...))
+syntax
+(name expression expression ...)
+syntax
+(cond [question-expression answer-expression] ...)
+(cond [question-expression answer-expression]
+      ...
+      [else answer-expression])
+syntax
+(if question-expression
+    then-answer-expression
+    else-answer-expression)
+syntax
+(and expression expression expression ...)
+syntax
+(or expression expression expression ...)
+syntax
+(check-expect expression expected-expression)
+syntax
+(check-random expression expected-expression)
+syntax
+(check-satisfied expression predicate)
+syntax
+(check-within expression expected-expression delta)
+syntax
+(check-error expression expected-error-message)
+(check-error expression)
+syntax
+(check-member-of expression expression expression ...)
+syntax
+(check-range expression low-expression high-expression)
+syntax
+(require string)
+syntax
+(require module-name)
+syntax
+(require (lib string string ...))
+syntax
+(require (planet string (string string number number)))
+syntax
+(require (planet id))
+syntax
+(require (planet string))
+procedure
+(- x y ...) -> number
+  x : number
+  y : number
+procedure
+(< x y z ...) -> boolean?
+  x : real
+  y : real
+  z : real
+procedure
+(<= x y z ...) -> boolean?
+  x : real
+  y : real
+  z : real
+procedure
+(= x y z ...) -> boolean?
+  x : number
+  y : number
+  z : number
+procedure
+(> x y z ...) -> boolean?
+  x : real
+  y : real
+  z : real
+procedure
+(>= x y z ...) -> boolean?
+  x : real
+  y : real
+  z : real
+procedure
+(abs x) -> real
+  x : real
+procedure
+(acos x) -> number
+  x : number
+procedure
+(add1 x) -> number
+  x : number
+procedure
+(angle x) -> real
+  x : number
+procedure
+(asin x) -> number
+  x : number
+procedure
+(atan x) -> number
+  x : number
+procedure
+(ceiling x) -> integer
+  x : real
+procedure
+(complex? x) -> boolean?
+  x : any/c
+procedure
+(conjugate x) -> number
+  x : number
+procedure
+(cos x) -> number
+  x : number
+procedure
+(cosh x) -> number
+  x : number
+procedure
+(current-seconds) -> integer
+procedure
+(denominator x) -> integer
+  x : rational?
+value
+e : real
+procedure
+(even? x) -> boolean?
+  x : integer
+procedure
+(exact->inexact x) -> number
+  x : number
+procedure
+(exact? x) -> boolean?
+  x : number
+procedure
+(exp x) -> number
+  x : number
+procedure
+(expt x y) -> number
+  x : number
+  y : number
+procedure
+(floor x) -> integer
+  x : real
+procedure
+(gcd x y ...) -> integer
+  x : integer
+  y : integer
+procedure
+(imag-part x) -> real
+  x : number
+procedure
+(inexact->exact x) -> number
+  x : number
+procedure
+(inexact? x) -> boolean?
+  x : number
+procedure
+(integer->char x) -> char
+  x : exact-integer?
+procedure
+(integer-sqrt x) -> complex
+  x : integer
+procedure
+(integer? x) -> boolean?
+  x : any/c
+procedure
+(lcm x y ...) -> integer
+  x : integer
+  y : integer
+procedure
+(log x) -> number
+  x : number
+procedure
+(magnitude x) -> real
+  x : number
+procedure
+(make-polar x y) -> number
+  x : real
+  y : real
+procedure
+(make-rectangular x y) -> number
+  x : real
+  y : real
+procedure
+(max x y ...) -> real
+  x : real
+  y : real
+procedure
+(min x y ...) -> real
+  x : real
+  y : real
+procedure
+(modulo x y) -> integer
+  x : integer
+  y : integer
+procedure
+(negative? x) -> boolean?
+  x : real
+procedure
+(number->string x) -> string
+  x : number
+procedure
+(number? n) -> boolean?
+  n : any/c
+procedure
+(numerator x) -> integer
+  x : rational?
+procedure
+(odd? x) -> boolean?
+  x : integer
+value
+pi : real
+procedure
+(positive? x) -> boolean?
+  x : real
+procedure
+(quotient x y) -> integer
+  x : integer
+  y : integer
+procedure
+(random x) -> natural
+  x : natural
+procedure
+(rational? x) -> boolean?
+  x : any/c
+procedure
+(real-part x) -> real
+  x : number
+procedure
+(real? x) -> boolean?
+  x : any/c
+procedure
+(remainder x y) -> integer
+  x : integer
+  y : integer
+procedure
+(round x) -> integer
+  x : real
+procedure
+(sgn x) -> (union 1 #i1.0 0 #i0.0 -1 #i-1.0)
+  x : real
+procedure
+(sin x) -> number
+  x : number
+procedure
+(sinh x) -> number
+  x : number
+procedure
+(sqr x) -> number
+  x : number
+procedure
+(sqrt x) -> number
+  x : number
+procedure
+(sub1 x) -> number
+  x : number
+procedure
+(tan x) -> number
+  x : number
+procedure
+(zero? x) -> boolean?
+  x : number
+procedure
+(boolean=? x y) -> boolean?
+  x : boolean?
+  y : boolean?
+procedure
+(boolean? x) -> boolean?
+  x : any/c
+procedure
+(false? x) -> boolean?
+  x : any/c
+procedure
+(not x) -> boolean?
+  x : boolean?
+procedure
+(symbol->string x) -> string
+  x : symbol
+procedure
+(symbol=? x y) -> boolean?
+  x : symbol
+  y : symbol
+procedure
+(symbol? x) -> boolean?
+  x : any/c
+procedure
+(append l ...) -> (listof any)
+  l : (listof any)
+procedure
+(assoc x l) -> (union (listof any) #false)
+  x : any
+  l : (listof any)
+procedure
+(assq x l) -> (union #false cons?)
+  x : any/c
+  l : list?
+procedure
+(caaar x) -> any/c
+  x : list?
+procedure
+(caadr x) -> any/c
+  x : list?
+procedure
+(caar x) -> any/c
+  x : list?
+procedure
+(cadar x) -> any/c
+  x : list?
+procedure
+(cadddr x) -> any/c
+  x : list?
+procedure
+(caddr x) -> any/c
+  x : list?
+procedure
+(cadr x) -> any/c
+  x : list?
+procedure
+(car x) -> any/c
+  x : cons?
+procedure
+(cdaar x) -> any/c
+  x : list?
+procedure
+(cdadr x) -> any/c
+  x : list?
+procedure
+(cdar x) -> list?
+  x : list?
+procedure
+(cddar x) -> any/c
+  x : list?
+procedure
+(cdddr x) -> any/c
+  x : list?
+procedure
+(cddr x) -> list?
+  x : list?
+procedure
+(cdr x) -> any/c
+  x : cons?
+procedure
+(cons x y) -> list?
+  x : any/x
+  y : list?
+procedure
+(cons? x) -> boolean?
+  x : any/c
+procedure
+(eighth x) -> any/c
+  x : list?
+procedure
+(empty? x) -> boolean?
+  x : any/c
+procedure
+(fifth x) -> any/c
+  x : list?
+procedure
+(first x) -> any/c
+  x : cons?
+procedure
+(fourth x) -> any/c
+  x : list?
+procedure
+(length l) -> natural-number?
+  l : list?
+procedure
+(list x ...) -> list?
+  x : any/c
+procedure
+(list* x ... l) -> list?
+  x : any/c
+  l : list?
+procedure
+(list-ref x i) -> any/c
+  x : list?
+  i : natural?
+procedure
+(list? x) -> boolean?
+  x : any
+procedure
+(make-list i x) -> list?
+  i : natural-number
+  x : any/c
+procedure
+(member x l) -> boolean?
+  x : any/c
+  l : list?
+procedure
+(member? x l) -> boolean?
+  x : any/c
+  l : list?
+procedure
+(memq x l) -> boolean?
+  x : any/c
+  l : list?
+procedure
+(memq? x l) -> boolean?
+  x : any/c
+  l : list?
+procedure
+(memv x l) -> (or/c #false list)
+  x : any/c
+  l : list?
+value
+null : list
+procedure
+(null? x) -> boolean?
+  x : any/c
+procedure
+(range start end step) -> list?
+  start : number
+  end : number
+  step : number
+procedure
+(remove x l) -> list?
+  x : any/c
+  l : list?
+procedure
+(remove-all x l) -> list?
+  x : any/c
+  l : list?
+procedure
+(rest x) -> any/c
+  x : cons?
+procedure
+(reverse l) -> list
+  l : list?
+procedure
+(second x) -> any/c
+  x : list?
+procedure
+(seventh x) -> any/c
+  x : list?
+procedure
+(sixth x) -> any/c
+  x : list?
+procedure
+(third x) -> any/c
+  x : list?
+procedure
+(make-posn x y) -> posn
+  x : any/c
+  y : any/c
+procedure
+(posn-x p) -> any
+  p : posn
+procedure
+(posn-y p) -> any
+  p : posn
+procedure
+(posn? x) -> boolean?
+  x : any/c
+procedure
+(char->integer c) -> integer
+  c : char
+procedure
+(char-alphabetic? c) -> boolean?
+  c : char
+procedure
+(char-ci<=? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char-ci<? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char-ci=? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char-ci>=? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char-ci>? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char-downcase c) -> char
+  c : char
+procedure
+(char-lower-case? c) -> boolean?
+  c : char
+procedure
+(char-numeric? c) -> boolean?
+  c : char
+procedure
+(char-upcase c) -> char
+  c : char
+procedure
+(char-upper-case? c) -> boolean?
+  c : char
+procedure
+(char-whitespace? c) -> boolean?
+  c : char
+procedure
+(char<=? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char<? x d e ...) -> boolean?
+  x : char
+  d : char
+  e : char
+procedure
+(char=? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char>=? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char>? c d e ...) -> boolean?
+  c : char
+  d : char
+  e : char
+procedure
+(char? x) -> boolean?
+  x : any/c
+procedure
+(explode s) -> (listof string)
+  s : string
+procedure
+(format f x ...) -> string
+  f : string
+  x : any/c
+procedure
+(implode l) -> string
+  l : list?
+procedure
+(int->string i) -> string
+  i : integer
+procedure
+(list->string l) -> string
+  l : list?
+procedure
+(make-string i c) -> string
+  i : natural-number
+  c : char
+procedure
+(replicate i s) -> string
+  i : natural-number
+  s : string
+procedure
+(string c ...) -> string?
+  c : char
+procedure
+(string->int s) -> integer
+  s : string
+procedure
+(string->list s) -> (listof char)
+  s : string
+procedure
+(string->number s) -> (union number #false)
+  s : string
+procedure
+(string->symbol s) -> symbol
+  s : string
+procedure
+(string-alphabetic? s) -> boolean?
+  s : string
+procedure
+(string-append s ...) -> string
+  s : string
+procedure
+(string-ci<=? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string-ci<? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string-ci=? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string-ci>=? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string-ci>? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string-contains? s t) -> boolean?
+  s : string
+  t : string
+procedure
+(string-copy s) -> string
+  s : string
+procedure
+(string-ith s i) -> 1string?
+  s : string
+  i : natural-number
+procedure
+(string-length s) -> nat
+  s : string
+procedure
+(string-lower-case? s) -> boolean?
+  s : string
+procedure
+(string-numeric? s) -> boolean?
+  s : string
+procedure
+(string-ref s i) -> char
+  s : string
+  i : natural-number
+procedure
+(string-upper-case? s) -> boolean?
+  s : string
+procedure
+(string-whitespace? s) -> boolean?
+  s : string
+procedure
+(string<=? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string<? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string=? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string>=? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string>? s t x ...) -> boolean?
+  s : string
+  t : string
+  x : string
+procedure
+(string? x) -> boolean?
+  x : any/c
+procedure
+(substring s i j) -> string
+  s : string
+  i : natural-number
+  j : natural-number
+procedure
+(image=? i j) -> boolean?
+  i : image
+  j : image
+procedure
+(image? x) -> boolean?
+  x : any/c
+procedure
+(=~ x y eps) -> boolean?
+  x : number
+  y : number
+  eps : non-negative-real
 value
 eof : eof-object?
 procedure
@@ -2222,9 +2264,11 @@ procedure
   x : number
   y : number
 procedure
-(andmap p? l) -> boolean
-  p? : (X -> boolean)
-  l : (listof X)
+(posn) -> signature
+procedure
+(andmap p? [l]) -> boolean
+  p? : (X ... -> boolean)
+  l : (listof X) = ...
 procedure
 (apply f x-1 ... l) -> Y
   f : (X-1 ... X-N -> Y)
@@ -2255,13 +2299,13 @@ procedure
   p? : (X -> boolean)
   l : (listof X)
 procedure
-(foldl f base l) -> Y
-  f : (X Y -> Y)
+(foldl f base l ...) -> Y
+  f : (X ... Y -> Y)
   base : Y
   l : (listof X)
 procedure
-(foldr f base l) -> Y
-  f : (X Y -> Y)
+(foldr f base l ...) -> Y
+  f : (X ... Y -> Y)
   base : Y
   l : (listof X)
 procedure
@@ -2273,7 +2317,7 @@ procedure
   f : (X ... -> Z)
   l : (listof X)
 procedure
-(memf p? l) -> (union false (listof X))
+(memf p? l) -> (union #false (listof X))
   p? : (X -> any)
   l : (listof X)
 procedure
@@ -2359,13 +2403,19 @@ syntax
       ...
       [else answer-expression])
 syntax
-(if test-expression then-expression else-expression)
+(if question-expression
+    then-answer-expression
+    else-answer-expression)
 syntax
 (and expression expression expression ...)
 syntax
 (or expression expression expression ...)
 syntax
 (check-expect expression expected-expression)
+syntax
+(check-random expression expected-expression)
+syntax
+(check-satisfied expression predicate)
 syntax
 (check-within expression expected-expression delta)
 syntax
@@ -2492,8 +2542,8 @@ procedure
 (integer->char x) -> char
   x : exact-integer?
 procedure
-(integer-sqrt x) -> integer
-  x : number
+(integer-sqrt x) -> complex
+  x : integer
 procedure
 (integer? x) -> boolean?
   x : any/c
@@ -2529,7 +2579,7 @@ procedure
   y : integer
 procedure
 (negative? x) -> boolean?
-  x : number
+  x : real
 procedure
 (number->string x) -> string
   x : number
@@ -2546,7 +2596,7 @@ value
 pi : real
 procedure
 (positive? x) -> boolean?
-  x : number
+  x : real
 procedure
 (quotient x y) -> integer
   x : integer
@@ -2571,7 +2621,7 @@ procedure
 (round x) -> integer
   x : real
 procedure
-(sgn x) -> (union 1 1.0 0 0.0 -1 -1.0)
+(sgn x) -> (union 1 #i1.0 0 #i0.0 -1 #i-1.0)
   x : real
 procedure
 (sin x) -> number
@@ -2621,7 +2671,11 @@ procedure
 (append l ...) -> (listof any)
   l : (listof any)
 procedure
-(assq x l) -> (union false cons?)
+(assoc x l) -> (union (listof any) #false)
+  x : any
+  l : (listof any)
+procedure
+(assq x l) -> (union #false cons?)
   x : any/c
   l : list?
 procedure
@@ -2729,7 +2783,7 @@ procedure
   x : any/c
   l : list?
 procedure
-(memv x l) -> (or/c false list)
+(memv x l) -> (or/c #false list)
   x : any/c
   l : list?
 value
@@ -2744,6 +2798,10 @@ procedure
   step : number
 procedure
 (remove x l) -> list?
+  x : any/c
+  l : list?
+procedure
+(remove-all x l) -> list?
   x : any/c
   l : list?
 procedure
@@ -2768,8 +2826,6 @@ procedure
 (make-posn x y) -> posn
   x : any/c
   y : any/c
-procedure
-(posn) -> signature
 procedure
 (posn-x p) -> any
   p : posn
@@ -2890,7 +2946,7 @@ procedure
 (string->list s) -> (listof char)
   s : string
 procedure
-(string->number s) -> (union number false)
+(string->number s) -> (union number #false)
   s : string
 procedure
 (string->symbol s) -> symbol
@@ -2997,10 +3053,10 @@ procedure
 (image? x) -> boolean?
   x : any/c
 procedure
-(=~ x y z) -> boolean?
+(=~ x y eps) -> boolean?
   x : number
   y : number
-  z : non-negative-real
+  eps : non-negative-real
 value
 eof : eof-object?
 procedure
@@ -3045,9 +3101,11 @@ procedure
   x : number
   y : number
 procedure
-(andmap p? l) -> boolean
-  p? : (X -> boolean)
-  l : (listof X)
+(posn) -> signature
+procedure
+(andmap p? [l]) -> boolean
+  p? : (X ... -> boolean)
+  l : (listof X) = ...
 procedure
 (apply f x-1 ... l) -> Y
   f : (X-1 ... X-N -> Y)
@@ -3078,13 +3136,13 @@ procedure
   p? : (X -> boolean)
   l : (listof X)
 procedure
-(foldl f base l) -> Y
-  f : (X Y -> Y)
+(foldl f base l ...) -> Y
+  f : (X ... Y -> Y)
   base : Y
   l : (listof X)
 procedure
-(foldr f base l) -> Y
-  f : (X Y -> Y)
+(foldr f base l ...) -> Y
+  f : (X ... Y -> Y)
   base : Y
   l : (listof X)
 procedure
@@ -3096,7 +3154,7 @@ procedure
   f : (X ... -> Z)
   l : (listof X)
 procedure
-(memf p? l) -> (union false (listof X))
+(memf p? l) -> (union #false (listof X))
   p? : (X -> any)
   l : (listof X)
 procedure
@@ -3159,9 +3217,9 @@ syntax
 syntax
 (match expression [pattern expression] ...)
 syntax
-(when test-expression body-expression)
+(when question-expression body-expression)
 syntax
-(unless test-expression body-expression)
+(unless question-expression body-expression)
 syntax
 (local [definition ...] expression)
 syntax
@@ -3184,13 +3242,19 @@ syntax
       ...
       [else answer-expression])
 syntax
-(if test-expression then-expression else-expression)
+(if question-expression
+    then-answer-expression
+    else-answer-expression)
 syntax
 (and expression expression expression ...)
 syntax
 (or expression expression expression ...)
 syntax
 (check-expect expression expected-expression)
+syntax
+(check-random expression expected-expression)
+syntax
+(check-satisfied expression predicate)
 syntax
 (check-within expression expected-expression delta)
 syntax
@@ -3317,8 +3381,8 @@ procedure
 (integer->char x) -> char
   x : exact-integer?
 procedure
-(integer-sqrt x) -> integer
-  x : number
+(integer-sqrt x) -> complex
+  x : integer
 procedure
 (integer? x) -> boolean?
   x : any/c
@@ -3354,7 +3418,7 @@ procedure
   y : integer
 procedure
 (negative? x) -> boolean?
-  x : number
+  x : real
 procedure
 (number->string x) -> string
   x : number
@@ -3371,7 +3435,7 @@ value
 pi : real
 procedure
 (positive? x) -> boolean?
-  x : number
+  x : real
 procedure
 (quotient x y) -> integer
   x : integer
@@ -3396,7 +3460,7 @@ procedure
 (round x) -> integer
   x : real
 procedure
-(sgn x) -> (union 1 1.0 0 0.0 -1 -1.0)
+(sgn x) -> (union 1 #i1.0 0 #i0.0 -1 #i-1.0)
   x : real
 procedure
 (sin x) -> number
@@ -3446,11 +3510,11 @@ procedure
 (append l ...) -> (listof any)
   l : (listof any)
 procedure
-(assoc x l) -> (union (listof any) false)
+(assoc x l) -> (union (listof any) #false)
   x : any
   l : (listof any)
 procedure
-(assq x l) -> (union false cons?)
+(assq x l) -> (union #false cons?)
   x : any/c
   l : list?
 procedure
@@ -3558,7 +3622,7 @@ procedure
   x : any/c
   l : list?
 procedure
-(memv x l) -> (or/c false list)
+(memv x l) -> (or/c #false list)
   x : any/c
   l : list?
 value
@@ -3573,6 +3637,10 @@ procedure
   step : number
 procedure
 (remove x l) -> list?
+  x : any/c
+  l : list?
+procedure
+(remove-all x l) -> list?
   x : any/c
   l : list?
 procedure
@@ -3597,8 +3665,6 @@ procedure
 (make-posn x y) -> posn
   x : any/c
   y : any/c
-procedure
-(posn) -> signature
 procedure
 (posn-x p) -> any
   p : posn
@@ -3727,7 +3793,7 @@ procedure
 (string->list s) -> (listof char)
   s : string
 procedure
-(string->number s) -> (union number false)
+(string->number s) -> (union number #false)
   s : string
 procedure
 (string->symbol s) -> symbol
@@ -3834,10 +3900,10 @@ procedure
 (image? x) -> boolean?
   x : any/c
 procedure
-(=~ x y z) -> boolean?
+(=~ x y eps) -> boolean?
   x : number
   y : number
-  z : non-negative-real
+  eps : non-negative-real
 procedure
 (current-milliseconds) -> exact-integer
 value
@@ -3900,9 +3966,11 @@ procedure
   x : number
   y : number
 procedure
-(andmap p? l) -> boolean
-  p? : (X -> boolean)
-  l : (listof X)
+(posn) -> signature
+procedure
+(andmap p? [l]) -> boolean
+  p? : (X ... -> boolean)
+  l : (listof X) = ...
 procedure
 (apply f x-1 ... l) -> Y
   f : (X-1 ... X-N -> Y)
@@ -3933,13 +4001,13 @@ procedure
   p? : (X -> boolean)
   l : (listof X)
 procedure
-(foldl f base l) -> Y
-  f : (X Y -> Y)
+(foldl f base l ...) -> Y
+  f : (X ... Y -> Y)
   base : Y
   l : (listof X)
 procedure
-(foldr f base l) -> Y
-  f : (X Y -> Y)
+(foldr f base l ...) -> Y
+  f : (X ... Y -> Y)
   base : Y
   l : (listof X)
 procedure
@@ -3951,7 +4019,7 @@ procedure
   f : (X ... -> Z)
   l : (listof X)
 procedure
-(memf p? l) -> (union false (listof X))
+(memf p? l) -> (union #false (listof X))
   p? : (X -> any)
   l : (listof X)
 procedure

@@ -1,5 +1,5 @@
-1228
-((3) 0 () 0 () () (h ! (equal) ((c xrepl c (u . "pwd")) q (190 . 3)) ((c xrepl c (u . "toplevel")) q (1001 . 4)) ((c xrepl c (u . "profile")) q (1476 . 4)) ((c xrepl c (u . "drracket")) q (404 . 4)) ((c xrepl c (u . "errortrace")) q (1386 . 4)) ((c xrepl c (u . "execution-counts")) q (1552 . 3)) ((c xrepl c (u . "help")) q (0 . 4)) ((c xrepl c (u . "doc")) q (674 . 3)) ((c xrepl c (u . "exit")) q (78 . 4)) ((c xrepl c (u . "shell")) q (232 . 4)) ((c xrepl c (u . "coverage")) q (1604 . 4)) ((c xrepl c (u . "load")) q (1063 . 4)) ((c xrepl c (u . "cd")) q (142 . 3)) ((c xrepl c (u . "backtrace")) q (1122 . 4)) ((c xrepl c (u . "syntax")) q (1800 . 4)) ((c xrepl c (u . "untrace")) q (1315 . 4)) ((c xrepl c (u . "time")) q (1198 . 3)) ((c xrepl c (u . "describe")) q (558 . 4)) ((c xrepl c (u . "log")) q (1995 . 3)) ((c xrepl c (u . "switch-namespace")) q (1685 . 4)) ((c xrepl c (u . "trace")) q (1250 . 4)) ((c xrepl c (u . "require")) q (727 . 4)) ((c xrepl c (u . "check-requires")) q (1906 . 4)) ((c xrepl c (u . "require-reloadable")) q (803 . 4)) ((c xrepl c (u . "enter")) q (905 . 4)) ((c xrepl c (u . "install!")) q (2033 . 3)) ((c xrepl c (u . "edit")) q (335 . 4)) ((c xrepl c (u . "apropos")) q (487 . 4))))
+1293
+((3) 0 () 0 () () (h ! (equal) ((c xrepl c (u . "drracket")) q (404 . 4)) ((c xrepl c (u . "doc")) q (674 . 3)) ((c xrepl c (u . "require")) q (727 . 4)) ((q def ((lib "xrepl/xrepl.rkt") toplevel-prefix)) q (2091 . 5)) ((c xrepl c (u . "errortrace")) q (1386 . 4)) ((c xrepl c (u . "log")) q (1995 . 3)) ((c xrepl c (u . "exit")) q (78 . 4)) ((c xrepl c (u . "syntax")) q (1800 . 4)) ((c xrepl c (u . "untrace")) q (1315 . 4)) ((c xrepl c (u . "toplevel")) q (1001 . 4)) ((c xrepl c (u . "profile")) q (1476 . 4)) ((c xrepl c (u . "execution-counts")) q (1552 . 3)) ((c xrepl c (u . "describe")) q (558 . 4)) ((c xrepl c (u . "trace")) q (1250 . 4)) ((c xrepl c (u . "coverage")) q (1604 . 4)) ((c xrepl c (u . "apropos")) q (487 . 4)) ((c xrepl c (u . "cd")) q (142 . 3)) ((c xrepl c (u . "help")) q (0 . 4)) ((c xrepl c (u . "enter")) q (905 . 4)) ((c xrepl c (u . "switch-namespace")) q (1685 . 4)) ((c xrepl c (u . "load")) q (1063 . 4)) ((c xrepl c (u . "require-reloadable")) q (803 . 4)) ((c xrepl c (u . "pwd")) q (190 . 3)) ((c xrepl c (u . "backtrace")) q (1122 . 4)) ((c xrepl c (u . "shell")) q (232 . 4)) ((c xrepl c (u . "time")) q (1198 . 3)) ((c xrepl c (u . "install!")) q (2035 . 3)) ((c xrepl c (u . "check-requires")) q (1906 . 4)) ((c xrepl c (u . "edit")) q (335 . 4))))
 
 ,help [<command-name>]
   display available commands
@@ -100,8 +100,13 @@
   check the `require's of a module
   [Synonyms: ,ckreq]
 
-,log <level>
+,log <opt> ...
   control log output
 
 ,install! 
   install xrepl in your Racket init file
+parameter
+(toplevel-prefix) -> string?
+(toplevel-prefix prefix) -> void?
+  prefix : string?
+ = "-"

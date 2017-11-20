@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41pt" height="61pt" viewBox="0 0 41 61" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="107" height="107" viewBox="0 0 107 107" version="1.1">
 <defs>
 <clipPath id="clip1">
-  <path d="M 0 0 L 40 0 L 40 60 L 0 60 Z M 0 0 "/>
+  <path d="M 3 3 L 103 3 L 103 103 L 3 103 Z "/>
 </clipPath>
 </defs>
-<g id="surface4812">
-<g clip-path="url(#clip1)" clip-rule="evenodd">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(11.764706%,56.470588%,100%);fill-opacity:1;" d="M 40 0 C 40 33.136719 22.089844 60 0 60 C -22.089844 60 -40 33.136719 -40 0 C -40 -33.136719 -22.089844 -60 0 -60 C 22.089844 -60 40 -33.136719 40 0 Z M 40 0 "/>
+<g id="surface7178">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 3 3 C 3 3 103 3 103 3 C 103 3 103 103 103 103 C 103 103 3 103 3 103 C 3 103 3 3 3 3 Z "/>
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(100%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M -17 -17 C 180.988281 -17 -74.988281 123 123 123 "/>
 </g>
 </g>
 </svg>

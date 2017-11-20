@@ -1,11 +1,16 @@
-1141
-((3) 0 () 7 ((q lib "macro-debugger/stepper-text.rkt") (q lib "macro-debugger/expand.rkt") (q lib "macro-debugger/analysis/check-requires.rkt") (q lib "macro-debugger/emit.rkt") (q lib "macro-debugger/syntax-browser.rkt") (q lib "macro-debugger/stepper.rkt") (q lib "macro-debugger/analysis/show-dependencies.rkt")) () (h ! (equal) ((c def c (c (? . 4) q browse-syntaxes)) q (1564 . 3)) ((c def c (c (? . 1) q expand-only)) q (130 . 4)) ((c def c (c (? . 5) q expand-module/step)) q (58 . 3)) ((c def c (c (? . 0) q stepper-text)) q (1303 . 5)) ((c def c (c (? . 2) q show-requires)) q (2310 . 6)) ((c def c (c (? . 0) q expand/step-text)) q (1115 . 5)) ((c def c (c (? . 3) q emit-local-step)) q (983 . 5)) ((c def c (c (? . 1) q expand/show-predicate)) q (378 . 4)) ((c def c (c (? . 2) q check-requires)) q (1640 . 11)) ((c def c (c (? . 3) q emit-remark)) q (497 . 10)) ((c def c (c (? . 1) q expand/hide)) q (259 . 4)) ((c def c (c (? . 6) q show-dependencies)) q (2572 . 10)) ((c def c (c (? . 4) q browse-syntax)) q (1502 . 3)) ((c def c (c (? . 5) q expand/step)) q (0 . 3)) ((c def c (c (? . 6) q get-dependencies)) q (3106 . 9))))
+1199
+((3) 0 () 7 ((q lib "macro-debugger/stepper.rkt") (q lib "macro-debugger/expand.rkt") (q lib "macro-debugger/syntax-browser.rkt") (q lib "macro-debugger/analysis/show-dependencies.rkt") (q lib "macro-debugger/emit.rkt") (q lib "macro-debugger/stepper-text.rkt") (q lib "macro-debugger/analysis/check-requires.rkt")) () (h ! (equal) ((c def c (c (? . 0) q expand-module/step)) q (58 . 3)) ((c def c (c (? . 0) q macro-stepper-repl)) q (130 . 5)) ((c def c (c (? . 3) q show-dependencies)) q (2738 . 10)) ((c def c (c (? . 5) q expand/step-text)) q (1281 . 5)) ((c def c (c (? . 1) q expand/show-predicate)) q (544 . 4)) ((c def c (c (? . 2) q browse-syntax)) q (1668 . 3)) ((c def c (c (? . 6) q show-requires)) q (2476 . 6)) ((c def c (c (? . 1) q expand-only)) q (296 . 4)) ((c def c (c (? . 4) q emit-local-step)) q (1149 . 5)) ((c def c (c (? . 2) q browse-syntaxes)) q (1730 . 3)) ((c def c (c (? . 3) q get-dependencies)) q (3272 . 9)) ((c def c (c (? . 4) q emit-remark)) q (663 . 10)) ((c def c (c (? . 5) q stepper-text)) q (1469 . 5)) ((c def c (c (? . 6) q check-requires)) q (1806 . 11)) ((c def c (c (? . 0) q expand/step)) q (0 . 3)) ((c def c (c (? . 1) q expand/hide)) q (425 . 4))))
 procedure
 (expand/step stx) -> void?
   stx : any/c
 procedure
 (expand-module/step mod) -> void?
   mod : module-path?
+procedure
+(macro-stepper-repl [new-repl?           
+                     #:eval? eval?]) -> void?
+  new-repl? : any/c = #f
+  eval? : any/c = #t
 procedure
 (expand-only stx transparent-macros) -> syntax?
   stx : any/c

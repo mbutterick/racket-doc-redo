@@ -1,5 +1,5 @@
-3274
-((3) 0 () 3 ((q lib "slideshow/base.rkt") (q lib "slideshow/step.rkt") (q lib "slideshow/play.rkt")) () (h ! (equal) ((c form c (c (? . 1) q with-steps~)) q (7256 . 2)) ((c def c (c (? . 0) q gap-size)) q (5121 . 2)) ((c def c (c (? . 0) q subitem)) q (2444 . 16)) ((c def c (c (? . 0) q pict->pre-render-pict)) q (3412 . 3)) ((c def c (c (? . 0) q current-page-number-color)) q (4566 . 4)) ((c def c (c (? . 0) q re-slide)) q (4014 . 4)) ((c def c (c (? . 0) q t)) q (939 . 3)) ((c def c (c (? . 0) q set-use-background-frame!)) q (4289 . 3)) ((c form c (c (? . 0) q client-w)) q (5302 . 2)) ((c def c (c (? . 0) q item)) q (1758 . 16)) ((c def c (c (? . 0) q current-para-width)) q (5837 . 4)) ((c def c (c (? . 0) q bit)) q (1091 . 3)) ((c def c (c (? . 0) q current-titlet)) q (6534 . 4)) ((c form c (c (? . 1) q with-steps)) q (7214 . 2)) ((c def c (c (? . 0) q titlet)) q (1245 . 3)) ((c def c (c (? . 0) q slide->pict)) q (4113 . 3)) ((c def c (c (? . 0) q start-at-recent-slide)) q (4176 . 2)) ((c def c (c (? . 0) q current-title-color)) q (5972 . 4)) ((c def c (c (? . 0) q o-bullet)) q (5277 . 2)) ((c def c (c (? . 0) q printing?)) q (5402 . 2)) ((c def c (c (? . 0) q slide)) q (0 . 21)) ((c form c (c (? . 0) q margin)) q (5373 . 2)) ((c def c (c (? . 0) q para)) q (1300 . 12)) ((c def c (c (? . 0) q make-outline)) q (3482 . 6)) ((c def c (c (? . 2) q play-n)) q (8515 . 22)) ((c def c (c (? . 0) q set-page-numbers-visible!)) q (4361 . 3)) ((c def c (c (? . 0) q it)) q (989 . 3)) ((c def c (c (? . 0) q interactive)) q (3242 . 4)) ((c def c (c (? . 0) q condense?)) q (5431 . 2)) ((c def c (c (? . 0) q rt)) q (1194 . 3)) ((c def c (c (? . 0) q clickback)) q (3153 . 4)) ((c form c (c (? . 0) q titleless-page)) q (5351 . 2)) ((c def c (c (? . 0) q current-font-size)) q (5460 . 4)) ((c def c (c (? . 0) q slide-inset?)) q (7156 . 3)) ((c def c (c (? . 0) q most-recent-slide)) q (3922 . 2)) ((c def c (c (? . 0) q set-spotlight-style!)) q (4906 . 5)) ((c def c (c (? . 0) q current-gap-size)) q (5143 . 4)) ((c def c (c (? . 0) q enable-click-advance!)) q (4221 . 3)) ((c def c (c (? . 0) q size-in-pixels)) q (3349 . 3)) ((c def c (c (? . 0) q slide?)) q (3870 . 3)) ((c def c (c (? . 0) q current-page-number-font)) q (4433 . 4)) ((c def c (c (? . 0) q current-slide-assembler)) q (6133 . 12)) ((c form c (c (? . 0) q full-page)) q (5334 . 2)) ((c def c (c (? . 0) q comment?)) q (3816 . 3)) ((c def c (c (? . 2) q animate-slide)) q (9525 . 6)) ((c def c (c (? . 0) q comment)) q (3735 . 3)) ((c form c (c (? . 0) q title-h)) q (5387 . 2)) ((c def c (c (? . 0) q set-margin!)) q (6663 . 3)) ((c def c (c (? . 0) q bullet)) q (5254 . 2)) ((c def c (c (? . 0) q make-slide-inset)) q (6780 . 9)) ((c def c (c (? . 0) q tt)) q (1143 . 3)) ((c form c (c (? . 0) q client-h)) q (5318 . 2)) ((c def c (c (? . 0) q bt)) q (1040 . 3)) ((c def c (c (? . 2) q play)) q (7706 . 19)) ((q def ((lib "slideshow/slides-to-picts.rkt") get-slides-as-picts)) q (7299 . 11)) ((c def c (c (? . 0) q current-line-sep)) q (5706 . 4)) ((c def c (c (? . 0) q current-main-font)) q (5593 . 4)) ((c def c (c (? . 0) q current-page-number-adjust)) q (4739 . 4)) ((c def c (c (? . 0) q set-title-h!)) q (6721 . 3)) ((c def c (c (? . 0) q retract-most-recent-slide)) q (3964 . 2))))
+4027
+((3) 0 () 4 ((q lib "slideshow/base.rkt") (q lib "slideshow/text.rkt") (q lib "slideshow/step.rkt") (q lib "slideshow/play.rkt")) () (h ! (equal) ((c def c (c (? . 0) q set-spotlight-style!)) q (4906 . 5)) ((c form c (c (? . 1) q with-scale)) q (7567 . 2)) ((c def c (c (? . 0) q set-use-background-frame!)) q (4289 . 3)) ((c def c (c (? . 0) q o-bullet)) q (5357 . 2)) ((c def c (c (? . 0) q enable-click-advance!)) q (4221 . 3)) ((c def c (c (? . 0) q current-main-font)) q (5673 . 4)) ((c def c (c (? . 0) q re-slide)) q (4014 . 4)) ((c form c (c (? . 1) q italic)) q (7724 . 2)) ((c form c (c (? . 0) q full-page)) q (5414 . 2)) ((c def c (c (? . 0) q tt)) q (1143 . 3)) ((c def c (c (? . 0) q bullet)) q (5334 . 2)) ((c def c (c (? . 0) q current-title-color)) q (6052 . 4)) ((c def c (c (? . 0) q pict->pre-render-pict)) q (3412 . 3)) ((c def c (c (? . 0) q bit)) q (1091 . 3)) ((c def c (c (? . 0) q current-line-sep)) q (5786 . 4)) ((c def c (c (? . 0) q current-font-size)) q (5540 . 4)) ((c def c (c (? . 0) q printing?)) q (5482 . 2)) ((c form c (c (? . 1) q with-style)) q (7671 . 2)) ((c def c (c (? . 0) q titlet)) q (1245 . 3)) ((c form c (c (? . 1) q subscript)) q (7746 . 2)) ((c def c (c (? . 0) q make-outline)) q (3482 . 6)) ((c def c (c (? . 0) q rt)) q (1194 . 3)) ((c form c (c (? . 1) q big)) q (7600 . 2)) ((c form c (c (? . 2) q with-steps)) q (7451 . 2)) ((c def c (c (? . 0) q bt)) q (1040 . 3)) ((c form c (c (? . 0) q title-h)) q (5467 . 2)) ((c def c (c (? . 0) q current-page-number-font)) q (4433 . 4)) ((c def c (c (? . 0) q set-margin!)) q (6743 . 3)) ((c def c (c (? . 1) q blank-line)) q (7818 . 2)) ((c def c (c (? . 0) q slide-inset?)) q (7236 . 3)) ((c def c (c (? . 0) q t)) q (939 . 3)) ((c form c (c (? . 1) q with-font)) q (7640 . 2)) ((c form c (c (? . 0) q titleless-page)) q (5431 . 2)) ((c def c (c (? . 0) q set-allow-new-slides-after-close!)) q (5121 . 3)) ((c def c (c (? . 0) q current-slide-assembler)) q (6213 . 12)) ((c def c (c (? . 0) q set-title-h!)) q (6801 . 3)) ((c def c (c (? . 0) q start-at-recent-slide)) q (4176 . 2)) ((c def c (c (? . 0) q it)) q (989 . 3)) ((c def c (c (? . 0) q current-gap-size)) q (5223 . 4)) ((c def c (c (? . 0) q current-page-number-color)) q (4566 . 4)) ((c def c (c (? . 0) q subitem)) q (2444 . 16)) ((c def c (c (? . 0) q commentary-on-slide-font-size)) q (7294 . 4)) ((c def c (c (? . 0) q comment)) q (3735 . 3)) ((c def c (c (? . 0) q para)) q (1300 . 12)) ((c def c (c (? . 0) q slide->pict)) q (4113 . 3)) ((c def c (c (? . 0) q slide)) q (0 . 21)) ((c def c (c (? . 0) q clickback)) q (3153 . 4)) ((c def c (c (? . 0) q retract-most-recent-slide)) q (3964 . 2)) ((c def c (c (? . 0) q condense?)) q (5511 . 2)) ((c def c (c (? . 0) q gap-size)) q (5201 . 2)) ((c form c (c (? . 2) q with-steps~)) q (7493 . 2)) ((c def c (c (? . 0) q current-para-width)) q (5917 . 4)) ((c def c (c (? . 0) q size-in-pixels)) q (3349 . 3)) ((q def ((lib "slideshow/slides-to-picts.rkt") get-slides-as-picts)) q (7852 . 11)) ((c form c (c (? . 1) q superscript)) q (7771 . 2)) ((c def c (c (? . 3) q play)) q (8259 . 21)) ((c def c (c (? . 0) q slide?)) q (3870 . 3)) ((c def c (c (? . 0) q current-page-number-adjust)) q (4739 . 4)) ((c def c (c (? . 3) q play-n)) q (9157 . 25)) ((c form c (c (? . 1) q caps)) q (7798 . 2)) ((c form c (c (? . 0) q client-w)) q (5382 . 2)) ((c def c (c (? . 0) q set-page-numbers-visible!)) q (4361 . 3)) ((c def c (c (? . 0) q comment?)) q (3816 . 3)) ((c def c (c (? . 0) q make-slide-inset)) q (6860 . 9)) ((c def c (c (? . 3) q animate-slide)) q (10335 . 6)) ((c form c (c (? . 0) q margin)) q (5453 . 2)) ((c def c (c (? . 0) q item)) q (1758 . 16)) ((c def c (c (? . 0) q most-recent-slide)) q (3922 . 2)) ((c def c (c (? . 0) q interactive)) q (3242 . 4)) ((c form c (c (? . 1) q with-size)) q (7536 . 2)) ((c form c (c (? . 1) q bold)) q (7704 . 2)) ((c form c (c (? . 0) q client-h)) q (5398 . 2)) ((c def c (c (? . 0) q current-titlet)) q (6614 . 4)) ((c form c (c (? . 1) q small)) q (7619 . 2))))
 procedure
 (slide [#:title title               
         #:name name                 
@@ -154,6 +154,9 @@ procedure
                        #:color color]) -> void?
   size : (or/c #f (>=/c 0)) = #f
   color : (or/c #f string? (is-a?/c color%)) = #f
+procedure
+(set-allow-new-slides-after-close! on?) -> void?
+  on? : any/c
 value
 gap-size : 24
 parameter
@@ -234,10 +237,38 @@ procedure
 procedure
 (slide-inset? v) -> boolean?
   v : any/c
+parameter
+(commentary-on-slide-font-size) -> exact-positive-integer?
+(commentary-on-slide-font-size size) -> void?
+  size : exact-positive-integer?
 syntax
 (with-steps (id ...) body ...)
 syntax
 (with-steps~ (id ...) body ...)
+syntax
+(with-size size expr)
+syntax
+(with-scale scale expr)
+syntax
+(big text)
+syntax
+(small text)
+syntax
+(with-font font expr)
+syntax
+(with-style style expr)
+syntax
+(bold text)
+syntax
+(italic text)
+syntax
+(subscript text)
+syntax
+(superscript text)
+syntax
+(caps text)
+procedure
+(blank-line) -> pict?
 procedure
 (get-slides-as-picts  path             
                       width            
@@ -256,6 +287,7 @@ procedure
        #:skip-first? skip-first?     
        #:title title                 
        #:name name                   
+       #:comment comment             
        #:layout layout])         -> void?
   gen : ((real-in 0.0 1.0) . -> . pict?)
   steps : exact-positive-integer? = 10
@@ -267,6 +299,7 @@ procedure
   name : (or/c string? #f
                ((real-in 0.0 1.0) . -> . (or/c string? #f)))
        = title
+  comment : (or/c comment? #f) = #f
   layout : (or/c 'auto 'center 'top 'tall) = 'auto
 procedure
 (play-n  gen*                          
@@ -276,10 +309,12 @@ procedure
          #:skip-last? skip-last?       
          #:title title                 
          #:name name                   
+         #:comments comment            
          #:layout layout])         -> void?
-  gen* : (() (listof (real-in 0.0 1.0)) . ->* . pict?)
-  steps : (or/c exact-positive-integer?                    = 10
-                (improper-listof exact-positive-integer?))
+  gen* : (and/c (unconstrained-domain-> pict?)
+                (λ (x) (number? (procedure-arity x))))
+  steps : (list*of exact-positive-integer?             = 10
+                   (or/c exact-positive-integer? '()))
   delay-secs : real? = 0.05
   skip-first? : any/c = #f
   skip-last? : any/c = #f
@@ -289,6 +324,7 @@ procedure
   name : (or/c string? #f
                ((real-in 0.0 1.0) . -> . (or/c string? #f)))
        = title
+  comment : (list*of comment? (or/c comment? #f '())) = #f
   layout : (or/c 'auto 'center 'top 'tall) = 'auto
 procedure
 (animate-slide element ...)

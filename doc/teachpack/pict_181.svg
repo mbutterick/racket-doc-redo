@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41pt" height="21pt" viewBox="0 0 41 21" version="1.1">
-<g id="surface4860">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(13.333333%,54.509804%,13.333333%);fill-opacity:1;" d="M 0 0 L 40 0 L 40 20 L 0 20 Z M 0 0 "/>
-<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:0.5;stroke-miterlimit:10;" d="M 2.5 0.5 L 2.5 20.5 "/>
-<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:0.5;stroke-miterlimit:10;" d="M 0.5 18.5 L 40.5 18.5 "/>
-<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:0.5;stroke-miterlimit:10;" d="M 1.5 0.5 L 1.5 20.5 "/>
-<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:0.5;stroke-miterlimit:10;" d="M 0.5 17.5 L 40.5 17.5 "/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="99" viewBox="0 0 72 99" version="1.1">
+<g id="surface7232">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.509804%,74.509804%,74.509804%);fill-opacity:1;" d="M 15.359375 64.554688 C 15.359375 64.554688 67.722656 83.574219 67.722656 83.574219 C 67.722656 83.574219 3 83.574219 3 83.574219 C 3 83.574219 55.359375 64.554688 55.359375 64.554688 C 55.359375 64.554688 35.359375 95.332031 35.359375 95.332031 C 35.359375 95.332031 15.359375 64.554688 15.359375 64.554688 Z "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(69.803922%,13.333333%,13.333333%);fill-opacity:1;" d="M 15.359375 64.554688 C 15.359375 64.554688 67.722656 26.511719 67.722656 26.511719 C 67.722656 26.511719 3 26.511719 3 26.511719 C 3 26.511719 55.359375 64.554688 55.359375 64.554688 C 55.359375 64.554688 35.359375 3 35.359375 3 C 35.359375 3 15.359375 64.554688 15.359375 64.554688 Z "/>
 </g>
 </svg>

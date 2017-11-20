@@ -1,5 +1,5 @@
-52424
-((3) 0 () 113 ((q lib "scribble/core.rkt") (q lib "scribble/manual.rkt") (q lib "scribble/base.rkt") (q lib "scribble/html-properties.rkt") (q lib "scribble/struct.rkt") (q lib "scribble/xref.rkt") (q lib "scribble/racket.rkt") (q lib "scribble/manual-struct.rkt") (q 55489 . 4) (q lib "scribble/eval.rkt") (q 54552 . 4) (q lib "scribble/decode.rkt") (q 64001 . 4) (q lib "scribble/srcdoc.rkt") (q 32685 . 3) (q lib "scribble/bnf.rkt") (q 54284 . 7) (q lib "scribble/basic.rkt") (c (? . 67) q render<%>) (q 63546 . 9) (q 57193 . 4) (q lib "scribble/latex-properties.rkt") (q 52386 . 16) (q 62167 . 4) (q 59292 . 18) (q 72875 . 8) (q 57905 . 4) (q lib "scribble/tag.rkt") (q 62284 . 5) (q lib "scribble/sigplan.rkt") (q 64857 . 9) (q 56958 . 6) (q 55069 . 6) (q 60077 . 6) (q 72602 . 8) (q 62704 . 7) (q 36130 . 4) (q 54139 . 5) (q lib "scribble/reader.rkt") (q 61904 . 4) (q 61631 . 4) (q 55354 . 4) (q 64518 . 4) (q 53836 . 4) (q 54951 . 3) (q 53358 . 5) (q 50079 . 6) (q 64112 . 4) (q 55858 . 5) (q 73574 . 4) (q 73129 . 5) (q 58169 . 6) (q 57725 . 4) (q 54673 . 3) (q 62465 . 7) (q 36250 . 5) (q 33447 . 3) (q 56639 . 4) (q 56183 . 6) (q 49763 . 5) (q lib "scribble/lncs/lang.rkt") (q 56033 . 4) (q 53521 . 5) (q lib "scribble/lp.rkt") (q 57307 . 4) (q 76628 . 7) (q 56412 . 6) (q lib "scribble/base-render.rkt") (q 34069 . 4) (q 58041 . 4) (q 57440 . 4) (q 57567 . 4) (q 64398 . 4) (q 61771 . 4) (q 32793 . 5) (q 55606 . 7) (q 32971 . 3) (q 56793 . 4) (q lib "scribble/html-render.rkt") (q 65314 . 4) (q 33806 . 6) (q 53980 . 4) (q lib "scribble/extract.rkt") (q 62955 . 7) (q 53192 . 5) (q 49939 . 5) (q 63192 . 7) (q 53051 . 5) (q 58821 . 3) (q lib "scribble/jfp.rkt") (q 73464 . 4) (q 58532 . 5) (q 54789 . 4) (q 64644 . 6) (q 33328 . 3) (q 36640 . 4) (q 73302 . 4) (q 62058 . 4) (q 36387 . 4) (q 36499 . 5) (c (? . 78) q render-multi-mixin) (q 64278 . 4) (q 33689 . 3) (q 33211 . 3) (q lib "scribble/contract-render.rkt") (q 53671 . 5) (c (? . 104) q override-render-mixin-multi) (q 33564 . 3) (q 63441 . 4) (q 33086 . 3) (c (? . 78) q render-mixin) (c (? . 104) q override-render-mixin-single) (c (? . 67) q render%)) () (h ! (equal) ((c def c (c (? . 2) q subsubsub*section)) q (1912 . 9)) ((c def c (c (? . 11) q splice?)) c (? . 49)) ((c def c (c (? . 7) q thing-index-desc?)) c (? . 103)) ((c def c (c (? . 6) q long-boolean-val)) c (? . 98)) ((c def c (c (? . 0) q table-cells?)) c (? . 26)) ((c def c (c (? . 0) q target-url-addr)) c (? . 20)) ((c def c (c (? . 1) q racketmodfont)) q (14843 . 3)) ((c def c (c (? . 3) q attributes-assoc)) c (? . 40)) ((c def c (c (? . 0) q target-element-_tag)) c (? . 10)) ((c def c (c (? . 4) q make-redirect-target-element)) q (48122 . 12)) ((c def c (c (? . 0) q traverse-element-traverse)) c (? . 61)) ((c def c (c (? . 5) q entry-desc)) c (? . 65)) ((c form c (c (? . 29) q preprint)) q (8774 . 2)) ((c def c (c (? . 1) q centerline)) q (32149 . 3)) ((c def c (c (? . 1) q litchar)) q (13776 . 3)) ((c def c (c (? . 2) q ?-)) q (5629 . 2)) ((c def c (c (? . 3) q hover-property)) c (? . 23)) ((c def c (c (? . 2) q elem)) q (4136 . 4)) ((c def c (c (? . 1) q bib-entry)) q (30951 . 15)) ((c def c (c (? . 17) q span-class)) q (50511 . 4)) ((c def c (c (? . 38) q read-inside)) q (51140 . 3)) ((c def c (c (? . 4) q image-file?)) c (? . 46)) ((c def c (c (? . 0) q collected-info-info)) c (? . 31)) ((c form c (c (? . 9) q interaction/no-prompt)) q (37991 . 2)) ((c def c (c (? . 0) q collect-info-parts)) c (? . 24)) ((c form c (c (? . 1) q defmodulereader*)) q (17584 . 2)) ((c def c (c (? . 3) q head-extra?)) c (? . 12)) ((c def c (c (? . 0) q document-date)) c (? . 70)) ((c def c (c (? . 15) q optional)) q (43127 . 3)) ((c def c (c (? . 0) q part?)) c (? . 22)) ((c def c (c (? . 0) q box-mode-center-name)) c (? . 51)) ((c def c (c (? . 4) q target-url-addr)) c (? . 85)) ((c def c (c (? . 4) q make-index-element)) q (48637 . 13)) ((c def c (c (? . 5) q data+root?)) q (76830 . 3)) ((c def c (c (? . 6) q struct:shaped-parens)) c (? . 55)) ((c def c (c (? . 3) q script-property?)) c (? . 28)) ((c def c (c (? . 1) q schemevarfont)) q (15632 . 3)) ((c def c (c (? . 7) q interface-index-desc)) c (? . 107)) ((c def c (c (? . 2) q as-index)) q (8338 . 3)) ((c def c (c (? . 0) q link-element-tag)) c (? . 8)) ((c def c (c (? . 6) q input-color)) q (37118 . 2)) ((c def c (c (? . 5) q load-xref)) q (73867 . 11)) ((c def c (c (? . 0) q make-table-columns)) c (? . 69)) ((c def c (c (? . 0) q struct:link-element)) c (? . 8)) ((c form c (c (? . 9) q with-eval-preserve-source-locations)) q (40394 . 2)) ((c def c (c (? . 0) q make-target-element)) c (? . 10)) ((c def c (c (? . 11) q decode-content)) q (72315 . 3)) ((c def c (c (? . 3) q struct:head-extra)) c (? . 12)) ((c def c (c (? . 3) q css-style-addition-path)) c (? . 35)) ((c def c (c (? . 0) q traverse-block-traverse)) c (? . 43)) ((c def c (c (? . 3) q html-defaults-style)) c (? . 19)) ((c def c (c (? . 11) q decode)) q (71797 . 3)) ((c form c (c (? . 1) q schememod)) q (13346 . 2)) ((c def c (c (? . 0) q image-element-scale)) c (? . 16)) ((c def c (c (? . 1) q indexed-file)) q (30388 . 3)) ((c form c (c (? . 13) q thing-doc)) q (41693 . 2)) ((c def c (c (? . 2) q item)) q (3568 . 3)) ((c def c (c (? . 0) q element-style)) c (? . 37)) ((c def c (c (? . 11) q struct:part-start)) c (? . 25)) ((c def c (c (? . 6) q meta-color)) q (37364 . 2)) ((c form c (c (? . 1) q defboolparam)) q (22812 . 2)) ((c def c (c (? . 2) q italic)) q (4294 . 3)) ((c def c (c (? . 3) q install-resource)) c (? . 42)) ((c def c (c (? . 7) q make-module-path-index-desc)) c (? . 14)) ((c def c (c (? . 0) q redirect-target-element?)) c (? . 32)) ((c form c (c (? . 13) q generate-delayed-documents)) q (42467 . 2)) ((c def c (c (? . 7) q module-path-index-desc)) c (? . 14)) ((c def c (c (? . 0) q content-width)) q (59136 . 3)) ((c def c (c (? . 7) q struct:module-path-index-desc)) c (? . 14)) ((c def c (c (? . 6) q symbol-color)) q (37421 . 2)) ((c def c (c (? . 0) q toc-element-toc-content)) c (? . 41)) ((c def c (c (? . 4) q with-attributes)) c (? . 59)) ((c def c (c (? . 15) q BNF-group)) q (43047 . 3)) ((c def c (c (? . 11) q decode-compound-paragraph)) q (72143 . 3)) ((c def c (c (? . 1) q schemeresultfont)) q (15448 . 3)) ((c def c (c (? . 0) q page-target-element?)) c (? . 44)) ((c def c (c (? . 4) q make-script-element)) q (49471 . 9)) ((c meth c (c (? . 18) q resolve)) q (67765 . 5)) ((c form c (c (? . 1) q indexed-racket)) q (30143 . 2)) ((c def c (c (? . 0) q image-element)) c (? . 16)) ((c form c (c (? . 1) q racketinput0)) q (12571 . 2)) ((c def c (c (? . 21) q struct:latex-defaults)) c (? . 30)) ((c def c (c (? . 4) q table-flowss)) q (46188 . 4)) ((c def c (c (? . 2) q margin-note*)) q (3255 . 4)) ((c def c (c (? . 3) q head-extra)) c (? . 12)) ((c form c (c (? . 1) q defidform)) q (21208 . 2)) ((c def c (c (? . 6) q block-color)) q (37673 . 2)) ((c def c (c (? . 17) q itemize)) q (50631 . 4)) ((c def c (c (? . 0) q delayed-element?)) c (? . 58)) ((c def c (c (? . 2) q hyperlink)) q (5695 . 10)) ((c meth c (c (? . 18) q serialize-infos)) q (68156 . 5)) ((c def c (c (? . 3) q html-defaults?)) c (? . 19)) ((c def c (c (? . 0) q struct:target-url)) c (? . 20)) ((c form c (c (? . 1) q schemelink)) q (28173 . 2)) ((c form c (c (? . 1) q defmodule*/no-declare)) q (17659 . 2)) ((c def c (c (? . 0) q make-toc-target-element)) c (? . 53)) ((c def c (c (? . 0) q background-color-property-color)) c (? . 52)) ((c def c (c (? . 21) q struct:tex-addition)) c (? . 93)) ((c def c (c (? . 0) q part-title-content)) c (? . 22)) ((c def c (c (? . 0) q tag-key)) q (61202 . 4)) ((c form c (c (? . 6) q define-code)) q (34230 . 5)) ((c def c (c (? . 3) q hover-property?)) c (? . 23)) ((c form c (c (? . 13) q proc-doc)) q (40989 . 16)) ((c def c (c (? . 1) q commandline)) q (32058 . 3)) ((c def c (c (? . 6) q module-link-color)) q (37638 . 2)) ((c def c (c (? . 0) q multiarg-element?)) c (? . 48)) ((c def c (c (? . 27) q doc-prefix)) q (77449 . 8)) ((c def c (c (? . 0) q collect-info-tags)) c (? . 24)) ((c def c (c (? . 0) q resolve-get/tentative)) q (60823 . 5)) ((c def c (c (? . 4) q versioned-part?)) q (44819 . 3)) ((c meth c (c (? . 111) q render)) q (71350 . 7)) ((c def c (c (? . 2) q index)) q (8011 . 4)) ((c def c (c (? . 11) q part-index-decl-entry-seq)) c (? . 50)) ((c def c (c (? . 2) q nonbreaking)) q (5425 . 3)) ((c def c (c (? . 2) q margin-note)) q (3132 . 4)) ((c def c (c (? . 0) q itemization)) c (? . 45)) ((c form c (c (? . 9) q interaction-eval-show)) q (38114 . 2)) ((c def c (c (? . 4) q styled-itemization?)) q (46543 . 3)) ((q def ((lib "scribble/markdown-render.rkt") render-mixin)) q (70131 . 3)) ((c def c (c (? . 7) q exported-index-desc-from-libs)) c (? . 74)) ((c def c (c (? . 4) q make-paragraph)) q (45506 . 3)) ((c form c (c (? . 1) q RACKET)) q (12975 . 2)) ((c def c (c (? . 0) q target-element)) c (? . 10)) ((c form c (c (? . 13) q proc-doc/names)) q (40486 . 15)) ((c def c (c (? . 6) q make-var-id)) c (? . 36)) ((c def c (c (? . 11) q part-start-title)) c (? . 25)) ((c def c (c (? . 1) q image/plain)) q (30570 . 5)) ((c def c (c (? . 0) q table-cells)) c (? . 26)) ((c def c (c (? . 3) q make-css-addition)) c (? . 54)) ((c def c (c (? . 2) q hspace)) q (5514 . 3)) ((c def c (c (? . 27) q module-path-prefix->string)) q (77746 . 3)) ((c def c (c (? . 0) q traverse-block-block)) q (61279 . 4)) ((c def c (c (? . 3) q struct:script-property)) c (? . 28)) ((c def c (c (? . 11) q struct:part-tag-decl)) c (? . 90)) ((c def c (c (? . 4) q make-styled-itemization)) q (46410 . 4)) ((c form c (c (? . 1) q defmodulelang*/no-declare)) q (17749 . 2)) ((c def c (c (? . 0) q resolve-info)) c (? . 33)) ((c def c (c (? . 0) q make-document-version)) c (? . 64)) ((c def c (c (? . 4) q make-styled-paragraph)) q (45645 . 4)) ((c def c (c (? . 3) q render-convertible-as)) c (? . 47)) ((c form c (c (? . 1) q schemegrammar*)) q (25095 . 2)) ((c def c (c (? . 3) q make-js-style-addition)) c (? . 86)) ((c def c (c (? . 0) q part-collected-info)) q (61101 . 4)) ((c def c (c (? . 0) q struct:part-relative-element)) c (? . 66)) ((c def c (c (? . 6) q opt-color)) q (37483 . 2)) ((c def c (c (? . 0) q index-element?)) c (? . 75)) ((c def c (c (? . 1) q schemeoutput)) q (16183 . 3)) ((c def c (c (? . 3) q make-column-attributes)) c (? . 39)) ((c form c (c (? . 29) q include-abstract)) q (8955 . 2)) ((c def c (c (? . 0) q link-element)) c (? . 8)) ((c def c (c (? . 21) q latex-defaults-prefix)) c (? . 30)) ((c def c (c (? . 11) q title-decl)) c (? . 34)) ((c def c (c (? . 1) q schemeerror)) q (16003 . 3)) ((c def c (c (? . 0) q make-collect-element)) c (? . 57)) ((c form c (c (? . 1) q var)) q (15111 . 2)) ((c def c (c (? . 2) q linebreak)) q (5389 . 2)) ((c form c (c (? . 1) q RACKETINPUT0)) q (12619 . 2)) ((c def c (c (? . 0) q collected-info)) c (? . 31)) ((c def c (c (? . 11) q pre-flow?)) q (71687 . 3)) ((c def c (c (? . 2) q superscript)) q (4627 . 3)) ((c def c (c (? . 27) q make-section-tag)) q (76998 . 7)) ((c def c (c (? . 0) q make-redirect-target-element)) c (? . 32)) ((c def c (c (? . 1) q undefined-const)) q (32023 . 2)) ((c def c (c (? . 6) q no-color)) q (37187 . 2)) ((c form c (c (? . 1) q sigelem)) q (27037 . 2)) ((c def c (c (? . 6) q to-paragraph/prefix)) q (34870 . 17)) ((c meth c (c (? . 18) q get-undefined)) q (68940 . 3)) ((c def c (c (? . 0) q make-resolve-info)) c (? . 33)) ((c def c (c (? . 11) q title-decl-tag-prefix)) c (? . 34)) ((c def c (c (? . 3) q css-style-addition)) c (? . 35)) ((c def c (c (? . 6) q var-id-sym)) c (? . 36)) ((c def c (c (? . 2) q table-of-contents)) q (8609 . 2)) ((c def c (c (? . 0) q make-element)) c (? . 37)) ((c def c (c (? . 38) q read-syntax-inside)) q (51227 . 8)) ((c form c (c (? . 82) q include-extracted)) q (42575 . 2)) ((c def c (c (? . 0) q resolve-info-delays)) c (? . 33)) ((c def c (c (? . 0) q part-tags)) c (? . 22)) ((c def c (c (? . 3) q column-attributes-assoc)) c (? . 39)) ((c def c (c (? . 11) q make-title-decl)) c (? . 34)) ((c form c (c (? . 1) q specsubform/subs)) q (22010 . 5)) ((q def ((lib "scribble/text-render.rkt") render-mixin)) q (70041 . 3)) ((c def c (c (? . 5) q make-data+root)) q (76886 . 4)) ((c def c (c (? . 0) q struct:render-element)) c (? . 77)) ((q def ((lib "scribble/latex-render.rkt") render-mixin)) q (70683 . 3)) ((c def c (c (? . 3) q make-attributes)) c (? . 40)) ((c def c (c (? . 11) q part-collect-decl?)) c (? . 96)) ((c def c (c (? . 0) q struct:toc-element)) c (? . 41)) ((c def c (c (? . 0) q make-image-element)) c (? . 16)) ((c form c (c (? . 60) q email)) q (11069 . 2)) ((c def c (c (? . 3) q install-resource-path)) c (? . 42)) ((c form c (c (? . 1) q RACKETRESULTBLOCK0)) q (12423 . 2)) ((c def c (c (? . 29) q abstract)) q (8871 . 3)) ((c def c (c (? . 0) q struct:traverse-block)) c (? . 43)) ((c def c (c (? . 0) q struct:part)) c (? . 22)) ((c def c (c (? . 2) q author+email)) q (2482 . 7)) ((c def c (c (? . 0) q make-page-target-element)) c (? . 44)) ((c form c (c (? . 1) q racketlink)) q (28016 . 6)) ((c def c (c (? . 2) q section)) q (589 . 9)) ((c def c (c (? . 6) q keyword-color)) q (37273 . 2)) ((c form c (c (? . 9) q racketmod+eval)) q (38307 . 2)) ((c def c (c (? . 29) q conferenceinfo)) q (9227 . 4)) ((c def c (c (? . 0) q struct:itemization)) c (? . 45)) ((c form c (c (? . 63) q CHUNK)) q (50827 . 2)) ((c def c (? . 18)) q (67311 . 2)) ((c def c (c (? . 11) q spliceof)) q (73671 . 3)) ((c def c (c (? . 2) q bold)) q (4378 . 3)) ((c meth c (c (? . 18) q get-defined)) q (68601 . 3)) ((c def c (c (? . 4) q image-file-scale)) c (? . 46)) ((c form c (c (? . 1) q defstruct)) q (23418 . 23)) ((c def c (c (? . 3) q make-render-convertible-as)) c (? . 47)) ((c def c (c (? . 0) q make-multiarg-element)) c (? . 48)) ((c def c (c (? . 11) q title-decl-version)) c (? . 34)) ((c def c (c (? . 4) q make-versioned-part)) q (44192 . 17)) ((c form c (c (? . 9) q racketblock0+eval)) q (38242 . 2)) ((c def c (c (? . 11) q make-splice)) c (? . 49)) ((c def c (c (? . 3) q install-resource?)) c (? . 42)) ((c meth c (c (? . 110) q set-external-root-url)) q (70394 . 3)) ((c def c (c (? . 6) q syntax-link-color)) q (37539 . 2)) ((c def c (c (? . 4) q part-title-content)) q (44131 . 3)) ((c def c (c (? . 11) q part-index-decl)) c (? . 50)) ((c def c (c (? . 7) q mixin-index-desc?)) c (? . 102)) ((c def c (c (? . 7) q struct-index-desc?)) c (? . 94)) ((c def c (c (? . 1) q deftech)) q (28761 . 10)) ((c def c (c (? . 0) q box-mode)) c (? . 51)) ((c def c (c (? . 5) q xref-transfer-info)) q (76414 . 5)) ((c def c (c (? . 7) q class-index-desc)) c (? . 56)) ((c def c (c (? . 0) q compound-paragraph?)) c (? . 105)) ((c def c (c (? . 0) q make-background-color-property)) c (? . 52)) ((c def c (c (? . 7) q method-index-desc)) c (? . 80)) ((c def c (c (? . 0) q toc-target-element?)) c (? . 53)) ((c def c (c (? . 3) q struct:css-addition)) c (? . 54)) ((c def c (c (? . 1) q defterm)) q (27152 . 3)) ((c def c (c (? . 7) q struct:form-index-desc)) c (? . 76)) ((c def c (c (? . 6) q shaped-parens?)) c (? . 55)) ((c form c (c (? . 1) q defmodulelang*)) q (17511 . 2)) ((c def c (c (? . 6) q just-context-context)) c (? . 99)) ((c def c (c (? . 3) q css-style-addition?)) c (? . 35)) ((c def c (c (? . 0) q struct:nested-flow)) c (? . 62)) ((c def c (c (? . 0) q content->string)) q (58911 . 8)) ((c def c (c (? . 7) q struct:class-index-desc)) c (? . 56)) ((c def c (c (? . 4) q make-itemization)) q (46311 . 3)) ((c def c (c (? . 0) q struct:collect-element)) c (? . 57)) ((c def c (c (? . 0) q make-delayed-element)) c (? . 58)) ((c def c (c (? . 11) q decode-part)) q (71864 . 6)) ((c def c (c (? . 7) q class-index-desc?)) c (? . 56)) ((c form c (c (? . 1) q defconstructor/make)) q (25914 . 2)) ((c def c (c (? . 7) q constructor-index-desc?)) c (? . 68)) ((c def c (c (? . 21) q command-extras)) c (? . 79)) ((c def c (c (? . 4) q with-attributes-assoc)) c (? . 59)) ((c def c (c (? . 0) q table)) c (? . 84)) ((c form c (c (? . 13) q begin-for-doc)) q (42433 . 2)) ((c def c (c (? . 0) q collect-element?)) c (? . 57)) ((c form c (c (? . 9) q defs+int)) q (38447 . 2)) ((c form c (c (? . 60) q institutes)) q (10950 . 4)) ((c def c (c (? . 0) q struct:redirect-target-element)) c (? . 32)) ((c def c (c (? . 0) q make-traverse-element)) c (? . 61)) ((c def c (c (? . 2) q secref)) q (6141 . 9)) ((c def c (c (? . 11) q whitespace?)) q (72543 . 3)) ((c def c (c (? . 1) q exec)) q (27518 . 3)) ((c def c (c (? . 89) q author)) q (10213 . 3)) ((c def c (c (? . 0) q nested-flow-style)) c (? . 62)) ((c def c (c (? . 3) q script-property-type)) c (? . 28)) ((c def c (c (? . 3) q js-addition-path)) c (? . 83)) ((c form c (c (? . 1) q defmodule*)) q (17431 . 2)) ((c form c (c (? . 13) q struct*-doc)) q (41824 . 9)) ((c def c (c (? . 4) q image-file)) c (? . 46)) ((c form c (c (? . 9) q interaction)) q (37737 . 8)) ((c form c (c (? . 63) q chunk)) q (50797 . 2)) ((c def c (c (? . 0) q document-version?)) c (? . 64)) ((c def c (c (? . 6) q var-id)) c (? . 36)) ((c def c (c (? . 0) q traverse-element?)) c (? . 61)) ((c def c (c (? . 11) q part-index-decl?)) c (? . 50)) ((c def c (c (? . 3) q body-id-value)) c (? . 108)) ((c def c (c (? . 1) q void-const)) q (31993 . 2)) ((c def c (c (? . 3) q struct:column-attributes)) c (? . 39)) ((c def c (c (? . 0) q color-property-color)) c (? . 71)) ((c def c (c (? . 5) q entry)) c (? . 65)) ((c form c (c (? . 1) q specspecsubform/subs)) q (22141 . 5)) ((c def c (c (? . 2) q Secref)) q (6500 . 9)) ((c def c (c (? . 3) q make-link-resource)) c (? . 72)) ((c def c (c (? . 6) q input-background-color)) q (37147 . 2)) ((c form c (c (? . 9) q examples)) q (38527 . 2)) ((c def c (c (? . 0) q part-relative-element)) c (? . 66)) ((c def c (c (? . 0) q paragraph-content)) c (? . 87)) ((c def c (? . 112)) q (69028 . 4)) ((c def c (c (? . 27) q make-module-language-tag)) q (77322 . 3)) ((c form c (c (? . 13) q for-doc)) q (40450 . 2)) ((c def c (c (? . 7) q constructor-index-desc)) c (? . 68)) ((c def c (c (? . 0) q toc-element)) c (? . 41)) ((c def c (c (? . 0) q struct:table-columns)) c (? . 69)) ((c form c (c (? . 1) q schememodname)) q (15152 . 3)) ((c def c (c (? . 0) q struct:page-target-element)) c (? . 44)) ((c def c (c (? . 0) q document-date-text)) c (? . 70)) ((c def c (c (? . 3) q make-alt-tag)) c (? . 73)) ((c def c (c (? . 0) q delayed-element)) c (? . 58)) ((c def c (c (? . 4) q make-toc-target-element)) q (47523 . 5)) ((c def c (c (? . 0) q image-element-suffixes)) c (? . 16)) ((c def c (c (? . 4) q auxiliary-table?)) q (46959 . 3)) ((c def c (c (? . 11) q clean-up-index-string)) q (73744 . 3)) ((c def c (c (? . 0) q style-name)) c (? . 91)) ((c def c (c (? . 0) q make-toc-target2-element)) c (? . 92)) ((c def c (c (? . 0) q itemization-style)) c (? . 45)) ((c def c (c (? . 0) q delayed-block)) c (? . 81)) ((c def c (c (? . 1) q racketvarfont)) q (14288 . 3)) ((c form c (c (? . 29) q noqcourier)) q (8853 . 2)) ((c form c (c (? . 9) q racketblock+eval)) q (38178 . 2)) ((c def c (c (? . 6) q shaped-parens)) c (? . 55)) ((c def c (c (? . 1) q schemekeywordfont)) q (15723 . 3)) ((c def c (c (? . 0) q struct:color-property)) c (? . 71)) ((c def c (c (? . 3) q link-resource-path)) c (? . 72)) ((c def c (c (? . 3) q alt-tag?)) c (? . 73)) ((c def c (c (? . 7) q exported-index-desc?)) c (? . 74)) ((c def c (c (? . 0) q make-generated-tag)) c (? . 88)) ((c def c (c (? . 2) q index-section)) q (8510 . 3)) ((c def c (c (? . 6) q struct:var-id)) c (? . 36)) ((c form c (c (? . 1) q racketresultblock)) q (12263 . 2)) ((c def c (c (? . 0) q index-element-plain-seq)) c (? . 75)) ((c def c (c (? . 7) q make-form-index-desc)) c (? . 76)) ((c def c (c (? . 2) q subscript)) q (4540 . 3)) ((c def c (c (? . 3) q struct:url-anchor)) c (? . 97)) ((c def c (c (? . 9) q scribble-exn->string)) q (40227 . 4)) ((c def c (c (? . 4) q make-with-attributes)) c (? . 59)) ((c def c (c (? . 0) q struct:multiarg-element)) c (? . 48)) ((c def c (c (? . 3) q make-css-style-addition)) c (? . 35)) ((c def c (c (? . 5) q xref-tag->path+anchor)) q (75263 . 12)) ((c def c (c (? . 15) q BNF-seq-lines)) q (42964 . 3)) ((c form c (c (? . 1) q defmodule)) q (16273 . 20)) ((c form c (c (? . 9) q interaction-eval)) q (38055 . 2)) ((c def c (c (? . 0) q struct:collect-info)) c (? . 24)) ((c def c (c (? . 7) q make-constructor-index-desc)) c (? . 68)) ((c def c (c (? . 0) q make-render-element)) c (? . 77)) ((c form c (c (? . 1) q deftogether)) q (24352 . 2)) ((c def c (c (? . 11) q struct:part-index-decl)) c (? . 50)) ((c def c (c (? . 21) q latex-defaults-style)) c (? . 30)) ((c def c (c (? . 3) q make-html-defaults)) c (? . 19)) ((c def c (c (? . 2) q itemlist)) q (3390 . 4)) ((c meth c (c (? . 100) q set-directory-depth)) q (70573 . 3)) ((c def c (c (? . 3) q attributes?)) c (? . 40)) ((c def c (c (? . 15) q BNF)) q (42714 . 3)) ((c def c (c (? . 11) q title-decl-style)) c (? . 34)) ((c def c (c (? . 0) q part-relative-element-resolve)) c (? . 66)) ((c def c (c (? . 27) q module-path-index->taglet)) q (77838 . 3)) ((c form c (c (? . 1) q racketmodname)) q (13573 . 6)) ((c def c (c (? . 6) q module-color)) q (37608 . 2)) ((c def c (c (? . 0) q block-width)) q (59216 . 3)) ((c form c (c (? . 9) q defexamples)) q (38583 . 2)) ((c def c (c (? . 3) q alt-tag-name)) c (? . 73)) ((c def c (c (? . 2) q section-index)) q (8430 . 3)) ((c form c (c (? . 13) q require/doc)) q (42503 . 2)) ((c def c (c (? . 38) q read-syntax)) q (50967 . 4)) ((c def c (c (? . 21) q command-extras?)) c (? . 79)) ((c def c (c (? . 4) q make-compound-paragraph)) q (47021 . 4)) ((c def c (c (? . 4) q styled-paragraph-style)) q (45816 . 3)) ((c def c (c (? . 7) q method-index-desc-method-name)) c (? . 80)) ((c def c (c (? . 0) q delayed-block?)) c (? . 81)) ((c def c (c (? . 5) q xref-render)) q (75849 . 13)) ((c form c (c (? . 1) q schemeblock0)) q (13203 . 2)) ((c meth c (c (? . 18) q get-defineds)) q (68687 . 6)) ((c form c (c (? . 82) q include-previously-extracted)) q (42655 . 2)) ((c form c (c (? . 1) q schememodlink)) q (15216 . 2)) ((c def c (c (? . 29) q subtitle)) q (8994 . 3)) ((c def c (c (? . 4) q element->string)) q (50286 . 8)) ((c def c (c (? . 6) q reader-color)) q (37213 . 2)) ((c def c (c (? . 29) q exclusive-license)) q (9583 . 2)) ((c def c (c (? . 11) q part-start-tags)) c (? . 25)) ((c def c (c (? . 0) q redirect-target-element-alt-path)) c (? . 32)) ((c def c (c (? . 38) q make-at-reader)) q (52184 . 5)) ((c def c (c (? . 15) q BNF-etc)) q (43555 . 2)) ((c def c (c (? . 3) q make-part-link-redirect)) c (? . 101)) ((c def c (c (? . 0) q make-collected-info)) c (? . 31)) ((c def c (c (? . 3) q make-js-addition)) c (? . 83)) ((c def c (c (? . 0) q collect-info-relatives)) c (? . 24)) ((c def c (c (? . 21) q latex-defaults)) c (? . 30)) ((c def c (c (? . 0) q target-url)) c (? . 20)) ((c def c (c (? . 11) q make-part-index-decl)) c (? . 50)) ((c def c (c (? . 0) q part-tag-prefix)) c (? . 22)) ((c def c (c (? . 0) q table-style)) c (? . 84)) ((c def c (c (? . 5) q make-entry)) c (? . 65)) ((c def c (c (? . 1) q menuitem)) q (27323 . 4)) ((c form c (c (? . 1) q SCHEMEBLOCK0)) q (13251 . 2)) ((c def c (c (? . 4) q struct:target-url)) c (? . 85)) ((c def c (c (? . 6) q to-element)) q (35583 . 9)) ((c def c (c (? . 11) q struct:splice)) c (? . 49)) ((c form c (c (? . 1) q defmixin)) q (25604 . 2)) ((c def c (c (? . 4) q make-toc-element)) q (47246 . 5)) ((c def c (c (? . 3) q make-script-property)) c (? . 28)) ((c def c (c (? . 3) q js-style-addition?)) c (? . 86)) ((c form c (c (? . 1) q SCHEME)) q (13439 . 2)) ((c def c (c (? . 0) q part-to-collect)) c (? . 22)) ((c form c (c (? . 1) q racketgrammar)) q (24477 . 5)) ((c def c (c (? . 6) q literal-syntax?)) c (? . 95)) ((c def c (c (? . 0) q paragraph?)) c (? . 87)) ((c form c (c (? . 1) q indexed-scheme)) q (30179 . 2)) ((c def c (c (? . 0) q render-element?)) c (? . 77)) ((c def c (c (? . 0) q generated-tag)) c (? . 88)) ((c def c (c (? . 3) q css-addition-path)) c (? . 54)) ((c form c (c (? . 1) q schemeid)) q (13529 . 2)) ((c def c (c (? . 0) q itemization-blockss)) c (? . 45)) ((c form c (c (? . 13) q parameter-doc)) q (41741 . 2)) ((c def c (c (? . 7) q make-exported-index-desc)) c (? . 74)) ((c def c (c (? . 4) q image-file-path)) c (? . 46)) ((c def c (c (? . 3) q js-addition)) c (? . 83)) ((c def c (c (? . 3) q struct:attributes)) c (? . 40)) ((c form c (c (? . 1) q defmethod*)) q (26553 . 5)) ((c def c (c (? . 89) q abstract)) q (10090 . 3)) ((c form c (c (? . 1) q schemeresult)) q (13481 . 2)) ((c def c (c (? . 0) q table-columns-styles)) c (? . 69)) ((c def c (c (? . 1) q indexed-envvar)) q (30478 . 3)) ((c form c (c (? . 1) q codeblock)) q (11107 . 16)) ((c def c (c (? . 9) q make-base-eval)) q (38642 . 10)) ((c def c (c (? . 29) q copyrightdata)) q (9431 . 3)) ((c def c (c (? . 1) q racketcommentfont)) q (14659 . 3)) ((c def c (c (? . 0) q index-element-entry-seq)) c (? . 75)) ((c def c (c (? . 15) q BNF-alt)) q (43488 . 3)) ((c def c (c (? . 11) q part-tag-decl-tag)) c (? . 90)) ((c def c (c (? . 0) q make-collect-info)) c (? . 24)) ((c def c (c (? . 0) q make-nested-flow)) c (? . 62)) ((c def c (c (? . 0) q struct:style)) c (? . 91)) ((c def c (c (? . 0) q box-mode*)) q (58362 . 3)) ((c form c (c (? . 1) q RACKETINPUT)) q (12524 . 2)) ((c def c (c (? . 1) q racketresultfont)) q (14019 . 5)) ((c form c (c (? . 1) q defmodulereader*/no-declare)) q (17832 . 2)) ((c def c (c (? . 6) q element-id-transformer?)) q (36753 . 3)) ((c def c (c (? . 0) q delayed-element-sizer)) c (? . 58)) ((c def c (c (? . 0) q make-delayed-block)) c (? . 81)) ((c def c (c (? . 0) q toc-target2-element-toc-content)) c (? . 92)) ((c def c (c (? . 0) q redirect-target-element-alt-anchor)) c (? . 32)) ((c def c (c (? . 0) q part-relative-element-sizer)) c (? . 66)) ((c form c (c (? . 2) q include-section)) q (2380 . 2)) ((c def c (c (? . 4) q make-auxiliary-table)) q (46796 . 4)) ((c def c (c (? . 6) q value-link-color)) q (37574 . 2)) ((c def c (c (? . 1) q techlink)) q (29627 . 12)) ((c def c (c (? . 1) q procedure)) q (15024 . 3)) ((c def c (c (? . 21) q command-extras-arguments)) c (? . 79)) ((c def c (c (? . 27) q taglet?)) q (77396 . 3)) ((c def c (c (? . 7) q struct:method-index-desc)) c (? . 80)) ((c form c (c (? . 13) q struct-doc)) q (42172 . 6)) ((c def c (c (? . 0) q multiarg-element)) c (? . 48)) ((c def c (c (? . 0) q index-element-desc)) c (? . 75)) ((c def c (c (? . 0) q style?)) c (? . 91)) ((c def c (c (? . 21) q struct:command-extras)) c (? . 79)) ((c def c (c (? . 21) q tex-addition?)) c (? . 93)) ((c def c (c (? . 6) q shaped-parens-shape)) c (? . 55)) ((c form c (c (? . 1) q defform/subs)) q (21623 . 5)) ((c def c (c (? . 1) q racketvalfont)) q (13928 . 3)) ((c def c (c (? . 1) q idefterm)) q (30215 . 3)) ((c form c (c (? . 1) q specsubform)) q (21431 . 3)) ((c def c (c (? . 9) q make-eval-factory)) q (39502 . 10)) ((c def c (c (? . 1) q deprecated)) q (32434 . 7)) ((c def c (c (? . 11) q decode-string)) q (72472 . 3)) ((c def c (c (? . 7) q struct-index-desc)) c (? . 94)) ((c def c (c (? . 6) q output-color)) q (37088 . 2)) ((c def c (c (? . 1) q bib-entry?)) q (31552 . 3)) ((c def c (c (? . 2) q url)) q (6084 . 3)) ((c def c (c (? . 6) q make-literal-syntax)) c (? . 95)) ((c def c (c (? . 1) q cite)) q (30759 . 3)) ((c def c (c (? . 11) q make-part-collect-decl)) c (? . 96)) ((c def c (c (? . 0) q element?)) c (? . 37)) ((c def c (c (? . 3) q make-install-resource)) c (? . 42)) ((c def c (c (? . 2) q index*)) q (8156 . 5)) ((c def c (c (? . 3) q render-convertible-as?)) c (? . 47)) ((c form c (c (? . 1) q racket)) q (12933 . 2)) ((c form c (c (? . 1) q defproc*)) q (19296 . 5)) ((c def c (c (? . 0) q struct:toc-target2-element)) c (? . 92)) ((c def c (c (? . 0) q make-table-cells)) c (? . 26)) ((c def c (c (? . 4) q make-image-file)) c (? . 46)) ((c form c (c (? . 1) q defconstructor)) q (25754 . 5)) ((c def c (c (? . 5) q xref-tag->index-entry)) q (75739 . 4)) ((c def c (c (? . 0) q paragraph-style)) c (? . 87)) ((c form c (c (? . 1) q defclass)) q (25307 . 5)) ((c def c (c (? . 7) q form-index-desc)) c (? . 76)) ((c form c (c (? . 1) q specform)) q (21340 . 3)) ((c def c (c (? . 4) q make-blockquote)) q (46683 . 4)) ((c def c (c (? . 4) q make-link-element)) q (48508 . 5)) ((c def c (c (? . 3) q make-url-anchor)) c (? . 97)) ((c def c (c (? . 7) q exported-index-desc-name)) c (? . 74)) ((c def c (c (? . 11) q part-start-style)) c (? . 25)) ((c def c (c (? . 0) q box-mode?)) c (? . 51)) ((c def c (c (? . 89) q affiliation-mark)) q (10493 . 3)) ((c def c (c (? . 29) q authorinfo)) q (9080 . 5)) ((c def c (c (? . 4) q styled-paragraph?)) q (45753 . 3)) ((c def c (c (? . 0) q struct:target-element)) c (? . 10)) ((c def c (c (? . 1) q filepath)) q (27432 . 3)) ((c def c (c (? . 21) q make-tex-addition)) c (? . 93)) ((c def c (c (? . 0) q resolve-get)) q (60408 . 5)) ((c def c (c (? . 0) q part-relative-element?)) c (? . 66)) ((c def c (c (? . 0) q struct:paragraph)) c (? . 87)) ((c def c (c (? . 0) q resolve-info?)) c (? . 33)) ((c def c (c (? . 4) q make-target-element)) q (47390 . 5)) ((c def c (c (? . 6) q long-boolean?)) c (? . 98)) ((c def c (c (? . 0) q collect-info-gen-prefix)) c (? . 24)) ((c form c (c (? . 1) q defclass/title)) q (25418 . 2)) ((c def c (c (? . 0) q index-element)) c (? . 75)) ((c def c (c (? . 89) q author/short)) q (10281 . 4)) ((c def c (c (? . 5) q entry-tag)) c (? . 65)) ((c def c (c (? . 0) q block?)) q (58426 . 3)) ((c meth c (c (? . 18) q traverse)) q (67346 . 4)) ((c def c (c (? . 11) q decode-elements)) q (72393 . 3)) ((c def c (c (? . 2) q local-table-of-contents)) q (8659 . 3)) ((c def c (c (? . 4) q target-url-style)) c (? . 85)) ((c form c (c (? . 1) q xmethod)) q (26773 . 2)) ((c def c (c (? . 6) q make-just-context)) c (? . 99)) ((c form c (c (? . 1) q defparam)) q (22510 . 2)) ((c def c (c (? . 0) q collect-info-parents)) c (? . 24)) ((c form c (c (? . 1) q defparam*)) q (22699 . 4)) ((c def c (c (? . 3) q struct:alt-tag)) c (? . 73)) ((c def c (c (? . 2) q tt)) q (4460 . 3)) ((c form c (c (? . 1) q racketmod0)) q (12869 . 2)) ((c form c (c (? . 1) q codeblock0)) q (11681 . 2)) ((c form c (c (? . 60) q authors)) q (10738 . 8)) ((c def c (c (? . 0) q make-paragraph)) c (? . 87)) ((c def c (c (? . 4) q paragraph-content)) q (45580 . 3)) ((c form c (c (? . 29) q notimes)) q (8838 . 2)) ((c def c (c (? . 1) q racketparenfont)) q (14474 . 3)) ((c def c (c (? . 0) q make-index-element)) c (? . 75)) ((c def c (c (? . 4) q styled-itemization-style)) q (46608 . 3)) ((c def c (? . 100)) q (70477 . 3)) ((c def c (c (? . 0) q part-style)) c (? . 22)) ((c form c (c (? . 1) q racketresultblock0)) q (12316 . 2)) ((c def c (c (? . 0) q struct:element)) c (? . 37)) ((c def c (c (? . 0) q nested-flow?)) c (? . 62)) ((c def c (c (? . 0) q collect-info?)) c (? . 24)) ((c def c (c (? . 38) q read)) q (50887 . 3)) ((c form c (c (? . 1) q method)) q (26731 . 2)) ((c def c (c (? . 0) q toc-target-element)) c (? . 53)) ((c def c (c (? . 0) q make-style)) c (? . 91)) ((c def c (c (? . 9) q close-eval)) q (39938 . 3)) ((c def c (c (? . 0) q collect-element-collect)) c (? . 57)) ((c def c (c (? . 0) q delayed-block-resolve)) c (? . 81)) ((c def c (c (? . 6) q literal-syntax-stx)) c (? . 95)) ((c form c (c (? . 1) q racketblock)) q (12014 . 5)) ((c def c (c (? . 0) q resolve-search)) q (60667 . 6)) ((c def c (c (? . 1) q pidefterm)) q (30301 . 3)) ((c def c (c (? . 1) q schememetafont)) q (15911 . 3)) ((q def ((lib "scribble/render.rkt") render)) q (65451 . 35)) ((c def c (c (? . 0) q make-toc-element)) c (? . 41)) ((c def c (c (? . 11) q struct:title-decl)) c (? . 34)) ((c def c (c (? . 0) q traverse-block)) c (? . 43)) ((c def c (c (? . 0) q multiarg-element-style)) c (? . 48)) ((c form c (c (? . 1) q definterface)) q (25484 . 2)) ((c form c (c (? . 1) q definterface/title)) q (25541 . 2)) ((c def c (c (? . 3) q struct:part-link-redirect)) c (? . 101)) ((c def c (c (? . 7) q mixin-index-desc)) c (? . 102)) ((c def c (c (? . 3) q link-resource?)) c (? . 72)) ((c def c (c (? . 3) q html-defaults-prefix)) c (? . 19)) ((c def c (c (? . 3) q script-property-script)) c (? . 28)) ((c def c (c (? . 7) q make-struct-index-desc)) c (? . 94)) ((c def c (c (? . 29) q keywords)) q (10012 . 3)) ((c def c (c (? . 0) q traverse-element)) c (? . 61)) ((c def c (c (? . 1) q onscreen)) q (27237 . 3)) ((c form c (c (? . 1) q history)) q (31608 . 8)) ((c def c (c (? . 3) q url-anchor?)) c (? . 97)) ((c def c (c (? . 1) q racketfont)) q (13840 . 3)) ((c def c (c (? . 4) q target-url?)) c (? . 85)) ((c form c (c (? . 1) q RACKETBLOCK0)) q (12215 . 2)) ((c form c (c (? . 1) q SCHEMEBLOCK)) q (13156 . 2)) ((c form c (c (? . 1) q defform*)) q (20894 . 4)) ((c def c (c (? . 2) q verbatim)) q (4001 . 4)) ((c def c (c (? . 1) q schememodfont)) q (16092 . 3)) ((c def c (c (? . 5) q xref-binding->definition-tag)) q (74406 . 17)) ((c def c (c (? . 0) q page-target-element)) c (? . 44)) ((c def c (c (? . 2) q author)) q (2418 . 3)) ((c def c (c (? . 38) q make-at-readtable)) q (51568 . 12)) ((c def c (c (? . 11) q splice)) c (? . 49)) ((c def c (c (? . 0) q table-blockss)) c (? . 84)) ((c def c (c (? . 11) q pre-part?)) q (71742 . 3)) ((c form c (c (? . 60) q author)) q (10936 . 2)) ((c def c (c (? . 4) q struct:with-attributes)) c (? . 59)) ((c def c (c (? . 11) q part-collect-decl)) c (? . 96)) ((c def c (c (? . 0) q target-url?)) c (? . 20)) ((c form c (c (? . 1) q RACKETBLOCK)) q (12120 . 2)) ((c def c (c (? . 2) q -~-)) q (5607 . 2)) ((c def c (c (? . 2) q literal)) q (4967 . 3)) ((c def c (c (? . 3) q hover-property-text)) c (? . 23)) ((c def c (c (? . 0) q make-color-property)) c (? . 71)) ((c def c (c (? . 7) q struct:thing-index-desc)) c (? . 103)) ((c def c (c (? . 4) q unnumbered-part?)) q (45444 . 3)) ((c form c (c (? . 1) q defsignature)) q (26834 . 2)) ((c form c (c (? . 1) q defproc)) q (17917 . 29)) ((c meth c (c (? . 106) q render)) q (70968 . 7)) ((c def c (c (? . 21) q make-latex-defaults)) c (? . 30)) ((c def c (c (? . 0) q table-columns)) c (? . 69)) ((c def c (c (? . 7) q make-class-index-desc)) c (? . 56)) ((c def c (c (? . 6) q error-color)) q (37510 . 2)) ((c def c (c (? . 0) q nested-flow-blocks)) c (? . 62)) ((c def c (c (? . 7) q exported-index-desc)) c (? . 74)) ((c def c (c (? . 0) q target-element?)) c (? . 10)) ((c def c (c (? . 6) q make-variable-id)) q (36995 . 3)) ((c def c (c (? . 0) q style)) c (? . 91)) ((c def c (c (? . 1) q PFlag)) q (27849 . 3)) ((c def c (c (? . 2) q seclink)) q (6859 . 13)) ((c def c (c (? . 0) q struct:compound-paragraph)) c (? . 105)) ((c def c (c (? . 7) q struct:mixin-index-desc)) c (? . 102)) ((c def c (? . 106)) q (70863 . 3)) ((c def c (c (? . 0) q toc-target2-element)) c (? . 92)) ((c def c (c (? . 11) q decode-flow)) q (72060 . 3)) ((c def c (c (? . 6) q struct:just-context)) c (? . 99)) ((c def c (c (? . 6) q value-color)) q (37392 . 2)) ((c def c (c (? . 7) q struct:interface-index-desc)) c (? . 107)) ((c def c (c (? . 7) q make-mixin-index-desc)) c (? . 102)) ((c def c (c (? . 1) q bibliography)) q (30821 . 4)) ((c def c (c (? . 7) q make-procedure-index-desc)) c (? . 109)) ((c def c (c (? . 15) q kleenestar)) q (43206 . 3)) ((c def c (c (? . 0) q make-document-date)) c (? . 70)) ((c def c (c (? . 0) q table-cells-styless)) c (? . 26)) ((c form c (c (? . 1) q svar)) q (15131 . 2)) ((c def c (c (? . 0) q collect-info-ext-ht)) c (? . 24)) ((c def c (c (? . 1) q DFlag)) q (27766 . 3)) ((c def c (c (? . 0) q make-part-relative-element)) c (? . 66)) ((c form c (c (? . 1) q this-obj)) q (26816 . 2)) ((c def c (c (? . 0) q info-key?)) q (60238 . 3)) ((c def c (c (? . 0) q style-properties)) c (? . 91)) ((c def c (c (? . 29) q copyrightyear)) q (9350 . 3)) ((c def c (c (? . 3) q struct:css-style-addition)) c (? . 35)) ((c def c (c (? . 7) q struct:exported-index-desc)) c (? . 74)) ((c def c (c (? . 1) q schemeparenfont)) q (15818 . 3)) ((c def c (c (? . 29) q terms)) q (9937 . 3)) ((c def c (c (? . 6) q var-id?)) c (? . 36)) ((c def c (c (? . 27) q intern-taglet)) q (77925 . 3)) ((c def c (c (? . 0) q element)) c (? . 37)) ((c def c (c (? . 3) q struct:js-style-addition)) c (? . 86)) ((q def ((lib "scribble/pdf-render.rkt") render-mixin)) q (70773 . 3)) ((c def c (c (? . 0) q color-property?)) c (? . 71)) ((c def c (c (? . 1) q racketoutput)) q (14934 . 3)) ((c def c (c (? . 0) q struct:toc-target-element)) c (? . 53)) ((c def c (c (? . 4) q element-style)) q (49172 . 3)) ((c def c (c (? . 5) q entry-content)) c (? . 65)) ((c def c (c (? . 3) q script-property)) c (? . 28)) ((c def c (c (? . 4) q element?)) q (49057 . 3)) ((c form c (c (? . 9) q interaction0)) q (37931 . 2)) ((c def c (c (? . 11) q part-start)) c (? . 25)) ((c def c (c (? . 2) q title)) q (0 . 13)) ((c def c (c (? . 2) q image)) q (5032 . 9)) ((c def c (c (? . 3) q part-link-redirect-url)) c (? . 101)) ((c def c (c (? . 0) q part-parts)) c (? . 22)) ((c def c (c (? . 4) q make-hover-element)) q (49341 . 5)) ((c def c (c (? . 11) q decode-paragraph)) q (72230 . 3)) ((c def c (c (? . 11) q part-collect-decl-element)) c (? . 96)) ((c def c (c (? . 0) q collect-info-ht)) c (? . 24)) ((c def c (c (? . 0) q struct:document-date)) c (? . 70)) ((c def c (c (? . 7) q constructor-index-desc-class-tag)) c (? . 68)) ((c def c (c (? . 0) q part)) c (? . 22)) ((c def c (c (? . 2) q items/c)) q (3535 . 2)) ((c def c (c (? . 3) q html-defaults)) c (? . 19)) ((c def c (c (? . 11) q part-start-tag-prefix)) c (? . 25)) ((c def c (c (? . 0) q box-mode-top-name)) c (? . 51)) ((c def c (c (? . 3) q struct:link-resource)) c (? . 72)) ((q def ((lib "scribble/latex-prefix.rkt") unicode-encoding-packages)) q (77981 . 2)) ((c def c (c (? . 21) q make-command-extras)) c (? . 79)) ((c def c (c (? . 0) q collected-info-parent)) c (? . 31)) ((c def c (c (? . 6) q struct:literal-syntax)) c (? . 95)) ((c def c (c (? . 3) q struct:body-id)) c (? . 108)) ((c def c (c (? . 11) q make-part-tag-decl)) c (? . 90)) ((c def c (c (? . 4) q make-toc-target2-element)) q (47664 . 9)) ((c def c (c (? . 0) q index-element-tag)) c (? . 75)) ((c def c (c (? . 4) q part-flow)) q (44068 . 3)) ((c def c (c (? . 7) q procedure-index-desc?)) c (? . 109)) ((c def c (c (? . 0) q paragraph)) c (? . 87)) ((c def c (c (? . 1) q racketkeywordfont)) q (14379 . 3)) ((q form ((lib "scribble/lp-include.rkt") lp-include)) q (50857 . 2)) ((c def c (c (? . 7) q form-index-desc?)) c (? . 76)) ((c def c (c (? . 0) q make-target-url)) c (? . 20)) ((c def c (c (? . 1) q Flag)) q (27684 . 3)) ((c def c (c (? . 6) q literal-syntax)) c (? . 95)) ((c def c (c (? . 1) q racketmetafont)) q (14567 . 3)) ((c def c (c (? . 11) q part-start?)) c (? . 25)) ((c def c (c (? . 0) q generated-tag?)) c (? . 88)) ((c def c (c (? . 4) q make-table)) q (46035 . 4)) ((c def c (c (? . 7) q method-index-desc?)) c (? . 80)) ((c def c (? . 110)) q (70221 . 3)) ((c def c (c (? . 0) q box-mode-bottom-name)) c (? . 51)) ((c form c (c (? . 1) q racketid)) q (13065 . 2)) ((c def c (c (? . 0) q make-compound-paragraph)) c (? . 105)) ((c meth c (c (? . 18) q collect)) q (67491 . 7)) ((c def c (c (? . 7) q thing-index-desc)) c (? . 103)) ((c def c (c (? . 1) q racketerror)) q (14754 . 3)) ((c form c (c (? . 1) q defform*/subs)) q (21748 . 5)) ((c form c (c (? . 13) q provide/doc)) q (42543 . 2)) ((c def c (c (? . 1) q schemeidfont)) q (15542 . 3)) ((c def c (c (? . 6) q make-long-boolean)) c (? . 98)) ((c def c (c (? . 2) q other-doc)) q (7370 . 7)) ((c form c (c (? . 1) q schemeinput)) q (13299 . 2)) ((c def c (c (? . 4) q with-attributes-style)) c (? . 59)) ((c def c (c (? . 0) q table-columns?)) c (? . 69)) ((c form c (c (? . 1) q racketmod)) q (12667 . 8)) ((c form c (c (? . 1) q code)) q (11730 . 10)) ((c def c (c (? . 21) q tex-addition-path)) c (? . 93)) ((c form c (c (? . 1) q defmethod)) q (26118 . 14)) ((c def c (c (? . 3) q js-style-addition)) c (? . 86)) ((c def c (c (? . 3) q html-defaults-extra-files)) c (? . 19)) ((c def c (c (? . 0) q struct:table)) c (? . 84)) ((c def c (c (? . 0) q make-link-element)) c (? . 8)) ((c def c (c (? . 5) q xref?)) q (73816 . 3)) ((c meth c (c (? . 18) q serialize-info)) q (68076 . 3)) ((c def c (c (? . 0) q redirect-target-element)) c (? . 32)) ((c def c (c (? . 3) q css-addition)) c (? . 54)) ((c def c (c (? . 1) q hash-lang)) q (31957 . 2)) ((c def c (c (? . 2) q emph)) q (4885 . 3)) ((c def c (c (? . 1) q defidentifier)) q (24684 . 9)) ((c def c (c (? . 0) q resolve-info-undef)) c (? . 33)) ((c def c (c (? . 3) q make-hover-property)) c (? . 23)) ((c def c (c (? . 29) q category)) q (9625 . 9)) ((c def c (c (? . 11) q part-tag-decl)) c (? . 90)) ((c def c (c (? . 0) q collect-info)) c (? . 24)) ((c def c (c (? . 2) q centered)) q (3051 . 3)) ((c def c (c (? . 6) q to-paragraph)) q (34435 . 11)) ((c def c (c (? . 0) q part-relative-element-plain)) c (? . 66)) ((c def c (c (? . 0) q render-element)) c (? . 77)) ((c def c (c (? . 6) q paren-color)) q (37335 . 2)) ((c form c (c (? . 89) q include-abstract)) q (10174 . 2)) ((c def c (c (? . 3) q column-attributes?)) c (? . 39)) ((c form c (c (? . 1) q defmixin/title)) q (25676 . 2)) ((c def c (c (? . 0) q delayed-element-plain)) c (? . 58)) ((c def c (c (? . 4) q make-part)) q (43581 . 15)) ((c def c (c (? . 3) q make-head-extra)) c (? . 12)) ((c def c (c (? . 1) q etc)) q (31874 . 2)) ((c form c (c (? . 1) q defsignature/splice)) q (26892 . 2)) ((c form c (c (? . 1) q defconstructor*/make)) q (25975 . 2)) ((c form c (c (? . 1) q defstruct*)) q (23258 . 4)) ((c def c (c (? . 0) q make-traverse-block)) c (? . 43)) ((c def c (c (? . 0) q compound-paragraph)) c (? . 105)) ((c form c (c (? . 1) q racketmodlink)) q (13723 . 2)) ((c def c (? . 111)) q (71244 . 3)) ((c def c (c (? . 6) q just-context)) c (? . 99)) ((c def c (c (? . 0) q image-element?)) c (? . 16)) ((c def c (c (? . 0) q resolve-get-keys)) q (60955 . 5)) ((c def c (c (? . 4) q omitable-paragraph?)) q (45970 . 3)) ((c form c (c (? . 1) q racketresult)) q (13017 . 2)) ((c def c (c (? . 11) q pre-content?)) q (71629 . 3)) ((c def c (c (? . 0) q collected-info-number)) c (? . 31)) ((c form c (c (? . 1) q defform/none)) q (21094 . 4)) ((c def c (c (? . 0) q struct:delayed-element)) c (? . 58)) ((c form c (c (? . 29) q nocopyright)) q (8802 . 2)) ((c def c (c (? . 0) q struct:generated-tag)) c (? . 88)) ((c def c (c (? . 1) q filebox)) q (32307 . 4)) ((c def c (c (? . 7) q struct:constructor-index-desc)) c (? . 68)) ((c form c (c (? . 82) q provide-extracted)) q (42615 . 2)) ((c def c (c (? . 21) q latex-defaults?)) c (? . 30)) ((c def c (c (? . 3) q css-addition?)) c (? . 54)) ((c def c (c (? . 4) q make-aux-element)) q (49240 . 4)) ((c def c (c (? . 0) q part-blocks)) c (? . 22)) ((c def c (c (? . 0) q resolve-info-ci)) c (? . 33)) ((c def c (c (? . 11) q struct:part-collect-decl)) c (? . 96)) ((c def c (c (? . 0) q element-style?)) q (58711 . 3)) ((c def c (c (? . 0) q resolve-get/ext?)) q (60530 . 5)) ((c def c (c (? . 0) q collect-info-ext-demand)) c (? . 24)) ((c def c (c (? . 0) q link-element?)) c (? . 8)) ((c def c (c (? . 0) q struct:document-version)) c (? . 64)) ((c def c (c (? . 29) q doi)) q (9512 . 3)) ((c form c (c (? . 1) q declare-exporting)) q (16933 . 8)) ((c form c (c (? . 60) q include-abstract)) q (10699 . 2)) ((c def c (c (? . 21) q latex-defaults-extra-files)) c (? . 30)) ((c def c (c (? . 0) q struct:box-mode)) c (? . 51)) ((c def c (c (? . 4) q element-content)) q (49111 . 3)) ((c form c (c (? . 1) q racketgrammar*)) q (24613 . 2)) ((c def c (c (? . 3) q alt-tag)) c (? . 73)) ((c def c (c (? . 4) q make-target-url)) c (? . 85)) ((c def c (c (? . 6) q shaped-parens-val)) c (? . 55)) ((c def c (c (? . 3) q url-anchor-name)) c (? . 97)) ((c def c (c (? . 3) q struct:js-addition)) c (? . 83)) ((c def c (c (? . 4) q make-element)) q (47149 . 4)) ((c def c (c (? . 1) q manual-doc-style)) q (31923 . 2)) ((c def c (c (? . 4) q make-page-target-element)) q (47978 . 6)) ((c def c (c (? . 7) q make-method-index-desc)) c (? . 80)) ((c def c (c (? . 3) q part-link-redirect?)) c (? . 101)) ((c def c (c (? . 89) q affiliation-sep)) q (10573 . 2)) ((c def c (c (? . 0) q toc-target2-element?)) c (? . 92)) ((c def c (c (? . 0) q make-itemization)) c (? . 45)) ((c def c (c (? . 7) q interface-index-desc?)) c (? . 107)) ((c def c (c (? . 3) q body-id?)) c (? . 108)) ((c def c (c (? . 3) q column-attributes)) c (? . 39)) ((c def c (c (? . 6) q struct:long-boolean)) c (? . 98)) ((c def c (c (? . 0) q background-color-property?)) c (? . 52)) ((c def c (c (? . 3) q struct:install-resource)) c (? . 42)) ((c def c (c (? . 0) q struct:delayed-block)) c (? . 81)) ((c def c (c (? . 0) q background-color-property)) c (? . 52)) ((c meth c (c (? . 18) q render)) q (67925 . 5)) ((c def c (c (? . 2) q .__)) q (5672 . 2)) ((c form c (c (? . 1) q defidform/inline)) q (21270 . 3)) ((c def c (c (? . 2) q elemref)) q (7757 . 7)) ((c form c (c (? . 29) q 10pt)) q (8790 . 2)) ((c def c (c (? . 3) q struct:html-defaults)) c (? . 19)) ((c form c (c (? . 29) q onecolumn)) q (8821 . 2)) ((c def c (c (? . 11) q title-decl-tags)) c (? . 34)) ((c def c (c (? . 3) q attributes)) c (? . 40)) ((c def c (c (? . 0) q document-version-text)) c (? . 64)) ((c meth c (c (? . 18) q deserialize-info)) q (68305 . 7)) ((c def c (c (? . 0) q compound-paragraph-blocks)) c (? . 105)) ((c def c (c (? . 3) q struct:hover-property)) c (? . 23)) ((c def c (c (? . 0) q struct:background-color-property)) c (? . 52)) ((c def c (c (? . 4) q make-unnumbered-part)) q (44880 . 15)) ((c def c (c (? . 0) q struct:collected-info)) c (? . 31)) ((c def c (c (? . 2) q smaller)) q (4716 . 3)) ((c def c (c (? . 3) q link-resource)) c (? . 72)) ((c def c (c (? . 11) q part-tag-decl?)) c (? . 90)) ((c def c (c (? . 1) q link)) q (28215 . 10)) ((c def c (c (? . 15) q BNF-seq)) q (42897 . 3)) ((c form c (c (? . 1) q scheme)) q (13397 . 2)) ((c def c (c (? . 11) q make-part-start)) c (? . 25)) ((c def c (c (? . 6) q long-boolean)) c (? . 98)) ((c def c (c (? . 0) q struct:traverse-element)) c (? . 61)) ((c def c (c (? . 6) q make-shaped-parens)) c (? . 55)) ((c def c (c (? . 7) q struct:struct-index-desc)) c (? . 94)) ((c def c (c (? . 0) q collect-put!)) q (60293 . 5)) ((c def c (c (? . 0) q tag?)) q (58771 . 3)) ((c form c (c (? . 60) q institute)) q (11052 . 2)) ((c def c (c (? . 1) q DPFlag)) q (27932 . 3)) ((c form c (c (? . 1) q specform/subs)) q (21882 . 5)) ((c form c (c (? . 1) q defconstructor/auto-super)) q (26044 . 2)) ((c def c (c (? . 1) q signature-desc)) q (26957 . 3)) ((c def c (c (? . 0) q collected-info?)) c (? . 31)) ((c def c (c (? . 6) q to-element/no-color)) q (35876 . 7)) ((c def c (c (? . 3) q body-id)) c (? . 108)) ((c def c (c (? . 3) q part-link-redirect)) c (? . 101)) ((c def c (c (? . 4) q struct:image-file)) c (? . 46)) ((c def c (c (? . 2) q tabular)) q (3689 . 5)) ((c def c (c (? . 1) q math)) q (32232 . 3)) ((c def c (c (? . 1) q t)) q (31793 . 3)) ((c def c (c (? . 1) q tech)) q (29135 . 12)) ((c def c (c (? . 38) q use-at-readtable)) q (52341 . 2)) ((c def c (c (? . 15) q nonterm)) q (42819 . 3)) ((c def c (c (? . 0) q color-property)) c (? . 71)) ((c meth c (c (? . 18) q get-external)) q (68853 . 3)) ((c def c (c (? . 7) q struct:procedure-index-desc)) c (? . 109)) ((c def c (c (? . 6) q just-context-val)) c (? . 99)) ((c def c (c (? . 60) q abstract)) q (10615 . 3)) ((c def c (c (? . 2) q nested)) q (2896 . 4)) ((c def c (c (? . 0) q plain)) q (58688 . 2)) ((c form c (c (? . 9) q def+int)) q (38375 . 2)) ((c def c (c (? . 3) q js-addition?)) c (? . 83)) ((c def c (c (? . 7) q make-thing-index-desc)) c (? . 103)) ((c def c (c (? . 6) q comment-color)) q (37304 . 2)) ((c def c (c (? . 15) q kleenerange)) q (43368 . 5)) ((c def c (c (? . 0) q make-part)) c (? . 22)) ((c def c (c (? . 4) q with-attributes?)) c (? . 59)) ((c def c (c (? . 0) q toc-element?)) c (? . 41)) ((c def c (c (? . 0) q document-date?)) c (? . 70)) ((c def c (c (? . 89) q affiliation)) q (10416 . 3)) ((c def c (c (? . 3) q head-extra-xexpr)) c (? . 12)) ((c form c (c (? . 1) q defmodulereader)) q (17364 . 2)) ((c def c (c (? . 9) q make-base-eval-factory)) q (39051 . 10)) ((c def c (c (? . 0) q element-traverse-procedure/c)) q (61582 . 2)) ((c def c (c (? . 0) q struct:image-element)) c (? . 16)) ((c def c (c (? . 0) q collect-element)) c (? . 57)) ((c def c (c (? . 11) q splice-run)) c (? . 49)) ((c def c (c (? . 11) q part-start-depth)) c (? . 25)) ((c def c (c (? . 0) q multiarg-element-contents)) c (? . 48)) ((c def c (c (? . 0) q block-traverse-procedure/c)) q (61535 . 2)) ((c def c (c (? . 0) q compound-paragraph-style)) c (? . 105)) ((c def c (c (? . 6) q make-element-id-transformer)) q (36822 . 3)) ((c def c (c (? . 6) q variable-color)) q (37451 . 2)) ((c form c (c (? . 1) q RACKETRESULTBLOCK)) q (12370 . 2)) ((c def c (c (? . 5) q entry?)) c (? . 65)) ((c def c (c (? . 0) q struct:index-element)) c (? . 75)) ((c def c (c (? . 2) q ~)) q (5587 . 2)) ((c def c (c (? . 3) q struct:render-convertible-as)) c (? . 47)) ((c def c (c (? . 3) q js-style-addition-path)) c (? . 86)) ((c def c (c (? . 5) q struct:entry)) c (? . 65)) ((c def c (c (? . 0) q struct:resolve-info)) c (? . 33)) ((c def c (c (? . 7) q module-path-index-desc?)) c (? . 14)) ((c def c (c (? . 6) q variable-id?)) q (36937 . 3)) ((c def c (c (? . 0) q delayed-element-resolve)) c (? . 58)) ((c def c (c (? . 0) q document-version)) c (? . 64)) ((c def c (c (? . 2) q item?)) q (3638 . 3)) ((c def c (c (? . 3) q make-body-id)) c (? . 108)) ((c def c (c (? . 4) q make-omitable-paragraph)) q (45887 . 3)) ((c def c (c (? . 1) q current-display-width)) q (25166 . 4)) ((c def c (c (? . 9) q scribble-eval-handler)) q (40021 . 5)) ((c def c (c (? . 11) q title-decl?)) c (? . 34)) ((c form c (c (? . 1) q defmodulelang)) q (17169 . 4)) ((c constructor c (? . 112)) q (69102 . 17)) ((c def c (c (? . 2) q larger)) q (4801 . 3)) ((c def c (c (? . 1) q schemefont)) q (15269 . 3)) ((c def c (c (? . 1) q aux-elem)) q (27066 . 3)) ((c def c (c (? . 1) q PLaneT)) q (31897 . 2)) ((c def c (c (? . 0) q image-element-path)) c (? . 16)) ((c def c (c (? . 1) q other-manual)) q (28577 . 5)) ((c def c (c (? . 3) q url-anchor)) c (? . 97)) ((c def c (c (? . 0) q table?)) c (? . 84)) ((c def c (c (? . 0) q traverse-block?)) c (? . 43)) ((c def c (c (? . 4) q target-url)) c (? . 85)) ((c form c (c (? . 1) q specspecsubform)) q (21525 . 3)) ((c def c (c (? . 0) q traverse-element-content)) q (61403 . 4)) ((c def c (c (? . 5) q xref-index)) q (76558 . 3)) ((c def c (c (? . 1) q racketidfont)) q (14198 . 3)) ((c def c (c (? . 0) q nested-flow)) c (? . 62)) ((c def c (c (? . 0) q element-content)) c (? . 37)) ((c def c (c (? . 6) q just-context?)) c (? . 99)) ((c def c (c (? . 7) q make-interface-index-desc)) c (? . 107)) ((c def c (c (? . 0) q make-box-mode)) c (? . 51)) ((c def c (c (? . 6) q result-color)) q (37243 . 2)) ((c def c (c (? . 0) q render-element-render)) c (? . 77)) ((c def c (c (? . 11) q part-index-decl-plain-seq)) c (? . 50)) ((c form c (c (? . 1) q racketblock0)) q (12167 . 2)) ((c def c (c (? . 7) q procedure-index-desc)) c (? . 109)) ((c def c (c (? . 7) q method-index-desc-class-tag)) c (? . 80)) ((c def c (c (? . 0) q content?)) q (58478 . 3)) ((c def c (c (? . 0) q struct:table-cells)) c (? . 26)) ((c form c (c (? . 1) q defthing)) q (22873 . 14)) ((c def c (c (? . 0) q make-table)) c (? . 84)) ((c def c (c (? . 2) q subsection)) q (1018 . 9)) ((c def c (c (? . 6) q highlighted-color)) q (37702 . 2)) ((c def c (c (? . 2) q elemtag)) q (7637 . 4)) ((c def c (c (? . 15) q kleeneplus)) q (43287 . 3)) ((c def c (c (? . 0) q itemization?)) c (? . 45)) ((c form c (c (? . 1) q racketinput)) q (12477 . 2)) ((c def c (c (? . 5) q entry-words)) c (? . 65)) ((c def c (c (? . 1) q envvar)) q (27600 . 3)) ((c def c (c (? . 2) q ._)) q (5650 . 2)) ((c def c (c (? . 11) q title-decl-content)) c (? . 34)) ((c def c (c (? . 2) q para)) q (2736 . 4)) ((c def c (c (? . 3) q render-convertible-as-types)) c (? . 47)) ((c form c (c (? . 1) q defform)) q (19530 . 26)) ((c def c (c (? . 21) q tex-addition)) c (? . 93)) ((c def c (c (? . 1) q schemevalfont)) q (15357 . 3)) ((c form c (c (? . 1) q schemegrammar)) q (25032 . 2)) ((c def c (c (? . 2) q subsubsection)) q (1459 . 9)) ((c form c (c (? . 1) q schemeblock)) q (13109 . 2)) ((c meth c (c (? . 110) q set-external-tag-path)) q (70311 . 3))))
+59428
+((3) 0 () 123 ((q lib "scribble/manual.rkt") (q lib "scribble/core.rkt") (q lib "scribble/html-properties.rkt") (q lib "scribble/lncs/lang.rkt") (q lib "scribble/racket.rkt") (q lib "scribble/manual-struct.rkt") (q 73870 . 7) (q lib "scribble/base.rkt") (q lib "scribble/sigplan.rkt") (q lib "scribble/decode.rkt") (q lib "scribble/tag.rkt") (q lib "scribble/srcdoc.rkt") (q 68595 . 5) (q lib "scribble/acmart.rkt") (q 65483 . 4) (c (? . 38) q override-render-mixin-multi) (q 85170 . 8) (q lib "scribble/base-render.rkt") (q 65231 . 6) (q lib "scribble/latex-properties.rkt") (q 64313 . 5) (q 76108 . 5) (q lib "scribble/struct.rkt") (q 72327 . 4) (q 41473 . 3) (q lib "scribble/eval.rkt") (q 74117 . 4) (q 74918 . 4) (q 67515 . 4) (q 63703 . 5) (q 42179 . 3) (q 76555 . 4) (q 59983 . 5) (q 63851 . 5) (q 68108 . 4) (q 72596 . 4) (q 64955 . 4) (q 74356 . 9) (q lib "scribble/contract-render.rkt") (q 44593 . 4) (q 41177 . 3) (q 70587 . 7) (q 64456 . 7) (q 44956 . 5) (q 72465 . 4) (q 75442 . 6) (q 75200 . 4) (q 67069 . 6) (q 42056 . 3) (q lib "scribble/xref.rkt") (q 42294 . 6) (q 75082 . 4) (q lib "scribble/blueboxes.rkt") (q 66529 . 6) (q 85861 . 4) (q 73149 . 7) (q 73635 . 7) (q 66906 . 4) (q 65616 . 4) (q 60157 . 5) (q 63542 . 5) (q 65731 . 7) (q 66302 . 6) (q 74809 . 4) (c (? . 102) q render-mixin) (q 44846 . 4) (q 72970 . 5) (q 76694 . 4) (q 41297 . 5) (q 72748 . 4) (q 85422 . 5) (q 69999 . 20) (q 85593 . 4) (q 73386 . 7) (q 65115 . 3) (q 63239 . 5) (q lib "scribble/bnf.rkt") (q 41824 . 3) (q 65981 . 5) (q lib "scribble/reader.rkt") (c (? . 17) q render<%>) (q 67974 . 4) (q 68234 . 6) (q 66754 . 4) (q 64156 . 4) (q 40947 . 3) (q 63378 . 5) (q 64014 . 4) (c (? . 17) q render%) (q 41941 . 3) (q 67640 . 4) (q 74220 . 4) (q 72855 . 4) (q 60295 . 6) (q 41586 . 3) (q lib "scribble/jfp.rkt") (q lib "scribble/basic.rkt") (q 75653 . 9) (q 67796 . 4) (q 68882 . 3) (q 75318 . 4) (q 89398 . 7) (q lib "scribble/html-render.rkt") (q 76420 . 4) (q 84899 . 8) (q lib "scribble/lp.rkt") (q 41709 . 3) (q 64841 . 3) (q 85753 . 4) (q lib "scribble/extract.rkt") (q 44711 . 5) (q 62787 . 16) (q 41053 . 3) (q 64722 . 4) (q 45095 . 4) (q 67384 . 4) (q 67272 . 4) (c (? . 102) q render-multi-mixin) (q 42534 . 4) (q lib "scribble/pdf-render.rkt") (q 66154 . 4) (c (? . 38) q override-render-mixin-single) (q lib "scribble/latex-render.rkt")) () (h ! (equal) ((c form c (c (? . 0) q specspecsubform)) q (29104 . 3)) ((c form c (c (? . 3) q institutes)) q (17036 . 4)) ((c form c (c (? . 0) q defmodulelang*)) q (24708 . 2)) ((c def c (c (? . 2) q script-property-script)) c (? . 66)) ((c form c (c (? . 8) q notimes)) q (9444 . 2)) ((c form c (c (? . 13) q 9pt)) q (10993 . 2)) ((c def c (c (? . 119) q xelatex-render-mixin)) q (83064 . 3)) ((c def c (c (? . 1) q table-columns-styles)) c (? . 34)) ((c def c (c (? . 9) q decode-paragraph)) q (84529 . 3)) ((c def c (c (? . 1) q itemization-style)) c (? . 60)) ((c def c (c (? . 0) q defidentifier)) q (32600 . 9)) ((c def c (c (? . 1) q nested-flow-blocks)) c (? . 29)) ((c def c (c (? . 5) q make-procedure-index-desc)) c (? . 94)) ((c meth c (c (? . 64) q set-external-root-url)) q (82328 . 3)) ((c def c (c (? . 1) q paragraph-content)) c (? . 75)) ((c def c (c (? . 4) q make-var-id)) c (? . 39)) ((c def c (c (? . 2) q make-column-attributes)) c (? . 35)) ((c def c (c (? . 0) q inset-flow)) q (40139 . 3)) ((c def c (c (? . 0) q math)) q (40305 . 3)) ((c def c (c (? . 3) q abstract)) q (16701 . 3)) ((c def c (c (? . 4) q syntax-link-color)) q (45992 . 2)) ((c def c (c (? . 2) q make-js-style-addition)) c (? . 6)) ((c form c (c (? . 0) q racketmodlink)) q (20683 . 2)) ((c def c (c (? . 0) q schemeerror)) q (23056 . 3)) ((c def c (c (? . 1) q struct:document-date)) c (? . 28)) ((c def c (c (? . 1) q index-element?)) c (? . 61)) ((c def c (c (? . 5) q method-index-desc?)) c (? . 50)) ((c def c (c (? . 2) q js-style-addition)) c (? . 6)) ((c form c (c (? . 11) q struct*-doc)) q (51185 . 9)) ((c def c (c (? . 1) q struct:toc-element)) c (? . 14)) ((c form c (c (? . 0) q definterface)) q (33520 . 2)) ((c def c (c (? . 7) q items/c)) q (3535 . 2)) ((c def c (c (? . 7) q ?-)) q (6215 . 2)) ((c form c (c (? . 0) q defconstructor/make)) q (33950 . 2)) ((c def c (c (? . 8) q copyrightyear)) q (9956 . 3)) ((c def c (c (? . 9) q make-splice)) c (? . 54)) ((c form c (c (? . 0) q racketresult)) q (19977 . 2)) ((c def c (c (? . 7) q subsubsub*section)) q (1912 . 9)) ((c def c (c (? . 1) q struct:style)) c (? . 12)) ((c def c (c (? . 0) q racketkeywordfont)) q (21432 . 3)) ((c def c (c (? . 10) q make-section-tag)) q (89986 . 7)) ((c def c (c (? . 9) q part-start)) c (? . 16)) ((c def c (c (? . 5) q constructor-index-desc?)) c (? . 118)) ((c def c (c (? . 19) q tex-addition)) c (? . 45)) ((c def c (c (? . 5) q make-form-index-desc)) c (? . 24)) ((c form c (c (? . 95) q include-abstract)) q (16260 . 2)) ((c def c (c (? . 9) q decode-flow)) q (84359 . 3)) ((c def c (c (? . 7) q elemtag)) q (8223 . 4)) ((c def c (c (? . 10) q intern-taglet)) q (90913 . 3)) ((c def c (c (? . 0) q deftech)) q (36907 . 10)) ((c def c (c (? . 1) q resolve-info-searches)) c (? . 41)) ((c def c (c (? . 7) q secref)) q (6727 . 9)) ((c form c (c (? . 11) q proc-doc/names)) q (49839 . 15)) ((c form c (c (? . 0) q this-obj)) q (34962 . 2)) ((c form c (c (? . 0) q indexed-racket)) q (38289 . 2)) ((c def c (c (? . 0) q void-const)) q (39983 . 2)) ((c form c (c (? . 0) q specform/subs)) q (29461 . 5)) ((c form c (c (? . 0) q racketmod0)) q (19829 . 2)) ((c form c (c (? . 8) q nocopyright)) q (9408 . 2)) ((c def c (c (? . 1) q style?)) c (? . 12)) ((c def c (? . 15)) q (83162 . 3)) ((c def c (c (? . 1) q table-style)) c (? . 86)) ((c def c (c (? . 0) q racketidfont)) q (21251 . 3)) ((c def c (c (? . 0) q procedure)) q (22077 . 3)) ((c def c (c (? . 1) q make-element)) c (? . 20)) ((c def c (c (? . 13) q margintable)) q (15539 . 3)) ((c def c (c (? . 4) q element-id-transformer?)) q (45206 . 3)) ((c def c (c (? . 5) q reader-index-desc?)) c (? . 40)) ((c def c (c (? . 1) q content?)) q (68541 . 3)) ((c def c (c (? . 22) q make-element)) q (57369 . 4)) ((c def c (c (? . 4) q input-color)) q (45571 . 2)) ((c form c (c (? . 25) q interaction-eval-show)) q (49010 . 2)) ((c constructor c (? . 88)) q (80630 . 20)) ((c form c (c (? . 3) q email)) q (17155 . 2)) ((c def c (c (? . 1) q redirect-target-element-alt-path)) c (? . 18)) ((c def c (c (? . 0) q etc)) q (39864 . 2)) ((c def c (c (? . 1) q toc-element)) c (? . 14)) ((c def c (c (? . 1) q background-color-property-color)) c (? . 98)) ((c meth c (c (? . 15) q render)) q (83267 . 7)) ((c def c (c (? . 1) q collect-element-collect)) c (? . 83)) ((c def c (c (? . 1) q struct:compound-paragraph)) c (? . 33)) ((c def c (c (? . 9) q part-start-title)) c (? . 16)) ((c meth c (c (? . 80) q traverse)) q (78874 . 4)) ((c def c (c (? . 9) q part-start-style)) c (? . 16)) ((c def c (c (? . 1) q redirect-target-element-alt-anchor)) c (? . 18)) ((c def c (c (? . 2) q render-convertible-as-types)) c (? . 27)) ((c def c (c (? . 13) q affiliation?)) q (14480 . 3)) ((c def c (c (? . 8) q copyrightdata)) q (10037 . 3)) ((c def c (c (? . 19) q struct:latex-defaults+replacements)) c (? . 21)) ((c def c (c (? . 7) q centered)) q (3051 . 3)) ((c form c (c (? . 0) q RACKETRESULTBLOCK)) q (19330 . 2)) ((c def c (c (? . 1) q struct:element)) c (? . 20)) ((c form c (c (? . 0) q defconstructor*/make)) q (34011 . 2)) ((c def c (c (? . 1) q part-number-item?)) q (69351 . 3)) ((c def c (c (? . 1) q delayed-element-resolve)) c (? . 62)) ((c def c (c (? . 52) q fetch-blueboxes-method-tags)) q (91866 . 7)) ((c def c (c (? . 2) q struct:body-id)) c (? . 26)) ((c def c (c (? . 10) q definition-tag?)) q (91349 . 3)) ((c def c (c (? . 19) q latex-defaults+replacements)) c (? . 21)) ((c def c (c (? . 8) q conferenceinfo)) q (9833 . 4)) ((c def c (c (? . 0) q pidefterm)) q (38447 . 3)) ((c def c (c (? . 5) q struct:thing-index-desc)) c (? . 106)) ((c def c (c (? . 2) q attributes?)) c (? . 23)) ((c def c (c (? . 22) q make-redirect-target-element)) q (58342 . 12)) ((c def c (c (? . 22) q with-attributes?)) c (? . 32)) ((c form c (c (? . 0) q codeblock)) q (17193 . 16)) ((c def c (c (? . 4) q value-color)) q (45845 . 2)) ((c def c (c (? . 79) q read-syntax)) q (61181 . 4)) ((c form c (c (? . 0) q defmodulereader*/no-declare)) q (25029 . 2)) ((c def c (c (? . 2) q struct:attributes)) c (? . 23)) ((c def c (c (? . 9) q part-tag-decl)) c (? . 108)) ((c def c (c (? . 1) q part-relative-element-resolve)) c (? . 53)) ((c def c (c (? . 2) q html-defaults)) c (? . 37)) ((c def c (c (? . 1) q toc-target2-element?)) c (? . 36)) ((c def c (c (? . 1) q make-collect-info)) c (? . 71)) ((c def c (c (? . 5) q struct:mixin-index-desc)) c (? . 30)) ((c def c (c (? . 19) q make-command-optional)) c (? . 31)) ((c def c (c (? . 5) q form-index-desc)) c (? . 24)) ((c def c (c (? . 25) q scribble-exn->string)) q (48263 . 4)) ((c def c (c (? . 1) q info-key?)) q (70778 . 3)) ((c def c (c (? . 1) q render-element-render)) c (? . 57)) ((c def c (c (? . 9) q pre-flow?)) q (83986 . 3)) ((c def c (c (? . 13) q acmNumber)) q (12732 . 3)) ((c def c (c (? . 0) q schemeoutput)) q (23236 . 3)) ((c form c (c (? . 13) q include-abstract)) q (11124 . 2)) ((c def c (c (? . 0) q bib-entry)) q (38908 . 15)) ((c def c (c (? . 2) q body-id?)) c (? . 26)) ((c def c (c (? . 2) q attributes)) c (? . 23)) ((c def c (c (? . 1) q make-table-cells)) c (? . 81)) ((c def c (c (? . 8) q keywords)) q (10695 . 3)) ((c def c (c (? . 1) q traverse-element?)) c (? . 120)) ((c form c (c (? . 25) q defexamples*)) q (49538 . 2)) ((c def c (c (? . 4) q block-color)) q (46126 . 2)) ((c def c (c (? . 7) q tabular)) q (3689 . 13)) ((c def c (c (? . 2) q alt-tag)) c (? . 44)) ((c def c (c (? . 0) q racketresultfont)) q (21072 . 5)) ((c def c (c (? . 1) q color-property?)) c (? . 90)) ((c def c (c (? . 2) q render-convertible-as?)) c (? . 27)) ((c def c (c (? . 19) q short-title)) c (? . 67)) ((c def c (c (? . 0) q schememetafont)) q (22964 . 3)) ((c def c (c (? . 7) q bold)) q (4864 . 3)) ((c def c (c (? . 4) q make-long-boolean)) c (? . 65)) ((c def c (c (? . 1) q image-element-suffixes)) c (? . 42)) ((c def c (c (? . 1) q document-date)) c (? . 28)) ((c def c (c (? . 7) q index)) q (8617 . 4)) ((c def c (c (? . 13) q received)) q (15204 . 4)) ((c def c (c (? . 9) q make-part-collect-decl)) c (? . 72)) ((c def c (c (? . 1) q content-width)) q (69195 . 3)) ((c def c (c (? . 1) q nested-flow-style)) c (? . 29)) ((c def c (c (? . 13) q terms)) q (14857 . 3)) ((c def c (c (? . 5) q make-mixin-index-desc)) c (? . 30)) ((c def c (c (? . 1) q collected-info-parent)) c (? . 47)) ((c def c (c (? . 13) q acmYear)) q (12887 . 3)) ((c def c (c (? . 49) q xref-tag->path+anchor)) q (88033 . 12)) ((c def c (c (? . 5) q class-index-desc?)) c (? . 89)) ((c def c (c (? . 19) q command-optional?)) c (? . 31)) ((c def c (c (? . 2) q struct:hover-property)) c (? . 92)) ((c def c (c (? . 22) q with-attributes-style)) c (? . 32)) ((c def c (c (? . 1) q compound-paragraph-blocks)) c (? . 33)) ((c def c (c (? . 4) q struct:literal-syntax)) c (? . 114)) ((c def c (c (? . 10) q class/interface-tag->constructor-tag)) q (91099 . 4)) ((c def c (c (? . 4) q shaped-parens)) c (? . 110)) ((c form c (c (? . 0) q defidform)) q (28586 . 2)) ((c def c (c (? . 1) q make-table-columns)) c (? . 34)) ((c def c (c (? . 2) q column-attributes?)) c (? . 35)) ((c def c (c (? . 1) q make-toc-target2-element)) c (? . 36)) ((c form c (c (? . 0) q defclass)) q (33223 . 8)) ((c def c (c (? . 10) q taglet?)) q (90384 . 3)) ((c def c (c (? . 0) q bibliography)) q (38778 . 4)) ((c form c (c (? . 0) q SCHEMEBLOCK)) q (20116 . 2)) ((c def c (c (? . 4) q just-context?)) c (? . 43)) ((c def c (c (? . 9) q pre-content?)) q (83928 . 3)) ((c form c (c (? . 0) q racketmod)) q (19627 . 8)) ((c form c (c (? . 0) q specform)) q (28919 . 3)) ((c def c (c (? . 1) q element)) c (? . 20)) ((c def c (c (? . 13) q keywords)) q (14932 . 3)) ((c def c (c (? . 5) q mixin-index-desc)) c (? . 30)) ((c def c (c (? . 13) q acmBadgeR)) q (13454 . 4)) ((c form c (c (? . 13) q authorversion)) q (10972 . 2)) ((c def c (c (? . 0) q racketfont)) q (20800 . 3)) ((c def c (c (? . 5) q exported-index-desc-from-libs)) c (? . 68)) ((c def c (c (? . 7) q item?)) q (3638 . 3)) ((c def c (c (? . 7) q title)) q (0 . 13)) ((c def c (c (? . 2) q html-defaults-extra-files)) c (? . 37)) ((c def c (c (? . 1) q make-page-target-element)) c (? . 74)) ((c def c (c (? . 1) q part)) c (? . 111)) ((c def c (c (? . 22) q element-style)) q (59392 . 3)) ((c def c (c (? . 2) q link-resource-path)) c (? . 46)) ((c def c (c (? . 1) q numberer-step)) q (69672 . 9)) ((c def c (c (? . 1) q tag?)) q (68832 . 3)) ((c form c (c (? . 8) q include-abstract)) q (9561 . 2)) ((c form c (c (? . 25) q def+int)) q (49257 . 2)) ((c meth c (c (? . 121) q render)) q (83649 . 7)) ((c form c (c (? . 0) q defmethod)) q (34154 . 17)) ((c def c (c (? . 4) q struct:var-id)) c (? . 39)) ((c form c (c (? . 11) q provide/doc)) q (52763 . 2)) ((c def c (c (? . 25) q make-base-eval-factory)) q (46949 . 10)) ((c def c (c (? . 5) q interface-index-desc)) c (? . 48)) ((c def c (c (? . 1) q link-element-tag)) c (? . 58)) ((c def c (c (? . 2) q js-addition-path)) c (? . 56)) ((c def c (c (? . 22) q target-url)) c (? . 59)) ((c def c (c (? . 0) q filebox)) q (40380 . 4)) ((c def c (c (? . 0) q schememodfont)) q (23145 . 3)) ((c def c (c (? . 1) q struct:toc-target2-element)) c (? . 36)) ((c def c (c (? . 5) q struct:reader-index-desc)) c (? . 40)) ((c def c (c (? . 22) q make-link-element)) q (58728 . 5)) ((c def c (c (? . 1) q resolve-info)) c (? . 41)) ((c form c (c (? . 0) q deftogether)) q (32268 . 2)) ((c form c (c (? . 13) q acmsmall)) q (10791 . 2)) ((c def c (c (? . 0) q current-display-width)) q (33082 . 4)) ((c def c (c (? . 2) q make-url-anchor)) c (? . 69)) ((c def c (c (? . 1) q image-element)) c (? . 42)) ((c def c (c (? . 4) q just-context)) c (? . 43)) ((c form c (c (? . 11) q thing-doc)) q (51046 . 2)) ((c form c (c (? . 8) q onecolumn)) q (9427 . 2)) ((c def c (c (? . 2) q struct:css-addition)) c (? . 55)) ((c def c (c (? . 2) q alt-tag-name)) c (? . 44)) ((c form c (c (? . 0) q racketblock0)) q (19127 . 2)) ((c def c (c (? . 19) q make-tex-addition)) c (? . 45)) ((c form c (c (? . 0) q racketgrammar)) q (32393 . 5)) ((c def c (c (? . 25) q close-eval)) q (47974 . 3)) ((c def c (c (? . 2) q link-resource)) c (? . 46)) ((c def c (c (? . 1) q collected-info)) c (? . 47)) ((c def c (c (? . 0) q racketoutput)) q (21987 . 3)) ((c def c (c (? . 4) q keyword-color)) q (45726 . 2)) ((c def c (c (? . 5) q make-interface-index-desc)) c (? . 48)) ((c def c (c (? . 22) q make-omitable-paragraph)) q (56107 . 3)) ((c def c (c (? . 13) q affiliation)) q (13691 . 15)) ((c def c (c (? . 1) q multiarg-element)) c (? . 78)) ((c def c (c (? . 9) q part-start-tag-prefix)) c (? . 16)) ((c def c (c (? . 2) q part-link-redirect-url)) c (? . 51)) ((c def c (c (? . 0) q exec)) q (35664 . 3)) ((c def c (c (? . 49) q data+root+doc-id?)) q (89766 . 3)) ((c def c (c (? . 5) q method-index-desc-method-name)) c (? . 50)) ((c def c (c (? . 22) q make-aux-element)) q (59460 . 4)) ((c form c (c (? . 3) q authors)) q (16824 . 8)) ((c def c (c (? . 1) q style-name)) c (? . 12)) ((c def c (c (? . 2) q make-part-link-redirect)) c (? . 51)) ((c def c (c (? . 52) q blueboxes-cache?)) q (92460 . 3)) ((c def c (c (? . 5) q make-method-index-desc)) c (? . 50)) ((c def c (c (? . 1) q part-relative-element-plain)) c (? . 53)) ((c form c (c (? . 11) q proc-doc)) q (50342 . 16)) ((c def c (c (? . 1) q toc-element-toc-content)) c (? . 14)) ((c def c (c (? . 22) q auxiliary-table?)) q (57179 . 3)) ((c form c (c (? . 0) q defmodule*)) q (24628 . 2)) ((c def c (c (? . 19) q command-optional-arguments)) c (? . 31)) ((c def c (c (? . 9) q splice-run)) c (? . 54)) ((c def c (c (? . 0) q commandline)) q (40048 . 3)) ((c def c (c (? . 22) q image-file-path)) c (? . 93)) ((c form c (c (? . 0) q defmixin)) q (33640 . 2)) ((c def c (c (? . 2) q make-css-addition)) c (? . 55)) ((c def c (c (? . 2) q js-addition)) c (? . 56)) ((c def c (c (? . 7) q superscript)) q (5113 . 3)) ((c def c (c (? . 1) q render-element)) c (? . 57)) ((c def c (c (? . 2) q head-extra-xexpr)) c (? . 63)) ((c form c (c (? . 13) q sigplan)) q (10868 . 2)) ((c def c (c (? . 1) q traverse-element-content)) q (72099 . 4)) ((c def c (c (? . 0) q centerline)) q (40222 . 3)) ((c def c (c (? . 2) q struct:render-convertible-as)) c (? . 27)) ((c def c (c (? . 1) q box-mode-center-name)) c (? . 82)) ((c def c (c (? . 13) q teaserfigure)) q (15313 . 3)) ((c def c (c (? . 1) q link-element?)) c (? . 58)) ((c def c (c (? . 22) q target-url?)) c (? . 59)) ((c def c (c (? . 1) q toc-target-element)) c (? . 107)) ((c def c (c (? . 7) q section)) q (589 . 9)) ((c def c (c (? . 7) q para)) q (2736 . 4)) ((c def c (c (? . 9) q part-index-decl?)) c (? . 70)) ((c form c (c (? . 0) q defform/subs)) q (29202 . 5)) ((c def c (c (? . 1) q itemization)) c (? . 60)) ((c def c (c (? . 4) q comment-color)) q (45757 . 2)) ((c def c (c (? . 1) q make-index-element)) c (? . 61)) ((c def c (c (? . 13) q institution?)) q (14794 . 3)) ((c def c (c (? . 0) q racketcommentfont)) q (21712 . 3)) ((c def c (c (? . 1) q block-width)) q (69275 . 3)) ((c def c (c (? . 1) q make-delayed-element)) c (? . 62)) ((c def c (c (? . 1) q struct:table-columns)) c (? . 34)) ((c def c (c (? . 1) q collected-info-number)) c (? . 47)) ((c def c (c (? . 1) q make-traverse-block)) c (? . 87)) ((c def c (c (? . 2) q struct:head-extra)) c (? . 63)) ((c def c (c (? . 4) q symbol-color)) q (45874 . 2)) ((c def c (c (? . 22) q make-index-element)) q (58857 . 13)) ((c def c (? . 64)) q (81923 . 3)) ((c def c (c (? . 4) q long-boolean)) c (? . 65)) ((c def c (c (? . 1) q index-element-tag)) c (? . 61)) ((c def c (c (? . 22) q struct:target-url)) c (? . 59)) ((c def c (c (? . 4) q result-color)) q (45696 . 2)) ((c form c (c (? . 0) q schemelink)) q (36319 . 2)) ((c def c (c (? . 10) q constructor-tag?)) q (91533 . 3)) ((c form c (c (? . 0) q codeblock0)) q (17779 . 2)) ((c def c (c (? . 5) q mixin-index-desc?)) c (? . 30)) ((c def c (c (? . 0) q aux-elem)) q (35212 . 3)) ((c def c (c (? . 2) q make-link-resource)) c (? . 46)) ((c def c (c (? . 2) q script-property?)) c (? . 66)) ((c def c (c (? . 1) q itemization-blockss)) c (? . 60)) ((c def c (c (? . 19) q short-title?)) c (? . 67)) ((c def c (c (? . 76) q nonterm)) q (53039 . 3)) ((c def c (c (? . 1) q delayed-element-plain)) c (? . 62)) ((c def c (c (? . 1) q target-url?)) c (? . 116)) ((c def c (c (? . 5) q exported-index-desc)) c (? . 68)) ((c def c (c (? . 22) q make-part)) q (53801 . 15)) ((c def c (c (? . 9) q title-decl-style)) c (? . 104)) ((c def c (c (? . 2) q url-anchor)) c (? . 69)) ((c def c (c (? . 7) q table-of-contents)) q (9215 . 2)) ((c def c (c (? . 5) q make-struct-index-desc)) c (? . 77)) ((c def c (c (? . 22) q make-hover-element)) q (59561 . 5)) ((c def c (c (? . 2) q make-css-style-addition)) c (? . 73)) ((c def c (c (? . 1) q collected-info?)) c (? . 47)) ((c def c (c (? . 22) q make-with-attributes)) c (? . 32)) ((c def c (c (? . 22) q unnumbered-part?)) q (55664 . 3)) ((c def c (c (? . 0) q racketvalfont)) q (20981 . 3)) ((c def c (c (? . 9) q make-part-index-decl)) c (? . 70)) ((c def c (c (? . 1) q make-compound-paragraph)) c (? . 33)) ((c def c (c (? . 1) q style-properties)) c (? . 12)) ((c form c (c (? . 3) q institute)) q (17138 . 2)) ((c form c (c (? . 0) q xmethod)) q (34919 . 2)) ((c def c (c (? . 19) q command-extras)) c (? . 103)) ((c def c (c (? . 49) q xref-binding->definition-tag)) q (86801 . 23)) ((c def c (c (? . 1) q compound-paragraph-style)) c (? . 33)) ((c def c (c (? . 1) q collect-info-fp)) c (? . 71)) ((c def c (c (? . 7) q subsubsection)) q (1459 . 9)) ((c def c (c (? . 9) q part-index-decl)) c (? . 70)) ((c def c (c (? . 0) q tech)) q (37281 . 12)) ((c def c (c (? . 9) q part-collect-decl?)) c (? . 72)) ((c def c (c (? . 1) q resolve-get/ext-id)) q (71207 . 5)) ((c def c (c (? . 9) q part-collect-decl)) c (? . 72)) ((c def c (c (? . 2) q css-style-addition)) c (? . 73)) ((c form c (c (? . 0) q schemegrammar)) q (32948 . 2)) ((c def c (c (? . 0) q DFlag)) q (35912 . 3)) ((c def c (c (? . 49) q entry-content)) c (? . 101)) ((c def c (c (? . 0) q PFlag)) q (35995 . 3)) ((c form c (c (? . 8) q preprint)) q (9380 . 2)) ((c def c (c (? . 1) q collect-info-ht)) c (? . 71)) ((c def c (c (? . 1) q resolve-get/ext?)) q (71070 . 5)) ((c def c (c (? . 1) q collect-info-relatives)) c (? . 71)) ((c def c (c (? . 7) q url)) q (6670 . 3)) ((c def c (c (? . 7) q image)) q (5518 . 11)) ((c def c (c (? . 1) q page-target-element)) c (? . 74)) ((c def c (c (? . 9) q part-index-decl-entry-seq)) c (? . 70)) ((c def c (c (? . 1) q block-traverse-procedure/c)) q (72231 . 2)) ((c def c (c (? . 22) q element-content)) q (59331 . 3)) ((c form c (c (? . 25) q examples*)) q (49432 . 2)) ((c def c (c (? . 1) q struct:paragraph)) c (? . 75)) ((c def c (c (? . 1) q delayed-block-resolve)) c (? . 84)) ((c def c (c (? . 1) q resolve-get)) q (70948 . 5)) ((c def c (c (? . 9) q part-start-tags)) c (? . 16)) ((c def c (c (? . 4) q var-id-sym)) c (? . 39)) ((c def c (c (? . 76) q kleenerange)) q (53588 . 5)) ((c def c (c (? . 19) q command-optional)) c (? . 31)) ((c def c (c (? . 10) q definition-tag->class/interface-tag)) q (90969 . 4)) ((c form c (c (? . 0) q defsubform*)) q (28816 . 4)) ((c def c (c (? . 1) q resolve-info?)) c (? . 41)) ((c def c (c (? . 1) q paragraph-style)) c (? . 75)) ((c def c (c (? . 7) q nonbreaking)) q (6011 . 3)) ((c def c (c (? . 1) q collect-info-gen-prefix)) c (? . 71)) ((c def c (c (? . 7) q subscript)) q (5026 . 3)) ((c def c (c (? . 7) q larger)) q (5287 . 3)) ((c def c (c (? . 5) q struct-index-desc?)) c (? . 77)) ((c def c (c (? . 1) q make-multiarg-element)) c (? . 78)) ((c def c (c (? . 22) q make-target-url)) c (? . 59)) ((c def c (c (? . 22) q make-versioned-part)) q (54412 . 17)) ((c def c (c (? . 1) q index-element-entry-seq)) c (? . 61)) ((c def c (c (? . 1) q struct:itemization)) c (? . 60)) ((c form c (c (? . 0) q RACKETBLOCK)) q (19080 . 2)) ((c def c (c (? . 2) q document-source)) c (? . 91)) ((c def c (c (? . 76) q BNF-seq)) q (53117 . 3)) ((c form c (c (? . 0) q specspecsubform/subs)) q (29720 . 5)) ((c def c (c (? . 2) q make-body-id)) c (? . 26)) ((c def c (c (? . 25) q make-eval-factory)) q (47400 . 10)) ((c def c (c (? . 79) q read-syntax-inside)) q (61441 . 8)) ((c def c (c (? . 10) q method-tag?)) q (91476 . 3)) ((c def c (c (? . 5) q module-path-index-desc?)) c (? . 85)) ((c form c (c (? . 13) q sigchi)) q (10883 . 2)) ((c def c (c (? . 19) q tex-addition-path)) c (? . 45)) ((c def c (c (? . 7) q nested)) q (2896 . 4)) ((c meth c (c (? . 80) q get-external)) q (80381 . 3)) ((q def ((lib "scribble/latex-prefix.rkt") unicode-encoding-packages)) q (92522 . 2)) ((c def c (c (? . 25) q make-log-based-eval)) q (47836 . 4)) ((c def c (c (? . 1) q table-cells?)) c (? . 81)) ((c form c (c (? . 8) q 10pt)) q (9396 . 2)) ((c def c (c (? . 1) q index-element-desc)) c (? . 61)) ((c def c (c (? . 1) q image-element-path)) c (? . 42)) ((c def c (c (? . 1) q struct:box-mode)) c (? . 82)) ((c def c (c (? . 0) q signature-desc)) q (35103 . 3)) ((c meth c (c (? . 80) q render)) q (79453 . 5)) ((c def c (c (? . 5) q make-reader-index-desc)) c (? . 40)) ((c def c (c (? . 0) q racketvarfont)) q (21341 . 3)) ((c def c (c (? . 1) q struct:collect-element)) c (? . 83)) ((c def c (c (? . 2) q html-defaults-style)) c (? . 37)) ((c def c (c (? . 2) q install-resource-path)) c (? . 100)) ((c def c (c (? . 1) q element-style?)) q (68772 . 3)) ((c def c (c (? . 0) q racketmetafont)) q (21620 . 3)) ((c def c (c (? . 4) q to-paragraph/prefix)) q (43333 . 17)) ((c def c (c (? . 1) q make-render-element)) c (? . 57)) ((c def c (c (? . 22) q with-attributes-assoc)) c (? . 32)) ((c def c (c (? . 0) q schemeidfont)) q (22595 . 3)) ((c def c (c (? . 1) q delayed-block?)) c (? . 84)) ((c def c (c (? . 1) q collect-info-tags)) c (? . 71)) ((c def c (c (? . 5) q module-path-index-desc)) c (? . 85)) ((c def c (c (? . 9) q struct:splice)) c (? . 54)) ((c def c (c (? . 1) q table?)) c (? . 86)) ((c def c (c (? . 7) q ._)) q (6236 . 2)) ((c def c (c (? . 49) q xref-index)) q (89328 . 3)) ((c form c (c (? . 109) q include-previously-extracted)) q (52875 . 2)) ((c def c (c (? . 2) q html-defaults-prefix)) c (? . 37)) ((c def c (c (? . 96) q itemize)) q (60845 . 4)) ((c def c (c (? . 1) q traverse-block?)) c (? . 87)) ((c def c (c (? . 1) q link-element)) c (? . 58)) ((c def c (c (? . 8) q exclusive-license)) q (10189 . 2)) ((c form c (c (? . 0) q svar)) q (22184 . 2)) ((c def c (c (? . 7) q Secref)) q (7086 . 9)) ((c def c (c (? . 0) q image/plain)) q (40758 . 5)) ((c def c (c (? . 22) q make-unnumbered-part)) q (55100 . 15)) ((c form c (c (? . 25) q with-eval-preserve-source-locations)) q (49747 . 2)) ((c def c (c (? . 10) q get-class/interface-and-method)) q (91241 . 3)) ((c def c (c (? . 2) q make-head-extra)) c (? . 63)) ((c form c (c (? . 25) q interaction0)) q (48852 . 2)) ((c def c (c (? . 1) q box-mode)) c (? . 82)) ((c def c (c (? . 1) q struct:target-element)) c (? . 113)) ((c form c (c (? . 0) q defmodulereader)) q (24561 . 2)) ((c def c (c (? . 1) q index-element-plain-seq)) c (? . 61)) ((c def c (c (? . 8) q to-appear)) q (10231 . 3)) ((c def c (c (? . 22) q make-paragraph)) q (55726 . 3)) ((c def c (c (? . 1) q table-cells-styless)) c (? . 81)) ((c form c (c (? . 25) q examples)) q (49387 . 2)) ((c def c (c (? . 1) q collected-info-info)) c (? . 47)) ((c def c (c (? . 1) q generated-tag?)) c (? . 99)) ((c def c (? . 88)) q (80556 . 4)) ((c def c (c (? . 5) q struct:class-index-desc)) c (? . 89)) ((c def c (c (? . 1) q color-property)) c (? . 90)) ((c def c (c (? . 4) q struct:long-boolean)) c (? . 65)) ((c def c (c (? . 2) q struct:document-source)) c (? . 91)) ((c def c (c (? . 1) q element-style)) c (? . 20)) ((c def c (c (? . 22) q target-url-addr)) c (? . 59)) ((c form c (c (? . 0) q schememod)) q (20306 . 2)) ((c def c (c (? . 122) q render-mixin)) q (82617 . 3)) ((c form c (c (? . 0) q RACKETBLOCK0)) q (19175 . 2)) ((c form c (c (? . 0) q defparam*)) q (30320 . 5)) ((c def c (c (? . 1) q make-numberer)) q (69468 . 6)) ((c def c (c (? . 19) q make-short-title)) c (? . 67)) ((c def c (c (? . 2) q column-attributes-assoc)) c (? . 35)) ((c def c (c (? . 10) q class/interface-tag?)) q (91410 . 3)) ((c def c (c (? . 7) q hyperlink)) q (6281 . 10)) ((c def c (c (? . 2) q hover-property)) c (? . 92)) ((c def c (c (? . 22) q image-file-scale)) c (? . 93)) ((c def c (c (? . 5) q procedure-index-desc)) c (? . 94)) ((c form c (c (? . 3) q include-abstract)) q (16785 . 2)) ((c form c (c (? . 0) q defmodule)) q (23326 . 20)) ((c form c (c (? . 0) q RACKETINPUT0)) q (19579 . 2)) ((c def c (c (? . 76) q kleenestar)) q (53426 . 3)) ((c def c (c (? . 4) q input-background-color)) q (45600 . 2)) ((c def c (c (? . 1) q compound-paragraph)) c (? . 33)) ((c def c (c (? . 95) q affiliation-mark)) q (16579 . 3)) ((c def c (c (? . 7) q verbatim)) q (4487 . 4)) ((c def c (c (? . 9) q splice?)) c (? . 54)) ((c def c (c (? . 19) q latex-defaults-prefix)) c (? . 97)) ((c def c (c (? . 96) q span-class)) q (60725 . 4)) ((c def c (c (? . 49) q xref-render)) q (88619 . 13)) ((c def c (c (? . 1) q toc-target2-element)) c (? . 36)) ((c def c (c (? . 19) q latex-defaults-extra-files)) c (? . 97)) ((c def c (c (? . 1) q box-mode*)) q (68425 . 3)) ((c def c (c (? . 19) q make-latex-defaults+replacements)) c (? . 21)) ((c def c (c (? . 2) q struct:js-addition)) c (? . 56)) ((c def c (c (? . 9) q part-start?)) c (? . 16)) ((c form c (c (? . 0) q schemegrammar*)) q (33011 . 2)) ((c def c (c (? . 5) q struct:procedure-index-desc)) c (? . 94)) ((c def c (c (? . 4) q to-element)) q (44046 . 9)) ((c form c (c (? . 13) q sigconf)) q (10837 . 2)) ((c def c (c (? . 5) q struct-index-desc)) c (? . 77)) ((c def c (c (? . 2) q hover-property-text)) c (? . 92)) ((c form c (c (? . 0) q schemeblock)) q (20069 . 2)) ((c def c (c (? . 52) q fetch-blueboxes-strs)) q (91595 . 6)) ((c def c (c (? . 1) q struct:background-color-property)) c (? . 98)) ((c form c (c (? . 0) q defclass/title)) q (33442 . 2)) ((c meth c (c (? . 80) q get-undefined)) q (80468 . 3)) ((c def c (c (? . 1) q image-element?)) c (? . 42)) ((c def c (c (? . 0) q t)) q (39783 . 3)) ((c def c (c (? . 8) q subtitle)) q (9600 . 3)) ((c meth c (c (? . 80) q serialize-infos)) q (79684 . 5)) ((c form c (c (? . 0) q defmethod*)) q (34687 . 5)) ((c form c (c (? . 0) q defparam)) q (30089 . 5)) ((c def c (c (? . 22) q omitable-paragraph?)) q (56190 . 3)) ((c def c (c (? . 1) q make-toc-element)) c (? . 14)) ((c def c (c (? . 95) q affiliation)) q (16502 . 3)) ((c form c (c (? . 0) q defform/none)) q (28472 . 4)) ((c def c (c (? . 1) q make-generated-tag)) c (? . 99)) ((c def c (c (? . 0) q bib-entry?)) q (39509 . 3)) ((c form c (c (? . 13) q 10pt)) q (11004 . 2)) ((c form c (c (? . 0) q defidform/inline)) q (28648 . 3)) ((c def c (c (? . 22) q make-toc-element)) q (57466 . 5)) ((c form c (c (? . 13) q siggraph)) q (10852 . 2)) ((c def c (c (? . 13) q acmDOI)) q (13270 . 3)) ((c def c (c (? . 19) q latex-defaults?)) c (? . 97)) ((c def c (c (? . 8) q terms)) q (10620 . 3)) ((c def c (c (? . 2) q make-document-source)) c (? . 91)) ((c def c (c (? . 4) q make-just-context)) c (? . 43)) ((c def c (c (? . 1) q compound-paragraph?)) c (? . 33)) ((c def c (c (? . 5) q struct:struct-index-desc)) c (? . 77)) ((c form c (c (? . 0) q racketid)) q (20025 . 2)) ((c def c (c (? . 22) q part-title-content)) q (54351 . 3)) ((c def c (c (? . 8) q authorinfo)) q (9686 . 5)) ((c def c (c (? . 0) q racketerror)) q (21807 . 3)) ((c def c (c (? . 2) q struct:install-resource)) c (? . 100)) ((c def c (c (? . 1) q struct:document-version)) c (? . 115)) ((c def c (c (? . 1) q style)) c (? . 12)) ((q def ((lib "scribble/markdown-render.rkt") render-mixin)) q (81833 . 3)) ((c def c (c (? . 19) q short-title-text)) c (? . 67)) ((c def c (c (? . 0) q schemevarfont)) q (22685 . 3)) ((c form c (c (? . 0) q schemeresult)) q (20441 . 2)) ((c def c (c (? . 22) q make-image-file)) c (? . 93)) ((c def c (c (? . 19) q latex-defaults+replacements?)) c (? . 21)) ((c def c (c (? . 1) q delayed-element)) c (? . 62)) ((c form c (c (? . 4) q define-code)) q (42693 . 5)) ((c form c (c (? . 13) q manuscript)) q (10773 . 2)) ((c def c (c (? . 9) q decode-compound-paragraph)) q (84442 . 3)) ((c form c (c (? . 11) q parameter-doc)) q (51102 . 2)) ((c def c (c (? . 9) q part-start-depth)) c (? . 16)) ((c def c (c (? . 2) q body-id)) c (? . 26)) ((c def c (c (? . 22) q make-target-element)) q (57610 . 5)) ((c def c (c (? . 49) q entry-tag)) c (? . 101)) ((c def c (c (? . 1) q redirect-target-element)) c (? . 18)) ((c form c (c (? . 13) q sigchi-a)) q (10897 . 2)) ((c def c (c (? . 2) q document-source?)) c (? . 91)) ((c def c (c (? . 22) q struct:image-file)) c (? . 93)) ((c def c (c (? . 1) q table-cells)) c (? . 81)) ((c def c (c (? . 13) q ccsdesc)) q (15089 . 4)) ((c meth c (c (? . 117) q set-directory-depth)) q (82507 . 3)) ((c def c (c (? . 4) q struct:just-context)) c (? . 43)) ((c form c (c (? . 105) q CHUNK)) q (61041 . 2)) ((c def c (c (? . 7) q literal)) q (5453 . 3)) ((c def c (c (? . 1) q render-element?)) c (? . 57)) ((c def c (c (? . 9) q pre-part?)) q (84041 . 3)) ((c def c (c (? . 1) q make-resolve-info)) c (? . 41)) ((c form c (c (? . 0) q defform)) q (26907 . 26)) ((c def c (c (? . 7) q italic)) q (4780 . 3)) ((c def c (c (? . 7) q hspace)) q (6100 . 3)) ((q form ((lib "scribble/example.rkt") examples)) q (46190 . 14)) ((c def c (c (? . 2) q install-resource?)) c (? . 100)) ((c def c (c (? . 0) q schemeparenfont)) q (22871 . 3)) ((c def c (c (? . 1) q part-collected-info)) q (71797 . 4)) ((c def c (c (? . 22) q make-styled-itemization)) q (56630 . 4)) ((c def c (c (? . 5) q language-index-desc?)) c (? . 112)) ((c def c (c (? . 19) q command-extras-arguments)) c (? . 103)) ((c def c (c (? . 13) q anonsuppress)) q (15764 . 3)) ((c def c (c (? . 4) q make-variable-id)) q (45448 . 3)) ((c form c (c (? . 13) q screen)) q (10927 . 2)) ((c form c (c (? . 0) q definterface/title)) q (33577 . 2)) ((c def c (c (? . 4) q var-id?)) c (? . 39)) ((c def c (c (? . 1) q collect-info)) c (? . 71)) ((c def c (c (? . 1) q box-mode-bottom-name)) c (? . 82)) ((c def c (c (? . 22) q make-script-element)) q (59691 . 9)) ((c def c (c (? . 1) q element-traverse-procedure/c)) q (72278 . 2)) ((c def c (c (? . 25) q make-base-eval)) q (46540 . 10)) ((c def c (c (? . 13) q sidebar)) q (15390 . 3)) ((c def c (c (? . 19) q tex-addition?)) c (? . 45)) ((c def c (c (? . 7) q smaller)) q (5202 . 3)) ((c meth c (c (? . 80) q serialize-info)) q (79604 . 3)) ((c def c (c (? . 7) q index-section)) q (9116 . 3)) ((c meth c (c (? . 80) q get-defined)) q (80129 . 3)) ((c def c (c (? . 13) q grantnum)) q (16038 . 5)) ((c def c (c (? . 49) q make-data+root)) q (89654 . 4)) ((c form c (c (? . 13) q 12pt)) q (11028 . 2)) ((c def c (c (? . 49) q load-xref)) q (86152 . 13)) ((c def c (c (? . 4) q no-color)) q (45640 . 2)) ((c def c (c (? . 1) q element?)) c (? . 20)) ((c def c (c (? . 13) q email)) q (13564 . 3)) ((c form c (c (? . 0) q SCHEMEBLOCK0)) q (20211 . 2)) ((c def c (c (? . 2) q link-resource?)) c (? . 46)) ((c def c (c (? . 5) q struct:form-index-desc)) c (? . 24)) ((c def c (c (? . 9) q struct:title-decl)) c (? . 104)) ((c def c (c (? . 1) q table)) c (? . 86)) ((c def c (c (? . 4) q error-color)) q (45963 . 2)) ((c form c (c (? . 0) q defform*/subs)) q (29327 . 5)) ((c def c (c (? . 95) q author)) q (16299 . 3)) ((c def c (c (? . 8) q abstract)) q (9477 . 3)) ((c def c (c (? . 2) q document-source-module-path)) c (? . 91)) ((c form c (c (? . 105) q chunk)) q (61011 . 2)) ((c def c (c (? . 5) q thing-index-desc)) c (? . 106)) ((c def c (c (? . 76) q BNF)) q (52934 . 3)) ((c def c (c (? . 1) q struct:resolve-info)) c (? . 41)) ((c def c (c (? . 1) q struct:toc-target-element)) c (? . 107)) ((c def c (c (? . 2) q body-id-value)) c (? . 26)) ((c def c (c (? . 9) q title-decl-version)) c (? . 104)) ((c def c (c (? . 10) q module-path-prefix->string)) q (90734 . 3)) ((c form c (c (? . 0) q specsubform)) q (29010 . 3)) ((c def c (c (? . 4) q make-element-id-transformer)) q (45275 . 3)) ((c form c (c (? . 0) q code)) q (17828 . 10)) ((c def c (c (? . 2) q css-style-addition?)) c (? . 73)) ((c def c (c (? . 13) q title)) q (11163 . 15)) ((c def c (c (? . 76) q BNF-group)) q (53267 . 3)) ((c form c (c (? . 11) q for-doc)) q (49803 . 2)) ((c def c (c (? . 1) q make-redirect-target-element)) c (? . 18)) ((c def c (c (? . 2) q url-anchor?)) c (? . 69)) ((c def c (c (? . 7) q .__)) q (6258 . 2)) ((c def c (c (? . 4) q variable-color)) q (45904 . 2)) ((c def c (c (? . 4) q highlighted-color)) q (46155 . 2)) ((c form c (c (? . 0) q defconstructor/auto-super)) q (34080 . 2)) ((c def c (c (? . 1) q struct:index-element)) c (? . 61)) ((c def c (c (? . 0) q PLaneT)) q (39887 . 2)) ((c def c (c (? . 0) q racketmodfont)) q (21896 . 3)) ((c def c (c (? . 13) q subtitle)) q (11782 . 3)) ((c def c (c (? . 9) q struct:part-tag-decl)) c (? . 108)) ((c def c (c (? . 9) q clean-up-index-string)) q (86029 . 3)) ((c def c (c (? . 25) q scribble-eval-handler)) q (48057 . 5)) ((c def c (c (? . 13) q acmVolume)) q (12655 . 3)) ((c def c (c (? . 1) q struct:multiarg-element)) c (? . 78)) ((c form c (c (? . 109) q provide-extracted)) q (52835 . 2)) ((c def c (c (? . 1) q background-color-property)) c (? . 98)) ((c def c (c (? . 7) q index*)) q (8762 . 5)) ((c form c (c (? . 25) q racketmod+eval)) q (49189 . 2)) ((c def c (c (? . 1) q element-content)) c (? . 20)) ((c def c (c (? . 1) q part-relative-element)) c (? . 53)) ((c def c (c (? . 8) q category)) q (10308 . 9)) ((c def c (c (? . 25) q as-examples)) q (49599 . 6)) ((c def c (c (? . 7) q as-index)) q (8944 . 3)) ((c def c (c (? . 4) q shaped-parens-val)) c (? . 110)) ((c def c (c (? . 22) q struct:with-attributes)) c (? . 32)) ((c def c (c (? . 13) q acmArticleSeq)) q (13038 . 3)) ((c def c (c (? . 22) q styled-paragraph?)) q (55973 . 3)) ((c def c (c (? . 1) q resolve-info-undef)) c (? . 41)) ((c def c (c (? . 1) q struct:image-element)) c (? . 42)) ((c form c (c (? . 0) q racketblock)) q (18974 . 5)) ((c def c (c (? . 9) q whitespace?)) q (84842 . 3)) ((c def c (c (? . 49) q make-data+root+doc-id)) q (89829 . 5)) ((c form c (c (? . 0) q racketlink)) q (36162 . 6)) ((c def c (c (? . 1) q part-blocks)) c (? . 111)) ((c def c (c (? . 9) q struct:part-index-decl)) c (? . 70)) ((c def c (c (? . 0) q filepath)) q (35578 . 3)) ((c def c (c (? . 5) q make-language-index-desc)) c (? . 112)) ((c def c (c (? . 9) q spliceof)) q (85956 . 3)) ((c form c (c (? . 25) q defs+int)) q (49318 . 2)) ((c def c (c (? . 1) q struct:nested-flow)) c (? . 29)) ((c form c (c (? . 0) q racketinput0)) q (19531 . 2)) ((c def c (c (? . 4) q long-boolean?)) c (? . 65)) ((c def c (c (? . 1) q part-tag-prefix)) c (? . 111)) ((c def c (c (? . 1) q target-element)) c (? . 113)) ((c form c (c (? . 0) q defboolparam)) q (30449 . 4)) ((c def c (c (? . 22) q make-toc-target-element)) q (57743 . 5)) ((c def c (c (? . 1) q struct:table)) c (? . 86)) ((c def c (c (? . 5) q struct:exported-index-desc)) c (? . 68)) ((c form c (c (? . 0) q defthing)) q (30529 . 17)) ((c form c (c (? . 0) q defconstructor)) q (33790 . 5)) ((c def c (c (? . 0) q deprecated)) q (40507 . 7)) ((c def c (c (? . 1) q itemization?)) c (? . 60)) ((c def c (c (? . 2) q url-anchor-name)) c (? . 69)) ((c def c (c (? . 5) q reader-index-desc)) c (? . 40)) ((c meth c (c (? . 80) q deserialize-info)) q (79833 . 7)) ((c def c (c (? . 1) q numberer?)) q (69413 . 3)) ((c def c (c (? . 1) q part-style)) c (? . 111)) ((c def c (c (? . 1) q content->string)) q (68970 . 8)) ((c def c (c (? . 1) q part-title-content)) c (? . 111)) ((c def c (c (? . 1) q struct:delayed-block)) c (? . 84)) ((c def c (c (? . 4) q literal-syntax?)) c (? . 114)) ((c def c (c (? . 2) q hover-property?)) c (? . 92)) ((c def c (c (? . 1) q resolve-info-ci)) c (? . 41)) ((c def c (c (? . 7) q linebreak)) q (5975 . 2)) ((c def c (c (? . 1) q index-element)) c (? . 61)) ((c def c (c (? . 9) q decode-string)) q (84771 . 3)) ((c def c (c (? . 7) q margin-note)) q (3132 . 4)) ((c def c (c (? . 2) q struct:js-style-addition)) c (? . 6)) ((c def c (c (? . 5) q struct:language-index-desc)) c (? . 112)) ((c def c (c (? . 5) q make-class-index-desc)) c (? . 89)) ((c def c (c (? . 1) q make-collected-info)) c (? . 47)) ((c def c (c (? . 19) q struct:command-extras)) c (? . 103)) ((c def c (c (? . 4) q to-element/no-color)) q (44339 . 7)) ((c def c (c (? . 2) q struct:column-attributes)) c (? . 35)) ((c form c (c (? . 0) q defsignature)) q (34980 . 2)) ((c def c (c (? . 13) q acmConference)) q (12519 . 5)) ((c def c (c (? . 4) q paren-color)) q (45788 . 2)) ((c form c (c (? . 0) q defmodulelang*/no-declare)) q (24946 . 2)) ((c def c (c (? . 7) q author)) q (2418 . 3)) ((c def c (c (? . 7) q elemref)) q (8353 . 7)) ((c def c (c (? . 0) q litchar)) q (20736 . 3)) ((q def ((lib "scribble/render.rkt") render)) q (76815 . 38)) ((c form c (c (? . 11) q begin-for-doc)) q (52653 . 2)) ((c def c (c (? . 1) q part?)) c (? . 111)) ((c def c (c (? . 1) q image-element-scale)) c (? . 42)) ((c def c (c (? . 5) q make-exported-index-desc)) c (? . 68)) ((c def c (c (? . 2) q struct:script-property)) c (? . 66)) ((c form c (c (? . 7) q include-section)) q (2380 . 2)) ((c def c (c (? . 4) q module-color)) q (46061 . 2)) ((c form c (c (? . 11) q form-doc)) q (51794 . 26)) ((c def c (c (? . 13) q printonly)) q (15615 . 3)) ((c form c (c (? . 0) q schememodname)) q (22205 . 3)) ((c meth c (c (? . 64) q set-external-tag-path)) q (82245 . 3)) ((c def c (c (? . 13) q acks)) q (15841 . 3)) ((c def c (c (? . 13) q author)) q (11868 . 13)) ((c def c (c (? . 79) q make-at-readtable)) q (61782 . 15)) ((c def c (c (? . 1) q nested-flow)) c (? . 29)) ((c def c (c (? . 4) q variable-id?)) q (45390 . 3)) ((c def c (c (? . 0) q idefterm)) q (38361 . 3)) ((c form c (c (? . 0) q schememodlink)) q (22269 . 2)) ((c form c (c (? . 109) q include-extracted)) q (52795 . 2)) ((c def c (c (? . 0) q tasty-burrito)) q (39750 . 2)) ((c def c (c (? . 22) q make-compound-paragraph)) q (57241 . 4)) ((c def c (c (? . 1) q delayed-block)) c (? . 84)) ((c form c (c (? . 0) q defmodule*/no-declare)) q (24856 . 2)) ((c def c (c (? . 13) q abstract)) q (11040 . 3)) ((c def c (c (? . 0) q link)) q (36361 . 10)) ((c form c (c (? . 0) q defstruct*)) q (31080 . 4)) ((c def c (c (? . 7) q -~-)) q (6193 . 2)) ((c def c (c (? . 4) q literal-syntax)) c (? . 114)) ((c def c (c (? . 1) q resolve-search)) q (71363 . 6)) ((c def c (c (? . 19) q latex-defaults+replacements-replacements)) c (? . 21)) ((c def c (c (? . 2) q struct:url-anchor)) c (? . 69)) ((c def c (c (? . 22) q make-toc-target2-element)) q (57884 . 9)) ((c def c (c (? . 1) q redirect-target-element?)) c (? . 18)) ((c def c (c (? . 1) q plain)) q (68749 . 2)) ((c def c (c (? . 49) q data+root?)) q (89598 . 3)) ((c def c (c (? . 1) q make-link-element)) c (? . 58)) ((c def c (c (? . 13) q acmBadgeL)) q (13344 . 4)) ((c def c (c (? . 5) q thing-index-desc?)) c (? . 106)) ((c def c (c (? . 4) q shaped-parens?)) c (? . 110)) ((c meth c (c (? . 80) q get-defineds)) q (80215 . 6)) ((c def c (c (? . 9) q part-index-decl-plain-seq)) c (? . 70)) ((c form c (c (? . 25) q racketblock+eval)) q (49060 . 2)) ((c def c (c (? . 22) q make-table)) q (56255 . 4)) ((c form c (c (? . 0) q schemeblock0)) q (20163 . 2)) ((c def c (c (? . 76) q kleeneplus)) q (53507 . 3)) ((c def c (c (? . 0) q menuitem)) q (35469 . 4)) ((c def c (c (? . 2) q head-extra)) c (? . 63)) ((c def c (c (? . 1) q document-date-text)) c (? . 28)) ((c def c (c (? . 1) q document-version)) c (? . 115)) ((c def c (c (? . 2) q make-render-convertible-as)) c (? . 27)) ((c def c (c (? . 0) q other-manual)) q (36723 . 5)) ((c def c (c (? . 1) q block?)) q (68489 . 3)) ((c form c (c (? . 11) q generate-delayed-documents)) q (52687 . 2)) ((c def c (c (? . 49) q xref-tag->index-entry)) q (88509 . 4)) ((c def c (c (? . 1) q struct:target-url)) c (? . 116)) ((c def c (c (? . 7) q local-table-of-contents)) q (9265 . 3)) ((c def c (c (? . 7) q tt)) q (4946 . 3)) ((c def c (c (? . 1) q part-to-collect)) c (? . 111)) ((c def c (c (? . 1) q make-document-date)) c (? . 28)) ((c def c (c (? . 0) q racketparenfont)) q (21527 . 3)) ((c def c (c (? . 1) q make-itemization)) c (? . 60)) ((c def c (c (? . 2) q render-convertible-as)) c (? . 27)) ((c def c (c (? . 4) q literal-syntax-stx)) c (? . 114)) ((c def c (c (? . 49) q struct:entry)) c (? . 101)) ((c def c (c (? . 1) q generated-tag)) c (? . 99)) ((c def c (c (? . 76) q BNF-seq-lines)) q (53184 . 3)) ((c def c (c (? . 1) q struct:delayed-element)) c (? . 62)) ((c form c (c (? . 0) q racketinput)) q (19437 . 2)) ((c def c (c (? . 9) q struct:part-collect-decl)) c (? . 72)) ((c def c (c (? . 19) q latex-defaults-style)) c (? . 97)) ((c def c (? . 117)) q (82411 . 3)) ((c form c (c (? . 0) q defmodulelang)) q (24366 . 4)) ((c def c (c (? . 49) q entry-words)) c (? . 101)) ((c def c (c (? . 5) q procedure-index-desc?)) c (? . 94)) ((c def c (c (? . 4) q module-link-color)) q (46091 . 2)) ((c def c (c (? . 1) q target-element-_tag)) c (? . 113)) ((c def c (c (? . 5) q struct:constructor-index-desc)) c (? . 118)) ((c def c (c (? . 2) q head-extra?)) c (? . 63)) ((c form c (c (? . 0) q schemeinput)) q (20259 . 2)) ((c form c (c (? . 0) q defsubform)) q (28718 . 4)) ((c def c (c (? . 5) q method-index-desc-class-tag)) c (? . 50)) ((c def c (c (? . 1) q struct:table-cells)) c (? . 81)) ((c def c (c (? . 76) q BNF-alt)) q (53708 . 3)) ((c def c (c (? . 19) q latex-defaults)) c (? . 97)) ((c def c (c (? . 1) q make-paragraph)) c (? . 75)) ((c def c (c (? . 9) q part-tag-decl?)) c (? . 108)) ((c def c (c (? . 1) q make-background-color-property)) c (? . 98)) ((c form c (c (? . 25) q interaction-eval)) q (48965 . 2)) ((c def c (c (? . 7) q ~)) q (6173 . 2)) ((c def c (c (? . 4) q just-context-context)) c (? . 43)) ((c form c (c (? . 3) q author)) q (17022 . 2)) ((c def c (c (? . 5) q class-index-desc)) c (? . 89)) ((c def c (c (? . 1) q struct:color-property)) c (? . 90)) ((c def c (c (? . 19) q make-latex-defaults)) c (? . 97)) ((c def c (c (? . 1) q struct:page-target-element)) c (? . 74)) ((c def c (c (? . 1) q paragraph)) c (? . 75)) ((c def c (c (? . 2) q part-link-redirect?)) c (? . 51)) ((c def c (c (? . 2) q column-attributes)) c (? . 35)) ((c def c (c (? . 119) q dvi-render-mixin)) q (82970 . 3)) ((c def c (c (? . 1) q target-url-addr)) c (? . 116)) ((c def c (c (? . 2) q css-addition-path)) c (? . 55)) ((c def c (c (? . 0) q hash-lang)) q (39947 . 2)) ((c def c (c (? . 9) q make-part-tag-decl)) c (? . 108)) ((c def c (c (? . 19) q struct:command-optional)) c (? . 31)) ((c def c (c (? . 1) q collect-info-ext-demand)) c (? . 71)) ((c def c (c (? . 1) q traverse-block-block)) q (71975 . 4)) ((c def c (c (? . 22) q table-flowss)) q (56408 . 4)) ((c def c (c (? . 22) q image-file?)) c (? . 93)) ((c def c (c (? . 1) q collect-element)) c (? . 83)) ((c def c (c (? . 2) q struct:alt-tag)) c (? . 44)) ((c def c (c (? . 9) q make-title-decl)) c (? . 104)) ((c def c (c (? . 52) q make-blueboxes-cache)) q (92213 . 6)) ((c def c (c (? . 9) q decode-elements)) q (84692 . 3)) ((c form c (c (? . 0) q defmodulereader*)) q (24781 . 2)) ((c def c (c (? . 1) q make-image-element)) c (? . 42)) ((c def c (c (? . 0) q manual-doc-style)) q (39913 . 2)) ((c form c (c (? . 13) q acmtog)) q (10823 . 2)) ((c def c (c (? . 5) q constructor-index-desc)) c (? . 118)) ((c def c (c (? . 4) q struct:shaped-parens)) c (? . 110)) ((c def c (c (? . 9) q title-decl-content)) c (? . 104)) ((c def c (c (? . 13) q screenonly)) q (15689 . 3)) ((q def ((lib "scribble/text-render.rkt") render-mixin)) q (81743 . 3)) ((c def c (c (? . 2) q js-addition?)) c (? . 56)) ((c def c (c (? . 19) q make-command-extras)) c (? . 103)) ((c def c (c (? . 1) q document-date?)) c (? . 28)) ((c def c (c (? . 79) q read-inside)) q (61354 . 3)) ((c def c (c (? . 22) q make-styled-paragraph)) q (55865 . 4)) ((c def c (c (? . 1) q struct:part)) c (? . 111)) ((c def c (c (? . 4) q just-context-val)) c (? . 43)) ((c def c (c (? . 22) q styled-itemization?)) q (56763 . 3)) ((c def c (c (? . 13) q acmMonth)) q (12962 . 3)) ((c def c (c (? . 1) q make-traverse-element)) c (? . 120)) ((c def c (c (? . 1) q color-property-color)) c (? . 90)) ((c def c (c (? . 4) q long-boolean-val)) c (? . 65)) ((c def c (c (? . 2) q css-addition)) c (? . 55)) ((c def c (c (? . 49) q entry-desc)) c (? . 101)) ((c def c (c (? . 9) q struct:part-start)) c (? . 16)) ((c def c (c (? . 0) q DPFlag)) q (36078 . 3)) ((c def c (c (? . 1) q target-element?)) c (? . 113)) ((c def c (c (? . 2) q script-property)) c (? . 66)) ((c form c (c (? . 0) q defstruct)) q (31240 . 23)) ((c def c (c (? . 0) q racketplainfont)) q (20888 . 3)) ((c def c (c (? . 0) q cite)) q (38716 . 3)) ((c form c (c (? . 0) q scheme)) q (20357 . 2)) ((c form c (c (? . 0) q specsubform/subs)) q (29589 . 5)) ((c def c (c (? . 1) q table-columns)) c (? . 34)) ((c def c (c (? . 19) q struct:short-title)) c (? . 67)) ((c def c (c (? . 1) q make-delayed-block)) c (? . 84)) ((c form c (c (? . 0) q defmixin/title)) q (33712 . 2)) ((c form c (c (? . 0) q defproc)) q (25114 . 33)) ((c def c (c (? . 9) q part-collect-decl-element)) c (? . 72)) ((c def c (c (? . 22) q styled-paragraph-style)) q (56036 . 3)) ((c def c (c (? . 1) q struct:collected-info)) c (? . 47)) ((c def c (c (? . 1) q make-toc-target-element)) c (? . 107)) ((c def c (c (? . 5) q form-index-desc?)) c (? . 24)) ((c def c (c (? . 7) q author+email)) q (2482 . 7)) ((c def c (c (? . 1) q make-target-url)) c (? . 116)) ((c form c (c (? . 13) q natbib)) q (10941 . 2)) ((c def c (c (? . 0) q schemefont)) q (22322 . 3)) ((c def c (c (? . 13) q acmArticle)) q (12809 . 3)) ((c def c (c (? . 10) q make-module-language-tag)) q (90310 . 3)) ((c def c (c (? . 4) q value-link-color)) q (46027 . 2)) ((c def c (c (? . 9) q title-decl)) c (? . 104)) ((c def c (c (? . 1) q multiarg-element-contents)) c (? . 78)) ((c def c (c (? . 22) q styled-itemization-style)) q (56828 . 3)) ((c def c (? . 121)) q (83543 . 3)) ((c def c (c (? . 1) q make-style)) c (? . 12)) ((c def c (c (? . 5) q struct:interface-index-desc)) c (? . 48)) ((c def c (c (? . 22) q make-page-target-element)) q (58198 . 6)) ((c def c (c (? . 22) q make-auxiliary-table)) q (57016 . 4)) ((c def c (c (? . 5) q exported-index-desc?)) c (? . 68)) ((c def c (c (? . 1) q traverse-block-traverse)) c (? . 87)) ((c def c (c (? . 1) q make-target-element)) c (? . 113)) ((c def c (c (? . 5) q struct:module-path-index-desc)) c (? . 85)) ((c def c (c (? . 22) q image-file)) c (? . 93)) ((c def c (c (? . 1) q traverse-element-traverse)) c (? . 120)) ((c def c (c (? . 1) q document-version?)) c (? . 115)) ((c def c (c (? . 1) q struct:generated-tag)) c (? . 99)) ((c def c (c (? . 10) q module-path-index->taglet)) q (90826 . 3)) ((c def c (c (? . 5) q struct:method-index-desc)) c (? . 50)) ((c def c (c (? . 49) q xref-transfer-info)) q (89184 . 5)) ((c def c (c (? . 13) q acmPrice)) q (13119 . 3)) ((c def c (c (? . 2) q js-style-addition-path)) c (? . 6)) ((c def c (c (? . 7) q section-index)) q (9036 . 3)) ((c form c (c (? . 13) q review)) q (10913 . 2)) ((c meth c (c (? . 80) q collect)) q (79019 . 7)) ((c def c (c (? . 79) q use-at-readtable)) q (62742 . 2)) ((c def c (c (? . 22) q part-flow)) q (54288 . 3)) ((c def c (c (? . 22) q with-attributes)) c (? . 32)) ((c meth c (c (? . 80) q resolve)) q (79293 . 5)) ((c def c (c (? . 5) q exported-index-desc-name)) c (? . 68)) ((c def c (c (? . 19) q struct:latex-defaults)) c (? . 97)) ((c def c (c (? . 1) q struct:collect-info)) c (? . 71)) ((c def c (c (? . 1) q part-parts)) c (? . 111)) ((c def c (c (? . 4) q var-id)) c (? . 39)) ((c def c (c (? . 13) q startPage)) q (15010 . 3)) ((c def c (c (? . 49) q entry?)) c (? . 101)) ((c def c (c (? . 1) q collect-info-parents)) c (? . 71)) ((c def c (c (? . 4) q shaped-parens-shape)) c (? . 110)) ((c form c (c (? . 0) q declare-exporting)) q (23986 . 11)) ((c def c (c (? . 1) q multiarg-element?)) c (? . 78)) ((c def c (c (? . 4) q reader-color)) q (45666 . 2)) ((c def c (c (? . 9) q part-tag-decl-tag)) c (? . 108)) ((c def c (c (? . 1) q collect-info-parts)) c (? . 71)) ((c def c (c (? . 4) q to-paragraph)) q (42898 . 11)) ((c def c (c (? . 8) q doi)) q (10118 . 3)) ((c def c (c (? . 9) q splice)) c (? . 54)) ((c def c (c (? . 0) q schemeresultfont)) q (22501 . 3)) ((c def c (c (? . 5) q make-constructor-index-desc)) c (? . 118)) ((c form c (c (? . 0) q defproc*)) q (26628 . 6)) ((c def c (c (? . 1) q tag-key)) q (71898 . 4)) ((c def c (c (? . 0) q schemevalfont)) q (22410 . 3)) ((c def c (c (? . 9) q decode-content)) q (84614 . 3)) ((c def c (c (? . 7) q itemlist)) q (3390 . 4)) ((c def c (c (? . 49) q xref?)) q (86101 . 3)) ((c def c (c (? . 1) q collect-info-ext-ht)) c (? . 71)) ((c def c (c (? . 1) q table-columns?)) c (? . 34)) ((c def c (c (? . 19) q command-extras?)) c (? . 103)) ((c def c (c (? . 1) q part-relative-element?)) c (? . 53)) ((c def c (c (? . 2) q struct:html-defaults)) c (? . 37)) ((c def c (c (? . 10) q doc-prefix)) q (90437 . 8)) ((c def c (c (? . 1) q delayed-element?)) c (? . 62)) ((c form c (c (? . 0) q racketgrammar*)) q (32529 . 2)) ((c def c (c (? . 7) q seclink)) q (7445 . 13)) ((c def c (c (? . 7) q margin-note*)) q (3255 . 4)) ((c def c (c (? . 0) q defterm)) q (35298 . 3)) ((c form c (c (? . 0) q schemeid)) q (20489 . 2)) ((c def c (c (? . 22) q versioned-part?)) q (55039 . 3)) ((c def c (c (? . 7) q other-doc)) q (7956 . 7)) ((c def c (c (? . 1) q multiarg-element-style)) c (? . 78)) ((c def c (c (? . 9) q title-decl?)) c (? . 104)) ((c def c (c (? . 9) q title-decl-tag-prefix)) c (? . 104)) ((c def c (c (? . 2) q struct:css-style-addition)) c (? . 73)) ((c def c (c (? . 2) q make-script-property)) c (? . 66)) ((c def c (c (? . 0) q indexed-envvar)) q (38624 . 3)) ((c form c (c (? . 0) q racket)) q (19893 . 2)) ((c def c (c (? . 13) q grantsponsor)) q (15910 . 5)) ((c def c (c (? . 1) q page-target-element?)) c (? . 74)) ((c def c (c (? . 2) q struct:part-link-redirect)) c (? . 51)) ((c def c (c (? . 0) q envvar)) q (35746 . 3)) ((c def c (c (? . 4) q opt-color)) q (45936 . 2)) ((c def c (c (? . 13) q acmISBN)) q (13195 . 3)) ((c form c (c (? . 13) q 11pt)) q (11016 . 2)) ((c def c (c (? . 49) q entry)) c (? . 101)) ((c def c (c (? . 1) q make-document-version)) c (? . 115)) ((c def c (c (? . 1) q resolve-info-delays)) c (? . 41)) ((c def c (c (? . 5) q method-index-desc)) c (? . 50)) ((c def c (c (? . 1) q document-version-text)) c (? . 115)) ((c def c (c (? . 0) q techlink)) q (37773 . 12)) ((c def c (c (? . 2) q script-property-type)) c (? . 66)) ((c def c (c (? . 2) q css-addition?)) c (? . 55)) ((c def c (c (? . 13) q email?)) q (13631 . 3)) ((c form c (c (? . 25) q interaction/no-prompt)) q (48901 . 2)) ((c def c (c (? . 7) q subsection)) q (1018 . 9)) ((c def c (c (? . 22) q element->string)) q (60500 . 8)) ((c def c (c (? . 1) q collect-put!)) q (70833 . 5)) ((c def c (c (? . 22) q paragraph-content)) q (55800 . 3)) ((c def c (c (? . 1) q make-part)) c (? . 111)) ((c def c (c (? . 76) q optional)) q (53347 . 3)) ((c form c (c (? . 0) q var)) q (22164 . 2)) ((c def c (c (? . 2) q make-attributes)) c (? . 23)) ((c form c (c (? . 25) q racketblock0+eval)) q (49124 . 2)) ((c def c (c (? . 76) q BNF-etc)) q (53775 . 2)) ((c def c (c (? . 0) q indexed-file)) q (38534 . 3)) ((c def c (c (? . 1) q part-tags)) c (? . 111)) ((c def c (c (? . 0) q onscreen)) q (35383 . 3)) ((c def c (c (? . 1) q make-table)) c (? . 86)) ((c def c (c (? . 22) q element?)) q (59277 . 3)) ((c def c (c (? . 0) q Flag)) q (35830 . 3)) ((c form c (c (? . 13) q acmlarge)) q (10807 . 2)) ((c def c (c (? . 4) q make-shaped-parens)) c (? . 110)) ((c def c (c (? . 1) q box-mode-top-name)) c (? . 82)) ((c def c (c (? . 4) q meta-color)) q (45817 . 2)) ((c def c (c (? . 22) q make-blockquote)) q (56903 . 4)) ((c def c (c (? . 1) q struct:part-relative-element)) c (? . 53)) ((c def c (c (? . 49) q make-entry)) c (? . 101)) ((c def c (c (? . 1) q make-part-relative-element)) c (? . 53)) ((c def c (c (? . 1) q traverse-element)) c (? . 120)) ((c form c (c (? . 0) q SCHEME)) q (20399 . 2)) ((c form c (c (? . 11) q require/doc)) q (52723 . 2)) ((c def c (c (? . 0) q undefined-const)) q (40013 . 2)) ((c def c (c (? . 1) q target-url)) c (? . 116)) ((c def c (c (? . 1) q struct:traverse-element)) c (? . 120)) ((c form c (c (? . 8) q noqcourier)) q (9459 . 2)) ((c def c (c (? . 13) q institution)) q (14542 . 6)) ((c def c (c (? . 5) q interface-index-desc?)) c (? . 48)) ((c def c (c (? . 1) q resolve-get-keys)) q (71651 . 5)) ((c def c (c (? . 22) q make-itemization)) q (56531 . 3)) ((c def c (c (? . 1) q paragraph?)) c (? . 75)) ((c form c (c (? . 0) q RACKETRESULTBLOCK0)) q (19383 . 2)) ((c form c (c (? . 25) q interaction)) q (48430 . 15)) ((c def c (c (? . 9) q decode)) q (84096 . 3)) ((c def c (c (? . 2) q make-alt-tag)) c (? . 44)) ((c def c (c (? . 119) q render-mixin)) q (82880 . 3)) ((c def c (c (? . 2) q make-js-addition)) c (? . 56)) ((c def c (c (? . 1) q traverse-block)) c (? . 87)) ((c def c (c (? . 9) q make-part-start)) c (? . 16)) ((c form c (c (? . 0) q history)) q (39565 . 8)) ((c def c (c (? . 4) q make-literal-syntax)) c (? . 114)) ((c def c (c (? . 2) q struct:link-resource)) c (? . 46)) ((c def c (c (? . 1) q struct:traverse-block)) c (? . 87)) ((c def c (c (? . 1) q collect-info?)) c (? . 71)) ((c form c (c (? . 0) q method)) q (34877 . 2)) ((c def c (c (? . 5) q constructor-index-desc-class-tag)) c (? . 118)) ((c form c (c (? . 0) q racketmodname)) q (20533 . 6)) ((c def c (c (? . 95) q author/short)) q (16367 . 4)) ((c def c (c (? . 1) q struct:render-element)) c (? . 57)) ((c def c (c (? . 4) q output-color)) q (45541 . 2)) ((c form c (c (? . 0) q RACKET)) q (19935 . 2)) ((c def c (c (? . 1) q struct:redirect-target-element)) c (? . 18)) ((c def c (c (? . 95) q affiliation-sep)) q (16659 . 2)) ((c form c (c (? . 0) q racketresultblock0)) q (19276 . 2)) ((c def c (c (? . 19) q struct:tex-addition)) c (? . 45)) ((c def c (c (? . 2) q attributes-assoc)) c (? . 23)) ((c def c (c (? . 2) q install-resource)) c (? . 100)) ((c def c (c (? . 1) q delayed-element-sizer)) c (? . 62)) ((c constructor c (? . 64)) q (82013 . 6)) ((c def c (c (? . 1) q make-collect-element)) c (? . 83)) ((c def c (c (? . 79) q make-at-reader)) q (62585 . 5)) ((c def c (c (? . 2) q make-install-resource)) c (? . 100)) ((c def c (c (? . 5) q language-index-desc)) c (? . 112)) ((c def c (c (? . 1) q collect-element?)) c (? . 83)) ((c form c (c (? . 13) q anonymous)) q (10955 . 2)) ((c def c (c (? . 1) q toc-target-element?)) c (? . 107)) ((c def c (c (? . 5) q make-thing-index-desc)) c (? . 106)) ((c def c (c (? . 9) q title-decl-tags)) c (? . 104)) ((q form ((lib "scribble/lp-include.rkt") lp-include)) q (61071 . 2)) ((c def c (c (? . 13) q marginfigure)) q (15462 . 3)) ((c def c (c (? . 0) q schemekeywordfont)) q (22776 . 3)) ((c def c (? . 80)) q (78839 . 2)) ((c def c (c (? . 2) q part-link-redirect)) c (? . 51)) ((c form c (c (? . 0) q defform*)) q (28272 . 4)) ((c def c (c (? . 0) q typeset-code)) q (18124 . 17)) ((c def c (c (? . 1) q toc-element?)) c (? . 14)) ((c def c (c (? . 95) q abstract)) q (16176 . 3)) ((c form c (c (? . 25) q defexamples)) q (49490 . 2)) ((c def c (c (? . 2) q alt-tag?)) c (? . 44)) ((c def c (c (? . 1) q box-mode?)) c (? . 82)) ((c def c (c (? . 9) q decode-part)) q (84163 . 6)) ((c def c (c (? . 22) q target-url-style)) c (? . 59)) ((c def c (c (? . 1) q part-relative-element-sizer)) c (? . 53)) ((c form c (c (? . 0) q racketresultblock)) q (19223 . 2)) ((c form c (c (? . 0) q defsignature/splice)) q (35038 . 2)) ((c def c (c (? . 7) q elem)) q (4622 . 4)) ((c def c (c (? . 122) q extra-character-conversions)) q (82707 . 4)) ((c def c (c (? . 7) q item)) q (3568 . 3)) ((c form c (c (? . 0) q sigelem)) q (35183 . 2)) ((c form c (c (? . 0) q RACKETINPUT)) q (19484 . 2)) ((c def c (c (? . 13) q acmJournal)) q (12441 . 3)) ((c def c (c (? . 7) q emph)) q (5371 . 3)) ((c def c (c (? . 1) q make-color-property)) c (? . 90)) ((c form c (c (? . 0) q indexed-scheme)) q (38325 . 2)) ((c def c (c (? . 2) q css-style-addition-path)) c (? . 73)) ((c def c (c (? . 5) q make-module-path-index-desc)) c (? . 85)) ((c def c (c (? . 2) q make-hover-property)) c (? . 92)) ((c def c (c (? . 2) q make-html-defaults)) c (? . 37)) ((c def c (c (? . 1) q nested-flow?)) c (? . 29)) ((c def c (c (? . 2) q js-style-addition?)) c (? . 6)) ((c form c (c (? . 11) q struct-doc)) q (51533 . 6)) ((c def c (c (? . 1) q struct:link-element)) c (? . 58)) ((c def c (c (? . 2) q html-defaults?)) c (? . 37)) ((c def c (c (? . 1) q table-blockss)) c (? . 86)) ((c def c (c (? . 1) q toc-target2-element-toc-content)) c (? . 36)) ((c def c (c (? . 1) q make-box-mode)) c (? . 82)) ((c def c (c (? . 1) q make-nested-flow)) c (? . 29)) ((c def c (c (? . 79) q read)) q (61101 . 3)) ((c def c (c (? . 1) q background-color-property?)) c (? . 98)) ((c def c (c (? . 1) q resolve-get/tentative)) q (71519 . 5))))
 procedure
 (title [#:tag tag                   
         #:tag-prefix tag-prefix     
@@ -93,14 +93,23 @@ procedure
 (item? v) -> boolean?
   v : any/c
 procedure
-(tabular cells [#:style style #:sep sep]) -> table?
+(tabular  cells                                     
+         [#:style style                             
+          #:sep sep                                 
+          #:column-properties column-properties     
+          #:row-properties row-properties           
+          #:cell-properties cell-properties])   -> table?
   cells : (listof (listof (or/c block? content? 'cont)))
   style : (or/c style? string? symbol? #f) = #f
   sep : (or/c block? content? #f) = #f
+  column-properties : (listof any/c) = '()
+  row-properties : (listof any/c) = '()
+  cell-properties : (listof (listof any/c)) = '()
 
 recipe      vegetable
-caldo verde kale
-kinpira gobōburdock
+---------------------
+caldo verde      kale
+kinpira gobō  burdock
 makizushi
 procedure
 (verbatim [#:indent indent] elem ...+) -> block?
@@ -138,13 +147,15 @@ procedure
 (literal str ...+) -> element?
   str : string?
 procedure
-(image  path                     
-       [#:scale scale            
-        #:suffixes suffixes]     
-        pre-content ...)     -> element?
+(image  path                    
+       [#:scale scale           
+        #:suffixes suffixes     
+        #:style style]          
+        pre-content ...)    -> image-element?
   path : (or/c path-string? (cons/c 'collects (listof bytes?)))
   scale : real? = 1.0
   suffixes : (listof #rx"^[.]") = null
+  style : (or/c style? string? symbol? #f) = #f
   pre-content : pre-content?
 procedure
 (linebreak) -> element?
@@ -217,13 +228,13 @@ procedure
   indirect : (or/c #f content?) = #f
 procedure
 (elemtag t pre-content ...) -> element?
-  t : (or/c tag? string?)
+  t : (or/c taglet? generated-tag?)
   pre-content : pre-content?
 procedure
 (elemref  t                             
           pre-content ...               
          [#:underline? underline?]) -> element?
-  t : (or/c tag? string?)
+  t : (or/c taglet? generated-tag?)
   pre-content : pre-content?
   underline? : any/c = #t
 procedure
@@ -290,6 +301,9 @@ procedure
 procedure
 (exclusive-license) -> block?
 procedure
+(to-appear content ...) -> block?
+  content : pre-content?
+procedure
 (category  CR-number          
            subcategory        
            third-level        
@@ -304,6 +318,205 @@ procedure
 procedure
 (keywords content ...) -> content?
   content : pre-content?
+syntax
+manuscript
+syntax
+acmsmall
+syntax
+acmlarge
+syntax
+acmtog
+syntax
+sigconf
+syntax
+siggraph
+syntax
+sigplan
+syntax
+sigchi
+syntax
+sigchi-a
+syntax
+review
+syntax
+screen
+syntax
+natbib
+syntax
+anonymous
+syntax
+authorversion
+syntax
+9pt
+syntax
+10pt
+syntax
+11pt
+syntax
+12pt
+procedure
+(abstract pre-content ...) -> block?
+  pre-content : pre-content?
+syntax
+(include-abstract module-path)
+procedure
+(title [#:short short-title     
+        #:tag tag               
+        #:tag-prefix prefix     
+        #:style style           
+        #:version version       
+        #:date date]            
+        title ...)          -> title-decl?
+  short-title : pre-content? = #f
+  tag : (or/c string? (listof string?) #f) = #f
+  prefix : (or/c string? module-path? #f) = #f
+  style : (or/c style? string? symbol? #f) = #f
+  version : (or/c string? #f) = #f
+  date : (or/c string? #f) = #f
+  title : pre-content?
+procedure
+(subtitle pre-content ...) -> content?
+  pre-content : pre-content?
+procedure
+(author [#:orcid orcid                 
+         #:affiliation affiliation     
+         #:email email]                
+         name ...)                 -> block?
+  orcid : (or/c pre-content? #f) = #f
+  affiliation : (or/c pre-content?          = #f
+                      affiliation?
+                      (listof pre-content?)
+                      (listof affiliation?)
+                      #f)
+  email : (or/c pre-content? (listof pre-content?) #f) = #f
+  name : pre-content?
+procedure
+(acmJournal journal ...) -> block?
+  journal : pre-content?
+procedure
+(acmConference name date venue) -> block?
+  name : pre-content?
+  date : pre-content?
+  venue : pre-content?
+procedure
+(acmVolume content ...) -> block?
+  content : pre-content?
+procedure
+(acmNumber content ...) -> block?
+  content : pre-content?
+procedure
+(acmArticle content ...) -> block?
+  content : pre-content?
+procedure
+(acmYear content ...) -> block?
+  content : pre-content?
+procedure
+(acmMonth content ...) -> block?
+  content : pre-content?
+procedure
+(acmArticleSeq content ...) -> block?
+  content : pre-content?
+procedure
+(acmPrice content ...) -> block?
+  content : pre-content?
+procedure
+(acmISBN content ...) -> block?
+  content : pre-content?
+procedure
+(acmDOI content ...) -> block?
+  content : pre-content?
+procedure
+(acmBadgeL [#:url url] graphics) -> block?
+  url : string? = #f
+  graphics : string?
+procedure
+(acmBadgeR [#:url url] graphics) -> block?
+  url : string? = #f
+  graphics : string?
+procedure
+(email text ...) -> email?
+  text : pre-content?
+procedure
+(email? email) -> boolean?
+  email : any/c
+procedure
+(affiliation [#:position position                 
+              #:institution institution           
+              #:street-address street-address     
+              #:city city                         
+              #:state state                       
+              #:postcode postcode                 
+              #:country country])             -> affiliation?
+  position : (or/c pre-content? #f) = #f
+  institution : (listof (or/c pre-content? institution?)) = '()
+  street-address : (or/c pre-content? #f) = #f
+  city : (or/c pre-content? #f) = #f
+  state : (or/c pre-content? #f) = #f
+  postcode : (or/c pre-content? #f) = #f
+  country : (or/c pre-content? #f) = #f
+procedure
+(affiliation? aff) -> boolean?
+  aff : any/c
+procedure
+(institution [#:departments departments]     
+              inst ...)                  -> institution?
+  departments : (or/c pre-content? institution? (listof institution))
+              = '()
+  inst : institution?
+procedure
+(institution? inst) -> boolean
+  inst : any/c
+procedure
+(terms content ...) -> content?
+  content : pre-content?
+procedure
+(keywords content ...) -> content?
+  content : pre-content?
+procedure
+(startPage content ...) -> content?
+  content : pre-content?
+procedure
+(ccsdesc #:number number? content ...) -> content?
+  number? : #f
+  content : pre-content?
+procedure
+(received [#:stage stage] date) -> content?
+  stage : string? = #f
+  date : string?
+procedure
+(teaserfigure content ...) -> block?
+  content : pre-flow?
+procedure
+(sidebar content ...) -> block?
+  content : pre-flow?
+procedure
+(marginfigure content ...) -> block?
+  content : pre-flow?
+procedure
+(margintable content ...) -> block?
+  content : pre-flow?
+procedure
+(printonly content ...) -> block?
+  content : pre-flow?
+procedure
+(screenonly content ...) -> block?
+  content : pre-flow?
+procedure
+(anonsuppress content ...) -> block?
+  content : pre-flow?
+procedure
+(acks content ...) -> block?
+  content : pre-flow?
+procedure
+(grantsponsor sponsorID name url) -> content?
+  sponsorID : string?
+  name : string?
+  url : string?
+procedure
+(grantnum [#:url url] sponsorID num) -> content?
+  url : string? = #f
+  sponsorID : string?
+  num : string?
 procedure
 (abstract pre-content ...) -> block?
   pre-content : pre-content?
@@ -333,7 +546,7 @@ syntax
 (authors auth ...)
  
 auth = (author pre-content-expr ...)
-     | (author #:inst str-expr pre-content-expr ...)
+     | (author #:inst str-expr pre-content-expr ...)
  
   pre-content-expr : pre-content?
   str-expr : string?
@@ -351,16 +564,16 @@ syntax
 (codeblock option ... str-expr ...+)
  
 option = #:keep-lang-line? keep-expr
-       | #:indent indent-expr
-       | #:expand expand-expr
-       | #:context context-expr
-       | #:line-numbers line-number-expr
-       | #:line-number-sep line-number-sep-expr
+       | #:indent indent-expr
+       | #:expand expand-expr
+       | #:context context-expr
+       | #:line-numbers line-number-expr
+       | #:line-number-sep line-number-sep-expr
  
   keep-expr : any/c
   indent-expr : exact-nonnegative-integer?
   expand-expr : (or/c #f (syntax? . -> . syntax?))
-  context-expr : syntax?
+  context-expr : (or/c #f syntax?)
   line-number-expr : (or/c #f exact-nonnegative-integer?)
   line-number-sep-expr : exact-nonnegative-integer?
 syntax
@@ -369,17 +582,34 @@ syntax
 (code option ... str-expr ...+)
  
 option = #:lang lang-line-expr
-       | #:expand expand-expr
-       | #:context context-expr
+       | #:expand expand-expr
+       | #:context context-expr
  
   lang-line-expr : (or/c #f string?)
   expand-expr : (or/c #f (syntax? . -> . syntax?))
-  context-expr : syntax?
+  context-expr : (or/c #f syntax?)
+procedure
+(typeset-code [#:context context                      
+               #:expand expand                        
+               #:indent indent                        
+               #:keep-lang-line? keep?                
+               #:line-numbers line-numbers            
+               #:line-number-sep line-number-sep]     
+               #:block? block?                        
+               strs ...)                          -> block?
+  context : (or/c #f syntax?) = #f
+  expand : (or/c #f (syntax? . -> . syntax?)) = #f
+  indent : exact-nonnegative-integer? = 2
+  keep? : any/c = #t
+  line-numbers : (or/c #f exact-nonnegative-integer?) = #f
+  line-number-sep : exact-nonnegative-integer? = 1
+  block? : #t
+  strs : string?
 syntax
 (racketblock maybe-escape datum ...)
  
 maybe-escape = 
-             | #:escape escape-id
+             | #:escape escape-id
 syntax
 (RACKETBLOCK maybe-escape datum ...)
 syntax
@@ -405,11 +635,11 @@ syntax
 syntax
 (racketmod maybe-file maybe-escape lang datum ...)
  
-maybe-file   = 
-             | #:file filename-expr
-                
+  maybe-file = 
+             | #:file filename-expr
+                
 maybe-escape = 
-             | #:escape escape-id
+             | #:escape escape-id
 syntax
 (racketmod0 maybe-file maybe-escape lang datum ...)
 syntax
@@ -445,7 +675,7 @@ syntax
 (racketmodname (unsyntax expr) maybe-indirect)
  
 maybe-indirect = 
-               | #:indirect
+               | #:indirect
 syntax
 (racketmodlink datum pre-content-expr ...)
 procedure
@@ -453,6 +683,9 @@ procedure
   str : string?
 procedure
 (racketfont pre-content ...) -> element?
+  pre-content : pre-content?
+procedure
+(racketplainfont pre-content ...) -> element?
   pre-content : pre-content?
 procedure
 (racketvalfont pre-content ...) -> element?
@@ -537,31 +770,34 @@ procedure
 syntax
 (defmodule maybe-req one-or-multi option ... pre-flow ...)
  
-maybe-req    = 
-             | #:require-form content-expr
-                
+   maybe-req = 
+             | #:require-form content-expr
+                
 one-or-multi = module-spec
-             | #:multi (module-spec ...+)
-                
-module-spec  = module-path
-             | content-expr
-                
-option       = #:module-paths (module-path ...)
-             | #:no-declare
-             | #:use-sources (src-module-path ...)
-             | #:link-target? link-target?-expr
-             | #:indirect
-             | #:lang
-             | #:reader
-             | #:packages (pkg-expr ...)
+             | #:multi (module-spec ...+)
+                
+ module-spec = module-path
+             | content-expr
+                
+      option = #:module-paths (module-path ...)
+             | #:no-declare
+             | #:use-sources (src-module-path ...)
+             | #:link-target? link-target?-expr
+             | #:indirect
+             | #:lang
+             | #:reader
+             | #:packages (pkg-expr ...)
 syntax
-(declare-exporting module-path ... maybe-pkgs maybe-sources)
+(declare-exporting module-path/escape ... maybe-pkgs maybe-sources)
  
-maybe-pkgs    = 
-              | #:packages (pkg-expr ...)
-                 
-maybe-sources = 
-              | #:use-sources (module-path ...)
+        maybe-pkgs = 
+                   | #:packages (pkg-expr ...)
+                      
+     maybe-sources = 
+                   | #:use-sources (module-path/escape ...)
+                      
+module-path/escape = module-path
+                   | ,module-path-expr
 syntax
 (defmodulelang one-or-multi maybe-sources option ... pre-flow ...)
 (defmodulelang one-or-multi #:module-path module-path
@@ -583,32 +819,36 @@ syntax
 syntax
 (defproc options prototype
          result-contract-expr-datum
+         maybe-value
          pre-flow ...)
  
-prototype  = (id arg-spec ...)
-           | (prototype arg-spec ...)
-              
-arg-spec   = (arg-id contract-expr-datum)
-           | (arg-id contract-expr-datum default-expr)
-           | (keyword arg-id contract-expr-datum)
-           | (keyword arg-id contract-expr-datum default-expr)
-           | ellipses
-           | ellipses+
-              
-options    = maybe-kind maybe-link maybe-id
-              
-maybe-kind = 
-           | #:kind kind-string-expr
-              
-maybe-link = 
-           | #:link-target? link-target?-expr
-              
-maybe-id   = 
-           | #:id [src-id dest-id-expr]
-              
-ellipses   = ...
-              
-ellipses+  = ...+
+  prototype = (id arg-spec ...)
+            | (prototype arg-spec ...)
+               
+   arg-spec = (arg-id contract-expr-datum)
+            | (arg-id contract-expr-datum default-expr)
+            | (keyword arg-id contract-expr-datum)
+            | (keyword arg-id contract-expr-datum default-expr)
+            | ellipses
+            | ellipses+
+               
+    options = maybe-kind maybe-link maybe-id
+               
+ maybe-kind = 
+            | #:kind kind-string-expr
+               
+ maybe-link = 
+            | #:link-target? link-target?-expr
+               
+   maybe-id = 
+            | #:id [src-id dest-id-expr]
+               
+maybe-value = 
+            | #:value value-expr-datum
+               
+   ellipses = ...
+               
+  ellipses+ = ...+
 procedure
 (make-sandwich ingredients) -> sandwich?
   ingredients : (listof ingredient?)
@@ -633,36 +873,38 @@ sandwich-maker
 syntax
 (defproc* options
           ([prototype
-            result-contract-expr-datum] ...)
+            result-contract-expr-datum
+            maybe-value] ...)
           pre-flow ...)
 procedure
-((make-pb&j make-pb&j) -> sandwich?
-  make-pb&j : [jelly jelly?]
+(make-pb&j) -> sandwich?
+(make-pb&j jelly) -> sandwich?
+  jelly : jelly?
 syntax
 (defform options form-datum
   maybe-grammar maybe-contracts
   pre-flow ...)
  
-options         = maybe-kind maybe-link maybe-id maybe-literals
-                   
-maybe-kind      = 
-                | #:kind kind-string-expr
-                   
-maybe-link      = 
-                | #:link-target? link-target?-expr
-                   
-maybe-id        = 
-                | #:id id
-                | #:id [id id-expr]
-                   
-maybe-literals  = 
-                | #:literals (literal-id ...)
-                   
-maybe-grammar   = 
-                | #:grammar ([nonterm-id clause-datum ...+] ...)
-                   
+        options = maybe-kind maybe-link maybe-id maybe-literals
+                   
+     maybe-kind = 
+                | #:kind kind-string-expr
+                   
+     maybe-link = 
+                | #:link-target? link-target?-expr
+                   
+       maybe-id = 
+                | #:id id
+                | #:id [id id-expr]
+                   
+ maybe-literals = 
+                | #:literals (literal-id ...)
+                   
+  maybe-grammar = 
+                | #:grammar ([nonterm-id clause-datum ...+] ...)
+                   
 maybe-contracts = 
-                | #:contracts ([subform-datum contract-expr-datum]
+                | #:contracts ([subform-datum contract-expr-datum]
                                ...)
 syntax
 (sandwich-promise sandwich-expr)
@@ -673,15 +915,15 @@ syntax
                    [mixins ingredient-expr ...])
  
   sandwich-expr : sandwich?
-  ingreient-expr : ingredient?
+  ingredient-expr : ingredient?
 syntax
 (sandwich-factory maybe-name factory-component ...)
  
-maybe-name        = 
-                  | name
-                     
+       maybe-name = 
+                  | name
+                     
 factory-component = #:protein protein-expr
-                  | [vegetable vegetable-expr]
+                  | [vegetable vegetable-expr]
 syntax
 (defform* options [form-datum ...+]
   maybe-grammar maybe-contracts
@@ -698,6 +940,14 @@ syntax
 syntax
 (defidform/inline id)
 (defidform/inline (unsyntax id-expr))
+syntax
+(defsubform options form-datum
+   maybe-grammar maybe-contracts
+   pre-flow ...)
+syntax
+(defsubform* options [form-datum ...+]
+  maybe-grammar maybe-contracts
+  pre-flow ...)
 syntax
 (specform maybe-literals datum maybe-grammar maybe-contracts
   pre-flow ...)
@@ -735,39 +985,51 @@ syntax
 syntax
 (sandwich-factory maybe-name factory-component ...)
  
-maybe-name        = 
-                  | name
-                     
+       maybe-name = 
+                  | name
+                     
 factory-component = #:protein protein-expr
-                  | [vegetable vegetable-expr]
+                  | [vegetable vegetable-expr]
 syntax
-(defparam maybe-link id arg-id contract-expr-datum pre-flow ...)
+(defparam maybe-link id arg-id
+  contract-expr-datum
+  maybe-value
+  pre-flow ...)
 parameter
 (current-sandwich) -> sandwich?
 (current-sandwich sandwich) -> void?
   sandwich : sandwich?
+ = empty-sandwich
 syntax
 (defparam* maybe-link id arg-id
   in-contract-expr-datum out-contract-expr-datum
+  maybe-value
   pre-flow ...)
 syntax
-(defboolparam maybe-link id arg-id pre-flow ...)
+(defboolparam maybe-link id arg-id
+  maybe-value
+  pre-flow ...)
 syntax
-(defthing options id contract-expr-datum
+(defthing options id contract-expr-datum maybe-value
   pre-flow ...)
  
-options    = maybe-kind maybe-link maybe-id
-              
-maybe-kind = 
-           | #:kind kind-string-expr
-              
-maybe-link = 
-           | #:link-target? link-target?-expr
-              
-maybe-id   = 
-           | #:id id-expr
+    options = maybe-kind maybe-link maybe-id
+               
+ maybe-kind = 
+            | #:kind kind-string-expr
+               
+ maybe-link = 
+            | #:link-target? link-target?-expr
+               
+   maybe-id = 
+            | #:id id-expr
+               
+maybe-value = 
+            | #:value value-expr-datum
 value
 moldy-sandwich : sandwich?
+value
+empty-sandwich : sandwich? = (make-sandwich empty)
 syntax
 (defstruct* maybe-link struct-name ([field-name contract-expr-datum] ...)
   maybe-mutable maybe-non-opaque maybe-constructor
@@ -777,29 +1039,33 @@ syntax
   maybe-mutable maybe-non-opaque maybe-constructor
   pre-flow ...)
  
-maybe-link        = 
-                  | #:link-target? link-target?-expr
-                     
-struct-name       = id
-                  | (id super-id)
-                     
-maybe-mutable     = 
-                  | #:mutable
-                     
-maybe-non-opaque  = 
-                  | #:prefab
-                  | #:transparent
-                  | #:inspector #f
-                     
+       maybe-link = 
+                  | #:link-target? link-target?-expr
+                     
+      struct-name = id
+                  | (id super-id)
+                     
+    maybe-mutable = 
+                  | #:mutable
+                     
+ maybe-non-opaque = 
+                  | #:prefab
+                  | #:transparent
+                  | #:inspector #f
+                     
 maybe-constructor = 
-                  | #:constructor-name constructor-id
-                  | #:extra-constructor-name constructor-id
-                  | #:omit-constructor
+                  | #:constructor-name constructor-id
+                  | #:extra-constructor-name constructor-id
+                  | #:omit-constructor
 struct
 (struct sandwich (protein sauce)
-        #:extra-constructor-name make-sandwich)
+    #:extra-constructor-name make-sandwich)
   protein : ingredient?
   sauce : ingredient?
+struct
+(struct burrito (salsa tortilla))
+  salsa : ingredient?
+  tortilla : ingredient?
 syntax
 (deftogether [def-expr ...] pre-flow ...)
 value
@@ -810,7 +1076,7 @@ syntax
 (racketgrammar maybe-literals id clause-datum ...+)
  
 maybe-literals = 
-               | #:literals (literal-id ...)
+               | #:literals (literal-id ...)
 syntax
 (racketgrammar* maybe-literals [id clause-datum ...+] ...)
 procedure
@@ -831,12 +1097,15 @@ parameter
 (current-display-width w) -> void?
   w : exact-nonnegative-integer?
 syntax
-(defclass id super (intf-id ...) pre-flow ...)
+(defclass maybe-link id super (intf-id ...) pre-flow ...)
  
-super = super-id
-      | (mixin-id super)
+maybe-link = 
+           | #:link-target? link-target?-expr
+              
+     super = super-id
+           | (mixin-id super)
 syntax
-(defclass/title id super (intf-id ...) pre-flow ...)
+(defclass/title maybe-link id super (intf-id ...) pre-flow ...)
 syntax
 (definterface id (intf-id ...) pre-flow ...)
 syntax
@@ -849,7 +1118,7 @@ syntax
 (defconstructor (arg-spec ...) pre-flow ...)
  
 arg-spec = (arg-id contract-expr-datum)
-         | (arg-id contract-expr-datum default-expr)
+         | (arg-id contract-expr-datum default-expr)
 syntax
 (defconstructor/make (arg-spec ...) pre-flow ...)
 syntax
@@ -857,21 +1126,24 @@ syntax
 syntax
 (defconstructor/auto-super [(arg-spec ...) ...] pre-flow ...)
 syntax
-(defmethod maybe-mode (id arg-spec ...)
+(defmethod maybe-mode maybe-link (id arg-spec ...)
            result-contract-expr-datum
            pre-flow ...)
  
+maybe-link = 
+           | #:link-target? link-target?-expr
+              
 maybe-mode = 
-           | #:mode override
-           | #:mode override-final
-           | #:mode public-final
-           | #:mode augment
-           | #:mode augment-final
-           | #:mode pubment
-           | #:mode extend
-           | #:mode extend-final
+           | #:mode override
+           | #:mode override-final
+           | #:mode public-final
+           | #:mode augment
+           | #:mode augment-final
+           | #:mode pubment
+           | #:mode extend
+           | #:mode extend-final
 syntax
-(defmethod* maybe-mode
+(defmethod* maybe-mode maybe-link
             ([(id arg-spec ...)
               result-contract-expr-datum] ...)
             pre-flow ...)
@@ -998,11 +1270,6 @@ procedure
 (indexed-envvar pre-content ...) -> element?
   pre-content : pre-content?
 procedure
-(image/plain filename-relative-to-source     
-             pre-element ...)            -> element?
-  filename-relative-to-source : string?
-  pre-element : any/c
-procedure
 (cite key ...+) -> element?
   key : string?
 procedure
@@ -1031,10 +1298,12 @@ syntax
 (history clause ...)
  
 clause = #:added version-expr
-       | #:changed version-expr content-expr
+       | #:changed version-expr content-expr
  
   version-expr : valid-version?
   content-expr : content?
+value
+tasty-burrito : burrito?
 procedure
 (t pre-content ...) -> paragraph?
   pre-content : pre-content?
@@ -1054,6 +1323,9 @@ procedure
 (commandline pre-content ...) -> paragraph?
   pre-content : pre-content?
 procedure
+(inset-flow pre-flow ...) -> nested-flow?
+  pre-flow : pre-flow?
+procedure
 (centerline pre-flow ...) -> nested-flow?
   pre-flow : pre-flow?
 procedure
@@ -1070,44 +1342,55 @@ procedure
   what : content? = "library"
   replacement : content?
   additional-notes : content?
+procedure
+(image/plain filename-relative-to-source     
+             pre-element ...)            -> element?
+  filename-relative-to-source : string?
+  pre-element : any/c
 struct
 (struct module-path-index-desc ()
-        #:extra-constructor-name make-module-path-index-desc)
+    #:extra-constructor-name make-module-path-index-desc)
+struct
+(struct language-index-desc module-path-index-desc ()
+    #:extra-constructor-name make-language-index-desc)
+struct
+(struct reader-index-desc module-path-index-desc ()
+    #:extra-constructor-name make-reader-index-desc)
 struct
 (struct exported-index-desc (name from-libs)
-        #:extra-constructor-name make-exported-index-desc)
+    #:extra-constructor-name make-exported-index-desc)
   name : symbol?
   from-libs : (listof module-path?)
 struct
 (struct form-index-desc exported-index-desc ()
-        #:extra-constructor-name make-form-index-desc)
+    #:extra-constructor-name make-form-index-desc)
 struct
 (struct procedure-index-desc exported-index-desc ()
-        #:extra-constructor-name make-procedure-index-desc)
+    #:extra-constructor-name make-procedure-index-desc)
 struct
 (struct thing-index-desc exported-index-desc ()
-        #:extra-constructor-name make-thing-index-desc)
+    #:extra-constructor-name make-thing-index-desc)
 struct
 (struct struct-index-desc exported-index-desc ()
-        #:extra-constructor-name make-struct-index-desc)
+    #:extra-constructor-name make-struct-index-desc)
 struct
 (struct class-index-desc exported-index-desc ()
-        #:extra-constructor-name make-class-index-desc)
+    #:extra-constructor-name make-class-index-desc)
 struct
 (struct interface-index-desc exported-index-desc ()
-        #:extra-constructor-name make-interface-index-desc)
+    #:extra-constructor-name make-interface-index-desc)
 struct
 (struct mixin-index-desc exported-index-desc ()
-        #:extra-constructor-name make-mixin-index-desc)
+    #:extra-constructor-name make-mixin-index-desc)
 struct
-(struct method-index-desc exported-index-desc            (method-name
-                                                         class-tag)
-        #:extra-constructor-name make-method-index-desc)
+(struct method-index-desc exported-index-desc (method-name
+                                               class-tag)
+    #:extra-constructor-name make-method-index-desc)
   method-name : symbol?
   class-tag : tag?
 struct
 (struct constructor-index-desc exported-index-desc (class-tag)
-        #:extra-constructor-name make-constructor-index-desc)
+    #:extra-constructor-name make-constructor-index-desc)
   class-tag : tag?
 syntax
 (define-code id typeset-expr)
@@ -1160,25 +1443,25 @@ procedure
   escapes? : any/c = #t
 struct
 (struct var-id (sym)
-        #:extra-constructor-name make-var-id)
+    #:extra-constructor-name make-var-id)
   sym : (or/c symbol? identifier?)
 struct
 (struct shaped-parens (val shape)
-        #:extra-constructor-name make-shaped-parens)
+    #:extra-constructor-name make-shaped-parens)
   val : any/c
   shape : char?
 struct
 (struct long-boolean (val)
-        #:extra-constructor-name make-long-boolean)
+    #:extra-constructor-name make-long-boolean)
   val : boolean?
 struct
 (struct just-context (val context)
-        #:extra-constructor-name make-just-context)
+    #:extra-constructor-name make-just-context)
   val : any/c
   context : syntax?
 struct
 (struct literal-syntax (stx)
-        #:extra-constructor-name make-literal-syntax)
+    #:extra-constructor-name make-literal-syntax)
   stx : any/c
 procedure
 (element-id-transformer? v) -> boolean?
@@ -1235,35 +1518,19 @@ block-color : style?
 value
 highlighted-color : style?
 syntax
-(interaction maybe-eval maybe-escape datum ...)
+(examples option ... datum ...)
  
-maybe-eval   = 
-             | #:eval eval-expr
-                
-maybe-escape = 
-             | #:escape escape-id
-syntax
-(interaction0 maybe-eval maybe-escape datum ...)
-syntax
-(interaction/no-prompt maybe-eval maybe-escape datum)
-syntax
-(interaction-eval maybe-eval maybe-escape datum)
-syntax
-(interaction-eval-show maybe-eval maybe-escape datum)
-syntax
-(racketblock+eval maybe-eval maybe-escape datum ...)
-syntax
-(racketblock0+eval maybe-eval maybe-escape datum ...)
-syntax
-(racketmod+eval maybe-eval maybe-escape name datum ...)
-syntax
-(def+int maybe-eval maybe-escape defn-datum expr-datum ...)
-syntax
-(defs+int maybe-eval maybe-escape (defn-datum ...) expr-datum ...)
-syntax
-(examples maybe-eval maybe-escape datum ...)
-syntax
-(defexamples maybe-eval maybe-escape datum ...)
+option = #:eval eval-expr
+       | #:once
+       | #:escape escape-id
+       | #:label label-expr
+       | #:hidden
+       | #:result-only
+       | #:no-inset
+       | #:no-prompt
+       | #:preserve-source-locations
+       | #:no-result
+       | #:lang language-name
 procedure
 (make-base-eval [#:pretty-print? pretty-print? 
                  #:lang lang]                  
@@ -1295,17 +1562,68 @@ procedure
                (list/c 'special symbol?)
                (cons/c 'begin list?))
 procedure
+(make-log-based-eval log-file mode) -> (-> any/c any)
+  log-file : path-string?
+  mode : (or/c 'record 'replay)
+procedure
 (close-eval eval) -> (one-of/c "")
   eval : (any/c . -> . any)
 parameter
 (scribble-eval-handler)
- -> ((any/c . -> . any) any/c boolean? . -> . any)
+ -> ((any/c . -> . any) boolean? any/c . -> . any)
 (scribble-eval-handler handler) -> void?
-  handler : ((any/c . -> . any) any/c boolean? . -> . any)
+  handler : ((any/c . -> . any) boolean? any/c . -> . any)
 parameter
 (scribble-exn->string) -> (-> (or/c exn? any/c) string?)
 (scribble-exn->string handler) -> void?
   handler : (-> (or/c exn? any/c) string?)
+syntax
+(interaction maybe-options datum ...)
+ 
+  maybe-options = maybe-eval
+                | maybe-escape
+                | maybe-no-errors
+                   
+     maybe-eval = 
+                | #:eval eval-expr
+                   
+   maybe-escape = 
+                | #:escape escape-id
+                   
+maybe-no-errors = 
+                | #:no-errors? no-errors?-expr
+syntax
+(interaction0 maybe-options datum ...)
+syntax
+(interaction/no-prompt maybe-eval maybe-escape datum)
+syntax
+(interaction-eval maybe-eval datum)
+syntax
+(interaction-eval-show maybe-eval datum)
+syntax
+(racketblock+eval maybe-eval maybe-escape datum ...)
+syntax
+(racketblock0+eval maybe-eval maybe-escape datum ...)
+syntax
+(racketmod+eval maybe-eval maybe-escape name datum ...)
+syntax
+(def+int maybe-options defn-datum expr-datum ...)
+syntax
+(defs+int maybe-options (defn-datum ...) expr-datum ...)
+syntax
+(examples maybe-options datum ...)
+syntax
+(examples* label-expr maybe-options datum ...)
+syntax
+(defexamples maybe-options datum ...)
+syntax
+(defexamples* label-expr maybe-options datum ...)
+procedure
+(as-examples b) -> block?
+  b : block?
+(as-examples label b) -> block?
+  label : (or/c block? content?)
+  b : block?
 syntax
 (with-eval-preserve-source-locations expr ...)
 syntax
@@ -1314,35 +1632,35 @@ syntax
 (proc-doc/names id contract arg-specs (desc-expr ...))
  
 arg-specs = ((arg-id ...) ((arg-id default-expr) ...))
-          | (arg-id ...)
-             
-contract  = (-> arg ... result)
-          | (->* (mandatory ...) (optional ...) result)
-          | (case-> (-> arg ... result) ...)
-             
+          | (arg-id ...)
+             
+ contract = (-> arg ... result)
+          | (->* (mandatory ...) (optional ...) result)
+          | (case-> (-> arg ... result) ...)
+             
 mandatory = contract-expr
-          | keyword contract-expr
-             
-optional  = contract-expr
-          | keyword contract-expr
+          | keyword contract-expr
+             
+ optional = contract-expr
+          | keyword contract-expr
 syntax
 (proc-doc id contract maybe-defs (desc-expr ...))
  
-contract   = (-> result)
-           | (->i (arg ...) (opt ...) maybe-pre [id res])
-           | (->i (arg ...) (opt ...) maybe-pre (values [id res] ...))
-           | (->i (arg ...) (opt ...) #:rest rest [id result-expr])
-           | (->d (arg ...) () maybe-pre (values [id result] ...))
-           | (->d (arg ...) () maybe-pre [id result])
-           | (->d (arg ...) () #:rest id rest [id result])
-              
-maybe-pre  = 
-           | #:pre (pre-id ...) condition
-              
+  contract = (-> result)
+           | (->i (arg ...) (opt ...) maybe-pre [id res])
+           | (->i (arg ...) (opt ...) maybe-pre (values [id res] ...))
+           | (->i (arg ...) (opt ...) #:rest rest [id result-expr])
+           | (->d (arg ...) () maybe-pre (values [id result] ...))
+           | (->d (arg ...) () maybe-pre [id result])
+           | (->d (arg ...) () #:rest id rest [id result])
+              
+ maybe-pre = 
+           | #:pre (pre-id ...) condition
+              
 maybe-defs = 
-           | (default-expr default-expr ...)
+           | (default-expr default-expr ...)
 syntax
-(thing-doc id contract-expr dec-expr)
+(thing-doc id contract-expr (desc-expr ...))
 syntax
 (parameter-doc id (parameter/c contract-expr) arg-id (desc-expr ...))
 syntax
@@ -1353,13 +1671,39 @@ syntax
              (desc-expr ...))
  
 maybe-omit-constructor = 
-                       | #:omit-constructor
+                       | #:omit-constructor
 syntax
 (struct-doc struct-name
             ([field-name contract-expr-datum] ...)
             maybe-omit-constructor
             maybe-mutable maybe-non-opaque maybe-constructor
             (desc-expr ...))
+syntax
+(form-doc options form-datum
+  maybe-grammar maybe-contracts
+  (desc-expr ...))
+ 
+        options = maybe-kind maybe-link maybe-id maybe-literals
+                   
+     maybe-kind = 
+                | #:kind kind-string-expr
+                   
+     maybe-link = 
+                | #:link-target? link-target?-expr
+                   
+       maybe-id = 
+                | #:id id
+                | #:id [id id-expr]
+                   
+ maybe-literals = 
+                | #:literals (literal-id ...)
+                   
+  maybe-grammar = 
+                | #:grammar ([nonterm-id clause-datum ...+] ...)
+                   
+maybe-contracts = 
+                | #:contracts ([subform-datum contract-expr-datum]
+                               ...)
 syntax
 (begin-for-doc form ...)
 syntax
@@ -1618,17 +1962,17 @@ procedure
   script : (or/c path-string? (listof string?))
 struct
 (struct with-attributes (style assoc)
-        #:extra-constructor-name make-with-attributes)
+    #:extra-constructor-name make-with-attributes)
   style : any/c
   assoc : (listof (cons/c symbol? string?))
 struct
 (struct target-url (addr style)
-        #:extra-constructor-name make-target-url)
+    #:extra-constructor-name make-target-url)
   addr : path-string?
   style : any/c
 struct
 (struct image-file (path scale)
-        #:extra-constructor-name make-image-file)
+    #:extra-constructor-name make-image-file)
   path : (or/c path-string?
                (cons/c 'collects (listof bytes?)))
   scale : real?
@@ -1675,14 +2019,17 @@ procedure
 procedure
 (make-at-readtable [#:readtable readtable                      
                     #:command-char command-char                
+                    #:command-readtable command-readtable      
                     #:datum-readtable datum-readtable          
                     #:syntax-post-processor syntax-post-proc]) 
  -> readtable?
   readtable : readtable? = (current-readtable)
   command-char : char? = #\@
-  datum-readtable : (or/c readtable? boolean?
-                                     (readtable? . -> . readtable?))
-                  = #t
+  command-readtable : (or/c readtable? 'dynamic) = readtable
+  datum-readtable : (or/c readtable?                     = #t
+                          boolean?
+                          (readtable? . -> . readtable?)
+                          'dynamic)
   syntax-post-proc : (syntax? . -> . syntax?) = values
 procedure
 (make-at-reader #:syntax? syntax?          
@@ -1692,14 +2039,14 @@ procedure
 procedure
 (use-at-readtable ...) -> void?
 struct
-(struct part                                (tag-prefix
-                                            tags
-                                            title-content
-                                            style
-                                            to-collect
-                                            blocks
-                                            parts)
-        #:extra-constructor-name make-part)
+(struct part (tag-prefix
+              tags
+              title-content
+              style
+              to-collect
+              blocks
+              parts)
+    #:extra-constructor-name make-part)
   tag-prefix : (or/c #f string?)
   tags : (listof tag?)
   title-content : (or/c #f list?)
@@ -1709,150 +2056,150 @@ struct
   parts : (listof part?)
 struct
 (struct paragraph (style content)
-        #:extra-constructor-name make-paragraph)
+    #:extra-constructor-name make-paragraph)
   style : style?
   content : content?
 struct
 (struct table (style blockss)
-        #:extra-constructor-name make-table)
+    #:extra-constructor-name make-table)
   style : style?
   blockss : (listof (listof (or/c block? 'cont)))
 struct
 (struct itemization (style blockss)
-        #:extra-constructor-name make-itemization)
+    #:extra-constructor-name make-itemization)
   style : style?
   blockss : (listof (listof block?))
 struct
 (struct nested-flow (style blocks)
-        #:extra-constructor-name make-nested-flow)
+    #:extra-constructor-name make-nested-flow)
   style : any/c
   blocks : (listof block?)
 struct
 (struct compound-paragraph (style blocks)
-        #:extra-constructor-name make-compound-paragraph)
+    #:extra-constructor-name make-compound-paragraph)
   style : style?
   blocks : (listof block?)
 struct
 (struct traverse-block (traverse)
-        #:extra-constructor-name make-traverse-block)
+    #:extra-constructor-name make-traverse-block)
   traverse : block-traverse-procedure/c
 struct
 (struct delayed-block (resolve)
-        #:extra-constructor-name make-delayed-block)
+    #:extra-constructor-name make-delayed-block)
   resolve : (any/c part? resolve-info? . -> . block?)
 struct
 (struct element (style content)
-        #:extra-constructor-name make-element)
+    #:extra-constructor-name make-element)
   style : element-style?
   content : content?
 struct
 (struct image-element element (path suffixes scale)
-        #:extra-constructor-name make-image-element)
+    #:extra-constructor-name make-image-element)
   path : (or/c path-string?
                (cons/c 'collects (listof bytes?)))
   suffixes : (listof #rx"^[.]")
   scale : real?
 struct
 (struct target-element element (tag)
-        #:extra-constructor-name make-target-element)
+    #:extra-constructor-name make-target-element)
   tag : tag?
 struct
 (struct toc-target-element target-element ()
-        #:extra-constructor-name make-toc-target-element)
+    #:extra-constructor-name make-toc-target-element)
 struct
 (struct toc-target2-element toc-target-element (toc-content)
-        #:extra-constructor-name make-toc-target2-element)
+    #:extra-constructor-name make-toc-target2-element)
   toc-content : content?
 struct
 (struct page-target-element target-element ()
-        #:extra-constructor-name make-page-target-element)
+    #:extra-constructor-name make-page-target-element)
 struct
-(struct redirect-target-element target-element                 (alt-path
-                                                               alt-anchor)
-        #:extra-constructor-name make-redirect-target-element)
+(struct redirect-target-element target-element (alt-path
+                                                alt-anchor)
+    #:extra-constructor-name make-redirect-target-element)
   alt-path : path-string?
   alt-anchor : string?
 struct
 (struct toc-element element (toc-content)
-        #:extra-constructor-name make-toc-element)
+    #:extra-constructor-name make-toc-element)
   toc-content : content?
 struct
 (struct link-element element (tag)
-        #:extra-constructor-name make-link-element)
+    #:extra-constructor-name make-link-element)
   tag : tag?
 struct
 (struct index-element element (tag plain-seq entry-seq desc)
-        #:extra-constructor-name make-index-element)
+    #:extra-constructor-name make-index-element)
   tag : tag?
   plain-seq : (and/c pair? (listof string?))
   entry-seq : (listof content?)
   desc : any/c
 struct
 (struct multiarg-element (style contents)
-        #:extra-constructor-name make-multiarg-element)
+    #:extra-constructor-name make-multiarg-element)
   style : element-style?
   contents : (listof content?)
 struct
 (struct traverse-element (traverse)
-        #:extra-constructor-name make-traverse-element)
+    #:extra-constructor-name make-traverse-element)
   traverse : element-traverse-procedure/c
 struct
 (struct delayed-element (resolve sizer plain)
-        #:extra-constructor-name make-delayed-element)
+    #:extra-constructor-name make-delayed-element)
   resolve : (any/c part? resolve-info? . -> . content?)
   sizer : (-> any/c)
   plain : (-> any/c)
 struct
 (struct part-relative-element (resolve sizer plain)
-        #:extra-constructor-name make-part-relative-element)
+    #:extra-constructor-name make-part-relative-element)
   resolve : (collect-info? . -> . content?)
   sizer : (-> any/c)
   plain : (-> any/c)
 struct
 (struct collect-element element (collect)
-        #:extra-constructor-name make-collect-element)
+    #:extra-constructor-name make-collect-element)
   collect : (collect-info . -> . any)
 struct
 (struct render-element element (render)
-        #:extra-constructor-name make-render-element)
+    #:extra-constructor-name make-render-element)
   render : (any/c part? resolve-info? . -> . any)
 struct
 (struct collected-info (number parent info)
-        #:extra-constructor-name make-collected-info)
-  number : (listof (or/c #f exact-nonnegative-integer? string?))
+    #:extra-constructor-name make-collected-info)
+  number : (listof part-number-item?)
   parent : (or/c #f part?)
   info : any/c
 struct
 (struct target-url (addr)
-        #:extra-constructor-name make-target-url)
+    #:extra-constructor-name make-target-url)
   addr : path-string?
 struct
 (struct document-version (text)
-        #:extra-constructor-name make-document-version)
+    #:extra-constructor-name make-document-version)
   text : (or/c string? #f)
 struct
 (struct document-date (text)
-        #:extra-constructor-name make-document-date)
+    #:extra-constructor-name make-document-date)
   text : (or/c string? #f)
 struct
 (struct color-property (color)
-        #:extra-constructor-name make-color-property)
+    #:extra-constructor-name make-color-property)
   color : (or/c string? (list/c byte? byte? byte?))
 struct
 (struct background-color-property (color)
-        #:extra-constructor-name make-background-color-property)
+    #:extra-constructor-name make-background-color-property)
   color : (or/c string? (list/c byte? byte? byte?))
 struct
 (struct table-cells (styless)
-        #:extra-constructor-name make-table-cells)
+    #:extra-constructor-name make-table-cells)
   styless : (listof (listof style?))
 struct
 (struct table-columns (styles)
-        #:extra-constructor-name make-table-columns)
+    #:extra-constructor-name make-table-columns)
   styles : (listof style?)
 struct
 (struct box-mode (top-name center-name bottom-name)
-        #:extra-constructor-name make-box-mode)
+    #:extra-constructor-name make-box-mode)
   top-name : string?
   center-name : string?
   bottom-name : string?
@@ -1867,7 +2214,7 @@ procedure
   v : any/c
 struct
 (struct style (name properties)
-        #:extra-constructor-name make-style)
+    #:extra-constructor-name make-style)
   name : (or/c string? symbol? #f)
   properties : list?
 value
@@ -1880,7 +2227,7 @@ procedure
   v : any/c
 struct
 (struct generated-tag ()
-        #:extra-constructor-name make-generated-tag)
+    #:extra-constructor-name make-generated-tag)
 procedure
 (content->string content) -> string?
   content : content?
@@ -1895,16 +2242,39 @@ procedure
 procedure
 (block-width e) -> exact-nonnegative-integer?
   e : block?
+procedure
+(part-number-item? v) -> boolean
+  v : any/c
+procedure
+(numberer? v) -> boolean?
+  v : any/c
+procedure
+(make-numberer step initial-value) -> numberer?
+  step : (any/c (listof part-number-item?)
+          . -> .
+          (values part-number-item? any/c))
+  initial-value : any/c
+procedure
+(numberer-step n                    
+               parent-number        
+               ci                   
+               numberer-values) -> part-number-item? hash?
+  n : numberer?
+  parent-number : (listof part-number-item?)
+  ci : collect-info?
+  numberer-values : hash?
 struct
-(struct collect-info                                (ht
-                                                    ext-ht
-                                                    ext-demand
-                                                    parts
-                                                    tags
-                                                    gen-prefix
-                                                    relatives
-                                                    parents)
-        #:extra-constructor-name make-collect-info)
+(struct collect-info (fp
+                      ht
+                      ext-ht
+                      ext-demand
+                      parts
+                      tags
+                      gen-prefix
+                      relatives
+                      parents)
+    #:extra-constructor-name make-collect-info)
+  fp : any/c
   ht : any/c
   ext-ht : any/c
   ext-demand : (tag? collect-info? . -> . any/c)
@@ -1914,11 +2284,12 @@ struct
   relatives : any/c
   parents : (listof part?)
 struct
-(struct resolve-info (ci delays undef)
-        #:extra-constructor-name make-resolve-info)
+(struct resolve-info (ci delays undef searches)
+    #:extra-constructor-name make-resolve-info)
   ci : any/c
   delays : any/c
   undef : any/c
+  searches : any/c
 procedure
 (info-key? v) -> boolean?
   v : any/c
@@ -1934,6 +2305,11 @@ procedure
   key : info-key?
 procedure
 (resolve-get/ext? p ri key) -> any/c boolean?
+  p : (or/c part? #f)
+  ri : resolve-info?
+  key : info-key?
+procedure
+(resolve-get/ext-id p ri key) -> any/c (or/c boolean? string?)
   p : (or/c part? #f)
   ri : resolve-info?
   key : info-key?
@@ -1975,64 +2351,68 @@ value
 element-traverse-procedure/c : contract?
 struct
 (struct attributes (assoc)
-        #:extra-constructor-name make-attributes)
+    #:extra-constructor-name make-attributes)
   assoc : (listof (cons/c symbol? string?))
 struct
 (struct alt-tag (name)
-        #:extra-constructor-name make-alt-tag)
+    #:extra-constructor-name make-alt-tag)
   name : (and/c string? #rx"^[a-zA-Z0-9]+$")
 struct
 (struct column-attributes (assoc)
-        #:extra-constructor-name make-column-attributes)
+    #:extra-constructor-name make-column-attributes)
   assoc : (listof (cons/c symbol? string?))
 struct
 (struct url-anchor (name)
-        #:extra-constructor-name make-url-anchor)
+    #:extra-constructor-name make-url-anchor)
   name : string?
 struct
 (struct hover-property (text)
-        #:extra-constructor-name make-hover-property)
+    #:extra-constructor-name make-hover-property)
   text : string?
 struct
 (struct script-property (type script)
-        #:extra-constructor-name make-script-property)
+    #:extra-constructor-name make-script-property)
   type : string?
   script : (or/c path-string? (listof string?))
 struct
 (struct css-addition (path)
-        #:extra-constructor-name make-css-addition)
+    #:extra-constructor-name make-css-addition)
   path : (or/c path-string?
                (cons/c 'collects (listof bytes?))
                url?
                bytes?)
 struct
 (struct css-style-addition (path)
-        #:extra-constructor-name make-css-style-addition)
+    #:extra-constructor-name make-css-style-addition)
   path : (or/c path-string?
                (cons/c 'collects (listof bytes?))
                url?
                bytes?)
 struct
 (struct js-addition (path)
-        #:extra-constructor-name make-js-addition)
+    #:extra-constructor-name make-js-addition)
   path : (or/c path-string?
                (cons/c 'collects (listof bytes?))
                url?
                bytes?)
 struct
 (struct js-style-addition (path)
-        #:extra-constructor-name make-js-style-addition)
+    #:extra-constructor-name make-js-style-addition)
   path : (or/c path-string?
                (cons/c 'collects (listof bytes?))
                url?
                bytes?)
 struct
 (struct body-id (value)
-        #:extra-constructor-name make-body-id)
+    #:extra-constructor-name make-body-id)
   value : string?
 struct
+(struct document-source (module-path)
+    #:extra-constructor-name make-document-source)
+  module-path : module-path?
+struct
 (struct html-defaults (prefix style extra-files)
-        #:extra-constructor-name make-html-defaults)
+    #:extra-constructor-name make-html-defaults)
   prefix : (or/c bytes? path-string?
                  (cons/c 'collects (listof bytes?)))
   style : (or/c bytes? path-string?
@@ -2041,33 +2421,33 @@ struct
                               (cons/c 'collects (listof bytes?))))
 struct
 (struct head-extra (xexpr)
-        #:extra-constructor-name make-head-extra)
+    #:extra-constructor-name make-head-extra)
   xexpr : xexpr/c
 struct
 (struct render-convertible-as (types)
-        #:extra-constructor-name make-render-convertible-as)
+    #:extra-constructor-name make-render-convertible-as)
   types : (listof (or/c 'png-bytes 'svg-bytes))
 struct
 (struct part-link-redirect (url)
-        #:extra-constructor-name make-part-link-redirect)
+    #:extra-constructor-name make-part-link-redirect)
   url : url?
 struct
 (struct link-resource (path)
-        #:extra-constructor-name make-link-resource)
+    #:extra-constructor-name make-link-resource)
   path : path-string?
 struct
 (struct install-resource (path)
-        #:extra-constructor-name make-install-resource)
+    #:extra-constructor-name make-install-resource)
   path : path-string?
 struct
 (struct tex-addition (path)
-        #:extra-constructor-name make-tex-addition)
+    #:extra-constructor-name make-tex-addition)
   path : (or/c path-string?
                (cons/c 'collects (listof bytes?))
                bytes?)
 struct
 (struct latex-defaults (prefix style extra-files)
-        #:extra-constructor-name make-latex-defaults)
+    #:extra-constructor-name make-latex-defaults)
   prefix : (or/c bytes? path-string?
                  (cons/c 'collects (listof bytes?)))
   style : (or/c bytes? path-string?
@@ -2075,9 +2455,22 @@ struct
   extra-files : (listof (or/c path-string?
                               (cons/c 'collects (listof bytes?))))
 struct
+(struct latex-defaults+replacements latex-defaults (replacements)
+    #:extra-constructor-name make-latex-defaults+replacements)
+  replacements : (hash/c string? (or/c bytes? path-string?
+                                       (cons/c 'collects (listof bytes?))))
+struct
 (struct command-extras (arguments)
-        #:extra-constructor-name make-command-extras)
+    #:extra-constructor-name make-command-extras)
   arguments : (listof string?)
+struct
+(struct command-optional (arguments)
+    #:extra-constructor-name make-command-optional)
+  arguments : (listof string?)
+struct
+(struct short-title (text)
+    #:extra-constructor-name make-short-title)
+  text : (or/c string? #f)
 procedure
 (render  docs                                        
          names                                       
@@ -2088,6 +2481,7 @@ procedure
          #:style-file style-file                     
          #:style-extra-files style-extra-files       
          #:extra-files extra-files                   
+         #:image-preferences image-preferences       
          #:xrefs xrefs                               
          #:info-in-files info-in-files               
          #:info-out-file info-out-file               
@@ -2105,6 +2499,8 @@ procedure
   style-file : (or/c #f path-string?) = #f
   style-extra-files : (listof path-string?) = #f
   extra-files : (listof path-string?) = #f
+  image-preferences : (listof (or/c 'ps 'pdf 'png 'svg 'gif))
+                    = null
   xrefs : (listof xref?) = null
   info-in-files : (listof path-string?) = null
   info-out-file : (or/c #f path-string?) = #f
@@ -2178,7 +2574,8 @@ constructor
               [prefix-file prefix-file]                         
               [style-file style-file]                           
               [style-extra-files style-extra-files]             
-              [extra-files extra-files]])                       
+              [extra-files extra-files]                         
+              [image-preferences image-preferences]])           
  -> (is-a?/c render%)
   dest-dir : path-string?
   refer-to-existing-files : any/c = #f
@@ -2187,6 +2584,8 @@ constructor
   style-file : (or/c path-string? #f) = #f
   style-extra-files : (listof path-string?) = null
   extra-files : (listof path-string?) = null
+  image-preferences : (listof (or/c 'ps 'pdf 'png 'svg 'gif))
+                    = null
 mixin
 render-mixin : (class? . -> . class?)
   argument extends/implements: render<%>
@@ -2196,6 +2595,12 @@ render-mixin : (class? . -> . class?)
 mixin
 render-mixin : (class? . -> . class?)
   argument extends/implements: render<%>
+constructor
+(new render-mixin                             
+                  [[search-box? search-box?]] 
+                   ...superclass-args...)     
+ -> (is-a?/c render-mixin)
+  search-box? : boolean? = #f
 method
 (send a-render set-external-tag-path url) -> void?
   url : string?
@@ -2211,8 +2616,18 @@ method
 mixin
 render-mixin : (class? . -> . class?)
   argument extends/implements: render<%>
+parameter
+(extra-character-conversions) -> (-> char? (or/c string? #f))
+(extra-character-conversions convs) -> void?
+  convs : (-> char? (or/c string? #f))
 mixin
 render-mixin : (class? . -> . class?)
+  argument extends/implements: render<%>
+mixin
+dvi-render-mixin : (class? . -> . class?)
+  argument extends/implements: render<%>
+mixin
+xelatex-render-mixin : (class? . -> . class?)
   argument extends/implements: render<%>
 mixin
 override-render-mixin-multi : (class? . -> . class?)
@@ -2271,11 +2686,11 @@ procedure
 (decode-string s) -> (listof content?)
   s : string?
 procedure
-(whitespace? s) -> boolean?
-  s : string?
+(whitespace? v) -> boolean?
+  v : any/c
 struct
 (struct title-decl (tag-prefix tags version style content)
-        #:extra-constructor-name make-title-decl)
+    #:extra-constructor-name make-title-decl)
   tag-prefix : (or/c #f string?)
   tags : (listof string?)
   version : (or/c string? #f)
@@ -2283,7 +2698,7 @@ struct
   content : content?
 struct
 (struct part-start (depth tag-prefix tags style title)
-        #:extra-constructor-name make-part-start)
+    #:extra-constructor-name make-part-start)
   depth : integer?
   tag-prefix : (or/c #f string?)
   tags : (listof string?)
@@ -2291,20 +2706,20 @@ struct
   title : content?
 struct
 (struct part-index-decl (plain-seq entry-seq)
-        #:extra-constructor-name make-part-index-decl)
+    #:extra-constructor-name make-part-index-decl)
   plain-seq : (listof string?)
   entry-seq : list?
 struct
 (struct part-collect-decl (element)
-        #:extra-constructor-name make-part-collect-decl)
+    #:extra-constructor-name make-part-collect-decl)
   element : (or/c element? part-relative-element?)
 struct
 (struct part-tag-decl (tag)
-        #:extra-constructor-name make-part-tag-decl)
+    #:extra-constructor-name make-part-tag-decl)
   tag : tag?
 struct
 (struct splice (run)
-        #:extra-constructor-name make-splice)
+    #:extra-constructor-name make-splice)
   run : list?
 procedure
 (spliceof ctc) -> flat-contract?
@@ -2319,13 +2734,15 @@ procedure
 (load-xref  sources                           
            [#:demand-source demand-source     
             #:render% using-render%           
-            #:root root-path])            -> xref?
+            #:root root-path                  
+            #:doc-id doc-id-str])         -> xref?
   sources : (listof (-> (or/c any/c (-> list?))))
   demand-source : (tag? -> (or/c (-> any/c) #f))
                 = (lambda (tag) #f)
   using-render% : (implementation?/c render<%>)
                 = (render-mixin render%)
   root-path : (or/c path-string? false/c) = #f
+  doc-id-str : (or/c path-string? false/c) = #f
 procedure
 (xref-binding->definition-tag xref        
                               binding     
@@ -2335,9 +2752,15 @@ procedure
                   (list/c (or/c module-path?
                                 module-path-index?)
                           symbol?)
-                  (listof module-path-index?
+                  (list/c module-path-index?
                           symbol?
                           module-path-index?
+                          symbol?
+                          (one-of/c 0 1)
+                          (or/c exact-integer? false/c)
+                          (or/c exact-integer? false/c))
+                  (list/c (or/c module-path?
+                                module-path-index?)
                           symbol?
                           (one-of/c 0 1)
                           (or/c exact-integer? false/c)
@@ -2382,7 +2805,7 @@ procedure
   xref : xref?
 struct
 (struct entry (words content tag desc)
-        #:extra-constructor-name make-entry)
+    #:extra-constructor-name make-entry)
   words : (and/c (listof string?) cons?)
   content : list?
   tag : tag?
@@ -2394,6 +2817,14 @@ procedure
 (make-data+root data root) -> data+root?
   data : any/c
   root : (or/c #f path-string?)
+procedure
+(data+root+doc-id? v) -> boolean?
+  v : any/c
+procedure
+(make-data+root+doc-id data root doc-id) -> data+root+doc-id?
+  data : any/c
+  root : (or/c #f path-string?)
+  doc-id : string?
 procedure
 (make-section-tag  name                              
                   [#:doc doc-mod-path                
@@ -2423,6 +2854,51 @@ procedure
   mpi : module-path-index?
 procedure
 (intern-taglet v) -> any/c
+  v : any/c
+procedure
+(definition-tag->class/interface-tag definition-tag)
+ -> class/interface-tag?
+  definition-tag : definition-tag?
+procedure
+(class/interface-tag->constructor-tag class/interface-tag)
+ -> constructor-tag?
+  class/interface-tag : class/interface-tag?
+procedure
+(get-class/interface-and-method method-tag) -> symbol? symbol?
+  method-tag : method-tag?
+procedure
+(definition-tag? v) -> boolean?
+  v : any/c
+procedure
+(class/interface-tag? v) -> boolean?
+  v : any/c
+procedure
+(method-tag? v) -> boolean?
+  v : any/c
+procedure
+(constructor-tag? v) -> boolean?
+  v : any/c
+procedure
+(fetch-blueboxes-strs  tag                                 
+                      [#:blueboxes-cache blueboxes-cache]) 
+ -> (or/c #f (non-empty-listof string?))
+  tag : tag?
+  blueboxes-cache : blueboxes-cache? = (make-blueboxes-cache #t)
+procedure
+(fetch-blueboxes-method-tags                                      
+                              method-name                         
+                             [#:blueboxes-cache blueboxes-cache]) 
+ -> (listof method-tag?)
+  method-name : symbol?
+  blueboxes-cache : blueboxes-cache? = (make-blueboxes-cache #t)
+procedure
+(make-blueboxes-cache  populate?                         
+                      [#:blueboxes-dirs blueboxes-dirs]) 
+ -> blueboxes-cache?
+  populate? : boolean?
+  blueboxes-dirs : (listof path?) = (get-doc-search-dirs)
+procedure
+(blueboxes-cache? v) -> boolean?
   v : any/c
 value
 unicode-encoding-packages : string?

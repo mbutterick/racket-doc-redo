@@ -1,13 +1,13 @@
-159549
-((3) 0 () 126 ((q lib "racket/private/base.rkt") (q lib "racket/dict.rkt") (q quote #%kernel) (q lib "racket/set.rkt") (q lib "racket/sandbox.rkt") (q lib "racket/extflonum.rkt") (q lib "racket/private/class-internal.rkt") (q lib "racket/unsafe/ops.rkt") (q lib "racket/list.rkt") (q lib "racket/file.rkt") (q lib "racket/port.rkt") (q lib "racket/flonum.rkt") (q lib "racket/match.rkt") (q 198155 . 9) (q 370907 . 23) (q lib "racket/control.rkt") (q lib "racket/unit.rkt") (q 195493 . 4) (q lib "racket/require-transform.rkt") (q 233734 . 19) (q 371862 . 5) (q lib "racket/math.rkt") (q lib "racket/place.rkt") (q lib "racket/generator.rkt") (q lib "racket/stream.rkt") (q lib "racket/contract/private/blame.rkt") (q lib "racket/fixnum.rkt") (q lib "racket/private/misc.rkt") (q lib "racket/pretty.rkt") (q lib "racket/provide-transform.rkt") (q lib "racket/vector.rkt") (q 193692 . 4) (q lib "racket/private/stxcase-scheme.rkt") (q lib "racket/runtime-path.rkt") (q lib "racket/tcp.rkt") (q lib "racket/private/letstx-scheme.rkt") (q lib "racket/date.rkt") (q lib "racket/udp.rkt") (q lib "racket/contract/private/misc.rkt") (q 196472 . 7) (q lib "racket/sequence.rkt") (q lib "racket/private/list.rkt") (q lib "racket/promise.rkt") (q lib "racket/splicing.rkt") (q lib "racket/future.rkt") (q lib "racket/syntax.rkt") (q lib "racket/private/serialize.rkt") (q lib "racket/private/more-scheme.rkt") (q lib "racket/async-channel.rkt") (q lib "racket/contract/private/guts.rkt") (q lib "racket/contract/base.rkt") (q lib "racket/path.rkt") (q lib "racket/generic.rkt") (q lib "racket/struct-info.rkt") (q 177891 . 4) (q 196884 . 5) (q lib "racket/provide.rkt") (q lib "racket/function.rkt") (q 153844 . 3) (q lib "racket/class.rkt") (q 197110 . 4) (q 193498 . 6) (q lib "racket/bool.rkt") (q 236850 . 8) (q 325260 . 29) (q lib "racket/contract/region.rkt") (q lib "racket/engine.rkt") (q lib "racket/serialize.rkt") (q 197514 . 5) (q 194452 . 5) (q 195777 . 4) (q 195328 . 5) (q 267164 . 29) (q lib "racket/require.rkt") (q 136093 . 3) (q lib "racket/performance-hint.rkt") (q lib "racket/trait.rkt") (q lib "racket/private/map.rkt") (q 326881 . 5) (q 197252 . 4) (q 194628 . 5) (q lib "racket/include.rkt") (q 195913 . 4) (q 195124 . 6) (q 193933 . 4) (q 234641 . 7) (q 333240 . 5) (q lib "racket/string.rkt") (q 334812 . 6) (q 129127 . 4) (q 194086 . 5) (q lib "racket/trace.rkt") (q lib "racket/contract/parametric.rkt") (q lib "racket/system.rkt") (q 194266 . 5) (q 193801 . 4) (q lib "racket/contract.rkt") (q lib "racket/contract/private/prop.rkt") (q lib "racket/fasl.rkt") (q 197390 . 4) (q 197672 . 4) (q lib "racket/unit-exptime.rkt") (q 196754 . 4) (q 333606 . 6) (q lib "racket/format.rkt") (q 196237 . 5) (q 194973 . 4) (q lib "racket/private/qqstx.rkt") (q 194808 . 5) (q lib "racket/stxparam-exptime.rkt") (q lib "racket/contract/private/opt.rkt") (q lib "racket/require-syntax.rkt") (q lib "racket/contract/private/base.rkt") (q lib "racket/contract/private/box.rkt") (q 197805 . 4) (q lib "racket/bytes.rkt") (q 196074 . 4) (q 195630 . 4) (q lib "racket/contract/private/ds.rkt") (q lib "racket/keyword-transform.rkt") (q lib "racket/provide-syntax.rkt") (q lib "racket/contract/private/provide.rkt") (q lib "racket/stxparam.rkt") (q lib "racket/contract/private/struct-dc.rkt") (q lib "racket/contract/private/vector.rkt") (q lib "racket/cmdline.rkt")) () (h ! (equal) ((c def c (c (? . 0) q in-port)) q (104839 . 4)) ((c def c (c (? . 0) q hash-set*!)) q (100222 . 5)) ((c form c (c (? . 0) q define)) q (11917 . 14)) ((c def c (c (? . 5) q extfl<=)) q (35766 . 4)) ((c def c (c (? . 44) q future?)) q (213771 . 3)) ((c form c (c (? . 0) q except-out)) q (6006 . 2)) ((c def c (c (? . 4) q sandbox-namespace-specs)) q (329110 . 6)) ((c def c (c (? . 3) q make-custom-set-types)) q (125683 . 25)) ((c form c (c (? . 118) q define-contract-struct)) q (170450 . 2)) ((c def c (c (? . 1) q dict-implements/c)) q (111255 . 3)) ((c def c (c (? . 2) q make-channel)) q (209761 . 2)) ((c def c (c (? . 1) q dict-ref!)) q (113003 . 5)) ((c def c (c (? . 2) q will-execute)) q (380068 . 3)) ((c def c (c (? . 53) q struct-auto-info-lists)) q (138279 . 4)) ((c def c (c (? . 2) q write-special)) q (278984 . 4)) ((c def c (c (? . 2) q continuation-marks)) q (203754 . 5)) ((c def c (c (? . 2) q peek-byte-or-special)) q (275815 . 8)) ((c def c (c (? . 2) q string-ci<=?)) q (42176 . 4)) ((c def c (c (? . 2) q make-sibling-inspector)) q (324279 . 3)) ((c form c (c (? . 6) q interface)) q (138410 . 5)) ((c def c (c (? . 1) q dict-implements?)) q (111163 . 4)) ((c def c (c (? . 2) q call/cc)) q (200635 . 5)) ((c def c (c (? . 2) q link-exists?)) q (341026 . 3)) ((c def c (c (? . 0) q double-flonum?)) q (18987 . 3)) ((c def c (c (? . 2) q thread-cell-ref)) q (212132 . 3)) ((c def c (c (? . 29) q export-protect?)) c (? . 63)) ((c def c (c (? . 2) q exact-integer?)) q (18621 . 3)) ((c form c (c (? . 75) q begin-encourage-inline)) q (16879 . 2)) ((c def c (c (? . 2) q make-bytes)) q (55045 . 4)) ((c def c (c (? . 0) q call-with-output-file*)) q (247137 . 11)) ((c def c (c (? . 2) q srcloc-source)) c (? . 13)) ((c form c (c (? . 3) q for*/mutable-seteqv)) q (121659 . 2)) ((c def c (c (? . 2) q struct:exn:fail:filesystem:version)) c (? . 116)) ((c def c (c (? . 2) q set-port-next-location!)) q (244516 . 9)) ((c def c (c (? . 4) q sandbox-exit-handler)) q (330847 . 4)) ((c def c (c (? . 2) q read-bytes-line)) q (269304 . 5)) ((c def c (c (? . 2) q regexp-match/end)) q (75876 . 20)) ((c def c (c (? . 9) q preferences-lock-file-mode)) q (350588 . 2)) ((c def c (c (? . 7) q unsafe-extfl=)) q (388887 . 4)) ((c def c (c (? . 49) q coerce-chaperone-contracts)) q (176092 . 4)) ((c def c (c (? . 18) q import-orig-mode)) c (? . 19)) ((c def c (c (? . 10) q make-pipe-with-specials)) q (259628 . 7)) ((c def c (c (? . 5) q extfl->exact)) q (37196 . 3)) ((c def c (c (? . 2) q variable-reference->resolved-module-path)) q (299139 . 4)) ((c def c (c (? . 0) q make-base-namespace)) q (295143 . 2)) ((c def c (c (? . 2) q custodian-box?)) q (323690 . 3)) ((c def c (c (? . 2) q angle)) q (22790 . 3)) ((c def c (c (? . 4) q sandbox-make-logger)) q (332230 . 4)) ((c def c (c (? . 8) q partition)) q (92101 . 4)) ((c def c (c (? . 0) q member)) q (85424 . 5)) ((c def c (c (? . 0) q in-parallel)) q (106432 . 3)) ((c form c (c (? . 6) q augment-final*)) q (142449 . 2)) ((c form c (c (? . 16) q define-values-for-export)) q (155908 . 2)) ((c form c (c (? . 62) q implies)) q (18256 . 2)) ((c def c (c (? . 5) q extflvector-ref)) q (37676 . 4)) ((c def c (c (? . 2) q local-expand/capture-lifts)) q (227765 . 11)) ((c form c (c (? . 6) q inner)) q (143565 . 3)) ((c def c (c (? . 2) q find-system-path)) q (340399 . 3)) ((c def c (c (? . 2) q syntax-transforming-module-expression?)) q (231994 . 2)) ((c def c (c (? . 3) q list->mutable-seteqv)) q (120553 . 4)) ((c def c (c (? . 2) q subprocess-kill)) q (363712 . 4)) ((c def c (c (? . 7) q unsafe-struct-set!)) q (388132 . 5)) ((c def c (c (? . 8) q append*)) q (91379 . 7)) ((c def c (c (? . 2) q evt?)) q (208307 . 3)) ((c def c (c (? . 6) q is-a?)) q (152609 . 4)) ((c def c (c (? . 2) q current-locale)) q (242354 . 4)) ((c def c (c (? . 2) q arithmetic-shift)) q (23476 . 4)) ((c def c (c (? . 3) q subset?)) q (124667 . 4)) ((c def c (c (? . 2) q exn:fail:read:eof?)) c (? . 17)) ((c def c (c (? . 2) q make-inspector)) q (324170 . 3)) ((c def c (c (? . 9) q call-with-file-lock/timeout)) q (351427 . 15)) ((c def c (c (? . 22) q dynamic-place)) q (214572 . 9)) ((c def c (c (? . 10) q peek-bytes-evt)) c (? . 72)) ((c def c (c (? . 11) q fl*)) q (28442 . 4)) ((c def c (c (? . 2) q struct:exn:fail:contract:non-fixnum-result)) c (? . 94)) ((c def c (c (? . 0) q in-input-port-chars)) q (105053 . 3)) ((c def c (c (? . 2) q thread-cell?)) q (211962 . 3)) ((c def c (c (? . 2) q hash-remove!)) q (101813 . 4)) ((c def c (c (? . 7) q unsafe-fxand)) q (381258 . 4)) ((c def c (c (? . 11) q fltruncate)) q (29308 . 3)) ((c def c (c (? . 21) q sinh)) q (27668 . 3)) ((c def c (c (? . 0) q call-with-input-file)) q (246048 . 7)) ((c def c (c (? . 2) q syntax-local-lift-context)) q (230677 . 2)) ((c def c (c (? . 2) q syntax-rearm)) q (239383 . 5)) ((c def c (c (? . 2) q make-rename-transformer)) q (226288 . 6)) ((c form c (c (? . 12) q match-define)) q (187475 . 2)) ((c form c (c (? . 15) q shift)) q (202941 . 2)) ((c def c (c (? . 1) q make-immutable-custom-hash)) q (118253 . 14)) ((c def c (c (? . 4) q make-evaluator)) c (? . 64)) ((c form c (c (? . 0) q all-from-out)) q (5919 . 2)) ((c def c (c (? . 2) q make-prefab-struct)) q (137459 . 4)) ((c def c (c (? . 23) q yield)) q (110706 . 3)) ((c def c (c (? . 25) q exn:fail:contract:blame?)) c (? . 54)) ((c def c (c (? . 2) q prop:arity-string)) q (129488 . 2)) ((c def c (c (? . 2) q load-extension)) q (301222 . 3)) ((c form c (c (? . 12) q match/derived)) q (188135 . 2)) ((c def c (c (? . 2) q srcloc-span)) c (? . 13)) ((c def c (c (? . 2) q date-day)) c (? . 14)) ((c form c (c (? . 112) q contract)) q (172584 . 6)) ((c def c (c (? . 0) q date)) c (? . 14)) ((q def ((lib "racket/private/stx.rkt") identifier?)) q (219946 . 3)) ((c def c (c (? . 2) q vector-set!)) q (94527 . 5)) ((c def c (c (? . 0) q in-hash-pairs)) q (105701 . 3)) ((c form c (c (? . 6) q super)) q (143497 . 3)) ((c def c (c (? . 7) q unsafe-bytes-length)) q (386789 . 3)) ((c def c (c (? . 2) q call-with-continuation-barrier)) q (201329 . 3)) ((c def c (c (? . 2) q make-syntax-introducer)) q (232132 . 2)) ((c def c (c (? . 41) q remv)) q (84708 . 4)) ((c form c (c (? . 67) q define-serializable-struct)) q (293349 . 3)) ((c def c (c (? . 2) q expand-to-top-form)) q (239880 . 3)) ((c form c (c (? . 15) q prompt)) q (202752 . 2)) ((c def c (c (? . 2) q filesystem-change-evt)) q (343447 . 6)) ((c def c (c (? . 2) q call-with-immediate-continuation-mark)) q (205499 . 7)) ((c form c (c (? . 16) q rename)) q (156068 . 2)) ((c def c (c (? . 0) q make-exn:fail:read:eof)) c (? . 17)) ((c def c (c (? . 2) q hash-equal?)) q (98427 . 3)) ((c def c (c (? . 2) q numerator)) q (21120 . 3)) ((c def c (c (? . 2) q print-hash-table)) q (284849 . 4)) ((c def c (c (? . 6) q struct:exn:fail:object)) c (? . 58)) ((c def c (c (? . 2) q print-reader-abbreviations)) q (285055 . 4)) ((c def c (c (? . 7) q unsafe-extflacos)) q (390071 . 3)) ((c def c (c (? . 7) q unsafe-fxlshift)) q (381557 . 4)) ((c def c (c (? . 2) q port-display-handler)) q (286194 . 6)) ((c def c (c (? . 2) q error-print-context-length)) q (192925 . 4)) ((c def c (c (? . 7) q unsafe-extfl>)) q (389063 . 4)) ((c def c (c (? . 27) q find-library-collection-links)) q (391165 . 3)) ((c def c (c (? . 2) q char-ready?)) q (276672 . 3)) ((c def c (c (? . 2) q regexp-match-peek-immediate)) q (73131 . 15)) ((c def c (c (? . 2) q call-with-semaphore/enable-break)) q (211072 . 9)) ((c def c (c (? . 2) q call-with-semaphore)) q (210748 . 9)) ((q form ((lib "racket/surrogate.rkt") surrogate)) q (153948 . 10)) ((c def c (c (? . 2) q syntax-local-lift-values-expression)) q (230536 . 5)) ((c def c (c (? . 34) q tcp-accept/enable-break)) q (353929 . 3)) ((c def c (c (? . 4) q set-eval-handler)) q (333088 . 4)) ((c def c (c (? . 2) q syntax-local-expand-expression)) q (227263 . 3)) ((c def c (c (? . 2) q write-bytes-avail-evt)) q (279225 . 9)) ((c def c (c (? . 7) q unsafe-extflatan)) q (390140 . 3)) ((c def c (c (? . 2) q integer->integer-bytes)) q (25794 . 14)) ((c def c (c (? . 2) q write-byte)) q (277028 . 4)) ((c def c (c (? . 0) q hash-set*)) q (100504 . 5)) ((c def c (c (? . 2) q string-locale>?)) q (43267 . 4)) ((c def c (c (? . 2) q eval-jit-enabled)) q (303962 . 4)) ((c def c (c (? . 2) q null?)) q (82866 . 3)) ((c def c (c (? . 2) q date*?)) c (? . 20)) ((c form c (c (? . 15) q control)) q (202780 . 2)) ((c form c (c (? . 0) q for*/hasheq)) q (14961 . 2)) ((c def c (c (? . 30) q vector-memv)) q (97690 . 4)) ((c def c (c (? . 37) q udp-receive!)) q (357839 . 11)) ((c form c (c (? . 3) q for/weak-seteqv)) q (121827 . 2)) ((c def c (c (? . 0) q make-exn:fail)) c (? . 31)) ((c def c (c (? . 2) q current-library-collection-paths)) q (391945 . 5)) ((c def c (c (? . 97) q flat-contract-property?)) q (183286 . 3)) ((c form c (c (? . 0) q except-in)) q (4265 . 2)) ((c def c (c (? . 0) q make-keyword-procedure)) q (128470 . 5)) ((c def c (c (? . 2) q make-hasheqv)) q (99132 . 3)) ((c def c (c (? . 10) q transplant-output-port)) q (263794 . 17)) ((c def c (c (? . 0) q regexp-try-match)) q (67965 . 17)) ((c form c (c (? . 0) q combine-out)) q (6128 . 2)) ((c def c (c (? . 2) q custodian-limit-memory)) q (323316 . 7)) ((c form c (c (? . 16) q provide-signature-elements)) q (159750 . 2)) ((c def c (c (? . 10) q with-output-to-string)) q (256123 . 3)) ((c form c (c (? . 16) q define-signature)) q (154966 . 25)) ((c def c (c (? . 2) q chaperone-struct-type)) q (318610 . 15)) ((c def c (c (? . 9) q display-to-file)) q (345421 . 11)) ((c def c (c (? . 2) q current-security-guard)) q (322418 . 4)) ((c def c (c (? . 2) q namespace-attach-module-declaration)) q (297705 . 7)) ((c def c (c (? . 2) q struct-mutator-procedure?)) q (137307 . 3)) ((c def c (c (? . 4) q sandbox-coverage-enabled)) q (328728 . 4)) ((c def c (c (? . 1) q dict-set*)) q (112851 . 5)) ((c def c (c (? . 10) q with-output-to-bytes)) q (256199 . 3)) ((c form c (c (? . 6) q define/override-final)) q (142937 . 3)) ((c def c (c (? . 24) q stream-ref)) q (109501 . 4)) ((c def c (c (? . 2) q time-apply)) q (372278 . 7)) ((c def c (c (? . 5) q extfltruncate)) q (36291 . 3)) ((c form c (c (? . 0) q for/product)) q (14254 . 2)) ((c def c (c (? . 36) q date*->seconds)) q (373433 . 4)) ((c def c (c (? . 18) q struct:import-source)) c (? . 85)) ((c def c (c (? . 40) q sequence-for-each)) q (108388 . 4)) ((c def c (c (? . 3) q set-count)) q (123058 . 3)) ((c form c (c (? . 43) q splicing-letrec)) q (238213 . 2)) ((c form c (c (? . 32) q ...)) q (219803 . 2)) ((c def c (c (? . 0) q exn:fail:syntax)) c (? . 108)) ((c form c (c (? . 2) q #%stratified-body)) q (16833 . 2)) ((c def c (c (? . 2) q bytes>?)) q (57019 . 4)) ((c def c (c (? . 2) q bitwise-bit-set?)) q (23143 . 4)) ((c def c (c (? . 18) q make-import)) c (? . 19)) ((c def c (c (? . 2) q seconds->date)) q (370792 . 4)) ((c def c (c (? . 0) q date*)) c (? . 20)) ((c def c (c (? . 28) q pretty-print-.-symbol-without-bars)) q (288004 . 4)) ((c def c (c (? . 2) q string-locale-ci>?)) q (43579 . 4)) ((c def c (c (? . 2) q path->complete-path)) q (337221 . 5)) ((c form c (c (? . 92) q parametric->/c)) q (170110 . 2)) ((c def c (c (? . 47) q call-with-parameterization)) q (213314 . 5)) ((c def c (c (? . 21) q exact-floor)) q (27888 . 3)) ((c form c (c (? . 22) q place*)) q (215569 . 9)) ((c def c (c (? . 50) q unsupplied-arg?)) q (170049 . 3)) ((c def c (c (? . 2) q set-phantom-bytes!)) q (380570 . 4)) ((c def c (c (? . 3) q list->weak-seteqv)) q (120868 . 4)) ((c def c (c (? . 2) q datum->syntax)) q (220865 . 18)) ((c def c (c (? . 0) q exn:fail:filesystem:missing-module)) c (? . 39)) ((c def c (c (? . 51) q some-system-path->string)) q (340055 . 3)) ((c def c (c (? . 23) q generator-state)) q (110898 . 3)) ((c def c (c (? . 2) q thread-suspend)) q (207104 . 3)) ((c def c (c (? . 45) q record-disappeared-uses)) q (241743 . 3)) ((c def c (c (? . 8) q fifth)) q (89245 . 3)) ((c def c (c (? . 11) q fl-)) q (28371 . 4)) ((c def c (c (? . 2) q make-security-guard)) q (321750 . 16)) ((c def c (c (? . 2) q impersonate-prompt-tag)) q (314340 . 18)) ((c def c (c (? . 2) q read-accept-box)) q (281369 . 4)) ((c def c (c (? . 2) q hash?)) q (98376 . 3)) ((c def c (c (? . 11) q fl=)) q (28636 . 4)) ((q form ((lib "racket/block.rkt") block)) q (16799 . 2)) ((c def c (c (? . 2) q read-accept-lang)) q (282289 . 4)) ((c def c (c (? . 2) q thread-rewind-receive)) q (208239 . 3)) ((c def c (c (? . 24) q empty-stream)) q (109334 . 2)) ((c def c (c (? . 10) q relocate-input-port)) q (262259 . 11)) ((c def c (c (? . 2) q call-with-current-continuation)) q (200373 . 6)) ((c def c (c (? . 5) q extflexpt)) q (36910 . 4)) ((c def c (c (? . 2) q bytes-utf-8-length)) q (59151 . 7)) ((c def c (c (? . 2) q chaperone-hash)) q (317702 . 20)) ((c form c (c (? . 6) q override)) q (141671 . 2)) ((c def c (c (? . 2) q make-custodian)) q (322603 . 3)) ((c def c (c (? . 2) q current-load-extension)) q (301042 . 5)) ((c form c (c (? . 6) q augride)) q (141828 . 2)) ((c def c (c (? . 7) q unsafe-fl<=)) q (382888 . 4)) ((c def c (c (? . 18) q expand-import)) q (233272 . 3)) ((c def c (c (? . 2) q relative-path?)) q (337013 . 3)) ((c def c (c (? . 42) q force)) q (198943 . 3)) ((c def c (c (? . 2) q integer-length)) q (23581 . 3)) ((c def c (c (? . 2) q struct:exn:fail:network)) c (? . 102)) ((c def c (c (? . 2) q current-pseudo-random-generator)) q (24245 . 4)) ((c def c (c (? . 2) q dynamic-wind)) q (201753 . 7)) ((c def c (c (? . 7) q unsafe-flvector-length)) q (387084 . 3)) ((c def c (c (? . 2) q make-impersonator-property)) q (321251 . 5)) ((c def c (c (? . 25) q blame-source)) q (177144 . 3)) ((c def c (c (? . 10) q merge-input)) q (259916 . 5)) ((c def c (c (? . 2) q raise-mismatch-error)) q (191085 . 8)) ((c def c (c (? . 2) q impersonator-property-accessor-procedure?)) q (321534 . 3)) ((c def c (c (? . 2) q make-pipe)) q (249508 . 6)) ((c def c (c (? . 2) q make-file-or-directory-link)) q (342531 . 4)) ((c form c (c (? . 121) q define-module-boundary-contract)) q (172310 . 12)) ((c def c (c (? . 2) q set-mcar!)) q (93850 . 4)) ((c def c (c (? . 26) q fx<=)) q (33117 . 4)) ((c def c (c (? . 2) q thread-suspend-evt)) q (207858 . 3)) ((c def c (c (? . 23) q generator?)) q (110610 . 3)) ((c def c (c (? . 2) q syntax-arm)) q (239038 . 5)) ((c def c (c (? . 26) q fxquotient)) q (32193 . 4)) ((c def c (c (? . 2) q system-idle-evt)) q (209327 . 2)) ((c def c (c (? . 7) q unsafe-fx>)) q (381881 . 4)) ((c def c (c (? . 2) q floating-point-bytes->real)) q (26364 . 9)) ((c def c (c (? . 2) q current-inexact-milliseconds)) q (370740 . 2)) ((c form c (c (? . 35) q let)) q (10502 . 3)) ((c def c (c (? . 0) q sequence->stream)) q (107352 . 3)) ((c def c (c (? . 27) q rationalize)) q (21240 . 4)) ((c def c (c (? . 0) q make-exn:fail:out-of-memory)) c (? . 60)) ((c def c (c (? . 9) q fold-files)) q (348002 . 12)) ((c form c (c (? . 3) q for*/seteqv)) q (121318 . 2)) ((c form c (c (? . 11) q for*/flvector)) q (31523 . 9)) ((c def c (c (? . 2) q read-string!)) q (269832 . 7)) ((c def c (c (? . 2) q procedure-extract-target)) q (129393 . 3)) ((c def c (c (? . 21) q exact-ceiling)) q (27955 . 3)) ((c form c (c (? . 6) q pubment*)) q (142190 . 2)) ((c def c (c (? . 0) q stop-after)) q (106756 . 4)) ((c def c (c (? . 38) q natural-number/c)) q (162034 . 2)) ((c def c (c (? . 7) q unsafe-extflsin)) q (389798 . 3)) ((c def c (c (? . 0) q impersonate-procedure)) q (310884 . 11)) ((c def c (c (? . 8) q add-between)) q (90883 . 13)) ((c def c (c (? . 2) q make-hasheqv-placeholder)) q (93536 . 3)) ((c def c (c (? . 76) q trait->mixin)) q (147108 . 3)) ((c def c (c (? . 2) q current-thread)) q (206856 . 2)) ((c def c (c (? . 24) q stream-empty?)) q (108965 . 3)) ((c def c (c (? . 18) q prop:require-transformer)) q (233611 . 2)) ((c def c (c (? . 28) q pretty-print-depth)) q (287699 . 4)) ((c def c (c (? . 2) q port-commit-peeked)) q (276374 . 6)) ((c form c (c (? . 16) q extends)) q (156334 . 2)) ((c def c (c (? . 2) q set-mcdr!)) q (93922 . 4)) ((c def c (c (? . 2) q print-boolean-long-form)) q (284945 . 4)) ((c def c (c (? . 0) q in-vector)) q (104131 . 6)) ((c def c (c (? . 87) q string-join)) q (43947 . 11)) ((c form c (c (? . 6) q augride*)) q (142414 . 2)) ((c def c (c (? . 29) q make-provide-transformer)) q (235952 . 10)) ((c def c (c (? . 59) q make-mixin-contract)) q (151300 . 3)) ((c form c (c (? . 33) q define-runtime-module-path-index)) q (343875 . 2)) ((c def c (c (? . 2) q hasheqv)) q (98908 . 4)) ((c def c (c (? . 11) q flround)) q (29144 . 3)) ((c def c (c (? . 0) q hash-keys)) q (102423 . 3)) ((c def c (c (? . 119) q syntax-procedure-converted-arguments-property)) q (237570 . 8)) ((c form c (c (? . 6) q ->dm)) q (148590 . 6)) ((c def c (c (? . 2) q positive?)) q (19160 . 3)) ((c form c (c (? . 6) q pubment)) q (141592 . 2)) ((c def c (c (? . 30) q vector-argmin)) q (97386 . 4)) ((c def c (c (? . 5) q extfl=)) q (35523 . 4)) ((c def c (c (? . 23) q sequence->generator)) q (110963 . 3)) ((c def c (c (? . 30) q vector-filter-not)) q (97170 . 4)) ((c def c (c (? . 2) q caaddr)) q (87565 . 3)) ((c def c (c (? . 2) q hash-eqv?)) q (98490 . 3)) ((c def c (c (? . 2) q exn:fail?)) c (? . 31)) ((c def c (c (? . 2) q make-readtable)) q (291401 . 13)) ((c def c (c (? . 26) q fx->fl)) q (33409 . 3)) ((c form c (c (? . 3) q for/mutable-set)) q (121370 . 2)) ((c def c (c (? . 2) q make-semaphore)) q (210207 . 3)) ((c form c (c (? . 32) q syntax)) q (218486 . 23)) ((c form c (c (? . 15) q control0-at)) q (203298 . 2)) ((c def c (c (? . 7) q unsafe-extflabs)) q (388819 . 3)) ((c def c (c (? . 2) q use-user-specific-search-paths)) q (392818 . 4)) ((c form c (c (? . 6) q send+)) q (145266 . 5)) ((c form c (c (? . 33) q define-runtime-paths)) q (343784 . 2)) ((c def c (c (? . 34) q tcp-accept)) q (353834 . 3)) ((c form c (c (? . 35) q when)) q (12972 . 2)) ((c def c (c (? . 2) q prop:rename-transformer)) q (226656 . 2)) ((c def c (c (? . 2) q continuation-prompt-tag?)) q (201683 . 3)) ((c def c (c (? . 8) q argmax)) q (92826 . 4)) ((c def c (c (? . 101) q unit-static-signatures)) q (160213 . 9)) ((c def c (c (? . 2) q syntax-local-lift-module-end-declaration)) q (230726 . 3)) ((c def c (c (? . 2) q regexp-match-peek-positions-immediate)) q (73792 . 19)) ((c def c (c (? . 2) q char-ci=?)) q (62912 . 4)) ((c def c (c (? . 28) q pretty-print-post-print-hook)) q (290451 . 5)) ((c def c (c (? . 36) q date->julian/scalinger)) q (374086 . 3)) ((c form c (c (? . 6) q ->*m)) q (148469 . 2)) ((c def c (c (? . 37) q udp-send-to*)) q (356249 . 13)) ((c def c (c (? . 28) q pretty-print-show-inexactness)) q (288136 . 4)) ((c def c (c (? . 2) q bitwise-bit-field)) q (23254 . 6)) ((c def c (c (? . 2) q hash-iterate-key)) q (103144 . 4)) ((c def c (c (? . 0) q in-input-port-bytes)) q (104979 . 3)) ((c def c (c (? . 2) q get-output-bytes)) q (249109 . 9)) ((c def c (c (? . 38) q </c)) q (161555 . 3)) ((c def c (c (? . 11) q flvector)) q (30519 . 3)) ((c def c (c (? . 2) q make-custodian-box)) q (323590 . 4)) ((c def c (c (? . 34) q tcp-listen)) q (352719 . 9)) ((c def c (c (? . 2) q exn:fail:filesystem:missing-module-path)) c (? . 39)) ((c def c (c (? . 6) q object=?)) q (152270 . 4)) ((c def c (c (? . 0) q regexp-split)) q (79859 . 15)) ((c def c (c (? . 2) q dynamic-require-for-syntax)) q (309283 . 7)) ((c def c (c (? . 3) q set=?)) q (124577 . 4)) ((c def c (c (? . 0) q in-lines)) q (105127 . 5)) ((c def c (c (? . 40) q sequence-count)) q (108610 . 4)) ((c def c (c (? . 4) q gui?)) q (334380 . 2)) ((c def c (c (? . 2) q current-module-name-resolver)) q (304974 . 19)) ((c def c (c (? . 2) q char-titlecase)) q (64525 . 3)) ((c def c (c (? . 2) q caadar)) q (87465 . 3)) ((c def c (c (? . 2) q namespace-symbol->identifier)) q (295572 . 3)) ((c def c (c (? . 0) q in-value)) q (106172 . 3)) ((c def c (c (? . 2) q string-ci>?)) q (42275 . 4)) ((c def c (c (? . 0) q make-exn:fail:contract:variable)) c (? . 80)) ((c def c (c (? . 0) q make-exn:fail:filesystem)) c (? . 70)) ((c def c (c (? . 4) q sandbox-init-hook)) q (327143 . 4)) ((c def c (c (? . 2) q eof-object?)) q (243400 . 3)) ((c def c (c (? . 41) q remq)) q (84638 . 4)) ((c form c (c (? . 52) q generic-instance/c)) q (136272 . 4)) ((c def c (c (? . 8) q empty?)) q (88938 . 3)) ((c def c (c (? . 2) q file-exists?)) q (340955 . 3)) ((c form c (c (? . 42) q delay/idle)) q (199349 . 8)) ((c form c (c (? . 38) q flat-rec-contract)) q (165586 . 2)) ((c def c (c (? . 2) q current-read-interaction)) q (302889 . 4)) ((c def c (c (? . 7) q unsafe-flmax)) q (383128 . 4)) ((c def c (c (? . 2) q write-bytes)) q (277514 . 7)) ((c def c (c (? . 3) q set-implements/c)) q (122208 . 3)) ((c def c (c (? . 7) q unsafe-flfloor)) q (383269 . 3)) ((c def c (c (? . 0) q regexp-match-positions*)) q (69746 . 17)) ((c def c (c (? . 3) q set-symmetric-difference)) q (124340 . 4)) ((c def c (c (? . 37) q udp-open-socket)) q (354766 . 5)) ((c form c (c (? . 43) q splicing-letrec-syntax)) q (238320 . 2)) ((c def c (c (? . 46) q serializable?)) q (292798 . 3)) ((c def c (c (? . 10) q special-filter-input-port)) q (265725 . 8)) ((c def c (c (? . 25) q blame-add-context)) q (176557 . 9)) ((c def c (c (? . 48) q async-channel-try-get)) q (211698 . 3)) ((c def c (c (? . 57) q arity-includes?)) q (131003 . 4)) ((c def c (c (? . 77) q ormap)) q (84037 . 4)) ((c def c (c (? . 27) q displayln)) q (283697 . 4)) ((c def c (c (? . 2) q caddr)) q (86855 . 3)) ((c def c (c (? . 2) q current-module-declare-source)) q (305749 . 5)) ((c def c (c (? . 2) q rename-transformer?)) q (226223 . 3)) ((c def c (c (? . 6) q dynamic-set-field!)) q (145632 . 5)) ((c form c (c (? . 2) q #%variable-reference)) q (9619 . 4)) ((c def c (c (? . 2) q terminal-port?)) q (243308 . 3)) ((c def c (c (? . 44) q fsemaphore?)) q (214044 . 3)) ((c def c (c (? . 5) q make-shared-extflvector)) q (38721 . 4)) ((c def c (c (? . 45) q syntax-local-value/record)) q (241616 . 4)) ((c form c (c (? . 0) q for/vector)) q (13626 . 8)) ((c def c (c (? . 0) q namespace-anchor?)) q (295228 . 3)) ((c def c (c (? . 30) q vector-split-at)) q (96647 . 4)) ((c def c (c (? . 2) q make-string)) q (39751 . 4)) ((c def c (c (? . 66) q engine?)) q (216679 . 3)) ((c def c (c (? . 9) q file->string)) q (344066 . 4)) ((c def c (c (? . 2) q hash-eq?)) q (98551 . 3)) ((c def c (c (? . 2) q custodian-memory-accounting-available?)) q (322993 . 2)) ((c def c (c (? . 0) q make-date)) c (? . 14)) ((c def c (c (? . 2) q eq?)) q (17604 . 4)) ((c def c (c (? . 7) q unsafe-flcos)) q (383516 . 3)) ((c def c (c (? . 9) q file->bytes)) q (344210 . 4)) ((c def c (c (? . 2) q syntax-local-transforming-module-provides?)) q (232658 . 2)) ((c def c (c (? . 30) q vector-take-right)) q (96317 . 4)) ((c def c (c (? . 3) q list->mutable-seteq)) q (120661 . 4)) ((c def c (c (? . 7) q unsafe-fx*)) q (380867 . 4)) ((c def c (c (? . 2) q raise-arguments-error)) q (189856 . 10)) ((c def c (c (? . 2) q byte?)) q (55295 . 3)) ((c def c (c (? . 2) q peek-char-or-special)) q (275616 . 5)) ((c def c (c (? . 2) q atan)) q (22312 . 6)) ((c form c (c (? . 6) q this%)) q (141334 . 2)) ((c def c (c (? . 41) q assv)) q (86076 . 4)) ((c def c (c (? . 27) q string-environment-variable-name?)) q (375829 . 3)) ((c def c (c (? . 6) q class->interface)) q (152460 . 3)) ((c def c (c (? . 2) q namespace-unprotect-module)) q (298034 . 7)) ((c def c (c (? . 0) q prop:sequence)) q (107306 . 2)) ((c def c (c (? . 2) q date-year-day)) c (? . 14)) ((c def c (c (? . 2) q hash-placeholder?)) q (93279 . 3)) ((c def c (c (? . 8) q eighth)) q (89397 . 3)) ((c def c (c (? . 2) q filesystem-root-list)) q (343325 . 2)) ((c def c (c (? . 2) q thread-resume)) q (207167 . 4)) ((c def c (c (? . 0) q make-srcloc)) c (? . 13)) ((c form c (c (? . 2) q set!)) q (13048 . 2)) ((c def c (c (? . 2) q struct-accessor-procedure?)) q (137235 . 3)) ((c def c (c (? . 24) q stream-for-each)) q (110039 . 4)) ((c def c (c (? . 46) q deserialize-module-guard)) q (293048 . 5)) ((c def c (c (? . 7) q unsafe-set-mcdr!)) q (384940 . 4)) ((c def c (c (? . 47) q call-with-exception-handler)) q (192106 . 4)) ((c def c (c (? . 2) q exn:fail:network:errno-errno)) c (? . 55)) ((c form c (c (? . 6) q field)) q (141446 . 2)) ((c def c (c (? . 2) q lcm)) q (20724 . 3)) ((c def c (c (? . 96) q raise-contract-error)) q (185395 . 13)) ((c def c (c (? . 48) q make-async-channel)) q (211508 . 3)) ((c form c (c (? . 0) q for-meta)) q (6374 . 2)) ((c def c (c (? . 37) q udp-addresses)) q (360764 . 7)) ((c def c (c (? . 2) q subprocess?)) q (363913 . 3)) ((c def c (c (? . 22) q dynamic-place*)) q (214912 . 14)) ((c def c (c (? . 1) q dict-value-contract)) q (114860 . 3)) ((c def c (c (? . 27) q channel-get)) q (209800 . 3)) ((c form c (c (? . 3) q for*/set)) q (121218 . 2)) ((c def c (c (? . 2) q list*)) q (83199 . 4)) ((c def c (c (? . 7) q unsafe-fxmin)) q (382120 . 4)) ((c def c (c (? . 2) q integer-sqrt/remainder)) q (21807 . 3)) ((c def c (c (? . 2) q make-logger)) q (369131 . 5)) ((c def c (c (? . 29) q provide-pre-transformer?)) q (236780 . 3)) ((c def c (c (? . 2) q impersonator-of?)) q (310647 . 4)) ((c def c (c (? . 2) q equal-hash-code)) q (103563 . 3)) ((c def c (c (? . 11) q fl>=)) q (28925 . 4)) ((c def c (c (? . 0) q hash-empty?)) q (102836 . 3)) ((c form c (c (? . 49) q define/final-prop)) q (183355 . 6)) ((c def c (c (? . 38) q make-none/c)) q (184453 . 3)) ((c def c (c (? . 2) q system-language+country)) q (376132 . 2)) ((c form c (c (? . 15) q reset0-at)) q (203250 . 2)) ((c def c (c (? . 2) q progress-evt?)) q (276764 . 6)) ((c def c (c (? . 2) q cddadr)) q (88565 . 3)) ((c form c (c (? . 3) q for/mutable-seteq)) q (121426 . 2)) ((c def c (c (? . 2) q syntax-source)) q (220003 . 3)) ((c def c (c (? . 7) q unsafe-fx+)) q (380711 . 4)) ((c def c (c (? . 2) q char=?)) q (62445 . 4)) ((c def c (c (? . 12) q match-equality-test)) q (187980 . 4)) ((c def c (c (? . 0) q sequence-generate)) q (107421 . 3)) ((c def c (c (? . 11) q flvector-copy)) q (31026 . 5)) ((c def c (c (? . 38) q cons/c)) q (163496 . 4)) ((c def c (c (? . 2) q make-reader-graph)) q (92933 . 3)) ((c def c (c (? . 7) q unsafe-fltruncate)) q (383393 . 3)) ((c form c (c (? . 73) q filtered-in)) q (9185 . 2)) ((c def c (c (? . 91) q current-prefix-out)) q (394966 . 4)) ((c def c (c (? . 2) q cdadr)) q (87019 . 3)) ((c def c (c (? . 38) q flat-contract?)) q (184112 . 3)) ((c def c (c (? . 2) q free-transformer-identifier=?)) q (223308 . 4)) ((c def c (c (? . 5) q extfl>)) q (35685 . 4)) ((c def c (c (? . 4) q sandbox-make-inspector)) q (331962 . 4)) ((c def c (c (? . 7) q unsafe-flvector-set!)) q (387242 . 5)) ((c form c (c (? . 6) q super-make-object)) q (144336 . 2)) ((c def c (c (? . 2) q number?)) q (18354 . 3)) ((c form c (c (? . 0) q combine-in)) q (4409 . 2)) ((c def c (c (? . 2) q free-identifier=?)) q (222899 . 10)) ((c def c (c (? . 11) q flceiling)) q (29252 . 3)) ((c def c (c (? . 2) q equal?)) q (17456 . 4)) ((c def c (c (? . 10) q eof-evt)) q (266176 . 3)) ((c form c (c (? . 110) q define-opt/c)) q (184706 . 2)) ((c def c (c (? . 2) q syntax-local-context)) q (231138 . 3)) ((c def c (c (? . 2) q string-copy!)) q (40601 . 11)) ((c def c (c (? . 37) q udp-send)) q (356015 . 6)) ((c def c (c (? . 4) q sandbox-security-guard)) q (329705 . 5)) ((c def c (c (? . 2) q struct:arity-at-least)) c (? . 89)) ((q form ((lib "racket/shared.rkt") shared)) q (11357 . 2)) ((c def c (c (? . 3) q set-eqv?)) q (119060 . 3)) ((c def c (c (? . 0) q keyword-apply)) q (127481 . 13)) ((c def c (c (? . 2) q chaperone-struct)) q (316080 . 16)) ((c form c (c (? . 6) q object/c)) q (148748 . 11)) ((c form c (c (? . 65) q with-contract)) q (171328 . 12)) ((c def c (c (? . 2) q variable-reference->module-declaration-inspector)) q (299778 . 4)) ((c def c (c (? . 2) q struct:exn:fail:unsupported)) c (? . 79)) ((c def c (c (? . 2) q environment-variables-ref)) q (374725 . 5)) ((c def c (c (? . 11) q flvector?)) q (30464 . 3)) ((c def c (c (? . 9) q file->value)) q (344352 . 4)) ((c form c (c (? . 0) q submod)) q (4926 . 4)) ((c def c (c (? . 2) q namespace-require)) q (296966 . 3)) ((c def c (c (? . 2) q make-directory)) q (343031 . 3)) ((c def c (c (? . 2) q zero?)) q (19107 . 3)) ((c def c (c (? . 2) q path->bytes)) q (335422 . 3)) ((c form c (c (? . 50) q contract-out)) q (170602 . 20)) ((c form c (c (? . 56) q filtered-out)) q (9465 . 2)) ((c form c (c (? . 0) q for*/product)) q (15282 . 2)) ((c def c (c (? . 51) q string->some-system-path)) q (340146 . 4)) ((c def c (c (? . 6) q object?)) q (152055 . 3)) ((c def c (c (? . 2) q current-directory-for-user)) q (342771 . 4)) ((c def c (c (? . 10) q dup-input-port)) q (262036 . 4)) ((c def c (c (? . 30) q vector-filter)) q (97076 . 4)) ((c def c (c (? . 36) q find-seconds)) q (373544 . 15)) ((c def c (c (? . 2) q hash-clear!)) q (102052 . 3)) ((c def c (c (? . 52) q exn:fail:support?)) c (? . 74)) ((c def c (c (? . 2) q current-get-interaction-input-port)) q (302734 . 4)) ((c def c (c (? . 7) q unsafe-set-box!)) q (385424 . 4)) ((c def c (c (? . 2) q read-line)) q (269091 . 5)) ((c def c (c (? . 2) q semaphore-peek-evt)) q (210597 . 3)) ((c def c (c (? . 10) q with-input-from-bytes)) q (256601 . 4)) ((c def c (c (? . 2) q peek-byte)) q (275436 . 4)) ((c def c (c (? . 2) q regexp-max-lookbehind)) q (66019 . 3)) ((c def c (c (? . 10) q read-bytes-line-evt)) q (267015 . 4)) ((c def c (c (? . 38) q one-of/c)) q (162214 . 3)) ((c def c (c (? . 2) q prefab-key?)) q (137695 . 3)) ((c def c (c (? . 41) q build-string)) q (41362 . 4)) ((c def c (c (? . 2) q list)) q (83147 . 3)) ((c def c (c (? . 7) q unsafe-fxmodulo)) q (381116 . 4)) ((c def c (c (? . 2) q bytes-convert)) q (60378 . 21)) ((c def c (c (? . 2) q make-shared-bytes)) q (56657 . 4)) ((c def c (c (? . 2) q cadar)) q (86773 . 3)) ((c def c (c (? . 2) q open-output-string)) q (249021 . 3)) ((c form c (c (? . 52) q redirect-generics)) q (136618 . 4)) ((c form c (c (? . 6) q get-field)) q (145454 . 2)) ((c def c (c (? . 4) q call-with-custodian-shutdown)) c (? . 86)) ((c def c (c (? . 2) q current-inspector)) q (324396 . 4)) ((c form c (c (? . 1) q gen:dict)) q (111531 . 2)) ((c def c (c (? . 8) q seventh)) q (89345 . 3)) ((c def c (c (? . 1) q dict-iter-contract)) q (114926 . 3)) ((c def c (c (? . 53) q struct-info?)) q (137752 . 3)) ((c def c (c (? . 27) q call-with-default-reading-parameterization)) q (282526 . 3)) ((q form ((lib "racket/help.rkt") help)) q (393056 . 6)) ((c def c (c (? . 2) q use-compiled-file-paths)) q (302218 . 5)) ((c def c (c (? . 2) q inexact->exact)) q (19487 . 3)) ((c def c (c (? . 2) q exn-continuation-marks)) c (? . 61)) ((c def c (c (? . 2) q resolved-module-path?)) q (304166 . 3)) ((c def c (c (? . 4) q sandbox-run-submodules)) q (331817 . 4)) ((c def c (c (? . 34) q tcp-connect)) q (353061 . 9)) ((c def c (c (? . 2) q semaphore-peek-evt?)) q (210683 . 3)) ((c def c (c (? . 8) q dropf-right)) q (90696 . 4)) ((c def c (c (? . 2) q string-ci=?)) q (41980 . 4)) ((c def c (c (? . 2) q srcloc?)) c (? . 13)) ((c def c (c (? . 2) q struct:date)) c (? . 14)) ((c form c (c (? . 0) q for*/sum)) q (15219 . 2)) ((c form c (c (? . 0) q for*/lists)) q (14741 . 2)) ((c def c (c (? . 7) q unsafe-fllog)) q (383814 . 3)) ((c def c (c (? . 2) q syntax-property-symbol-keys)) q (238691 . 3)) ((c def c (c (? . 2) q regexp-match-peek-positions-immediate/end)) q (78667 . 22)) ((c def c (c (? . 49) q contract-stronger?)) q (183639 . 4)) ((c def c (c (? . 2) q current-logger)) q (369419 . 4)) ((c def c (c (? . 5) q extflceiling)) q (36226 . 3)) ((c def c (c (? . 2) q special-comment?)) q (292222 . 3)) ((c def c (c (? . 37) q udp-multicast-interface)) q (361564 . 3)) ((c def c (c (? . 2) q error-display-handler)) q (192615 . 4)) ((c def c (c (? . 0) q memv)) q (85576 . 4)) ((c def c (c (? . 2) q module-compiled-exports)) q (308445 . 5)) ((c form c (c (? . 12) q match-lambda**)) q (187149 . 2)) ((c form c (c (? . 6) q ->m)) q (148439 . 2)) ((c form c (c (? . 6) q augment-final)) q (141865 . 2)) ((c def c (c (? . 24) q stream-fold)) q (110134 . 5)) ((c def c (c (? . 53) q make-struct-info)) q (137876 . 3)) ((c form c (c (? . 47) q case)) q (11783 . 5)) ((c def c (c (? . 18) q current-require-module-path)) q (234941 . 4)) ((c def c (c (? . 25) q struct:exn:fail:contract:blame)) c (? . 54)) ((c def c (c (? . 0) q regexp-replace*)) q (81136 . 15)) ((c def c (c (? . 2) q write-char)) q (276911 . 4)) ((c def c (c (? . 0) q exn:break)) c (? . 68)) ((c def c (c (? . 2) q path->string)) q (335359 . 3)) ((c def c (c (? . 3) q set-add)) q (122659 . 4)) ((c def c (c (? . 4) q exn:fail:sandbox-terminated?)) c (? . 78)) ((c def c (c (? . 1) q in-dict-values)) q (114612 . 3)) ((c def c (c (? . 11) q flreal-part)) q (30163 . 3)) ((c def c (c (? . 40) q sequence-andmap)) q (108179 . 4)) ((c form c (c (? . 23) q generator)) q (110666 . 2)) ((c form c (c (? . 52) q chaperone-generics)) q (136495 . 4)) ((c def c (c (? . 2) q display)) q (283415 . 4)) ((c def c (c (? . 7) q unsafe-unbox*)) q (385502 . 3)) ((c def c (c (? . 2) q identifier-label-binding)) q (225195 . 12)) ((c def c (c (? . 2) q nack-guard-evt)) q (209114 . 3)) ((c form c (c (? . 47) q log-warning)) q (370201 . 3)) ((c def c (c (? . 41) q foldl)) q (84214 . 5)) ((c def c (c (? . 3) q set-weak?)) q (119275 . 3)) ((c def c (c (? . 2) q close-input-port)) q (242643 . 3)) ((c def c (c (? . 2) q struct:exn:fail)) c (? . 31)) ((c def c (c (? . 2) q syntax-property)) q (238508 . 8)) ((c def c (c (? . 4) q sandbox-make-namespace)) q (329377 . 2)) ((c def c (c (? . 2) q struct:exn:fail:network:errno)) c (? . 55)) ((c form c (c (? . 16) q prefix)) q (156109 . 2)) ((c form c (c (? . 123) q struct/c)) q (163723 . 2)) ((c form c (c (? . 50) q unconstrained-domain->)) q (169923 . 2)) ((c form c (c (? . 6) q overment*)) q (142301 . 2)) ((c def c (c (? . 21) q degrees->radians)) q (27371 . 3)) ((c form c (c (? . 56) q matching-identifiers-out)) q (9409 . 2)) ((c def c (c (? . 21) q radians->degrees)) q (27430 . 3)) ((c def c (c (? . 2) q get-output-string)) q (249435 . 3)) ((c def c (c (? . 5) q extfl<)) q (35604 . 4)) ((c def c (c (? . 38) q between/c)) q (161777 . 4)) ((c form c (c (? . 6) q class-field-accessor)) q (145793 . 2)) ((c def c (c (? . 1) q make-custom-hash)) q (116811 . 14)) ((c def c (c (? . 2) q char<?)) q (62538 . 4)) ((c def c (c (? . 6) q generate-member-key)) q (143783 . 2)) ((c def c (c (? . 5) q extflvector?)) q (37327 . 3)) ((c def c (c (? . 2) q current-reader-guard)) q (282621 . 4)) ((c def c (c (? . 104) q ~r)) q (50324 . 25)) ((c def c (c (? . 2) q sleep)) q (207483 . 3)) ((c def c (c (? . 2) q bytes)) q (55147 . 3)) ((c def c (c (? . 6) q writable<%>)) q (152022 . 2)) ((c def c (c (? . 7) q unsafe-extflasin)) q (390002 . 3)) ((c def c (c (? . 9) q file->lines)) q (344698 . 8)) ((c form c (c (? . 2) q letrec-syntaxes+values)) q (11143 . 4)) ((c def c (c (? . 2) q string-locale-downcase)) q (43761 . 3)) ((c def c (c (? . 7) q unsafe-bytes-set!)) q (386947 . 5)) ((c def c (c (? . 41) q foldr)) q (84327 . 5)) ((c def c (c (? . 2) q exn:fail:contract:continuation?)) c (? . 69)) ((c def c (c (? . 37) q udp?)) q (359244 . 3)) ((c def c (c (? . 27) q putenv)) q (375706 . 4)) ((c def c (c (? . 1) q dict-update!)) q (113111 . 10)) ((c form c (c (? . 57) q thunk)) q (130303 . 2)) ((c def c (c (? . 26) q fx-)) q (32051 . 4)) ((c def c (c (? . 2) q path-for-some-system?)) q (335091 . 3)) ((c def c (c (? . 6) q exn:fail:object)) c (? . 58)) ((c def c (c (? . 7) q unsafe-extfllog)) q (390209 . 3)) ((c form c (c (? . 59) q object-contract)) q (149128 . 51)) ((c def c (c (? . 15) q call/comp)) q (202308 . 5)) ((c def c (c (? . 2) q exn:fail:read-srclocs)) c (? . 71)) ((c def c (c (? . 1) q dict->list)) q (114428 . 3)) ((c def c (c (? . 2) q impersonate-hash)) q (312892 . 20)) ((c def c (c (? . 2) q impersonator-prop:application-mark)) q (321621 . 2)) ((c def c (c (? . 2) q read-accept-graph)) q (281673 . 4)) ((c def c (c (? . 2) q caaaar)) q (87265 . 3)) ((c def c (c (? . 11) q flvector-ref)) q (30786 . 4)) ((c def c (c (? . 2) q exn:fail:out-of-memory?)) c (? . 60)) ((c def c (c (? . 38) q >=/c)) q (161721 . 3)) ((c def c (c (? . 2) q make-struct-field-accessor)) q (133836 . 8)) ((c def c (c (? . 41) q compose)) q (126996 . 3)) ((c def c (c (? . 2) q exn?)) c (? . 61)) ((c def c (c (? . 59) q mixin-contract)) q (151265 . 2)) ((c def c (c (? . 24) q gen:stream)) q (110539 . 2)) ((c def c (c (? . 2) q break-enabled)) q (206022 . 4)) ((c def c (c (? . 26) q fxlshift)) q (32749 . 4)) ((c form c (c (? . 43) q splicing-letrec-syntaxes+values)) q (238411 . 2)) ((c def c (c (? . 3) q in-set)) q (125134 . 3)) ((c def c (c (? . 26) q fxvector-copy)) q (34075 . 5)) ((c form c (c (? . 62) q nor)) q (18232 . 2)) ((c form c (c (? . 16) q define-signature-form)) q (159289 . 3)) ((c def c (c (? . 2) q compiled-module-expression?)) q (307126 . 3)) ((c def c (c (? . 0) q collection-file-path)) q (391266 . 10)) ((c def c (c (? . 0) q gen:custom-write)) q (292359 . 2)) ((c def c (c (? . 2) q char<=?)) q (62631 . 4)) ((c form c (c (? . 0) q for-syntax)) q (6424 . 2)) ((c def c (c (? . 49) q has-contract?)) q (184301 . 3)) ((c def c (c (? . 2) q complex?)) q (18407 . 3)) ((c def c (c (? . 29) q export?)) c (? . 63)) ((c form c (c (? . 2) q if)) q (11404 . 2)) ((c def c (c (? . 2) q exn:fail:filesystem:missing-module?)) c (? . 39)) ((c def c (c (? . 2) q gcd)) q (20665 . 3)) ((c def c (c (? . 2) q read-syntax/recursive)) q (280376 . 11)) ((c def c (c (? . 24) q stream-first)) q (109026 . 3)) ((c def c (c (? . 2) q string-fill!)) q (41033 . 4)) ((c def c (c (? . 37) q udp-send-to/enable-break)) q (356951 . 13)) ((c def c (c (? . 41) q findf)) q (85833 . 4)) ((c def c (c (? . 2) q variable-reference->module-source)) q (299405 . 4)) ((c def c (c (? . 4) q make-module-evaluator)) c (? . 64)) ((c def c (c (? . 2) q sync)) q (208357 . 3)) ((c def c (c (? . 24) q stream-add-between)) q (110455 . 4)) ((c def c (c (? . 2) q string>=?)) q (41884 . 4)) ((c form c (c (? . 65) q define-struct/contract)) q (171938 . 6)) ((c form c (c (? . 35) q =>)) q (11726 . 2)) ((c def c (c (? . 66) q engine)) q (216588 . 3)) ((c def c (c (? . 5) q extflexp)) q (36787 . 3)) ((c def c (c (? . 11) q flfloor)) q (29198 . 3)) ((c def c (c (? . 3) q set-rest)) q (123231 . 3)) ((c form c (c (? . 35) q letrec)) q (10650 . 2)) ((c def c (c (? . 2) q custom-print-quotable?)) q (292680 . 2)) ((c def c (c (? . 36) q date-display-format)) q (372647 . 18)) ((c def c (c (? . 1) q dict-iterate-next)) q (112359 . 4)) ((c form c (c (? . 15) q control-at)) q (202861 . 2)) ((c def c (c (? . 2) q parameter-procedure=?)) q (213158 . 4)) ((c form c (c (? . 67) q serializable-struct)) q (293228 . 3)) ((c def c (c (? . 38) q and/c)) q (161335 . 3)) ((c def c (c (? . 26) q fxand)) q (32478 . 4)) ((c def c (c (? . 2) q chaperone-channel)) q (319459 . 12)) ((c form c (c (? . 16) q only)) q (156000 . 2)) ((c def c (c (? . 2) q phantom-bytes?)) q (380419 . 3)) ((c def c (c (? . 4) q sandbox-gui-available)) q (329428 . 4)) ((c def c (c (? . 0) q make-exn:break)) c (? . 68)) ((c def c (c (? . 7) q unsafe-flreal-part)) q (384203 . 3)) ((c def c (c (? . 2) q sub1)) q (20462 . 3)) ((c def c (c (? . 7) q unsafe-extfl+)) q (388459 . 4)) ((c form c (c (? . 0) q struct)) q (131205 . 31)) ((c form c (c (? . 0) q for*/list)) q (14677 . 2)) ((c def c (c (? . 2) q prop:equal+hash)) q (17901 . 2)) ((c form c (c (? . 0) q only-in)) q (4211 . 2)) ((c def c (c (? . 2) q struct-type?)) q (137029 . 3)) ((c def c (c (? . 2) q bytes-copy!)) q (55915 . 11)) ((c def c (c (? . 2) q make-continuation-prompt-tag)) q (200142 . 4)) ((c def c (c (? . 2) q eqv-hash-code)) q (103505 . 3)) ((c def c (c (? . 0) q make-exn:fail:contract:continuation)) c (? . 69)) ((c form c (c (? . 6) q init)) q (141380 . 2)) ((c def c (c (? . 93) q system*)) q (364777 . 13)) ((c def c (c (? . 2) q box-immutable)) q (97989 . 3)) ((c def c (c (? . 34) q tcp-accept-ready?)) q (354037 . 3)) ((c def c (c (? . 2) q log-max-level)) q (369942 . 4)) ((c def c (c (? . 2) q system-big-endian?)) q (27275 . 2)) ((c def c (c (? . 11) q flmax)) q (29071 . 4)) ((c def c (c (? . 4) q evaluator-alive?)) q (332525 . 3)) ((c def c (c (? . 28) q pretty-print-columns)) q (287519 . 5)) ((c form c (c (? . 0) q #%printing-module-begin)) q (1838 . 2)) ((c def c (c (? . 2) q namespace-mapped-symbols)) q (296840 . 3)) ((c form c (c (? . 0) q define-struct)) q (132271 . 6)) ((c def c (c (? . 10) q make-limited-input-port)) q (259361 . 7)) ((c def c (c (? . 0) q exn:fail:filesystem)) c (? . 70)) ((c def c (c (? . 28) q make-tentative-pretty-print-output-port)) q (290725 . 8)) ((c def c (c (? . 7) q unsafe-set-mcar!)) q (384861 . 4)) ((c form c (c (? . 35) q let-syntaxes)) q (11008 . 2)) ((c def c (c (? . 2) q newline)) q (277145 . 3)) ((c def c (c (? . 0) q make-exn:fail:read)) c (? . 71)) ((c def c (c (? . 2) q char-general-category)) q (64131 . 3)) ((c def c (c (? . 2) q make-rectangular)) q (22421 . 4)) ((c def c (c (? . 1) q dict-keys)) q (114310 . 3)) ((c def c (c (? . 0) q syntax-recertify)) q (222427 . 9)) ((c def c (c (? . 7) q unsafe-flvector-ref)) q (387155 . 4)) ((c form c (c (? . 12) q match*)) q (186266 . 6)) ((c def c (c (? . 2) q byte-regexp)) q (65653 . 3)) ((c def c (c (? . 6) q member-name-key?)) q (143837 . 3)) ((c form c (c (? . 0) q for/last)) q (14459 . 2)) ((c def c (c (? . 45) q internal-definition-context-apply)) q (241921 . 5)) ((c def c (c (? . 9) q group-execute-bit)) q (352588 . 2)) ((c def c (c (? . 25) q blame-swapped?)) q (177319 . 3)) ((c def c (c (? . 2) q log)) q (22010 . 3)) ((c def c (c (? . 7) q unsafe-box*-cas!)) q (385704 . 5)) ((c def c (c (? . 21) q pi)) q (27320 . 2)) ((c def c (c (? . 4) q sandbox-network-guard)) q (330439 . 13)) ((c form c (c (? . 2) q #%require)) q (6542 . 33)) ((c def c (c (? . 2) q cos)) q (22110 . 3)) ((c def c (c (? . 10) q peek-string-evt)) c (? . 72)) ((c def c (c (? . 41) q memf)) q (85740 . 4)) ((c def c (c (? . 2) q compile-allow-set!-undefined)) q (303700 . 4)) ((c def c (c (? . 3) q set-first)) q (123140 . 3)) ((c def c (c (? . 2) q integer->char)) q (62180 . 5)) ((c def c (c (? . 2) q symbol?)) q (64650 . 3)) ((c def c (c (? . 25) q blame?)) q (176505 . 3)) ((c def c (c (? . 7) q unsafe-extflfloor)) q (389583 . 3)) ((q form ((lib "racket/enter.rkt") enter!)) q (393160 . 9)) ((c form c (c (? . 0) q for*/last)) q (15414 . 2)) ((c def c (c (? . 2) q cadr)) q (86417 . 3)) ((c def c (c (? . 2) q list?)) q (83096 . 3)) ((c def c (c (? . 2) q prop:input-port)) q (249811 . 2)) ((c form c (c (? . 0) q for/and)) q (14069 . 2)) ((c def c (c (? . 2) q use-collection-link-paths)) q (392942 . 4)) ((c def c (c (? . 8) q append-map)) q (92348 . 4)) ((c def c (c (? . 8) q flatten)) q (91547 . 3)) ((c def c (c (? . 7) q unsafe-fxabs)) q (381199 . 3)) ((c def c (c (? . 2) q thread-receive)) q (208118 . 2)) ((c def c (c (? . 2) q syntax-disarm)) q (239267 . 4)) ((c def c (c (? . 62) q xor)) q (18287 . 4)) ((c def c (c (? . 2) q struct:exn:fail:contract:continuation)) c (? . 69)) ((c def c (c (? . 2) q hasheq)) q (98791 . 4)) ((c def c (c (? . 2) q read-char-or-special)) q (275004 . 3)) ((c form c (c (? . 43) q splicing-let)) q (238193 . 2)) ((c def c (c (? . 2) q unbox)) q (98065 . 3)) ((c def c (c (? . 6) q exn:fail:object?)) c (? . 58)) ((c def c (c (? . 29) q struct:export)) c (? . 63)) ((c def c (c (? . 2) q >=)) q (21622 . 4)) ((c form c (c (? . 57) q thunk*)) q (130332 . 2)) ((c def c (c (? . 49) q impersonator-prop:contracted)) q (178416 . 2)) ((c def c (c (? . 18) q struct:import)) c (? . 19)) ((c def c (c (? . 3) q mutable-seteqv)) q (119687 . 4)) ((c def c (c (? . 2) q current-subprocess-custodian-mode)) q (363970 . 5)) ((c def c (c (? . 2) q char-blank?)) q (63999 . 3)) ((c def c (c (? . 2) q substring)) q (40360 . 5)) ((c def c (c (? . 3) q generic-set?)) q (122050 . 3)) ((c def c (c (? . 0) q regexp-replace-quote)) q (82369 . 5)) ((c def c (c (? . 2) q current-eval)) q (299899 . 4)) ((c form c (c (? . 73) q path-up)) q (9231 . 2)) ((c form c (c (? . 33) q runtime-paths)) q (344030 . 2)) ((c def c (c (? . 44) q fsemaphore-wait)) q (214173 . 3)) ((c def c (c (? . 2) q prop:set!-transformer)) q (226169 . 2)) ((c def c (c (? . 2) q ephemeron-value)) q (379646 . 4)) ((c def c (c (? . 62) q symbol=?)) q (17998 . 4)) ((c def c (c (? . 7) q unsafe-flexpt)) q (383992 . 4)) ((c def c (c (? . 10) q convert-stream)) q (268498 . 9)) ((c def c (c (? . 10) q reencode-input-port)) q (260675 . 16)) ((c def c (c (? . 6) q method-in-interface?)) q (152972 . 4)) ((c def c (c (? . 0) q make-exn:fail:contract:arity)) c (? . 84)) ((c def c (c (? . 57) q curry)) q (130425 . 6)) ((c def c (c (? . 2) q inspector?)) q (324114 . 3)) ((c def c (c (? . 28) q pretty-print-extend-style-table)) q (288656 . 8)) ((c def c (c (? . 49) q coerce-contracts)) q (175879 . 4)) ((c def c (c (? . 52) q struct:exn:fail:support)) c (? . 74)) ((c def c (c (? . 2) q string->path)) q (335158 . 3)) ((c def c (c (? . 2) q make-vector)) q (94047 . 4)) ((c def c (c (? . 2) q module-path-index-submodule)) q (306756 . 4)) ((c def c (c (? . 3) q list->weak-set)) q (120767 . 4)) ((c def c (c (? . 0) q sequence?)) q (103693 . 3)) ((c def c (c (? . 6) q member-name-key-hash-code)) q (144019 . 3)) ((c form c (c (? . 75) q define-inline)) q (16922 . 14)) ((c form c (c (? . 2) q case-lambda)) q (10327 . 6)) ((c def c (c (? . 5) q floating-point-bytes->extfl)) q (38855 . 9)) ((c form c (c (? . 0) q struct-out)) q (6104 . 2)) ((c def c (c (? . 6) q dynamic-send)) q (144876 . 9)) ((c def c (c (? . 25) q blame-value)) q (177089 . 3)) ((c def c (c (? . 28) q pretty-print-print-line)) q (289290 . 15)) ((c def c (c (? . 7) q unsafe-mcdr)) q (384806 . 3)) ((c def c (c (? . 2) q ceiling)) q (20949 . 3)) ((c form c (c (? . 35) q cond)) q (11449 . 7)) ((c def c (c (? . 76) q trait?)) q (147056 . 3)) ((c def c (c (? . 77) q for-each)) q (84123 . 4)) ((c def c (c (? . 2) q read-accept-quasiquote)) q (282081 . 4)) ((c form c (c (? . 32) q with-syntax)) q (218422 . 3)) ((c def c (c (? . 2) q list->string)) q (41291 . 3)) ((c def c (c (? . 0) q procedure-reduce-keyword-arity)) q (128714 . 10)) ((c def c (c (? . 2) q subprocess)) q (362254 . 31)) ((c form c (c (? . 0) q for*/and)) q (15094 . 2)) ((c form c (c (? . 0) q lambda)) q (9869 . 2)) ((c form c (c (? . 0) q for/list)) q (13563 . 2)) ((c def c (c (? . 2) q cadddr)) q (87965 . 3)) ((c def c (c (? . 29) q prop:provide-pre-transformer)) q (236653 . 2)) ((c form c (c (? . 32) q syntax/loc)) q (219480 . 2)) ((c def c (c (? . 2) q bytes<?)) q (56923 . 4)) ((c def c (c (? . 2) q box)) q (97944 . 3)) ((c form c (c (? . 52) q impersonate-generics)) q (136370 . 4)) ((c def c (c (? . 6) q make-object)) q (144109 . 4)) ((c def c (c (? . 3) q set-subtract!)) q (124233 . 4)) ((c def c (c (? . 7) q unsafe-fxmax)) q (382200 . 4)) ((c form c (c (? . 2) q begin-for-syntax)) q (12935 . 2)) ((c def c (c (? . 23) q sequence->repeated-generator)) q (111033 . 3)) ((c form c (c (? . 6) q send*)) q (145149 . 5)) ((c def c (c (? . 3) q list->set)) q (120176 . 3)) ((c form c (c (? . 3) q gen:set)) q (122559 . 2)) ((c def c (c (? . 0) q make-exn:break:hang-up)) c (? . 100)) ((c def c (c (? . 0) q make-exn:fail:network:errno)) c (? . 55)) ((c def c (c (? . 7) q unsafe-extflsqrt)) q (390345 . 3)) ((c def c (c (? . 4) q exn:fail:sandbox-terminated-reason)) c (? . 78)) ((c def c (c (? . 4) q sandbox-propagate-exceptions)) q (328976 . 4)) ((c def c (c (? . 2) q vector-immutable)) q (94213 . 4)) ((c def c (c (? . 2) q asin)) q (22210 . 3)) ((c def c (c (? . 4) q get-output)) c (? . 103)) ((c def c (c (? . 2) q struct:exn:fail:filesystem:exists)) c (? . 82)) ((c def c (c (? . 4) q set-eval-limits)) q (332887 . 5)) ((c def c (c (? . 5) q extflsin)) q (36357 . 3)) ((c form c (c (? . 122) q syntax-parameterize)) q (237967 . 2)) ((c def c (c (? . 2) q thread-cell-set!)) q (212201 . 4)) ((c def c (c (? . 2) q placeholder?)) q (92993 . 3)) ((c def c (c (? . 1) q make-custom-hash-types)) q (115484 . 24)) ((c def c (c (? . 2) q syntax-column)) q (220153 . 3)) ((c form c (c (? . 15) q shift0)) q (203169 . 2)) ((c def c (c (? . 0) q exn:fail:unsupported)) c (? . 79)) ((c def c (c (? . 2) q make-derived-parameter)) q (212853 . 7)) ((c def c (c (? . 2) q identifier-binding-symbol)) q (225644 . 6)) ((c def c (c (? . 51) q find-relative-path)) q (339261 . 8)) ((c def c (c (? . 2) q continuation-mark-set->context)) q (205918 . 3)) ((c def c (c (? . 0) q exn:fail:contract:variable)) c (? . 80)) ((c form c (c (? . 81) q include-at/relative-to)) q (240162 . 2)) ((c form c (c (? . 26) q for*/fxvector)) q (34572 . 9)) ((c def c (c (? . 2) q read-accept-reader)) q (282189 . 4)) ((c form c (c (? . 47) q define-logger)) q (369518 . 2)) ((c form c (c (? . 15) q prompt0-at)) q (203201 . 2)) ((c def c (c (? . 2) q string-locale-ci<?)) q (43474 . 4)) ((c def c (c (? . 2) q hash-iterate-next)) q (103000 . 5)) ((c def c (c (? . 0) q make-exn:fail:filesystem:errno)) c (? . 105)) ((c def c (c (? . 0) q in-list)) q (104013 . 3)) ((c def c (c (? . 0) q in-string)) q (104367 . 6)) ((c def c (c (? . 2) q wrap-evt)) q (208841 . 4)) ((c def c (c (? . 2) q make-empty-namespace)) q (295040 . 2)) ((c def c (c (? . 7) q unsafe-fxrshift)) q (381640 . 4)) ((c form c (c (? . 81) q include)) q (240045 . 6)) ((c def c (c (? . 8) q count)) q (91992 . 4)) ((c form c (c (? . 16) q tag)) q (156248 . 3)) ((c form c (c (? . 76) q trait-exclude)) q (147247 . 2)) ((c def c (c (? . 0) q in-hash-values)) q (105634 . 3)) ((c def c (c (? . 2) q semaphore-wait/enable-break)) q (210516 . 3)) ((c form c (c (? . 47) q let/cc)) q (201267 . 2)) ((c def c (c (? . 30) q vector-map)) q (95947 . 4)) ((c def c (c (? . 7) q unsafe-extfl*)) q (388639 . 4)) ((c def c (c (? . 2) q dynamic-require)) q (309004 . 7)) ((c form c (c (? . 43) q splicing-local)) q (238450 . 2)) ((c def c (c (? . 0) q exn:fail:filesystem:exists)) c (? . 82)) ((c def c (c (? . 48) q async-channel?)) q (211448 . 3)) ((c def c (c (? . 15) q spawn)) q (203404 . 3)) ((c def c (c (? . 2) q sqrt)) q (21695 . 3)) ((c def c (c (? . 2) q never-evt)) q (209302 . 2)) ((c def c (c (? . 2) q print-struct)) q (284577 . 4)) ((c form c (c (? . 81) q include-at/relative-to/reader)) q (240270 . 2)) ((c def c (c (? . 2) q default-continuation-prompt-tag)) q (200299 . 2)) ((c def c (c (? . 2) q error-escape-handler)) q (192504 . 4)) ((c form c (c (? . 52) q define-generics)) q (135264 . 21)) ((c def c (c (? . 2) q immutable?)) q (17814 . 3)) ((c def c (c (? . 38) q listof)) q (163372 . 3)) ((c def c (c (? . 0) q make-exn:fail:contract:divide-by-zero)) c (? . 90)) ((c def c (c (? . 2) q syntax-shift-phase-level)) q (221886 . 4)) ((c def c (c (? . 3) q set/c)) q (122287 . 6)) ((c def c (c (? . 27) q bytes-environment-variable-name?)) q (374485 . 3)) ((c def c (c (? . 2) q struct:exn:fail:syntax:missing-module)) c (? . 83)) ((c def c (c (? . 2) q real->floating-point-bytes)) q (26767 . 12)) ((c form c (c (? . 6) q field-bound?)) q (145757 . 2)) ((c def c (c (? . 2) q magnitude)) q (22707 . 3)) ((c def c (c (? . 37) q udp-bind!)) q (354984 . 9)) ((c def c (c (? . 7) q unsafe-fx->fl)) q (384405 . 3)) ((c def c (c (? . 2) q expand-syntax-once)) q (239811 . 3)) ((c def c (c (? . 2) q read-syntax)) q (279955 . 4)) ((c def c (c (? . 3) q set?)) q (119167 . 3)) ((c def c (c (? . 12) q match-expander?)) q (187851 . 3)) ((c def c (c (? . 2) q srcloc->string)) q (198516 . 3)) ((c def c (c (? . 6) q dynamic-get-field)) q (145487 . 4)) ((c def c (c (? . 2) q string->bytes/locale)) q (58329 . 6)) ((c def c (c (? . 2) q procedure-arity?)) q (127982 . 3)) ((c def c (c (? . 9) q copy-directory/files)) q (346921 . 9)) ((c form c (c (? . 35) q or)) q (11760 . 2)) ((c def c (c (? . 16) q unit?)) q (159699 . 3)) ((c def c (c (? . 2) q current-load)) q (300277 . 15)) ((c form c (c (? . 42) q lazy)) q (198917 . 2)) ((c def c (c (? . 2) q make-thread-group)) q (323821 . 3)) ((c def c (c (? . 41) q compose1)) q (127067 . 3)) ((c def c (c (? . 2) q peek-bytes-avail!)) q (273042 . 14)) ((c def c (c (? . 2) q cleanse-path)) q (337632 . 3)) ((c def c (c (? . 62) q false?)) q (18155 . 3)) ((c def c (c (? . 7) q unsafe-extfl-)) q (388549 . 4)) ((c def c (c (? . 2) q exn:fail:syntax:missing-module?)) c (? . 83)) ((c def c (c (? . 10) q reencode-output-port)) q (261359 . 16)) ((c def c (c (? . 24) q stream-count)) q (110253 . 4)) ((c def c (c (? . 0) q exn:fail:contract:arity)) c (? . 84)) ((c def c (c (? . 2) q primitive-result-arity)) q (130114 . 3)) ((c def c (c (? . 2) q struct-predicate-procedure?)) q (137162 . 3)) ((c def c (c (? . 2) q datum-intern-literal)) q (221823 . 3)) ((c def c (c (? . 2) q exn:fail:contract?)) c (? . 95)) ((c form c (c (? . 6) q generic)) q (145896 . 2)) ((c def c (c (? . 0) q make-do-sequence)) q (106861 . 8)) ((c def c (c (? . 18) q make-require-transformer)) q (233372 . 5)) ((c def c (c (? . 38) q not/c)) q (161410 . 3)) ((c form c (c (? . 6) q init-rest)) q (141521 . 3)) ((c def c (c (? . 2) q hash-map)) q (102307 . 4)) ((c form c (c (? . 12) q match-define-values)) q (187508 . 2)) ((c def c (c (? . 9) q user-write-bit)) q (352461 . 2)) ((c def c (c (? . 4) q sandbox-error-output)) q (328228 . 14)) ((c def c (c (? . 9) q find-files)) q (347494 . 7)) ((c def c (c (? . 2) q floor)) q (20866 . 3)) ((c form c (c (? . 12) q define-match-expander)) q (187644 . 3)) ((c def c (c (? . 2) q read-on-demand-source)) q (282754 . 5)) ((c def c (c (? . 37) q udp-receive!/enable-break)) q (358731 . 12)) ((c form c (c (? . 0) q for/first)) q (14395 . 2)) ((c def c (c (? . 2) q print-unreadable)) q (284395 . 4)) ((c def c (c (? . 6) q class-info)) q (153573 . 10)) ((c def c (c (? . 41) q remv*)) q (84981 . 4)) ((c def c (c (? . 37) q udp-bound?)) q (359294 . 3)) ((c form c (c (? . 0) q #%plain-module-begin)) q (1882 . 2)) ((c def c (c (? . 2) q exn:fail:filesystem?)) c (? . 70)) ((c def c (c (? . 2) q <=)) q (21477 . 4)) ((c def c (c (? . 2) q path-element->bytes)) q (335811 . 3)) ((c def c (c (? . 2) q syntax-position)) q (220248 . 3)) ((c def c (c (? . 2) q string<=?)) q (41693 . 4)) ((c def c (c (? . 0) q in-bytes)) q (104603 . 6)) ((c def c (c (? . 7) q unsafe-extflvector-length)) q (390639 . 3)) ((c def c (c (? . 11) q flmin)) q (28998 . 4)) ((c def c (c (? . 3) q set-equal?)) q (119004 . 3)) ((c def c (c (? . 0) q namespace-anchor->namespace)) q (295384 . 3)) ((c def c (c (? . 38) q channel/c)) q (165237 . 3)) ((c def c (c (? . 18) q import-source-mod-path-stx)) c (? . 85)) ((c def c (c (? . 2) q module->exports)) q (310219 . 5)) ((c def c (c (? . 24) q stream-tail)) q (109594 . 4)) ((c def c (c (? . 28) q pretty-print-current-style-table)) q (288475 . 4)) ((c def c (c (? . 8) q first)) q (88990 . 3)) ((c form c (c (? . 0) q all-defined-out)) q (5894 . 2)) ((c form c (c (? . 50) q ->d)) q (168514 . 34)) ((c def c (c (? . 2) q bytes->string/locale)) q (57363 . 9)) ((c def c (c (? . 2) q log-receiver?)) q (370419 . 3)) ((c def c (c (? . 2) q peek-string)) q (271611 . 5)) ((c def c (c (? . 2) q procedure?)) q (126794 . 3)) ((c form c (c (? . 6) q define/augride)) q (143111 . 3)) ((c def c (c (? . 8) q tenth)) q (89498 . 3)) ((c def c (c (? . 2) q vector)) q (94157 . 3)) ((c form c (c (? . 62) q nand)) q (18207 . 2)) ((c def c (c (? . 4) q call-with-killing-threads)) c (? . 86)) ((c def c (c (? . 6) q externalizable<%>)) q (151945 . 2)) ((c def c (c (? . 2) q syntax-local-lift-require)) q (230815 . 5)) ((c def c (c (? . 6) q member-name-key=?)) q (143899 . 4)) ((c def c (c (? . 2) q char-lower-case?)) q (63462 . 3)) ((c def c (c (? . 4) q sandbox-reader)) q (327250 . 4)) ((c def c (c (? . 2) q namespace-undefine-variable!)) q (296648 . 5)) ((c def c (c (? . 2) q placeholder-set!)) q (93117 . 4)) ((c def c (c (? . 2) q locale-string-encoding)) q (61816 . 2)) ((c def c (c (? . 7) q unsafe-fx<)) q (381802 . 4)) ((c def c (c (? . 2) q environment-variables-copy)) q (375494 . 3)) ((c form c (c (? . 42) q delay/thread)) q (199240 . 5)) ((c form c (c (? . 16) q invoke-unit)) q (156349 . 3)) ((c def c (c (? . 25) q raise-blame-error)) q (177573 . 9)) ((c def c (c (? . 2) q date-week-day)) c (? . 14)) ((c def c (c (? . 1) q dict-clear)) q (114191 . 3)) ((c def c (c (? . 2) q string-copy)) q (40539 . 3)) ((c def c (c (? . 2) q close-output-port)) q (242710 . 3)) ((c def c (c (? . 27) q reroot-path)) q (338822 . 4)) ((c def c (c (? . 2) q syntax-local-module-defined-identifiers)) q (232727 . 3)) ((c form c (c (? . 0) q for/lists)) q (14320 . 2)) ((c def c (c (? . 2) q random-seed)) q (24017 . 3)) ((c form c (c (? . 3) q for/seteq)) q (121117 . 2)) ((c def c (c (? . 2) q local-transformer-expand/capture-lifts)) q (228296 . 11)) ((c def c (c (? . 21) q sqr)) q (27489 . 3)) ((c def c (c (? . 6) q printable<%>)) q (151988 . 2)) ((c def c (c (? . 7) q unsafe-fl-)) q (382358 . 4)) ((c form c (c (? . 15) q reset0)) q (203107 . 2)) ((c def c (c (? . 2) q make-known-char-range-list)) q (64203 . 5)) ((c def c (c (? . 2) q read-char)) q (268875 . 3)) ((c def c (c (? . 2) q uncaught-exception-handler)) q (192220 . 4)) ((c def c (c (? . 2) q port-closed-evt)) q (242845 . 3)) ((c def c (c (? . 2) q byte-ready?)) q (276580 . 3)) ((c form c (c (? . 16) q define-unit)) q (156910 . 7)) ((c form c (c (? . 6) q augment*)) q (142379 . 2)) ((c form c (c (? . 107) q unsyntax-splicing)) q (219447 . 2)) ((c def c (c (? . 7) q unsafe-fl+)) q (382280 . 4)) ((c form c (c (? . 3) q for*/weak-set)) q (121883 . 2)) ((c def c (c (? . 10) q port->list)) q (254824 . 4)) ((c def c (c (? . 2) q single-flonum?)) q (19047 . 3)) ((c def c (c (? . 7) q unsafe-extflvector-set!)) q (390809 . 5)) ((c def c (c (? . 18) q import-mode)) c (? . 19)) ((c form c (c (? . 2) q #%expression)) q (9560 . 2)) ((c def c (c (? . 0) q regexp-quote)) q (65791 . 7)) ((c def c (c (? . 42) q promise-running?)) q (199065 . 3)) ((c def c (c (? . 2) q handle-evt?)) q (209424 . 3)) ((c def c (c (? . 11) q fl->exact-integer)) q (29969 . 3)) ((c def c (c (? . 2) q list->bytes)) q (56588 . 3)) ((c def c (c (? . 8) q last)) q (89548 . 3)) ((c def c (c (? . 5) q extflatan)) q (36664 . 3)) ((c def c (c (? . 4) q exn:fail:resource?)) c (? . 88)) ((c def c (c (? . 87) q string-normalize-spaces)) q (44393 . 11)) ((c form c (c (? . 2) q #%datum)) q (9534 . 2)) ((c def c (c (? . 2) q prop:impersonator-of)) q (315676 . 2)) ((c def c (c (? . 4) q exn:fail:resource-resource)) c (? . 88)) ((c def c (c (? . 15) q call/prompt)) q (201960 . 7)) ((c def c (c (? . 2) q date?)) c (? . 14)) ((c def c (c (? . 9) q make-directory*)) q (348503 . 3)) ((c def c (c (? . 2) q input-port?)) q (242477 . 3)) ((c def c (c (? . 2) q read/recursive)) q (280128 . 6)) ((c def c (c (? . 2) q thread-receive-evt)) q (208198 . 2)) ((c def c (c (? . 2) q regexp-replace)) q (80500 . 15)) ((c def c (c (? . 10) q peek-bytes!-evt)) c (? . 72)) ((c def c (c (? . 2) q >)) q (21550 . 4)) ((c def c (c (? . 2) q file-size)) q (342304 . 3)) ((c def c (c (? . 57) q identity)) q (130201 . 3)) ((c form c (c (? . 0) q #%top-interaction)) q (16764 . 2)) ((c def c (c (? . 26) q fxxor)) q (32624 . 4)) ((c def c (c (? . 2) q make-immutable-hasheqv)) q (99836 . 4)) ((c def c (c (? . 2) q current-preserved-thread-cell-values)) q (212290 . 4)) ((c form c (c (? . 0) q :do-in)) q (16077 . 9)) ((c def c (c (? . 2) q subprocess-wait)) q (363477 . 3)) ((c def c (c (? . 38) q impersonator-contract?)) q (184044 . 3)) ((c def c (c (? . 2) q arity-at-least-value)) c (? . 89)) ((c def c (c (? . 34) q tcp-addresses)) q (354410 . 7)) ((c def c (c (? . 4) q sandbox-output)) q (327770 . 14)) ((c def c (c (? . 2) q semaphore-wait)) q (210372 . 3)) ((c def c (c (? . 2) q chaperone-vector)) q (316750 . 12)) ((c def c (c (? . 2) q string=?)) q (41503 . 4)) ((c form c (c (? . 38) q flat-murec-contract)) q (165642 . 2)) ((c def c (c (? . 1) q dict-map)) q (113765 . 4)) ((c form c (c (? . 6) q interface*)) q (138535 . 7)) ((c def c (c (? . 11) q flacos)) q (29574 . 3)) ((c def c (c (? . 37) q udp-multicast-join-group!)) q (361037 . 7)) ((c def c (c (? . 2) q struct:exn:fail:contract:divide-by-zero)) c (? . 90)) ((c def c (c (? . 2) q current-code-inspector)) q (325143 . 4)) ((c form c (c (? . 15) q set)) q (203672 . 2)) ((c def c (c (? . 5) q extflonum-available?)) q (35083 . 2)) ((c def c (c (? . 124) q vector/c)) q (162679 . 8)) ((c def c (c (? . 2) q regexp-match-peek)) q (71541 . 15)) ((c def c (c (? . 2) q abort-current-continuation)) q (199991 . 5)) ((c def c (c (? . 18) q import-local-id)) c (? . 19)) ((c form c (c (? . 32) q syntax-case*)) q (218338 . 3)) ((q def ((lib "racket/contract/private/hash.rkt") hash/c)) q (164908 . 9)) ((c def c (c (? . 2) q variable-reference->module-path-index)) q (299275 . 4)) ((c def c (c (? . 2) q char>?)) q (62725 . 4)) ((c def c (c (? . 27) q load-relative)) q (300914 . 3)) ((c def c (c (? . 7) q unsafe-string-ref)) q (386502 . 5)) ((c form c (c (? . 0) q for*/first)) q (15349 . 2)) ((c def c (c (? . 2) q primitive-closure?)) q (130051 . 3)) ((c form c (c (? . 0) q for*/or)) q (15157 . 2)) ((c def c (c (? . 2) q exn:fail:user?)) c (? . 99)) ((c def c (c (? . 10) q call-with-output-string)) q (255933 . 3)) ((c form c (c (? . 0) q module+)) q (1771 . 2)) ((c def c (c (? . 22) q place-dead-evt)) q (215824 . 3)) ((c def c (c (? . 2) q error-print-width)) q (192768 . 4)) ((c def c (c (? . 2) q write-bytes-avail/enable-break)) q (278564 . 10)) ((c def c (c (? . 37) q udp-connected?)) q (359367 . 3)) ((c def c (c (? . 2) q namespace-base-phase)) q (295655 . 3)) ((c def c (c (? . 28) q pretty-write)) q (287085 . 4)) ((c def c (c (? . 91) q current-prefix-in)) q (394861 . 4)) ((c def c (c (? . 3) q set-implements?)) q (122108 . 4)) ((c def c (c (? . 26) q fxremainder)) q (32271 . 4)) ((c def c (c (? . 2) q struct-constructor-procedure?)) q (137087 . 3)) ((c def c (c (? . 2) q weak-box?)) q (379506 . 3)) ((c def c (c (? . 2) q struct-type-make-constructor)) q (324881 . 4)) ((c def c (c (? . 1) q dict-iterate-value)) q (112534 . 4)) ((c def c (c (? . 2) q syntax-local-make-definition-context)) q (228937 . 4)) ((c def c (c (? . 18) q syntax-local-require-certifier)) q (235570 . 4)) ((c def c (c (? . 5) q extflsqrt)) q (36848 . 3)) ((c def c (c (? . 27) q load-relative-extension)) q (301290 . 3)) ((c def c (c (? . 21) q order-of-magnitude)) q (28094 . 3)) ((c def c (c (? . 0) q chaperone-procedure)) q (315729 . 11)) ((c def c (c (? . 2) q string->keyword)) q (82630 . 3)) ((c form c (c (? . 6) q send/apply)) q (144622 . 2)) ((c def c (c (? . 41) q remq*)) q (84902 . 4)) ((c def c (c (? . 2) q load-on-demand-enabled)) q (304058 . 4)) ((c def c (c (? . 5) q extfltan)) q (36479 . 3)) ((c def c (c (? . 2) q chaperone-box)) q (317268 . 12)) ((c def c (c (? . 27) q find-executable-path)) q (340679 . 7)) ((c form c (c (? . 16) q unit/s)) q (159033 . 6)) ((c def c (c (? . 92) q new-∀/c)) q (170147 . 3)) ((c def c (c (? . 3) q list->weak-seteq)) q (120970 . 3)) ((c def c (c (? . 9) q call-with-atomic-output-file)) q (348902 . 8)) ((c form c (c (? . 45) q with-disappeared-uses)) q (241547 . 4)) ((c def c (c (? . 2) q current-milliseconds)) q (372065 . 2)) ((c def c (c (? . 24) q stream-ormap)) q (109939 . 4)) ((c def c (c (? . 2) q weak-box-value)) q (379393 . 4)) ((c form c (c (? . 0) q for*/hasheqv)) q (15027 . 2)) ((c def c (c (? . 37) q udp-send/enable-break)) q (357482 . 9)) ((c form c (c (? . 0) q for/hasheqv)) q (14003 . 2)) ((c def c (c (? . 7) q unsafe-list-ref)) q (385119 . 4)) ((c def c (c (? . 2) q syntax-source-module)) q (220503 . 5)) ((c form c (c (? . 26) q for/fxvector)) q (34506 . 2)) ((c def c (c (? . 3) q set-clear)) q (123554 . 3)) ((c def c (c (? . 91) q current-trace-notify)) q (393601 . 4)) ((c def c (c (? . 93) q bytes-no-nuls?)) q (369018 . 3)) ((c def c (c (? . 30) q vector-append)) q (96142 . 3)) ((c def c (c (? . 0) q srcloc)) c (? . 13)) ((c def c (c (? . 7) q unsafe-extfl>=)) q (389240 . 4)) ((c def c (c (? . 2) q char-graphic?)) q (63866 . 3)) ((c def c (c (? . 2) q bytes->list)) q (56517 . 3)) ((c form c (c (? . 6) q public-final)) q (141629 . 2)) ((c def c (c (? . 30) q vector-member)) q (97586 . 4)) ((c def c (c (? . 2) q explode-path)) q (338342 . 4)) ((c def c (c (? . 2) q semaphore-try-wait?)) q (210440 . 3)) ((c form c (c (? . 0) q struct-field-index)) q (132233 . 2)) ((c def c (c (? . 22) q place-break)) q (215935 . 4)) ((c def c (c (? . 27) q read-eval-print-loop)) q (302583 . 2)) ((c def c (c (? . 28) q pretty-print-newline)) q (289169 . 4)) ((c def c (c (? . 2) q syntax-transforming?)) q (231947 . 2)) ((c def c (c (? . 2) q current-memory-use)) q (380254 . 3)) ((c def c (c (? . 2) q path<?)) q (335888 . 4)) ((c form c (c (? . 32) q syntax-rules)) q (219597 . 3)) ((c def c (c (? . 2) q flonum?)) q (18934 . 3)) ((c def c (c (? . 26) q fl->fx)) q (33462 . 3)) ((c def c (c (? . 2) q module-path-index-resolve)) q (306494 . 3)) ((c def c (c (? . 2) q module-compiled-imports)) q (308212 . 5)) ((c def c (c (? . 2) q current-custodian)) q (322778 . 4)) ((c def c (c (? . 30) q vector-drop-right)) q (96535 . 4)) ((c def c (c (? . 10) q open-output-nowhere)) q (260104 . 4)) ((c def c (c (? . 2) q impersonate-vector)) q (311882 . 13)) ((c def c (c (? . 6) q object-info)) q (153484 . 3)) ((c def c (c (? . 27) q path-string?)) q (335033 . 3)) ((c form c (c (? . 24) q stream-cons)) q (109205 . 2)) ((c form c (c (? . 0) q for-label)) q (6504 . 2)) ((c def c (c (? . 2) q struct:exn:fail:filesystem:missing-module)) c (? . 39)) ((c def c (c (? . 2) q random)) q (23656 . 8)) ((c def c (c (? . 2) q regexp?)) q (65307 . 3)) ((c def c (c (? . 11) q flabs)) q (28584 . 3)) ((c def c (c (? . 2) q imag-part)) q (22653 . 3)) ((c def c (c (? . 2) q cdar)) q (86481 . 3)) ((c def c (c (? . 4) q sandbox-eval-handlers)) q (331498 . 7)) ((c def c (c (? . 2) q quotient)) q (20076 . 4)) ((c def c (c (? . 26) q fxvector)) q (33570 . 3)) ((c def c (c (? . 7) q unsafe-vector-set!)) q (385965 . 5)) ((c def c (c (? . 38) q string-len/c)) q (162076 . 3)) ((c def c (c (? . 29) q export-out-sym)) c (? . 63)) ((c def c (c (? . 7) q unsafe-flabs)) q (382592 . 3)) ((c def c (c (? . 7) q unsafe-flsqrt)) q (383932 . 3)) ((c def c (c (? . 6) q object->vector)) q (152347 . 4)) ((c form c (c (? . 16) q init-depend)) q (156293 . 2)) ((c def c (c (? . 2) q make-special-comment)) q (292148 . 3)) ((c def c (c (? . 2) q simplify-path)) q (337819 . 4)) ((c def c (c (? . 2) q exn:fail:contract:non-fixnum-result?)) c (? . 94)) ((c def c (c (? . 18) q import-orig-stx)) c (? . 19)) ((c def c (c (? . 37) q udp-multicast-set-interface!)) q (361649 . 5)) ((c def c (c (? . 2) q bytes-open-converter)) q (60163 . 4)) ((c def c (c (? . 24) q stream-andmap)) q (109838 . 4)) ((c form c (c (? . 2) q quote)) q (9512 . 2)) ((c def c (c (? . 2) q make-resolved-module-path)) q (304233 . 7)) ((c form c (c (? . 2) q define-values)) q (12210 . 2)) ((c form c (c (? . 50) q recontract-out)) q (171254 . 2)) ((c form c (c (? . 43) q splicing-syntax-parameterize)) q (238472 . 2)) ((c def c (c (? . 2) q current-drive)) q (342918 . 2)) ((c def c (c (? . 11) q fl/)) q (28513 . 4)) ((c form c (c (? . 6) q define/pubment)) q (142603 . 3)) ((c def c (c (? . 2) q hash-iterate-value)) q (103251 . 4)) ((c def c (c (? . 2) q cddaar)) q (88465 . 3)) ((c def c (c (? . 0) q exn:fail:contract)) c (? . 95)) ((c def c (c (? . 2) q prop:evt)) q (209484 . 2)) ((c form c (c (? . 3) q for*/weak-seteq)) q (121937 . 2)) ((c def c (c (? . 2) q byte-regexp?)) q (65414 . 3)) ((c def c (c (? . 2) q syntax-local-bind-syntaxes)) q (229102 . 7)) ((c def c (c (? . 2) q chaperone-evt)) q (319222 . 7)) ((c def c (c (? . 96) q contract-random-generate)) q (185948 . 5)) ((c def c (c (? . 2) q parameter?)) q (213102 . 3)) ((c def c (c (? . 10) q copy-port)) q (268779 . 4)) ((c def c (c (? . 2) q odd?)) q (19324 . 3)) ((c def c (c (? . 46) q serialized=?)) q (292967 . 4)) ((c def c (c (? . 2) q port-count-lines-enabled)) q (244886 . 4)) ((c form c (c (? . 33) q runtime-require)) q (343939 . 2)) ((c def c (c (? . 98) q fasl->s-exp)) q (294906 . 3)) ((c def c (c (? . 2) q read)) q (279875 . 3)) ((c def c (c (? . 2) q vector->values)) q (95440 . 5)) ((c def c (c (? . 2) q path?)) q (334982 . 3)) ((c form c (c (? . 0) q define-struct/derived)) q (132433 . 3)) ((c def c (c (? . 3) q set-copy-clear)) q (123460 . 3)) ((c def c (c (? . 21) q infinite?)) q (28245 . 3)) ((c def c (c (? . 10) q make-input-port/read-to-peek)) q (256821 . 50)) ((c def c (c (? . 7) q unsafe-car)) q (384645 . 3)) ((c def c (c (? . 8) q cons?)) q (88887 . 3)) ((c def c (c (? . 2) q <)) q (21405 . 4)) ((c def c (c (? . 0) q make-exn:fail:contract)) c (? . 95)) ((c form c (c (? . 47) q log-debug)) q (370347 . 3)) ((c form c (c (? . 111) q define-require-syntax)) q (12501 . 3)) ((c def c (c (? . 2) q hash)) q (98673 . 4)) ((c def c (c (? . 97) q build-contract-property)) q (181645 . 27)) ((c def c (c (? . 2) q continuation-mark-set?)) q (205850 . 3)) ((c def c (c (? . 77) q andmap)) q (83950 . 4)) ((c def c (c (? . 2) q prop:custom-print-quotable)) q (292621 . 2)) ((c def c (c (? . 2) q call-in-nested-thread)) q (206974 . 4)) ((c def c (c (? . 2) q port-try-file-lock?)) q (248408 . 4)) ((c form c (c (? . 50) q ->)) q (165974 . 9)) ((c def c (c (? . 2) q exn:fail:syntax:missing-module-path)) c (? . 83)) ((c def c (c (? . 2) q exn:break-continuation)) c (? . 68)) ((c def c (c (? . 11) q shared-flvector)) q (31786 . 3)) ((c form c (c (? . 43) q splicing-let-values)) q (238236 . 2)) ((c def c (c (? . 2) q date*-time-zone-name)) c (? . 20)) ((c form c (c (? . 15) q prompt0)) q (203078 . 2)) ((c def c (c (? . 0) q procedure-arity)) q (127901 . 3)) ((c def c (c (? . 30) q vector-copy)) q (96891 . 5)) ((c def c (c (? . 2) q keyword<?)) q (82697 . 4)) ((c def c (c (? . 91) q trace-call)) q (393738 . 5)) ((c def c (c (? . 2) q struct:date*)) c (? . 20)) ((c def c (c (? . 27) q normal-case-path)) q (337994 . 3)) ((c def c (c (? . 2) q continuation-prompt-available?)) q (201412 . 5)) ((c def c (c (? . 98) q s-exp->fasl)) q (294784 . 4)) ((c def c (c (? . 2) q syntax-local-value)) q (229795 . 8)) ((c def c (c (? . 2) q call-with-continuation-prompt)) q (199580 . 10)) ((c def c (c (? . 10) q display-lines)) q (255665 . 7)) ((c def c (c (? . 97) q prop:flat-contract)) q (178317 . 2)) ((c def c (c (? . 34) q tcp-port?)) q (354711 . 3)) ((c def c (c (? . 115) q bytes-append*)) q (61860 . 4)) ((c def c (c (? . 2) q read-accept-dot)) q (281881 . 4)) ((c form c (c (? . 2) q with-continuation-mark)) q (16604 . 2)) ((c def c (c (? . 2) q acos)) q (22261 . 3)) ((c def c (c (? . 2) q srcloc-column)) c (? . 13)) ((c form c (c (? . 33) q define-runtime-path-list)) q (343831 . 2)) ((c def c (c (? . 2) q bytes-set!)) q (55528 . 5)) ((c def c (c (? . 7) q unsafe-vector*-ref)) q (386173 . 4)) ((c def c (c (? . 0) q in-naturals)) q (103920 . 3)) ((c def c (c (? . 2) q exit)) q (206429 . 3)) ((c def c (c (? . 24) q stream?)) q (108912 . 3)) ((c def c (c (? . 2) q cdddr)) q (87183 . 3)) ((c def c (c (? . 29) q syntax-local-provide-certifier)) q (237106 . 4)) ((c def c (c (? . 12) q legacy-match-expander?)) q (187912 . 3)) ((c def c (c (? . 2) q box?)) q (97894 . 3)) ((c def c (c (? . 91) q current-trace-print-results)) q (394443 . 10)) ((c def c (c (? . 2) q log-level?)) q (369805 . 4)) ((c def c (c (? . 0) q regexp-replaces)) q (81883 . 8)) ((c def c (c (? . 32) q syntax-pattern-variable?)) q (219823 . 3)) ((c def c (c (? . 2) q raise-user-error)) q (188826 . 10)) ((c def c (c (? . 2) q struct:exn:fail:syntax:unbound)) c (? . 106)) ((c def c (c (? . 0) q directory-list)) q (343173 . 4)) ((c form c (c (? . 0) q struct-copy)) q (136746 . 5)) ((c def c (c (? . 2) q module-compiled-language-info)) q (308678 . 4)) ((c def c (c (? . 2) q boolean?)) q (17353 . 3)) ((c def c (c (? . 11) q flsqrt)) q (29784 . 3)) ((c def c (c (? . 7) q unsafe-flrandom)) q (384525 . 3)) ((c def c (c (? . 2) q string-ref)) q (40106 . 4)) ((c def c (c (? . 7) q unsafe-cdr)) q (384698 . 3)) ((c def c (c (? . 18) q import)) c (? . 19)) ((c def c (c (? . 36) q date->seconds)) q (373314 . 4)) ((c def c (c (? . 49) q coerce-flat-contract)) q (176218 . 4)) ((c def c (c (? . 2) q exn:missing-module?)) q (198655 . 3)) ((c def c (c (? . 25) q blame-positive)) q (176915 . 3)) ((c def c (c (? . 2) q path-convention-type)) q (335984 . 3)) ((c def c (c (? . 0) q raise-arity-error)) q (191320 . 9)) ((c def c (c (? . 2) q real->double-flonum)) q (19680 . 3)) ((c def c (c (? . 2) q procedure-arity-includes?)) q (128044 . 5)) ((c def c (c (? . 3) q set-copy)) q (123393 . 3)) ((c def c (c (? . 2) q char-upper-case?)) q (63530 . 3)) ((c def c (c (? . 2) q file-position)) q (243760 . 6)) ((c form c (c (? . 2) q module)) q (1653 . 2)) ((c def c (c (? . 2) q thread-running?)) q (207549 . 3)) ((c def c (c (? . 53) q struct-auto-info?)) q (138216 . 3)) ((c def c (c (? . 2) q semaphore?)) q (210151 . 3)) ((c def c (c (? . 2) q custodian-managed-list)) q (322885 . 4)) ((c def c (c (? . 18) q require-transformer?)) q (233668 . 3)) ((c def c (c (? . 38) q syntax/c)) q (163654 . 3)) ((c def c (c (? . 1) q make-weak-custom-hash)) q (117522 . 14)) ((c form c (c (? . 0) q for*/fold/derived)) q (15694 . 4)) ((c def c (c (? . 2) q module-compiled-name)) q (307199 . 9)) ((c def c (c (? . 0) q exn:fail:out-of-memory)) c (? . 60)) ((c def c (c (? . 2) q write)) q (283301 . 4)) ((c def c (c (? . 2) q alarm-evt)) q (209365 . 3)) ((c def c (c (? . 2) q current-library-collection-links)) q (392152 . 11)) ((c def c (c (? . 7) q unsafe-fl*)) q (382436 . 4)) ((c form c (c (? . 2) q #%provide)) q (8105 . 23)) ((c def c (c (? . 2) q identifier-transformer-binding)) q (224288 . 12)) ((c def c (c (? . 2) q caar)) q (86353 . 3)) ((c def c (c (? . 10) q with-input-from-string)) q (256503 . 4)) ((c def c (c (? . 2) q semaphore-post)) q (210304 . 3)) ((c def c (c (? . 2) q impersonate-continuation-mark-key)) q (315157 . 13)) ((c def c (c (? . 96) q contract-proc)) q (185770 . 6)) ((c def c (c (? . 2) q resolve-path)) q (337564 . 3)) ((c def c (c (? . 0) q procedure-rename)) q (127139 . 4)) ((c def c (c (? . 2) q string->bytes/utf-8)) q (58083 . 6)) ((c def c (c (? . 0) q make-exn:break:terminate)) c (? . 114)) ((c def c (c (? . 10) q read-string!-evt)) q (266751 . 4)) ((c def c (c (? . 38) q >/c)) q (161610 . 3)) ((c def c (c (? . 7) q unsafe-string-length)) q (386431 . 3)) ((c form c (c (? . 24) q stream)) q (109249 . 2)) ((c form c (c (? . 6) q override-final*)) q (142337 . 2)) ((c form c (c (? . 43) q splicing-letrec-values)) q (238263 . 2)) ((c def c (c (? . 2) q eof)) q (243374 . 2)) ((c def c (c (? . 5) q extflvector-length)) q (37583 . 3)) ((c def c (c (? . 38) q <=/c)) q (161665 . 3)) ((c form c (c (? . 16) q define-unit-from-context)) q (158600 . 2)) ((c def c (c (? . 2) q void?)) q (131105 . 3)) ((c form c (c (? . 0) q only-meta-in)) q (4501 . 2)) ((c def c (c (? . 8) q sixth)) q (89295 . 3)) ((c def c (c (? . 38) q none/c)) q (161229 . 2)) ((c def c (c (? . 2) q bytes-converter?)) q (61754 . 3)) ((c def c (c (? . 10) q port->string)) q (254973 . 3)) ((c def c (c (? . 49) q build-compound-type-name)) q (175720 . 3)) ((c def c (c (? . 2) q string-titlecase)) q (42608 . 3)) ((c def c (c (? . 2) q peek-bytes)) q (271833 . 5)) ((c def c (c (? . 2) q identifier-binding)) q (223736 . 14)) ((c def c (c (? . 6) q interface->method-names)) q (153074 . 3)) ((c def c (c (? . 12) q exn:misc:match?)) q (187561 . 3)) ((c def c (c (? . 2) q struct:exn:fail:user)) c (? . 99)) ((c form c (c (? . 6) q send-generic)) q (145942 . 3)) ((c def c (c (? . 2) q make-output-port)) q (252086 . 59)) ((c form c (c (? . 35) q let-syntax)) q (10891 . 2)) ((c def c (c (? . 3) q list->mutable-set)) q (120446 . 4)) ((c def c (c (? . 2) q syntax->list)) q (220732 . 3)) ((c def c (c (? . 11) q flrandom)) q (30351 . 3)) ((c def c (c (? . 2) q hash-remove)) q (101927 . 4)) ((c def c (c (? . 2) q make-log-receiver)) q (370478 . 5)) ((c def c (c (? . 2) q file-stream-buffer-mode)) q (243551 . 6)) ((c def c (c (? . 2) q custodian-shutdown-all)) q (322702 . 3)) ((c def c (c (? . 2) q internal-definition-context?)) q (228863 . 3)) ((c def c (c (? . 21) q sgn)) q (27539 . 3)) ((c def c (c (? . 41) q assoc)) q (85915 . 5)) ((c def c (c (? . 2) q prefab-struct-key)) q (137378 . 3)) ((c def c (c (? . 0) q memq)) q (85658 . 4)) ((c form c (c (? . 16) q unit-from-context)) q (158556 . 2)) ((c def c (c (? . 2) q port-file-unlock)) q (248538 . 3)) ((c def c (c (? . 2) q error)) q (188611 . 10)) ((c def c (c (? . 28) q tentative-pretty-print-port-cancel)) q (291237 . 3)) ((c def c (c (? . 41) q build-vector)) q (95642 . 4)) ((c def c (c (? . 44) q fsemaphore-try-wait?)) q (214245 . 3)) ((c def c (c (? . 2) q date*-nanosecond)) c (? . 20)) ((c def c (c (? . 11) q make-flvector)) q (30581 . 4)) ((c def c (c (? . 2) q string->path-element)) q (335499 . 3)) ((c def c (c (? . 9) q user-read-bit)) q (352431 . 2)) ((c form c (c (? . 2) q unquote-splicing)) q (16711 . 2)) ((c def c (c (? . 2) q string-normalize-nfkc)) q (42985 . 3)) ((c def c (c (? . 7) q unsafe-fl=)) q (382651 . 4)) ((c def c (c (? . 21) q exact-round)) q (27821 . 3)) ((c form c (c (? . 27) q define-syntax-rule)) q (219748 . 2)) ((c def c (c (? . 2) q gensym)) q (65123 . 3)) ((c def c (c (? . 18) q import-src-sym)) c (? . 19)) ((c def c (c (? . 51) q filename-extension)) q (339143 . 3)) ((c def c (c (? . 2) q raise-type-error)) q (190800 . 10)) ((c def c (c (? . 2) q bytes->path)) q (335219 . 4)) ((c def c (c (? . 38) q printable/c)) q (162177 . 2)) ((c def c (c (? . 6) q object%)) q (138721 . 2)) ((c def c (c (? . 7) q unsafe-extflexp)) q (390277 . 3)) ((c form c (c (? . 0) q for/sum)) q (14192 . 2)) ((c def c (c (? . 8) q in-permutations)) q (92653 . 3)) ((c def c (c (? . 5) q extfl*)) q (35296 . 4)) ((c def c (c (? . 8) q takef-right)) q (90608 . 4)) ((c def c (c (? . 29) q expand-export)) q (235694 . 4)) ((c def c (c (? . 3) q set-intersect)) q (123912 . 4)) ((c def c (c (? . 57) q negate)) q (130360 . 3)) ((c def c (c (? . 3) q set-remove)) q (122823 . 4)) ((c def c (c (? . 2) q impersonator-property?)) q (321466 . 3)) ((c def c (c (? . 10) q dup-output-port)) q (262145 . 4)) ((c def c (c (? . 49) q coerce-contract/f)) q (176429 . 3)) ((c def c (c (? . 40) q sequence-add-between)) q (108822 . 4)) ((c def c (c (? . 7) q unsafe-fl>)) q (382809 . 4)) ((c def c (c (? . 2) q syntax-local-make-delta-introducer)) q (232543 . 4)) ((c def c (c (? . 2) q write-bytes-avail)) q (277794 . 9)) ((c def c (c (? . 2) q tan)) q (22160 . 3)) ((c def c (c (? . 2) q struct:exn:fail:filesystem)) c (? . 70)) ((c def c (c (? . 2) q compile-context-preservation-enabled)) q (303826 . 4)) ((c def c (c (? . 97) q build-flat-contract-property)) q (178478 . 28)) ((c def c (c (? . 2) q print-box)) q (284665 . 4)) ((c def c (c (? . 2) q byte-pregexp)) q (65721 . 3)) ((c def c (c (? . 1) q dict-mutable?)) q (111335 . 3)) ((c def c (c (? . 34) q tcp-accept-evt)) q (354255 . 3)) ((c def c (c (? . 2) q make-immutable-hash)) q (99708 . 4)) ((c def c (c (? . 4) q call-with-trusted-sandbox-configuration)) q (327051 . 3)) ((c def c (c (? . 2) q local-expand)) q (226712 . 13)) ((c def c (c (? . 26) q fxabs)) q (32426 . 3)) ((c def c (c (? . 7) q unsafe-fl<)) q (382730 . 4)) ((c def c (c (? . 0) q make-exn)) c (? . 61)) ((c def c (c (? . 2) q subprocess-status)) q (363553 . 4)) ((c def c (c (? . 26) q fxvector-ref)) q (33835 . 4)) ((c def c (c (? . 3) q set-symmetric-difference!)) q (124458 . 4)) ((c def c (c (? . 3) q set-mutable?)) q (119217 . 3)) ((c form c (c (? . 6) q abstract)) q (141934 . 2)) ((c def c (c (? . 57) q normalize-arity)) q (130774 . 4)) ((c def c (c (? . 2) q custom-print-quotable-accessor)) q (292735 . 2)) ((c form c (c (? . 47) q log-fatal)) q (370057 . 3)) ((c def c (c (? . 0) q exn:break:hang-up)) c (? . 100)) ((c def c (c (? . 2) q shared-bytes)) q (56766 . 3)) ((c def c (c (? . 25) q make-exn:fail:contract:blame)) c (? . 54)) ((c def c (c (? . 2) q hash-iterate-first)) q (102899 . 4)) ((c def c (c (? . 26) q fxmax)) q (33336 . 4)) ((c def c (c (? . 2) q identifier-template-binding)) q (224743 . 12)) ((c form c (c (? . 6) q inherit)) q (141961 . 2)) ((c def c (c (? . 2) q date-year)) c (? . 14)) ((c def c (c (? . 2) q mpair?)) q (93635 . 3)) ((c def c (c (? . 7) q unsafe-vector-ref)) q (385882 . 4)) ((c def c (c (? . 101) q signature-members)) q (160559 . 8)) ((c def c (c (? . 2) q call-with-composable-continuation)) q (200823 . 6)) ((c def c (c (? . 2) q continuation-mark-set-first)) q (205077 . 10)) ((c def c (c (? . 22) q place-channel?)) q (214512 . 3)) ((c def c (c (? . 28) q pretty-print-size-hook)) q (289795 . 9)) ((c def c (c (? . 8) q drop-right)) q (90395 . 4)) ((c def c (c (? . 2) q vector->pseudo-random-generator)) q (24550 . 4)) ((c def c (c (? . 28) q pretty-print)) q (286918 . 5)) ((q form ((lib "racket/private/define.rkt") define-values-for-syntax)) q (12450 . 2)) ((c def c (c (? . 2) q collect-garbage)) q (380215 . 2)) ((c def c (c (? . 2) q srcloc-line)) c (? . 13)) ((c def c (c (? . 2) q prefab-key->struct-type)) q (137556 . 4)) ((c def c (c (? . 38) q promise/c)) q (165732 . 3)) ((c form c (c (? . 33) q define-runtime-path)) q (343745 . 2)) ((c def c (c (? . 30) q vector-count)) q (97268 . 4)) ((c def c (c (? . 1) q dict-clear!)) q (114250 . 3)) ((c form c (c (? . 16) q contracted)) q (155959 . 2)) ((c def c (c (? . 0) q syntax-local-certifier)) q (231795 . 5)) ((c def c (c (? . 2) q error-print-source-location)) q (193370 . 4)) ((c def c (c (? . 27) q guard-evt)) q (209050 . 3)) ((c def c (c (? . 37) q udp-connect!)) q (355286 . 8)) ((c def c (c (? . 2) q module-compiled-cross-phase-persistent?)) q (308858 . 4)) ((c form c (c (? . 50) q ->i)) q (166816 . 45)) ((c def c (c (? . 59) q implementation?/c)) q (151484 . 3)) ((c def c (c (? . 2) q current-thread-initial-stack-size)) q (376572 . 4)) ((c def c (c (? . 2) q procedure-struct-type?)) q (129312 . 3)) ((c def c (c (? . 2) q handle-evt)) q (208939 . 4)) ((c def c (c (? . 3) q set->stream)) q (123328 . 3)) ((c def c (c (? . 2) q make-will-executor)) q (379819 . 2)) ((c def c (c (? . 25) q exn:fail:contract:blame-object)) c (? . 54)) ((c def c (c (? . 2) q current-error-port)) q (243128 . 4)) ((c form c (c (? . 76) q trait-alias)) q (147331 . 2)) ((c def c (c (? . 27) q channel-try-get)) q (209857 . 3)) ((c def c (c (? . 40) q sequence-length)) q (107737 . 3)) ((c def c (c (? . 2) q port-next-location)) q (244335 . 6)) ((c def c (c (? . 2) q set-box!)) q (98116 . 4)) ((c def c (c (? . 37) q udp-receive!-evt)) q (360399 . 9)) ((c def c (c (? . 2) q /)) q (19963 . 6)) ((c def c (c (? . 7) q unsafe-fltan)) q (383575 . 3)) ((c def c (c (? . 10) q peek-string!-evt)) c (? . 72)) ((c def c (c (? . 59) q is-a?/c)) q (151398 . 3)) ((c def c (c (? . 2) q namespace?)) q (294984 . 3)) ((c def c (c (? . 2) q eval)) q (300016 . 4)) ((c def c (c (? . 26) q fx*)) q (32122 . 4)) ((c def c (c (? . 2) q date-hour)) c (? . 14)) ((c form c (c (? . 16) q unit/new-import-export)) q (158655 . 6)) ((c form c (c (? . 6) q class-field-mutator)) q (145845 . 2)) ((c def c (c (? . 0) q procedure->method)) q (127241 . 3)) ((c def c (c (? . 2) q namespace-variable-value)) q (295927 . 9)) ((c def c (c (? . 18) q convert-relative-module-path)) q (235122 . 10)) ((c form c (c (? . 47) q set!-values)) q (13072 . 2)) ((c def c (c (? . 2) q write-string)) q (277234 . 7)) ((c def c (c (? . 2) q hash-set!)) q (100092 . 5)) ((c form c (c (? . 0) q for*/fold)) q (15478 . 3)) ((c def c (c (? . 24) q stream-filter)) q (110355 . 4)) ((c def c (c (? . 21) q conjugate)) q (27612 . 3)) ((c def c (c (? . 2) q exact?)) q (19377 . 3)) ((c def c (c (? . 0) q exn:fail:network)) c (? . 102)) ((c def c (c (? . 2) q write-special-avail*)) q (279101 . 4)) ((c def c (c (? . 27) q port?)) q (242592 . 3)) ((c def c (c (? . 7) q unsafe-flceiling)) q (383330 . 3)) ((c def c (c (? . 53) q struct:struct-info)) q (138071 . 2)) ((c def c (c (? . 2) q =)) q (21329 . 4)) ((c def c (c (? . 2) q module-provide-protected?)) q (298560 . 5)) ((c def c (c (? . 45) q current-syntax-context)) q (241082 . 4)) ((c def c (c (? . 44) q touch)) q (213628 . 3)) ((c form c (c (? . 2) q quote-syntax)) q (16735 . 2)) ((c def c (c (? . 5) q extfl+)) q (35130 . 4)) ((c def c (c (? . 0) q exn:fail:contract:continuation)) c (? . 69)) ((c form c (c (? . 6) q class/c)) q (147474 . 27)) ((c form c (c (? . 91) q untrace)) q (393575 . 2)) ((c def c (c (? . 109) q make-parameter-rename-transformer)) q (238107 . 3)) ((c def c (c (? . 2) q make-struct-type)) q (132536 . 31)) ((c def c (c (? . 8) q split-at-right)) q (90496 . 4)) ((c def c (c (? . 2) q syntax-original?)) q (220435 . 3)) ((c form c (c (? . 0) q rename-in)) q (4351 . 2)) ((c form c (c (? . 6) q new)) q (144208 . 2)) ((c def c (c (? . 2) q thread/suspend-to-kill)) q (206896 . 3)) ((c def c (c (? . 2) q current-write-relative-directory)) q (285469 . 11)) ((c form c (c (? . 6) q overment)) q (141709 . 2)) ((c def c (c (? . 9) q make-lock-file-name)) q (352202 . 6)) ((c def c (c (? . 2) q thread)) q (206741 . 3)) ((c def c (c (? . 4) q get-error-output)) c (? . 103)) ((c def c (c (? . 7) q unsafe-fl/)) q (382514 . 4)) ((c def c (c (? . 2) q make-weak-hasheq)) q (99587 . 3)) ((c def c (c (? . 10) q port->bytes-lines)) q (255382 . 6)) ((c def c (c (? . 3) q set-union)) q (123705 . 4)) ((c def c (c (? . 26) q fxrshift)) q (32825 . 4)) ((c def c (c (? . 2) q file-truncate)) q (244056 . 4)) ((c def c (c (? . 2) q port-print-handler)) q (286415 . 7)) ((c form c (c (? . 16) q except)) q (156033 . 2)) ((c def c (c (? . 10) q port->lines)) q (255155 . 5)) ((c def c (c (? . 2) q read-square-bracket-as-paren)) q (281135 . 4)) ((c def c (c (? . 2) q system-library-subpath)) q (376181 . 3)) ((c def c (c (? . 34) q tcp-close)) q (354122 . 3)) ((c def c (c (? . 8) q take-right)) q (90294 . 4)) ((c form c (c (? . 43) q splicing-let-syntaxes)) q (238350 . 2)) ((c def c (c (? . 2) q syntax-tainted?)) q (238971 . 3)) ((c def c (c (? . 2) q real->single-flonum)) q (19609 . 3)) ((c def c (c (? . 2) q namespace-module-identifier)) q (295774 . 4)) ((c form c (c (? . 43) q splicing-let-syntax)) q (238293 . 2)) ((c def c (c (? . 2) q string->immutable-string)) q (39927 . 3)) ((c def c (c (? . 2) q even?)) q (19270 . 3)) ((c def c (c (? . 2) q prop:custom-write)) q (292392 . 2)) ((c form c (c (? . 6) q define-serializable-class*)) q (151680 . 4)) ((c def c (c (? . 7) q unsafe-extflcos)) q (389866 . 3)) ((c def c (c (? . 2) q subbytes)) q (55677 . 5)) ((c def c (c (? . 2) q char-downcase)) q (64463 . 3)) ((c def c (c (? . 2) q make-input-port)) q (249908 . 49)) ((c def c (c (? . 2) q caaar)) q (86609 . 3)) ((c def c (c (? . 104) q ~.s)) q (53839 . 23)) ((c def c (c (? . 38) q procedure-arity-includes/c)) q (164809 . 3)) ((c def c (c (? . 2) q exn:break?)) c (? . 68)) ((c def c (c (? . 2) q will-register)) q (379930 . 5)) ((c def c (c (? . 7) q unsafe-cons-list)) q (385019 . 4)) ((c def c (c (? . 47) q hash-update!)) q (101076 . 11)) ((c def c (c (? . 29) q provide-transformer?)) q (236714 . 3)) ((c form c (c (? . 6) q inherit/super)) q (141998 . 2)) ((c def c (c (? . 2) q abs)) q (20513 . 3)) ((c def c (c (? . 7) q unsafe-fl->fx)) q (384465 . 3)) ((c def c (c (? . 49) q coerce-flat-contracts)) q (176313 . 4)) ((c form c (c (? . 35) q else)) q (11714 . 2)) ((c def c (c (? . 40) q sequence-tail)) q (107917 . 4)) ((c form c (c (? . 120) q define-provide-syntax)) q (12681 . 3)) ((c def c (c (? . 28) q pretty-display)) q (287200 . 4)) ((c def c (c (? . 11) q flvector-length)) q (30699 . 3)) ((c def c (c (? . 2) q exn:fail:filesystem:errno-errno)) c (? . 105)) ((c def c (c (? . 2) q thread-group?)) q (323934 . 3)) ((c def c (c (? . 0) q make-exn:fail:syntax:missing-module)) c (? . 83)) ((c def c (c (? . 2) q prop:exn:srclocs)) q (197942 . 2)) ((c def c (c (? . 4) q call-in-sandbox-context)) q (334111 . 7)) ((c def c (c (? . 2) q open-output-bytes)) q (248934 . 3)) ((c def c (c (? . 2) q expand)) q (239588 . 3)) ((c def c (c (? . 29) q pre-expand-export)) q (235826 . 4)) ((c def c (c (? . 2) q string?)) q (39698 . 3)) ((c def c (c (? . 2) q pregexp)) q (65588 . 3)) ((c form c (c (? . 0) q for/or)) q (14131 . 2)) ((c def c (c (? . 7) q unsafe-fxxor)) q (381418 . 4)) ((c def c (c (? . 6) q object-interface)) q (152533 . 3)) ((c def c (c (? . 0) q exn:fail:syntax:unbound)) c (? . 106)) ((c def c (c (? . 47) q current-break-parameterization)) q (206166 . 2)) ((c def c (c (? . 2) q print-as-expression)) q (285171 . 4)) ((c def c (c (? . 2) q null)) q (83075 . 2)) ((c def c (c (? . 2) q char-ci>=?)) q (63297 . 4)) ((c def c (c (? . 2) q current-load/use-compiled)) q (301367 . 13)) ((c form c (c (? . 12) q match-lambda)) q (187078 . 2)) ((c def c (c (? . 0) q make-exn:fail:filesystem:missing-module)) c (? . 39)) ((c def c (c (? . 7) q unsafe-bytes-ref)) q (386860 . 4)) ((c form c (c (? . 3) q for*/weak-seteqv)) q (121993 . 2)) ((c def c (c (? . 2) q struct:exn:break:hang-up)) c (? . 100)) ((c def c (c (? . 2) q regexp-match-positions)) q (68743 . 19)) ((c def c (c (? . 2) q chaperone-continuation-mark-key)) q (320743 . 13)) ((c def c (c (? . 2) q char-numeric?)) q (63666 . 3)) ((c def c (c (? . 2) q thread-wait)) q (207670 . 3)) ((c def c (c (? . 62) q true)) q (17949 . 2)) ((c def c (c (? . 25) q exn:fail:contract:blame)) c (? . 54)) ((c def c (c (? . 2) q syntax-local-get-shadower)) q (231705 . 3)) ((c def c (c (? . 2) q make-immutable-hasheq)) q (99965 . 4)) ((c def c (c (? . 53) q checked-struct-info?)) q (137810 . 3)) ((c def c (c (? . 24) q prop:stream)) q (110566 . 2)) ((c def c (c (? . 8) q filter-map)) q (91899 . 4)) ((c def c (c (? . 0) q in-values*-sequence)) q (106576 . 3)) ((c def c (c (? . 10) q transplant-input-port)) q (263111 . 17)) ((c def c (c (? . 10) q read-line-evt)) q (266872 . 4)) ((c def c (c (? . 2) q logger?)) q (369078 . 3)) ((c def c (c (? . 22) q place-message-allowed?)) q (216407 . 3)) ((c def c (c (? . 53) q extract-struct-info)) q (137979 . 3)) ((c form c (c (? . 47) q time)) q (372485 . 2)) ((c def c (c (? . 0) q regexp-match*)) q (66948 . 20)) ((c def c (c (? . 2) q port-read-handler)) q (282942 . 10)) ((c def c (c (? . 6) q instanceof/c)) q (149039 . 3)) ((c def c (c (? . 46) q make-deserialize-info)) q (294135 . 4)) ((c def c (c (? . 4) q sandbox-input)) q (327371 . 12)) ((c def c (c (? . 0) q with-output-to-file)) q (247923 . 11)) ((c form c (c (? . 12) q match)) q (186107 . 6)) ((c def c (c (? . 7) q unsafe-flimag-part)) q (384304 . 3)) ((c form c (c (? . 0) q lib)) q (4746 . 2)) ((c def c (c (? . 9) q delete-directory/files)) q (347309 . 5)) ((c def c (c (? . 41) q sort)) q (85060 . 9)) ((c def c (c (? . 2) q keyword->string)) q (82555 . 3)) ((c def c (c (? . 2) q log-message)) q (369545 . 7)) ((c def c (c (? . 2) q regexp-match)) q (66140 . 17)) ((c def c (c (? . 2) q real-part)) q (22599 . 3)) ((c def c (c (? . 104) q ~v)) q (46895 . 23)) ((c def c (c (? . 2) q executable-yield-handler)) q (206600 . 4)) ((c form c (c (? . 35) q and)) q (11736 . 2)) ((c def c (c (? . 2) q cons)) q (82917 . 4)) ((c def c (c (? . 2) q resolved-module-path-name)) q (304577 . 8)) ((c def c (c (? . 2) q continuation?)) q (201624 . 3)) ((c form c (c (? . 6) q super-new)) q (144433 . 2)) ((c def c (c (? . 2) q char-iso-control?)) q (64062 . 3)) ((q form ((lib "racket/local.rkt") local)) q (11311 . 2)) ((c def c (c (? . 7) q unsafe-u16vector-set!)) q (387921 . 5)) ((c def c (c (? . 2) q read-accept-bar-quote)) q (281567 . 4)) ((c def c (c (? . 40) q sequence-ref)) q (107820 . 4)) ((c def c (c (? . 2) q flush-output)) q (243457 . 3)) ((c def c (c (? . 2) q make-pseudo-random-generator)) q (24104 . 2)) ((c def c (c (? . 2) q special-comment-value)) q (292284 . 3)) ((c def c (c (? . 7) q unsafe-extfl->fx)) q (390573 . 3)) ((c form c (c (? . 67) q define-serializable-struct/versions)) q (293859 . 4)) ((c form c (c (? . 107) q quasisyntax/loc)) q (219520 . 2)) ((c def c (c (? . 2) q peek-bytes-avail!*)) q (273668 . 14)) ((c def c (c (? . 2) q inexact?)) q (19431 . 3)) ((c form c (c (? . 50) q case->)) q (169737 . 9)) ((c def c (c (? . 0) q exn:fail:read:eof)) c (? . 17)) ((c def c (c (? . 0) q call-with-output-file)) q (246336 . 11)) ((c def c (c (? . 2) q read-byte)) q (268983 . 3)) ((c def c (c (? . 3) q set)) q (119330 . 3)) ((c def c (c (? . 2) q impersonator?)) q (310532 . 3)) ((c form c (c (? . 50) q ->*)) q (166142 . 24)) ((c def c (c (? . 37) q udp-send-ready-evt)) q (359444 . 3)) ((c def c (c (? . 2) q syntax-local-module-exports)) q (231309 . 7)) ((c def c (c (? . 50) q predicate/c)) q (169972 . 2)) ((c def c (c (? . 38) q continuation-mark-key/c)) q (165498 . 3)) ((c def c (c (? . 2) q port-writes-special?)) q (279798 . 3)) ((c def c (c (? . 30) q vector-argmax)) q (97486 . 4)) ((c def c (c (? . 7) q unsafe-fxior)) q (381338 . 4)) ((c form c (c (? . 43) q splicing-letrec-syntaxes)) q (238379 . 2)) ((c def c (c (? . 2) q ephemeron?)) q (379763 . 3)) ((c def c (c (? . 2) q eqv?)) q (17531 . 4)) ((c def c (c (? . 2) q box-cas!)) q (98219 . 5)) ((c def c (c (? . 2) q build-path/convention-type)) q (336461 . 9)) ((c def c (c (? . 2) q date-minute)) c (? . 14)) ((c def c (c (? . 2) q print-pair-curly-braces)) q (284173 . 4)) ((c def c (c (? . 2) q exn:fail:network:errno?)) c (? . 55)) ((c def c (c (? . 2) q integer-bytes->integer)) q (25330 . 11)) ((c def c (c (? . 1) q dict-count)) q (114053 . 3)) ((c def c (c (? . 28) q pretty-print-abbreviate-read-macros)) q (288262 . 4)) ((c form c (c (? . 6) q define/override)) q (142773 . 3)) ((c def c (c (? . 18) q import-source-mode)) c (? . 85)) ((c form c (c (? . 16) q invoke-unit/infer)) q (158219 . 5)) ((c form c (c (? . 6) q define/private)) q (143283 . 3)) ((c def c (c (? . 2) q string->uninterned-symbol)) q (64971 . 3)) ((c def c (c (? . 4) q put-input)) q (333389 . 6)) ((c def c (c (? . 9) q other-read-bit)) q (352622 . 2)) ((c def c (c (? . 30) q vector-split-at-right)) q (96766 . 4)) ((c def c (c (? . 41) q filter)) q (84440 . 4)) ((c def c (c (? . 2) q char?)) q (62058 . 3)) ((c def c (c (? . 2) q exn:break:hang-up?)) c (? . 100)) ((c def c (c (? . 2) q syntax?)) q (219893 . 3)) ((c def c (c (? . 2) q system-path-convention-type)) q (336087 . 2)) ((c def c (c (? . 104) q ~.v)) q (52685 . 23)) ((c def c (c (? . 7) q unsafe-extfltruncate)) q (389725 . 3)) ((c def c (c (? . 27) q path-add-suffix)) q (338657 . 4)) ((c form c (c (? . 2) q define-syntaxes)) q (12325 . 2)) ((c def c (c (? . 2) q namespace-require/expansion-time)) q (297292 . 4)) ((c def c (c (? . 93) q system)) q (364587 . 4)) ((c def c (c (? . 2) q exn:fail:contract:arity?)) c (? . 84)) ((c def c (c (? . 2) q custodian-require-memory)) q (323058 . 7)) ((c def c (c (? . 2) q modulo)) q (20334 . 4)) ((c def c (c (? . 6) q object-method-arity-includes?)) q (153163 . 7)) ((c form c (c (? . 73) q subtract-in)) q (9128 . 2)) ((c def c (c (? . 1) q dict-can-remove-keys?)) q (111394 . 3)) ((c def c (c (? . 28) q pretty-format)) q (287317 . 4)) ((c def c (c (? . 2) q prop:output-port)) q (249859 . 2)) ((c def c (c (? . 7) q unsafe-vector-length)) q (385815 . 3)) ((c def c (c (? . 47) q hash-update)) q (101493 . 9)) ((c form c (c (? . 47) q parameterize-break)) q (206112 . 2)) ((c def c (c (? . 2) q always-evt)) q (209276 . 2)) ((c def c (c (? . 9) q pathlist-closure)) q (347798 . 6)) ((c def c (c (? . 7) q unsafe-extflround)) q (389513 . 3)) ((c def c (c (? . 2) q thread-resume-evt)) q (207793 . 3)) ((c def c (c (? . 2) q vector-length)) q (94341 . 3)) ((c def c (c (? . 2) q print)) q (283531 . 5)) ((c def c (c (? . 2) q custom-write?)) q (292442 . 3)) ((c form c (c (? . 23) q in-generator)) q (110797 . 5)) ((c def c (c (? . 2) q make-weak-hasheqv)) q (99464 . 3)) ((c def c (c (? . 18) q import-req-mode)) c (? . 19)) ((c def c (c (? . 2) q will-executor?)) q (379870 . 3)) ((c def c (c (? . 2) q string)) q (39865 . 3)) ((c def c (c (? . 28) q pretty-print-style-table?)) q (288404 . 3)) ((c def c (c (? . 10) q read-bytes-evt)) q (266233 . 4)) ((c def c (c (? . 8) q empty)) q (88865 . 2)) ((c def c (c (? . 2) q path->directory-path)) q (337441 . 3)) ((c def c (c (? . 4) q get-user-custodian)) q (332795 . 3)) ((c def c (c (? . 2) q version)) q (376293 . 2)) ((c form c (c (? . 67) q serializable-struct/versions)) q (293492 . 7)) ((c form c (c (? . 6) q set-field!)) q (145592 . 2)) ((c def c (c (? . 2) q denominator)) q (21179 . 3)) ((c def c (c (? . 46) q serialize)) q (292857 . 3)) ((c def c (c (? . 2) q cdaaar)) q (88065 . 3)) ((c def c (c (? . 0) q make-exn:fail:syntax)) c (? . 108)) ((c def c (c (? . 2) q current-command-line-arguments)) q (376400 . 4)) ((c def c (c (? . 2) q string-normalize-nfc)) q (42908 . 3)) ((c def c (c (? . 1) q dict-set!)) q (111782 . 5)) ((c def c (c (? . 2) q exn:srclocs-accessor)) q (198049 . 4)) ((c def c (c (? . 8) q splitf-at-right)) q (90784 . 4)) ((c def c (c (? . 2) q pair?)) q (82815 . 3)) ((c def c (c (? . 22) q place-channel-put)) q (216113 . 4)) ((c def c (c (? . 2) q custodian-box-value)) q (323750 . 3)) ((c def c (c (? . 7) q unsafe-fx<=)) q (381960 . 4)) ((c form c (c (? . 16) q compound-unit/infer)) q (157067 . 18)) ((c def c (c (? . 8) q splitf-at)) q (90201 . 4)) ((c def c (c (? . 1) q dict-set*!)) q (112710 . 5)) ((c def c (c (? . 2) q bytes-convert-end)) q (61220 . 13)) ((c def c (c (? . 3) q proper-subset?)) q (124759 . 4)) ((c def c (c (? . 5) q extflonum?)) q (35027 . 3)) ((c def c (c (? . 2) q pseudo-random-generator->vector)) q (24416 . 4)) ((c form c (c (? . 6) q instantiate)) q (144258 . 2)) ((c def c (c (? . 49) q contract-first-order)) q (183841 . 3)) ((c form c (c (? . 16) q link)) q (156215 . 2)) ((c def c (c (? . 48) q async-channel-put)) q (211775 . 4)) ((c def c (c (? . 97) q chaperone-contract-property?)) q (183212 . 3)) ((c def c (c (? . 37) q udp-multicast-ttl)) q (362177 . 3)) ((c def c (c (? . 2) q read-bytes!)) q (270156 . 7)) ((c def c (c (? . 109) q syntax-parameter-value)) q (238032 . 3)) ((c def c (c (? . 2) q exn:fail:syntax:unbound?)) c (? . 106)) ((c def c (c (? . 0) q exn:fail:filesystem:errno)) c (? . 105)) ((c def c (c (? . 2) q keyword?)) q (82501 . 3)) ((c def c (c (? . 42) q promise?)) q (198836 . 3)) ((c form c (c (? . 12) q match-lambda*)) q (187113 . 2)) ((c def c (c (? . 52) q exn:fail:support)) c (? . 74)) ((c def c (c (? . 47) q hash-ref!)) q (100880 . 5)) ((c def c (c (? . 97) q prop:contract)) q (178215 . 2)) ((c def c (c (? . 1) q dict-can-functional-set?)) q (111461 . 3)) ((c def c (c (? . 2) q exact-nonnegative-integer?)) q (18681 . 3)) ((c def c (c (? . 0) q make-exn:fail:filesystem:exists)) c (? . 82)) ((c def c (c (? . 11) q fl+)) q (28300 . 4)) ((c def c (c (? . 9) q file->bytes-lines)) q (345051 . 8)) ((c form c (c (? . 6) q define/public-final)) q (142683 . 3)) ((c form c (c (? . 107) q quasisyntax)) q (219392 . 2)) ((c def c (c (? . 37) q udp-send*)) q (356712 . 6)) ((c def c (c (? . 32) q generate-temporaries)) q (222009 . 3)) ((c form c (c (? . 0) q for/fold/derived)) q (15575 . 4)) ((c form c (c (? . 110) q opt/c)) q (184612 . 5)) ((c form c (c (? . 0) q local-require)) q (5062 . 2)) ((c def c (c (? . 40) q sequence-fold)) q (108487 . 5)) ((c def c (c (? . 8) q permutations)) q (92594 . 3)) ((c def c (c (? . 0) q in-mlist)) q (104069 . 3)) ((c def c (c (? . 2) q read-accept-infix-dot)) q (281975 . 4)) ((c def c (c (? . 22) q place-channel-get)) q (216221 . 3)) ((c def c (c (? . 38) q contract-name)) q (184172 . 3)) ((c def c (c (? . 28) q pretty-print-exact-as-decimal)) q (287866 . 4)) ((c def c (c (? . 2) q equal-secondary-hash-code)) q (103623 . 3)) ((c def c (c (? . 7) q unsafe-f64vector-set!)) q (387446 . 5)) ((c def c (c (? . 25) q blame-negative)) q (176973 . 3)) ((c def c (c (? . 2) q char-punctuation?)) q (63797 . 3)) ((c def c (c (? . 93) q process/ports)) q (367238 . 11)) ((c def c (c (? . 113) q box-immutable/c)) q (163306 . 3)) ((c def c (c (? . 2) q quotient/remainder)) q (20235 . 4)) ((c form c (c (? . 22) q place)) q (215538 . 2)) ((c def c (c (? . 24) q stream-map)) q (109757 . 4)) ((c def c (c (? . 30) q vector-map!)) q (96044 . 4)) ((c def c (c (? . 2) q thread-dead?)) q (207611 . 3)) ((c def c (c (? . 32) q syntax-protect)) q (239202 . 3)) ((c def c (c (? . 21) q cosh)) q (27719 . 3)) ((c def c (c (? . 44) q processor-count)) q (213896 . 2)) ((c def c (c (? . 2) q error-value->string-handler)) q (193080 . 9)) ((c def c (c (? . 2) q vector-fill!)) q (94898 . 4)) ((c def c (c (? . 11) q make-shared-flvector)) q (31855 . 4)) ((c def c (c (? . 111) q syntax-local-require-introduce)) q (12600 . 3)) ((c def c (c (? . 2) q compile)) q (303337 . 3)) ((c def c (c (? . 2) q port-writes-atomic?)) q (279722 . 3)) ((c form c (c (? . 15) q reset-at)) q (202972 . 2)) ((c form c (c (? . 4) q with-limits)) q (334585 . 2)) ((c def c (c (? . 2) q bytes-utf-8-index)) q (59712 . 11)) ((c def c (c (? . 2) q format)) q (284090 . 4)) ((c def c (c (? . 46) q make-serialize-info)) q (294311 . 12)) ((c def c (c (? . 5) q extflround)) q (36100 . 3)) ((c def c (c (? . 7) q unsafe-struct-ref)) q (388051 . 4)) ((c def c (c (? . 2) q current-evt-pseudo-random-generator)) q (209525 . 5)) ((c def c (c (? . 3) q set->list)) q (124858 . 3)) ((c def c (c (? . 25) q blame-original?)) q (177257 . 3)) ((c def c (c (? . 2) q list-tail)) q (83585 . 4)) ((c def c (c (? . 11) q flexpt)) q (29837 . 4)) ((c def c (c (? . 29) q prop:provide-transformer)) q (236596 . 2)) ((c def c (c (? . 2) q string-locale<?)) q (43165 . 4)) ((c def c (c (? . 29) q export-local-id)) c (? . 63)) ((c def c (c (? . 26) q fx>=)) q (33190 . 4)) ((c form c (c (? . 6) q private)) q (141908 . 2)) ((c def c (c (? . 3) q list->seteq)) q (120357 . 3)) ((c def c (c (? . 2) q string->unreadable-symbol)) q (65047 . 3)) ((c form c (c (? . 2) q unquote)) q (16696 . 2)) ((c def c (c (? . 2) q thread-dead-evt)) q (207730 . 3)) ((c form c (c (? . 2) q #%declare)) q (1923 . 4)) ((c def c (c (? . 2) q write-bytes-avail*)) q (278180 . 10)) ((c def c (c (? . 2) q continuation-mark-key?)) q (205782 . 3)) ((c def c (c (? . 2) q exn:srclocs?)) q (197991 . 3)) ((c def c (c (? . 2) q read-accept-compiled)) q (281463 . 4)) ((c def c (c (? . 2) q make-environment-variables)) q (374563 . 5)) ((c form c (c (? . 35) q let*)) q (10601 . 2)) ((c def c (c (? . 2) q string-utf-8-length)) q (58937 . 5)) ((c def c (c (? . 2) q placeholder-get)) q (93212 . 3)) ((c form c (c (? . 112) q recursive-contract)) q (184527 . 3)) ((c def c (c (? . 37) q udp-close)) q (359175 . 3)) ((c def c (c (? . 2) q pseudo-random-generator-vector?)) q (24879 . 3)) ((c form c (c (? . 16) q import)) q (156139 . 2)) ((c form c (c (? . 6) q init-field)) q (141410 . 2)) ((c def c (c (? . 2) q print-syntax-width)) q (285273 . 5)) ((c def c (c (? . 1) q dict-update)) q (113497 . 8)) ((c def c (c (? . 2) q struct-info)) q (324503 . 3)) ((c def c (c (? . 11) q fl<)) q (28708 . 4)) ((c def c (c (? . 2) q current-input-port)) q (242908 . 4)) ((c def c (c (? . 1) q dict-copy)) q (114133 . 3)) ((c def c (c (? . 2) q procedure-closure-contents-eq?)) q (127317 . 5)) ((c def c (c (? . 2) q struct:exn:fail:read)) c (? . 71)) ((c def c (c (? . 2) q raise-range-error)) q (190159 . 17)) ((c def c (c (? . 2) q caadr)) q (86691 . 3)) ((c def c (c (? . 2) q namespace-require/constant)) q (297179 . 3)) ((c def c (c (? . 2) q module-declared?)) q (309565 . 5)) ((c def c (c (? . 45) q current-recorded-disappeared-uses)) q (241353 . 5)) ((c form c (c (? . 76) q trait)) q (146273 . 18)) ((c def c (c (? . 9) q write-to-file)) q (345884 . 11)) ((c def c (c (? . 7) q unsafe-flround)) q (383208 . 3)) ((c def c (c (? . 7) q unsafe-fx>=)) q (382040 . 4)) ((c def c (c (? . 2) q struct-type-property?)) q (135111 . 3)) ((c def c (c (? . 11) q flimag-part)) q (30257 . 3)) ((c def c (c (? . 4) q sandbox-override-collection-paths)) q (329540 . 4)) ((c form c (c (? . 47) q log-info)) q (370277 . 3)) ((c def c (c (? . 26) q fx+)) q (31980 . 4)) ((c def c (c (? . 2) q round)) q (20783 . 3)) ((c def c (c (? . 2) q caddar)) q (87865 . 3)) ((c def c (c (? . 7) q unsafe-struct*-set!)) q (388336 . 5)) ((c def c (c (? . 4) q kill-evaluator)) q (332618 . 3)) ((c def c (c (? . 2) q eq-hash-code)) q (103448 . 3)) ((c def c (c (? . 38) q list/c)) q (163592 . 3)) ((c def c (c (? . 18) q import-source?)) c (? . 85)) ((c def c (c (? . 11) q flvector-set!)) q (30895 . 5)) ((c def c (c (? . 2) q rename-file-or-directory)) q (341164 . 7)) ((c def c (c (? . 2) q add1)) q (20411 . 3)) ((c form c (c (? . 0) q for*)) q (14618 . 2)) ((c def c (c (? . 7) q unsafe-flexp)) q (383873 . 3)) ((c def c (c (? . 5) q extfllog)) q (36726 . 3)) ((c form c (c (? . 6) q rename-inner)) q (142120 . 2)) ((c def c (c (? . 2) q syntax-local-name)) q (231097 . 2)) ((c def c (c (? . 9) q make-handle-get-preference-locked)) q (350660 . 16)) ((c def c (c (? . 2) q custom-write-accessor)) q (292501 . 4)) ((c form c (c (? . 12) q match/values)) q (186462 . 2)) ((c def c (c (? . 2) q syntax->datum)) q (220805 . 3)) ((c def c (c (? . 2) q call/ec)) q (201190 . 3)) ((c def c (c (? . 2) q struct:exn)) c (? . 61)) ((c def c (c (? . 92) q new-∃/c)) q (170211 . 3)) ((c def c (c (? . 1) q dict-has-key?)) q (112622 . 4)) ((c def c (c (? . 0) q make-date*)) c (? . 20)) ((c form c (c (? . 32) q _)) q (219814 . 2)) ((c def c (c (? . 2) q will-try-execute)) q (380144 . 3)) ((c def c (c (? . 7) q unsafe-struct*-ref)) q (388237 . 4)) ((c form c (c (? . 6) q augment)) q (141791 . 2)) ((c form c (c (? . 16) q define-unit-binding)) q (158073 . 6)) ((c def c (c (? . 2) q read-language)) q (280848 . 4)) ((c def c (c (? . 0) q apply)) q (126850 . 6)) ((c def c (c (? . 49) q coerce-chaperone-contract)) q (175987 . 4)) ((c def c (c (? . 25) q blame-replace-negative)) q (177380 . 4)) ((c def c (c (? . 3) q mutable-set)) q (119585 . 4)) ((c def c (c (? . 34) q tcp-connect/enable-break)) q (353434 . 10)) ((c def c (c (? . 2) q prop:liberal-define-context)) q (233143 . 2)) ((c def c (c (? . 2) q struct:exn:fail:syntax)) c (? . 108)) ((c def c (c (? . 2) q raise)) q (188523 . 4)) ((c def c (c (? . 2) q exn:fail:contract:variable-id)) c (? . 80)) ((c def c (c (? . 2) q read-bytes-avail!/enable-break)) q (271164 . 10)) ((c def c (c (? . 0) q make-exn:fail:read:non-char)) c (? . 117)) ((c form c (c (? . 52) q define/generic)) q (136165 . 5)) ((c def c (c (? . 1) q dict-remove)) q (112167 . 4)) ((c form c (c (? . 0) q define-syntax)) q (12250 . 3)) ((c def c (c (? . 8) q dropf)) q (90119 . 4)) ((c def c (c (? . 2) q list-ref)) q (83486 . 4)) ((c def c (c (? . 26) q in-fxvector)) q (34266 . 6)) ((c def c (c (? . 2) q string->number)) q (25068 . 4)) ((c def c (c (? . 6) q equal<%>)) q (151646 . 2)) ((c form c (c (? . 76) q trait-rename)) q (147376 . 2)) ((c def c (c (? . 2) q exact-positive-integer?)) q (18753 . 3)) ((c def c (c (? . 2) q environment-variables-set!)) q (374909 . 10)) ((c def c (c (? . 10) q regexp-match-evt)) q (268361 . 4)) ((c def c (c (? . 2) q absolute-path?)) q (336909 . 3)) ((c form c (c (? . 32) q quote-syntax/prune)) q (219565 . 2)) ((c def c (c (? . 34) q tcp-listener?)) q (354196 . 3)) ((c def c (c (? . 10) q call-with-input-bytes)) q (256388 . 4)) ((c def c (c (? . 22) q prop:place-location)) q (216475 . 2)) ((c form c (c (? . 0) q provide)) q (5104 . 20)) ((c def c (c (? . 6) q implementation?)) q (152785 . 4)) ((c form c (c (? . 6) q case->m)) q (148539 . 2)) ((c def c (c (? . 2) q struct:exn:fail:filesystem:errno)) c (? . 105)) ((c def c (c (? . 26) q fxior)) q (32551 . 4)) ((c def c (c (? . 2) q make-thread-cell)) q (212020 . 4)) ((c def c (c (? . 2) q syntax-taint)) q (239525 . 3)) ((c def c (c (? . 57) q normalized-arity?)) q (130703 . 3)) ((c def c (c (? . 2) q vector->pseudo-random-generator!)) q (24674 . 5)) ((c def c (c (? . 104) q ~e)) q (49181 . 23)) ((c def c (c (? . 3) q seteqv)) q (119415 . 3)) ((c def c (c (? . 4) q sandbox-propagate-breaks)) q (328850 . 4)) ((c def c (c (? . 24) q stream->list)) q (109365 . 3)) ((c def c (c (? . 2) q channel-put-evt)) q (209996 . 4)) ((c def c (c (? . 2) q impersonator-ephemeron)) q (310814 . 3)) ((c def c (c (? . 2) q struct:exn:fail:contract:arity)) c (? . 84)) ((c def c (c (? . 37) q udp-multicast-set-loopback!)) q (361825 . 5)) ((c def c (c (? . 2) q expand-syntax-to-top-form)) q (239969 . 3)) ((c def c (c (? . 2) q print-graph)) q (284491 . 4)) ((c def c (c (? . 2) q bytes-close-converter)) q (60288 . 3)) ((c def c (c (? . 2) q string-locale=?)) q (43063 . 4)) ((c def c (c (? . 2) q char-upcase)) q (64403 . 3)) ((c form c (c (? . 15) q shift0-at)) q (203352 . 2)) ((c def c (c (? . 5) q extflcos)) q (36418 . 3)) ((c def c (c (? . 2) q namespace-syntax-introduce)) q (298483 . 3)) ((c def c (c (? . 2) q read-byte-or-special)) q (275130 . 3)) ((c def c (c (? . 7) q unsafe-flacos)) q (383694 . 3)) ((c def c (c (? . 5) q extfl->floating-point-bytes)) q (39265 . 10)) ((c def c (c (? . 4) q sandbox-eval-limits)) q (331123 . 8)) ((c def c (c (? . 2) q raise-argument-error)) q (189074 . 13)) ((c def c (c (? . 2) q current-seconds)) q (370692 . 2)) ((c def c (c (? . 38) q symbols)) q (162280 . 3)) ((c def c (c (? . 5) q extflmin)) q (35930 . 4)) ((c form c (c (? . 6) q define/augment)) q (143031 . 3)) ((c form c (c (? . 3) q for*/mutable-seteq)) q (121600 . 2)) ((c def c (c (? . 45) q generate-temporary)) q (241829 . 3)) ((c def c (c (? . 2) q read-curly-brace-as-paren)) q (281255 . 4)) ((c def c (c (? . 2) q peek-string!)) q (272053 . 12)) ((c def c (c (? . 49) q value-contract)) q (184232 . 3)) ((c def c (c (? . 38) q flat-named-contract)) q (160917 . 7)) ((c def c (c (? . 7) q unsafe-fxremainder)) q (381030 . 4)) ((c def c (c (? . 24) q in-stream)) q (109276 . 3)) ((c def c (c (? . 2) q continuation-mark-set->list)) q (204157 . 8)) ((c def c (c (? . 2) q parameterization?)) q (213502 . 3)) ((c def c (c (? . 0) q open-input-output-file)) q (245610 . 10)) ((c def c (c (? . 26) q make-shared-fxvector)) q (34904 . 4)) ((c def c (c (? . 2) q vector-ref)) q (94424 . 4)) ((c def c (c (? . 0) q in-cycle)) q (106364 . 3)) ((c def c (c (? . 2) q char-foldcase)) q (64588 . 3)) ((c def c (c (? . 53) q prop:struct-info)) q (138113 . 2)) ((c def c (c (? . 21) q pi.f)) q (27341 . 2)) ((c def c (c (? . 2) q variable-reference->namespace)) q (299038 . 3)) ((c def c (c (? . 29) q export-orig-stx)) c (? . 63)) ((c def c (c (? . 37) q udp-receive-ready-evt)) q (359521 . 3)) ((c def c (c (? . 41) q remove)) q (84523 . 5)) ((c def c (c (? . 2) q port-count-lines!)) q (244199 . 3)) ((c def c (c (? . 2) q exp)) q (21960 . 3)) ((c def c (c (? . 2) q remainder)) q (20155 . 4)) ((c form c (c (? . 35) q quasiquote)) q (16669 . 2)) ((c def c (c (? . 6) q make-exn:fail:object)) c (? . 58)) ((c def c (c (? . 27) q channel-put)) q (209918 . 4)) ((c def c (c (? . 2) q module-path?)) q (304916 . 3)) ((c form c (c (? . 6) q inherit-field)) q (141478 . 2)) ((c form c (c (? . 12) q ==)) q (188268 . 3)) ((c def c (c (? . 2) q bytes-fill!)) q (56339 . 4)) ((c def c (c (? . 42) q promise-forced?)) q (198989 . 3)) ((c def c (c (? . 2) q values)) q (188356 . 3)) ((c def c (c (? . 2) q make-phantom-bytes)) q (380479 . 3)) ((c def c (c (? . 3) q set-subtract)) q (124127 . 4)) ((c def c (c (? . 59) q subclass?/c)) q (151574 . 3)) ((c def c (c (? . 2) q hash-count)) q (102756 . 3)) ((c def c (c (? . 2) q environment-variables-names)) q (375344 . 4)) ((c def c (c (? . 2) q delete-directory)) q (343101 . 3)) ((c def c (c (? . 25) q current-blame-format)) q (178048 . 4)) ((c def c (c (? . 2) q namespace-require/copy)) q (297070 . 3)) ((c def c (c (? . 45) q wrong-syntax)) q (241225 . 5)) ((c def c (c (? . 2) q filesystem-change-evt?)) q (343379 . 3)) ((c def c (c (? . 0) q make-exn:fail:contract:non-fixnum-result)) c (? . 94)) ((c def c (c (? . 0) q exn:fail:network:errno)) c (? . 55)) ((c def c (c (? . 2) q make-syntax-delta-introducer)) q (232199 . 9)) ((c def c (c (? . 2) q hash-weak?)) q (98611 . 3)) ((c form c (c (? . 81) q include/reader)) q (240222 . 2)) ((c def c (c (? . 4) q call-with-deep-time-limit)) q (334636 . 4)) ((c def c (c (? . 2) q current-output-port)) q (243015 . 4)) ((c form c (c (? . 42) q delay)) q (198890 . 2)) ((c def c (c (? . 2) q make-struct-field-mutator)) q (134215 . 8)) ((c def c (c (? . 38) q parameter/c)) q (164709 . 4)) ((c def c (c (? . 2) q current-continuation-marks)) q (203978 . 5)) ((c def c (c (? . 2) q printf)) q (283927 . 4)) ((c def c (c (? . 2) q break-thread)) q (207361 . 4)) ((c def c (c (? . 12) q prop:match-expander)) q (187740 . 2)) ((c def c (c (? . 2) q bytes=?)) q (56827 . 4)) ((c def c (c (? . 2) q make-polar)) q (22501 . 4)) ((c def c (c (? . 0) q procedure-keywords)) q (128325 . 4)) ((c form c (c (? . 6) q super-instantiate)) q (144361 . 2)) ((c def c (c (? . 2) q internal-definition-context-seal)) q (229385 . 3)) ((c def c (c (? . 38) q flat-contract-predicate)) q (165886 . 3)) ((c def c (c (? . 2) q *)) q (19910 . 3)) ((c def c (c (? . 22) q place?)) q (214460 . 3)) ((c def c (c (? . 11) q flatan)) q (29627 . 3)) ((c form c (c (? . 23) q infinite-generator)) q (110757 . 2)) ((c def c (c (? . 0) q regexp-match-exact?)) q (71371 . 4)) ((c def c (c (? . 36) q julian/scalinger->string)) q (374166 . 3)) ((c form c (c (? . 5) q for/extflvector)) q (38383 . 2)) ((c def c (c (? . 2) q pseudo-random-generator?)) q (24175 . 3)) ((c def c (c (? . 7) q unsafe-extfl/)) q (388729 . 4)) ((c def c (c (? . 3) q list->seteqv)) q (120266 . 3)) ((c def c (c (? . 5) q extflvector-set!)) q (37794 . 5)) ((c def c (c (? . 29) q export)) c (? . 63)) ((c def c (c (? . 113) q box/c)) q (163056 . 7)) ((c def c (c (? . 8) q takef)) q (90037 . 4)) ((c def c (c (? . 2) q exit-handler)) q (206483 . 4)) ((c def c (c (? . 2) q compiled-expression?)) q (303506 . 3)) ((c def c (c (? . 0) q exn)) c (? . 61)) ((c def c (c (? . 49) q coerce-contract)) q (175794 . 4)) ((c def c (c (? . 46) q prop:serializable)) q (294273 . 2)) ((c def c (c (? . 2) q current-gc-milliseconds)) q (372222 . 2)) ((c def c (c (? . 2) q syntax-track-origin)) q (238767 . 7)) ((c def c (c (? . 2) q real?)) q (18461 . 3)) ((c def c (c (? . 2) q cadadr)) q (87765 . 3)) ((c def c (c (? . 57) q arity=?)) q (130909 . 4)) ((c def c (c (? . 0) q collection-path)) q (391645 . 8)) ((c form c (c (? . 12) q match-let)) q (187187 . 2)) ((c def c (c (? . 2) q pregexp?)) q (65360 . 3)) ((c form c (c (? . 15) q control0)) q (203135 . 2)) ((c def c (c (? . 2) q file-position*)) q (243960 . 3)) ((c def c (c (? . 2) q struct-type-make-predicate)) q (325004 . 3)) ((c def c (c (? . 40) q sequence->list)) q (107676 . 3)) ((c def c (c (? . 57) q const)) q (130252 . 3)) ((c def c (c (? . 3) q weak-seteqv)) q (119986 . 3)) ((c def c (c (? . 2) q char-whitespace?)) q (63931 . 3)) ((c def c (c (? . 8) q make-list)) q (89649 . 4)) ((c def c (c (? . 2) q expand-once)) q (239729 . 3)) ((c def c (c (? . 25) q blame-swap)) q (177202 . 3)) ((c form c (c (? . 0) q for*/vector)) q (14817 . 2)) ((c def c (c (? . 2) q mcons)) q (93687 . 4)) ((c def c (c (? . 2) q integer-sqrt)) q (21746 . 3)) ((c def c (c (? . 1) q dict-values)) q (114368 . 3)) ((c def c (c (? . 2) q current-compiled-file-roots)) q (302407 . 4)) ((c def c (c (? . 2) q global-port-print-handler)) q (286652 . 6)) ((c def c (c (? . 0) q make-exn:fail:syntax:unbound)) c (? . 106)) ((c def c (c (? . 7) q unsafe-s16vector-ref)) q (387561 . 4)) ((c def c (c (? . 9) q user-execute-bit)) q (352492 . 2)) ((c def c (c (? . 2) q list->vector)) q (94741 . 3)) ((c def c (c (? . 26) q fx>)) q (33045 . 4)) ((c def c (c (? . 93) q process)) q (366245 . 9)) ((c def c (c (? . 38) q contract-projection)) q (184360 . 3)) ((c def c (c (? . 48) q async-channel-put-evt)) q (211867 . 4)) ((c def c (c (? . 26) q fx<)) q (32973 . 4)) ((c form c (c (? . 6) q mixin)) q (146190 . 3)) ((c def c (c (? . 29) q make-export)) c (? . 63)) ((c def c (c (? . 2) q regexp-match-positions/end)) q (76804 . 16)) ((c def c (c (? . 2) q bytes->path-element)) q (335568 . 4)) ((c def c (c (? . 47) q hash-has-key?)) q (100988 . 4)) ((c def c (c (? . 44) q current-future)) q (213719 . 2)) ((c def c (c (? . 0) q hash-copy-clear)) q (102243 . 3)) ((c def c (c (? . 9) q other-write-bit)) q (352653 . 2)) ((c def c (c (? . 0) q in-directory)) q (105767 . 5)) ((c form c (c (? . 3) q for*/seteq)) q (121267 . 2)) ((c def c (c (? . 2) q module-path-index-join)) q (306878 . 5)) ((c def c (c (? . 2) q bytes-utf-8-ref)) q (59418 . 7)) ((c def c (c (? . 2) q struct:exn:fail:out-of-memory)) c (? . 60)) ((q form ((lib "racket/lazy-require.rkt") lazy-require)) q (17229 . 5)) ((c def c (c (? . 45) q syntax-local-eval)) q (242116 . 4)) ((c def c (c (? . 2) q syntax-e)) q (220677 . 3)) ((c def c (c (? . 1) q dict-key-contract)) q (114796 . 3)) ((c def c (c (? . 2) q syntax-local-submodules)) q (231646 . 2)) ((c def c (c (? . 0) q open-output-file)) q (245149 . 10)) ((c def c (c (? . 2) q call-with-values)) q (188408 . 4)) ((c def c (c (? . 1) q prop:dict/contract)) q (114745 . 2)) ((c form c (c (? . 0) q λ)) q (9909 . 11)) ((c def c (c (? . 2) q primitive?)) q (129995 . 3)) ((c def c (c (? . 97) q make-contract)) q (172857 . 21)) ((c def c (c (? . 2) q eprintf)) q (284008 . 4)) ((c def c (c (? . 2) q current-readtable)) q (282385 . 4)) ((c def c (c (? . 2) q channel?)) q (209707 . 3)) ((c def c (c (? . 2) q cddar)) q (87101 . 3)) ((c form c (c (? . 0) q for-template)) q (6463 . 2)) ((c def c (c (? . 22) q place-channel-put/get)) q (216311 . 4)) ((c def c (c (? . 0) q in-values-sequence)) q (106503 . 3)) ((c def c (c (? . 8) q shuffle)) q (92540 . 3)) ((c def c (c (? . 2) q sync/enable-break)) q (208556 . 3)) ((c def c (c (? . 8) q second)) q (89093 . 3)) ((c form c (c (? . 125) q command-line)) q (376924 . 43)) ((c def c (c (? . 7) q unsafe-flmin)) q (383048 . 4)) ((c def c (c (? . 4) q get-uncovered-expressions)) q (333841 . 7)) ((c def c (c (? . 104) q ~.a)) q (51535 . 23)) ((c def c (c (? . 0) q prop:procedure)) q (129265 . 2)) ((c def c (c (? . 10) q peeking-input-port)) q (260240 . 9)) ((c def c (c (? . 6) q interface-extension?)) q (152876 . 4)) ((c def c (c (? . 24) q stream-append)) q (109692 . 3)) ((c def c (c (? . 2) q hash-clear)) q (102142 . 3)) ((c def c (c (? . 2) q exn:fail:network?)) c (? . 102)) ((c def c (c (? . 2) q peek-bytes!)) q (272550 . 12)) ((c def c (c (? . 2) q impersonate-box)) q (312413 . 12)) ((c form c (c (? . 16) q compound-unit)) q (156554 . 12)) ((c def c (c (? . 5) q extfl->inexact)) q (37268 . 3)) ((c def c (c (? . 2) q syntax-local-lift-provide)) q (230989 . 3)) ((c def c (c (? . 2) q namespace-attach-module)) q (297412 . 7)) ((c form c (c (? . 3) q for/weak-set)) q (121719 . 2)) ((c def c (c (? . 47) q current-parameterization)) q (213254 . 2)) ((c def c (c (? . 2) q cdddar)) q (88665 . 3)) ((c def c (c (? . 2) q delete-file)) q (341097 . 3)) ((c def c (c (? . 0) q exn:fail:contract:non-fixnum-result)) c (? . 94)) ((c def c (c (? . 9) q make-temporary-file)) q (348574 . 7)) ((c def c (c (? . 2) q symbol-interned?)) q (64703 . 3)) ((c def c (c (? . 52) q raise-support-error)) q (136003 . 4)) ((c def c (c (? . 2) q current-namespace)) q (295471 . 4)) ((c form c (c (? . 35) q unless)) q (13009 . 2)) ((c form c (c (? . 6) q define/augment-final)) q (143191 . 3)) ((c def c (c (? . 4) q sandbox-memory-limit)) q (330986 . 4)) ((c def c (c (? . 4) q break-evaluator)) q (332706 . 3)) ((c def c (c (? . 2) q inexact-real?)) q (18822 . 3)) ((c def c (c (? . 2) q string-downcase)) q (42536 . 3)) ((c def c (c (? . 2) q bitwise-xor)) q (22994 . 3)) ((c form c (c (? . 6) q override*)) q (142265 . 2)) ((c form c (c (? . 0) q prefix-in)) q (4307 . 2)) ((c def c (c (? . 5) q extflfloor)) q (36163 . 3)) ((c def c (c (? . 7) q unsafe-fl>=)) q (382968 . 4)) ((c form c (c (? . 3) q for*/mutable-set)) q (121543 . 2)) ((c def c (c (? . 0) q in-producer)) q (105975 . 7)) ((c form c (c (? . 0) q define-namespace-anchor)) q (295191 . 2)) ((c def c (c (? . 2) q peek-bytes-avail!/enable-break)) q (274300 . 14)) ((c form c (c (? . 112) q current-contract-region)) q (172279 . 2)) ((c def c (c (? . 87) q string-trim)) q (45360 . 11)) ((c def c (c (? . 3) q set-clear!)) q (123643 . 3)) ((c form c (c (? . 2) q begin)) q (12861 . 3)) ((c def c (c (? . 7) q unsafe-flsin)) q (383457 . 3)) ((c def c (c (? . 2) q make-placeholder)) q (93051 . 3)) ((c def c (c (? . 7) q unsafe-extflceiling)) q (389653 . 3)) ((c def c (c (? . 2) q exact->inexact)) q (19547 . 3)) ((c def c (c (? . 48) q async-channel-get)) q (211625 . 3)) ((c def c (c (? . 3) q mutable-seteq)) q (119790 . 4)) ((c def c (c (? . 2) q variable-reference->module-base-phase)) q (299665 . 3)) ((c def c (c (? . 37) q udp-send-evt)) q (360078 . 9)) ((c def c (c (? . 66) q engine-result)) q (216836 . 3)) ((c def c (c (? . 2) q make-continuation-mark-key)) q (204487 . 4)) ((c def c (c (? . 2) q object-name)) q (325091 . 3)) ((c def c (c (? . 97) q contract-property?)) q (183148 . 3)) ((c def c (c (? . 2) q current-process-milliseconds)) q (372118 . 3)) ((c form c (c (? . 6) q public*)) q (142156 . 2)) ((c def c (c (? . 2) q readtable-mapping)) q (291885 . 9)) ((c def c (c (? . 2) q hash-ref)) q (100656 . 7)) ((c def c (c (? . 9) q display-lines-to-file)) q (346339 . 13)) ((c def c (c (? . 11) q ->fl)) q (29911 . 3)) ((c form c (c (? . 6) q member-name-key)) q (143746 . 2)) ((c form c (c (? . 0) q protect-out)) q (6168 . 2)) ((c def c (c (? . 27) q path-replace-suffix)) q (338488 . 4)) ((c form c (c (? . 38) q any)) q (165721 . 2)) ((c def c (c (? . 7) q unsafe-fx=)) q (381723 . 4)) ((c form c (c (? . 1) q define-custom-hash-types)) q (114991 . 12)) ((c def c (c (? . 5) q extflabs)) q (35462 . 3)) ((c def c (c (? . 2) q current-compile)) q (303159 . 5)) ((c def c (c (? . 2) q cdadar)) q (88265 . 3)) ((c def c (c (? . 0) q procedure-reduce-arity)) q (128206 . 4)) ((c def c (c (? . 3) q set-remove!)) q (122911 . 4)) ((c def c (c (? . 0) q exn:fail:syntax:missing-module)) c (? . 83)) ((c def c (c (? . 22) q place-channel)) q (216051 . 2)) ((c def c (c (? . 7) q unsafe-extflvector-ref)) q (390716 . 4)) ((c def c (c (? . 2) q min)) q (20613 . 3)) ((c def c (c (? . 2) q string-locale-ci=?)) q (43369 . 4)) ((c def c (c (? . 2) q syntax-local-module-required-identifiers)) q (232812 . 7)) ((c def c (c (? . 8) q split-at)) q (89931 . 4)) ((c def c (c (? . 87) q string-replace)) q (44850 . 6)) ((c def c (c (? . 2) q exn:fail:read?)) c (? . 71)) ((c def c (c (? . 2) q exn:break:terminate?)) c (? . 114)) ((c def c (c (? . 34) q tcp-abandon-port)) q (354333 . 3)) ((c def c (c (? . 2) q raise-result-error)) q (189470 . 13)) ((c def c (c (? . 2) q fixnum?)) q (18881 . 3)) ((c def c (c (? . 2) q date-dst?)) c (? . 14)) ((c def c (c (? . 1) q dict?)) q (111112 . 3)) ((c form c (c (? . 2) q module*)) q (1697 . 3)) ((c def c (c (? . 5) q extflacos)) q (36602 . 3)) ((c def c (c (? . 2) q mcar)) q (93754 . 3)) ((c def c (c (? . 2) q struct:srcloc)) c (? . 13)) ((c def c (c (? . 2) q thread-send)) q (207924 . 6)) ((c def c (c (? . 2) q current-thread-group)) q (323993 . 4)) ((c form c (c (? . 47) q with-handlers)) q (192359 . 3)) ((c def c (c (? . 2) q identifier-remove-from-definition-context)) q (229501 . 7)) ((c def c (c (? . 8) q rest)) q (89042 . 3)) ((c def c (c (? . 10) q read-bytes!-evt)) q (266337 . 5)) ((c def c (c (? . 30) q vector-take)) q (96211 . 4)) ((c def c (c (? . 2) q char-utf-8-length)) q (62366 . 3)) ((c def c (c (? . 104) q ~s)) q (48038 . 23)) ((c def c (c (? . 11) q fl>)) q (28780 . 4)) ((c def c (c (? . 10) q peek-bytes-avail!-evt)) c (? . 72)) ((c def c (c (? . 2) q variable-reference->empty-namespace)) q (298931 . 3)) ((c def c (c (? . 2) q bytes-ref)) q (55429 . 4)) ((c def c (c (? . 3) q set-for-each)) q (125030 . 4)) ((c def c (c (? . 0) q arity-at-least)) c (? . 89)) ((c def c (c (? . 2) q vector-copy!)) q (95008 . 11)) ((c def c (c (? . 8) q argmin)) q (92719 . 4)) ((c def c (c (? . 26) q fxvector?)) q (33515 . 3)) ((c def c (c (? . 0) q exn:fail)) c (? . 31)) ((c def c (c (? . 25) q blame-contract)) q (177031 . 3)) ((c def c (c (? . 2) q rational?)) q (18512 . 3)) ((c form c (c (? . 0) q require)) q (2020 . 51)) ((c def c (c (? . 2) q struct?)) q (136981 . 3)) ((c def c (c (? . 2) q regexp-match?)) q (70783 . 13)) ((c def c (c (? . 8) q filter-not)) q (92441 . 4)) ((q def ((lib "racket/rerequire.rkt") dynamic-rerequire)) q (393337 . 5)) ((c def c (c (? . 2) q string->bytes/latin-1)) q (58576 . 9)) ((c def c (c (? . 2) q filesystem-change-evt-cancel)) q (343653 . 3)) ((c def c (c (? . 2) q exn:fail:syntax-exprs)) c (? . 108)) ((c form c (c (? . 6) q public)) q (141556 . 2)) ((c form c (c (? . 32) q syntax-id-rules)) q (219675 . 3)) ((c def c (c (? . 2) q string-set!)) q (40205 . 5)) ((c def c (c (? . 2) q make-set!-transformer)) q (225943 . 3)) ((c def c (c (? . 9) q group-write-bit)) q (352556 . 2)) ((c def c (c (? . 2) q append)) q (83685 . 6)) ((c def c (c (? . 2) q sync/timeout)) q (208411 . 4)) ((c def c (c (? . 1) q dict-for-each)) q (113881 . 4)) ((c def c (c (? . 2) q namespace-set-variable-value!)) q (296302 . 9)) ((c def c (c (? . 115) q bytes-join)) q (61963 . 4)) ((c def c (c (? . 2) q cddr)) q (86545 . 3)) ((c form c (c (? . 91) q trace)) q (393551 . 2)) ((c def c (c (? . 2) q set!-transformer?)) q (225880 . 3)) ((c def c (c (? . 2) q port-counts-lines?)) q (244265 . 3)) ((c def c (c (? . 2) q chaperone-of?)) q (310732 . 4)) ((c def c (c (? . 32) q check-duplicate-identifier)) q (223629 . 3)) ((c def c (c (? . 2) q symbol-unreadable?)) q (64771 . 3)) ((c def c (c (? . 9) q file->list)) q (344491 . 5)) ((c def c (c (? . 26) q fxnot)) q (32697 . 3)) ((c form c (c (? . 12) q match-let*)) q (187238 . 2)) ((c def c (c (? . 4) q call-with-limits)) q (334404 . 5)) ((c form c (c (? . 16) q define-unit/new-import-export)) q (158836 . 6)) ((c def c (c (? . 2) q struct:exn:fail:contract)) c (? . 95)) ((c def c (c (? . 0) q for-clause-syntax-protect)) q (16367 . 3)) ((c def c (c (? . 3) q set-map)) q (124919 . 4)) ((c def c (c (? . 21) q nan?)) q (28195 . 3)) ((c def c (c (? . 2) q readtable?)) q (291345 . 3)) ((c def c (c (? . 8) q last-pair)) q (89597 . 3)) ((c def c (c (? . 2) q struct:exn:break:terminate)) c (? . 114)) ((c form c (c (? . 15) q %)) q (202549 . 4)) ((c def c (c (? . 6) q field-names)) q (153406 . 3)) ((c def c (c (? . 2) q eval-syntax)) q (300153 . 4)) ((c form c (c (? . 11) q for/flvector)) q (31457 . 2)) ((c def c (c (? . 2) q bytes-copy)) q (55854 . 3)) ((c form c (c (? . 35) q letrec-syntaxes)) q (11074 . 2)) ((c def c (c (? . 2) q subprocess-pid)) q (363817 . 3)) ((c def c (c (? . 1) q dict-iterate-first)) q (112292 . 3)) ((c def c (c (? . 0) q hash->list)) q (102561 . 3)) ((c def c (c (? . 0) q make-base-empty-namespace)) q (295089 . 2)) ((c form c (c (? . 16) q struct/ctc)) q (159394 . 10)) ((c def c (c (? . 2) q exn:fail:syntax?)) c (? . 108)) ((c def c (c (? . 2) q sin)) q (22060 . 3)) ((c def c (c (? . 8) q remove-duplicates)) q (91597 . 7)) ((c def c (c (? . 1) q in-dict)) q (114487 . 3)) ((c def c (c (? . 2) q string-normalize-nfd)) q (42753 . 3)) ((c def c (c (? . 2) q string-upcase)) q (42472 . 3)) ((c def c (c (? . 2) q hash-copy)) q (103360 . 3)) ((c def c (c (? . 2) q make-ephemeron)) q (379561 . 4)) ((c def c (c (? . 96) q make-proj-contract)) q (184813 . 15)) ((c def c (c (? . 2) q bitwise-not)) q (23071 . 3)) ((c def c (c (? . 2) q raise-syntax-error)) q (191695 . 11)) ((c def c (c (? . 0) q make-exn:fail:filesystem:version)) c (? . 116)) ((c def c (c (? . 2) q dump-memory-stats)) q (380356 . 3)) ((c def c (c (? . 11) q flasin)) q (29521 . 3)) ((c def c (c (? . 26) q fxmodulo)) q (32350 . 4)) ((c form c (c (? . 12) q failure-cont)) q (187622 . 2)) ((c def c (c (? . 7) q unsafe-fx->extfl)) q (390507 . 3)) ((c def c (c (? . 2) q chaperone?)) q (310591 . 3)) ((c def c (c (? . 10) q port->bytes)) q (255065 . 3)) ((c def c (c (? . 2) q +)) q (19744 . 3)) ((c def c (c (? . 2) q syntax-span)) q (220342 . 3)) ((c form c (c (? . 73) q multi-in)) q (9265 . 8)) ((c def c (c (? . 97) q make-chaperone-contract)) q (173754 . 22)) ((c def c (c (? . 38) q non-empty-listof)) q (163429 . 3)) ((c def c (c (? . 5) q make-extflvector)) q (37456 . 4)) ((c def c (c (? . 2) q char-ci<?)) q (63008 . 4)) ((c def c (c (? . 2) q module-predefined?)) q (310426 . 3)) ((c form c (c (? . 6) q class)) q (141271 . 2)) ((c def c (c (? . 8) q ninth)) q (89448 . 3)) ((c def c (c (? . 2) q port-file-identity)) q (248615 . 3)) ((c def c (c (? . 2) q char->integer)) q (62109 . 3)) ((c def c (c (? . 0) q in-hash-keys)) q (105569 . 3)) ((c def c (c (? . 2) q bytes?)) q (54993 . 3)) ((c def c (c (? . 2) q namespace-module-registry)) q (298312 . 3)) ((c def c (c (? . 15) q abort/cc)) q (202217 . 4)) ((c def c (c (? . 38) q real-in)) q (161857 . 4)) ((c form c (c (? . 15) q reset)) q (202914 . 2)) ((c def c (c (? . 2) q module->imports)) q (309973 . 6)) ((c form c (c (? . 6) q define-local-member-name)) q (143661 . 2)) ((c def c (c (? . 2) q syntax-local-phase-level)) q (231240 . 2)) ((c def c (c (? . 5) q in-extflvector)) q (38137 . 6)) ((c def c (c (? . 3) q seteq)) q (119501 . 3)) ((c def c (c (? . 2) q prop:exn:missing-module)) q (198599 . 2)) ((c form c (c (? . 16) q define-unit/s)) q (159153 . 6)) ((c form c (c (? . 6) q define/overment)) q (142855 . 3)) ((c def c (c (? . 2) q compile-enforce-module-constants)) q (303572 . 4)) ((c form c (c (? . 47) q with-handlers*)) q (192431 . 3)) ((c form c (c (? . 45) q with-syntax*)) q (242261 . 5)) ((c def c (c (? . 2) q file-or-directory-identity)) q (342161 . 5)) ((c def c (c (? . 1) q dict-remove!)) q (112053 . 4)) ((c form c (c (? . 16) q unit/c)) q (159801 . 5)) ((c form c (c (? . 0) q #%module-begin)) q (1803 . 2)) ((c form c (c (? . 42) q delay/sync)) q (199208 . 2)) ((c def c (c (? . 2) q exn:fail:read:non-char?)) c (? . 117)) ((c def c (c (? . 0) q exn:break:terminate)) c (? . 114)) ((c def c (c (? . 2) q free-template-identifier=?)) q (223418 . 4)) ((c def c (c (? . 0) q with-input-from-file)) q (247651 . 7)) ((c def c (c (? . 40) q sequence-append)) q (108021 . 3)) ((c def c (c (? . 2) q exn:fail:filesystem:exists?)) c (? . 82)) ((c def c (c (? . 11) q flsin)) q (29365 . 3)) ((c def c (c (? . 15) q splitter)) q (203486 . 5)) ((c def c (c (? . 2) q date-time-zone-offset)) c (? . 14)) ((c def c (c (? . 10) q call-with-input-string)) q (256273 . 4)) ((c def c (c (? . 2) q bytes->string/utf-8)) q (57115 . 6)) ((c def c (c (? . 97) q prop:chaperone-contract)) q (178261 . 2)) ((c def c (c (? . 7) q unsafe-list-tail)) q (385243 . 4)) ((c def c (c (? . 7) q unsafe-extfl<)) q (388975 . 4)) ((c def c (c (? . 15) q new-prompt)) q (203640 . 2)) ((c def c (c (? . 66) q engine-run)) q (216727 . 4)) ((c def c (c (? . 44) q fsemaphore-post)) q (214101 . 3)) ((c form c (c (? . 15) q cupto)) q (203710 . 2)) ((c form c (c (? . 49) q define/subexpression-pos-prop)) q (183491 . 6)) ((c def c (c (? . 0) q in-range)) q (103748 . 7)) ((c def c (c (? . 2) q char-ci<=?)) q (63104 . 4)) ((c def c (c (? . 2) q write-special-evt)) q (279605 . 4)) ((c def c (c (? . 2) q syntax-local-introduce)) q (232059 . 3)) ((c def c (c (? . 2) q sync/timeout/enable-break)) q (208623 . 4)) ((c def c (c (? . 2) q open-input-bytes)) q (248712 . 4)) ((c def c (c (? . 7) q unsafe-s16vector-set!)) q (387676 . 5)) ((c form c (c (? . 118) q contract-struct)) q (170275 . 2)) ((c def c (c (? . 7) q unsafe-extflmax)) q (389421 . 4)) ((c def c (c (? . 8) q fourth)) q (89194 . 3)) ((c def c (c (? . 5) q extflmax)) q (36015 . 4)) ((c def c (c (? . 2) q number->string)) q (24956 . 4)) ((c def c (c (? . 6) q interface?)) q (152160 . 3)) ((c def c (c (? . 30) q vector-drop)) q (96429 . 4)) ((c def c (c (? . 2) q cdaadr)) q (88165 . 3)) ((c def c (c (? . 1) q dict-iterate-key)) q (112448 . 4)) ((c def c (c (? . 2) q cdaddr)) q (88365 . 3)) ((c def c (c (? . 2) q pipe-content-length)) q (249712 . 3)) ((c def c (c (? . 2) q string>?)) q (41789 . 4)) ((c def c (c (? . 2) q peek-char)) q (275256 . 4)) ((c def c (c (? . 2) q exn-message)) c (? . 61)) ((c def c (c (? . 2) q path-element->string)) q (335732 . 3)) ((c def c (c (? . 2) q expt)) q (21888 . 4)) ((c def c (c (? . 2) q current-environment-variables)) q (374332 . 4)) ((c form c (c (? . 3) q for/mutable-seteqv)) q (121484 . 2)) ((c def c (c (? . 2) q arity-at-least?)) c (? . 89)) ((c form c (c (? . 6) q class*)) q (138746 . 57)) ((c def c (c (? . 28) q pretty-printing)) q (290631 . 4)) ((c def c (c (? . 2) q cadaar)) q (87665 . 3)) ((c def c (c (? . 2) q fprintf)) q (283815 . 5)) ((c def c (c (? . 26) q make-fxvector)) q (33632 . 4)) ((c form c (c (? . 6) q inspect)) q (141347 . 2)) ((c def c (c (? . 27) q load/use-compiled)) q (301933 . 3)) ((c def c (c (? . 2) q bound-identifier=?)) q (222691 . 6)) ((c def c (c (? . 22) q place-kill)) q (215881 . 3)) ((c def c (c (? . 2) q custodian?)) q (322547 . 3)) ((c def c (c (? . 11) q flexp)) q (29732 . 3)) ((c def c (c (? . 93) q system/exit-code)) q (365325 . 5)) ((c def c (c (? . 24) q stream-length)) q (109422 . 3)) ((c def c (c (? . 7) q unsafe-vector*-set!)) q (386290 . 5)) ((c def c (c (? . 11) q fl<=)) q (28852 . 4)) ((c form c (c (? . 76) q trait-exclude-field)) q (147286 . 2)) ((c def c (c (? . 2) q regexp)) q (65531 . 3)) ((c def c (c (? . 119) q syntax-procedure-alias-property)) q (237230 . 8)) ((c form c (c (? . 32) q syntax-case)) q (216968 . 28)) ((c def c (c (? . 11) q in-flvector)) q (31217 . 6)) ((c form c (c (? . 0) q #%plain-app)) q (9808 . 3)) ((c def c (c (? . 2) q identifier-prune-to-source-module)) q (222329 . 3)) ((c def c (c (? . 5) q extfl->exact-integer)) q (37060 . 3)) ((c def c (c (? . 2) q read-bytes-avail!*)) q (270762 . 10)) ((c def c (c (? . 87) q string-append*)) q (43840 . 4)) ((c def c (c (? . 41) q assq)) q (86168 . 4)) ((c form c (c (? . 16) q define-compound-unit/infer)) q (157921 . 5)) ((c form c (c (? . 12) q match-let*-values)) q (187355 . 2)) ((c def c (c (? . 2) q current-directory)) q (342642 . 4)) ((c def c (c (? . 2) q complete-path?)) q (337117 . 3)) ((c def c (c (? . 2) q current-module-declare-name)) q (305575 . 5)) ((c form c (c (? . 16) q unit)) q (154285 . 22)) ((c form c (c (? . 12) q match-let-values)) q (187290 . 2)) ((c def c (c (? . 91) q current-trace-print-args)) q (393867 . 14)) ((c def c (c (? . 2) q void)) q (131153 . 3)) ((c def c (c (? . 2) q make-parameter)) q (212542 . 4)) ((c def c (c (? . 44) q make-fsemaphore)) q (213953 . 3)) ((c def c (c (? . 51) q path-element?)) q (339794 . 3)) ((c def c (c (? . 49) q prop:contracted)) q (178368 . 2)) ((c def c (c (? . 7) q unsafe-extfl<=)) q (389151 . 4)) ((c def c (c (? . 2) q module-path-index-split)) q (306595 . 5)) ((c def c (c (? . 5) q extflvector-copy)) q (37937 . 5)) ((c def c (c (? . 18) q import?)) c (? . 19)) ((c form c (c (? . 0) q rename-out)) q (5959 . 2)) ((c def c (c (? . 2) q struct:exn:fail:contract:variable)) c (? . 80)) ((c def c (c (? . 18) q import-source)) c (? . 85)) ((c def c (c (? . 1) q prop:dict)) q (111547 . 2)) ((c form c (c (? . 6) q this)) q (141322 . 2)) ((c def c (c (? . 2) q print-mpair-curly-braces)) q (284283 . 4)) ((c def c (c (? . 2) q car)) q (82983 . 3)) ((c def c (c (? . 30) q vector-memq)) q (97792 . 4)) ((c form c (c (? . 107) q unsyntax)) q (219423 . 2)) ((c form c (c (? . 38) q prompt-tag/c)) q (165301 . 8)) ((c def c (c (? . 28) q pretty-print-remap-stylable)) q (288989 . 5)) ((c def c (c (? . 51) q shrink-path-wrt)) q (340278 . 4)) ((c form c (c (? . 3) q define-custom-set-types)) q (125196 . 12)) ((c form c (c (? . 6) q override-final)) q (141747 . 2)) ((c def c (c (? . 0) q regexp-match-peek-positions*)) q (74841 . 17)) ((c def c (c (? . 24) q stream-rest)) q (109114 . 3)) ((c def c (c (? . 37) q udp-send-to)) q (355562 . 13)) ((c def c (c (? . 66) q engine-kill)) q (216902 . 3)) ((c def c (c (? . 26) q fx=)) q (32901 . 4)) ((c def c (c (? . 2) q exn:fail:contract:divide-by-zero?)) c (? . 90)) ((c def c (c (? . 6) q subclass?)) q (152706 . 4)) ((c def c (c (? . 1) q dict-empty?)) q (113990 . 3)) ((c def c (c (? . 2) q print-vector-length)) q (284747 . 4)) ((c form c (c (? . 0) q #%plain-lambda)) q (10457 . 2)) ((c def c (c (? . 2) q vector-set-performance-stats!)) q (376737 . 5)) ((c form c (c (? . 3) q for/weak-seteq)) q (121772 . 2)) ((c def c (c (? . 2) q current-module-path-for-load)) q (305961 . 11)) ((c def c (c (? . 2) q module-path-index?)) q (306430 . 3)) ((c form c (c (? . 47) q parameterize*)) q (212778 . 3)) ((c form c (c (? . 0) q #%app)) q (9743 . 2)) ((c def c (c (? . 0) q make-arity-at-least)) c (? . 89)) ((c def c (c (? . 10) q read-string-evt)) q (266646 . 4)) ((c def c (c (? . 2) q chaperone-prompt-tag)) q (319965 . 18)) ((c def c (c (? . 2) q directory-exists?)) q (342955 . 3)) ((c def c (c (? . 2) q cdaar)) q (86937 . 3)) ((c def c (c (? . 2) q variable-reference->phase)) q (299552 . 3)) ((c def c (c (? . 2) q -)) q (19797 . 6)) ((c form c (c (? . 6) q with-method)) q (145382 . 3)) ((c def c (c (? . 2) q string-ci<?)) q (42078 . 4)) ((c def c (c (? . 2) q string-normalize-nfkd)) q (42830 . 3)) ((c def c (c (? . 2) q char-symbolic?)) q (63731 . 3)) ((c def c (c (? . 120) q syntax-local-provide-introduce)) q (12780 . 3)) ((c def c (c (? . 2) q local-transformer-expand)) q (227353 . 9)) ((c def c (c (? . 2) q expand-user-path)) q (337747 . 3)) ((c form c (c (? . 6) q private*)) q (142490 . 2)) ((c def c (c (? . 62) q boolean=?)) q (18075 . 4)) ((c form c (c (? . 121) q provide/contract)) q (171287 . 2)) ((c def c (c (? . 22) q place-location?)) q (216527 . 3)) ((c form c (c (? . 0) q prefix-out)) q (6059 . 2)) ((c def c (c (? . 37) q udp-multicast-set-ttl!)) q (362072 . 4)) ((c def c (c (? . 2) q shell-execute)) q (364260 . 11)) ((c def c (c (? . 2) q read-string)) q (269522 . 4)) ((c def c (c (? . 2) q bitwise-and)) q (22917 . 3)) ((c def c (c (? . 2) q identifier-prune-lexical-context)) q (222117 . 5)) ((c def c (c (? . 0) q in-sequences)) q (106292 . 3)) ((c form c (c (? . 2) q begin0)) q (12907 . 2)) ((c form c (c (? . 33) q define-runtime-module-path)) q (343977 . 2)) ((c def c (c (? . 2) q exn:fail:filesystem:version?)) c (? . 116)) ((c def c (c (? . 6) q generic?)) q (152216 . 3)) ((c def c (c (? . 2) q exn:fail:contract:variable?)) c (? . 80)) ((c form c (c (? . 16) q define-unit/contract)) q (159952 . 10)) ((c def c (c (? . 2) q make-hasheq)) q (99238 . 3)) ((c form c (c (? . 16) q define-values/invoke-unit)) q (156438 . 4)) ((c def c (c (? . 8) q drop)) q (89836 . 4)) ((c def c (c (? . 2) q make-weak-box)) q (379333 . 3)) ((c def c (c (? . 7) q unsafe-string-set!)) q (386650 . 5)) ((c def c (c (? . 29) q export-mode)) c (? . 63)) ((c def c (c (? . 3) q weak-seteq)) q (120082 . 3)) ((c def c (c (? . 97) q build-chaperone-contract-property)) q (180039 . 28)) ((c def c (c (? . 93) q process*)) q (366621 . 15)) ((c def c (c (? . 2) q byte-pregexp?)) q (65472 . 3)) ((c form c (c (? . 76) q trait-rename-field)) q (147422 . 2)) ((c def c (c (? . 7) q unsafe-mcar)) q (384751 . 3)) ((c def c (c (? . 2) q thread?)) q (206804 . 3)) ((c def c (c (? . 11) q flcos)) q (29417 . 3)) ((c def c (c (? . 40) q sequence-filter)) q (108716 . 4)) ((c def c (c (? . 0) q exn:fail:filesystem:version)) c (? . 116)) ((c def c (c (? . 0) q make-exn:fail:unsupported)) c (? . 79)) ((c def c (c (? . 2) q hash-for-each)) q (102647 . 4)) ((c def c (c (? . 53) q prop:struct-auto-info)) q (138162 . 2)) ((c def c (c (? . 2) q logger-name)) q (369339 . 3)) ((c def c (c (? . 2) q vector->immutable-vector)) q (94802 . 3)) ((c form c (c (? . 6) q define-member-name)) q (143704 . 2)) ((c def c (c (? . 6) q class?)) q (152108 . 3)) ((c form c (c (? . 45) q define/with-syntax)) q (241007 . 4)) ((c def c (c (? . 2) q make-struct-type-property)) q (134586 . 13)) ((c def c (c (? . 26) q shared-fxvector)) q (34835 . 3)) ((c def c (c (? . 0) q call-with-input-file*)) q (246846 . 7)) ((c form c (c (? . 47) q log-error)) q (370129 . 3)) ((c def c (c (? . 2) q struct:exn:fail:read:eof)) c (? . 17)) ((c def c (c (? . 12) q prop:legacy-match-expander)) q (187792 . 2)) ((c form c (c (? . 4) q with-deep-time-limit)) q (334760 . 2)) ((c def c (c (? . 47) q call-with-break-parameterization)) q (206238 . 5)) ((c def c (c (? . 0) q stop-before)) q (106650 . 4)) ((c form c (c (? . 6) q absent)) q (148407 . 2)) ((c def c (c (? . 1) q in-dict-keys)) q (114547 . 3)) ((c def c (c (? . 87) q string-split)) q (45024 . 9)) ((c form c (c (? . 35) q let/ec)) q (201298 . 2)) ((c def c (c (? . 2) q string-foldcase)) q (42681 . 3)) ((c def c (c (? . 2) q kill-thread)) q (207301 . 3)) ((c def c (c (? . 2) q free-label-identifier=?)) q (223525 . 4)) ((c def c (c (? . 2) q file-or-directory-permissions)) q (341775 . 11)) ((c def c (c (? . 2) q build-path)) q (336156 . 6)) ((c def c (c (? . 96) q struct-type-property/c)) q (170503 . 3)) ((c form c (c (? . 2) q let*-values)) q (10763 . 2)) ((c def c (c (? . 57) q curryr)) q (130563 . 6)) ((c def c (c (? . 8) q third)) q (89144 . 3)) ((c def c (c (? . 2) q symbol<?)) q (65209 . 4)) ((c def c (c (? . 38) q false/c)) q (162144 . 2)) ((c form c (c (? . 0) q relative-in)) q (4448 . 2)) ((c def c (c (? . 9) q get-preference)) q (349282 . 18)) ((c def c (c (? . 2) q not)) q (17407 . 3)) ((c def c (c (? . 2) q string-append)) q (41151 . 3)) ((c def c (c (? . 40) q empty-sequence)) q (107641 . 2)) ((c form c (c (? . 0) q planet)) q (4803 . 5)) ((c def c (c (? . 38) q or/c)) q (161261 . 3)) ((c form c (c (? . 12) q define/match)) q (186511 . 18)) ((c form c (c (? . 16) q open)) q (155884 . 2)) ((c def c (c (? . 15) q abort)) q (202498 . 3)) ((c def c (c (? . 2) q open-input-string)) q (248823 . 4)) ((c def c (c (? . 5) q extflvector)) q (37385 . 3)) ((c def c (c (? . 2) q char>=?)) q (62818 . 4)) ((c def c (c (? . 3) q set-empty?)) q (122993 . 3)) ((c def c (c (? . 5) q extfl>=)) q (35848 . 4)) ((c def c (c (? . 0) q in-hash)) q (105509 . 3)) ((c form c (c (? . 16) q define-values/invoke-unit/infer)) q (158323 . 8)) ((c def c (c (? . 2) q struct-type-info)) q (324586 . 11)) ((c def c (c (? . 51) q file-name-from-path)) q (339009 . 3)) ((c form c (c (? . 122) q define-syntax-parameter)) q (237924 . 2)) ((c def c (c (? . 2) q compile-syntax)) q (303428 . 3)) ((c def c (c (? . 49) q contract-first-order-passes?)) q (183730 . 4)) ((c form c (c (? . 123) q struct/dc)) q (163772 . 24)) ((c def c (c (? . 2) q environment-variables?)) q (374264 . 3)) ((c def c (c (? . 40) q sequence-ormap)) q (108284 . 4)) ((c def c (c (? . 0) q in-indexed)) q (106227 . 3)) ((c def c (c (? . 0) q make-exn:fail:network)) c (? . 102)) ((c def c (c (? . 41) q reverse)) q (83810 . 3)) ((c def c (c (? . 3) q weak-set)) q (119891 . 3)) ((c def c (c (? . 2) q struct:exn:fail:read:non-char)) c (? . 117)) ((c def c (c (? . 45) q format-id)) q (240350 . 13)) ((c def c (c (? . 0) q gen:equal+hash)) q (17870 . 2)) ((c def c (c (? . 0) q hash-values)) q (102491 . 3)) ((c def c (c (? . 93) q string-no-nuls?)) q (368957 . 3)) ((c def c (c (? . 2) q rename-transformer-target)) q (226548 . 3)) ((c def c (c (? . 2) q equal?/recur)) q (17676 . 5)) ((c def c (c (? . 2) q banner)) q (376347 . 2)) ((c def c (c (? . 2) q cdr)) q (83029 . 3)) ((c def c (c (? . 2) q srcloc-position)) c (? . 13)) ((c def c (c (? . 1) q dict-ref)) q (111589 . 6)) ((c def c (c (? . 2) q bytes->string/latin-1)) q (57721 . 9)) ((c def c (c (? . 44) q future)) q (213565 . 3)) ((c def c (c (? . 104) q ~a)) q (45756 . 23)) ((c form c (c (? . 6) q inherit/inner)) q (142041 . 2)) ((c def c (c (? . 0) q open-input-file)) q (244998 . 4)) ((c def c (c (? . 2) q make-hasheq-placeholder)) q (93438 . 3)) ((c def c (c (? . 10) q relocate-output-port)) q (262681 . 11)) ((c form c (c (? . 6) q public-final*)) q (142225 . 2)) ((c def c (c (? . 7) q unsafe-extflexpt)) q (390414 . 4)) ((c form c (c (? . 35) q letrec-syntax)) q (10948 . 2)) ((c def c (c (? . 9) q put-preferences)) q (350253 . 9)) ((c def c (c (? . 15) q fcontrol)) q (202631 . 4)) ((c def c (c (? . 29) q make-provide-pre-transformer)) q (236418 . 5)) ((c def c (c (? . 76) q trait-sum)) q (147185 . 3)) ((c def c (c (? . 7) q unsafe-fxnot)) q (381498 . 3)) ((c def c (c (? . 7) q unsafe-flasin)) q (383634 . 3)) ((c def c (c (? . 2) q struct-type-property-accessor-procedure?)) q (135178 . 3)) ((c def c (c (? . 2) q char-title-case?)) q (63598 . 3)) ((c def c (c (? . 2) q security-guard?)) q (321689 . 3)) ((c def c (c (? . 36) q current-date)) q (372511 . 2)) ((c def c (c (? . 7) q unsafe-fxquotient)) q (380945 . 4)) ((c def c (c (? . 2) q regexp-match-peek-positions/end)) q (77545 . 22)) ((c def c (c (? . 93) q process*/ports)) q (367750 . 27)) ((c def c (c (? . 37) q udp-multicast-leave-group!)) q (361299 . 7)) ((c def c (c (? . 0) q namespace-anchor->empty-namespace)) q (295291 . 3)) ((c form c (c (? . 3) q for/seteqv)) q (121167 . 2)) ((c def c (c (? . 2) q liberal-define-context?)) q (233203 . 3)) ((c def c (c (? . 28) q tentative-pretty-print-port-transfer)) q (291035 . 5)) ((c def c (c (? . 2) q string-length)) q (40023 . 3)) ((c form c (c (? . 16) q export)) q (156177 . 2)) ((c def c (c (? . 27) q find-library-collection-paths)) q (390927 . 5)) ((c def c (c (? . 2) q set!-transformer-procedure)) q (226046 . 4)) ((c def c (c (? . 38) q any/c)) q (161198 . 2)) ((c def c (c (? . 2) q date-second)) c (? . 14)) ((c def c (c (? . 2) q thread-try-receive)) q (208156 . 2)) ((c def c (c (? . 2) q mcdr)) q (93802 . 3)) ((c def c (c (? . 40) q sequence-map)) q (108092 . 4)) ((c def c (c (? . 2) q read-bytes)) q (269678 . 4)) ((c def c (c (? . 2) q system-type)) q (375908 . 5)) ((c def c (c (? . 3) q set-union!)) q (123808 . 4)) ((c form c (c (? . 6) q send)) q (144522 . 3)) ((c form c (c (? . 0) q for/hasheq)) q (13938 . 2)) ((c def c (c (? . 124) q vectorof)) q (162351 . 7)) ((c form c (c (? . 42) q delay/name)) q (199142 . 2)) ((c def c (c (? . 2) q integer?)) q (18567 . 3)) ((c form c (c (? . 0) q for*/hash)) q (14897 . 2)) ((c def c (c (? . 2) q variable-reference?)) q (298768 . 3)) ((c def c (c (? . 38) q contract?)) q (183924 . 3)) ((c form c (c (? . 12) q struct*)) q (188307 . 2)) ((c form c (c (? . 0) q for/fold)) q (14522 . 3)) ((c def c (c (? . 37) q udp-multicast-loopback?)) q (361986 . 3)) ((c def c (c (? . 97) q make-flat-contract)) q (174788 . 21)) ((c def c (c (? . 2) q exn:fail:unsupported?)) c (? . 79)) ((c def c (c (? . 21) q exact-truncate)) q (28024 . 3)) ((c def c (c (? . 4) q sandbox-make-environment-variables)) q (332347 . 5)) ((c def c (c (? . 38) q integer-in)) q (161935 . 4)) ((c def c (c (? . 18) q import-src-mod-path)) c (? . 19)) ((c def c (c (? . 38) q =/c)) q (161500 . 3)) ((c def c (c (? . 3) q set-eq?)) q (119114 . 3)) ((c form c (c (? . 6) q rename-super)) q (142084 . 2)) ((c def c (c (? . 7) q unsafe-vector*-length)) q (386072 . 3)) ((c def c (c (? . 2) q port-closed?)) q (242781 . 3)) ((c def c (c (? . 5) q extfl-)) q (35213 . 4)) ((c def c (c (? . 2) q output-port?)) q (242534 . 3)) ((c def c (c (? . 2) q syntax-local-lift-expression)) q (230453 . 3)) ((c def c (c (? . 28) q pretty-print-pre-print-hook)) q (290273 . 5)) ((c def c (c (? . 0) q exn:fail:read)) c (? . 71)) ((c def c (c (? . 28) q pretty-print-print-hook)) q (290081 . 5)) ((c def c (c (? . 10) q filter-read-input-port)) q (264485 . 27)) ((c def c (c (? . 2) q file-or-directory-modify-seconds)) q (341410 . 8)) ((c def c (c (? . 6) q make-generic)) q (146064 . 4)) ((c def c (c (? . 10) q call-with-output-bytes)) q (256029 . 3)) ((c def c (c (? . 2) q call-with-escape-continuation)) q (201091 . 3)) ((c def c (c (? . 30) q vector-set*!)) q (95783 . 5)) ((c def c (c (? . 8) q take)) q (89741 . 4)) ((c def c (c (? . 7) q unsafe-fx-)) q (380789 . 4)) ((c def c (c (? . 8) q range)) q (92194 . 7)) ((c def c (c (? . 2) q caaadr)) q (87365 . 3)) ((c def c (c (? . 21) q tanh)) q (27770 . 3)) ((c def c (c (? . 4) q sandbox-make-code-inspector)) q (332091 . 4)) ((c def c (c (? . 2) q bitwise-ior)) q (22840 . 3)) ((c def c (c (? . 2) q vector?)) q (93994 . 3)) ((c def c (c (? . 2) q thread-cell-values?)) q (212477 . 3)) ((c def c (c (? . 2) q bytes-length)) q (55346 . 3)) ((c def c (c (? . 7) q unsafe-flatan)) q (383754 . 3)) ((c def c (c (? . 2) q struct->vector)) q (136878 . 4)) ((c form c (c (? . 2) q letrec-values)) q (10826 . 2)) ((c form c (c (? . 5) q for*/extflvector)) q (38452 . 9)) ((c def c (c (? . 2) q current-prompt-read)) q (302625 . 4)) ((c def c (c (? . 26) q fxvector-set!)) q (33944 . 5)) ((c def c (c (? . 2) q port-provides-progress-evts?)) q (276293 . 3)) ((c def c (c (? . 1) q in-dict-pairs)) q (114679 . 3)) ((c form c (c (? . 47) q parameterize)) q (212667 . 5)) ((c def c (c (? . 0) q make-exn:fail:user)) c (? . 99)) ((c def c (c (? . 41) q build-list)) q (83277 . 4)) ((c def c (c (? . 46) q deserialize)) q (292915 . 3)) ((c def c (c (? . 2) q make-hash)) q (99027 . 3)) ((c form c (c (? . 0) q define-for-syntax)) q (12367 . 3)) ((c def c (c (? . 2) q string<?)) q (41598 . 4)) ((c def c (c (? . 11) q make-flrectangular)) q (30040 . 5)) ((c def c (c (? . 2) q subprocess-group-enabled)) q (364148 . 4)) ((c def c (c (? . 2) q poll-guard-evt)) q (209193 . 3)) ((c def c (c (? . 2) q continuation-mark-set->list*)) q (204636 . 10)) ((c def c (c (? . 7) q unsafe-set-box*!)) q (385590 . 4)) ((c def c (c (? . 26) q fxvector-length)) q (33748 . 3)) ((c def c (c (? . 2) q channel-put-evt?)) q (210089 . 3)) ((c def c (c (? . 2) q string-ci>=?)) q (42373 . 4)) ((c def c (c (? . 2) q module->namespace)) q (298399 . 3)) ((c def c (c (? . 22) q place-enabled?)) q (214419 . 2)) ((c def c (c (? . 45) q format-symbol)) q (240861 . 4)) ((c form c (c (? . 0) q for)) q (13110 . 16)) ((c form c (c (? . 12) q match-letrec)) q (187421 . 2)) ((c def c (c (? . 2) q impersonate-struct)) q (311248 . 15)) ((c def c (c (? . 27) q load/cd)) q (300981 . 3)) ((c def c (c (? . 2) q cddddr)) q (88765 . 3)) ((c def c (c (? . 2) q exn:missing-module-accessor)) q (198720 . 4)) ((c def c (c (? . 51) q simple-form-path)) q (339983 . 3)) ((c def c (c (? . 2) q syntax-local-value/immediate)) q (230109 . 8)) ((c def c (c (? . 2) q vector->list)) q (94680 . 3)) ((c def c (c (? . 2) q bytes->immutable-bytes)) q (55201 . 3)) ((c form c (c (? . 15) q shift-at)) q (203019 . 2)) ((c def c (c (? . 2) q module-compiled-submodules)) q (307642 . 13)) ((c def c (c (? . 2) q port-write-handler)) q (285977 . 6)) ((c def c (c (? . 2) q split-path)) q (338113 . 5)) ((c def c (c (? . 5) q extflasin)) q (36540 . 3)) ((c def c (c (? . 7) q unsafe-make-flrectangular)) q (384073 . 5)) ((c def c (c (? . 2) q module->language-info)) q (309744 . 6)) ((c def c (c (? . 44) q futures-enabled?)) q (213676 . 2)) ((c def c (c (? . 2) q read-bytes-avail!)) q (270450 . 7)) ((c def c (c (? . 2) q max)) q (20561 . 3)) ((c def c (c (? . 44) q would-be-future)) q (213824 . 3)) ((c form c (c (? . 2) q #%top)) q (9598 . 2)) ((c def c (c (? . 36) q date->string)) q (372548 . 4)) ((c def c (c (? . 3) q set-intersect!)) q (124019 . 4)) ((c def c (c (? . 2) q prop:checked-procedure)) q (129538 . 2)) ((c def c (c (? . 125) q parse-command-line)) q (378611 . 15)) ((c def c (c (? . 3) q set-add!)) q (122744 . 4)) ((c def c (c (? . 2) q string->list)) q (41220 . 3)) ((c def c (c (? . 2) q make-hash-placeholder)) q (93342 . 3)) ((c def c (c (? . 7) q unsafe-extfltan)) q (389934 . 3)) ((c def c (c (? . 28) q pretty-print-handler)) q (287456 . 3)) ((c def c (c (? . 26) q fxmin)) q (33263 . 4)) ((c form c (c (? . 12) q match*/derived)) q (188197 . 2)) ((c form c (c (? . 65) q define/contract)) q (171788 . 3)) ((c def c (c (? . 124) q vector-immutableof)) q (162610 . 3)) ((c def c (c (? . 2) q truncate)) q (21034 . 3)) ((c def c (c (? . 77) q map)) q (83864 . 4)) ((c def c (c (? . 2) q regexp-match-peek-positions)) q (72142 . 19)) ((c def c (c (? . 2) q current-load-relative-directory)) q (302004 . 5)) ((c def c (c (? . 2) q syntax-line)) q (220063 . 3)) ((c def c (c (? . 93) q system*/exit-code)) q (365565 . 15)) ((c def c (c (? . 9) q group-read-bit)) q (352525 . 2)) ((c form c (c (? . 73) q matching-identifiers-in)) q (9073 . 2)) ((c def c (c (? . 7) q unsafe-unbox)) q (385368 . 3)) ((c def c (c (? . 2) q string-locale-upcase)) q (43684 . 3)) ((c def c (c (? . 2) q copy-file)) q (342390 . 5)) ((c def c (c (? . 2) q load)) q (300856 . 3)) ((c form c (c (? . 6) q send/keyword-apply)) q (144688 . 4)) ((c def c (c (? . 2) q hash-set)) q (100363 . 5)) ((c def c (c (? . 2) q date-month)) c (? . 14)) ((c def c (c (? . 0) q sequence-generate*)) q (107509 . 5)) ((c def c (c (? . 22) q place-wait)) q (215761 . 3)) ((c def c (c (? . 5) q extfl/)) q (35379 . 4)) ((c form c (c (? . 6) q define-serializable-class)) q (151861 . 3)) ((c def c (c (? . 0) q exn:fail:contract:divide-by-zero)) c (? . 90)) ((c form c (c (? . 6) q define/public)) q (142525 . 3)) ((c def c (c (? . 38) q chaperone-contract?)) q (183979 . 3)) ((c def c (c (? . 2) q bytes-append)) q (56449 . 3)) ((c def c (c (? . 3) q set-member?)) q (122574 . 4)) ((c form c (c (? . 2) q let-values)) q (10701 . 2)) ((c def c (c (? . 1) q dict-set)) q (111912 . 5)) ((c def c (c (? . 7) q unsafe-f64vector-ref)) q (387351 . 4)) ((c def c (c (? . 2) q exn:fail:filesystem:errno?)) c (? . 105)) ((c def c (c (? . 2) q string->symbol)) q (64906 . 3)) ((c def c (c (? . 2) q expand-syntax)) q (239665 . 3)) ((c form c (c (? . 15) q prompt-at)) q (202813 . 2)) ((c def c (c (? . 0) q real->decimal-string)) q (25191 . 4)) ((c def c (c (? . 5) q real->extfl)) q (37137 . 3)) ((c def c (c (? . 2) q checked-procedure-check-and-extract)) q (129593 . 11)) ((c def c (c (? . 44) q fsemaphore-count)) q (214325 . 3)) ((c def c (c (? . 2) q read-case-sensitive)) q (281033 . 4)) ((c def c (c (? . 41) q assf)) q (86260 . 4)) ((c def c (c (? . 27) q path-list-string->path-list)) q (340466 . 6)) ((c def c (c (? . 2) q impersonate-channel)) q (313851 . 13)) ((c form c (c (? . 3) q for/set)) q (121069 . 2)) ((c def c (c (? . 5) q ->extfl)) q (36996 . 3)) ((c def c (c (? . 10) q input-port-append)) q (256699 . 4)) ((c def c (c (? . 27) q getenv)) q (375601 . 3)) ((c def c (c (? . 51) q path-only)) q (339859 . 3)) ((c def c (c (? . 50) q the-unsupplied-arg)) q (170004 . 2)) ((c def c (c (? . 2) q make-weak-hash)) q (99342 . 3)) ((c def c (c (? . 9) q other-execute-bit)) q (352685 . 2)) ((c def c (c (? . 11) q fltan)) q (29469 . 3)) ((c form c (c (? . 42) q delay/strict)) q (199174 . 2)) ((c def c (c (? . 2) q variable-reference-constant?)) q (298833 . 3)) ((c def c (c (? . 0) q in-bytes-lines)) q (105315 . 5)) ((c form c (c (? . 47) q do)) q (16443 . 7)) ((c def c (c (? . 25) q blame-update)) q (177470 . 5)) ((c def c (c (? . 124) q vector-immutable/c)) q (162982 . 3)) ((c def c (c (? . 37) q udp-receive!*)) q (358299 . 12)) ((c def c (c (? . 2) q read-decimal-as-inexact)) q (281771 . 4)) ((c form c (c (? . 16) q define-compound-unit)) q (157791 . 5)) ((c def c (c (? . 2) q file-stream-port?)) q (243239 . 3)) ((c def c (c (? . 2) q char-alphabetic?)) q (63394 . 3)) ((c form c (c (? . 0) q define-sequence-syntax)) q (15814 . 8)) ((c def c (c (? . 7) q unsafe-extflmin)) q (389329 . 4)) ((c def c (c (? . 0) q exn:fail:user)) c (? . 99)) ((c def c (c (? . 0) q exn:fail:read:non-char)) c (? . 117)) ((c form c (c (? . 0) q for/hash)) q (13875 . 2)) ((c def c (c (? . 2) q symbol->string)) q (64841 . 3)) ((c def c (c (? . 11) q fllog)) q (29680 . 3)) ((c def c (c (? . 4) q sandbox-path-permissions)) q (329897 . 9)) ((c form c (c (? . 0) q file)) q (4781 . 2)) ((c form c (c (? . 6) q class/derived)) q (143363 . 5)) ((c def c (c (? . 51) q normalize-path)) q (339635 . 5)) ((c def c (c (? . 2) q port-progress-evt)) q (276144 . 4)) ((c def c (c (? . 2) q char-ci>?)) q (63201 . 4)) ((c def c (c (? . 7) q unsafe-u16vector-ref)) q (387811 . 4)) ((c def c (c (? . 10) q read-bytes-avail!-evt)) q (266519 . 4)) ((c def c (c (? . 49) q contract-continuation-mark-key)) q (184749 . 2)) ((c def c (c (? . 2) q struct:exn:break)) c (? . 68)) ((c def c (c (? . 41) q remove*)) q (84778 . 5)) ((c def c (c (? . 2) q current-print)) q (303048 . 4)) ((c def c (c (? . 37) q udp-send-to-evt)) q (359601 . 13)) ((c def c (c (? . 18) q make-import-source)) c (? . 85)) ((c def c (c (? . 38) q flat-contract)) q (165792 . 3)) ((c def c (c (? . 2) q negative?)) q (19215 . 3)) ((c def c (c (? . 2) q length)) q (83412 . 3)) ((c def c (c (? . 2) q choice-evt)) q (208781 . 3)) ((c def c (c (? . 62) q false)) q (17973 . 2))))
+173081
+((3) 0 () 135 ((q quote #%kernel) (q lib "racket/private/base.rkt") (q lib "racket/port.rkt") (q lib "racket/private/more-scheme.rkt") (q lib "racket/contract/base.rkt") (q lib "racket/extflonum.rkt") (q lib "racket/unsafe/ops.rkt") (q lib "racket/private/class-internal.rkt") (q lib "racket/bool.rkt") (q lib "racket/contract/private/prop.rkt") (q lib "racket/fixnum.rkt") (q lib "racket/dict.rkt") (q lib "racket/list.rkt") (q lib "racket/file.rkt") (q lib "racket/contract/private/misc.rkt") (q lib "racket/private/serialize.rkt") (q 413341 . 5) (q lib "racket/vector.rkt") (q lib "racket/date.rkt") (q lib "racket/set.rkt") (q lib "racket/math.rkt") (q lib "racket/private/misc.rkt") (q lib "racket/require-transform.rkt") (q 264521 . 19) (q lib "racket/contract.rkt") (q 412681 . 23) (q lib "racket/sandbox.rkt") (q 222458 . 5) (q lib "racket/pretty.rkt") (q lib "racket/splicing.rkt") (q lib "racket/struct-info.rkt") (q 224018 . 5) (q lib "racket/trace.rkt") (q lib "racket/stream.rkt") (q lib "racket/udp.rkt") (q lib "racket/provide-transform.rkt") (q 267458 . 8) (q lib "racket/bytes.rkt") (q 225208 . 5) (q lib "racket/unit.rkt") (q lib "racket/match.rkt") (q lib "racket/contract/private/blame.rkt") (q lib "racket/promise.rkt") (q lib "racket/flonum.rkt") (q lib "racket/function.rkt") (q lib "racket/sequence.rkt") (q lib "racket/include.rkt") (q lib "racket/generator.rkt") (q lib "racket/control.rkt") (q lib "racket/syntax.rkt") (q lib "racket/string.rkt") (q lib "racket/private/letstx-scheme.rkt") (q lib "racket/future.rkt") (q lib "racket/private/list.rkt") (q lib "racket/contract/private/guts.rkt") (q 221664 . 4) (q lib "racket/runtime-path.rkt") (q 225837 . 9) (q 200578 . 4) (q lib "racket/require.rkt") (q lib "racket/private/stxcase-scheme.rkt") (q lib "racket/unsafe/undefined.rkt") (q 142997 . 4) (q 222634 . 5) (q lib "racket/place.rkt") (q 223570 . 4) (q 224468 . 4) (q lib "racket/contract/parametric.rkt") (q lib "racket/system.rkt") (q lib "racket/generic.rkt") (q lib "racket/path.rkt") (q 224249 . 7) (q lib "racket/tcp.rkt") (q 222942 . 5) (q lib "racket/class.rkt") (q 221941 . 5) (q lib "racket/hash.rkt") (q 223133 . 5) (q lib "racket/async-channel.rkt") (q 222295 . 4) (q 223702 . 4) (q 224954 . 4) (q lib "racket/format.rkt") (q lib "racket/os.rkt") (q lib "racket/private/map.rkt") (q 225362 . 4) (q lib "racket/trait.rkt") (q 221369 . 6) (q 223294 . 4) (q lib "racket/engine.rkt") (q lib "racket/contract/private/struct-dc.rkt") (q lib "racket/provide.rkt") (q 265215 . 7) (q 363176 . 29) (q 225491 . 4) (q lib "racket/cmdline.rkt") (q 222115 . 5) (q 150370 . 3) (q lib "racket/private/qqstx.rkt") (q 221559 . 4) (q lib "racket/enter.rkt") (q lib "racket/stxparam.rkt") (q lib "racket/contract/private/opt.rkt") (q 225088 . 4) (q lib "racket/contract/combinator.rkt") (q lib "racket/contract/private/base.rkt") (q lib "racket/serialize.rkt") (q lib "racket/contract/private/vector.rkt") (q 364797 . 5) (q 221792 . 4) (q 224816 . 4) (q lib "racket/random.rkt") (q 222795 . 4) (q 224594 . 5) (q 371683 . 6) (q lib "racket/unit-exptime.rkt") (q 372889 . 6) (q lib "racket/performance-hint.rkt") (q lib "racket/contract/private/ds.rkt") (q lib "racket/contract/region.rkt") (q lib "racket/contract/private/box.rkt") (q lib "racket/logging.rkt") (q 223859 . 4) (q lib "racket/struct.rkt") (q lib "racket/provide-syntax.rkt") (q 299104 . 29) (q 169395 . 3) (q lib "racket/keyword-transform.rkt") (q lib "racket/contract/private/provide.rkt") (q 223427 . 4) (q 371317 . 5) (q lib "racket/contract/private/hash.rkt") (q lib "racket/stxparam-exptime.rkt") (q lib "racket/require-syntax.rkt") (q lib "racket/fasl.rkt")) () (h ! (equal) ((c def c (c (? . 2) q port->lines)) q (286546 . 8)) ((c def c (c (? . 48) q new-prompt)) q (231463 . 2)) ((c def c (c (? . 43) q flsin)) q (31181 . 3)) ((c def c (c (? . 52) q future?)) q (242849 . 3)) ((c def c (c (? . 0) q date-hour)) c (? . 25)) ((c def c (c (? . 13) q preferences-lock-file-mode)) q (390567 . 2)) ((c def c (c (? . 51) q call/ec)) q (229013 . 3)) ((c def c (c (? . 0) q string<=?)) q (43833 . 4)) ((c def c (c (? . 5) q real->extfl)) q (39237 . 3)) ((c def c (c (? . 1) q make-date*)) c (? . 16)) ((c form c (c (? . 4) q ->)) q (184920 . 12)) ((c def c (c (? . 35) q export-out-sym)) c (? . 36)) ((c def c (c (? . 0) q make-security-guard)) q (358811 . 16)) ((c def c (c (? . 0) q use-compiled-file-check)) q (336381 . 4)) ((c def c (c (? . 10) q fxmodulo)) q (34450 . 4)) ((c form c (c (? . 1) q define-struct/derived)) q (146710 . 3)) ((c def c (c (? . 2) q copy-port)) q (300719 . 4)) ((c form c (c (? . 59) q multi-in)) q (9326 . 8)) ((c def c (c (? . 6) q unsafe-impersonate-vector)) q (436363 . 11)) ((c def c (c (? . 0) q symbol-unreadable?)) q (67939 . 3)) ((c def c (c (? . 0) q boolean?)) q (17445 . 3)) ((c def c (c (? . 0) q char-symbolic?)) q (66899 . 3)) ((c def c (c (? . 9) q prop:flat-contract)) q (201002 . 2)) ((c def c (c (? . 0) q write-bytes)) q (310216 . 7)) ((c def c (c (? . 3) q call/cc)) q (228458 . 5)) ((c def c (c (? . 11) q dict->list)) q (125785 . 3)) ((c form c (c (? . 1) q for*/product)) q (15343 . 2)) ((c def c (c (? . 19) q set-clear)) q (135462 . 3)) ((c def c (c (? . 0) q peek-char-or-special)) q (307928 . 10)) ((c form c (c (? . 3) q log-error)) q (410738 . 3)) ((c def c (c (? . 1) q sequence-generate*)) q (118216 . 5)) ((c form c (c (? . 1) q struct-field-index)) q (146510 . 2)) ((c def c (c (? . 50) q string-split)) q (47164 . 9)) ((c def c (c (? . 1) q make-base-empty-namespace)) q (328777 . 2)) ((c form c (c (? . 7) q define/private)) q (158301 . 3)) ((c def c (c (? . 21) q path-replace-extension)) q (376565 . 4)) ((c def c (c (? . 1) q procedure->method)) q (141012 . 3)) ((c def c (c (? . 4) q predicate/c)) q (190634 . 2)) ((c def c (c (? . 0) q custodian?)) q (359608 . 3)) ((c def c (c (? . 17) q vector-count)) q (103425 . 4)) ((c def c (c (? . 0) q progress-evt?)) q (309466 . 6)) ((c form c (c (? . 8) q implies)) q (18348 . 2)) ((c def c (c (? . 15) q deserialize-module-guard)) q (326736 . 5)) ((c def c (c (? . 0) q bytes-copy!)) q (59059 . 11)) ((c def c (c (? . 0) q hash-remove!)) q (109266 . 4)) ((c def c (c (? . 0) q set-mcdr!)) q (100049 . 4)) ((c def c (c (? . 0) q custodian-shutdown-all)) q (359763 . 3)) ((c def c (c (? . 5) q floating-point-bytes->extfl)) q (40995 . 9)) ((c def c (c (? . 0) q weak-box?)) q (421095 . 3)) ((c def c (c (? . 6) q unsafe-mutable-hash-iterate-first)) q (430731 . 3)) ((c def c (c (? . 12) q fourth)) q (92764 . 3)) ((c form c (c (? . 7) q augride*)) q (157432 . 2)) ((c def c (c (? . 8) q boolean=?)) q (18167 . 4)) ((c form c (c (? . 7) q rename-inner)) q (157138 . 2)) ((c def c (c (? . 0) q string-copy)) q (42679 . 3)) ((c def c (c (? . 9) q prop:chaperone-contract)) q (200946 . 2)) ((c def c (c (? . 0) q bytes?)) q (58137 . 3)) ((c form c (c (? . 29) q splicing-syntax-parameterize)) q (269133 . 2)) ((c form c (c (? . 40) q match)) q (213581 . 6)) ((c def c (c (? . 14) q =/c)) q (179013 . 3)) ((c def c (c (? . 6) q unsafe-fl<=)) q (424605 . 4)) ((c def c (c (? . 1) q exn:fail:syntax)) c (? . 63)) ((c def c (c (? . 10) q fxior)) q (34651 . 4)) ((c form c (c (? . 47) q infinite-generator)) q (122054 . 2)) ((c def c (c (? . 0) q string-normalize-nfd)) q (44893 . 3)) ((c def c (c (? . 11) q dict-copy)) q (125490 . 3)) ((c def c (c (? . 20) q sqr)) q (28972 . 3)) ((c form c (c (? . 1) q for/product)) q (14315 . 2)) ((c def c (c (? . 11) q dict-values)) q (125725 . 3)) ((c def c (c (? . 18) q date->string)) q (414047 . 4)) ((c def c (c (? . 12) q argmin)) q (98438 . 4)) ((c def c (c (? . 22) q import?)) c (? . 23)) ((c def c (c (? . 0) q current-print)) q (337011 . 4)) ((c def c (c (? . 0) q unquoted-printing-string?)) q (219718 . 3)) ((c def c (c (? . 0) q syntax-local-lift-context)) q (260975 . 2)) ((c def c (c (? . 6) q unsafe-mutable-hash-iterate-value)) q (431171 . 4)) ((c def c (c (? . 0) q raise-range-error)) q (217780 . 17)) ((c def c (c (? . 4) q or/c)) q (178694 . 3)) ((c def c (c (? . 0) q string>=?)) q (44024 . 4)) ((c def c (c (? . 0) q namespace-require/copy)) q (330758 . 3)) ((c def c (c (? . 0) q make-weak-hasheq)) q (106980 . 3)) ((c def c (c (? . 1) q prop:procedure)) q (143133 . 2)) ((c def c (c (? . 0) q current-load/use-compiled)) q (335165 . 13)) ((c def c (c (? . 0) q module-compiled-imports)) q (342279 . 5)) ((c def c (c (? . 0) q explode-path)) q (376419 . 4)) ((c def c (c (? . 0) q make-custodian)) q (359664 . 3)) ((c def c (c (? . 0) q char-general-category)) q (67299 . 3)) ((c form c (c (? . 7) q private*)) q (157508 . 2)) ((c def c (c (? . 30) q make-struct-info)) q (152735 . 3)) ((c def c (c (? . 13) q copy-directory/files)) q (386369 . 11)) ((c def c (c (? . 100) q dynamic-enter!)) q (440492 . 7)) ((c def c (c (? . 4) q integer-in)) q (179448 . 4)) ((c def c (c (? . 0) q caaddr)) q (91135 . 3)) ((c def c (c (? . 28) q pretty-display)) q (320747 . 5)) ((c def c (c (? . 14) q none/c)) q (178662 . 2)) ((c def c (c (? . 0) q struct->vector)) q (151298 . 4)) ((c def c (c (? . 54) q impersonator-prop:blame)) q (201206 . 2)) ((c def c (c (? . 15) q serialized=?)) q (326655 . 4)) ((c def c (c (? . 0) q date*?)) c (? . 16)) ((c def c (c (? . 0) q syntax-taint)) q (270442 . 3)) ((c def c (c (? . 17) q vector-split-at)) q (102804 . 4)) ((c form c (c (? . 3) q log-fatal)) q (410666 . 3)) ((c def c (c (? . 0) q exn:fail:filesystem:errno-errno)) c (? . 31)) ((c def c (c (? . 13) q other-execute-bit)) q (392664 . 2)) ((c def c (c (? . 0) q cddddr)) q (92335 . 3)) ((c def c (c (? . 18) q date->julian/scaliger)) q (415585 . 3)) ((c def c (c (? . 0) q make-logger)) q (409011 . 10)) ((c def c (c (? . 0) q namespace-symbol->identifier)) q (329260 . 3)) ((c def c (c (? . 0) q port-read-handler)) q (315973 . 10)) ((c def c (c (? . 0) q string->number)) q (26112 . 14)) ((c def c (c (? . 19) q set)) q (130687 . 3)) ((c form c (c (? . 60) q syntax)) q (247704 . 23)) ((c def c (c (? . 6) q unsafe-vector*-set!)) q (428291 . 5)) ((c def c (c (? . 6) q unsafe-fxabs)) q (422916 . 3)) ((c def c (c (? . 45) q sequence-ref)) q (118527 . 4)) ((c def c (c (? . 0) q break-enabled)) q (233845 . 4)) ((c def c (c (? . 1) q in-lines)) q (113985 . 5)) ((c form c (c (? . 42) q delay/name)) q (226894 . 2)) ((c def c (c (? . 12) q remf)) q (98896 . 4)) ((c def c (c (? . 20) q nan?)) q (29699 . 3)) ((c def c (c (? . 21) q channel-try-get)) q (237910 . 3)) ((c def c (c (? . 0) q char>=?)) q (65986 . 4)) ((c def c (c (? . 33) q stream-tail)) q (120701 . 4)) ((c def c (c (? . 24) q raise-contract-error)) q (212164 . 13)) ((c def c (c (? . 12) q drop-right)) q (94890 . 4)) ((c def c (c (? . 0) q vector-ref)) q (100551 . 4)) ((c def c (c (? . 6) q unsafe-fx=)) q (423440 . 4)) ((c def c (c (? . 22) q import-req-mode)) c (? . 23)) ((c def c (c (? . 13) q other-read-bit)) q (392601 . 2)) ((c def c (c (? . 26) q call-with-custodian-shutdown)) c (? . 130)) ((c def c (c (? . 0) q path<?)) q (373965 . 4)) ((c def c (c (? . 19) q set/c)) q (133842 . 13)) ((c def c (c (? . 0) q input-port?)) q (273429 . 3)) ((c form c (c (? . 1) q rename-in)) q (4392 . 2)) ((c def c (c (? . 0) q string-downcase)) q (44676 . 3)) ((c def c (c (? . 0) q arity-at-least?)) c (? . 62)) ((c def c (c (? . 0) q cdadr)) q (90589 . 3)) ((c def c (c (? . 6) q unsafe-chaperone-procedure)) q (435977 . 11)) ((c def c (c (? . 0) q string->keyword)) q (86200 . 3)) ((c def c (c (? . 41) q current-blame-format)) q (200733 . 4)) ((c def c (c (? . 0) q make-thread-group)) q (360882 . 3)) ((c def c (c (? . 11) q make-immutable-custom-hash)) q (129610 . 14)) ((c def c (c (? . 24) q make-proj-contract)) q (211582 . 15)) ((c def c (c (? . 37) q bytes-join)) q (65131 . 4)) ((c def c (c (? . 6) q unsafe-fl->fx)) q (426466 . 3)) ((c def c (c (? . 0) q byte-regexp)) q (69014 . 6)) ((c def c (c (? . 10) q fxabs)) q (34526 . 3)) ((c def c (c (? . 0) q make-will-executor)) q (421408 . 2)) ((c def c (c (? . 0) q call-with-values)) q (216029 . 4)) ((c def c (c (? . 0) q make-inspector)) q (361231 . 3)) ((c def c (c (? . 13) q write-to-file)) q (385332 . 11)) ((c def c (c (? . 14) q >/c)) q (179123 . 3)) ((c def c (c (? . 0) q exact-nonnegative-integer?)) q (18773 . 3)) ((c form c (c (? . 3) q log-info)) q (410886 . 3)) ((c def c (c (? . 0) q struct:exn:fail:contract:variable)) c (? . 27)) ((c def c (c (? . 0) q exn:break-continuation)) c (? . 38)) ((c def c (c (? . 24) q contract-random-generate)) q (212717 . 5)) ((c def c (c (? . 0) q bytes-set!)) q (58672 . 5)) ((c def c (c (? . 21) q rationalize)) q (21332 . 4)) ((c form c (c (? . 19) q for*/mutable-set)) q (132900 . 2)) ((c def c (c (? . 1) q date)) c (? . 25)) ((c def c (c (? . 0) q make-input-port)) q (281207 . 49)) ((c def c (c (? . 26) q sandbox-make-environment-variables)) q (370424 . 5)) ((c def c (c (? . 0) q cddr)) q (90115 . 3)) ((c def c (c (? . 6) q unsafe-fl+)) q (423997 . 4)) ((c def c (c (? . 5) q extflvector-copy)) q (40075 . 5)) ((c def c (c (? . 0) q raise-result-error)) q (217091 . 13)) ((c def c (c (? . 7) q equal<%>)) q (167087 . 2)) ((c def c (c (? . 0) q =)) q (21421 . 4)) ((c def c (c (? . 2) q port->bytes)) q (286410 . 4)) ((c def c (c (? . 6) q unsafe-extfllog)) q (434831 . 3)) ((c def c (c (? . 12) q first)) q (92560 . 3)) ((c def c (c (? . 0) q exn:fail:contract:variable-id)) c (? . 27)) ((c def c (c (? . 4) q the-unsupplied-arg)) q (190666 . 2)) ((c def c (c (? . 0) q custodian-require-memory)) q (360119 . 7)) ((c def c (c (? . 28) q pretty-print-print-line)) q (322966 . 15)) ((c def c (c (? . 34) q udp-send-to*)) q (396195 . 13)) ((c def c (c (? . 0) q continuation-mark-key?)) q (233605 . 3)) ((c def c (c (? . 0) q cos)) q (22238 . 3)) ((c form c (c (? . 101) q syntax-parameterize)) q (268573 . 2)) ((c def c (c (? . 0) q struct:exn:break:hang-up)) c (? . 85)) ((c def c (c (? . 0) q read-accept-dot)) q (314830 . 4)) ((c def c (c (? . 12) q indexes-where)) q (94103 . 4)) ((c form c (c (? . 7) q define-local-member-name)) q (158679 . 2)) ((c def c (c (? . 32) q current-trace-print-args)) q (441648 . 14)) ((c def c (c (? . 0) q subprocess?)) q (403793 . 3)) ((c def c (c (? . 20) q conjugate)) q (29116 . 3)) ((c def c (c (? . 0) q inexact-real?)) q (18914 . 3)) ((c def c (c (? . 20) q exact-truncate)) q (29528 . 3)) ((c form c (c (? . 29) q splicing-let-syntax)) q (268954 . 2)) ((c def c (c (? . 30) q struct-auto-info?)) q (153075 . 3)) ((c def c (c (? . 1) q exn:fail:filesystem:errno)) c (? . 31)) ((c def c (c (? . 61) q prop:chaperone-unsafe-undefined)) q (437606 . 2)) ((c def c (c (? . 0) q port-writes-atomic?)) q (312424 . 3)) ((c def c (c (? . 0) q vector-fill!)) q (101025 . 4)) ((c def c (c (? . 0) q syntax-local-context)) q (261509 . 3)) ((c def c (c (? . 0) q exp)) q (22052 . 3)) ((c form c (c (? . 32) q trace-define)) q (441092 . 3)) ((c def c (c (? . 84) q ormap)) q (87607 . 4)) ((c def c (c (? . 8) q false?)) q (18247 . 3)) ((c form c (c (? . 1) q lib)) q (4787 . 2)) ((c def c (c (? . 33) q stream?)) q (119991 . 3)) ((c def c (c (? . 0) q placeholder?)) q (99119 . 3)) ((c form c (c (? . 39) q export)) q (172576 . 2)) ((c def c (c (? . 12) q list-set)) q (93471 . 5)) ((c form c (c (? . 7) q define/override)) q (157791 . 3)) ((c def c (c (? . 21) q path-add-extension)) q (376731 . 5)) ((c def c (c (? . 0) q chaperone-continuation-mark-key)) q (357804 . 13)) ((c def c (c (? . 44) q normalized-arity?)) q (144844 . 3)) ((c def c (c (? . 0) q real-part)) q (22727 . 3)) ((c def c (c (? . 0) q prop:custom-write)) q (326080 . 2)) ((c def c (c (? . 0) q string?)) q (41838 . 3)) ((c def c (c (? . 0) q thread-wait)) q (235563 . 3)) ((c def c (c (? . 1) q in-mutable-hash-values)) q (114868 . 3)) ((c def c (c (? . 1) q regexp-replaces)) q (85453 . 8)) ((c def c (c (? . 6) q unsafe-vector-length)) q (427816 . 3)) ((c def c (c (? . 53) q foldr)) q (87897 . 5)) ((c def c (c (? . 0) q pregexp)) q (68855 . 6)) ((c def c (c (? . 34) q udp?)) q (399140 . 3)) ((c def c (c (? . 0) q nack-guard-evt)) q (237018 . 3)) ((c def c (c (? . 0) q read-bytes-avail!)) q (302390 . 7)) ((c def c (c (? . 7) q member-name-key-hash-code)) q (159037 . 3)) ((c form c (c (? . 46) q include-at/relative-to/reader)) q (271187 . 2)) ((c def c (c (? . 35) q export-protect?)) c (? . 36)) ((c def c (c (? . 0) q call-with-continuation-barrier)) q (229152 . 3)) ((c def c (c (? . 0) q build-path)) q (374233 . 6)) ((c def c (c (? . 0) q channel-put-evt)) q (238049 . 4)) ((c def c (c (? . 0) q struct:exn:fail:network)) c (? . 66)) ((c def c (c (? . 6) q unsafe-flcos)) q (425233 . 3)) ((c form c (c (? . 7) q pubment)) q (156610 . 2)) ((c def c (c (? . 7) q class?)) q (167549 . 3)) ((c def c (c (? . 0) q free-template-identifier=?)) q (252849 . 4)) ((c def c (c (? . 5) q extflonum-available?)) q (37183 . 2)) ((c def c (c (? . 0) q integer-bytes->integer)) q (26810 . 11)) ((c def c (c (? . 0) q subbytes)) q (58821 . 5)) ((c def c (c (? . 11) q dict-iterate-next)) q (123676 . 4)) ((c def c (c (? . 0) q print-as-expression)) q (318486 . 4)) ((c def c (c (? . 37) q bytes-append*)) q (65028 . 4)) ((c def c (c (? . 5) q extflround)) q (38200 . 3)) ((c def c (c (? . 12) q take-right)) q (94789 . 4)) ((c def c (c (? . 0) q bitwise-ior)) q (22968 . 3)) ((c def c (c (? . 68) q system/exit-code)) q (405205 . 5)) ((c def c (c (? . 7) q make-generic)) q (161082 . 4)) ((c def c (c (? . 0) q executable-yield-handler)) q (234492 . 4)) ((c def c (c (? . 0) q cadaar)) q (91235 . 3)) ((q def ((lib "racket/rerequire.rkt") dynamic-rerequire)) q (440844 . 5)) ((c def c (c (? . 0) q struct:exn:break)) c (? . 38)) ((c form c (c (? . 39) q compound-unit/infer)) q (173466 . 18)) ((c def c (c (? . 40) q prop:match-expander)) q (215282 . 2)) ((c def c (c (? . 0) q namespace-require/constant)) q (330867 . 3)) ((c def c (c (? . 82) q ~.a)) q (54397 . 25)) ((c def c (c (? . 33) q stream-filter)) q (121462 . 4)) ((c def c (c (? . 0) q vector-immutable)) q (100340 . 4)) ((c def c (c (? . 0) q char-foldcase)) q (67756 . 3)) ((c def c (c (? . 0) q continuation-mark-set?)) q (233673 . 3)) ((c def c (c (? . 10) q fxremainder)) q (34371 . 4)) ((c def c (c (? . 1) q exn:fail:contract:divide-by-zero)) c (? . 75)) ((c form c (c (? . 7) q class/derived)) q (158381 . 5)) ((c def c (c (? . 0) q struct:exn:fail:contract)) c (? . 55)) ((c def c (c (? . 26) q gui?)) q (372457 . 2)) ((c def c (c (? . 0) q sync/enable-break)) q (236447 . 3)) ((c def c (c (? . 41) q blame-update)) q (200225 . 5)) ((c def c (c (? . 0) q load-on-demand-enabled)) q (338125 . 4)) ((c def c (c (? . 0) q syntax-transforming?)) q (262509 . 2)) ((c def c (c (? . 2) q make-limited-input-port)) q (290947 . 7)) ((c def c (c (? . 10) q fx-)) q (34151 . 4)) ((c def c (c (? . 5) q extfl->exact)) q (39296 . 3)) ((c def c (c (? . 12) q make-list)) q (93219 . 4)) ((c def c (c (? . 19) q set-union)) q (135613 . 4)) ((c def c (c (? . 14) q flat-contract-with-explanation)) q (178081 . 6)) ((c def c (c (? . 34) q udp-receive-ready-evt)) q (399417 . 3)) ((c def c (c (? . 0) q make-bytes)) q (58189 . 4)) ((c form c (c (? . 1) q all-from-out)) q (5960 . 2)) ((c def c (c (? . 0) q thread-try-receive)) q (236049 . 2)) ((c def c (c (? . 0) q current-custodian)) q (359839 . 4)) ((c form c (c (? . 42) q delay/strict)) q (226997 . 2)) ((c def c (c (? . 0) q min)) q (20705 . 3)) ((c def c (c (? . 43) q fltruncate)) q (31124 . 3)) ((c def c (c (? . 11) q dict-for-each)) q (125238 . 4)) ((c form c (c (? . 1) q for/lists)) q (14381 . 2)) ((c def c (c (? . 19) q seteq)) q (130858 . 3)) ((c form c (c (? . 0) q #%variable-reference)) q (9680 . 4)) ((c def c (c (? . 10) q fxquotient)) q (34293 . 4)) ((c form c (c (? . 19) q for*/seteqv)) q (132675 . 2)) ((c def c (c (? . 0) q weak-box-value)) q (420982 . 4)) ((c def c (c (? . 12) q indexes-of)) q (93923 . 6)) ((c def c (c (? . 0) q read-syntax)) q (312657 . 4)) ((c form c (c (? . 106) q serializable-struct/versions)) q (327180 . 7)) ((c def c (c (? . 0) q hash-remove)) q (109380 . 4)) ((c def c (c (? . 44) q curryr)) q (144704 . 6)) ((c def c (c (? . 11) q dict-iterate-value)) q (123851 . 4)) ((c def c (c (? . 12) q list-update)) q (93311 . 5)) ((c def c (c (? . 45) q sequence-append)) q (118728 . 3)) ((c def c (c (? . 11) q dict-map)) q (125122 . 4)) ((c def c (c (? . 0) q free-transformer-identifier=?)) q (252731 . 4)) ((c def c (c (? . 0) q current-module-declare-name)) q (339642 . 5)) ((c form c (c (? . 7) q augride)) q (156846 . 2)) ((c def c (c (? . 43) q flreal-part)) q (32071 . 5)) ((c def c (c (? . 0) q prop:arity-string)) q (143356 . 2)) ((c def c (c (? . 0) q expand-syntax)) q (270582 . 3)) ((c form c (c (? . 32) q trace-let)) q (441300 . 2)) ((c def c (c (? . 2) q dup-output-port)) q (293731 . 4)) ((c def c (c (? . 33) q stream-empty?)) q (120044 . 3)) ((c def c (c (? . 24) q contract-random-generate-fail)) q (213123 . 2)) ((c def c (c (? . 11) q dict-implements?)) q (122460 . 4)) ((c def c (c (? . 0) q subprocess-status)) q (403433 . 4)) ((c def c (c (? . 0) q unbox)) q (105458 . 3)) ((c def c (c (? . 6) q unsafe-list-tail)) q (427244 . 4)) ((c form c (c (? . 46) q include-at/relative-to)) q (271079 . 2)) ((c form c (c (? . 19) q for*/mutable-seteqv)) q (133016 . 2)) ((c form c (c (? . 3) q set!-values)) q (13133 . 2)) ((c form c (c (? . 19) q for/mutable-seteqv)) q (132841 . 2)) ((c def c (c (? . 1) q srcloc)) c (? . 57)) ((c form c (c (? . 7) q override-final)) q (156765 . 2)) ((c form c (c (? . 3) q case)) q (11844 . 5)) ((c def c (c (? . 26) q set-eval-limits)) q (370964 . 5)) ((c form c (c (? . 47) q in-generator)) q (122094 . 5)) ((c def c (c (? . 0) q unquoted-printing-string)) q (219789 . 3)) ((c def c (c (? . 72) q tcp-close)) q (394058 . 3)) ((c def c (c (? . 28) q pretty-print-size-hook)) q (323471 . 9)) ((c def c (c (? . 0) q make-pseudo-random-generator)) q (24468 . 2)) ((c def c (c (? . 64) q place-channel?)) q (243691 . 3)) ((c def c (c (? . 8) q xor)) q (18379 . 4)) ((c form c (c (? . 48) q control-at)) q (230684 . 2)) ((c form c (c (? . 49) q with-disappeared-uses)) q (272464 . 4)) ((c form c (c (? . 49) q with-syntax*)) q (273213 . 5)) ((c def c (c (? . 0) q bytes=?)) q (59971 . 4)) ((c def c (c (? . 0) q evt?)) q (236200 . 3)) ((c form c (c (? . 0) q quote-syntax)) q (16796 . 3)) ((c def c (c (? . 1) q sequence->stream)) q (118059 . 3)) ((c def c (c (? . 0) q current-process-milliseconds)) q (413595 . 3)) ((c form c (c (? . 7) q send/keyword-apply)) q (159706 . 4)) ((c def c (c (? . 0) q bytes-convert-end)) q (64388 . 13)) ((c def c (c (? . 1) q regexp-quote)) q (69361 . 7)) ((c def c (c (? . 0) q identifier-template-binding)) q (254555 . 12)) ((c form c (c (? . 39) q define-unit/new-import-export)) q (175235 . 6)) ((c def c (c (? . 30) q checked-struct-info?)) q (152669 . 3)) ((c def c (c (? . 12) q takef)) q (94532 . 4)) ((c def c (c (? . 50) q string-prefix?)) q (48060 . 4)) ((c def c (c (? . 0) q read/recursive)) q (312830 . 6)) ((c form c (c (? . 4) q case->)) q (189226 . 9)) ((c form c (c (? . 51) q let/ec)) q (229121 . 2)) ((c def c (c (? . 0) q path->bytes)) q (373499 . 3)) ((c def c (c (? . 6) q unsafe-s16vector-set!)) q (429948 . 5)) ((c def c (c (? . 43) q flvector-length)) q (32799 . 3)) ((c def c (c (? . 6) q unsafe-string-length)) q (428432 . 3)) ((c def c (c (? . 41) q exn:fail:contract:blame)) c (? . 58)) ((c def c (c (? . 0) q raise)) q (216144 . 4)) ((c def c (c (? . 20) q exact-floor)) q (29392 . 3)) ((c def c (c (? . 41) q blame-replace-negative)) q (200135 . 4)) ((c def c (c (? . 2) q read-line-evt)) q (298812 . 4)) ((c def c (c (? . 0) q peek-bytes-avail!)) q (304982 . 14)) ((c def c (c (? . 6) q unsafe-fx<=)) q (423677 . 4)) ((c form c (c (? . 1) q for-template)) q (6504 . 2)) ((c def c (c (? . 6) q unsafe-extflsqrt)) q (434967 . 3)) ((c def c (c (? . 1) q namespace-anchor?)) q (328916 . 3)) ((c def c (c (? . 19) q set-union!)) q (135716 . 4)) ((c def c (c (? . 52) q fsemaphore-try-wait?)) q (243424 . 3)) ((c def c (c (? . 26) q sandbox-error-output)) q (366144 . 14)) ((c def c (c (? . 45) q sequence-for-each)) q (119095 . 4)) ((c def c (c (? . 0) q syntax-local-value)) q (260089 . 8)) ((c def c (c (? . 28) q pretty-print-current-style-table)) q (322148 . 4)) ((c def c (c (? . 0) q struct:exn:fail:filesystem:missing-module)) c (? . 71)) ((c def c (c (? . 2) q read-string-evt)) q (298586 . 4)) ((c def c (c (? . 0) q read-byte-or-special)) q (307256 . 8)) ((c form c (c (? . 19) q for/weak-seteq)) q (133129 . 2)) ((c def c (c (? . 83) q getpid)) q (420883 . 2)) ((c def c (c (? . 12) q drop-common-prefix)) q (95663 . 5)) ((c def c (c (? . 53) q remq*)) q (88472 . 4)) ((c def c (c (? . 0) q namespace-mapped-symbols)) q (330528 . 3)) ((c def c (c (? . 0) q caaadr)) q (90935 . 3)) ((c form c (c (? . 33) q stream)) q (120328 . 2)) ((c def c (c (? . 0) q fixnum?)) q (18973 . 3)) ((c def c (c (? . 19) q set-first)) q (135048 . 3)) ((c form c (c (? . 1) q struct)) q (145375 . 34)) ((c def c (c (? . 53) q remove)) q (88093 . 5)) ((c def c (c (? . 0) q current-load-extension)) q (334840 . 5)) ((c def c (c (? . 78) q async-channel/c)) q (240015 . 3)) ((c def c (c (? . 14) q >=/c)) q (179234 . 3)) ((c def c (c (? . 12) q count)) q (97389 . 4)) ((c def c (c (? . 54) q get/build-late-neg-projection)) q (198301 . 4)) ((c def c (c (? . 0) q ceiling)) q (21041 . 3)) ((c def c (c (? . 0) q hash-count)) q (110399 . 3)) ((c def c (c (? . 0) q module-declared?)) q (343833 . 5)) ((c def c (c (? . 43) q fl*)) q (30258 . 4)) ((c def c (c (? . 1) q exn:fail:contract)) c (? . 55)) ((c form c (c (? . 56) q runtime-require)) q (383387 . 2)) ((c def c (c (? . 22) q import-source?)) c (? . 92)) ((c def c (c (? . 17) q vector-append)) q (102299 . 3)) ((c def c (c (? . 19) q mutable-set)) q (130942 . 4)) ((c def c (c (? . 0) q caaaar)) q (90835 . 3)) ((c form c (c (? . 56) q define-runtime-paths)) q (383175 . 2)) ((c form c (c (? . 7) q rename-super)) q (157102 . 2)) ((c def c (c (? . 34) q udp-multicast-loopback?)) q (401866 . 3)) ((c def c (c (? . 32) q current-prefix-in)) q (442642 . 4)) ((c def c (c (? . 43) q make-flrectangular)) q (31856 . 7)) ((c def c (c (? . 26) q call-in-sandbox-context)) q (372188 . 7)) ((c def c (c (? . 0) q identifier-prune-lexical-context)) q (251335 . 5)) ((c def c (c (? . 0) q banner)) q (417860 . 2)) ((c def c (c (? . 21) q channel-put)) q (237971 . 4)) ((c def c (c (? . 10) q fxlshift)) q (34849 . 4)) ((c def c (c (? . 0) q variable-reference->module-base-phase)) q (333463 . 3)) ((c def c (c (? . 1) q make-exn:fail:filesystem:exists)) c (? . 80)) ((c def c (c (? . 28) q pretty-print-style-table?)) q (322077 . 3)) ((c def c (c (? . 0) q acos)) q (22389 . 3)) ((c def c (c (? . 54) q contract-late-neg-projection)) q (209910 . 4)) ((c def c (c (? . 0) q string-copy!)) q (42741 . 11)) ((c def c (c (? . 12) q argmax)) q (98545 . 4)) ((c def c (c (? . 1) q make-srcloc)) c (? . 57)) ((c def c (c (? . 0) q eval-syntax)) q (333951 . 4)) ((c def c (c (? . 0) q exact->inexact)) q (19639 . 3)) ((c def c (c (? . 10) q fx->fl)) q (35509 . 3)) ((c def c (c (? . 41) q struct:exn:fail:contract:blame)) c (? . 58)) ((c def c (c (? . 0) q file-size)) q (381471 . 3)) ((c form c (c (? . 54) q with-contract-continuation-mark)) q (198539 . 3)) ((c def c (c (? . 0) q hash-eq?)) q (105944 . 3)) ((c def c (c (? . 15) q deserialize)) q (326603 . 3)) ((c def c (c (? . 13) q call-with-atomic-output-file)) q (388880 . 8)) ((c def c (c (? . 13) q group-execute-bit)) q (392567 . 2)) ((c def c (c (? . 0) q exn:fail:read:eof?)) c (? . 88)) ((c def c (c (? . 0) q struct-type-info)) q (361832 . 11)) ((c def c (c (? . 0) q list->vector)) q (100868 . 3)) ((c def c (c (? . 0) q will-try-execute)) q (421733 . 4)) ((c def c (c (? . 26) q break-evaluator)) q (370783 . 3)) ((c def c (c (? . 53) q assf)) q (89830 . 4)) ((c form c (c (? . 48) q prompt)) q (230575 . 2)) ((c def c (c (? . 0) q handle-evt)) q (236828 . 4)) ((c def c (c (? . 50) q string-normalize-spaces)) q (46533 . 11)) ((c def c (c (? . 0) q make-struct-type)) q (146813 . 31)) ((c def c (c (? . 10) q fxand)) q (34578 . 4)) ((c def c (c (? . 1) q regexp-match-positions*)) q (73316 . 17)) ((c def c (c (? . 0) q string->path)) q (373235 . 3)) ((c def c (c (? . 14) q channel/c)) q (183966 . 3)) ((c def c (c (? . 0) q cdddr)) q (90753 . 3)) ((c def c (c (? . 0) q continuation-prompt-available?)) q (229235 . 5)) ((c def c (c (? . 0) q log-message)) q (409642 . 13)) ((c def c (c (? . 0) q filesystem-root-list)) q (382627 . 2)) ((c def c (c (? . 11) q make-weak-custom-hash)) q (128879 . 14)) ((c def c (c (? . 127) q syntax-procedure-converted-arguments-property)) q (268176 . 8)) ((c form c (c (? . 59) q matching-identifiers-in)) q (9134 . 2)) ((c form c (c (? . 39) q link)) q (172614 . 2)) ((c form c (c (? . 60) q quote-syntax/prune)) q (248783 . 2)) ((c def c (c (? . 13) q other-write-bit)) q (392632 . 2)) ((c form c (c (? . 0) q module*)) q (1695 . 3)) ((c def c (c (? . 0) q module->imports)) q (344241 . 6)) ((c def c (c (? . 0) q local-transformer-expand/capture-lifts)) q (257979 . 11)) ((c def c (c (? . 54) q coerce-contract/f)) q (198107 . 3)) ((c form c (c (? . 40) q match-define)) q (215017 . 2)) ((c def c (c (? . 48) q abort/cc)) q (230040 . 4)) ((c def c (c (? . 3) q hash-update)) q (108926 . 9)) ((c def c (c (? . 34) q udp-send-to/enable-break)) q (396887 . 13)) ((c def c (c (? . 0) q string-locale-upcase)) q (45824 . 3)) ((c def c (c (? . 61) q check-not-unsafe-undefined/assign)) q (437380 . 5)) ((c def c (c (? . 6) q unsafe-extfltan)) q (434556 . 3)) ((c def c (c (? . 6) q unsafe-extflabs)) q (433441 . 3)) ((c def c (c (? . 0) q syntax-local-lift-expression)) q (260751 . 3)) ((c def c (c (? . 1) q arity-at-least)) c (? . 62)) ((c def c (c (? . 74) q mixin-contract)) q (166706 . 2)) ((c form c (c (? . 48) q set)) q (231495 . 2)) ((c form c (c (? . 29) q splicing-let)) q (268854 . 2)) ((c def c (c (? . 19) q in-mutable-set)) q (133471 . 3)) ((c def c (c (? . 7) q dynamic-set-field!)) q (160650 . 5)) ((c def c (c (? . 0) q namespace-base-phase)) q (329343 . 3)) ((c def c (c (? . 0) q version)) q (417806 . 2)) ((c form c (c (? . 7) q augment*)) q (157397 . 2)) ((c def c (c (? . 0) q exn:fail:filesystem:version?)) c (? . 122)) ((c form c (c (? . 19) q for*/mutable-seteq)) q (132957 . 2)) ((c def c (c (? . 0) q semaphore-wait/enable-break)) q (238569 . 3)) ((c def c (c (? . 6) q unsafe-flexp)) q (425590 . 3)) ((c def c (c (? . 0) q handle-evt?)) q (237477 . 3)) ((c def c (c (? . 1) q exn:fail:network:errno)) c (? . 113)) ((c def c (c (? . 11) q dict-empty?)) q (125347 . 3)) ((c def c (c (? . 0) q poll-guard-evt)) q (237112 . 3)) ((c def c (c (? . 0) q real->double-flonum)) q (19772 . 3)) ((c def c (c (? . 0) q syntax-local-lift-require)) q (261186 . 5)) ((c def c (c (? . 44) q disjoin)) q (144469 . 4)) ((c form c (c (? . 98) q quasisyntax)) q (248610 . 2)) ((c form c (c (? . 42) q delay/sync)) q (227031 . 2)) ((c def c (c (? . 1) q hash-empty?)) q (110479 . 3)) ((c def c (c (? . 1) q with-output-to-file)) q (279026 . 11)) ((c def c (c (? . 0) q print-reader-abbreviations)) q (318370 . 4)) ((c def c (c (? . 1) q make-exn:fail:syntax)) c (? . 63)) ((c def c (c (? . 0) q read-syntax/recursive)) q (313078 . 11)) ((c def c (c (? . 0) q even?)) q (19362 . 3)) ((c form c (c (? . 56) q runtime-paths)) q (383478 . 2)) ((c def c (c (? . 6) q unsafe-fx>)) q (423598 . 4)) ((c def c (c (? . 0) q syntax-local-module-exports)) q (261668 . 7)) ((c def c (c (? . 44) q normalize-arity)) q (144915 . 4)) ((c def c (c (? . 4) q list*of)) q (181303 . 4)) ((c def c (c (? . 1) q sequence-generate)) q (118128 . 3)) ((c def c (c (? . 0) q print-struct)) q (317892 . 4)) ((c def c (c (? . 17) q vector-memv)) q (103847 . 4)) ((c def c (c (? . 0) q copy-file)) q (381557 . 5)) ((c def c (c (? . 0) q peek-byte)) q (307748 . 4)) ((c def c (c (? . 0) q write-bytes-avail*)) q (310882 . 10)) ((c form c (c (? . 7) q interface*)) q (153394 . 7)) ((c def c (c (? . 104) q skip-projection-wrapper?)) q (198412 . 5)) ((c def c (c (? . 0) q make-ephemeron)) q (421150 . 4)) ((c def c (c (? . 0) q syntax-local-module-required-identifiers)) q (263541 . 8)) ((c def c (c (? . 6) q unsafe-mutable-hash-iterate-key+value)) q (431317 . 4)) ((c def c (c (? . 0) q prefab-key->struct-type)) q (151976 . 4)) ((c def c (c (? . 20) q positive-integer?)) q (29804 . 3)) ((c def c (c (? . 20) q degrees->radians)) q (28854 . 3)) ((c def c (c (? . 0) q read-string!)) q (301772 . 7)) ((c def c (c (? . 1) q make-exn:fail:contract:continuation)) c (? . 79)) ((c def c (c (? . 0) q thread-cell-set!)) q (241279 . 4)) ((c form c (c (? . 67) q parametric->/c)) q (190772 . 2)) ((c def c (c (? . 0) q compile-syntax)) q (337391 . 3)) ((c def c (c (? . 0) q subprocess-kill)) q (403592 . 4)) ((q form ((lib "racket/private/define.rkt") define-values-for-syntax)) q (12511 . 2)) ((c def c (c (? . 0) q hash-iterate-key)) q (110787 . 4)) ((c form c (c (? . 51) q let*)) q (10662 . 2)) ((c def c (c (? . 3) q call-with-exception-handler)) q (219977 . 4)) ((c form c (c (? . 44) q thunk*)) q (144279 . 2)) ((c def c (c (? . 28) q pretty-print-depth)) q (321372 . 4)) ((c def c (c (? . 0) q impersonator-prop:application-mark)) q (358682 . 2)) ((c def c (c (? . 20) q sinh)) q (29172 . 3)) ((c def c (c (? . 0) q /)) q (20055 . 6)) ((c def c (c (? . 0) q port-display-handler)) q (319509 . 6)) ((c def c (c (? . 0) q prop:exn:srclocs)) q (225624 . 2)) ((c def c (c (? . 0) q compile-context-preservation-enabled)) q (337893 . 4)) ((c def c (c (? . 1) q syntax-recertify)) q (251645 . 9)) ((c form c (c (? . 7) q class-field-mutator)) q (160863 . 2)) ((c def c (c (? . 7) q interface?)) q (167601 . 3)) ((c form c (c (? . 19) q for*/set)) q (132575 . 2)) ((c form c (c (? . 7) q generic)) q (160914 . 2)) ((c form c (c (? . 11) q gen:dict)) q (122828 . 2)) ((c def c (c (? . 0) q char-ci>?)) q (66369 . 4)) ((c def c (c (? . 13) q group-read-bit)) q (392504 . 2)) ((c form c (c (? . 29) q splicing-letrec-syntaxes)) q (269040 . 2)) ((c def c (c (? . 1) q member)) q (88994 . 5)) ((c def c (c (? . 0) q port-print-handler)) q (319730 . 7)) ((c def c (c (? . 0) q char=?)) q (65613 . 4)) ((c form c (c (? . 105) q invariant-assertion)) q (192983 . 2)) ((c form c (c (? . 39) q define-compound-unit/infer)) q (174320 . 5)) ((c def c (c (? . 0) q procedure?)) q (140565 . 3)) ((c def c (c (? . 0) q date-week-day)) c (? . 25)) ((c def c (c (? . 17) q vector-drop)) q (102586 . 4)) ((c def c (c (? . 49) q record-disappeared-uses)) q (272676 . 3)) ((c def c (c (? . 45) q sequence/c)) q (119619 . 5)) ((c form c (c (? . 7) q define/overment)) q (157873 . 3)) ((c def c (c (? . 19) q set-equal?)) q (130361 . 3)) ((c def c (c (? . 0) q locale-string-encoding)) q (64984 . 2)) ((c def c (c (? . 1) q in-cycle)) q (116460 . 3)) ((c def c (c (? . 0) q prop:expansion-contexts)) q (260033 . 2)) ((c def c (c (? . 0) q read-bytes-avail!*)) q (302702 . 10)) ((c def c (c (? . 19) q set-implements?)) q (133663 . 4)) ((c def c (c (? . 48) q abort)) q (230321 . 3)) ((c form c (c (? . 1) q module+)) q (1769 . 2)) ((c form c (c (? . 48) q reset0)) q (230930 . 2)) ((c def c (c (? . 0) q expand-user-path)) q (375824 . 3)) ((c def c (c (? . 0) q struct:exn:fail:filesystem)) c (? . 65)) ((c def c (c (? . 0) q peek-char)) q (307568 . 4)) ((c def c (c (? . 0) q print-vector-length)) q (318062 . 4)) ((c def c (c (? . 0) q string-normalize-nfkd)) q (44970 . 3)) ((c form c (c (? . 64) q place)) q (244717 . 2)) ((c def c (c (? . 10) q fxrshift)) q (34925 . 4)) ((c def c (c (? . 21) q find-library-collection-links)) q (437908 . 3)) ((c def c (c (? . 0) q make-struct-field-accessor)) q (148113 . 8)) ((q form ((lib "racket/local.rkt") local)) q (11372 . 2)) ((c def c (c (? . 6) q unsafe-fl*)) q (424153 . 4)) ((c def c (c (? . 11) q dict-set)) q (123229 . 5)) ((c def c (c (? . 1) q collection-file-path)) q (438009 . 16)) ((c form c (c (? . 69) q redirect-generics)) q (151051 . 4)) ((c def c (c (? . 45) q sequence-map)) q (118799 . 4)) ((c form c (c (? . 7) q this%)) q (156352 . 2)) ((c def c (c (? . 0) q modulo)) q (20426 . 4)) ((c def c (c (? . 13) q user-read-bit)) q (392410 . 2)) ((c def c (c (? . 0) q read-bytes)) q (301618 . 4)) ((c def c (c (? . 45) q sequence-add-between)) q (119529 . 4)) ((c def c (c (? . 0) q namespace-module-identifier)) q (329462 . 4)) ((c def c (c (? . 22) q make-import)) c (? . 23)) ((c form c (c (? . 1) q planet)) q (4844 . 5)) ((c def c (c (? . 0) q date-month)) c (? . 25)) ((c def c (c (? . 124) q syntax-local-provide-introduce)) q (12841 . 3)) ((c def c (c (? . 0) q error)) q (216232 . 10)) ((c form c (c (? . 0) q #%top)) q (9659 . 2)) ((c def c (c (? . 0) q module-path-index-split)) q (340662 . 5)) ((c def c (c (? . 0) q read-accept-box)) q (314318 . 4)) ((c def c (c (? . 6) q unsafe-struct-set!)) q (430404 . 5)) ((c def c (c (? . 0) q date-second)) c (? . 25)) ((c def c (c (? . 0) q open-output-string)) q (280251 . 3)) ((c def c (c (? . 8) q true)) q (18041 . 2)) ((q form ((lib "racket/help.rkt") help)) q (440211 . 6)) ((c def c (c (? . 6) q unsafe-mutable-hash-iterate-next)) q (430870 . 4)) ((c def c (c (? . 2) q convert-stream)) q (300438 . 9)) ((c def c (c (? . 0) q angle)) q (22918 . 3)) ((c def c (c (? . 33) q stream-first)) q (120105 . 3)) ((c def c (c (? . 49) q current-syntax-context)) q (271999 . 4)) ((c def c (c (? . 0) q compiled-expression-recompile)) q (337469 . 3)) ((c def c (c (? . 0) q prop:output-port)) q (281158 . 2)) ((c def c (c (? . 44) q identity)) q (144148 . 3)) ((c def c (c (? . 0) q namespace-set-variable-value!)) q (329990 . 9)) ((c def c (c (? . 64) q prop:place-location)) q (245693 . 2)) ((c def c (c (? . 0) q hash-keys-subset?)) q (110146 . 4)) ((c def c (c (? . 1) q exn:fail:contract:variable)) c (? . 27)) ((c def c (c (? . 12) q remf*)) q (98977 . 4)) ((c def c (c (? . 1) q procedure-reduce-keyword-arity)) q (142584 . 10)) ((c def c (c (? . 1) q in-mutable-hash)) q (114625 . 3)) ((c def c (c (? . 0) q mcdr)) q (99929 . 3)) ((c def c (c (? . 1) q exn:fail:filesystem)) c (? . 65)) ((c def c (c (? . 6) q unsafe-vector-set!)) q (427966 . 5)) ((c form c (c (? . 1) q #%plain-lambda)) q (10518 . 2)) ((c def c (c (? . 0) q semaphore-try-wait?)) q (238493 . 3)) ((c def c (c (? . 0) q sync/timeout/enable-break)) q (236513 . 4)) ((c def c (c (? . 0) q exn:fail:syntax:missing-module-path)) c (? . 73)) ((c def c (c (? . 0) q char-title-case?)) q (66766 . 3)) ((c def c (c (? . 54) q contract?)) q (209274 . 3)) ((c def c (c (? . 0) q sleep)) q (235376 . 3)) ((c def c (c (? . 0) q module->exports)) q (344487 . 5)) ((c def c (c (? . 0) q set-port-next-location!)) q (275468 . 9)) ((c def c (c (? . 0) q make-hash-placeholder)) q (99468 . 3)) ((c def c (c (? . 0) q exn:fail:syntax?)) c (? . 63)) ((c def c (c (? . 45) q in-syntax)) q (119819 . 3)) ((c form c (c (? . 39) q define-unit-binding)) q (174472 . 6)) ((c def c (c (? . 6) q unsafe-flmin)) q (424765 . 4)) ((c def c (c (? . 10) q fxvector)) q (35670 . 3)) ((c def c (c (? . 10) q make-fxvector)) q (35732 . 4)) ((c form c (c (? . 3) q define-logger)) q (409615 . 2)) ((c def c (c (? . 2) q port->bytes-lines)) q (286890 . 8)) ((c def c (c (? . 19) q seteqv)) q (130772 . 3)) ((c def c (c (? . 3) q hash-ref!)) q (108293 . 5)) ((c def c (c (? . 0) q list->bytes)) q (59732 . 3)) ((c form c (c (? . 1) q provide)) q (5145 . 20)) ((c def c (c (? . 45) q sequence-count)) q (119317 . 4)) ((c def c (c (? . 5) q pi.t)) q (39437 . 2)) ((c def c (c (? . 1) q make-keyword-procedure)) q (142340 . 5)) ((c def c (c (? . 43) q make-shared-flvector)) q (33955 . 4)) ((c def c (c (? . 0) q current-compile)) q (337122 . 5)) ((c def c (c (? . 0) q pseudo-random-generator->vector)) q (24780 . 4)) ((c def c (c (? . 19) q mutable-seteq)) q (131147 . 4)) ((c def c (c (? . 0) q exn:fail:read?)) c (? . 77)) ((c form c (c (? . 7) q new)) q (159226 . 2)) ((c def c (c (? . 6) q unsafe-immutable-hash-iterate-pair)) q (432274 . 4)) ((c def c (c (? . 0) q file-or-directory-permissions)) q (380942 . 11)) ((c def c (c (? . 0) q syntax-disarm)) q (270184 . 4)) ((c def c (c (? . 0) q quotient/remainder)) q (20327 . 4)) ((c def c (c (? . 0) q syntax-e)) q (249895 . 3)) ((c def c (c (? . 6) q unsafe-unbox*)) q (427503 . 3)) ((c def c (c (? . 0) q newline)) q (309847 . 3)) ((c form c (c (? . 4) q recontract-out)) q (191958 . 2)) ((c def c (c (? . 54) q get/build-val-first-projection)) q (198183 . 4)) ((c form c (c (? . 51) q unless)) q (13070 . 2)) ((c def c (c (? . 60) q syntax-pattern-variable?)) q (249041 . 3)) ((c def c (c (? . 0) q continuation-mark-set->list*)) q (232459 . 10)) ((c def c (c (? . 0) q floating-point-bytes->real)) q (27847 . 9)) ((c def c (c (? . 0) q namespace-unprotect-module)) q (331751 . 7)) ((c def c (c (? . 6) q unsafe-immutable-hash-iterate-first)) q (431619 . 3)) ((c def c (c (? . 0) q module-path-index-submodule)) q (340823 . 4)) ((c def c (c (? . 1) q in-value)) q (116268 . 3)) ((c def c (c (? . 34) q udp-send-evt)) q (399964 . 9)) ((c def c (c (? . 6) q unsafe-extfl<)) q (433597 . 4)) ((c def c (c (? . 0) q error-print-width)) q (220639 . 4)) ((c form c (c (? . 1) q prefix-in)) q (4348 . 2)) ((c form c (c (? . 39) q extends)) q (172733 . 2)) ((c def c (c (? . 70) q find-relative-path)) q (377984 . 10)) ((c def c (c (? . 30) q prop:struct-info)) q (152972 . 2)) ((c def c (c (? . 1) q exn:fail:network)) c (? . 66)) ((c def c (c (? . 15) q serializable?)) q (326486 . 3)) ((c form c (c (? . 51) q let*-values)) q (10824 . 2)) ((c def c (c (? . 0) q call-with-current-continuation)) q (228196 . 6)) ((c def c (c (? . 34) q udp-multicast-join-group!)) q (400917 . 7)) ((c def c (c (? . 67) q new-∃/c)) q (190894 . 3)) ((c def c (c (? . 6) q unsafe-car)) q (426646 . 3)) ((c def c (c (? . 76) q hash-union!)) q (112062 . 11)) ((c def c (c (? . 0) q object-name)) q (362337 . 3)) ((c def c (c (? . 0) q remainder)) q (20247 . 4)) ((c def c (c (? . 0) q current-load-relative-directory)) q (335802 . 5)) ((c def c (c (? . 54) q has-contract?)) q (209723 . 3)) ((c def c (c (? . 52) q futures-enabled?)) q (242754 . 2)) ((c def c (c (? . 19) q set-for-each)) q (136910 . 4)) ((c form c (c (? . 1) q #%printing-module-begin)) q (1836 . 2)) ((c def c (c (? . 17) q vector-sort)) q (104051 . 13)) ((c def c (c (? . 68) q process*/ports)) q (407630 . 27)) ((c def c (c (? . 0) q resolved-module-path-name)) q (338644 . 8)) ((c def c (c (? . 0) q peek-string!)) q (303993 . 12)) ((c def c (c (? . 0) q bitwise-xor)) q (23122 . 3)) ((c def c (c (? . 33) q in-stream)) q (120383 . 3)) ((c def c (c (? . 0) q make-syntax-delta-introducer)) q (263004 . 9)) ((c def c (c (? . 6) q unsafe-mutable-hash-iterate-key)) q (431027 . 4)) ((c def c (c (? . 0) q checked-procedure-check-and-extract)) q (143461 . 11)) ((c form c (c (? . 69) q impersonate-generics)) q (150645 . 10)) ((c def c (c (? . 5) q extfltan)) q (38579 . 3)) ((c def c (c (? . 70) q string->some-system-path)) q (378990 . 4)) ((c def c (c (? . 64) q place-kill)) q (245099 . 3)) ((c form c (c (? . 48) q %)) q (230372 . 4)) ((c def c (c (? . 12) q range)) q (97591 . 7)) ((c def c (c (? . 0) q char-lower-case?)) q (66630 . 3)) ((c form c (c (? . 1) q for*/fold/derived)) q (15755 . 4)) ((c def c (c (? . 0) q variable-reference->phase)) q (333350 . 3)) ((c def c (c (? . 0) q impersonator-ephemeron)) q (345240 . 3)) ((c def c (c (? . 107) q vector/c)) q (180403 . 8)) ((c def c (c (? . 22) q import-orig-mode)) c (? . 23)) ((c def c (c (? . 0) q system-language+country)) q (417645 . 2)) ((c form c (c (? . 1) q struct-out)) q (6145 . 2)) ((c def c (c (? . 12) q permutations)) q (98313 . 3)) ((c def c (c (? . 19) q subset?)) q (136547 . 4)) ((c def c (c (? . 5) q extfl*)) q (37396 . 4)) ((c def c (c (? . 0) q variable-reference?)) q (332566 . 3)) ((c form c (c (? . 40) q define-match-expander)) q (215186 . 3)) ((c def c (c (? . 26) q make-module-evaluator)) c (? . 93)) ((c def c (c (? . 0) q pair?)) q (86385 . 3)) ((c def c (c (? . 41) q blame-missing-party?)) q (200328 . 3)) ((c def c (c (? . 0) q module->language-info)) q (344012 . 6)) ((c def c (c (? . 0) q exn:fail:filesystem:missing-module-path)) c (? . 71)) ((c def c (c (? . 0) q vector->list)) q (100807 . 3)) ((c def c (c (? . 72) q tcp-accept-evt)) q (394191 . 3)) ((c def c (c (? . 0) q variable-reference->module-source)) q (333203 . 4)) ((c def c (c (? . 43) q flvector?)) q (32564 . 3)) ((c def c (c (? . 0) q cadadr)) q (91335 . 3)) ((c def c (c (? . 0) q struct:exn:break:terminate)) c (? . 94)) ((c def c (c (? . 34) q udp-send*)) q (396648 . 6)) ((c form c (c (? . 60) q syntax-id-rules)) q (248893 . 3)) ((c def c (c (? . 5) q extfl<)) q (37704 . 4)) ((c def c (c (? . 0) q print-graph)) q (317806 . 4)) ((c def c (c (? . 34) q udp-multicast-interface)) q (401444 . 3)) ((c def c (c (? . 0) q make-string)) q (41891 . 4)) ((c def c (c (? . 1) q hash-values)) q (109990 . 3)) ((c def c (c (? . 6) q unsafe-fx+)) q (422428 . 4)) ((c def c (c (? . 0) q string-set!)) q (42345 . 5)) ((c def c (c (? . 1) q make-exn:fail:filesystem:errno)) c (? . 31)) ((c def c (c (? . 0) q string->unreadable-symbol)) q (68215 . 3)) ((c def c (c (? . 12) q split-common-prefix)) q (95814 . 5)) ((c def c (c (? . 0) q char-iso-control?)) q (67230 . 3)) ((c def c (c (? . 0) q string-locale>?)) q (45407 . 4)) ((c def c (c (? . 0) q srcloc-span)) c (? . 57)) ((c form c (c (? . 33) q stream*)) q (120355 . 2)) ((c def c (c (? . 0) q write)) q (316332 . 4)) ((c def c (c (? . 0) q exn:fail:syntax:missing-module?)) c (? . 73)) ((c form c (c (? . 1) q for-label)) q (6545 . 2)) ((c def c (c (? . 42) q promise/name?)) q (226926 . 3)) ((c def c (c (? . 0) q current-pseudo-random-generator)) q (24609 . 4)) ((c def c (c (? . 0) q prefab-key?)) q (152115 . 3)) ((c def c (c (? . 0) q module-path?)) q (338983 . 3)) ((c def c (c (? . 1) q in-indexed)) q (116323 . 3)) ((c def c (c (? . 121) q with-intercepted-logging)) q (411317 . 17)) ((c def c (c (? . 28) q pretty-print-.-symbol-without-bars)) q (321677 . 4)) ((c def c (c (? . 45) q sequence-filter)) q (119423 . 4)) ((c def c (c (? . 0) q syntax-transforming-with-lifts?)) q (262556 . 2)) ((c def c (c (? . 41) q blame-original?)) q (200012 . 3)) ((c form c (c (? . 51) q and)) q (11797 . 2)) ((c def c (c (? . 50) q string-replace)) q (46990 . 6)) ((c def c (c (? . 54) q coerce-chaperone-contracts)) q (197767 . 5)) ((c def c (c (? . 1) q in-mlist)) q (112927 . 3)) ((c def c (c (? . 30) q prop:struct-auto-info)) q (153021 . 2)) ((c def c (c (? . 0) q raise-argument-error)) q (216695 . 13)) ((c def c (c (? . 21) q path-replace-suffix)) q (376945 . 4)) ((c def c (c (? . 3) q hash-has-key?)) q (108401 . 4)) ((c def c (c (? . 17) q vector-sort!)) q (104652 . 13)) ((c def c (c (? . 0) q char-ci=?)) q (66080 . 4)) ((c def c (c (? . 0) q thread)) q (234633 . 3)) ((c def c (c (? . 53) q reverse)) q (87380 . 3)) ((c def c (c (? . 53) q remv*)) q (88551 . 4)) ((c def c (c (? . 0) q module-compiled-language-info)) q (342929 . 4)) ((c def c (c (? . 1) q regexp-try-match)) q (71535 . 17)) ((c def c (c (? . 74) q implementation?/c)) q (166925 . 3)) ((c def c (c (? . 34) q udp-bind!)) q (394976 . 9)) ((c def c (c (? . 52) q make-fsemaphore)) q (243132 . 3)) ((c def c (c (? . 0) q current-eval)) q (333697 . 4)) ((c def c (c (? . 0) q hash-set)) q (107756 . 5)) ((c def c (c (? . 0) q exn:fail:contract:divide-by-zero?)) c (? . 75)) ((c def c (c (? . 1) q make-date)) c (? . 25)) ((c form c (c (? . 48) q control)) q (230603 . 2)) ((c def c (c (? . 0) q void?)) q (145246 . 3)) ((c def c (c (? . 19) q set-remove!)) q (134819 . 4)) ((c def c (c (? . 6) q unsafe-extflcos)) q (434488 . 3)) ((c def c (c (? . 0) q byte?)) q (58439 . 3)) ((c def c (c (? . 0) q subprocess)) q (402134 . 31)) ((c def c (c (? . 14) q flat-named-contract)) q (178345 . 7)) ((c form c (c (? . 39) q unit/c)) q (176200 . 16)) ((c def c (c (? . 0) q current-evt-pseudo-random-generator)) q (237578 . 5)) ((c def c (c (? . 76) q hash-union)) q (111575 . 12)) ((c def c (c (? . 0) q hash-set!)) q (107485 . 5)) ((c def c (c (? . 0) q cadar)) q (90343 . 3)) ((c def c (c (? . 19) q set=?)) q (136457 . 4)) ((c form c (c (? . 60) q syntax-case)) q (246186 . 28)) ((c def c (c (? . 41) q blame-value)) q (199844 . 3)) ((c def c (c (? . 45) q sequence-fold)) q (119194 . 5)) ((c def c (c (? . 0) q current-library-collection-paths)) q (439100 . 5)) ((c def c (c (? . 1) q namespace-anchor->namespace)) q (329072 . 3)) ((c def c (c (? . 0) q prop:authentic)) q (351484 . 2)) ((c form c (c (? . 52) q for*/async)) q (243081 . 2)) ((c def c (c (? . 0) q prop:custom-print-quotable)) q (326309 . 2)) ((c def c (c (? . 0) q exn:fail:read-srclocs)) c (? . 77)) ((c form c (c (? . 90) q struct/c)) q (182053 . 2)) ((c def c (c (? . 9) q build-contract-property)) q (206003 . 45)) ((c def c (c (? . 6) q unsafe-u16vector-ref)) q (430083 . 4)) ((c def c (c (? . 0) q string->bytes/locale)) q (61473 . 6)) ((c def c (c (? . 3) q current-parameterization)) q (242332 . 2)) ((c def c (c (? . 0) q thread-cell-ref)) q (241210 . 3)) ((c def c (c (? . 43) q fl=)) q (30452 . 4)) ((c def c (c (? . 5) q in-extflvector)) q (40275 . 6)) ((c def c (c (? . 1) q impersonate-procedure)) q (345380 . 11)) ((c def c (c (? . 1) q in-bytes)) q (113461 . 6)) ((c form c (c (? . 5) q for/extflvector)) q (40521 . 2)) ((c form c (c (? . 40) q match-define-values)) q (215050 . 2)) ((c def c (c (? . 32) q current-trace-print-results)) q (442224 . 10)) ((c def c (c (? . 0) q channel?)) q (237760 . 3)) ((c def c (c (? . 26) q evaluator-alive?)) q (370602 . 3)) ((c def c (c (? . 0) q system-library-subpath)) q (417694 . 3)) ((c def c (c (? . 11) q dict-remove!)) q (123370 . 4)) ((c form c (c (? . 39) q unit/new-import-export)) q (175054 . 6)) ((c def c (c (? . 1) q exn:fail:filesystem:missing-module)) c (? . 71)) ((c def c (c (? . 13) q user-execute-bit)) q (392471 . 2)) ((c def c (c (? . 53) q findf)) q (89403 . 4)) ((c def c (c (? . 0) q system-idle-evt)) q (237380 . 2)) ((c def c (c (? . 0) q path->directory-path)) q (375518 . 3)) ((c def c (c (? . 78) q chaperone-async-channel)) q (240568 . 13)) ((c form c (c (? . 7) q define-serializable-class)) q (167302 . 3)) ((c def c (c (? . 6) q unsafe-string-ref)) q (428503 . 5)) ((c def c (c (? . 33) q stream-length)) q (120529 . 3)) ((c def c (c (? . 7) q method-in-interface?)) q (168523 . 4)) ((c def c (c (? . 0) q string-ci<?)) q (44218 . 4)) ((c def c (c (? . 0) q error-value->string-handler)) q (220951 . 9)) ((c def c (c (? . 35) q make-export)) c (? . 36)) ((c def c (c (? . 5) q extfl->floating-point-bytes)) q (41405 . 10)) ((c def c (c (? . 28) q pretty-write)) q (320577 . 5)) ((c def c (c (? . 0) q struct:exn:fail:contract:continuation)) c (? . 79)) ((c def c (c (? . 9) q chaperone-contract-property?)) q (208558 . 3)) ((c def c (c (? . 54) q contract-projection)) q (210032 . 3)) ((c form c (c (? . 40) q match-let*-values)) q (214829 . 2)) ((c form c (c (? . 86) q trait-exclude)) q (162265 . 2)) ((c def c (c (? . 0) q not)) q (17499 . 3)) ((c def c (c (? . 0) q call-with-composable-continuation)) q (228646 . 6)) ((c def c (c (? . 0) q round)) q (20875 . 3)) ((c def c (c (? . 32) q current-trace-notify)) q (441382 . 4)) ((c def c (c (? . 0) q string-ci<=?)) q (44316 . 4)) ((c def c (c (? . 6) q unsafe-extflacos)) q (434693 . 3)) ((c def c (c (? . 6) q unsafe-fxnot)) q (423215 . 3)) ((c def c (c (? . 0) q syntax-local-value/immediate)) q (260407 . 8)) ((c def c (c (? . 0) q flush-output)) q (274409 . 3)) ((q form ((lib "racket/surrogate.rkt") surrogate)) q (170196 . 13)) ((c def c (c (? . 0) q make-empty-namespace)) q (328728 . 2)) ((c form c (c (? . 69) q chaperone-generics)) q (150945 . 4)) ((c def c (c (? . 0) q print-unreadable)) q (317710 . 4)) ((c form c (c (? . 7) q override)) q (156689 . 2)) ((c def c (c (? . 14) q if/c)) q (211371 . 5)) ((c def c (c (? . 1) q in-mutable-hash-pairs)) q (114994 . 3)) ((c def c (c (? . 0) q cdr)) q (86599 . 3)) ((c def c (c (? . 0) q exn:fail:contract?)) c (? . 55)) ((c def c (c (? . 1) q in-mutable-hash-keys)) q (114744 . 3)) ((c def c (c (? . 1) q make-exn:fail:read)) c (? . 77)) ((c def c (c (? . 0) q identifier-label-binding)) q (255025 . 12)) ((c def c (c (? . 0) q struct:exn:fail:filesystem:exists)) c (? . 80)) ((c def c (c (? . 0) q make-prefab-struct)) q (151879 . 4)) ((c def c (c (? . 0) q exn:break?)) c (? . 38)) ((c def c (c (? . 19) q in-immutable-set)) q (133407 . 3)) ((c def c (c (? . 2) q regexp-match-evt)) q (300301 . 4)) ((c def c (c (? . 89) q engine-kill)) q (246120 . 3)) ((c form c (c (? . 7) q inherit)) q (156979 . 2)) ((c def c (c (? . 6) q unsafe-weak-hash-iterate-next)) q (432497 . 4)) ((c def c (c (? . 0) q syntax-local-lift-module)) q (261024 . 3)) ((c def c (c (? . 0) q struct:exn:fail:unsupported)) c (? . 81)) ((c def c (c (? . 6) q unsafe-set-box!)) q (427425 . 4)) ((c def c (c (? . 0) q module->indirect-exports)) q (344694 . 4)) ((c def c (c (? . 49) q wrong-syntax)) q (272142 . 5)) ((c def c (c (? . 53) q assq)) q (89738 . 4)) ((c def c (c (? . 64) q place-channel-get)) q (245439 . 3)) ((c def c (c (? . 0) q filesystem-change-evt-cancel)) q (382955 . 3)) ((c def c (c (? . 0) q prop:checked-procedure)) q (143406 . 2)) ((c def c (c (? . 6) q unsafe-extflmax)) q (434043 . 4)) ((c form c (c (? . 19) q for*/weak-seteq)) q (133294 . 2)) ((c def c (c (? . 1) q exn:fail:unsupported)) c (? . 81)) ((c form c (c (? . 91) q filtered-out)) q (9526 . 2)) ((c def c (c (? . 41) q blame?)) q (198660 . 3)) ((c def c (c (? . 26) q exn:fail:resource-resource)) c (? . 116)) ((c def c (c (? . 41) q blame-negative)) q (199728 . 3)) ((c def c (c (? . 43) q fl/)) q (30329 . 4)) ((c def c (c (? . 2) q reencode-output-port)) q (292945 . 16)) ((c def c (c (? . 0) q flonum?)) q (19026 . 3)) ((c def c (c (? . 22) q struct:import)) c (? . 23)) ((c def c (c (? . 5) q extfl>=)) q (37948 . 4)) ((c def c (c (? . 21) q path-string?)) q (373110 . 3)) ((c def c (c (? . 0) q equal-secondary-hash-code)) q (111505 . 3)) ((c def c (c (? . 6) q unsafe-extfl>)) q (433685 . 4)) ((c def c (c (? . 0) q wrap-evt)) q (236730 . 4)) ((c form c (c (? . 7) q inherit-field)) q (156496 . 2)) ((c def c (c (? . 61) q chaperone-struct-unsafe-undefined)) q (437530 . 3)) ((c form c (c (? . 1) q local-require)) q (5103 . 2)) ((c def c (c (? . 0) q write-bytes-avail)) q (310496 . 9)) ((c form c (c (? . 51) q quasiquote)) q (16730 . 2)) ((c def c (c (? . 0) q dynamic-require)) q (343255 . 7)) ((c form c (c (? . 7) q init)) q (156398 . 2)) ((c def c (c (? . 1) q random)) q (23777 . 13)) ((c def c (c (? . 0) q link-exists?)) q (379859 . 3)) ((c def c (c (? . 0) q current-thread-initial-stack-size)) q (418085 . 4)) ((c def c (c (? . 0) q never-evt)) q (237355 . 2)) ((c def c (c (? . 28) q pretty-print-newline)) q (322842 . 4)) ((c def c (c (? . 53) q remv)) q (88278 . 4)) ((c def c (c (? . 0) q module-compiled-exports)) q (342512 . 5)) ((c def c (c (? . 33) q stream-count)) q (121360 . 4)) ((c def c (c (? . 6) q unsafe-weak-hash-iterate-pair)) q (432969 . 4)) ((c def c (c (? . 40) q match-expander?)) q (215393 . 3)) ((c form c (c (? . 0) q case-lambda)) q (10388 . 6)) ((c form c (c (? . 51) q let)) q (10563 . 3)) ((c def c (c (? . 10) q fx>)) q (35145 . 4)) ((c def c (c (? . 10) q fxvector-length)) q (35848 . 3)) ((c def c (c (? . 0) q date-year)) c (? . 25)) ((c def c (c (? . 115) q unit-static-init-dependencies)) q (177813 . 7)) ((c def c (c (? . 69) q exn:fail:support?)) c (? . 97)) ((c def c (c (? . 82) q ~r)) q (53186 . 25)) ((c def c (c (? . 74) q instanceof/c)) q (164115 . 3)) ((c def c (c (? . 1) q real->decimal-string)) q (26671 . 4)) ((c def c (c (? . 0) q char-upper-case?)) q (66698 . 3)) ((c def c (c (? . 0) q make-hasheq-placeholder)) q (99564 . 3)) ((c def c (c (? . 26) q sandbox-init-hook)) q (365059 . 4)) ((q form ((lib "racket/lazy-require.rkt") lazy-require)) q (17321 . 5)) ((c form c (c (? . 49) q define/with-syntax)) q (271924 . 4)) ((c def c (c (? . 41) q raise-blame-error)) q (198712 . 14)) ((c def c (c (? . 0) q real->floating-point-bytes)) q (28250 . 12)) ((c def c (c (? . 6) q unsafe-bytes-length)) q (428790 . 3)) ((c def c (c (? . 26) q sandbox-propagate-breaks)) q (366766 . 4)) ((c def c (c (? . 11) q dict-update)) q (124834 . 8)) ((c def c (c (? . 0) q string->uninterned-symbol)) q (68139 . 3)) ((c def c (c (? . 0) q chaperone-channel)) q (356520 . 12)) ((c form c (c (? . 0) q if)) q (11465 . 2)) ((c def c (c (? . 4) q cons/c)) q (181414 . 4)) ((c def c (c (? . 6) q unsafe-bytes-set!)) q (428948 . 5)) ((c form c (c (? . 29) q splicing-letrec)) q (268874 . 2)) ((c def c (c (? . 53) q filter)) q (88010 . 4)) ((c def c (c (? . 2) q with-output-to-string)) q (287709 . 3)) ((c def c (c (? . 52) q fsemaphore?)) q (243223 . 3)) ((c def c (c (? . 1) q call-with-input-file)) q (277151 . 7)) ((c def c (c (? . 1) q make-exn)) c (? . 87)) ((c def c (c (? . 0) q module-compiled-cross-phase-persistent?)) q (343109 . 4)) ((c form c (c (? . 7) q override-final*)) q (157355 . 2)) ((c def c (c (? . 72) q tcp-accept-ready?)) q (393973 . 3)) ((c def c (c (? . 78) q async-channel-put-evt)) q (239920 . 4)) ((c def c (c (? . 5) q extflexpt)) q (39010 . 4)) ((c def c (c (? . 83) q gethostname)) q (420846 . 2)) ((c def c (c (? . 0) q zero?)) q (19199 . 3)) ((c def c (c (? . 0) q date-time-zone-offset)) c (? . 25)) ((c def c (c (? . 0) q current-thread-group)) q (361054 . 4)) ((c def c (c (? . 6) q unsafe-cons-list)) q (427020 . 4)) ((c def c (c (? . 0) q close-output-port)) q (273662 . 3)) ((c def c (c (? . 0) q regexp-match-peek-positions-immediate/end)) q (82237 . 22)) ((c def c (c (? . 0) q raise-mismatch-error)) q (218706 . 8)) ((c def c (c (? . 19) q set-implements/c)) q (133763 . 3)) ((c def c (c (? . 0) q make-pipe)) q (280807 . 6)) ((c def c (c (? . 84) q for-each)) q (87693 . 4)) ((c form c (c (? . 4) q contract-out)) q (191306 . 20)) ((c def c (c (? . 33) q stream-append)) q (120799 . 3)) ((c form c (c (? . 7) q define/augment)) q (158049 . 3)) ((c def c (c (? . 12) q tenth)) q (93068 . 3)) ((c def c (c (? . 0) q log-all-levels)) q (410387 . 5)) ((c def c (c (? . 50) q string-append*)) q (45980 . 4)) ((c def c (c (? . 0) q custom-write?)) q (326130 . 3)) ((c def c (c (? . 6) q unsafe-f64vector-set!)) q (429718 . 5)) ((c def c (c (? . 7) q object-interface)) q (168084 . 3)) ((c def c (c (? . 0) q exn:break:hang-up?)) c (? . 85)) ((c form c (c (? . 86) q trait-rename)) q (162394 . 2)) ((c def c (c (? . 1) q syntax-local-certifier)) q (262357 . 5)) ((c def c (c (? . 0) q exn-message)) c (? . 87)) ((c def c (c (? . 3) q break-parameterization?)) q (234252 . 3)) ((c def c (c (? . 5) q extflvector?)) q (39463 . 3)) ((c def c (c (? . 0) q exn?)) c (? . 87)) ((c def c (c (? . 0) q dynamic-wind)) q (229576 . 7)) ((c def c (c (? . 6) q unsafe-weak-hash-iterate-key)) q (432621 . 4)) ((c form c (c (? . 1) q only-meta-in)) q (4542 . 2)) ((c def c (c (? . 34) q udp-close)) q (399071 . 3)) ((c def c (c (? . 64) q place-dead-evt)) q (245042 . 3)) ((c def c (c (? . 0) q eqv-hash-code)) q (111387 . 3)) ((c def c (c (? . 1) q memq)) q (89228 . 4)) ((c form c (c (? . 40) q match-letrec-values)) q (214949 . 2)) ((c def c (c (? . 19) q list->mutable-seteq)) q (132018 . 4)) ((c def c (c (? . 6) q unsafe-u16vector-set!)) q (430193 . 5)) ((c def c (c (? . 0) q cleanse-path)) q (375709 . 3)) ((c def c (c (? . 19) q set->stream)) q (135236 . 3)) ((c def c (c (? . 1) q exn:fail:read:eof)) c (? . 88)) ((c form c (c (? . 7) q class*)) q (153605 . 59)) ((c def c (c (? . 43) q flround)) q (30960 . 3)) ((c def c (c (? . 17) q vector-copy)) q (103048 . 5)) ((c def c (c (? . 2) q call-with-input-bytes)) q (287974 . 4)) ((c def c (c (? . 28) q pretty-print-print-hook)) q (323757 . 5)) ((c def c (c (? . 1) q raise-arity-error)) q (218941 . 9)) ((c def c (c (? . 26) q sandbox-output)) q (365686 . 14)) ((c def c (c (? . 0) q exact-integer?)) q (18713 . 3)) ((c def c (c (? . 6) q unsafe-flimag-part)) q (426209 . 5)) ((c def c (c (? . 0) q null?)) q (86436 . 3)) ((c def c (c (? . 0) q set-phantom-bytes!)) q (422287 . 4)) ((c def c (c (? . 7) q exn:fail:object?)) c (? . 126)) ((c def c (c (? . 19) q set?)) q (130524 . 3)) ((c def c (c (? . 0) q internal-definition-context-binding-identifiers)) q (259156 . 4)) ((c def c (c (? . 19) q weak-seteqv)) q (131343 . 3)) ((c def c (c (? . 43) q flacos)) q (31390 . 3)) ((c def c (c (? . 0) q dump-memory-stats)) q (422073 . 3)) ((c def c (c (? . 28) q tentative-pretty-print-port-cancel)) q (324913 . 3)) ((c def c (c (? . 0) q load)) q (334654 . 3)) ((c form c (c (? . 7) q absent)) q (163481 . 2)) ((c def c (c (? . 89) q engine)) q (245806 . 3)) ((c def c (c (? . 0) q syntax-local-submodules)) q (262005 . 2)) ((c def c (c (? . 19) q set-copy-clear)) q (135368 . 3)) ((c def c (c (? . 0) q inspector?)) q (361175 . 3)) ((c def c (c (? . 26) q get-uncovered-expressions)) q (371918 . 7)) ((c def c (c (? . 35) q prop:provide-transformer)) q (267204 . 2)) ((c def c (c (? . 11) q dict-keys)) q (125667 . 3)) ((c def c (c (? . 0) q real->single-flonum)) q (19701 . 3)) ((c def c (c (? . 0) q caddar)) q (91435 . 3)) ((c def c (c (? . 41) q blame-add-context)) q (199312 . 9)) ((c def c (c (? . 0) q file-stream-port?)) q (274191 . 3)) ((c def c (c (? . 28) q pretty-printing)) q (324307 . 4)) ((c def c (c (? . 34) q udp-send/enable-break)) q (397408 . 9)) ((c def c (c (? . 2) q open-output-nowhere)) q (291690 . 4)) ((c def c (c (? . 12) q last)) q (93118 . 3)) ((c def c (c (? . 0) q string-ci=?)) q (44120 . 4)) ((c form c (c (? . 3) q let/cc)) q (229090 . 2)) ((c def c (c (? . 0) q current-read-interaction)) q (336852 . 4)) ((c form c (c (? . 0) q let-values)) q (10762 . 2)) ((c def c (c (? . 54) q has-blame?)) q (209854 . 3)) ((c form c (c (? . 0) q #%require)) q (6583 . 33)) ((c def c (c (? . 26) q get-output)) c (? . 114)) ((c def c (c (? . 0) q current-drive)) q (382220 . 2)) ((c def c (c (? . 0) q procedure-struct-type?)) q (143180 . 3)) ((c def c (c (? . 0) q syntax-local-introduce)) q (262778 . 3)) ((c def c (c (? . 0) q make-weak-box)) q (420922 . 3)) ((c def c (c (? . 0) q raise-type-error)) q (218421 . 10)) ((c form c (c (? . 40) q match-let)) q (214661 . 2)) ((c def c (c (? . 0) q hash)) q (106066 . 4)) ((c def c (c (? . 24) q contract-exercise)) q (212915 . 3)) ((c def c (c (? . 0) q exn:fail:filesystem:missing-module?)) c (? . 71)) ((c def c (c (? . 7) q interface-extension?)) q (168427 . 4)) ((c form c (c (? . 32) q trace-define-syntax)) q (441165 . 3)) ((c def c (c (? . 0) q string-locale<?)) q (45305 . 4)) ((c def c (c (? . 6) q unsafe-weak-hash-iterate-first)) q (432391 . 3)) ((c form c (c (? . 59) q path-up)) q (9292 . 2)) ((c def c (c (? . 33) q gen:stream)) q (121777 . 2)) ((c def c (c (? . 0) q fprintf)) q (317130 . 5)) ((c form c (c (? . 40) q match*)) q (213740 . 6)) ((c def c (c (? . 6) q unsafe-flvector-ref)) q (429425 . 4)) ((c def c (c (? . 12) q empty?)) q (92508 . 3)) ((c def c (c (? . 6) q unsafe-string-set!)) q (428651 . 5)) ((c def c (c (? . 21) q putenv)) q (417203 . 4)) ((c def c (c (? . 0) q read-accept-graph)) q (314622 . 4)) ((c def c (c (? . 12) q last-pair)) q (93167 . 3)) ((c def c (c (? . 0) q syntax-local-lift-provide)) q (261360 . 3)) ((c form c (c (? . 1) q for*/sum)) q (15280 . 2)) ((c def c (c (? . 35) q pre-expand-export)) q (266416 . 4)) ((c def c (c (? . 74) q is-a?/c)) q (166839 . 3)) ((c def c (c (? . 12) q empty)) q (92435 . 2)) ((c def c (c (? . 0) q file-exists?)) q (379788 . 3)) ((c def c (c (? . 11) q dict-iterate-key)) q (123765 . 4)) ((c def c (c (? . 0) q current-thread)) q (234748 . 2)) ((c def c (c (? . 19) q list->seteq)) q (131714 . 3)) ((c def c (c (? . 0) q bytes-utf-8-ref)) q (62574 . 7)) ((c def c (c (? . 22) q import-mode)) c (? . 23)) ((c def c (c (? . 13) q file->value)) q (383800 . 4)) ((c def c (c (? . 1) q date*)) c (? . 16)) ((c def c (c (? . 0) q make-file-or-directory-link)) q (381698 . 4)) ((c def c (c (? . 19) q weak-seteq)) q (131439 . 3)) ((c def c (c (? . 28) q pretty-print-extend-style-table)) q (322329 . 8)) ((c def c (c (? . 0) q use-compiled-file-paths)) q (336016 . 5)) ((c def c (c (? . 0) q bytes<?)) q (60067 . 4)) ((c def c (c (? . 1) q in-weak-hash-values)) q (115678 . 3)) ((c def c (c (? . 0) q security-guard?)) q (358750 . 3)) ((c def c (c (? . 0) q gcd)) q (20757 . 3)) ((c def c (c (? . 0) q char-ci<=?)) q (66272 . 4)) ((c def c (c (? . 0) q print-box)) q (317980 . 4)) ((c def c (c (? . 0) q hash-for-each)) q (110244 . 5)) ((c def c (c (? . 52) q fsemaphore-count)) q (243504 . 3)) ((c def c (c (? . 0) q terminal-port?)) q (274260 . 3)) ((c def c (c (? . 11) q dict-iterate-first)) q (123609 . 3)) ((c def c (c (? . 53) q sort)) q (88630 . 9)) ((c form c (c (? . 14) q prompt-tag/c)) q (184030 . 8)) ((c def c (c (? . 6) q unsafe-extflvector-ref)) q (435338 . 4)) ((c def c (c (? . 0) q error-print-source-location)) q (221241 . 4)) ((c def c (c (? . 0) q namespace-attach-module)) q (331100 . 7)) ((c def c (c (? . 0) q primitive-result-arity)) q (144061 . 3)) ((c def c (c (? . 54) q coerce-flat-contract)) q (197896 . 4)) ((c def c (c (? . 40) q legacy-match-expander?)) q (215454 . 3)) ((c form c (c (? . 7) q instantiate)) q (159276 . 2)) ((c def c (c (? . 0) q read-bytes-line)) q (301244 . 5)) ((c form c (c (? . 26) q with-limits)) q (372662 . 2)) ((c def c (c (? . 0) q struct:exn:fail:read:eof)) c (? . 88)) ((c def c (c (? . 0) q resolve-path)) q (375641 . 3)) ((c def c (c (? . 0) q +)) q (19836 . 3)) ((c def c (c (? . 0) q chaperone-struct-type)) q (355671 . 15)) ((c def c (c (? . 22) q convert-relative-module-path)) q (265694 . 10)) ((c form c (c (? . 21) q define-syntax-rule)) q (248966 . 2)) ((c def c (c (? . 0) q expand-syntax-to-top-form)) q (270886 . 3)) ((c def c (c (? . 0) q open-output-bytes)) q (280141 . 3)) ((c def c (c (? . 39) q unit?)) q (176098 . 3)) ((c def c (c (? . 6) q unsafe-fl=)) q (424368 . 4)) ((c def c (c (? . 1) q make-arity-at-least)) c (? . 62)) ((c form c (c (? . 1) q define-struct)) q (146548 . 6)) ((c def c (c (? . 64) q place-location?)) q (245745 . 3)) ((c def c (c (? . 11) q in-dict-keys)) q (125904 . 3)) ((c def c (c (? . 72) q tcp-accept)) q (393770 . 3)) ((c def c (c (? . 0) q environment-variables-ref)) q (416222 . 5)) ((c def c (c (? . 0) q struct:exn:fail:contract:arity)) c (? . 109)) ((c form c (c (? . 90) q struct/dc)) q (182102 . 27)) ((c def c (c (? . 0) q cons)) q (86487 . 4)) ((c def c (c (? . 5) q extflvector-length)) q (39721 . 3)) ((c def c (c (? . 0) q continuation-marks)) q (231577 . 5)) ((c def c (c (? . 5) q extfl-)) q (37313 . 4)) ((c form c (c (? . 3) q log-debug)) q (410956 . 3)) ((c def c (c (? . 3) q current-break-parameterization)) q (233989 . 2)) ((c def c (c (? . 21) q read-eval-print-loop)) q (336546 . 2)) ((c def c (c (? . 0) q primitive-closure?)) q (143998 . 3)) ((c def c (c (? . 0) q rename-transformer?)) q (256075 . 3)) ((c def c (c (? . 0) q prop:liberal-define-context)) q (263911 . 2)) ((c def c (c (? . 72) q tcp-addresses)) q (394346 . 7)) ((c form c (c (? . 48) q reset)) q (230737 . 2)) ((c def c (c (? . 7) q interface->method-names)) q (168625 . 3)) ((c def c (c (? . 11) q dict-ref)) q (122886 . 6)) ((c def c (c (? . 0) q ephemeron-value)) q (421235 . 4)) ((c def c (c (? . 1) q in-weak-hash-keys)) q (115587 . 3)) ((c def c (c (? . 11) q dict-has-key?)) q (123939 . 4)) ((c def c (c (? . 26) q get-user-custodian)) q (370872 . 3)) ((c def c (c (? . 0) q substring)) q (42500 . 5)) ((c def c (c (? . 1) q chaperone-procedure)) q (351531 . 11)) ((c def c (c (? . 26) q sandbox-make-logger)) q (370146 . 4)) ((c def c (c (? . 0) q syntax-property-symbol-keys)) q (269604 . 3)) ((c form c (c (? . 40) q match-lambda*)) q (214587 . 2)) ((c def c (c (? . 0) q local-expand)) q (256396 . 13)) ((c def c (c (? . 0) q current-module-name-resolver)) q (339041 . 19)) ((c def c (c (? . 0) q floor)) q (20958 . 3)) ((c def c (c (? . 4) q *list/c)) q (181873 . 4)) ((c form c (c (? . 51) q cond)) q (11510 . 7)) ((c def c (c (? . 72) q tcp-abandon-port)) q (394269 . 3)) ((c def c (c (? . 0) q regexp-replace)) q (84070 . 15)) ((c def c (c (? . 28) q pretty-print-pre-print-hook)) q (323949 . 5)) ((c def c (c (? . 5) q extflacos)) q (38702 . 3)) ((c def c (c (? . 11) q dict-key-contract)) q (126153 . 3)) ((c def c (c (? . 0) q asin)) q (22338 . 3)) ((c def c (c (? . 1) q in-vector)) q (112989 . 6)) ((c def c (c (? . 0) q >)) q (21642 . 4)) ((c def c (c (? . 1) q make-exn:fail:syntax:unbound)) c (? . 112)) ((c def c (c (? . 30) q struct-info?)) q (152611 . 3)) ((c def c (c (? . 0) q compiled-module-expression?)) q (341193 . 3)) ((c def c (c (? . 5) q extflfloor)) q (38263 . 3)) ((c def c (c (? . 0) q syntax?)) q (249111 . 3)) ((c form c (c (? . 39) q unit-from-context)) q (174955 . 2)) ((c def c (c (? . 5) q extfl->inexact)) q (39373 . 3)) ((c def c (c (? . 0) q char-graphic?)) q (67034 . 3)) ((c form c (c (? . 7) q class-field-accessor)) q (160811 . 2)) ((c def c (c (? . 95) q parse-command-line)) q (420124 . 15)) ((c def c (c (? . 26) q call-with-limits)) q (372481 . 5)) ((c form c (c (? . 0) q #%declare)) q (1921 . 5)) ((c def c (c (? . 2) q special-filter-input-port)) q (297665 . 8)) ((c def c (c (? . 7) q object=?)) q (167711 . 4)) ((c def c (c (? . 0) q rename-file-or-directory)) q (379997 . 7)) ((c def c (c (? . 1) q for-clause-syntax-protect)) q (16428 . 3)) ((c def c (c (? . 6) q unsafe-vector*-ref)) q (428174 . 4)) ((c def c (c (? . 0) q read-curly-brace-as-paren)) q (313970 . 4)) ((c def c (c (? . 47) q sequence->repeated-generator)) q (122330 . 3)) ((c form c (c (? . 4) q unconstrained-domain->)) q (190585 . 2)) ((c def c (c (? . 0) q atan)) q (22440 . 6)) ((c def c (c (? . 0) q readtable?)) q (325021 . 3)) ((c def c (c (? . 0) q module-path-index?)) q (340497 . 3)) ((c def c (c (? . 0) q hash-clear)) q (109595 . 3)) ((c def c (c (? . 10) q fxvector-copy)) q (36175 . 5)) ((c def c (c (? . 43) q flfloor)) q (31014 . 3)) ((c def c (c (? . 6) q unsafe-fl/)) q (424231 . 4)) ((c def c (c (? . 1) q exn:fail:contract:non-fixnum-result)) c (? . 96)) ((c form c (c (? . 3) q parameterize-break)) q (233935 . 2)) ((c def c (c (? . 0) q hash?)) q (105769 . 3)) ((c def c (c (? . 0) q keyword<?)) q (86267 . 4)) ((c def c (c (? . 1) q in-range)) q (112614 . 7)) ((c def c (c (? . 9) q make-contract)) q (193725 . 26)) ((c def c (c (? . 6) q unsafe-extfl=)) q (433509 . 4)) ((c def c (c (? . 6) q unsafe-extflvector-length)) q (435261 . 3)) ((c def c (c (? . 0) q syntax-source)) q (249221 . 3)) ((c def c (c (? . 0) q call-in-nested-thread)) q (234867 . 4)) ((c def c (c (? . 0) q current-logger)) q (409516 . 4)) ((c def c (c (? . 11) q dict-implements/c)) q (122552 . 3)) ((c def c (c (? . 48) q spawn)) q (231227 . 3)) ((c def c (c (? . 6) q unsafe-flvector-set!)) q (429514 . 5)) ((c def c (c (? . 0) q string-locale-ci>?)) q (45719 . 4)) ((c def c (c (? . 0) q read-char-or-special)) q (306944 . 8)) ((c form c (c (? . 118) q contract-struct)) q (190979 . 2)) ((c def c (c (? . 68) q system*/exit-code)) q (405445 . 15)) ((c def c (c (? . 28) q pretty-print-show-inexactness)) q (321809 . 4)) ((c def c (c (? . 2) q peeking-input-port)) q (291826 . 9)) ((c def c (c (? . 0) q read-cdot)) q (315030 . 4)) ((c def c (c (? . 12) q ninth)) q (93018 . 3)) ((c def c (c (? . 0) q print-pair-curly-braces)) q (317488 . 4)) ((c def c (c (? . 2) q make-input-port/read-to-peek)) q (288407 . 50)) ((c def c (c (? . 5) q extflatan)) q (38764 . 3)) ((c def c (c (? . 7) q object-or-false=?)) q (167788 . 4)) ((c def c (c (? . 0) q expand-to-top-form)) q (270797 . 3)) ((c form c (c (? . 7) q overment*)) q (157319 . 2)) ((c def c (c (? . 1) q in-string)) q (113225 . 6)) ((c def c (c (? . 0) q make-known-char-range-list)) q (67371 . 5)) ((c def c (c (? . 0) q list-ref)) q (87056 . 4)) ((c def c (c (? . 0) q syntax-local-lift-module-end-declaration)) q (261097 . 3)) ((c def c (c (? . 0) q syntax-local-get-shadower)) q (262064 . 5)) ((c form c (c (? . 1) q for/or)) q (14192 . 2)) ((c form c (c (? . 14) q any)) q (184545 . 2)) ((c def c (c (? . 0) q parameter-procedure=?)) q (242236 . 4)) ((c def c (c (? . 13) q display-to-file)) q (384869 . 11)) ((c def c (c (? . 5) q extflsqrt)) q (38948 . 3)) ((c form c (c (? . 1) q #%top-interaction)) q (16856 . 2)) ((c def c (c (? . 6) q unsafe-extflexp)) q (434899 . 3)) ((c form c (c (? . 1) q for/list)) q (13624 . 2)) ((c def c (c (? . 0) q make-set!-transformer)) q (255795 . 3)) ((c form c (c (? . 7) q define/augment-final)) q (158209 . 3)) ((c def c (c (? . 9) q flat-contract-property?)) q (208632 . 3)) ((c def c (c (? . 13) q put-preferences)) q (390232 . 9)) ((c def c (c (? . 19) q impersonate-hash-set)) q (137076 . 21)) ((c def c (c (? . 72) q tcp-accept/enable-break)) q (393865 . 3)) ((c form c (c (? . 1) q file)) q (4822 . 2)) ((c def c (c (? . 82) q ~e)) q (51950 . 25)) ((c def c (c (? . 1) q in-immutable-hash-pairs)) q (115404 . 3)) ((c def c (c (? . 0) q bytes->immutable-bytes)) q (58345 . 3)) ((c def c (c (? . 11) q dict?)) q (122409 . 3)) ((c form c (c (? . 102) q define-opt/c)) q (210815 . 2)) ((c def c (c (? . 86) q trait-sum)) q (162203 . 3)) ((c def c (c (? . 0) q set!-transformer-procedure)) q (255898 . 4)) ((c def c (c (? . 13) q find-files)) q (387036 . 11)) ((c def c (c (? . 14) q false/c)) q (179759 . 2)) ((c def c (c (? . 14) q continuation-mark-key/c)) q (184227 . 3)) ((c form c (c (? . 19) q gen:set)) q (134467 . 2)) ((c form c (c (? . 60) q syntax-case*)) q (247556 . 3)) ((c def c (c (? . 6) q unsafe-flmax)) q (424845 . 4)) ((c def c (c (? . 26) q sandbox-eval-limits)) q (369039 . 8)) ((c def c (c (? . 20) q order-of-magnitude)) q (29598 . 3)) ((c def c (c (? . 0) q struct-predicate-procedure?)) q (151582 . 3)) ((c def c (c (? . 0) q raise-arguments-error)) q (217477 . 10)) ((c def c (c (? . 1) q in-weak-hash-pairs)) q (115771 . 3)) ((c def c (c (? . 1) q hash-copy-clear)) q (109696 . 3)) ((c def c (c (? . 0) q string->immutable-string)) q (42067 . 3)) ((c def c (c (? . 74) q make-mixin-contract)) q (166741 . 3)) ((c def c (c (? . 0) q number->string)) q (26000 . 4)) ((c def c (c (? . 20) q exact-ceiling)) q (29459 . 3)) ((c def c (c (? . 41) q blame-swap)) q (199957 . 3)) ((c def c (c (? . 1) q in-hash-values)) q (114492 . 3)) ((c def c (c (? . 19) q proper-subset?)) q (136639 . 4)) ((c def c (c (? . 0) q file-position*)) q (274912 . 3)) ((c def c (c (? . 5) q extfl=)) q (37623 . 4)) ((c def c (c (? . 0) q car)) q (86553 . 3)) ((c def c (c (? . 1) q call-with-output-file*)) q (278240 . 11)) ((c def c (c (? . 33) q stream-ref)) q (120608 . 4)) ((c def c (c (? . 0) q symbol->string)) q (68009 . 3)) ((c form c (c (? . 26) q with-deep-time-limit)) q (372837 . 2)) ((c def c (c (? . 0) q struct:exn:fail:user)) c (? . 103)) ((c def c (c (? . 0) q module-compiled-submodules)) q (341709 . 13)) ((c def c (c (? . 78) q impersonate-async-channel)) q (240081 . 13)) ((c form c (c (? . 1) q lambda)) q (9930 . 2)) ((c form c (c (? . 19) q for/weak-set)) q (133076 . 2)) ((c def c (c (? . 0) q kill-thread)) q (235194 . 3)) ((c def c (c (? . 0) q write-char)) q (309613 . 4)) ((c def c (c (? . 12) q split-at-right)) q (94991 . 4)) ((c def c (c (? . 4) q first-or/c)) q (178768 . 3)) ((c def c (c (? . 0) q make-weak-hasheqv)) q (106857 . 3)) ((c def c (c (? . 0) q integer-length)) q (23702 . 3)) ((c def c (c (? . 0) q shell-execute)) q (404140 . 11)) ((c form c (c (? . 44) q thunk)) q (144250 . 2)) ((c form c (c (? . 7) q abstract)) q (156952 . 2)) ((c def c (c (? . 1) q make-exn:fail:contract)) c (? . 55)) ((c def c (c (? . 42) q promise-forced?)) q (226741 . 3)) ((c def c (c (? . 0) q write-special)) q (311686 . 4)) ((c def c (c (? . 0) q identifier-binding-symbol)) q (255492 . 6)) ((c def c (c (? . 70) q simple-form-path)) q (378827 . 3)) ((c def c (c (? . 70) q shrink-path-wrt)) q (379122 . 4)) ((c def c (c (? . 0) q eval-jit-enabled)) q (338029 . 4)) ((c def c (c (? . 64) q place-message-allowed?)) q (245625 . 3)) ((c def c (c (? . 0) q complex?)) q (18499 . 3)) ((c def c (c (? . 6) q unsafe-fx->extfl)) q (435129 . 3)) ((c def c (c (? . 0) q values)) q (215977 . 3)) ((c def c (c (? . 34) q udp-multicast-set-interface!)) q (401529 . 5)) ((c def c (c (? . 0) q exact?)) q (19469 . 3)) ((c form c (c (? . 1) q for*/last)) q (15475 . 2)) ((c def c (c (? . 48) q fcontrol)) q (230454 . 4)) ((c def c (c (? . 1) q gen:custom-write)) q (326047 . 2)) ((c form c (c (? . 3) q with-handlers*)) q (220302 . 3)) ((c def c (c (? . 86) q trait?)) q (162074 . 3)) ((c def c (c (? . 26) q set-eval-handler)) q (371165 . 4)) ((c def c (c (? . 28) q pretty-format)) q (320919 . 5)) ((c def c (c (? . 0) q thread-resume)) q (235060 . 4)) ((c def c (c (? . 0) q exn:fail:filesystem?)) c (? . 65)) ((c def c (c (? . 52) q touch)) q (242706 . 3)) ((c def c (c (? . 0) q printf)) q (317242 . 4)) ((c def c (c (? . 6) q unsafe-fxquotient)) q (422662 . 4)) ((c form c (c (? . 1) q for*/hasheqv)) q (15088 . 2)) ((c def c (c (? . 7) q writable<%>)) q (167463 . 2)) ((c def c (c (? . 2) q call-with-input-string)) q (287859 . 4)) ((c def c (c (? . 1) q exn:fail)) c (? . 99)) ((c def c (c (? . 0) q syntax-local-transforming-module-provides?)) q (263387 . 2)) ((c form c (c (? . 3) q parameterize)) q (241745 . 5)) ((c def c (c (? . 0) q caar)) q (89923 . 3)) ((c def c (c (? . 0) q exn:missing-module-accessor)) q (226398 . 4)) ((c def c (c (? . 0) q string->symbol)) q (68074 . 3)) ((c def c (c (? . 0) q set!-transformer?)) q (255732 . 3)) ((c form c (c (? . 7) q init-field)) q (156428 . 2)) ((c form c (c (? . 91) q matching-identifiers-out)) q (9470 . 2)) ((c form c (c (? . 40) q match/derived)) q (215756 . 2)) ((c form c (c (? . 32) q untrace)) q (441356 . 2)) ((c def c (c (? . 0) q bytes->path)) q (373296 . 4)) ((c def c (c (? . 3) q hash-update!)) q (108489 . 11)) ((c form c (c (? . 7) q interface)) q (153269 . 5)) ((c def c (c (? . 0) q free-label-identifier=?)) q (252964 . 4)) ((c def c (c (? . 10) q fxvector-ref)) q (35935 . 4)) ((c def c (c (? . 2) q with-input-from-string)) q (288089 . 4)) ((c def c (c (? . 0) q caadr)) q (90261 . 3)) ((c def c (c (? . 1) q in-hash-pairs)) q (114559 . 3)) ((c def c (c (? . 13) q file->list)) q (383939 . 5)) ((c def c (c (? . 19) q set-symmetric-difference)) q (136227 . 4)) ((c def c (c (? . 26) q sandbox-network-guard)) q (368355 . 13)) ((c def c (c (? . 12) q shuffle)) q (97937 . 3)) ((c def c (c (? . 0) q real?)) q (18553 . 3)) ((c def c (c (? . 45) q sequence->list)) q (118383 . 3)) ((c def c (c (? . 0) q cdaddr)) q (91935 . 3)) ((c form c (c (? . 56) q define-runtime-module-path-index)) q (383304 . 2)) ((c def c (c (? . 22) q struct:import-source)) c (? . 92)) ((c def c (c (? . 0) q abort-current-continuation)) q (227814 . 5)) ((c def c (c (? . 0) q read-curly-brace-with-tag)) q (314204 . 4)) ((c def c (c (? . 13) q make-temporary-file)) q (388552 . 7)) ((c def c (c (? . 0) q cdaadr)) q (91735 . 3)) ((c def c (c (? . 0) q sqrt)) q (21787 . 3)) ((c def c (c (? . 32) q current-prefix-out)) q (442747 . 4)) ((c def c (c (? . 0) q chaperone-vector*)) q (353590 . 14)) ((c def c (c (? . 0) q bytes-utf-8-length)) q (62295 . 7)) ((c def c (c (? . 0) q thread-suspend)) q (234997 . 3)) ((c def c (c (? . 0) q ephemeron?)) q (421352 . 3)) ((c def c (c (? . 0) q local-transformer-expand)) q (257040 . 9)) ((c def c (c (? . 11) q dict-remove)) q (123484 . 4)) ((c def c (c (? . 0) q namespace-undefine-variable!)) q (330336 . 5)) ((c def c (c (? . 0) q length)) q (86982 . 3)) ((c def c (c (? . 0) q pregexp?)) q (68528 . 3)) ((c def c (c (? . 0) q hash-iterate-key+value)) q (111124 . 4)) ((c def c (c (? . 48) q call/prompt)) q (229783 . 7)) ((c def c (c (? . 0) q struct:exn)) c (? . 87)) ((c def c (c (? . 24) q contract-proc)) q (212539 . 6)) ((c def c (c (? . 43) q flimag-part)) q (32261 . 5)) ((c def c (c (? . 34) q udp-receive!*)) q (398215 . 12)) ((c def c (c (? . 0) q read-line)) q (301031 . 5)) ((c def c (c (? . 0) q absolute-path?)) q (374986 . 3)) ((c def c (c (? . 33) q stream/c)) q (121848 . 3)) ((c def c (c (? . 0) q char-ci>=?)) q (66465 . 4)) ((c def c (c (? . 74) q dynamic-object/c)) q (164204 . 9)) ((c def c (c (? . 6) q unsafe-chaperone-vector)) q (436790 . 11)) ((c def c (c (? . 10) q fx*)) q (34222 . 4)) ((c def c (c (? . 0) q arithmetic-shift)) q (23597 . 4)) ((c def c (c (? . 49) q current-recorded-disappeared-uses)) q (272270 . 5)) ((c def c (c (? . 0) q continuation?)) q (229447 . 3)) ((c form c (c (? . 48) q prompt0-at)) q (231024 . 2)) ((c def c (c (? . 24) q contract-random-generate-fail?)) q (213194 . 3)) ((c def c (c (? . 0) q delete-directory)) q (382403 . 3)) ((c def c (c (? . 0) q procedure-arity?)) q (141753 . 3)) ((c form c (c (? . 40) q match-lambda**)) q (214623 . 2)) ((c def c (c (? . 43) q make-flvector)) q (32681 . 4)) ((c def c (c (? . 0) q read-accept-quasiquote)) q (315112 . 4)) ((c def c (c (? . 21) q load-relative-extension)) q (335088 . 3)) ((c form c (c (? . 0) q letrec-syntaxes+values)) q (11204 . 4)) ((c def c (c (? . 43) q fltan)) q (31285 . 3)) ((c form c (c (? . 1) q except-in)) q (4306 . 2)) ((c form c (c (? . 39) q except)) q (172432 . 2)) ((c def c (c (? . 43) q fl>)) q (30596 . 4)) ((c def c (c (? . 0) q sync)) q (236250 . 3)) ((c def c (c (? . 11) q dict-mutable?)) q (122632 . 3)) ((c def c (c (? . 12) q add-between)) q (95973 . 13)) ((c def c (c (? . 0) q impersonator-property-accessor-procedure?)) q (358595 . 3)) ((c def c (c (? . 0) q continuation-mark-set-first)) q (232900 . 10)) ((c form c (c (? . 1) q submod)) q (4967 . 4)) ((c def c (c (? . 0) q cdaar)) q (90507 . 3)) ((c def c (c (? . 13) q make-parent-directory*)) q (388474 . 3)) ((c def c (c (? . 0) q hash-copy)) q (111242 . 3)) ((c def c (c (? . 26) q make-evaluator)) c (? . 93)) ((c def c (c (? . 5) q extflvector-ref)) q (39814 . 4)) ((c def c (c (? . 43) q flexpt)) q (31653 . 4)) ((c def c (c (? . 0) q break-thread)) q (235254 . 4)) ((c def c (c (? . 17) q vector-filter)) q (103233 . 4)) ((c def c (c (? . 0) q vector-set!)) q (100654 . 5)) ((c def c (c (? . 0) q eof)) q (274326 . 2)) ((c form c (c (? . 40) q match-lambda)) q (214552 . 2)) ((c def c (c (? . 54) q coerce-chaperone-contract)) q (197662 . 4)) ((c def c (c (? . 1) q make-exn:break:terminate)) c (? . 94)) ((c def c (c (? . 0) q module-path-index-resolve)) q (340561 . 3)) ((c form c (c (? . 7) q inner)) q (158583 . 3)) ((c form c (c (? . 95) q command-line)) q (418437 . 43)) ((c form c (c (? . 74) q ->*m)) q (163545 . 2)) ((c def c (c (? . 0) q expt)) q (21980 . 4)) ((c def c (c (? . 0) q make-syntax-introducer)) q (262851 . 4)) ((c def c (c (? . 0) q abs)) q (20605 . 3)) ((c form c (c (? . 7) q public-final*)) q (157243 . 2)) ((c def c (c (? . 1) q regexp-split)) q (83429 . 15)) ((c def c (c (? . 111) q crypto-random-bytes)) q (25320 . 3)) ((c def c (c (? . 11) q in-dict)) q (125844 . 3)) ((c def c (c (? . 24) q contract-random-generate-get-current-environment)) q (213484 . 3)) ((c def c (c (? . 0) q procedure-arity-includes?)) q (141815 . 5)) ((c def c (c (? . 0) q exn:fail:contract:non-fixnum-result?)) c (? . 96)) ((c def c (c (? . 0) q print-mpair-curly-braces)) q (317598 . 4)) ((c form c (c (? . 60) q with-syntax)) q (247640 . 3)) ((c def c (c (? . 69) q struct:exn:fail:support)) c (? . 97)) ((c def c (c (? . 1) q memv)) q (89146 . 4)) ((c def c (c (? . 47) q generator?)) q (121907 . 3)) ((c form c (c (? . 98) q quasisyntax/loc)) q (248738 . 2)) ((c def c (c (? . 0) q bytes>?)) q (60163 . 4)) ((c form c (c (? . 1) q rename-out)) q (6000 . 2)) ((c form c (c (? . 42) q delay/idle)) q (227172 . 8)) ((c def c (c (? . 0) q impersonate-hash)) q (348502 . 22)) ((c def c (c (? . 28) q pretty-print-exact-as-decimal)) q (321539 . 4)) ((c def c (c (? . 35) q export-orig-stx)) c (? . 36)) ((c def c (c (? . 6) q unsafe-flacos)) q (425411 . 3)) ((c form c (c (? . 7) q augment-final*)) q (157467 . 2)) ((c def c (c (? . 1) q make-exn:fail:out-of-memory)) c (? . 110)) ((c form c (c (? . 42) q delay/thread)) q (227063 . 5)) ((c def c (c (? . 53) q compose1)) q (140838 . 3)) ((c def c (c (? . 6) q unsafe-extflexpt)) q (435036 . 4)) ((c def c (c (? . 40) q syntax-local-match-introduce)) q (215522 . 3)) ((c form c (c (? . 7) q field-bound?)) q (160775 . 2)) ((c def c (c (? . 44) q curry)) q (144566 . 6)) ((c def c (c (? . 0) q namespace-attach-module-declaration)) q (331422 . 7)) ((c def c (c (? . 49) q syntax-local-eval)) q (273068 . 4)) ((c def c (c (? . 26) q sandbox-input)) q (365287 . 12)) ((c def c (c (? . 21) q normal-case-path)) q (376071 . 3)) ((c form c (c (? . 1) q for*/hash)) q (14958 . 2)) ((c def c (c (? . 70) q filename-extension)) q (377866 . 3)) ((c def c (c (? . 7) q member-name-key=?)) q (158917 . 4)) ((c def c (c (? . 1) q double-flonum?)) q (19079 . 3)) ((c def c (c (? . 0) q vector-set-performance-stats!)) q (418250 . 5)) ((c def c (c (? . 19) q set-subtract!)) q (136127 . 4)) ((c def c (c (? . 19) q set-count)) q (134966 . 3)) ((c def c (c (? . 6) q unsafe-fxrshift)) q (423357 . 4)) ((c def c (c (? . 5) q extflmax)) q (38115 . 4)) ((c def c (c (? . 0) q struct:exn:fail)) c (? . 99)) ((c form c (c (? . 1) q struct-copy)) q (151166 . 5)) ((c def c (c (? . 0) q hash-iterate-value)) q (110894 . 4)) ((c form c (c (? . 1) q for*/list)) q (14738 . 2)) ((c def c (c (? . 0) q will-register)) q (421519 . 5)) ((c def c (c (? . 35) q make-provide-pre-transformer)) q (267026 . 5)) ((c def c (c (? . 35) q export-local-id)) c (? . 36)) ((c def c (c (? . 0) q char-alphabetic?)) q (66562 . 3)) ((c def c (c (? . 7) q class-unseal)) q (170049 . 5)) ((c def c (c (? . 12) q append*)) q (96469 . 7)) ((c def c (c (? . 0) q call-with-semaphore/enable-break)) q (239125 . 9)) ((c def c (c (? . 0) q exn:fail:filesystem:errno?)) c (? . 31)) ((c form c (c (? . 1) q only-in)) q (4252 . 2)) ((c def c (c (? . 1) q exn:fail:read:non-char)) c (? . 129)) ((c def c (c (? . 6) q unsafe-extfl+)) q (433081 . 4)) ((c def c (c (? . 48) q splitter)) q (231309 . 5)) ((c def c (c (? . 35) q export?)) c (? . 36)) ((c form c (c (? . 100) q enter!)) q (440315 . 9)) ((c def c (c (? . 0) q string=?)) q (43643 . 4)) ((c def c (c (? . 0) q negative?)) q (19307 . 3)) ((c form c (c (? . 1) q for-meta)) q (6415 . 2)) ((c def c (c (? . 0) q string->path-element)) q (373576 . 3)) ((c def c (c (? . 52) q fsemaphore-wait)) q (243352 . 3)) ((c def c (c (? . 5) q extflvector-set!)) q (39932 . 5)) ((c def c (c (? . 0) q expand-syntax-once)) q (270728 . 3)) ((c def c (c (? . 21) q path-list-string->path-list)) q (379310 . 6)) ((c def c (c (? . 0) q cadddr)) q (91535 . 3)) ((c def c (c (? . 0) q current-input-port)) q (273860 . 4)) ((c def c (c (? . 34) q udp-open-socket)) q (394768 . 5)) ((c def c (c (? . 53) q memf)) q (89310 . 4)) ((c def c (c (? . 70) q path-get-extension)) q (377588 . 3)) ((c def c (c (? . 0) q bitwise-bit-set?)) q (23271 . 4)) ((c def c (c (? . 54) q contract-name)) q (209582 . 3)) ((c def c (c (? . 43) q fl<=)) q (30668 . 4)) ((c def c (c (? . 10) q fxvector-set!)) q (36044 . 5)) ((c def c (c (? . 13) q get-preference)) q (389261 . 18)) ((c def c (c (? . 6) q unsafe-fltruncate)) q (425110 . 3)) ((c def c (c (? . 0) q bytes-convert)) q (63546 . 21)) ((c def c (c (? . 10) q fxmin)) q (35363 . 4)) ((c def c (c (? . 45) q in-slice)) q (119881 . 4)) ((c def c (c (? . 12) q filter-not)) q (97838 . 4)) ((c form c (c (? . 32) q trace-lambda)) q (441252 . 2)) ((c def c (c (? . 19) q generic-set?)) q (133605 . 3)) ((c def c (c (? . 0) q syntax-column)) q (249371 . 3)) ((c def c (c (? . 6) q unsafe-immutable-hash-iterate-key)) q (431859 . 4)) ((c def c (c (? . 1) q regexp-replace*)) q (84706 . 15)) ((c def c (c (? . 12) q partition)) q (97498 . 4)) ((c def c (c (? . 0) q char-titlecase)) q (67693 . 3)) ((c def c (c (? . 6) q unsafe-set-box*!)) q (427591 . 4)) ((c def c (c (? . 0) q quotient)) q (20168 . 4)) ((c def c (c (? . 0) q special-comment-value)) q (325972 . 3)) ((c def c (c (? . 11) q dict-clear!)) q (125607 . 3)) ((c def c (c (? . 33) q stream->list)) q (120472 . 3)) ((c def c (c (? . 0) q current-code-inspector)) q (362438 . 4)) ((c def c (c (? . 43) q flabs)) q (30400 . 3)) ((c def c (c (? . 0) q exn:missing-module?)) q (226333 . 3)) ((c def c (c (? . 26) q sandbox-namespace-specs)) q (367026 . 6)) ((c def c (c (? . 6) q unsafe-flrandom)) q (426526 . 3)) ((c def c (c (? . 0) q bytes->string/locale)) q (60507 . 9)) ((c def c (c (? . 0) q syntax-position)) q (249466 . 3)) ((c def c (c (? . 78) q async-channel-get)) q (239678 . 3)) ((c def c (c (? . 13) q display-lines-to-file)) q (385787 . 13)) ((c def c (c (? . 6) q unsafe-extflsin)) q (434420 . 3)) ((c form c (c (? . 101) q define-rename-transformer-parameter)) q (268638 . 2)) ((c form c (c (? . 43) q for/flvector)) q (33557 . 2)) ((c form c (c (? . 4) q ->d)) q (188003 . 34)) ((c def c (c (? . 49) q internal-definition-context-apply)) q (272873 . 5)) ((c form c (c (? . 5) q for*/extflvector)) q (40590 . 9)) ((c def c (c (? . 0) q integer?)) q (18659 . 3)) ((c def c (c (? . 13) q user-write-bit)) q (392440 . 2)) ((c def c (c (? . 72) q listen-port-number?)) q (394728 . 2)) ((c def c (c (? . 0) q subprocess-wait)) q (403357 . 3)) ((c def c (c (? . 1) q make-exn:fail:network)) c (? . 66)) ((c def c (c (? . 1) q exn:fail:read)) c (? . 77)) ((c def c (c (? . 0) q string-locale-downcase)) q (45901 . 3)) ((c form c (c (? . 7) q super-new)) q (159451 . 2)) ((c def c (c (? . 0) q path->string)) q (373436 . 3)) ((c form c (c (? . 117) q begin-encourage-inline)) q (16971 . 2)) ((c def c (c (? . 0) q arity-at-least-value)) c (? . 62)) ((c def c (c (? . 0) q make-polar)) q (22629 . 4)) ((c def c (c (? . 0) q uncaught-exception-handler)) q (220091 . 4)) ((c def c (c (? . 22) q current-require-module-path)) q (265513 . 4)) ((c def c (c (? . 24) q contract-random-generate-stash)) q (213345 . 5)) ((c def c (c (? . 0) q add1)) q (20503 . 3)) ((c def c (c (? . 0) q syntax-local-bind-syntaxes)) q (258873 . 7)) ((c def c (c (? . 1) q in-immutable-hash)) q (115119 . 3)) ((c form c (c (? . 40) q match-letrec)) q (214895 . 2)) ((c def c (c (? . 54) q contract-custom-write-property-proc)) q (210922 . 7)) ((c def c (c (? . 0) q prop:exn:missing-module)) q (226277 . 2)) ((c def c (c (? . 0) q impersonator?)) q (344958 . 3)) ((c def c (c (? . 0) q string-ci>=?)) q (44513 . 4)) ((c def c (c (? . 41) q blame-contract)) q (199786 . 3)) ((c def c (c (? . 5) q ->extfl)) q (39096 . 3)) ((c def c (c (? . 0) q port-try-file-lock?)) q (279511 . 4)) ((c form c (c (? . 102) q opt/c)) q (210721 . 5)) ((c def c (c (? . 0) q custom-print-quotable-accessor)) q (326423 . 2)) ((c form c (c (? . 4) q ->i)) q (185954 . 54)) ((c form c (c (? . 1) q combine-out)) q (6169 . 2)) ((c form c (c (? . 39) q open)) q (172283 . 2)) ((c def c (c (? . 0) q string)) q (42005 . 3)) ((c def c (c (? . 12) q drop)) q (94331 . 4)) ((c def c (c (? . 0) q exn:fail:user?)) c (? . 103)) ((c def c (c (? . 41) q make-exn:fail:contract:blame)) c (? . 58)) ((c def c (c (? . 0) q exn:fail:contract:variable?)) c (? . 27)) ((c def c (c (? . 26) q exn:fail:sandbox-terminated?)) c (? . 108)) ((c def c (c (? . 19) q set-symmetric-difference!)) q (136345 . 4)) ((c def c (c (? . 0) q tan)) q (22288 . 3)) ((c def c (c (? . 6) q unsafe-set-mcdr!)) q (426941 . 4)) ((c def c (c (? . 68) q process)) q (406125 . 9)) ((c def c (c (? . 0) q semaphore-wait)) q (238425 . 3)) ((c def c (c (? . 0) q sub1)) q (20554 . 3)) ((c form c (c (? . 64) q place/context)) q (244940 . 2)) ((c def c (c (? . 43) q fl>=)) q (30741 . 4)) ((c def c (c (? . 0) q bytes-fill!)) q (59483 . 4)) ((c def c (c (? . 24) q struct-type-property/c)) q (191207 . 3)) ((c form c (c (? . 1) q for)) q (13171 . 16)) ((c form c (c (? . 48) q cupto)) q (231533 . 2)) ((c def c (c (? . 0) q chaperone-hash)) q (354620 . 22)) ((c form c (c (? . 0) q with-continuation-mark)) q (16665 . 2)) ((c def c (c (? . 0) q global-port-print-handler)) q (319967 . 6)) ((c def c (c (? . 0) q regexp)) q (68699 . 6)) ((c form c (c (? . 3) q do)) q (16504 . 7)) ((c def c (c (? . 12) q filter-map)) q (97296 . 4)) ((c def c (c (? . 104) q build-flat-contract-property)) q (201263 . 37)) ((c form c (c (? . 19) q for/seteqv)) q (132524 . 2)) ((c def c (c (? . 0) q denominator)) q (21271 . 3)) ((c def c (c (? . 43) q fl-)) q (30187 . 4)) ((c form c (c (? . 1) q for/hasheqv)) q (14064 . 2)) ((c def c (c (? . 0) q prop:object-name)) q (362389 . 2)) ((c form c (c (? . 60) q syntax/loc)) q (248698 . 2)) ((c def c (c (? . 5) q extflsin)) q (38457 . 3)) ((c form c (c (? . 7) q super-make-object)) q (159354 . 2)) ((c form c (c (? . 105) q current-contract-region)) q (193034 . 2)) ((c form c (c (? . 7) q public-final)) q (156647 . 2)) ((c def c (c (? . 0) q string<?)) q (43738 . 4)) ((c def c (c (? . 40) q exn:misc:match?)) q (215103 . 3)) ((c def c (c (? . 0) q variable-reference-constant?)) q (332631 . 3)) ((c form c (c (? . 7) q overment)) q (156727 . 2)) ((c def c (c (? . 2) q input-port-append)) q (288285 . 4)) ((c def c (c (? . 19) q set-member?)) q (134482 . 4)) ((c def c (c (? . 0) q char-numeric?)) q (66834 . 3)) ((c form c (c (? . 106) q define-serializable-struct/versions)) q (327547 . 4)) ((c def c (c (? . 19) q set-map)) q (136799 . 4)) ((c def c (c (? . 33) q stream-ormap)) q (121046 . 4)) ((c def c (c (? . 0) q internal-definition-context-seal)) q (259623 . 3)) ((c def c (c (? . 0) q custodian-box-value)) q (360811 . 3)) ((c def c (c (? . 44) q arity=?)) q (145050 . 4)) ((c def c (c (? . 0) q current-environment-variables)) q (415829 . 4)) ((c def c (c (? . 0) q current-memory-use)) q (421946 . 3)) ((c def c (c (? . 107) q vector-immutable/c)) q (180706 . 3)) ((c def c (c (? . 0) q namespace-module-registry)) q (332029 . 3)) ((c def c (c (? . 0) q procedure-extract-target)) q (143261 . 3)) ((c form c (c (? . 10) q for*/fxvector)) q (36672 . 9)) ((c def c (c (? . 0) q continuation-mark-set->list)) q (231980 . 8)) ((c def c (c (? . 24) q contract-random-generate/choose)) q (212985 . 4)) ((c def c (c (? . 26) q exn:fail:sandbox-terminated-reason)) c (? . 108)) ((c def c (c (? . 0) q void)) q (145297 . 3)) ((c def c (c (? . 0) q sin)) q (22188 . 3)) ((c def c (c (? . 1) q exn:fail:contract:arity)) c (? . 109)) ((c def c (c (? . 54) q coerce-flat-contracts)) q (197991 . 4)) ((c def c (c (? . 64) q dynamic-place*)) q (244091 . 14)) ((c def c (c (? . 1) q regexp-match-exact?)) q (74941 . 4)) ((q def ((lib "racket/exn.rkt") exn->string)) q (226514 . 3)) ((c def c (c (? . 0) q syntax-debug-info)) q (251909 . 5)) ((c def c (c (? . 1) q exn:fail:user)) c (? . 103)) ((c def c (c (? . 21) q getenv)) q (417098 . 3)) ((c form c (c (? . 74) q case->m)) q (163615 . 2)) ((c def c (c (? . 6) q unsafe-flexpt)) q (425709 . 4)) ((c def c (c (? . 1) q exn:fail:out-of-memory)) c (? . 110)) ((c form c (c (? . 0) q #%expression)) q (9621 . 2)) ((c def c (c (? . 0) q will-execute)) q (421657 . 3)) ((c def c (c (? . 11) q make-custom-hash)) q (128168 . 14)) ((c def c (c (? . 0) q struct:date*)) c (? . 16)) ((c form c (c (? . 39) q invoke-unit/infer)) q (174618 . 5)) ((c def c (c (? . 34) q udp-bound?)) q (399190 . 3)) ((c def c (c (? . 19) q chaperone-hash-set)) q (138027 . 21)) ((c def c (c (? . 0) q srcloc?)) c (? . 57)) ((c form c (c (? . 0) q unquote)) q (16757 . 2)) ((c def c (c (? . 6) q unsafe-extfltruncate)) q (434347 . 3)) ((c def c (c (? . 26) q sandbox-make-namespace)) q (367293 . 2)) ((c def c (c (? . 0) q numerator)) q (21212 . 3)) ((c def c (c (? . 20) q tanh)) q (29274 . 3)) ((c def c (c (? . 0) q byte-pregexp?)) q (68640 . 3)) ((c form c (c (? . 7) q override*)) q (157283 . 2)) ((c def c (c (? . 84) q map)) q (87434 . 4)) ((c def c (c (? . 19) q list->weak-seteqv)) q (132225 . 4)) ((c def c (c (? . 0) q string-foldcase)) q (44821 . 3)) ((c def c (c (? . 0) q plumber-add-flush!)) q (362895 . 5)) ((c def c (c (? . 42) q force)) q (226695 . 3)) ((c def c (c (? . 43) q flatan)) q (31443 . 3)) ((c def c (c (? . 2) q display-lines)) q (287251 . 7)) ((c def c (c (? . 0) q free-identifier=?)) q (252314 . 10)) ((c def c (c (? . 0) q path-element->bytes)) q (373888 . 3)) ((c form c (c (? . 39) q only)) q (172399 . 2)) ((c def c (c (? . 111) q random-sample)) q (25567 . 10)) ((c def c (c (? . 1) q make-exn:fail:read:eof)) c (? . 88)) ((c def c (c (? . 34) q udp-send-to-evt)) q (399497 . 13)) ((c def c (c (? . 33) q stream-map)) q (120864 . 4)) ((c def c (c (? . 17) q vector-drop-right)) q (102692 . 4)) ((c def c (c (? . 0) q string-normalize-nfc)) q (45048 . 3)) ((c def c (c (? . 0) q srcloc-source)) c (? . 57)) ((c def c (c (? . 0) q char-utf-8-length)) q (65534 . 3)) ((c def c (c (? . 0) q string-ci>?)) q (44415 . 4)) ((c def c (c (? . 0) q current-write-relative-directory)) q (318784 . 11)) ((c def c (c (? . 19) q mutable-seteqv)) q (131044 . 4)) ((c def c (c (? . 7) q subclass?)) q (168257 . 4)) ((c def c (c (? . 22) q import-source-mode)) c (? . 92)) ((c form c (c (? . 51) q letrec-syntax)) q (11009 . 2)) ((c def c (c (? . 0) q port-counts-lines?)) q (275217 . 3)) ((c def c (c (? . 0) q peek-bytes)) q (303773 . 5)) ((c def c (c (? . 6) q unsafe-list-ref)) q (427120 . 4)) ((c def c (c (? . 43) q shared-flvector)) q (33886 . 3)) ((c def c (c (? . 6) q unsafe-extfl->fx)) q (435195 . 3)) ((c def c (c (? . 21) q load/use-compiled)) q (335731 . 3)) ((c form c (c (? . 7) q send+)) q (160284 . 5)) ((c def c (c (? . 26) q sandbox-run-submodules)) q (369733 . 4)) ((c def c (c (? . 0) q compiled-expression?)) q (337573 . 3)) ((c def c (c (? . 0) q integer->integer-bytes)) q (27274 . 14)) ((c def c (c (? . 50) q string-trim)) q (47500 . 11)) ((c def c (c (? . 12) q dropf)) q (94614 . 4)) ((c def c (c (? . 19) q set-clear!)) q (135551 . 3)) ((c def c (c (? . 0) q make-semaphore)) q (238260 . 3)) ((c def c (c (? . 120) q box/c)) q (180780 . 9)) ((c def c (c (? . 6) q unsafe-fxmodulo)) q (422833 . 4)) ((c def c (c (? . 0) q chaperone-of?)) q (345158 . 4)) ((c def c (c (? . 7) q member-name-key?)) q (158855 . 3)) ((c def c (c (? . 20) q sgn)) q (29022 . 3)) ((c def c (c (? . 34) q udp-multicast-leave-group!)) q (401179 . 7)) ((c def c (c (? . 19) q set-intersect)) q (135813 . 4)) ((c def c (c (? . 0) q integer-sqrt)) q (21838 . 3)) ((c def c (c (? . 6) q unsafe-set-mcar!)) q (426862 . 4)) ((c def c (c (? . 0) q datum-intern-literal)) q (251041 . 3)) ((c def c (c (? . 0) q list*)) q (86769 . 4)) ((c def c (c (? . 0) q inspector-superior?)) q (361457 . 5)) ((c def c (c (? . 0) q dynamic-require-for-syntax)) q (343551 . 7)) ((c def c (c (? . 0) q vector)) q (100284 . 3)) ((c def c (c (? . 48) q call/comp)) q (230131 . 5)) ((c def c (c (? . 33) q empty-stream)) q (120441 . 2)) ((c def c (c (? . 17) q vector-argmin)) q (103543 . 4)) ((c def c (c (? . 0) q procedure-closure-contents-eq?)) q (141088 . 5)) ((c def c (c (? . 1) q make-do-sequence)) q (116957 . 15)) ((c def c (c (? . 7) q generate-member-key)) q (158801 . 2)) ((c def c (c (? . 6) q unsafe-extfl*)) q (433261 . 4)) ((c def c (c (? . 42) q promise-running?)) q (226817 . 3)) ((c def c (c (? . 0) q log)) q (22102 . 4)) ((c def c (c (? . 1) q procedure-keywords)) q (142096 . 4)) ((c def c (c (? . 10) q fxmax)) q (35436 . 4)) ((c def c (c (? . 10) q make-shared-fxvector)) q (37004 . 4)) ((c form c (c (? . 119) q define-struct/contract)) q (192642 . 6)) ((c def c (c (? . 0) q struct-type-property-accessor-procedure?)) q (149455 . 3)) ((c form c (c (? . 51) q letrec)) q (10711 . 2)) ((c def c (c (? . 6) q unsafe-extflmin)) q (433951 . 4)) ((c def c (c (? . 0) q liberal-define-context?)) q (263971 . 3)) ((c def c (c (? . 0) q syntax-local-expand-expression)) q (256952 . 3)) ((c def c (c (? . 45) q empty-sequence)) q (118348 . 2)) ((c def c (c (? . 0) q always-evt)) q (237329 . 2)) ((c def c (c (? . 0) q caddr)) q (90425 . 3)) ((c def c (c (? . 0) q current-preserved-thread-cell-values)) q (241368 . 4)) ((c def c (c (? . 0) q file-position)) q (274712 . 6)) ((c form c (c (? . 51) q =>)) q (11787 . 2)) ((c def c (c (? . 43) q flmin)) q (30814 . 4)) ((c def c (c (? . 0) q make-reader-graph)) q (99059 . 3)) ((c def c (c (? . 1) q in-weak-hash)) q (115501 . 3)) ((c form c (c (? . 39) q prefix)) q (172508 . 2)) ((c def c (c (? . 0) q module-predefined?)) q (344852 . 3)) ((c def c (c (? . 0) q impersonate-box)) q (348023 . 12)) ((c def c (c (? . 70) q file-name-from-path)) q (377454 . 3)) ((c def c (c (? . 0) q prop:rename-transformer)) q (256340 . 2)) ((c def c (c (? . 0) q syntax-track-origin)) q (269680 . 7)) ((c def c (c (? . 0) q print-syntax-width)) q (318588 . 5)) ((c def c (c (? . 26) q sandbox-propagate-exceptions)) q (366892 . 4)) ((c def c (c (? . 19) q set-add!)) q (134652 . 4)) ((c def c (c (? . 0) q make-output-port)) q (283385 . 59)) ((c def c (c (? . 14) q between/c)) q (179290 . 4)) ((c def c (c (? . 1) q in-hash)) q (114367 . 3)) ((c form c (c (? . 40) q define/match)) q (213985 . 18)) ((c def c (c (? . 14) q </c)) q (179068 . 3)) ((c def c (c (? . 17) q vector-argmax)) q (103643 . 4)) ((c form c (c (? . 19) q for*/weak-set)) q (133240 . 2)) ((c def c (c (? . 0) q box)) q (105337 . 3)) ((c def c (c (? . 11) q dict-count)) q (125410 . 3)) ((c form c (c (? . 3) q time)) q (413984 . 2)) ((c def c (c (? . 0) q semaphore-post)) q (238357 . 3)) ((c def c (c (? . 0) q current-plumber)) q (362648 . 4)) ((c form c (c (? . 7) q init-rest)) q (156539 . 3)) ((c def c (c (? . 21) q guard-evt)) q (236939 . 3)) ((c def c (c (? . 12) q eighth)) q (92967 . 3)) ((c def c (c (? . 123) q make-constructor-style-printer)) q (152172 . 6)) ((c def c (c (? . 0) q procedure-impersonator*?)) q (345310 . 3)) ((c def c (c (? . 0) q struct:exn:fail:syntax)) c (? . 63)) ((c def c (c (? . 1) q exn:fail:filesystem:exists)) c (? . 80)) ((c def c (c (? . 0) q exn-continuation-marks)) c (? . 87)) ((c def c (c (? . 0) q read-bytes-avail!/enable-break)) q (303104 . 10)) ((c def c (c (? . 0) q eq?)) q (17696 . 4)) ((c def c (c (? . 0) q magnitude)) q (22835 . 3)) ((c def c (c (? . 1) q call-with-input-file*)) q (277949 . 7)) ((c def c (c (? . 0) q path-for-some-system?)) q (373168 . 3)) ((c def c (c (? . 12) q index-of)) q (93611 . 5)) ((c def c (c (? . 1) q regexp-replace-quote)) q (85939 . 5)) ((c def c (c (? . 5) q extfl<=)) q (37866 . 4)) ((c def c (c (? . 43) q flcos)) q (31233 . 3)) ((c def c (c (? . 34) q udp-receive!/enable-break)) q (398637 . 12)) ((c def c (c (? . 1) q make-exn:fail)) c (? . 99)) ((c def c (c (? . 5) q make-extflvector)) q (39592 . 4)) ((c def c (c (? . 0) q syntax-line)) q (249281 . 3)) ((c def c (c (? . 1) q collection-path)) q (438800 . 8)) ((c def c (c (? . 0) q log-level?)) q (410100 . 5)) ((c def c (c (? . 1) q hash->list)) q (110060 . 3)) ((c def c (c (? . 0) q call-with-escape-continuation)) q (228914 . 3)) ((c def c (c (? . 5) q extflonum?)) q (37127 . 3)) ((c def c (c (? . 0) q hash-iterate-next)) q (110643 . 5)) ((c def c (c (? . 6) q unsafe-extflfloor)) q (434205 . 3)) ((c def c (c (? . 0) q hasheq)) q (106184 . 4)) ((c def c (c (? . 0) q hash-placeholder?)) q (99405 . 3)) ((c def c (c (? . 54) q list-contract?)) q (209522 . 3)) ((c def c (c (? . 0) q procedure-result-arity)) q (142241 . 3)) ((c def c (c (? . 47) q generator-state)) q (122195 . 3)) ((c def c (c (? . 0) q rename-transformer-target)) q (256232 . 3)) ((c def c (c (? . 12) q take)) q (94236 . 4)) ((c def c (c (? . 0) q exn:srclocs?)) q (225673 . 3)) ((c def c (c (? . 8) q false)) q (18065 . 2)) ((c def c (c (? . 1) q call-with-output-file)) q (277439 . 11)) ((c def c (c (? . 0) q struct:exn:fail:syntax:unbound)) c (? . 112)) ((c def c (c (? . 78) q async-channel-try-get)) q (239751 . 3)) ((c def c (c (? . 111) q random-ref)) q (25401 . 5)) ((c def c (c (? . 0) q mpair?)) q (99761 . 3)) ((c def c (c (? . 0) q regexp-match)) q (69710 . 17)) ((c def c (c (? . 12) q check-duplicates)) q (96687 . 7)) ((c def c (c (? . 0) q pipe-content-length)) q (281011 . 3)) ((c def c (c (? . 0) q truncate)) q (21126 . 3)) ((c def c (c (? . 0) q char-downcase)) q (67631 . 3)) ((c def c (c (? . 0) q regexp-max-lookbehind)) q (69589 . 3)) ((c def c (c (? . 0) q current-compiled-file-roots)) q (336205 . 4)) ((c def c (c (? . 0) q exn:srclocs-accessor)) q (225731 . 4)) ((c def c (c (? . 0) q make-immutable-hasheq)) q (107358 . 4)) ((c def c (c (? . 0) q struct-info)) q (361749 . 3)) ((c def c (c (? . 0) q exn:fail:network:errno-errno)) c (? . 113)) ((c def c (c (? . 0) q srcloc-position)) c (? . 57)) ((c def c (c (? . 33) q stream-for-each)) q (121146 . 4)) ((c def c (c (? . 43) q flvector)) q (32619 . 3)) ((c def c (c (? . 35) q export-mode)) c (? . 36)) ((c def c (c (? . 0) q syntax-shift-phase-level)) q (251104 . 4)) ((c def c (c (? . 26) q get-error-output)) c (? . 114)) ((c def c (c (? . 6) q unsafe-fl-)) q (424075 . 4)) ((c def c (c (? . 0) q date?)) c (? . 25)) ((c def c (c (? . 1) q hash-keys)) q (109922 . 3)) ((c form c (c (? . 19) q for/mutable-seteq)) q (132783 . 2)) ((c def c (c (? . 6) q unsafe-fltan)) q (425292 . 3)) ((c def c (c (? . 0) q complete-path?)) q (375194 . 3)) ((c def c (c (? . 0) q placeholder-get)) q (99338 . 3)) ((c def c (c (? . 0) q cddar)) q (90671 . 3)) ((c def c (c (? . 1) q make-base-namespace)) q (328831 . 2)) ((c form c (c (? . 69) q define-generics)) q (149541 . 21)) ((c def c (c (? . 1) q exn)) c (? . 87)) ((c def c (c (? . 0) q vector->immutable-vector)) q (100929 . 3)) ((c def c (c (? . 0) q box-cas!)) q (105612 . 5)) ((c def c (c (? . 14) q not/c)) q (178923 . 3)) ((c def c (c (? . 2) q make-pipe-with-specials)) q (291214 . 7)) ((c def c (c (? . 43) q flceiling)) q (31068 . 3)) ((c def c (c (? . 19) q in-weak-set)) q (133541 . 3)) ((c form c (c (? . 4) q cons/dc)) q (181510 . 8)) ((q form ((lib "racket/shared.rkt") shared)) q (11418 . 2)) ((c def c (c (? . 0) q bytes)) q (58291 . 3)) ((c def c (c (? . 26) q sandbox-coverage-enabled)) q (366644 . 4)) ((c def c (c (? . 14) q flat-contract)) q (184616 . 3)) ((c form c (c (? . 74) q object-contract)) q (164569 . 51)) ((c def c (c (? . 47) q sequence->generator)) q (122260 . 3)) ((c def c (c (? . 0) q hash-eqv?)) q (105883 . 3)) ((c def c (c (? . 0) q hash-iterate-first)) q (110542 . 4)) ((c def c (c (? . 43) q flrandom)) q (32451 . 3)) ((c def c (c (? . 34) q udp-multicast-set-ttl!)) q (401952 . 4)) ((c def c (c (? . 0) q exn:fail:network:errno?)) c (? . 113)) ((c def c (c (? . 43) q flasin)) q (31337 . 3)) ((c def c (c (? . 0) q string-upcase)) q (44612 . 3)) ((c def c (c (? . 0) q struct-type-property?)) q (149388 . 3)) ((c def c (c (? . 22) q expand-import)) q (264040 . 4)) ((c def c (c (? . 34) q udp-send-ready-evt)) q (399340 . 3)) ((c def c (c (? . 0) q current-directory)) q (381944 . 4)) ((c def c (c (? . 7) q object-method-arity-includes?)) q (168714 . 7)) ((c def c (c (? . 6) q unsafe-fllog)) q (425531 . 3)) ((c def c (c (? . 0) q prefab-struct-key)) q (151798 . 3)) ((c def c (c (? . 33) q stream-add-between)) q (121562 . 4)) ((c def c (c (? . 1) q prop:sequence)) q (118013 . 2)) ((c def c (c (? . 14) q rename-contract)) q (211172 . 4)) ((c def c (c (? . 7) q implementation?)) q (168336 . 4)) ((c def c (c (? . 19) q set-remove)) q (134731 . 4)) ((c def c (c (? . 34) q udp-send)) q (395961 . 6)) ((c def c (c (? . 0) q error-print-context-length)) q (220796 . 4)) ((c def c (c (? . 10) q fx=)) q (35001 . 4)) ((c def c (c (? . 53) q assoc)) q (89485 . 5)) ((c def c (c (? . 43) q flmax)) q (30887 . 4)) ((c def c (c (? . 0) q hash-equal?)) q (105820 . 3)) ((c def c (c (? . 0) q struct:exn:fail:syntax:missing-module)) c (? . 73)) ((c def c (c (? . 0) q srcloc->string)) q (226194 . 3)) ((c form c (c (? . 7) q define-serializable-class*)) q (167121 . 4)) ((c def c (c (? . 0) q impersonate-vector*)) q (347444 . 15)) ((c def c (c (? . 0) q make-placeholder)) q (99177 . 3)) ((c form c (c (? . 0) q begin0)) q (12968 . 2)) ((c def c (c (? . 0) q make-hasheq)) q (106631 . 3)) ((c def c (c (? . 0) q null)) q (86645 . 2)) ((c def c (c (? . 115) q signature-members)) q (177455 . 8)) ((c def c (c (? . 0) q sync/timeout)) q (236303 . 4)) ((c form c (c (? . 51) q when)) q (13033 . 2)) ((c def c (c (? . 26) q sandbox-make-inspector)) q (369878 . 4)) ((c form c (c (? . 105) q recursive-contract)) q (210316 . 10)) ((c def c (c (? . 21) q channel-get)) q (237853 . 3)) ((c form c (c (? . 39) q unit/s)) q (175432 . 6)) ((c def c (c (? . 0) q syntax-local-make-delta-introducer)) q (262259 . 3)) ((c def c (c (? . 0) q thread-cell?)) q (241040 . 3)) ((c def c (c (? . 0) q eq-hash-code)) q (111330 . 3)) ((c def c (c (? . 0) q make-weak-hash)) q (106735 . 3)) ((c def c (c (? . 0) q namespace-require)) q (330654 . 3)) ((c def c (c (? . 2) q dup-input-port)) q (293622 . 4)) ((c form c (c (? . 0) q begin-for-syntax)) q (12996 . 2)) ((c def c (c (? . 0) q write-special-avail*)) q (311803 . 4)) ((c def c (c (? . 34) q udp-receive!)) q (397765 . 11)) ((c def c (c (? . 0) q current-output-port)) q (273967 . 4)) ((c def c (c (? . 0) q procedure-specialize)) q (143863 . 3)) ((c def c (c (? . 6) q unsafe-vector*-length)) q (428073 . 3)) ((c def c (c (? . 0) q port-next-location)) q (275287 . 6)) ((c form c (c (? . 33) q stream-cons)) q (120284 . 2)) ((c def c (c (? . 52) q processor-count)) q (242974 . 2)) ((c def c (c (? . 0) q string-ref)) q (42246 . 4)) ((c form c (c (? . 1) q all-defined-out)) q (5935 . 2)) ((c def c (c (? . 6) q unsafe-unbox)) q (427369 . 3)) ((c def c (c (? . 10) q fxxor)) q (34724 . 4)) ((c def c (c (? . 0) q thread-receive)) q (236011 . 2)) ((c def c (c (? . 0) q mcons)) q (99813 . 4)) ((c def c (c (? . 1) q in-list)) q (112871 . 3)) ((c def c (c (? . 133) q syntax-local-require-introduce)) q (12661 . 3)) ((c def c (c (? . 0) q path-element->string)) q (373809 . 3)) ((c def c (c (? . 6) q unsafe-fxvector-ref)) q (429156 . 4)) ((c def c (c (? . 14) q real-in)) q (179370 . 4)) ((c def c (c (? . 26) q exn:fail:resource?)) c (? . 116)) ((c def c (c (? . 1) q make-exn:fail:contract:divide-by-zero)) c (? . 75)) ((c def c (c (? . 0) q exn:fail:filesystem:exists?)) c (? . 80)) ((c def c (c (? . 0) q hash-clear!)) q (109505 . 3)) ((c def c (c (? . 6) q unsafe-fx->fl)) q (426406 . 3)) ((c def c (c (? . 107) q vectorof)) q (179966 . 9)) ((c form c (c (? . 1) q :do-in)) q (16138 . 9)) ((c def c (c (? . 53) q remove*)) q (88348 . 5)) ((c form c (c (? . 48) q shift0-at)) q (231175 . 2)) ((c def c (c (? . 0) q bytes-converter?)) q (64922 . 3)) ((c def c (c (? . 6) q unsafe-extflasin)) q (434624 . 3)) ((c def c (c (? . 1) q in-producer)) q (116071 . 7)) ((c def c (c (? . 1) q make-exn:fail:contract:arity)) c (? . 109)) ((c def c (c (? . 6) q unsafe-fl<)) q (424447 . 4)) ((c def c (c (? . 0) q peek-bytes-avail!*)) q (305608 . 14)) ((c def c (c (? . 40) q match-equality-test)) q (215601 . 4)) ((c form c (c (? . 7) q define-member-name)) q (158722 . 2)) ((c def c (c (? . 0) q chaperone-evt)) q (356283 . 7)) ((c def c (c (? . 72) q port-number?)) q (394695 . 2)) ((c def c (c (? . 0) q list)) q (86717 . 3)) ((c def c (c (? . 0) q identifier-transformer-binding)) q (253916 . 15)) ((c form c (c (? . 117) q define-inline)) q (17014 . 14)) ((c def c (c (? . 34) q udp-connected?)) q (399263 . 3)) ((c def c (c (? . 64) q place-channel-put/get)) q (245529 . 4)) ((c def c (c (? . 82) q ~.v)) q (55641 . 25)) ((c def c (c (? . 0) q make-struct-type-property)) q (148863 . 13)) ((c def c (c (? . 5) q extfllog)) q (38826 . 3)) ((c def c (c (? . 43) q flexp)) q (31548 . 3)) ((c def c (c (? . 28) q pretty-print-handler)) q (321129 . 3)) ((c form c (c (? . 7) q define/override-final)) q (157955 . 3)) ((c def c (c (? . 5) q extflmin)) q (38030 . 4)) ((c def c (c (? . 1) q keyword-apply)) q (141252 . 13)) ((c def c (c (? . 0) q port-provides-progress-evts?)) q (308995 . 3)) ((c def c (c (? . 35) q syntax-local-provide-certifier)) q (267712 . 4)) ((c def c (c (? . 47) q yield)) q (122003 . 3)) ((c def c (c (? . 49) q syntax-local-value/record)) q (272549 . 4)) ((c form c (c (? . 51) q else)) q (11775 . 2)) ((c def c (c (? . 1) q exn:break:hang-up)) c (? . 85)) ((c def c (c (? . 1) q regexp-match-peek-positions*)) q (78411 . 17)) ((c def c (c (? . 0) q syntax-local-phase-level)) q (261611 . 2)) ((c def c (c (? . 0) q caadar)) q (91035 . 3)) ((c def c (c (? . 60) q check-duplicate-identifier)) q (253076 . 3)) ((c def c (c (? . 34) q udp-send-to)) q (395518 . 13)) ((c form c (c (? . 48) q reset-at)) q (230795 . 2)) ((c def c (c (? . 0) q regexp-match-positions)) q (72313 . 19)) ((c def c (c (? . 0) q current-subprocess-custodian-mode)) q (403850 . 5)) ((c def c (c (? . 0) q vector-length)) q (100468 . 3)) ((c def c (c (? . 0) q use-user-specific-search-paths)) q (439973 . 4)) ((c def c (c (? . 0) q struct:exn:fail:contract:non-fixnum-result)) c (? . 96)) ((c def c (c (? . 0) q shared-bytes)) q (59910 . 3)) ((c def c (c (? . 21) q load-relative)) q (334712 . 3)) ((c def c (c (? . 1) q namespace-anchor->empty-namespace)) q (328979 . 3)) ((c def c (c (? . 7) q dynamic-send)) q (159894 . 9)) ((c def c (c (? . 0) q syntax-property)) q (269169 . 9)) ((c def c (c (? . 0) q syntax-local-module-defined-identifiers)) q (263456 . 3)) ((c form c (c (? . 19) q for/seteq)) q (132474 . 2)) ((c def c (c (? . 12) q in-permutations)) q (98372 . 3)) ((c form c (c (? . 40) q ==)) q (215889 . 3)) ((c def c (c (? . 0) q write-bytes-avail/enable-break)) q (311266 . 10)) ((c def c (c (? . 4) q non-empty-listof)) q (181231 . 3)) ((c def c (c (? . 0) q current-prompt-read)) q (336588 . 4)) ((c def c (c (? . 0) q find-system-path)) q (379243 . 3)) ((c def c (c (? . 2) q with-input-from-bytes)) q (288187 . 4)) ((c def c (c (? . 19) q list->weak-seteq)) q (132327 . 3)) ((c def c (c (? . 1) q exn:fail:contract:continuation)) c (? . 79)) ((c def c (c (? . 6) q unsafe-flsin)) q (425174 . 3)) ((c def c (c (? . 0) q byte-regexp?)) q (68582 . 3)) ((c form c (c (? . 48) q reset0-at)) q (231073 . 2)) ((c def c (c (? . 41) q exn:fail:contract:blame?)) c (? . 58)) ((c def c (c (? . 18) q find-seconds)) q (415043 . 15)) ((c def c (c (? . 53) q remq)) q (88208 . 4)) ((c def c (c (? . 0) q string->bytes/latin-1)) q (61720 . 9)) ((c def c (c (? . 0) q peek-bytes!)) q (304490 . 12)) ((c def c (c (? . 43) q flvector-set!)) q (32995 . 5)) ((c def c (c (? . 0) q srcloc-line)) c (? . 57)) ((c form c (c (? . 1) q define-namespace-anchor)) q (328879 . 2)) ((c def c (c (? . 11) q dict-set*!)) q (124027 . 5)) ((c def c (c (? . 12) q remove-duplicates)) q (96994 . 7)) ((c def c (c (? . 50) q string-suffix?)) q (48153 . 4)) ((c def c (c (? . 0) q >=)) q (21714 . 4)) ((c form c (c (? . 98) q unsyntax)) q (248641 . 2)) ((c def c (c (? . 0) q set-mcar!)) q (99977 . 4)) ((c def c (c (? . 11) q in-dict-pairs)) q (126036 . 3)) ((c def c (c (? . 17) q vector-map)) q (102074 . 4)) ((c def c (c (? . 0) q bytes-ref)) q (58573 . 4)) ((c def c (c (? . 6) q unsafe-weak-hash-iterate-value)) q (432732 . 4)) ((c def c (c (? . 0) q list->string)) q (43431 . 3)) ((c def c (c (? . 1) q procedure-reduce-arity)) q (141977 . 4)) ((c form c (c (? . 19) q for/set)) q (132426 . 2)) ((c def c (c (? . 52) q future)) q (242643 . 3)) ((c def c (c (? . 1) q procedure-rename)) q (140910 . 4)) ((c def c (c (? . 6) q unsafe-extfl<=)) q (433773 . 4)) ((c def c (c (? . 12) q third)) q (92714 . 3)) ((c def c (c (? . 2) q read-bytes!-evt)) q (298277 . 5)) ((c def c (c (? . 0) q read-accept-compiled)) q (314412 . 4)) ((c form c (c (? . 51) q let-syntaxes)) q (11069 . 2)) ((c def c (c (? . 0) q current-load)) q (334075 . 15)) ((c def c (c (? . 0) q read-string)) q (301462 . 4)) ((c form c (c (? . 118) q define-contract-struct)) q (191154 . 2)) ((c form c (c (? . 39) q tag)) q (172647 . 3)) ((c def c (c (? . 0) q bytes-utf-8-index)) q (62880 . 12)) ((c def c (c (? . 104) q make-chaperone-contract)) q (194881 . 27)) ((c def c (c (? . 1) q exn:fail:syntax:unbound)) c (? . 112)) ((c form c (c (? . 7) q inherit/super)) q (157016 . 2)) ((c def c (c (? . 54) q build-compound-type-name)) q (197395 . 3)) ((c def c (c (? . 0) q struct-mutator-procedure?)) q (151727 . 3)) ((c form c (c (? . 51) q letrec-syntaxes)) q (11135 . 2)) ((c def c (c (? . 26) q sandbox-memory-limit)) q (368902 . 4)) ((c form c (c (? . 14) q flat-murec-contract)) q (184466 . 2)) ((c def c (c (? . 30) q extract-struct-info)) q (152838 . 3)) ((c def c (c (? . 0) q date*-time-zone-name)) c (? . 16)) ((c def c (c (? . 4) q listof)) q (181169 . 3)) ((c def c (c (? . 19) q list->set)) q (131533 . 3)) ((c def c (c (? . 0) q exact-positive-integer?)) q (18845 . 3)) ((c def c (c (? . 11) q prop:dict)) q (122844 . 2)) ((c def c (c (? . 0) q cddaar)) q (92035 . 3)) ((c def c (c (? . 0) q environment-variables-names)) q (416841 . 4)) ((c def c (c (? . 72) q tcp-connect/enable-break)) q (393390 . 10)) ((c def c (c (? . 18) q current-date)) q (414010 . 2)) ((c def c (c (? . 4) q one-of/c)) q (179829 . 3)) ((c form c (c (? . 1) q for/vector)) q (13687 . 8)) ((c def c (c (? . 0) q will-executor?)) q (421459 . 3)) ((c def c (c (? . 0) q file-truncate)) q (275008 . 4)) ((c def c (c (? . 1) q regexp-match*)) q (70518 . 20)) ((c def c (c (? . 1) q in-directory)) q (115863 . 5)) ((c def c (c (? . 0) q unquoted-printing-string-value)) q (219878 . 3)) ((c def c (c (? . 20) q exact-round)) q (29325 . 3)) ((c form c (c (? . 1) q for/and)) q (14130 . 2)) ((c def c (c (? . 0) q load-extension)) q (335020 . 3)) ((c form c (c (? . 1) q for/first)) q (14456 . 2)) ((c def c (c (? . 33) q prop:stream)) q (121804 . 2)) ((c def c (c (? . 12) q dropf-right)) q (95191 . 4)) ((c def c (c (? . 0) q box?)) q (105287 . 3)) ((c form c (c (? . 119) q define/contract)) q (192492 . 3)) ((c def c (c (? . 1) q in-port)) q (113697 . 4)) ((c def c (c (? . 0) q impersonate-continuation-mark-key)) q (350912 . 13)) ((c form c (c (? . 39) q define-values-for-export)) q (172307 . 2)) ((c form c (c (? . 60) q syntax-rules)) q (248815 . 3)) ((c def c (c (? . 13) q make-lock-file-name)) q (392181 . 6)) ((c def c (c (? . 54) q value-blame)) q (209782 . 3)) ((c def c (c (? . 0) q hash-iterate-pair)) q (111003 . 4)) ((c def c (c (? . 54) q prop:blame)) q (201163 . 2)) ((c def c (c (? . 6) q unsafe-extflvector-set!)) q (435436 . 5)) ((c def c (c (? . 0) q chaperone-vector)) q (353048 . 14)) ((c def c (c (? . 0) q current-inspector)) q (361642 . 4)) ((c form c (c (? . 1) q λ)) q (9970 . 11)) ((c form c (c (? . 39) q define-unit-from-context)) q (174999 . 2)) ((c form c (c (? . 42) q delay)) q (226642 . 2)) ((c def c (c (? . 0) q syntax->datum)) q (250023 . 3)) ((c def c (c (? . 0) q placeholder-set!)) q (99243 . 4)) ((c def c (c (? . 0) q make-rectangular)) q (22549 . 4)) ((c form c (c (? . 52) q for/async)) q (243031 . 2)) ((c def c (c (? . 104) q make-flat-contract)) q (196194 . 26)) ((c def c (c (? . 0) q port-count-lines!)) q (275151 . 3)) ((c def c (c (? . 0) q plumber-flush-handle?)) q (362828 . 3)) ((c def c (c (? . 0) q identifier-binding)) q (253183 . 18)) ((c def c (c (? . 0) q thread?)) q (234696 . 3)) ((c def c (c (? . 0) q custom-write-accessor)) q (326189 . 4)) ((c def c (c (? . 0) q make-log-receiver)) q (411087 . 5)) ((c def c (c (? . 1) q make-exn:fail:unsupported)) c (? . 81)) ((c def c (c (? . 5) q extfl/)) q (37479 . 4)) ((c def c (c (? . 69) q exn:fail:support)) c (? . 97)) ((c def c (c (? . 1) q in-immutable-hash-keys)) q (115210 . 3)) ((c def c (c (? . 120) q box-immutable/c)) q (181103 . 3)) ((c def c (c (? . 7) q dynamic-get-field)) q (160505 . 4)) ((c def c (c (? . 41) q blame-positive)) q (199670 . 3)) ((c def c (c (? . 43) q fl->exact-integer)) q (31785 . 3)) ((c def c (c (? . 14) q promise/c)) q (184556 . 3)) ((c def c (c (? . 0) q port-write-handler)) q (319292 . 6)) ((c def c (c (? . 0) q char-ready?)) q (309374 . 3)) ((c def c (c (? . 0) q read-square-bracket-with-tag)) q (314084 . 4)) ((c def c (c (? . 0) q compile)) q (337300 . 3)) ((c def c (c (? . 121) q with-logging-to-port)) q (412003 . 12)) ((c def c (c (? . 0) q raise-user-error)) q (216447 . 10)) ((c form c (c (? . 0) q module)) q (1651 . 2)) ((c form c (c (? . 40) q struct*)) q (215928 . 2)) ((c def c (c (? . 5) q extflexp)) q (38887 . 3)) ((c def c (c (? . 0) q caaar)) q (90179 . 3)) ((c def c (c (? . 54) q contract-first-order-passes?)) q (209080 . 4)) ((c def c (c (? . 22) q import-orig-stx)) c (? . 23)) ((c def c (c (? . 0) q struct-constructor-procedure?)) q (151507 . 3)) ((c def c (c (? . 12) q second)) q (92663 . 3)) ((c form c (c (? . 29) q splicing-let-syntaxes)) q (269011 . 2)) ((c def c (c (? . 0) q date-minute)) c (? . 25)) ((c def c (c (? . 70) q path-has-extension?)) q (377706 . 4)) ((c def c (c (? . 30) q struct:struct-info)) q (152930 . 2)) ((c def c (c (? . 89) q engine?)) q (245897 . 3)) ((c form c (c (? . 10) q for/fxvector)) q (36606 . 2)) ((c form c (c (? . 39) q define-unit)) q (173309 . 7)) ((c def c (c (? . 0) q exn:fail:out-of-memory?)) c (? . 110)) ((c def c (c (? . 18) q date->seconds)) q (414813 . 4)) ((c def c (c (? . 0) q inexact?)) q (19523 . 3)) ((c def c (c (? . 0) q string-locale-ci<?)) q (45614 . 4)) ((c form c (c (? . 128) q define-module-boundary-contract)) q (193065 . 16)) ((c def c (c (? . 11) q dict-iter-contract)) q (126283 . 3)) ((c def c (c (? . 17) q vector-split-at-right)) q (102923 . 4)) ((c def c (c (? . 0) q equal?)) q (17548 . 4)) ((c def c (c (? . 0) q regexp-match-peek)) q (75111 . 15)) ((c def c (c (? . 0) q struct-accessor-procedure?)) q (151655 . 3)) ((c form c (c (? . 86) q trait-exclude-field)) q (162304 . 2)) ((c form c (c (? . 39) q init-depend)) q (172692 . 2)) ((c form c (c (? . 8) q nor)) q (18324 . 2)) ((c def c (c (? . 0) q make-parameter)) q (241620 . 4)) ((c form c (c (? . 1) q for/hasheq)) q (13999 . 2)) ((c def c (c (? . 44) q const)) q (144199 . 3)) ((c def c (c (? . 6) q unsafe-immutable-hash-iterate-key+value)) q (432093 . 5)) ((c def c (c (? . 0) q thread-rewind-receive)) q (236132 . 3)) ((c def c (c (? . 0) q gensym)) q (68291 . 3)) ((c def c (c (? . 20) q radians->degrees)) q (28913 . 3)) ((c form c (c (? . 7) q super)) q (158515 . 3)) ((c def c (c (? . 6) q unsafe-flasin)) q (425351 . 3)) ((c def c (c (? . 0) q variable-reference->resolved-module-path)) q (332937 . 4)) ((c def c (c (? . 5) q extfl>)) q (37785 . 4)) ((c def c (c (? . 5) q extflcos)) q (38518 . 3)) ((c def c (c (? . 52) q would-be-future)) q (242902 . 3)) ((c def c (c (? . 0) q subprocess-group-enabled)) q (404028 . 4)) ((c def c (c (? . 21) q find-library-collection-paths)) q (437670 . 5)) ((c def c (c (? . 6) q unsafe-struct*-ref)) q (430509 . 4)) ((c def c (c (? . 0) q make-continuation-prompt-tag)) q (227965 . 4)) ((c def c (c (? . 12) q takef-right)) q (95103 . 4)) ((c def c (c (? . 0) q get-output-string)) q (280711 . 3)) ((c form c (c (? . 105) q contract)) q (193452 . 6)) ((c def c (c (? . 0) q struct:exn:fail:filesystem:version)) c (? . 122)) ((c def c (c (? . 50) q non-empty-string?)) q (47896 . 3)) ((c def c (c (? . 13) q fold-files)) q (387902 . 12)) ((c def c (c (? . 0) q hash-ref)) q (108049 . 7)) ((c def c (c (? . 0) q pseudo-random-generator-vector?)) q (25243 . 3)) ((c def c (c (? . 64) q dynamic-place)) q (243751 . 9)) ((c def c (c (? . 0) q current-inexact-milliseconds)) q (412514 . 2)) ((c def c (c (? . 6) q unsafe-mutable-hash-iterate-pair)) q (431474 . 4)) ((c def c (c (? . 1) q impersonate-procedure*)) q (345756 . 11)) ((c def c (c (? . 0) q struct-type?)) q (151449 . 3)) ((c def c (c (? . 0) q semaphore-peek-evt?)) q (238736 . 3)) ((c def c (c (? . 17) q vector-set*!)) q (101910 . 5)) ((c def c (c (? . 1) q make-exn:break)) c (? . 38)) ((q def ((lib "racket/undefined.rkt") undefined)) q (145349 . 2)) ((c def c (c (? . 4) q dynamic->*)) q (189412 . 19)) ((c def c (c (? . 0) q regexp-match-peek-immediate)) q (76701 . 15)) ((c def c (c (? . 12) q in-combinations)) q (98145 . 6)) ((c form c (c (? . 1) q for*/lists)) q (14802 . 2)) ((c def c (c (? . 123) q struct->list)) q (152452 . 4)) ((c def c (c (? . 0) q choice-evt)) q (236670 . 3)) ((c def c (c (? . 0) q make-plumber)) q (362609 . 2)) ((c def c (c (? . 0) q environment-variables?)) q (415761 . 3)) ((c def c (c (? . 6) q unsafe-extfl>=)) q (433862 . 4)) ((c def c (c (? . 1) q in-naturals)) q (112778 . 3)) ((c def c (c (? . 0) q syntax-property-preserved?)) q (269474 . 4)) ((c form c (c (? . 7) q private)) q (156926 . 2)) ((c def c (c (? . 0) q make-immutable-hasheqv)) q (107229 . 4)) ((c def c (c (? . 0) q chaperone?)) q (345017 . 3)) ((c def c (c (? . 6) q unsafe-fl>=)) q (424685 . 4)) ((c def c (c (? . 6) q unsafe-struct*-set!)) q (430608 . 5)) ((c form c (c (? . 7) q define/augride)) q (158129 . 3)) ((c form c (c (? . 74) q ->dm)) q (163666 . 6)) ((c def c (c (? . 41) q exn:fail:contract:blame-object)) c (? . 58)) ((c def c (c (? . 7) q is-a?)) q (168160 . 4)) ((c def c (c (? . 6) q unsafe-mcar)) q (426752 . 3)) ((c def c (c (? . 19) q list->mutable-seteqv)) q (131910 . 4)) ((c form c (c (? . 11) q define-custom-hash-types)) q (126348 . 12)) ((c def c (c (? . 0) q internal-definition-context?)) q (258544 . 3)) ((c def c (c (? . 0) q read-byte)) q (300923 . 3)) ((c def c (c (? . 10) q fxnot)) q (34797 . 3)) ((c def c (c (? . 0) q eqv?)) q (17623 . 4)) ((c def c (c (? . 0) q file-or-directory-identity)) q (381328 . 5)) ((c def c (c (? . 0) q exn:fail:contract:continuation?)) c (? . 79)) ((c def c (c (? . 18) q date-display-format)) q (414146 . 18)) ((c def c (c (? . 12) q group-by)) q (98652 . 5)) ((c def c (c (? . 12) q index-where)) q (93790 . 4)) ((c def c (c (? . 14) q syntax/c)) q (181984 . 3)) ((c def c (c (? . 1) q directory-list)) q (382475 . 4)) ((c def c (c (? . 0) q logger-name)) q (409436 . 3)) ((c form c (c (? . 7) q augment)) q (156809 . 2)) ((c def c (c (? . 1) q in-sequences)) q (116388 . 3)) ((c def c (c (? . 0) q thread-receive-evt)) q (236091 . 2)) ((c form c (c (? . 51) q or)) q (11821 . 2)) ((c form c (c (? . 1) q define-syntax)) q (12311 . 3)) ((c def c (c (? . 1) q in-input-port-bytes)) q (113837 . 3)) ((c def c (c (? . 28) q pretty-print-abbreviate-read-macros)) q (321935 . 4)) ((c form c (c (? . 39) q define-compound-unit)) q (174190 . 5)) ((c form c (c (? . 1) q #%module-begin)) q (1801 . 2)) ((c def c (c (? . 10) q shared-fxvector)) q (36935 . 3)) ((c def c (c (? . 0) q make-thread-cell)) q (241098 . 4)) ((c def c (c (? . 0) q cdar)) q (90051 . 3)) ((c def c (c (? . 0) q call-with-immediate-continuation-mark)) q (233322 . 7)) ((c def c (c (? . 4) q list/c)) q (181806 . 3)) ((c def c (c (? . 0) q port-progress-evt)) q (308846 . 4)) ((c def c (c (? . 0) q thread-dead-evt)) q (235623 . 3)) ((c form c (c (? . 7) q send*)) q (160167 . 5)) ((c def c (c (? . 0) q custodian-managed-list)) q (359946 . 4)) ((c def c (c (? . 7) q object?)) q (167496 . 3)) ((c def c (c (? . 0) q syntax-local-name)) q (261468 . 2)) ((c def c (c (? . 68) q system*)) q (404657 . 13)) ((c def c (c (? . 0) q expand)) q (270505 . 3)) ((c def c (c (? . 11) q dict-set!)) q (123099 . 5)) ((c form c (c (? . 69) q generic-instance/c)) q (150547 . 4)) ((c def c (c (? . 0) q set-box!)) q (105509 . 4)) ((c def c (c (? . 4) q symbols)) q (179895 . 3)) ((c def c (c (? . 19) q set-eqv?)) q (130417 . 3)) ((c def c (c (? . 0) q bytes-open-converter)) q (63318 . 5)) ((c def c (c (? . 35) q provide-transformer?)) q (267322 . 3)) ((c def c (c (? . 6) q unsafe-flfloor)) q (424986 . 3)) ((c def c (c (? . 0) q identifier-prune-to-source-module)) q (251547 . 3)) ((c def c (c (? . 7) q class-seal)) q (169497 . 15)) ((c def c (c (? . 6) q unsafe-extflround)) q (434135 . 3)) ((c form c (c (? . 1) q define-sequence-syntax)) q (15875 . 8)) ((c def c (c (? . 0) q open-input-string)) q (280007 . 4)) ((c def c (c (? . 28) q make-tentative-pretty-print-output-port)) q (324401 . 8)) ((c def c (c (? . 20) q pi)) q (28803 . 2)) ((c def c (c (? . 0) q current-security-guard)) q (359479 . 4)) ((c def c (c (? . 0) q rational?)) q (18604 . 3)) ((c def c (c (? . 0) q char-whitespace?)) q (67099 . 3)) ((c form c (c (? . 1) q for/sum)) q (14253 . 2)) ((c def c (c (? . 0) q system-big-endian?)) q (28758 . 2)) ((c def c (c (? . 0) q regexp-match-peek-positions)) q (75712 . 19)) ((c def c (c (? . 1) q in-parallel)) q (116528 . 3)) ((c def c (c (? . 0) q bytes->string/utf-8)) q (60259 . 6)) ((c def c (c (? . 0) q get-output-bytes)) q (280362 . 9)) ((c def c (c (? . 54) q contract-first-order)) q (209191 . 3)) ((c def c (c (? . 0) q vector->values)) q (101567 . 5)) ((c form c (c (? . 60) q ...)) q (249021 . 2)) ((c def c (c (? . 0) q namespace?)) q (328672 . 3)) ((c def c (c (? . 13) q file->lines)) q (384146 . 8)) ((c def c (c (? . 2) q with-output-to-bytes)) q (287785 . 3)) ((c def c (c (? . 11) q dict-clear)) q (125548 . 3)) ((c def c (c (? . 12) q cartesian-product)) q (98817 . 3)) ((c def c (c (? . 0) q plumber?)) q (362555 . 3)) ((c def c (c (? . 0) q make-channel)) q (237814 . 2)) ((c def c (c (? . 6) q unsafe-fxmax)) q (423917 . 4)) ((c def c (c (? . 0) q cadr)) q (89987 . 3)) ((c form c (c (? . 1) q for*)) q (14679 . 2)) ((c def c (c (? . 1) q in-values-sequence)) q (116599 . 3)) ((c def c (c (? . 84) q andmap)) q (87520 . 4)) ((c def c (c (? . 0) q phantom-bytes?)) q (422136 . 3)) ((c def c (c (? . 0) q open-input-bytes)) q (279873 . 4)) ((c def c (c (? . 89) q engine-result)) q (246054 . 3)) ((c def c (c (? . 1) q exn:break)) c (? . 38)) ((c def c (c (? . 41) q blame-source)) q (199899 . 3)) ((c def c (c (? . 12) q rest)) q (92612 . 3)) ((c def c (c (? . 45) q sequence-ormap)) q (118991 . 4)) ((c form c (c (? . 7) q public*)) q (157174 . 2)) ((c form c (c (? . 29) q splicing-let-values)) q (268897 . 2)) ((c form c (c (? . 1) q define-for-syntax)) q (12428 . 3)) ((c def c (c (? . 0) q write-special-evt)) q (312307 . 4)) ((c form c (c (? . 7) q super-instantiate)) q (159379 . 2)) ((c def c (c (? . 0) q syntax-transforming-module-expression?)) q (262614 . 2)) ((c form c (c (? . 39) q define-unit/s)) q (175552 . 6)) ((c form c (c (? . 7) q class)) q (156289 . 2)) ((c def c (c (? . 0) q date-year-day)) c (? . 25)) ((c form c (c (? . 40) q failure-cont)) q (215164 . 2)) ((c def c (c (? . 0) q thread-suspend-evt)) q (235751 . 3)) ((c def c (c (? . 0) q current-get-interaction-input-port)) q (336697 . 4)) ((c def c (c (? . 0) q string-utf-8-length)) q (62081 . 5)) ((c def c (c (? . 0) q bytes->list)) q (59661 . 3)) ((c form c (c (? . 39) q contracted)) q (172358 . 2)) ((c form c (c (? . 0) q #%datum)) q (9595 . 2)) ((c def c (c (? . 0) q read-accept-infix-dot)) q (314924 . 4)) ((c form c (c (? . 0) q set!)) q (13109 . 2)) ((c def c (c (? . 2) q merge-input)) q (291502 . 5)) ((c def c (c (? . 7) q field-names)) q (168957 . 3)) ((c def c (c (? . 6) q unsafe-f64vector-ref)) q (429623 . 4)) ((c def c (c (? . 0) q environment-variables-copy)) q (416991 . 3)) ((c def c (c (? . 2) q relocate-input-port)) q (293845 . 13)) ((c def c (c (? . 1) q open-input-output-file)) q (276713 . 10)) ((c def c (c (? . 0) q *)) q (20002 . 3)) ((c def c (c (? . 33) q stream-andmap)) q (120945 . 4)) ((c form c (c (? . 7) q member-name-key)) q (158764 . 2)) ((c form c (c (? . 124) q define-provide-syntax)) q (12742 . 3)) ((c def c (c (? . 6) q unsafe-fxlshift)) q (423274 . 4)) ((c def c (c (? . 2) q peek-bytes-avail!-evt)) c (? . 125)) ((c def c (c (? . 0) q single-flonum?)) q (19139 . 3)) ((c def c (c (? . 104) q build-chaperone-contract-property)) q (203379 . 46)) ((c def c (c (? . 22) q import-src-sym)) c (? . 23)) ((c def c (c (? . 0) q integer-sqrt/remainder)) q (21899 . 3)) ((c form c (c (? . 1) q #%app)) q (9804 . 2)) ((c def c (c (? . 6) q unsafe-immutable-hash-iterate-next)) q (431730 . 4)) ((c form c (c (? . 19) q for*/weak-seteqv)) q (133350 . 2)) ((c def c (c (? . 0) q port-closed-evt)) q (273797 . 3)) ((c def c (c (? . 6) q unsafe-flsqrt)) q (425649 . 3)) ((c def c (c (? . 19) q set-add)) q (134567 . 4)) ((c def c (c (? . 22) q import-src-mod-path)) c (? . 23)) ((c def c (c (? . 2) q peek-bytes-evt)) c (? . 125)) ((c def c (c (? . 26) q kill-evaluator)) q (370695 . 3)) ((c def c (c (? . 26) q sandbox-make-code-inspector)) q (370007 . 4)) ((c def c (c (? . 54) q contract-stronger?)) q (208985 . 4)) ((c def c (c (? . 22) q import-source)) c (? . 92)) ((c form c (c (? . 74) q object/c)) q (163824 . 11)) ((c def c (c (? . 7) q exn:fail:object)) c (? . 126)) ((c def c (c (? . 54) q flat-contract?)) q (209462 . 3)) ((c form c (c (? . 0) q unquote-splicing)) q (16772 . 2)) ((c def c (c (? . 0) q integer->char)) q (65348 . 5)) ((c form c (c (? . 39) q define-values/invoke-unit/infer)) q (174722 . 8)) ((c def c (c (? . 0) q resolved-module-path?)) q (338233 . 3)) ((c def c (c (? . 30) q struct-auto-info-lists)) q (153138 . 4)) ((c def c (c (? . 6) q unsafe-extfl/)) q (433351 . 4)) ((c def c (c (? . 13) q make-handle-get-preference-locked)) q (390639 . 16)) ((c def c (c (? . 0) q collect-garbage)) q (421832 . 3)) ((c form c (c (? . 39) q compound-unit)) q (172953 . 12)) ((c def c (c (? . 1) q hash-set*!)) q (107615 . 5)) ((c form c (c (? . 7) q augment-final)) q (156883 . 2)) ((c def c (c (? . 0) q error-display-handler)) q (220486 . 4)) ((c def c (c (? . 13) q file->bytes)) q (383658 . 4)) ((c def c (c (? . 4) q and/c)) q (178848 . 3)) ((c def c (c (? . 0) q date-day)) c (? . 25)) ((c def c (c (? . 21) q port?)) q (273544 . 3)) ((c def c (c (? . 5) q extflasin)) q (38640 . 3)) ((c def c (c (? . 0) q prop:evt)) q (237537 . 2)) ((c form c (c (? . 1) q #%plain-app)) q (9869 . 3)) ((c form c (c (? . 131) q hash/dc)) q (183702 . 7)) ((c def c (c (? . 12) q sixth)) q (92865 . 3)) ((c def c (c (? . 0) q char->integer)) q (65277 . 3)) ((c def c (c (? . 6) q unsafe-flvector-length)) q (429354 . 3)) ((c def c (c (? . 21) q call-with-default-reading-parameterization)) q (315557 . 3)) ((c def c (c (? . 0) q char<?)) q (65706 . 4)) ((c def c (c (? . 43) q ->fl)) q (31727 . 3)) ((c def c (c (? . 0) q char-ci<?)) q (66176 . 4)) ((c def c (c (? . 44) q arity-includes?)) q (145144 . 4)) ((c def c (c (? . 1) q exn:fail:syntax:missing-module)) c (? . 73)) ((c def c (c (? . 0) q chaperone-box)) q (354186 . 12)) ((c def c (c (? . 1) q procedure-arity)) q (141672 . 3)) ((c def c (c (? . 19) q list->weak-set)) q (132124 . 4)) ((c def c (c (? . 0) q datum->syntax)) q (250083 . 18)) ((c def c (c (? . 70) q some-system-path->string)) q (378899 . 3)) ((c form c (c (? . 105) q contract-first-order-okay-to-give-up?)) q (211277 . 2)) ((c def c (c (? . 2) q transplant-output-port)) q (295656 . 19)) ((c form c (c (? . 1) q for*/or)) q (15218 . 2)) ((c def c (c (? . 1) q make-exn:fail:contract:variable)) c (? . 27)) ((c def c (c (? . 14) q <=/c)) q (179178 . 3)) ((c def c (c (? . 0) q regexp-match-peek-positions-immediate)) q (77362 . 19)) ((c def c (c (? . 2) q read-bytes-avail!-evt)) q (298459 . 4)) ((c def c (c (? . 15) q make-deserialize-info)) q (327823 . 4)) ((c def c (c (? . 0) q environment-variables-set!)) q (416406 . 10)) ((c def c (c (? . 0) q make-special-comment)) q (325836 . 3)) ((c def c (c (? . 0) q string-locale-ci=?)) q (45509 . 4)) ((c def c (c (? . 0) q make-impersonator-property)) q (358312 . 5)) ((c def c (c (? . 0) q primitive?)) q (143942 . 3)) ((c def c (c (? . 11) q dict-can-remove-keys?)) q (122691 . 3)) ((c def c (c (? . 0) q syntax-original?)) q (249653 . 3)) ((c def c (c (? . 17) q vector-take-right)) q (102474 . 4)) ((c def c (c (? . 0) q current-gc-milliseconds)) q (413721 . 2)) ((c def c (c (? . 68) q bytes-no-nuls?)) q (408898 . 3)) ((c def c (c (? . 0) q struct:arity-at-least)) c (? . 62)) ((c def c (c (? . 10) q fx+)) q (34080 . 4)) ((c def c (c (? . 0) q call-with-continuation-prompt)) q (227403 . 10)) ((c def c (c (? . 0) q syntax-tainted?)) q (269888 . 3)) ((c def c (c (? . 19) q weak-set)) q (131248 . 3)) ((c def c (c (? . 0) q exn:fail?)) c (? . 99)) ((c def c (c (? . 0) q positive?)) q (19252 . 3)) ((c form c (c (? . 7) q mixin)) q (161208 . 3)) ((c def c (c (? . 11) q dict-can-functional-set?)) q (122758 . 3)) ((c def c (c (? . 0) q semaphore-peek-evt)) q (238650 . 3)) ((c def c (c (? . 10) q in-fxvector)) q (36366 . 6)) ((c def c (c (? . 0) q relative-path?)) q (375090 . 3)) ((c def c (c (? . 121) q log-level/c)) q (411260 . 3)) ((c form c (c (? . 42) q lazy)) q (226669 . 2)) ((c form c (c (? . 39) q define-unit/contract)) q (176653 . 15)) ((c def c (c (? . 1) q in-input-port-chars)) q (113911 . 3)) ((c def c (c (? . 1) q make-exn:fail:syntax:missing-module)) c (? . 73)) ((c form c (c (? . 48) q prompt-at)) q (230636 . 2)) ((c def c (c (? . 0) q hasheqv)) q (106301 . 4)) ((c def c (c (? . 0) q plumber-flush-all)) q (362753 . 3)) ((c def c (c (? . 22) q require-transformer?)) q (264455 . 3)) ((c def c (c (? . 0) q print-hash-table)) q (318164 . 4)) ((c def c (c (? . 127) q syntax-procedure-alias-property)) q (267836 . 8)) ((c def c (c (? . 54) q coerce-contracts)) q (197554 . 4)) ((c def c (c (? . 33) q stream-rest)) q (120193 . 3)) ((c def c (c (? . 0) q print)) q (316562 . 5)) ((c def c (c (? . 0) q prop:impersonator-of)) q (351431 . 2)) ((c def c (c (? . 9) q contract-property?)) q (208494 . 3)) ((c def c (c (? . 35) q prop:provide-pre-transformer)) q (267261 . 2)) ((c form c (c (? . 0) q define-values)) q (12271 . 2)) ((c def c (c (? . 67) q new-∀/c)) q (190809 . 3)) ((c form c (c (? . 39) q define-signature)) q (171365 . 25)) ((c def c (c (? . 0) q variable-reference->module-path-index)) q (333073 . 4)) ((c form c (c (? . 7) q define/public)) q (157543 . 3)) ((c def c (c (? . 19) q set-intersect!)) q (135920 . 4)) ((c def c (c (? . 20) q nonnegative-integer?)) q (29996 . 3)) ((c def c (c (? . 53) q foldl)) q (87784 . 5)) ((c def c (c (? . 0) q bytes->string/latin-1)) q (60865 . 9)) ((c def c (c (? . 12) q flatten)) q (96637 . 3)) ((c form c (c (? . 0) q letrec-values)) q (10887 . 2)) ((c form c (c (? . 39) q define-signature-form)) q (175688 . 3)) ((c def c (c (? . 54) q coerce-contract)) q (197469 . 4)) ((c def c (c (? . 0) q make-custodian-box)) q (360651 . 4)) ((c form c (c (? . 47) q generator)) q (121963 . 2)) ((c def c (c (? . 0) q bytes-copy)) q (58998 . 3)) ((c def c (c (? . 0) q impersonator-of?)) q (345073 . 4)) ((c def c (c (? . 0) q pseudo-random-generator?)) q (24539 . 3)) ((c def c (c (? . 0) q read-accept-reader)) q (315220 . 4)) ((c def c (c (? . 6) q unsafe-fxand)) q (422975 . 4)) ((c def c (c (? . 2) q read-bytes-evt)) q (298173 . 4)) ((c def c (c (? . 0) q continuation-prompt-tag?)) q (229506 . 3)) ((c def c (c (? . 115) q unit-static-signatures)) q (177109 . 9)) ((c form c (c (? . 40) q match/values)) q (213936 . 2)) ((c def c (c (? . 2) q port->string)) q (286272 . 4)) ((c def c (c (? . 11) q dict-update!)) q (124428 . 10)) ((c def c (c (? . 0) q current-reader-guard)) q (315652 . 4)) ((c def c (c (? . 22) q make-import-source)) c (? . 92)) ((c def c (c (? . 61) q check-not-unsafe-undefined)) q (437237 . 5)) ((c form c (c (? . 3) q parameterize*)) q (241856 . 3)) ((c def c (c (? . 0) q regexp-match/end)) q (79446 . 20)) ((c def c (c (? . 0) q read-bytes!)) q (302096 . 7)) ((c def c (c (? . 54) q chaperone-contract?)) q (209329 . 3)) ((c def c (c (? . 12) q combinations)) q (97991 . 6)) ((c def c (c (? . 43) q fllog)) q (31496 . 3)) ((c def c (c (? . 0) q module-path-index-join)) q (340945 . 5)) ((c def c (c (? . 0) q vector->pseudo-random-generator)) q (24914 . 4)) ((c def c (c (? . 1) q make-exn:fail:user)) c (? . 103)) ((c def c (c (? . 64) q place-wait)) q (244979 . 3)) ((c def c (c (? . 28) q pretty-print-post-print-hook)) q (324127 . 5)) ((c def c (c (? . 0) q bytes->path-element)) q (373645 . 4)) ((c def c (c (? . 1) q stop-before)) q (116746 . 4)) ((c def c (c (? . 19) q in-set)) q (137014 . 3)) ((c def c (c (? . 86) q trait->mixin)) q (162126 . 3)) ((c form c (c (? . 19) q for*/seteq)) q (132624 . 2)) ((c def c (c (? . 1) q make-exn:break:hang-up)) c (? . 85)) ((c def c (c (? . 54) q contract-val-first-projection)) q (210125 . 4)) ((c def c (c (? . 12) q split-at)) q (94426 . 4)) ((c def c (c (? . 0) q module-compiled-name)) q (341266 . 9)) ((c def c (c (? . 20) q infinite?)) q (29749 . 3)) ((c def c (c (? . 43) q flvector-ref)) q (32886 . 4)) ((c def c (c (? . 0) q peek-string)) q (303551 . 5)) ((c def c (c (? . 10) q fxvector?)) q (35615 . 3)) ((c def c (c (? . 7) q externalizable<%>)) q (167386 . 2)) ((c def c (c (? . 0) q delete-file)) q (379930 . 3)) ((c def c (c (? . 0) q exit)) q (234321 . 3)) ((c def c (c (? . 0) q bytes-close-converter)) q (63456 . 3)) ((c form c (c (? . 40) q match-let*)) q (214712 . 2)) ((c def c (c (? . 0) q bytes-append)) q (59593 . 3)) ((c def c (c (? . 6) q unsafe-bytes-ref)) q (428861 . 4)) ((c def c (c (? . 13) q make-directory*)) q (388403 . 3)) ((c def c (c (? . 19) q set-mutable?)) q (130574 . 3)) ((c def c (c (? . 14) q evt/c)) q (184315 . 3)) ((c def c (c (? . 34) q udp-connect!)) q (395275 . 7)) ((c def c (c (? . 6) q unsafe-extfl-)) q (433171 . 4)) ((c def c (c (? . 0) q symbol?)) q (67818 . 3)) ((c def c (c (? . 1) q open-output-file)) q (276252 . 10)) ((c def c (c (? . 53) q build-list)) q (86847 . 4)) ((c form c (c (? . 98) q unsyntax-splicing)) q (248665 . 2)) ((c def c (c (? . 53) q build-vector)) q (101769 . 4)) ((c def c (c (? . 0) q vector->pseudo-random-generator!)) q (25038 . 5)) ((c def c (c (? . 0) q log-receiver?)) q (411028 . 3)) ((c def c (c (? . 0) q srcloc-column)) c (? . 57)) ((c def c (c (? . 0) q regexp-match-peek-positions/end)) q (81115 . 22)) ((c def c (c (? . 6) q unsafe-flceiling)) q (425047 . 3)) ((c form c (c (? . 119) q with-contract)) q (192032 . 12)) ((c def c (c (? . 0) q make-hash)) q (106420 . 3)) ((c def c (c (? . 28) q pretty-print-columns)) q (321192 . 5)) ((c def c (c (? . 2) q call-with-output-bytes)) q (287615 . 3)) ((c def c (c (? . 0) q port-count-lines-enabled)) q (275838 . 4)) ((c form c (c (? . 39) q provide-signature-elements)) q (176149 . 2)) ((c def c (c (? . 0) q compile-allow-set!-undefined)) q (337767 . 4)) ((c def c (c (? . 0) q close-input-port)) q (273595 . 3)) ((c def c (c (? . 82) q ~v)) q (49478 . 25)) ((c def c (c (? . 5) q extflceiling)) q (38326 . 3)) ((c def c (c (? . 7) q class->interface)) q (168011 . 3)) ((c def c (c (? . 0) q symbol<?)) q (68377 . 4)) ((c def c (c (? . 21) q writeln)) q (316728 . 4)) ((c form c (c (? . 59) q subtract-in)) q (9189 . 2)) ((c def c (c (? . 1) q sequence?)) q (112559 . 3)) ((c def c (c (? . 0) q cddadr)) q (92135 . 3)) ((c form c (c (? . 86) q trait-alias)) q (162349 . 2)) ((c def c (c (? . 0) q string-normalize-nfkc)) q (45125 . 3)) ((c form c (c (? . 3) q with-handlers)) q (220230 . 3)) ((c def c (c (? . 0) q read-language)) q (313550 . 5)) ((c def c (c (? . 107) q vector-immutableof)) q (180334 . 3)) ((c def c (c (? . 0) q default-continuation-prompt-tag)) q (228122 . 2)) ((c form c (c (? . 128) q provide/contract)) q (191991 . 2)) ((c def c (c (? . 0) q compile-enforce-module-constants)) q (337639 . 4)) ((c def c (c (? . 50) q string-join)) q (46087 . 11)) ((c def c (c (? . 82) q ~.s)) q (56889 . 25)) ((c def c (c (? . 12) q take-common-prefix)) q (95519 . 5)) ((c def c (c (? . 82) q ~a)) q (48246 . 25)) ((c def c (c (? . 2) q port->list)) q (286123 . 4)) ((c def c (c (? . 0) q current-locale)) q (273306 . 4)) ((c def c (c (? . 7) q class-info)) q (169124 . 10)) ((c def c (c (? . 20) q pi.f)) q (28824 . 2)) ((c def c (c (? . 0) q make-derived-parameter)) q (241931 . 7)) ((c def c (c (? . 70) q path-only)) q (378703 . 3)) ((c def c (c (? . 42) q promise?)) q (226588 . 3)) ((c form c (c (? . 1) q protect-out)) q (6209 . 2)) ((c def c (c (? . 21) q find-executable-path)) q (379523 . 7)) ((c def c (c (? . 0) q variable-reference->empty-namespace)) q (332729 . 3)) ((c def c (c (? . 21) q load/cd)) q (334779 . 3)) ((c def c (c (? . 6) q unsafe-flround)) q (424925 . 3)) ((c def c (c (? . 1) q make-exn:fail:filesystem:missing-module)) c (? . 71)) ((c form c (c (? . 56) q define-runtime-module-path)) q (383425 . 2)) ((c def c (c (? . 14) q suggest/c)) q (184798 . 5)) ((c def c (c (? . 0) q make-shared-bytes)) q (59801 . 4)) ((c form c (c (? . 1) q relative-in)) q (4489 . 2)) ((c def c (c (? . 7) q object%)) q (153580 . 2)) ((c def c (c (? . 0) q thread-resume-evt)) q (235686 . 3)) ((c def c (c (? . 0) q keyword->string)) q (86125 . 3)) ((c def c (c (? . 0) q current-continuation-marks)) q (231801 . 5)) ((c def c (c (? . 0) q continuation-mark-set->context)) q (233741 . 3)) ((c def c (c (? . 0) q port-closed?)) q (273733 . 3)) ((c def c (c (? . 2) q read-string!-evt)) q (298691 . 4)) ((c def c (c (? . 19) q set-weak?)) q (130632 . 3)) ((c form c (c (? . 7) q set-field!)) q (160610 . 2)) ((c def c (c (? . 49) q generate-temporary)) q (272781 . 3)) ((c form c (c (? . 101) q define-syntax-parameter)) q (268530 . 2)) ((c def c (c (? . 0) q random-seed)) q (24381 . 3)) ((c def c (c (? . 17) q vector-filter-not)) q (103327 . 4)) ((c def c (c (? . 1) q make-exn:fail:contract:non-fixnum-result)) c (? . 96)) ((c def c (c (? . 0) q current-command-line-arguments)) q (417913 . 4)) ((c def c (c (? . 0) q impersonator-property?)) q (358527 . 3)) ((c def c (c (? . 0) q filesystem-change-evt)) q (382749 . 6)) ((c form c (c (? . 64) q place*)) q (244748 . 9)) ((c def c (c (? . 0) q struct:exn:fail:read:non-char)) c (? . 129)) ((c def c (c (? . 6) q unsafe-fx>=)) q (423757 . 4)) ((c form c (c (? . 56) q define-runtime-path)) q (383047 . 5)) ((c def c (c (? . 34) q udp-multicast-ttl)) q (402057 . 3)) ((c def c (c (? . 0) q exn:fail:contract:arity?)) c (? . 109)) ((c def c (c (? . 0) q current-force-delete-permissions)) q (381809 . 4)) ((c def c (c (? . 0) q string>?)) q (43929 . 4)) ((c def c (c (? . 0) q module-compiled-indirect-exports)) q (342745 . 4)) ((c def c (c (? . 22) q make-require-transformer)) q (264159 . 5)) ((c form c (c (? . 74) q ->m)) q (163515 . 2)) ((c def c (c (? . 0) q eof-object?)) q (274352 . 3)) ((c def c (c (? . 13) q file->string)) q (383514 . 4)) ((c def c (c (? . 60) q generate-temporaries)) q (251227 . 3)) ((c def c (c (? . 0) q read-accept-bar-quote)) q (314516 . 4)) ((c def c (c (? . 0) q split-path)) q (376190 . 5)) ((c form c (c (? . 60) q _)) q (249032 . 2)) ((c def c (c (? . 7) q make-exn:fail:object)) c (? . 126)) ((c def c (c (? . 64) q place?)) q (243639 . 3)) ((c def c (c (? . 0) q make-resolved-module-path)) q (338300 . 7)) ((c form c (c (? . 7) q send-generic)) q (160960 . 3)) ((c def c (c (? . 26) q sandbox-exit-handler)) q (368763 . 4)) ((c def c (c (? . 0) q parameter?)) q (242180 . 3)) ((c def c (c (? . 0) q thread-group?)) q (360995 . 3)) ((c def c (c (? . 0) q semaphore?)) q (238204 . 3)) ((c def c (c (? . 17) q vector-map!)) q (102171 . 4)) ((c def c (c (? . 2) q transplant-input-port)) q (294896 . 19)) ((c def c (c (? . 9) q prop:contract)) q (200900 . 2)) ((c form c (c (? . 1) q except-out)) q (6047 . 2)) ((c def c (c (? . 2) q filter-read-input-port)) q (296425 . 27)) ((c def c (c (? . 21) q string-environment-variable-name?)) q (417326 . 3)) ((c def c (c (? . 78) q make-async-channel)) q (239561 . 3)) ((c def c (c (? . 15) q serialize)) q (326545 . 3)) ((c form c (c (? . 0) q define-syntaxes)) q (12386 . 2)) ((c def c (c (? . 0) q vector-copy!)) q (101135 . 11)) ((c def c (c (? . 0) q current-namespace)) q (329159 . 4)) ((c def c (c (? . 28) q tentative-pretty-print-port-transfer)) q (324711 . 5)) ((c def c (c (? . 0) q output-port?)) q (273486 . 3)) ((c def c (c (? . 11) q dict-set*)) q (124168 . 5)) ((c def c (c (? . 0) q port-file-unlock)) q (279641 . 3)) ((c form c (c (? . 69) q define/generic)) q (150440 . 5)) ((c def c (c (? . 0) q immutable?)) q (17906 . 3)) ((c def c (c (? . 53) q compose)) q (140767 . 3)) ((c def c (c (? . 1) q with-input-from-file)) q (278754 . 7)) ((c def c (c (? . 0) q error-escape-handler)) q (220375 . 4)) ((c def c (c (? . 26) q call-with-killing-threads)) c (? . 130)) ((c def c (c (? . 0) q struct-type-make-constructor)) q (362127 . 4)) ((c def c (c (? . 26) q call-with-trusted-sandbox-configuration)) q (364967 . 3)) ((c def c (c (? . 0) q symbol-interned?)) q (67871 . 3)) ((c def c (c (? . 14) q char-in)) q (179571 . 4)) ((c def c (c (? . 5) q extflabs)) q (37562 . 3)) ((c def c (c (? . 0) q make-phantom-bytes)) q (422196 . 3)) ((c form c (c (? . 39) q define-values/invoke-unit)) q (172837 . 4)) ((c def c (c (? . 6) q unsafe-fxvector-length)) q (429085 . 3)) ((c form c (c (? . 48) q control0)) q (230958 . 2)) ((c def c (c (? . 0) q call-with-semaphore)) q (238801 . 9)) ((c def c (c (? . 26) q call-with-deep-time-limit)) q (372713 . 4)) ((c def c (c (? . 0) q impersonate-struct)) q (346137 . 17)) ((c def c (c (? . 14) q flat-contract-predicate)) q (184710 . 3)) ((c form c (c (? . 7) q public)) q (156574 . 2)) ((c def c (c (? . 0) q prop:set!-transformer)) q (256021 . 2)) ((c def c (c (? . 10) q fx>=)) q (35290 . 4)) ((c def c (c (? . 19) q list->mutable-set)) q (131803 . 4)) ((c form c (c (? . 4) q ->*)) q (185188 . 26)) ((c form c (c (? . 1) q for/hash)) q (13936 . 2)) ((c def c (c (? . 64) q place-channel-put)) q (245331 . 4)) ((c def c (c (? . 0) q regexp-match?)) q (74353 . 13)) ((c def c (c (? . 0) q port-file-identity)) q (279718 . 3)) ((c def c (c (? . 0) q exit-handler)) q (234375 . 4)) ((c def c (c (? . 0) q log-max-level)) q (410251 . 4)) ((c def c (c (? . 64) q place-channel)) q (245269 . 2)) ((c def c (c (? . 20) q natural?)) q (30062 . 3)) ((c def c (c (? . 0) q namespace-syntax-introduce)) q (332281 . 3)) ((c form c (c (? . 4) q flat-rec-contract)) q (184410 . 2)) ((c def c (c (? . 35) q struct:export)) c (? . 36)) ((c def c (c (? . 0) q namespace-require/expansion-time)) q (330980 . 4)) ((c def c (c (? . 1) q exn:break:terminate)) c (? . 94)) ((c def c (c (? . 0) q format)) q (317405 . 4)) ((c def c (c (? . 22) q import-local-id)) c (? . 23)) ((c def c (c (? . 40) q prop:legacy-match-expander)) q (215334 . 2)) ((c form c (c (? . 33) q for*/stream)) q (121711 . 2)) ((c def c (c (? . 11) q make-custom-hash-types)) q (126841 . 24)) ((c def c (c (? . 0) q make-immutable-hash)) q (107101 . 4)) ((c form c (c (? . 33) q for/stream)) q (121646 . 2)) ((c form c (c (? . 40) q match-let-values)) q (214764 . 2)) ((c def c (c (? . 54) q impersonator-contract?)) q (209394 . 3)) ((c form c (c (? . 43) q for*/flvector)) q (33623 . 9)) ((c def c (c (? . 69) q raise-support-error)) q (150280 . 4)) ((c def c (c (? . 0) q impersonate-vector)) q (346889 . 15)) ((c def c (c (? . 0) q read-char)) q (300815 . 3)) ((c def c (c (? . 22) q prop:require-transformer)) q (264398 . 2)) ((c def c (c (? . 0) q syntax-local-identifier-as-binding)) q (262679 . 3)) ((c def c (c (? . 70) q normalize-path)) q (378479 . 5)) ((c def c (c (? . 0) q cdddar)) q (92235 . 3)) ((c def c (c (? . 44) q conjoin)) q (144372 . 4)) ((c def c (c (? . 0) q struct:exn:fail:out-of-memory)) c (? . 110)) ((c def c (c (? . 0) q current-library-collection-links)) q (439307 . 11)) ((c def c (c (? . 0) q chaperone-prompt-tag)) q (357026 . 18)) ((c def c (c (? . 131) q hash/c)) q (183373 . 9)) ((c def c (c (? . 0) q readtable-mapping)) q (325573 . 9)) ((c def c (c (? . 0) q print-boolean-long-form)) q (318260 . 4)) ((c def c (c (? . 0) q char?)) q (65226 . 3)) ((c def c (c (? . 0) q current-module-path-for-load)) q (340028 . 11)) ((c form c (c (? . 48) q shift)) q (230764 . 2)) ((c def c (c (? . 12) q append-map)) q (97745 . 4)) ((c def c (c (? . 0) q eprintf)) q (317323 . 4)) ((c def c (c (? . 0) q make-directory)) q (382333 . 3)) ((c def c (c (? . 1) q in-immutable-hash-values)) q (115306 . 3)) ((c def c (c (? . 18) q date*->seconds)) q (414932 . 4)) ((c def c (c (? . 0) q inexact->exact)) q (19579 . 3)) ((c def c (c (? . 132) q make-parameter-rename-transformer)) q (268768 . 3)) ((c def c (c (? . 6) q unsafe-fx*)) q (422584 . 4)) ((c def c (c (? . 0) q string-port?)) q (279815 . 3)) ((c def c (c (? . 0) q max)) q (20653 . 3)) ((c def c (c (? . 74) q subclass?/c)) q (167015 . 3)) ((c def c (c (? . 32) q trace-call)) q (441519 . 5)) ((c def c (c (? . 0) q struct-type-make-predicate)) q (362250 . 3)) ((c form c (c (? . 1) q for/fold)) q (14583 . 3)) ((c def c (c (? . 0) q make-sibling-inspector)) q (361340 . 3)) ((c def c (c (? . 1) q make-exn:fail:network:errno)) c (? . 113)) ((c def c (c (? . 15) q make-serialize-info)) q (327999 . 12)) ((c def c (c (? . 33) q stream-fold)) q (121241 . 5)) ((c form c (c (? . 86) q trait-rename-field)) q (162440 . 2)) ((c def c (c (? . 49) q format-id)) q (271267 . 13)) ((c def c (c (? . 7) q object-info)) q (169035 . 3)) ((c form c (c (? . 19) q for/mutable-set)) q (132727 . 2)) ((c form c (c (? . 1) q for/last)) q (14520 . 2)) ((c def c (c (? . 26) q sandbox-eval-handlers)) q (369414 . 7)) ((c def c (c (? . 0) q string-locale=?)) q (45203 . 4)) ((c def c (c (? . 1) q chaperone-procedure*)) q (351894 . 11)) ((c form c (c (? . 106) q serializable-struct)) q (326916 . 3)) ((c def c (c (? . 53) q assv)) q (89646 . 4)) ((c def c (c (? . 6) q unsafe-fxior)) q (423055 . 4)) ((c def c (c (? . 0) q read-square-bracket-as-paren)) q (313850 . 4)) ((c def c (c (? . 6) q unsafe-make-flrectangular)) q (425790 . 7)) ((c def c (c (? . 20) q nonpositive-integer?)) q (29930 . 3)) ((c def c (c (? . 1) q in-bytes-lines)) q (114173 . 5)) ((c form c (c (? . 7) q define/public-final)) q (157701 . 3)) ((c def c (c (? . 19) q set-empty?)) q (134901 . 3)) ((c def c (c (? . 1) q exn:fail:filesystem:version)) c (? . 122)) ((c def c (c (? . 0) q hash-map)) q (109760 . 5)) ((c def c (c (? . 132) q syntax-parameter-value)) q (268693 . 3)) ((c def c (c (? . 6) q unsafe-struct-ref)) q (430323 . 4)) ((c def c (c (? . 0) q make-environment-variables)) q (416060 . 5)) ((c def c (c (? . 0) q variable-reference->namespace)) q (332836 . 3)) ((c def c (c (? . 0) q prop:input-port)) q (281110 . 2)) ((c form c (c (? . 1) q combine-in)) q (4450 . 2)) ((c def c (c (? . 0) q read-decimal-as-inexact)) q (314720 . 4)) ((c def c (c (? . 0) q directory-exists?)) q (382257 . 3)) ((c def c (c (? . 22) q import-source-mod-path-stx)) c (? . 92)) ((c def c (c (? . 6) q unsafe-cdr)) q (426699 . 3)) ((c def c (c (? . 50) q string-contains?)) q (47959 . 4)) ((c def c (c (? . 0) q seconds->date)) q (412566 . 4)) ((c def c (c (? . 0) q list?)) q (86666 . 3)) ((c def c (c (? . 52) q current-future)) q (242797 . 2)) ((c def c (c (? . 11) q in-dict-values)) q (125969 . 3)) ((c def c (c (? . 19) q list->seteqv)) q (131623 . 3)) ((c form c (c (? . 19) q for/weak-seteqv)) q (133184 . 2)) ((c def c (c (? . 0) q read-case-sensitive)) q (313748 . 4)) ((c def c (c (? . 15) q prop:serializable)) q (327961 . 2)) ((c def c (c (? . 0) q file-or-directory-modify-seconds)) q (380243 . 16)) ((c def c (c (? . 0) q equal?/recur)) q (17768 . 5)) ((c def c (c (? . 68) q process/ports)) q (407118 . 11)) ((c form c (c (? . 1) q #%plain-module-begin)) q (1880 . 2)) ((c def c (c (? . 17) q vector-memq)) q (103949 . 4)) ((c def c (c (? . 6) q unsafe-flreal-part)) q (426012 . 5)) ((c def c (c (? . 64) q place-break)) q (245153 . 4)) ((c def c (c (? . 0) q vector?)) q (100121 . 3)) ((c def c (c (? . 41) q blame-add-missing-party)) q (200395 . 5)) ((c def c (c (? . 5) q make-shared-extflvector)) q (40859 . 4)) ((c def c (c (? . 0) q exn:fail:network?)) c (? . 66)) ((c def c (c (? . 0) q path-convention-type)) q (374061 . 3)) ((c def c (c (? . 35) q expand-export)) q (266266 . 4)) ((c def c (c (? . 0) q mcar)) q (99881 . 3)) ((c def c (c (? . 0) q string-length)) q (42163 . 3)) ((c def c (c (? . 82) q ~s)) q (50714 . 25)) ((c def c (c (? . 6) q unsafe-extflceiling)) q (434275 . 3)) ((c def c (c (? . 0) q internal-definition-context-introduce)) q (259304 . 7)) ((c def c (c (? . 26) q put-input)) q (371466 . 6)) ((c def c (c (? . 0) q exn:fail:read:non-char?)) c (? . 129)) ((c def c (c (? . 2) q read-bytes-line-evt)) q (298955 . 4)) ((c def c (c (? . 72) q tcp-port?)) q (394640 . 3)) ((c def c (c (? . 0) q hash-weak?)) q (106004 . 3)) ((c form c (c (? . 7) q with-method)) q (160400 . 3)) ((c def c (c (? . 0) q display)) q (316446 . 4)) ((c form c (c (? . 7) q define/pubment)) q (157621 . 3)) ((c def c (c (? . 0) q syntax-span)) q (249560 . 3)) ((c def c (c (? . 0) q expand-once)) q (270646 . 3)) ((c form c (c (? . 54) q define/subexpression-pos-prop)) q (208837 . 6)) ((c form c (c (? . 7) q inherit/inner)) q (157059 . 2)) ((c form c (c (? . 1) q for*/and)) q (15155 . 2)) ((c def c (c (? . 0) q custodian-box?)) q (360751 . 3)) ((c def c (c (? . 4) q failure-result/c)) q (211545 . 2)) ((c def c (c (? . 0) q current-error-port)) q (274080 . 4)) ((c def c (c (? . 21) q bytes-environment-variable-name?)) q (415982 . 3)) ((c def c (c (? . 21) q displayln)) q (316844 . 4)) ((c def c (c (? . 6) q unsafe-impersonate-procedure)) q (435554 . 11)) ((c def c (c (? . 54) q impersonator-prop:contracted)) q (201101 . 2)) ((c def c (c (? . 0) q write-bytes-avail-evt)) q (311927 . 9)) ((c def c (c (? . 0) q use-collection-link-paths)) q (440097 . 4)) ((c def c (c (? . 52) q fsemaphore-post)) q (243280 . 3)) ((c def c (c (? . 14) q string-len/c)) q (179691 . 3)) ((c def c (c (? . 0) q filesystem-change-evt?)) q (382681 . 3)) ((c def c (c (? . 17) q vector-take)) q (102368 . 4)) ((c form c (c (? . 3) q log-warning)) q (410810 . 3)) ((c def c (c (? . 0) q make-readtable)) q (325077 . 13)) ((c def c (c (? . 89) q engine-run)) q (245945 . 4)) ((c def c (c (? . 0) q box-immutable)) q (105382 . 3)) ((c def c (c (? . 2) q relocate-output-port)) q (294366 . 13)) ((c form c (c (? . 39) q invoke-unit)) q (172748 . 3)) ((c def c (c (? . 0) q struct:srcloc)) c (? . 57)) ((c def c (c (? . 0) q custodian-memory-accounting-available?)) q (360054 . 2)) ((c def c (c (? . 0) q impersonate-prompt-tag)) q (350095 . 18)) ((c form c (c (? . 56) q define-runtime-path-list)) q (383241 . 2)) ((c def c (c (? . 0) q current-readtable)) q (315416 . 4)) ((c def c (c (? . 0) q string-append)) q (43291 . 3)) ((c def c (c (? . 68) q string-no-nuls?)) q (408837 . 3)) ((c def c (c (? . 0) q raise-syntax-error)) q (219307 . 11)) ((c def c (c (? . 6) q unsafe-s16vector-ref)) q (429833 . 4)) ((c def c (c (? . 0) q keyword?)) q (86071 . 3)) ((c def c (c (? . 7) q struct:exn:fail:object)) c (? . 126)) ((c def c (c (? . 6) q unsafe-mcdr)) q (426807 . 3)) ((c def c (c (? . 0) q logger?)) q (408958 . 3)) ((c def c (c (? . 72) q tcp-connect)) q (393037 . 9)) ((c def c (c (? . 43) q fl<)) q (30524 . 4)) ((c def c (c (? . 0) q syntax-local-lift-values-expression)) q (260834 . 5)) ((c def c (c (? . 0) q thread-send)) q (235817 . 6)) ((c def c (c (? . 0) q parameterization?)) q (242580 . 3)) ((c form c (c (? . 133) q define-require-syntax)) q (12562 . 3)) ((c def c (c (? . 0) q custom-print-quotable?)) q (326368 . 2)) ((c def c (c (? . 0) q lcm)) q (20816 . 3)) ((c def c (c (? . 0) q system-path-convention-type)) q (374164 . 2)) ((c def c (c (? . 45) q sequence-andmap)) q (118886 . 4)) ((c form c (c (? . 7) q send/apply)) q (159640 . 2)) ((c def c (c (? . 0) q cdaaar)) q (91635 . 3)) ((c def c (c (? . 12) q seventh)) q (92915 . 3)) ((c def c (c (? . 12) q splitf-at-right)) q (95279 . 4)) ((c def c (c (? . 0) q local-expand/capture-lifts)) q (257450 . 11)) ((c def c (c (? . 41) q blame-swapped?)) q (200074 . 3)) ((c def c (c (? . 0) q impersonate-channel)) q (349606 . 13)) ((c def c (c (? . 14) q parameter/c)) q (183174 . 4)) ((c def c (c (? . 1) q open-input-file)) q (275950 . 7)) ((c def c (c (? . 5) q extflvector)) q (39521 . 3)) ((c form c (c (? . 106) q define-serializable-struct)) q (327037 . 3)) ((c def c (c (? . 14) q printable/c)) q (179792 . 2)) ((c def c (c (? . 26) q sandbox-override-collection-paths)) q (367456 . 4)) ((c def c (c (? . 0) q number?)) q (18446 . 3)) ((c def c (c (? . 0) q odd?)) q (19416 . 3)) ((c def c (c (? . 14) q any/c)) q (178631 . 2)) ((c def c (c (? . 0) q make-hasheqv)) q (106525 . 3)) ((c def c (c (? . 0) q make-rename-transformer)) q (256140 . 3)) ((c def c (c (? . 0) q module-provide-protected?)) q (332358 . 5)) ((c def c (c (? . 54) q prop:contracted)) q (201053 . 2)) ((c def c (c (? . 34) q udp-receive!-evt)) q (400285 . 9)) ((c def c (c (? . 7) q printable<%>)) q (167429 . 2)) ((c def c (c (? . 2) q call-with-output-string)) q (287519 . 3)) ((c form c (c (? . 29) q splicing-letrec-values)) q (268924 . 2)) ((c def c (c (? . 21) q reroot-path)) q (377267 . 4)) ((c def c (c (? . 0) q exn:break:terminate?)) c (? . 94)) ((c def c (c (? . 14) q make-none/c)) q (210242 . 3)) ((c def c (c (? . 3) q call-with-parameterization)) q (242392 . 5)) ((c def c (c (? . 0) q special-comment?)) q (325910 . 3)) ((c def c (c (? . 5) q extfl->exact-integer)) q (39160 . 3)) ((c def c (c (? . 0) q thread-dead?)) q (235504 . 3)) ((c def c (c (? . 34) q udp-addresses)) q (400650 . 7)) ((c def c (c (? . 0) q current-module-declare-source)) q (339816 . 5)) ((c def c (c (? . 20) q cosh)) q (29223 . 3)) ((c def c (c (? . 43) q flsqrt)) q (31600 . 3)) ((c def c (c (? . 2) q reencode-input-port)) q (292261 . 16)) ((c def c (c (? . 14) q natural-number/c)) q (179649 . 2)) ((c def c (c (? . 6) q unsafe-extflatan)) q (434762 . 3)) ((c def c (c (? . 0) q bitwise-not)) q (23199 . 3)) ((c def c (c (? . 0) q chaperone-struct)) q (352262 . 18)) ((c def c (c (? . 6) q unsafe-fxvector-set!)) q (429245 . 5)) ((c def c (c (? . 1) q stop-after)) q (116852 . 4)) ((c def c (c (? . 17) q vector-member)) q (103743 . 4)) ((q def ((lib "racket/private/stx.rkt") identifier?)) q (249164 . 3)) ((c form c (c (? . 74) q class/c)) q (162492 . 28)) ((c def c (c (? . 0) q byte-ready?)) q (309282 . 3)) ((c form c (c (? . 1) q prefix-out)) q (6100 . 2)) ((c def c (c (? . 6) q unsafe-fx-)) q (422506 . 4)) ((c def c (c (? . 105) q contract-random-generate-env?)) q (213270 . 3)) ((c def c (c (? . 0) q bitwise-and)) q (23045 . 3)) ((c def c (c (? . 0) q imag-part)) q (22781 . 3)) ((c def c (c (? . 0) q syntax-rearm)) q (270300 . 5)) ((c form c (c (? . 1) q for*/first)) q (15410 . 2)) ((c form c (c (? . 86) q trait)) q (161291 . 18)) ((c def c (c (? . 1) q in-values*-sequence)) q (116672 . 3)) ((c def c (c (? . 0) q cdadar)) q (91835 . 3)) ((c def c (c (? . 78) q async-channel?)) q (239501 . 3)) ((c def c (c (? . 0) q syntax->list)) q (249950 . 3)) ((c def c (c (? . 0) q <=)) q (21569 . 4)) ((c def c (c (? . 54) q contract-continuation-mark-key)) q (210858 . 2)) ((c def c (c (? . 0) q list-tail)) q (87155 . 4)) ((c def c (c (? . 7) q generic?)) q (167657 . 3)) ((c def c (c (? . 0) q equal-hash-code)) q (111445 . 3)) ((c form c (c (? . 48) q prompt0)) q (230901 . 2)) ((c def c (c (? . 0) q path?)) q (373059 . 3)) ((c form c (c (? . 8) q nand)) q (18299 . 2)) ((c def c (c (? . 0) q char>?)) q (65893 . 4)) ((c def c (c (? . 0) q read-accept-lang)) q (315320 . 4)) ((c form c (c (? . 7) q this)) q (156340 . 2)) ((c def c (c (? . 0) q struct:exn:fail:filesystem:errno)) c (? . 31)) ((c def c (c (? . 64) q place-enabled?)) q (243598 . 2)) ((c def c (c (? . 10) q fx<)) q (35073 . 4)) ((c def c (c (? . 11) q dict-value-contract)) q (126217 . 3)) ((c def c (c (? . 0) q peek-byte-or-special)) q (308341 . 12)) ((c def c (c (? . 12) q splitf-at)) q (94696 . 4)) ((c def c (c (? . 19) q set-subtract)) q (136021 . 4)) ((c def c (c (? . 26) q sandbox-gui-available)) q (367344 . 4)) ((c def c (c (? . 0) q make-hasheqv-placeholder)) q (99662 . 3)) ((c def c (c (? . 10) q fl->fx)) q (35562 . 3)) ((c def c (c (? . 0) q <)) q (21497 . 4)) ((c def c (c (? . 6) q unsafe-fx<)) q (423519 . 4)) ((c form c (c (? . 19) q define-custom-set-types)) q (138967 . 12)) ((c def c (c (? . 1) q hash-set*)) q (107897 . 5)) ((c def c (c (? . 1) q make-exn:fail:read:non-char)) c (? . 129)) ((c form c (c (? . 7) q send)) q (159540 . 3)) ((c def c (c (? . 0) q namespace-variable-value)) q (329615 . 9)) ((c def c (c (? . 0) q bytes-length)) q (58490 . 3)) ((c def c (c (? . 0) q exn:fail:syntax:unbound?)) c (? . 112)) ((c def c (c (? . 19) q make-custom-set-types)) q (139454 . 25)) ((c def c (c (? . 13) q group-write-bit)) q (392535 . 2)) ((c form c (c (? . 0) q quote)) q (9573 . 2)) ((c def c (c (? . 0) q custodian-limit-memory)) q (360377 . 7)) ((c def c (c (? . 0) q plumber-flush-handle-remove!)) q (363079 . 3)) ((c def c (c (? . 5) q extfl+)) q (37230 . 4)) ((c form c (c (? . 105) q contract-first-order-try-less-hard)) q (211324 . 2)) ((c def c (c (? . 35) q export)) c (? . 36)) ((c def c (c (? . 0) q string->bytes/utf-8)) q (61227 . 6)) ((c def c (c (? . 1) q in-hash-keys)) q (114427 . 3)) ((c def c (c (? . 0) q struct:date)) c (? . 25)) ((c def c (c (? . 45) q sequence-length)) q (118444 . 3)) ((c def c (c (? . 0) q syntax-local-make-definition-context)) q (258618 . 6)) ((c def c (c (? . 19) q set-eq?)) q (130471 . 3)) ((c def c (c (? . 13) q pathlist-closure)) q (387566 . 8)) ((c def c (c (? . 7) q object->vector)) q (167898 . 4)) ((c form c (c (? . 39) q unit)) q (170684 . 22)) ((c def c (c (? . 6) q unsafe-box*-cas!)) q (427705 . 5)) ((q form ((lib "racket/block.rkt") block)) q (16891 . 2)) ((c def c (c (? . 0) q date-dst?)) c (? . 25)) ((c def c (c (? . 1) q gen:equal+hash)) q (17962 . 2)) ((c def c (c (? . 7) q make-object)) q (159127 . 4)) ((c def c (c (? . 0) q char-upcase)) q (67571 . 3)) ((c def c (c (? . 22) q import)) c (? . 23)) ((c form c (c (? . 0) q #%stratified-body)) q (16925 . 2)) ((c def c (c (? . 26) q sandbox-path-permissions)) q (367813 . 9)) ((c def c (c (? . 12) q cons?)) q (92457 . 3)) ((c def c (c (? . 28) q pretty-print)) q (320233 . 9)) ((c form c (c (? . 39) q rename)) q (172467 . 2)) ((c def c (c (? . 10) q fx<=)) q (35217 . 4)) ((c def c (c (? . 2) q eof-evt)) q (298116 . 3)) ((c def c (c (? . 0) q eval)) q (333814 . 4)) ((c def c (c (? . 0) q write-string)) q (309936 . 7)) ((c def c (c (? . 2) q peek-string!-evt)) c (? . 125)) ((c def c (c (? . 44) q negate)) q (144307 . 3)) ((c def c (c (? . 134) q fasl->s-exp)) q (328594 . 3)) ((c def c (c (? . 1) q make-exn:fail:filesystem)) c (? . 65)) ((c def c (c (? . 0) q struct?)) q (151401 . 3)) ((c def c (c (? . 19) q set->list)) q (136738 . 3)) ((c form c (c (? . 48) q shift-at)) q (230842 . 2)) ((c def c (c (? . 0) q port-writes-special?)) q (312500 . 3)) ((c def c (c (? . 0) q -)) q (19889 . 6)) ((c def c (c (? . 0) q module->namespace)) q (332116 . 5)) ((c def c (c (? . 60) q syntax-protect)) q (270119 . 3)) ((c def c (c (? . 0) q string-fill!)) q (43173 . 4)) ((c def c (c (? . 2) q peek-string-evt)) c (? . 125)) ((c def c (c (? . 0) q read-on-demand-source)) q (315785 . 5)) ((c def c (c (? . 6) q unsafe-immutable-hash-iterate-value)) q (431975 . 4)) ((c def c (c (? . 0) q channel-put-evt?)) q (238142 . 3)) ((c def c (c (? . 1) q apply)) q (140621 . 6)) ((c def c (c (? . 0) q char-punctuation?)) q (66965 . 3)) ((c form c (c (? . 59) q filtered-in)) q (9246 . 2)) ((c form c (c (? . 29) q splicing-letrec-syntax)) q (268981 . 2)) ((c def c (c (? . 6) q unsafe-weak-hash-iterate-key+value)) q (432845 . 4)) ((c form c (c (? . 48) q control0-at)) q (231121 . 2)) ((c def c (c (? . 6) q unsafe-fxxor)) q (423135 . 4)) ((c def c (c (? . 54) q value-contract)) q (209642 . 3)) ((c def c (c (? . 0) q prop:equal+hash)) q (17993 . 2)) ((c def c (c (? . 0) q thread-running?)) q (235442 . 3)) ((c def c (c (? . 53) q build-string)) q (43502 . 4)) ((c form c (c (? . 54) q define/final-prop)) q (208701 . 6)) ((c form c (c (? . 7) q pubment*)) q (157208 . 2)) ((c def c (c (? . 61) q unsafe-undefined)) q (437204 . 2)) ((c def c (c (? . 22) q syntax-local-require-certifier)) q (266142 . 4)) ((c form c (c (? . 7) q get-field)) q (160472 . 2)) ((c def c (c (? . 70) q path-element?)) q (378638 . 3)) ((c def c (c (? . 6) q unsafe-flatan)) q (425471 . 3)) ((c def c (c (? . 68) q system)) q (404467 . 4)) ((c def c (c (? . 0) q time-apply)) q (413777 . 7)) ((c def c (c (? . 0) q write-byte)) q (309730 . 4)) ((c def c (c (? . 0) q current-directory-for-user)) q (382073 . 4)) ((c def c (c (? . 0) q log-level-evt)) q (410599 . 3)) ((c def c (c (? . 0) q syntax-arm)) q (269955 . 5)) ((c form c (c (? . 1) q for*/vector)) q (14878 . 2)) ((c form c (c (? . 1) q for*/fold)) q (15539 . 3)) ((c def c (c (? . 0) q regexp?)) q (68475 . 3)) ((c form c (c (? . 46) q include/reader)) q (271139 . 2)) ((c def c (c (? . 26) q sandbox-reader)) q (365166 . 4)) ((c def c (c (? . 68) q process*)) q (406501 . 15)) ((c def c (c (? . 21) q path-add-suffix)) q (377108 . 4)) ((c def c (c (? . 0) q build-path/convention-type)) q (374538 . 9)) ((c def c (c (? . 6) q unsafe-fxremainder)) q (422747 . 4)) ((c form c (c (? . 1) q for/fold/derived)) q (15636 . 4)) ((c def c (c (? . 4) q unsupplied-arg?)) q (190711 . 3)) ((c def c (c (? . 0) q subprocess-pid)) q (403697 . 3)) ((c def c (c (? . 78) q async-channel-put)) q (239828 . 4)) ((c form c (c (? . 0) q #%provide)) q (8146 . 23)) ((c def c (c (? . 0) q char<=?)) q (65799 . 4)) ((c def c (c (? . 5) q extfltruncate)) q (38391 . 3)) ((c def c (c (? . 11) q prop:dict/contract)) q (126102 . 2)) ((c def c (c (? . 0) q append)) q (87255 . 6)) ((c def c (c (? . 0) q struct:exn:fail:read)) c (? . 77)) ((c def c (c (? . 6) q unsafe-flabs)) q (424309 . 3)) ((c def c (c (? . 35) q make-provide-transformer)) q (266560 . 10)) ((c def c (c (? . 28) q pretty-print-remap-stylable)) q (322662 . 5)) ((c def c (c (? . 0) q syntax-source-module)) q (249721 . 5)) ((c form c (c (? . 51) q let-syntax)) q (10952 . 2)) ((c def c (c (? . 134) q s-exp->fasl)) q (328472 . 4)) ((c form c (c (? . 1) q define)) q (11978 . 14)) ((c def c (c (? . 0) q exn:fail:unsupported?)) c (? . 81)) ((c def c (c (? . 0) q thread-cell-values?)) q (241555 . 3)) ((c def c (c (? . 0) q struct:exn:fail:contract:divide-by-zero)) c (? . 75)) ((c def c (c (? . 6) q unsafe-fxmin)) q (423837 . 4)) ((c form c (c (? . 7) q inspect)) q (156365 . 2)) ((c form c (c (? . 1) q require)) q (2061 . 51)) ((c def c (c (? . 0) q thread/suspend-to-kill)) q (234788 . 3)) ((c def c (c (? . 0) q date*-nanosecond)) c (? . 16)) ((c def c (c (? . 0) q make-continuation-mark-key)) q (232310 . 4)) ((c def c (c (? . 0) q byte-pregexp)) q (69186 . 6)) ((c def c (c (? . 26) q sandbox-security-guard)) q (367621 . 5)) ((c def c (c (? . 6) q unsafe-vector-ref)) q (427883 . 4)) ((c def c (c (? . 3) q call-with-break-parameterization)) q (234061 . 5)) ((c def c (c (? . 13) q call-with-file-lock/timeout)) q (391406 . 15)) ((c def c (c (? . 34) q udp-multicast-set-loopback!)) q (401705 . 5)) ((c def c (c (? . 0) q bound-identifier=?)) q (252106 . 6)) ((c def c (c (? . 35) q provide-pre-transformer?)) q (267388 . 3)) ((c form c (c (? . 7) q field)) q (156464 . 2)) ((c def c (c (? . 1) q make-exn:fail:filesystem:version)) c (? . 122)) ((c form c (c (? . 1) q for-syntax)) q (6465 . 2)) ((c def c (c (? . 26) q sandbox-make-plumber)) q (370263 . 4)) ((c form c (c (? . 48) q shift0)) q (230992 . 2)) ((c def c (c (? . 0) q char-blank?)) q (67167 . 3)) ((c def c (c (? . 0) q make-vector)) q (100174 . 4)) ((c form c (c (? . 29) q splicing-letrec-syntaxes+values)) q (269072 . 2)) ((c def c (c (? . 0) q variable-reference->module-declaration-inspector)) q (333576 . 4)) ((c form c (c (? . 0) q begin)) q (12922 . 3)) ((c def c (c (? . 6) q unsafe-fl>)) q (424526 . 4)) ((c form c (c (? . 1) q for*/hasheq)) q (15022 . 2)) ((c form c (c (? . 39) q struct/ctc)) q (175793 . 10)) ((c form c (c (? . 40) q match*/derived)) q (215818 . 2)) ((c form c (c (? . 46) q include)) q (270962 . 6)) ((c def c (c (? . 0) q read)) q (312577 . 3)) ((c def c (c (? . 11) q dict-ref!)) q (124320 . 5)) ((c def c (c (? . 0) q string->list)) q (43360 . 3)) ((c form c (c (? . 39) q import)) q (172538 . 2)) ((c def c (c (? . 0) q regexp-match-positions/end)) q (80374 . 16)) ((c def c (c (? . 14) q procedure-arity-includes/c)) q (183274 . 3)) ((c def c (c (? . 20) q negative-integer?)) q (29867 . 3)) ((c def c (c (? . 0) q make-struct-field-mutator)) q (148492 . 8)) ((c def c (c (? . 18) q julian/scaliger->string)) q (415664 . 3)) ((c def c (c (? . 0) q current-seconds)) q (412466 . 2)) ((c def c (c (? . 45) q sequence-tail)) q (118624 . 4)) ((c def c (c (? . 0) q simplify-path)) q (375896 . 4)) ((c form c (c (? . 29) q splicing-local)) q (269111 . 2)) ((c def c (c (? . 72) q tcp-listen)) q (392698 . 9)) ((c def c (c (? . 0) q port-commit-peeked)) q (309076 . 6)) ((c def c (c (? . 13) q delete-directory/files)) q (386851 . 5)) ((c def c (c (? . 13) q file->bytes-lines)) q (384499 . 8)) ((c def c (c (? . 0) q exn:fail:syntax-exprs)) c (? . 63)) ((c def c (c (? . 0) q bitwise-bit-field)) q (23382 . 6)) ((c def c (c (? . 0) q current-milliseconds)) q (413542 . 2)) ((c def c (c (? . 0) q replace-evt)) q (237210 . 4)) ((c def c (c (? . 19) q set-copy)) q (135301 . 3)) ((c def c (c (? . 0) q system-type)) q (417405 . 5)) ((c def c (c (? . 43) q fl+)) q (30116 . 4)) ((c def c (c (? . 21) q println)) q (316962 . 5)) ((c def c (c (? . 19) q set-rest)) q (135139 . 3)) ((c def c (c (? . 2) q peek-bytes!-evt)) c (? . 125)) ((c def c (c (? . 0) q struct:exn:fail:network:errno)) c (? . 113)) ((c def c (c (? . 0) q file-stream-buffer-mode)) q (274503 . 6)) ((c def c (c (? . 12) q list-prefix?)) q (95378 . 5)) ((c def c (c (? . 0) q path->complete-path)) q (375298 . 5)) ((c form c (c (? . 32) q trace)) q (441068 . 2)) ((c def c (c (? . 49) q format-symbol)) q (271778 . 4)) ((c def c (c (? . 8) q symbol=?)) q (18090 . 4)) ((c def c (c (? . 0) q identifier-remove-from-definition-context)) q (259739 . 7)) ((c def c (c (? . 43) q flvector-copy)) q (33126 . 5)) ((c def c (c (? . 72) q tcp-listener?)) q (394132 . 3)) ((c def c (c (? . 12) q fifth)) q (92815 . 3)) ((c def c (c (? . 0) q peek-bytes-avail!/enable-break)) q (306240 . 14)) ((c def c (c (? . 0) q alarm-evt)) q (237418 . 3)) ((c def c (c (? . 0) q string-titlecase)) q (44748 . 3)) ((c def c (c (? . 43) q in-flvector)) q (33317 . 6))))
 syntax
 (if test-expr then-expr else-expr)
 syntax
 (lambda formals body ...+)
  
 formals = id
-        | (id ...)
-        | (id ...+ . rest-id)
+        | (id ...)
+        | (id ...+ . rest-id)
 syntax
 (init-rest id)
 (init-rest)
@@ -43,7 +43,7 @@ struct
   alpha : (and/c natural-number/c (<=/c 255))
 struct
 (struct data-source (connector args extensions)
-        #:mutable)
+    #:mutable)
   connector : (or/c 'postgresql 'mysql 'sqlite3 'odbc)
   args : list?
   extensions : (listof (list/c symbol? any/c))
@@ -74,57 +74,58 @@ syntax
 (#%declare declaration-keyword ...)
  
 declaration-keyword = #:cross-phase-persistent
+                    | #:empty-namespace
 syntax
 (require require-spec ...)
  
-require-spec        = module-path
-                    | (only-in require-spec id-maybe-renamed ...)
-                    | (except-in require-spec id ...)
-                    | (prefix-in prefix-id require-spec)
-                    | (rename-in require-spec [orig-id bind-id] ...)
-                    | (combine-in require-spec ...)
-                    | (relative-in module-path require-spec ...)
-                    | (only-meta-in phase-level require-spec ...)
-                    | (for-syntax require-spec ...)
-                    | (for-template require-spec ...)
-                    | (for-label require-spec ...)
-                    | (for-meta phase-level require-spec ...)
-                    | derived-require-spec
-                       
-module-path         = root-module-path
-                    | (submod root-module-path submod-path-element ...)
-                    | (submod "." submod-path-element ...)
-                    | (submod ".." submod-path-element ...)
-                       
-root-module-path    = (quote id)
-                    | rel-string
-                    | (lib rel-string ...+)
-                    | id
-                    | (file string)
-                    | (planet id)
-                    | (planet string)
-                    | (planet rel-string
+       require-spec = module-path
+                    | (only-in require-spec id-maybe-renamed ...)
+                    | (except-in require-spec id ...)
+                    | (prefix-in prefix-id require-spec)
+                    | (rename-in require-spec [orig-id bind-id] ...)
+                    | (combine-in require-spec ...)
+                    | (relative-in module-path require-spec ...)
+                    | (only-meta-in phase-level require-spec ...)
+                    | (for-syntax require-spec ...)
+                    | (for-template require-spec ...)
+                    | (for-label require-spec ...)
+                    | (for-meta phase-level require-spec ...)
+                    | derived-require-spec
+                       
+        module-path = root-module-path
+                    | (submod root-module-path submod-path-element ...)
+                    | (submod "." submod-path-element ...)
+                    | (submod ".." submod-path-element ...)
+                       
+   root-module-path = (quote id)
+                    | rel-string
+                    | (lib rel-string ...+)
+                    | id
+                    | (file string)
+                    | (planet id)
+                    | (planet string)
+                    | (planet rel-string
                               (user-string pkg-string vers)
                               rel-string ...)
-                       
+                       
 submod-path-element = id
-                    | ".."
-                       
-id-maybe-renamed    = id
-                    | [orig-id bind-id]
-                       
-phase-level         = exact-integer
-                    | #f
-                       
-vers                = 
-                    | nat
-                    | nat minor-vers
-                       
-minor-vers          = nat
-                    | (nat nat)
-                    | (= nat)
-                    | (+ nat)
-                    | (- nat)
+                    | ".."
+                       
+   id-maybe-renamed = id
+                    | [orig-id bind-id]
+                       
+        phase-level = exact-integer
+                    | #f
+                       
+               vers = 
+                    | nat
+                    | nat minor-vers
+                       
+         minor-vers = nat
+                    | (nat nat)
+                    | (= nat)
+                    | (+ nat)
+                    | (- nat)
 
 module-path
 syntax
@@ -176,22 +177,22 @@ syntax
 (provide provide-spec ...)
  
 provide-spec = id
-             | (all-defined-out)
-             | (all-from-out module-path ...)
-             | (rename-out [orig-id export-id] ...)
-             | (except-out provide-spec provide-spec ...)
-             | (prefix-out prefix-id provide-spec)
-             | (struct-out id)
-             | (combine-out provide-spec ...)
-             | (protect-out provide-spec ...)
-             | (for-meta phase-level provide-spec ...)
-             | (for-syntax provide-spec ...)
-             | (for-template provide-spec ...)
-             | (for-label provide-spec ...)
-             | derived-provide-spec
-                
-phase-level  = exact-integer
-             | #f
+             | (all-defined-out)
+             | (all-from-out module-path ...)
+             | (rename-out [orig-id export-id] ...)
+             | (except-out provide-spec provide-spec ...)
+             | (prefix-out prefix-id provide-spec)
+             | (struct-out id)
+             | (combine-out provide-spec ...)
+             | (protect-out provide-spec ...)
+             | (for-meta phase-level provide-spec ...)
+             | (for-syntax provide-spec ...)
+             | (for-template provide-spec ...)
+             | (for-label provide-spec ...)
+             | derived-provide-spec
+                
+ phase-level = exact-integer
+             | #f
 
 id
 syntax
@@ -231,59 +232,59 @@ syntax
 syntax
 (#%require raw-require-spec ...)
  
-raw-require-spec     = phaseless-spec
-                     | (for-meta phase-level phaseless-spec ...)
-                     | (for-syntax phaseless-spec ...)
-                     | (for-template phaseless-spec ...)
-                     | (for-label phaseless-spec ...)
-                     | (just-meta phase-level raw-require-spec ...)
-                        
-phase-level          = exact-integer
-                     | #f
-                        
-phaseless-spec       = raw-module-path
-                     | (only raw-module-path id ...)
-                     | (prefix prefix-id raw-module-path)
-                     | (all-except raw-module-path id ...)
-                     | (prefix-all-except prefix-id
+    raw-require-spec = phaseless-spec
+                     | (for-meta phase-level phaseless-spec ...)
+                     | (for-syntax phaseless-spec ...)
+                     | (for-template phaseless-spec ...)
+                     | (for-label phaseless-spec ...)
+                     | (just-meta phase-level raw-require-spec ...)
+                        
+         phase-level = exact-integer
+                     | #f
+                        
+      phaseless-spec = raw-module-path
+                     | (only raw-module-path id ...)
+                     | (prefix prefix-id raw-module-path)
+                     | (all-except raw-module-path id ...)
+                     | (prefix-all-except prefix-id
                                           raw-module-path id ...)
-                     | (rename raw-module-path local-id exported-id)
-                        
-raw-module-path      = raw-root-module-path
-                     | (submod raw-root-module-path id ...+)
-                     | (submod "." id ...+)
-                        
+                     | (rename raw-module-path local-id exported-id)
+                        
+     raw-module-path = raw-root-module-path
+                     | (submod raw-root-module-path id ...+)
+                     | (submod "." id ...+)
+                        
 raw-root-module-path = (quote id)
-                     | rel-string
-                     | (lib rel-string ...)
-                     | id
-                     | (file string)
-                     | (planet rel-string
+                     | rel-string
+                     | (lib rel-string ...)
+                     | id
+                     | (file string)
+                     | (planet rel-string
                                (user-string pkg-string vers ...))
-                     | literal-path
+                     | literal-path
 syntax
 (#%provide raw-provide-spec ...)
  
 raw-provide-spec = phaseless-spec
-                 | (for-meta phase-level phaseless-spec)
-                 | (for-syntax phaseless-spec)
-                 | (for-label phaseless-spec)
-                 | (protect raw-provide-spec)
-                    
-phase-level      = exact-integer
-                 | #f
-                    
-phaseless-spec   = id
-                 | (rename local-id export-id)
-                 | (struct struct-id (field-id ...))
-                 | (all-from raw-module-path)
-                 | (all-from-except raw-module-path id ...)
-                 | (all-defined)
-                 | (all-defined-except id ...)
-                 | (prefix-all-defined prefix-id)
-                 | (prefix-all-defined-except prefix-id id ...)
-                 | (protect phaseless-spec ...)
-                 | (expand (id . datum))
+                 | (for-meta phase-level phaseless-spec ...)
+                 | (for-syntax phaseless-spec ...)
+                 | (for-label phaseless-spec ...)
+                 | (protect raw-provide-spec ...)
+                    
+     phase-level = exact-integer
+                 | #f
+                    
+  phaseless-spec = id
+                 | (rename local-id export-id)
+                 | (struct struct-id (field-id ...))
+                 | (all-from raw-module-path)
+                 | (all-from-except raw-module-path id ...)
+                 | (all-defined)
+                 | (all-defined-except id ...)
+                 | (prefix-all-defined prefix-id)
+                 | (prefix-all-defined-except prefix-id id ...)
+                 | (protect phaseless-spec ...)
+                 | (expand (id . datum))
 syntax
 (matching-identifiers-in regexp require-spec)
 syntax
@@ -295,11 +296,11 @@ syntax
 syntax
 (multi-in subs ...+)
  
-subs     = sub-path
-         | (sub-path ...)
-            
+    subs = sub-path
+         | (sub-path ...)
+            
 sub-path = rel-string
-         | id
+         | id
 syntax
 (matching-identifiers-out regexp provide-spec)
 syntax
@@ -335,13 +336,13 @@ syntax
 (λ kw-formals body ...+)
  
 kw-formals = (arg ...)
-           | (arg ...+ . rest-id)
-           | rest-id
-              
-arg        = id
-           | [id default-expr]
-           | keyword id
-           | keyword [id default-expr]
+           | (arg ...+ . rest-id)
+           | rest-id
+              
+       arg = id
+           | [id default-expr]
+           | keyword id
+           | keyword [id default-expr]
 
 (id ...)
 
@@ -364,8 +365,8 @@ syntax
 (case-lambda [formals body ...+] ...)
  
 formals = (id ...)
-        | (id ...+ . rest-id)
-        | rest-id
+        | (id ...+ . rest-id)
+        | rest-id
 syntax
 (#%plain-lambda formals body ...+)
 syntax
@@ -403,9 +404,9 @@ syntax
 (cond cond-clause ...)
  
 cond-clause = [test-expr then-body ...+]
-            | [else then-body ...+]
-            | [test-expr => proc-expr]
-            | [test-expr]
+            | [else then-body ...+]
+            | [test-expr => proc-expr]
+            | [test-expr]
 
 [test-expr then-body ...+]
 
@@ -424,21 +425,21 @@ syntax
 (case val-expr case-clause ...)
  
 case-clause = [(datum ...) then-body ...+]
-            | [else then-body ...+]
+            | [else then-body ...+]
 syntax
 (define id expr)
 (define (head args) body ...+)
  
 head = id
-     | (head args)
-        
+     | (head args)
+        
 args = arg ...
-     | arg ... . rest-id
-        
-arg  = arg-id
-     | [arg-id default-expr]
-     | keyword arg-id
-     | keyword [arg-id default-expr]
+     | arg ... . rest-id
+        
+ arg = arg-id
+     | [arg-id default-expr]
+     | keyword arg-id
+     | keyword [arg-id default-expr]
 syntax
 (define-values (id ...) expr)
 syntax
@@ -481,17 +482,17 @@ syntax
 syntax
 (for (for-clause ...) body-or-break ... body)
  
-for-clause    = [id seq-expr]
-              | [(id ...) seq-expr]
-              | #:when guard-expr
-              | #:unless guard-expr
-              | break-clause
-                 
-break-clause  = #:break guard-expr
-              | #:final guard-expr
-                 
+   for-clause = [id seq-expr]
+              | [(id ...) seq-expr]
+              | #:when guard-expr
+              | #:unless guard-expr
+              | break-clause
+                 
+ break-clause = #:break guard-expr
+              | #:final guard-expr
+                 
 body-or-break = body
-              | break-clause
+              | break-clause
  
   seq-expr : sequence?
 syntax
@@ -500,8 +501,8 @@ syntax
 (for/vector maybe-length (for-clause ...) body-or-break ... body)
  
 maybe-length = 
-             | #:length length-expr
-             | #:length length-expr #:fill fill-expr
+             | #:length length-expr
+             | #:length length-expr #:fill fill-expr
  
   length-expr : exact-nonnegative-integer?
 syntax
@@ -590,7 +591,7 @@ syntax
   expr ...)
  
 step-expr-maybe = 
-                | step-expr
+                | step-expr
 syntax
 (with-continuation-mark key-expr val-expr result-expr)
 syntax
@@ -601,6 +602,7 @@ syntax
 unquote-splicing
 syntax
 (quote-syntax datum)
+(quote-syntax datum #:local)
 syntax
 (#%top-interaction . form)
 syntax
@@ -614,20 +616,20 @@ syntax
 (define-inline (head args) body ...+)
  
 head = id
-     | (head args)
-        
+     | (head args)
+        
 args = arg ...
-     | arg ... . rest-id
-        
-arg  = arg-id
-     | [arg-id default-expr]
-     | keyword arg-id
-     | keyword [arg-id default-expr]
+     | arg ... . rest-id
+        
+ arg = arg-id
+     | [arg-id default-expr]
+     | keyword arg-id
+     | keyword [arg-id default-expr]
 syntax
 (lazy-require [module-path (fun-import ...)] ...)
  
 fun-import = fun-id
-           | (orig-fun-id fun-id)
+           | (orig-fun-id fun-id)
 procedure
 (boolean? v) -> boolean?
   v : any/c
@@ -869,8 +871,9 @@ procedure
 (exp z) -> number?
   z : number?
 procedure
-(log z) -> number?
+(log z [b]) -> number?
   z : number?
+  b : number? = (exp 1)
 procedure
 (sin z) -> number?
   z : number?
@@ -933,7 +936,7 @@ procedure
   n : exact-integer?
   start : exact-nonnegative-integer?
   end : (and/c exact-nonnegative-integer?
-               (start . <= . end))
+               (>=/c start))
 procedure
 (arithmetic-shift n m) -> exact-integer?
   n : exact-integer?
@@ -944,6 +947,11 @@ procedure
 procedure
 (random k [rand-gen]) -> exact-nonnegative-integer?
   k : (integer-in 1 4294967087)
+  rand-gen : pseudo-random-generator?
+           = (current-pseudo-random-generator)
+(random min max [rand-gen]) -> exact-nonnegative-integer?
+  min : exact-integer?
+  max : (integer-in (+ 1 min) (+ 4294967087 min))
   rand-gen : pseudo-random-generator?
            = (current-pseudo-random-generator)
 (random [rand-gen]) -> (and/c real? inexact? (>/c 0) (</c 1))
@@ -978,13 +986,41 @@ procedure
 (pseudo-random-generator-vector? v) -> boolean?
   v : any/c
 procedure
+(crypto-random-bytes n) -> bytes?
+  n : exact-positive-integer?
+procedure
+(random-ref seq [rand-gen]) -> any/c
+  seq : sequence?
+  rand-gen : pseudo-random-generator?
+           = (current-pseudo-random-generator)
+procedure
+(random-sample  seq                               
+                n                                 
+               [rand-gen                          
+                #:replacement? replacement?]) -> (listof any/c)
+  seq : sequence?
+  n : exact-positive-integer?
+  rand-gen : pseudo-random-generator?
+           = (current-pseudo-random-generator)
+  replacement? : any/c = #t
+procedure
 (number->string z [radix]) -> string?
   z : number?
   radix : (or/c 2 8 10 16) = 10
 procedure
-(string->number s [radix]) -> (or/c number? #f)
+(string->number  s              
+                [radix          
+                 convert-mode   
+                 decimal-mode]) 
+ -> (or/c number? #f string? extflonum?)
   s : string?
   radix : (integer-in 2 16) = 10
+  convert-mode : (or/c 'number-or-false 'read)
+               = 'number-or-false
+  decimal-mode : (or/c 'decimal-as-inexact 'decimal-as-exact)
+               = (if (read-decimal-as-inexact)
+                     'decimal-as-inexact
+                     'decimal-as-exact)
 procedure
 (real->decimal-string n [decimal-digits]) -> string?
   n : real?
@@ -1008,7 +1044,7 @@ procedure
                          dest-bstr       
                          start])     -> bytes?
   n : exact-integer?
-  size-n : (or/c 2 4 8)
+  size-n : (or/c 1 2 4 8)
   signed? : any/c
   big-endian? : any/c = (system-big-endian?)
   dest-bstr : (and/c bytes? (not/c immutable?))
@@ -1051,7 +1087,7 @@ procedure
 (sqr z) -> number?
   z : number?
 procedure
-(sgn x) -> (or/c 1 0 -1 1.0 0.0 -1.0)
+(sgn x) -> (or/c (=/c -1) (=/c 0) (=/c 1) +nan.0 +nan.f)
   x : real?
 procedure
 (conjugate z) -> number?
@@ -1086,6 +1122,21 @@ procedure
 procedure
 (infinite? x) -> boolean?
   x : real?
+procedure
+(positive-integer? x) -> boolean?
+  x : any/c
+procedure
+(negative-integer? x) -> boolean?
+  x : any/c
+procedure
+(nonpositive-integer? x) -> boolean?
+  x : any/c
+procedure
+(nonnegative-integer? x) -> boolean?
+  x : any/c
+procedure
+(natural? x) -> boolean?
+  x : any/c
 procedure
 (fl+ a b) -> flonum?
   a : flonum?
@@ -1184,15 +1235,21 @@ procedure
   a : flonum?
 procedure
 (make-flrectangular a b)
- -> (and/c complex? inexact? (not/c real?))
+ -> (and/c complex?
+           (lambda (c) (flonum? (real-part c)))
+           (lambda (c) (flonum? (imag-part c))))
   a : flonum?
   b : flonum?
 procedure
 (flreal-part a) -> flonum?
-  a : (and/c complex? inexact? (not/c real?))
+  a : (and/c complex?
+             (lambda (c) (flonum? (real-part c)))
+             (lambda (c) (flonum? (imag-part c))))
 procedure
 (flimag-part a) -> flonum?
-  a : (and/c complex? inexact? (not/c real?))
+  a : (and/c complex?
+             (lambda (c) (flonum? (real-part c)))
+             (lambda (c) (flonum? (imag-part c))))
 procedure
 (flrandom rand-gen) -> (and flonum? (>/c 0) (</c 1))
   rand-gen : pseudo-random-generator?
@@ -1235,8 +1292,8 @@ syntax
 (for*/flvector maybe-length (for-clause ...) body ...)
  
 maybe-length = 
-             | #:length length-expr
-             | #:length length-expr #:fill fill-expr
+             | #:length length-expr
+             | #:length length-expr #:fill fill-expr
  
   length-expr : exact-nonnegative-integer?
   fill-expr : flonum?
@@ -1370,8 +1427,8 @@ syntax
 (for*/fxvector maybe-length (for-clause ...) body ...)
  
 maybe-length = 
-             | #:length length-expr
-             | #:length length-expr #:fill fill-expr
+             | #:length length-expr
+             | #:length length-expr #:fill fill-expr
  
   length-expr : exact-nonnegative-integer?
   fill-expr : fixnum?
@@ -1488,10 +1545,12 @@ procedure
   a : real?
 procedure
 (extfl->exact a) -> (and/c real? exact?)
-  a : real?
+  a : extflonum?
 procedure
 (extfl->inexact a) -> flonum?
-  a : real?
+  a : extflonum?
+value
+pi.t : extflonum?
 procedure
 (extflvector? v) -> boolean?
   v : any/c
@@ -1501,7 +1560,7 @@ procedure
 procedure
 (make-extflvector size [x]) -> extflvector?
   size : exact-nonnegative-integer?
-  x : extflonum? = 0.0
+  x : extflonum? = #i0.0
 procedure
 (extflvector-length vec) -> exact-nonnegative-integer?
   vec : extflvector?
@@ -1531,15 +1590,15 @@ syntax
 (for*/extflvector maybe-length (for-clause ...) body ...)
  
 maybe-length = 
-             | #:length length-expr
-             | #:length length-expr #:fill fill-expr
+             | #:length length-expr
+             | #:length length-expr #:fill fill-expr
  
   length-expr : exact-nonnegative-integer?
   fill-expr : extflonum?
 procedure
 (make-shared-extflvector size [x]) -> extflvector?
   size : exact-nonnegative-integer?
-  x : extflonum? = 0.0
+  x : extflonum? = #i0.0
 procedure
 (floating-point-bytes->extfl  bstr            
                              [big-endian?     
@@ -1767,6 +1826,21 @@ procedure
   right? : any/c = #t
   repeat? : any/c = #f
 procedure
+(non-empty-string? x) -> boolean?
+  x : any/c
+procedure
+(string-contains? s contained) -> boolean?
+  s : string?
+  contained : string?
+procedure
+(string-prefix? s prefix) -> boolean?
+  s : string?
+  prefix : string?
+procedure
+(string-suffix? s suffix) -> boolean?
+  s : string?
+  suffix : string?
+procedure
 (~a  v                                         
      ...                                       
     [#:separator separator                     
@@ -1774,6 +1848,7 @@ procedure
      #:max-width max-width                     
      #:min-width min-width                     
      #:limit-marker limit-marker               
+     #:limit-prefix? limit-prefix?             
      #:align align                             
      #:pad-string pad-string                   
      #:left-pad-string left-pad-string         
@@ -1785,6 +1860,7 @@ procedure
             = (or width +inf.0)
   min-width : exact-nonnegative-integer? = (or width 0)
   limit-marker : string? = ""
+  limit-prefix? : boolean? = #f
   align : (or/c 'left 'center 'right) = 'left
   pad-string : non-empty-string? = " "
   left-pad-string : non-empty-string? = pad-string
@@ -1797,6 +1873,7 @@ procedure
      #:max-width max-width                     
      #:min-width min-width                     
      #:limit-marker limit-marker               
+     #:limit-prefix? limit-prefix?             
      #:align align                             
      #:pad-string pad-string                   
      #:left-pad-string left-pad-string         
@@ -1808,6 +1885,7 @@ procedure
             = (or width +inf.0)
   min-width : exact-nonnegative-integer? = (or width 0)
   limit-marker : string? = "..."
+  limit-prefix? : boolean? = #f
   align : (or/c 'left 'center 'right) = 'left
   pad-string : non-empty-string? = " "
   left-pad-string : non-empty-string? = pad-string
@@ -1820,6 +1898,7 @@ procedure
      #:max-width max-width                     
      #:min-width min-width                     
      #:limit-marker limit-marker               
+     #:limit-prefix? limit-prefix?             
      #:align align                             
      #:pad-string pad-string                   
      #:left-pad-string left-pad-string         
@@ -1831,6 +1910,7 @@ procedure
             = (or width +inf.0)
   min-width : exact-nonnegative-integer? = (or width 0)
   limit-marker : string? = "..."
+  limit-prefix? : boolean? = #f
   align : (or/c 'left 'center 'right) = 'left
   pad-string : non-empty-string? = " "
   left-pad-string : non-empty-string? = pad-string
@@ -1843,6 +1923,7 @@ procedure
      #:max-width max-width                     
      #:min-width min-width                     
      #:limit-marker limit-marker               
+     #:limit-prefix? limit-prefix?             
      #:align align                             
      #:pad-string pad-string                   
      #:left-pad-string left-pad-string         
@@ -1854,6 +1935,7 @@ procedure
             = (or width +inf.0)
   min-width : exact-nonnegative-integer? = (or width 0)
   limit-marker : string? = "..."
+  limit-prefix? : boolean? = #f
   align : (or/c 'left 'center 'right) = 'left
   pad-string : non-empty-string? = " "
   left-pad-string : non-empty-string? = pad-string
@@ -1891,6 +1973,7 @@ procedure
       #:max-width max-width                     
       #:min-width min-width                     
       #:limit-marker limit-marker               
+      #:limit-prefix? limit-prefix?             
       #:align align                             
       #:pad-string pad-string                   
       #:left-pad-string left-pad-string         
@@ -1902,6 +1985,7 @@ procedure
             = (or width +inf.0)
   min-width : exact-nonnegative-integer? = (or width 0)
   limit-marker : string? = ""
+  limit-prefix? : boolean? = #f
   align : (or/c 'left 'center 'right) = 'left
   pad-string : non-empty-string? = " "
   left-pad-string : non-empty-string? = pad-string
@@ -1914,6 +1998,7 @@ procedure
       #:max-width max-width                     
       #:min-width min-width                     
       #:limit-marker limit-marker               
+      #:limit-prefix? limit-prefix?             
       #:align align                             
       #:pad-string pad-string                   
       #:left-pad-string left-pad-string         
@@ -1925,6 +2010,7 @@ procedure
             = (or width +inf.0)
   min-width : exact-nonnegative-integer? = (or width 0)
   limit-marker : string? = "..."
+  limit-prefix? : boolean? = #f
   align : (or/c 'left 'center 'right) = 'left
   pad-string : non-empty-string? = " "
   left-pad-string : non-empty-string? = pad-string
@@ -1937,6 +2023,7 @@ procedure
       #:max-width max-width                     
       #:min-width min-width                     
       #:limit-marker limit-marker               
+      #:limit-prefix? limit-prefix?             
       #:align align                             
       #:pad-string pad-string                   
       #:left-pad-string left-pad-string         
@@ -1948,6 +2035,7 @@ procedure
             = (or width +inf.0)
   min-width : exact-nonnegative-integer? = (or width 0)
   limit-marker : string? = "..."
+  limit-prefix? : boolean? = #f
   align : (or/c 'left 'center 'right) = 'left
   pad-string : non-empty-string? = " "
   left-pad-string : non-empty-string? = pad-string
@@ -2083,31 +2171,33 @@ procedure
   end : exact-nonnegative-integer? = (string-length str)
 procedure
 (bytes-utf-8-length bstr [err-char start end])
- -> exact-nonnegative-integer?
+ -> (or/c exact-nonnegative-integer? #f)
   bstr : bytes?
   err-char : (or/c #f char?) = #f
   start : exact-nonnegative-integer? = 0
   end : exact-nonnegative-integer? = (bytes-length bstr)
 procedure
-(bytes-utf-8-ref bstr [skip err-char start end]) -> char?
-  bstr : bytes?
-  skip : exact-nonnegative-integer? = 0
-  err-char : (or/c #f char?) = #f
-  start : exact-nonnegative-integer? = 0
-  end : exact-nonnegative-integer? = (bytes-length bstr)
-procedure
-(bytes-utf-8-index  bstr         
-                   [skip         
-                    err-char     
-                    start        
-                    end])    -> exact-nonnegative-integer?
+(bytes-utf-8-ref bstr [skip err-char start end]) -> (or/c char? #f)
   bstr : bytes?
   skip : exact-nonnegative-integer? = 0
   err-char : (or/c #f char?) = #f
   start : exact-nonnegative-integer? = 0
   end : exact-nonnegative-integer? = (bytes-length bstr)
 procedure
-(bytes-open-converter from-name to-name) -> bytes-converter?
+(bytes-utf-8-index  bstr     
+                   [skip     
+                    err-char 
+                    start    
+                    end])    
+ -> (or/c exact-nonnegative-integer? #f)
+  bstr : bytes?
+  skip : exact-nonnegative-integer? = 0
+  err-char : (or/c #f char?) = #f
+  start : exact-nonnegative-integer? = 0
+  end : exact-nonnegative-integer? = (bytes-length bstr)
+procedure
+(bytes-open-converter from-name to-name)
+ -> (or/c bytes-converter? #f)
   from-name : string?
   to-name : string?
 procedure
@@ -2310,15 +2400,27 @@ procedure
 procedure
 (regexp str) -> regexp?
   str : string?
+(regexp str handler) -> any
+  str : string?
+  handler : (or/c #f (string? -> any))
 procedure
-(pregexp string) -> pregexp?
-  string : string?
+(pregexp str) -> pregexp?
+  str : string?
+(pregexp str handler) -> any
+  str : string?
+  handler : (or/c #f (string? -> any))
 procedure
 (byte-regexp bstr) -> byte-regexp?
   bstr : bytes?
+(byte-regexp bstr handler) -> any
+  bstr : bytes?
+  handler : (or/c #f (bytes? -> any))
 procedure
 (byte-pregexp bstr) -> byte-pregexp?
   bstr : bytes?
+(byte-pregexp bstr handler) -> any
+  bstr : bytes?
+  handler : (or/c #f (bytes? -> any))
 procedure
 (regexp-quote str [case-sensitive?]) -> string?
   str : string?
@@ -2540,7 +2642,7 @@ procedure
   end-pos : (or/c exact-nonnegative-integer? #f) = #f
   output-port : (or/c output-port? #f) = #f
   input-prefix : bytes? = #""
-  count : nonnegative-exact-integer? = 1
+  count : exact-nonnegative-integer? = 1
 procedure
 (regexp-match-positions/end  pattern      
                              input        
@@ -2963,6 +3065,35 @@ procedure
   k : exact-nonnegative-integer?
   v : any/c
 procedure
+(list-update lst pos updater) -> list?
+  lst : list?
+  pos : (and/c (>=/c 0) (</c (length lst)))
+  updater : (-> any/c any/c)
+procedure
+(list-set lst pos value) -> list?
+  lst : list?
+  pos : (and/c (>=/c 0) (</c (length lst)))
+  value : any/c
+procedure
+(index-of lst v [is-equal?]) -> (or/c exact-nonnegative-integer? #f)
+  lst : list?
+  v : any/c
+  is-equal? : (any/c any/c . -> . any/c) = equal?
+procedure
+(index-where lst proc) -> (or/c exact-nonnegative-integer? #f)
+  lst : list?
+  proc : (any/c . -> . any/c)
+procedure
+(indexes-of lst v [is-equal?])
+ -> (listof exact-nonnegative-integer?)
+  lst : list?
+  v : any/c
+  is-equal? : (any/c any/c . -> . any/c) = equal?
+procedure
+(indexes-where lst proc) -> (listof exact-nonnegative-integer?)
+  lst : list?
+  proc : (any/c . -> . any/c)
+procedure
 (take lst pos) -> list?
   lst : any/c
   pos : exact-nonnegative-integer?
@@ -2999,17 +3130,37 @@ procedure
   lst : any/c
   pos : exact-nonnegative-integer?
 procedure
-(takef-right lst pred) -> list?
+(takef-right lst pred) -> any/c
   lst : any/c
   pred : procedure?
 procedure
-(dropf-right lst pred) -> any/c
+(dropf-right lst pred) -> list?
   lst : any/c
   pred : procedure?
 procedure
 (splitf-at-right lst pred) -> list? any/c
   lst : any/c
   pred : procedure?
+procedure
+(list-prefix? l r [same?]) -> boolean?
+  l : list?
+  r : list?
+  same? : (any/c any/c . -> . any/c) = equal?
+procedure
+(take-common-prefix l r [same?]) -> list?
+  l : list?
+  r : list?
+  same? : (any/c any/c . -> . any/c) = equal?
+procedure
+(drop-common-prefix l r [same?]) -> list? list?
+  l : list?
+  r : list?
+  same? : (any/c any/c . -> . any/c) = equal?
+procedure
+(split-common-prefix l r [same?]) -> list? list? list?
+  l : list?
+  r : list?
+  same? : (any/c any/c . -> . any/c) = equal?
 procedure
 (add-between  lst                             
               v                               
@@ -3033,6 +3184,13 @@ procedure
 procedure
 (flatten v) -> list?
   v : any/c
+procedure
+(check-duplicates  lst                     
+                  [same?                   
+                   #:key extract-key]) -> (or/c any/c #f)
+  lst : list?
+  same? : (any/c any/c . -> . any/c) = equal?
+  extract-key : (-> any/c any/c) = (lambda (x) x)
 procedure
 (remove-duplicates  lst                     
                    [same?                   
@@ -3071,6 +3229,18 @@ procedure
 (shuffle lst) -> list?
   lst : list?
 procedure
+(combinations lst) -> list?
+  lst : list?
+(combinations lst size) -> list?
+  lst : list?
+  size : exact-nonnegative-integer?
+procedure
+(in-combinations lst) -> sequence?
+  lst : list?
+(in-combinations lst size) -> sequence?
+  lst : list?
+  size : exact-nonnegative-integer?
+procedure
 (permutations lst) -> list?
   lst : list?
 procedure
@@ -3084,6 +3254,22 @@ procedure
 (argmax proc lst) -> any/c
   proc : (-> any/c real?)
   lst : (and/c pair? list?)
+procedure
+(group-by key lst [same?]) -> (listof list?)
+  key : (-> any/c any/c)
+  lst : list?
+  same? : (any/c any/c . -> . any/c) = equal?
+procedure
+(cartesian-product lst ...) -> (listof list?)
+  lst : list?
+procedure
+(remf pred lst) -> list?
+  pred : procedure?
+  lst : list?
+procedure
+(remf* pred lst) -> list?
+  pred : procedure?
+  lst : list?
 procedure
 (make-reader-graph v) -> any/c
   v : any/c
@@ -3116,7 +3302,7 @@ procedure
 (mpair? v) -> boolean?
   v : any/c
 procedure
-(mcons a d) -> pair?
+(mcons a d) -> mpair?
   a : any/c
   d : any/c
 procedure
@@ -3204,7 +3390,7 @@ procedure
 procedure
 (vector-map! proc vec ...+) -> vector?
   proc : procedure?
-  vec : vector?
+  vec : (and/c vector? (not/c immutable?))
 procedure
 (vector-append vec ...) -> vector?
   vec : vector?
@@ -3258,9 +3444,9 @@ procedure
   proc : (-> any/c real?)
   vec : vector?
 procedure
-(vector-member v lst) -> (or/c natural-number/c #f)
+(vector-member v vec) -> (or/c natural-number/c #f)
   v : any/c
-  lst : vector?
+  vec : vector?
 procedure
 (vector-memv v vec) -> (or/c natural-number/c #f)
   v : any/c
@@ -3269,6 +3455,32 @@ procedure
 (vector-memq v vec) -> (or/c natural-number/c #f)
   v : any/c
   vec : vector?
+procedure
+(vector-sort  vec                             
+              less-than?                      
+             [start                           
+              end                             
+              #:key key                       
+              #:cache-keys? cache-keys?]) -> vector?
+  vec : vector?
+  less-than? : (any/c any/c . -> . any/c)
+  start : exact-nonnegative-integer? = 0
+  end : exact-nonnegative-integer? = (vector-length vec)
+  key : (any/c . -> . any/c) = (λ (x) x)
+  cache-keys? : boolean? = #f
+procedure
+(vector-sort!  vec                             
+               less-than?                      
+              [start                           
+               end                             
+               #:key key                       
+               #:cache-keys? cache-keys?]) -> void?
+  vec : (and/c vector? (not/c immutable?))
+  less-than? : (any/c any/c . -> . any/c)
+  start : exact-nonnegative-integer? = 0
+  end : exact-nonnegative-integer? = (vector-length vec)
+  key : (any/c . -> . any/c) = (λ (x) x)
+  cache-keys? : boolean? = #f
 procedure
 (box? v) -> boolean?
   v : any/c
@@ -3371,7 +3583,7 @@ procedure
 (hash-ref hash key [failure-result]) -> any
   hash : hash?
   key : any/c
-  failure-result : any/c
+  failure-result : (failure-result/c any/c)
                  = (lambda ()
                      (raise (make-exn:fail:contract ....)))
 procedure
@@ -3391,7 +3603,7 @@ procedure
   hash : (and/c hash? (not/c immutable?))
   key : any/c
   updater : (any/c . -> . any/c)
-  failure-result : any/c
+  failure-result : (failure-result/c any/c)
                  = (lambda ()
                      (raise (make-exn:fail:contract ....)))
 procedure
@@ -3400,7 +3612,7 @@ procedure
   hash : (and/c hash? immutable?)
   key : any/c
   updater : (any/c . -> . any/c)
-  failure-result : any/c
+  failure-result : (failure-result/c any/c)
                  = (lambda ()
                      (raise (make-exn:fail:contract ....)))
 procedure
@@ -3421,9 +3633,10 @@ procedure
 (hash-copy-clear hash) -> hash?
   hash : hash?
 procedure
-(hash-map hash proc) -> (listof any/c)
+(hash-map hash proc [try-order?]) -> (listof any/c)
   hash : hash?
   proc : (any/c any/c . -> . any/c)
+  try-order? : any/c = #f
 procedure
 (hash-keys hash) -> (listof any/c)
   hash : hash?
@@ -3434,9 +3647,14 @@ procedure
 (hash->list hash) -> (listof (cons/c any/c any/c))
   hash : hash?
 procedure
-(hash-for-each hash proc) -> void?
+(hash-keys-subset? hash1 hash2) -> boolean?
+  hash1 : hash?
+  hash2 : hash?
+procedure
+(hash-for-each hash proc [try-order?]) -> void?
   hash : hash?
   proc : (any/c any/c . -> . any)
+  try-order? : any/c = #f
 procedure
 (hash-count hash) -> exact-nonnegative-integer?
   hash : hash?
@@ -3461,6 +3679,14 @@ procedure
   hash : hash?
   pos : exact-nonnegative-integer?
 procedure
+(hash-iterate-pair hash pos) -> (cons any any)
+  hash : hash?
+  pos : exact-nonnegative-integer?
+procedure
+(hash-iterate-key+value hash pos) -> any any
+  hash : hash?
+  pos : exact-nonnegative-integer?
+procedure
 (hash-copy hash) -> (and/c hash? (not/c immutable?))
   hash : hash?
 procedure
@@ -3476,15 +3702,38 @@ procedure
 (equal-secondary-hash-code v) -> fixnum?
   v : any/c
 procedure
+(hash-union  h0                          
+             h ...                       
+            [#:combine combine           
+             #:combine/key combine/key]) 
+ -> (and/c hash? immutable?)
+  h0 : (and/c hash? immutable?)
+  h : hash?
+  combine : (-> any/c any/c any/c)
+          = (lambda _ (error 'hash-union ....))
+  combine/key : (-> any/c any/c any/c any/c)
+              = (lambda (k a b) (combine a b))
+procedure
+(hash-union!  h0                              
+              h ...                           
+             [#:combine combine               
+              #:combine/key combine/key]) -> void?
+  h0 : (and/c hash? (not/c immutable?))
+  h : hash?
+  combine : (-> any/c any/c any/c)
+          = (lambda _ (error 'hash-union ....))
+  combine/key : (-> any/c any/c any/c any/c)
+              = (lambda (k a b) (combine a b))
+procedure
 (sequence? v) -> boolean?
   v : any/c
 procedure
 (in-range end) -> stream?
-  end : number?
+  end : real?
 (in-range start end [step]) -> stream?
-  start : number?
-  end : number?
-  step : number? = 1
+  start : real?
+  end : real?
+  step : real? = 1
 procedure
 (in-naturals [start]) -> stream?
   start : exact-nonnegative-integer? = 0
@@ -3545,6 +3794,42 @@ procedure
 (in-hash-pairs hash) -> sequence?
   hash : hash?
 procedure
+(in-mutable-hash hash) -> sequence?
+  hash : (and/c hash? (not/c immutable?) (not/c hash-weak?))
+procedure
+(in-mutable-hash-keys hash) -> sequence?
+  hash : (and/c hash? (not/c immutable?) (not/c hash-weak?))
+procedure
+(in-mutable-hash-values hash) -> sequence?
+  hash : (and/c hash? (not/c immutable?) (not/c hash-weak?))
+procedure
+(in-mutable-hash-pairs hash) -> sequence?
+  hash : (and/c hash? (not/c immutable?) (not/c hash-weak?))
+procedure
+(in-immutable-hash hash) -> sequence?
+  hash : (and/c hash? immutable?)
+procedure
+(in-immutable-hash-keys hash) -> sequence?
+  hash : (and/c hash? immutable?)
+procedure
+(in-immutable-hash-values hash) -> sequence?
+  hash : (and/c hash? immutable?)
+procedure
+(in-immutable-hash-pairs hash) -> sequence?
+  hash : (and/c hash? immutable?)
+procedure
+(in-weak-hash hash) -> sequence?
+  hash : (and/c hash? hash-weak?)
+procedure
+(in-weak-hash-keys hash) -> sequence?
+  hash : (and/c hash? hash-weak?)
+procedure
+(in-weak-hash-values hash) -> sequence?
+  hash : (and/c hash? hash-weak?)
+procedure
+(in-weak-hash-pairs hash) -> sequence?
+  hash : (and/c hash? hash-weak?)
+procedure
 (in-directory [dir use-dir?]) -> sequence?
   dir : (or/c #f path-string?) = #f
   use-dir? : ((and/c path? complete-path?) . -> . any/c)
@@ -3587,12 +3872,19 @@ procedure
   pred : (any/c . -> . any)
 procedure
 (make-do-sequence thunk) -> sequence?
-  thunk : (-> (values (any/c . -> . any)
-                      (any/c . -> . any/c)
-                      any/c
-                      (or/c (any/c . -> . any/c) #f)
-                      (or/c (() () #:rest list? . ->* . any/c) #f)
-                      (or/c ((any/c) () #:rest list? . ->* . any/c) #f)))
+  thunk : (or/c (-> (values (any/c . -> . any)
+                            (any/c . -> . any/c)
+                            any/c
+                            (or/c (any/c . -> . any/c) #f)
+                            (or/c (() () #:rest list? . ->* . any/c) #f)
+                            (or/c ((any/c) () #:rest list? . ->* . any/c) #f)))
+                (-> (values (any/c . -> . any)
+                            (or/c (any/c . -> . any/c) #f)
+                            (any/c . -> . any/c)
+                            any/c
+                            (or/c (any/c . -> . any/c) #f)
+                            (or/c (() () #:rest list? . ->* . any/c) #f)
+                            (or/c ((any/c) () #:rest list? . ->* . any/c) #f))))
 value
 prop:sequence : struct-type-property?
 procedure
@@ -3659,6 +3951,18 @@ procedure
   s : sequence?
   e : any/c
 procedure
+(sequence/c [#:min-count min-count]     
+             elem/c ...)            -> contract?
+  min-count : (or/c #f exact-nonnegative-integer?) = #f
+  elem/c : contract?
+procedure
+(in-syntax stx) -> sequence?
+  stx : syntax?
+procedure
+(in-slice length seq) -> sequence?
+  length : exact-positive-integer?
+  seq : sequence?
+procedure
 (stream? v) -> boolean?
   v : any/c
 procedure
@@ -3674,6 +3978,8 @@ syntax
 (stream-cons first-expr rest-expr)
 syntax
 (stream expr ...)
+syntax
+(stream* expr ...)
 procedure
 (in-stream s) -> sequence?
   s : stream?
@@ -3729,10 +4035,17 @@ procedure
 (stream-add-between s e) -> stream?
   s : stream?
   e : any/c
+syntax
+(for/stream (for-clause ...) body-or-break ... body)
+syntax
+(for*/stream (for-clause ...) body-or-break ... body)
 value
 gen:stream : any/c
 value
 prop:stream : struct-type-property?
+procedure
+(stream/c c) -> contract?
+  c : contract?
 procedure
 (generator? v) -> boolean?
   v : any/c
@@ -3747,7 +4060,7 @@ syntax
 (in-generator maybe-arity body ...+)
  
 maybe-arity = 
-            | #:arity arity-k
+            | #:arity arity-k
 procedure
 (generator-state g) -> symbol?
   g : generator?
@@ -3784,7 +4097,7 @@ procedure
 (dict-ref dict key [failure-result]) -> any
   dict : dict?
   key : any/c
-  failure-result : any/c
+  failure-result : (failure-result/c any/c)
                  = (lambda () (raise (make-exn:fail ....)))
 procedure
 (dict-set! dict key v) -> void?
@@ -3846,7 +4159,7 @@ procedure
   dict : (and/c dict? (not/c immutable?))
   key : any/c
   updater : (any/c . -> . any/c)
-  failure-result : any/c
+  failure-result : (failure-result/c any/c)
                  = (lambda () (raise (make-exn:fail ....)))
 procedure
 (dict-update dict key updater [failure-result])
@@ -3854,7 +4167,7 @@ procedure
   dict : dict?
   key : any/c
   updater : (any/c . -> . any/c)
-  failure-result : any/c
+  failure-result : (failure-result/c any/c)
                  = (lambda () (raise (make-exn:fail ....)))
 procedure
 (dict-map dict proc) -> (listof any/c)
@@ -3877,7 +4190,7 @@ procedure
 (dict-clear dict) -> dict?
   dict : dict?
 procedure
-(dict-clear! dict) -> dict?
+(dict-clear! dict) -> void?
   dict : dict?
 procedure
 (dict-keys dict) -> list?
@@ -3917,12 +4230,12 @@ syntax
                           comparison-expr
                           optional-hash-functions)
  
-optional-predicate      = 
-                        | #:key? predicate-expr
-                           
+     optional-predicate = 
+                        | #:key? predicate-expr
+                           
 optional-hash-functions = 
-                        | hash1-expr
-                        | hash1-expr hash2-expr
+                        | hash1-expr
+                        | hash1-expr hash2-expr
 procedure
 (make-custom-hash-types  eql?            
                         [hash1           
@@ -4106,6 +4419,15 @@ syntax
 syntax
 (for*/weak-seteqv (for-clause ...) body ...+)
 procedure
+(in-immutable-set st) -> sequence?
+  st : set?
+procedure
+(in-mutable-set st) -> sequence?
+  st : set-mutable?
+procedure
+(in-weak-set st) -> sequence?
+  st : set-weak?
+procedure
 (generic-set? v) -> boolean?
   v : any/c
 procedure
@@ -4116,11 +4438,18 @@ procedure
 (set-implements/c sym ...) -> flat-contract?
   sym : symbol?
 procedure
-(set/c elem/c [#:cmp cmp #:kind kind]) -> contract?
+(set/c  elem/c                          
+       [#:cmp cmp                       
+        #:kind kind                     
+        #:lazy? lazy?                   
+        #:equal-key/c equal-key/c]) -> contract?
   elem/c : chaperone-contract?
   cmp : (or/c 'dont-care 'equal 'eqv 'eq) = 'dont-care
   kind : (or/c 'dont-care 'immutable 'mutable 'weak 'mutable-or-weak)
-       = 'dont-care
+       = 'immutable
+  lazy? : any/c = (not (and (equal? kind 'immutable)
+                            (flat-contract? elem/c)))
+  equal-key/c : contract? = any/c
 syntax
 gen:set
 procedure
@@ -4175,7 +4504,7 @@ procedure
   st0 : generic-set?
   st : generic-set?
 procedure
-(set-union! st0 st ...) -> generic-set?
+(set-union! st0 st ...) -> void?
   st0 : generic-set?
   st : generic-set?
 procedure
@@ -4183,7 +4512,7 @@ procedure
   st0 : generic-set?
   st : generic-set?
 procedure
-(set-intersect! st0 st ...) -> generic-set?
+(set-intersect! st0 st ...) -> void?
   st0 : generic-set?
   st : generic-set?
 procedure
@@ -4191,7 +4520,7 @@ procedure
   st0 : generic-set?
   st : generic-set?
 procedure
-(set-subtract! st0 st ...) -> generic-set?
+(set-subtract! st0 st ...) -> void?
   st0 : generic-set?
   st : generic-set?
 procedure
@@ -4199,7 +4528,7 @@ procedure
   st0 : generic-set?
   st : generic-set?
 procedure
-(set-symmetric-difference! st0 st ...) -> generic-set?
+(set-symmetric-difference! st0 st ...) -> void?
   st0 : generic-set?
   st : generic-set?
 procedure
@@ -4228,18 +4557,60 @@ procedure
 procedure
 (in-set st) -> sequence?
   st : generic-set?
+procedure
+(impersonate-hash-set  st              
+                       inject-proc     
+                       add-proc        
+                       shrink-proc     
+                       extract-proc    
+                      [clear-proc      
+                       equal-key-proc] 
+                       prop            
+                       prop-val ...    
+                       ...)            
+ -> (and/c (or/c mutable-set? weak-set?) impersonator?)
+  st : (or/c mutable-set? weak-set?)
+  inject-proc : (or/c #f (-> set? any/c any/c))
+  add-proc : (or/c #f (-> set? any/c any/c))
+  shrink-proc : (or/c #f (-> set? any/c any/c))
+  extract-proc : (or/c #f (-> set? any/c any/c))
+  clear-proc : (or/c #f (-> set? any)) = #f
+  equal-key-proc : (or/c #f (-> set? any/c any/c)) = #f
+  prop : impersonator-property?
+  prop-val : any/c
+procedure
+(chaperone-hash-set  st              
+                     inject-proc     
+                     add-proc        
+                     shrink-proc     
+                     extract-proc    
+                    [clear-proc      
+                     equal-key-proc] 
+                     prop            
+                     prop-val ...    
+                     ...)            
+ -> (and/c (or/c set? mutable-set? weak-set?) chaperone?)
+  st : (or/c set? mutable-set? weak-set?)
+  inject-proc : (or/c #f (-> set? any/c any/c))
+  add-proc : (or/c #f (-> set? any/c any/c))
+  shrink-proc : (or/c #f (-> set? any/c any/c))
+  extract-proc : (or/c #f (-> set? any/c any/c))
+  clear-proc : (or/c #f (-> set? any)) = #f
+  equal-key-proc : (or/c #f (-> set? any/c any/c)) = #f
+  prop : impersonator-property?
+  prop-val : any/c
 syntax
 (define-custom-set-types name
                          optional-predicate
                          comparison-expr
                          optional-hash-functions)
  
-optional-predicate      = 
-                        | #:elem? predicate-expr
-                           
+     optional-predicate = 
+                        | #:elem? predicate-expr
+                           
 optional-hash-functions = 
-                        | hash1-expr
-                        | hash1-expr hash2-expr
+                        | hash1-expr
+                        | hash1-expr hash2-expr
 procedure
 (make-custom-set-types  eql?          
                        [hash1         
@@ -4325,6 +4696,9 @@ procedure
                              (or/c (listof keyword?) #f)
   proc : procedure?
 procedure
+(procedure-result-arity proc) -> (or/c #f procedure-arity?)
+  proc : procedure?
+procedure
 (make-keyword-procedure proc [plain-proc]) -> procedure?
   proc : (((listof keyword?) list?) () #:rest list? . ->* . any)
   plain-proc : procedure?
@@ -4341,7 +4715,7 @@ procedure
                       #f)
 struct
 (struct arity-at-least (value)
-        #:extra-constructor-name make-arity-at-least)
+    #:extra-constructor-name make-arity-at-least)
   value : exact-nonnegative-integer?
 value
 prop:procedure : struct-type-property?
@@ -4367,6 +4741,9 @@ procedure
   v1 : any/c
   v2 : any/c
 procedure
+(procedure-specialize proc) -> procedure?
+  proc : procedure?
+procedure
 (primitive? v) -> boolean?
   v : any/c
 procedure
@@ -4388,6 +4765,14 @@ syntax
 procedure
 (negate proc) -> procedure?
   proc : procedure?
+procedure
+((conjoin f ...) x ...) -> boolean?
+  f : (-> A ... boolean?)
+  x : A
+procedure
+((disjoin f ...) x ...) -> boolean?
+  f : (-> A ... boolean?)
+  x : A
 procedure
 (curry proc) -> procedure?
   proc : procedure?
@@ -4416,40 +4801,45 @@ procedure
   a : procedure-arity?
   b : procedure-arity?
 procedure
-(void? v) -> void?
+(void? v) -> boolean?
   v : any/c
 procedure
 (void v ...) -> void?
   v : any/c
+value
+undefined : any/c
 syntax
 (struct id maybe-super (field ...)
         struct-option ...)
  
-maybe-super   = 
-              | super-id
-                 
-field         = field-id
-              | [field-id field-option ...]
-                 
+  maybe-super = 
+              | super-id
+                 
+        field = field-id
+              | [field-id field-option ...]
+                 
 struct-option = #:mutable
-              | #:super super-expr
-              | #:inspector inspector-expr
-              | #:auto-value auto-expr
-              | #:guard guard-expr
-              | #:property prop-expr val-expr
-              | #:transparent
-              | #:prefab
-              | #:constructor-name constructor-id
-              | #:extra-constructor-name constructor-id
-              | #:reflection-name symbol-expr
-              | #:methods gen:name method-defs
-              | #:omit-define-syntaxes
-              | #:omit-define-values
-                 
-field-option  = #:mutable
-              | #:auto
-                 
-method-defs   = (definition ...)
+              | #:super super-expr
+              | #:inspector inspector-expr
+              | #:auto-value auto-expr
+              | #:guard guard-expr
+              | #:property prop-expr val-expr
+              | #:transparent
+              | #:prefab
+              | #:authentic
+              | #:name name-id
+              | #:extra-name name-id
+              | #:constructor-name constructor-id
+              | #:extra-constructor-name constructor-id
+              | #:reflection-name symbol-expr
+              | #:methods gen:name method-defs
+              | #:omit-define-syntaxes
+              | #:omit-define-values
+                 
+ field-option = #:mutable
+              | #:auto
+                 
+  method-defs = (definition ...)
  
   gen:name : identifier?
 syntax
@@ -4459,7 +4849,7 @@ syntax
                struct-option ...)
  
 id-maybe-super = id
-               | (id super-id)
+               | (id super-id)
 syntax
 (define-struct/derived (id . rest-form)
   id-maybe-super (field ...) struct-option ...)
@@ -4536,27 +4926,27 @@ syntax
   generics-opt ...)
  
 generics-opt = #:defaults ([default-pred? default-impl ...] ...)
-             | #:fast-defaults ([fast-pred? fast-impl ...] ...)
-             | #:fallbacks [fallback-impl ...]
-             | #:defined-predicate defined-pred-id
-             | #:defined-table defined-table-id
-             | #:derive-property prop-expr prop-value-expr
-                
-kw-formals*  = (arg* ...)
-             | (arg* ...+ . rest-id)
-             | rest-id
-                
-arg*         = arg-id
-             | [arg-id]
-             | keyword arg-id
-             | keyword [arg-id]
+             | #:fast-defaults ([fast-pred? fast-impl ...] ...)
+             | #:fallbacks [fallback-impl ...]
+             | #:defined-predicate defined-pred-id
+             | #:defined-table defined-table-id
+             | #:derive-property prop-expr prop-value-expr
+                
+ kw-formals* = (arg* ...)
+             | (arg* ...+ . rest-id)
+             | rest-id
+                
+        arg* = arg-id
+             | [arg-id]
+             | keyword arg-id
+             | keyword [arg-id]
 procedure
 (raise-support-error name v) -> none/c
   name : symbol?
   v : any/c
 struct
 (struct exn:fail:support exn:fail ()
-        #:transparent)
+    #:transparent)
 syntax
 (define/generic local-id method-id)
  
@@ -4567,22 +4957,28 @@ syntax
  
   method-ctc : contract?
 syntax
-(impersonate-generics gen-id val-expr [method-id method-proc] ...)
+(impersonate-generics gen-id val-expr
+  [method-id method-proc-expr] ...
+  maybe-properties)
  
-  method-proc : (any/c . -> . any/c)
+maybe-properties = 
+                 | #:properties props-expr
+ 
+  method-proc-expr : (any/c . -> . any/c)
+  props-expr : (list/c impersonator-property? any/c ... ...)
 syntax
-(chaperone-generics gen-id val-expr [method-id method-proc] ...)
- 
-  method-proc : (any/c . -> . any/c)
+(chaperone-generics gen-id val-expr
+  [method-id method-proc-expr] ...
+  maybe-properties)
 syntax
-(redirect-generics mode gen-id val-expr [method-id method-proc] ...)
- 
-  method-proc : (any/c . -> . any/c)
+(redirect-generics mode gen-id val-expr
+   [method-id method-proc-expr] ...
+   maybe-properties)
 syntax
 (struct-copy id struct-expr fld-id ...)
  
 fld-id = [field-id expr]
-       | [field-id #:parent parent-id expr]
+       | [field-id #:parent parent-id expr]
 procedure
 (struct->vector v [opaque-v]) -> vector?
   v : any/c
@@ -4620,6 +5016,16 @@ procedure
 (prefab-key? v) -> boolean?
   v : any/c
 procedure
+(make-constructor-style-printer get-constructor 
+                                get-contents)   
+ -> (-> any/c output-port? (or/c #t #f 0 1) void?)
+  get-constructor : (-> any/c (or/c symbol? string?))
+  get-contents : (-> any/c sequence?)
+procedure
+(struct->list v [#:on-opaque on-opaque]) -> (or/c list? #f)
+  v : any/c
+  on-opaque : (or/c 'error 'return-false 'skip) = 'error
+procedure
 (struct-info? v) -> boolean?
   v : any/c
 procedure
@@ -4648,14 +5054,14 @@ syntax
 (interface (super-interface-expr ...) name-clause ...)
  
 name-clause = id
-            | (id contract-expr)
+            | (id contract-expr)
 syntax
 (interface* (super-interface-expr ...)
             ([property-expr val-expr] ...)
   name-clause ...)
  
 name-clause = id
-            | (id contract-expr)
+            | (id contract-expr)
 value
 object% : class?
 syntax
@@ -4663,58 +5069,60 @@ syntax
   class-clause
   ...)
  
-class-clause      = (inspect inspector-expr)
-                  | (init init-decl ...)
-                  | (init-field init-decl ...)
-                  | (field field-decl ...)
-                  | (inherit-field maybe-renamed ...)
-                  | (init-rest id)
-                  | (init-rest)
-                  | (public maybe-renamed ...)
-                  | (pubment maybe-renamed ...)
-                  | (public-final maybe-renamed ...)
-                  | (override maybe-renamed ...)
-                  | (overment maybe-renamed ...)
-                  | (override-final maybe-renamed ...)
-                  | (augment maybe-renamed ...)
-                  | (augride maybe-renamed ...)
-                  | (augment-final maybe-renamed ...)
-                  | (private id ...)
-                  | (abstract id ...)
-                  | (inherit maybe-renamed ...)
-                  | (inherit/super maybe-renamed ...)
-                  | (inherit/inner maybe-renamed ...)
-                  | (rename-super renamed ...)
-                  | (rename-inner renamed ...)
-                  | method-definition
-                  | definition
-                  | expr
-                  | (begin class-clause ...)
-                     
-init-decl         = id
-                  | (renamed)
-                  | (maybe-renamed default-value-expr)
-                     
-field-decl        = (maybe-renamed default-value-expr)
-                     
-maybe-renamed     = id
-                  | renamed
-                     
-renamed           = (internal-id external-id)
-                     
+     class-clause = (inspect inspector-expr)
+                  | (init init-decl ...)
+                  | (init-field init-decl ...)
+                  | (field field-decl ...)
+                  | (inherit-field maybe-renamed ...)
+                  | (init-rest id)
+                  | (init-rest)
+                  | (public maybe-renamed ...)
+                  | (pubment maybe-renamed ...)
+                  | (public-final maybe-renamed ...)
+                  | (override maybe-renamed ...)
+                  | (overment maybe-renamed ...)
+                  | (override-final maybe-renamed ...)
+                  | (augment maybe-renamed ...)
+                  | (augride maybe-renamed ...)
+                  | (augment-final maybe-renamed ...)
+                  | (private id ...)
+                  | (abstract id ...)
+                  | (inherit maybe-renamed ...)
+                  | (inherit/super maybe-renamed ...)
+                  | (inherit/inner maybe-renamed ...)
+                  | (rename-super renamed ...)
+                  | (rename-inner renamed ...)
+                  | method-definition
+                  | definition
+                  | expr
+                  | (begin class-clause ...)
+                     
+        init-decl = id
+                  | (renamed)
+                  | (maybe-renamed default-value-expr)
+                     
+       field-decl = (maybe-renamed default-value-expr)
+                     
+    maybe-renamed = id
+                  | renamed
+                     
+          renamed = (internal-id external-id)
+                     
 method-definition = (define-values (id) method-procedure)
-                     
-method-procedure  = (lambda kw-formals expr ...+)
-                  | (case-lambda (formals expr ...+) ...)
-                  | (#%plain-lambda formals expr ...+)
-                  | (let-values ([(id) method-procedure] ...)
+                     
+ method-procedure = (lambda kw-formals expr ...+)
+                  | (case-lambda (formals expr ...+) ...)
+                  | (#%plain-lambda formals expr ...+)
+                  | (let-values ([(id) method-procedure] ...)
                       method-procedure)
-                  | (letrec-values ([(id) method-procedure] ...)
+                  | (letrec-values ([(id) method-procedure] ...)
                       method-procedure)
-                  | (let-values ([(id) method-procedure] ...+)
+                  | (let-values ([(id) method-procedure] ...+)
                       id)
-                  | (letrec-values ([(id) method-procedure] ...+)
+                  | (letrec-values ([(id) method-procedure] ...+)
                       id)
+                  | (chaperone-procedure method-procedure wrapper-proc
+                                         other-arg-expr ...)
 syntax
 (class superclass-expr class-clause ...)
 syntax
@@ -4883,12 +5291,12 @@ syntax
 (send* obj-expr msg ...+)
  
 msg = (method-id arg ...)
-    | (method-id arg ... . arg-list-expr)
+    | (method-id arg ... . arg-list-expr)
 syntax
 (send+ obj-expr msg ...)
  
 msg = (method-id arg ...)
-    | (method-id arg ... . arg-list-expr)
+    | (method-id arg ... . arg-list-expr)
 syntax
 (with-method ((id (obj-expr method-id)) ...)
   body ...+)
@@ -4927,20 +5335,20 @@ syntax
 (trait trait-clause ...)
  
 trait-clause = (public maybe-renamed ...)
-             | (pubment maybe-renamed ...)
-             | (public-final maybe-renamed ...)
-             | (override maybe-renamed ...)
-             | (overment maybe-renamed ...)
-             | (override-final maybe-renamed ...)
-             | (augment maybe-renamed ...)
-             | (augride maybe-renamed ...)
-             | (augment-final maybe-renamed ...)
-             | (inherit maybe-renamed ...)
-             | (inherit/super maybe-renamed ...)
-             | (inherit/inner maybe-renamed ...)
-             | method-definition
-             | (field field-declaration ...)
-             | (inherit-field maybe-renamed ...)
+             | (pubment maybe-renamed ...)
+             | (public-final maybe-renamed ...)
+             | (override maybe-renamed ...)
+             | (overment maybe-renamed ...)
+             | (override-final maybe-renamed ...)
+             | (augment maybe-renamed ...)
+             | (augride maybe-renamed ...)
+             | (augment-final maybe-renamed ...)
+             | (inherit maybe-renamed ...)
+             | (inherit/super maybe-renamed ...)
+             | (inherit/inner maybe-renamed ...)
+             | method-definition
+             | (field field-declaration ...)
+             | (inherit-field maybe-renamed ...)
 procedure
 (trait? v) -> boolean?
   v : any/c
@@ -4964,31 +5372,32 @@ syntax
 (class/c maybe-opaque member-spec ...)
  
 maybe-opaque = 
-             | #:opaque
-                
-member-spec  = method-spec
-             | (field field-spec ...)
-             | (init field-spec ...)
-             | (init-field field-spec ...)
-             | (inherit method-spec ...)
-             | (inherit-field field-spec ...)
-             | (super method-spec ...)
-             | (inner method-spec ...)
-             | (override method-spec ...)
-             | (augment method-spec ...)
-             | (augride method-spec ...)
-             | (absent absent-spec ...)
-                
-method-spec  = method-id
-             | (method-id method-contract-expr)
-                
-field-spec   = field-id
-             | (field-id contract-expr)
-                
-absent-spec  = method-id
-             | (field field-id ...)
+             | #:opaque
+             | #:opaque #:ignore-local-member-names
+                
+ member-spec = method-spec
+             | (field field-spec ...)
+             | (init field-spec ...)
+             | (init-field field-spec ...)
+             | (inherit method-spec ...)
+             | (inherit-field field-spec ...)
+             | (super method-spec ...)
+             | (inner method-spec ...)
+             | (override method-spec ...)
+             | (augment method-spec ...)
+             | (augride method-spec ...)
+             | (absent absent-spec ...)
+                
+ method-spec = method-id
+             | (method-id method-contract-expr)
+                
+  field-spec = field-id
+             | (field-id contract-expr)
+                
+ absent-spec = method-id
+             | (field field-id ...)
 syntax
-(absent method-id ...)
+(absent absent-spec ...)
 syntax
 (->m dom ... range)
 syntax
@@ -5005,67 +5414,76 @@ syntax
 (object/c member-spec ...)
  
 member-spec = method-spec
-            | (field field-spec ...)
-               
+            | (field field-spec ...)
+               
 method-spec = method-id
-            | (method-id method-contract)
-               
-field-spec  = field-id
-            | (field-id contract-expr)
+            | (method-id method-contract)
+               
+ field-spec = field-id
+            | (field-id contract-expr)
 procedure
 (instanceof/c class-contract) -> contract?
   class-contract : contract?
+procedure
+(dynamic-object/c method-names         
+                  method-contracts     
+                  field-names          
+                  field-contracts) -> contract?
+  method-names : (listof symbol?)
+  method-contracts : (listof contract?)
+  field-names : (listof symbol?)
+  field-contracts : (listof contract?)
 syntax
 (object-contract member-spec ...)
  
-member-spec             = (method-id method-contract)
-                        | (field field-id contract-expr)
-                           
-method-contract         = (-> dom ... range)
-                        | (->* (mandatory-dom ...)
+            member-spec = (method-id method-contract)
+                        | (field field-id contract-expr)
+                           
+        method-contract = (-> dom ... range)
+                        | (->* (mandatory-dom ...)
                                (optional-dom ...)
                                rest
                                range)
-                        | (->d (mandatory-dependent-dom ...)
+                        | (->d (mandatory-dependent-dom ...)
                                (optional-dependent-dom ...)
                                dependent-rest
                                pre-cond
                                dep-range)
-                           
-dom                     = dom-expr
-                        | keyword dom-expr
-                           
-range                   = range-expr
-                        | (values range-expr ...)
-                        | any
-                           
-mandatory-dom           = dom-expr
-                        | keyword dom-expr
-                           
-optional-dom            = dom-expr
-                        | keyword dom-expr
-                           
-rest                    = 
-                        | #:rest rest-expr
-                           
+                           
+                    dom = dom-expr
+                        | keyword dom-expr
+                           
+                  range = range-expr
+                        | (values range-expr ...)
+                        | any
+                           
+          mandatory-dom = dom-expr
+                        | keyword dom-expr
+                           
+           optional-dom = dom-expr
+                        | keyword dom-expr
+                           
+                   rest = 
+                        | #:rest rest-expr
+                           
 mandatory-dependent-dom = [id dom-expr]
-                        | keyword [id dom-expr]
-                           
-optional-dependent-dom  = [id dom-expr]
-                        | keyword [id dom-expr]
-                           
-dependent-rest          = 
-                        | #:rest id rest-expr
-                           
-pre-cond                = 
-                        | #:pre-cond boolean-expr
-                           
-dep-range               = any
-                        | [id range-expr] post-cond
-                        | (values [id range-expr] ...) post-cond
-                           
-post-cond               = 
-                        | #:post-cond boolean-expr
+                        | keyword [id dom-expr]
+                           
+ optional-dependent-dom = [id dom-expr]
+                        | keyword [id dom-expr]
+                           
+         dependent-rest = 
+                        | #:rest id rest-expr
+                           
+               pre-cond = 
+                        | #:pre-cond boolean-expr
+                           
+              dep-range = any
+                        | [id range-expr] post-cond
+                        | (values [id range-expr] ...) post-cond
+                           
+              post-cond = 
+                        | #:post-cond boolean-expr
 value
 mixin-contract : contract?
 procedure
@@ -5111,6 +5529,10 @@ procedure
 (object=? a b) -> boolean?
   a : object?
   b : object?
+procedure
+(object-or-false=? a b) -> boolean?
+  a : (or/c object? #f)
+  b : (or/c object? #f)
 procedure
 (object->vector object [opaque-v]) -> vector?
   object : object?
@@ -5169,17 +5591,40 @@ procedure
   class : class?
 struct
 (struct exn:fail:object exn:fail ()
-        #:extra-constructor-name make-exn:fail:object)
+    #:extra-constructor-name make-exn:fail:object)
+procedure
+(class-seal class                
+            key                  
+            unsealed-inits       
+            unsealed-fields      
+            unsealed-methods     
+            inst-proc            
+            member-proc)     -> class?
+  class : class?
+  key : symbol?
+  unsealed-inits : (listof symbol?)
+  unsealed-fields : (listof symbol?)
+  unsealed-methods : (listof symbol?)
+  inst-proc : (-> class? any)
+  member-proc : (-> class? (listof symbol?) any)
+procedure
+(class-unseal class key wrong-key-proc) -> class?
+  class : class?
+  key : symbol?
+  wrong-key-proc : (-> class? any)
 syntax
-(surrogate method-spec ...)
+(surrogate use-wrapper-proc method-spec ...)
  
-method-spec = (method-id arg-spec ...)
-            | (override method-id arg-spec ...)
-            | (override-final method-id (lambda () default-expr)
-                              arg-spec ...)
-               
-arg-spec    = (id ...)
-            | id
+use-wrapper-proc = #:use-wrapper-proc
+                 | 
+                    
+     method-spec = (augment method-id arg-spec ...)
+                 | (override method-id arg-spec ...)
+                 | (override-final method-id (lambda () default-expr)
+                                   arg-spec ...)
+                    
+        arg-spec = (id ...)
+                 | id
 syntax
 (unit
   (import tagged-sig-spec ...)
@@ -5188,45 +5633,45 @@ syntax
   unit-body-expr-or-defn
   ...)
  
-tagged-sig-spec   = sig-spec
-                  | (tag id sig-spec)
-                     
-sig-spec          = sig-id
-                  | (prefix id sig-spec)
-                  | (rename sig-spec (id id) ...)
-                  | (only sig-spec id ...)
-                  | (except sig-spec id ...)
-                     
+  tagged-sig-spec = sig-spec
+                  | (tag id sig-spec)
+                     
+         sig-spec = sig-id
+                  | (prefix id sig-spec)
+                  | (rename sig-spec (id id) ...)
+                  | (only sig-spec id ...)
+                  | (except sig-spec id ...)
+                     
 init-depends-decl = 
-                  | (init-depend tagged-sig-id ...)
-                     
-tagged-sig-id     = sig-id
-                  | (tag id sig-id)
+                  | (init-depend tagged-sig-id ...)
+                     
+    tagged-sig-id = sig-id
+                  | (tag id sig-id)
 syntax
 (define-signature id extension-decl
   (sig-elem ...))
  
 extension-decl = 
-               | extends sig-id
-                  
-sig-elem       = id
-               | (define-syntaxes (id ...) expr)
-               | (define-values (id ...) expr)
-               | (define-values-for-export (id ...) expr)
-               | (contracted [id contract] ...)
-               | (open sig-spec)
-               | (struct id (field ...) struct-option ...)
-               | (sig-form-id . datum)
-                  
-field          = id
-               | [id #:mutable]
-                  
-struct-option  = #:mutable
-               | #:constructor-name constructor-id
-               | #:extra-constructor-name constructor-id
-               | #:omit-constructor
-               | #:omit-define-syntaxes
-               | #:omit-define-values
+               | extends sig-id
+                  
+      sig-elem = id
+               | (define-syntaxes (id ...) expr)
+               | (define-values (id ...) expr)
+               | (define-values-for-export (id ...) expr)
+               | (contracted [id contract] ...)
+               | (open sig-spec)
+               | (struct id (field ...) struct-option ...)
+               | (sig-form-id . datum)
+                  
+         field = id
+               | [id #:mutable]
+                  
+ struct-option = #:mutable
+               | #:constructor-name constructor-id
+               | #:extra-constructor-name constructor-id
+               | #:omit-constructor
+               | #:omit-define-syntaxes
+               | #:omit-define-values
 syntax
 (open sig-spec)
 syntax
@@ -5267,12 +5712,12 @@ syntax
   (export tagged-link-id ...)
   (link linkage-decl ...))
  
-link-binding   = (link-id : tagged-sig-id)
-                  
+  link-binding = (link-id : tagged-sig-id)
+                  
 tagged-link-id = (tag id link-id)
-               | link-id
-                  
-linkage-decl   = ((link-binding ...) unit-expr tagged-link-id ...)
+               | link-id
+                  
+  linkage-decl = ((link-binding ...) unit-expr tagged-link-id ...)
 syntax
 (define-unit unit-id
   (import tagged-sig-spec ...)
@@ -5287,17 +5732,17 @@ syntax
   (link infer-linkage-decl ...))
  
 tagged-infer-link-import = tagged-sig-id
-                         | (link-id : tagged-sig-id)
-                            
+                         | (link-id : tagged-sig-id)
+                            
 tagged-infer-link-export = (tag id infer-link-export)
-                         | infer-link-export
-                            
-infer-link-export        = link-id
-                         | sig-id
-                            
-infer-linkage-decl       = ((link-binding ...) unit-id
+                         | infer-link-export
+                            
+       infer-link-export = link-id
+                         | sig-id
+                            
+      infer-linkage-decl = ((link-binding ...) unit-id
                                                tagged-link-id ...)
-                         | unit-id
+                         | unit-id
 syntax
 (define-compound-unit id
   (import link-binding ...)
@@ -5318,15 +5763,15 @@ syntax
 (invoke-unit/infer unit-spec)
  
 unit-spec = unit-id
-          | (link link-unit-id ...)
+          | (link link-unit-id ...)
 syntax
 (define-values/invoke-unit/infer maybe-exports unit-spec)
  
 maybe-exports = 
-              | (export tagged-sig-spec ...)
-                 
-unit-spec     = unit-id
-              | (link link-unit-id ...)
+              | (export tagged-sig-spec ...)
+                 
+    unit-spec = unit-id
+              | (link link-unit-id ...)
 syntax
 (unit-from-context tagged-sig-spec)
 syntax
@@ -5361,33 +5806,49 @@ syntax
 syntax
 (struct/ctc id ([field contract-expr] ...) struct-option ...)
  
-field         = id
-              | [id #:mutable]
-                 
+        field = id
+              | [id #:mutable]
+                 
 struct-option = #:mutable
-              | #:omit-constructor
-              | #:omit-define-syntaxes
-              | #:omit-define-values
+              | #:omit-constructor
+              | #:omit-define-syntaxes
+              | #:omit-define-values
 procedure
 (unit? v) -> boolean?
   v : any/c
 syntax
 (provide-signature-elements sig-spec ...)
 syntax
-(unit/c (import sig-block ...) (export sig-block ...))
+(unit/c
+  (import sig-block ...)
+  (export sig-block ...)
+  init-depends-decl
+  optional-body-ctc)
  
-sig-block = (tagged-sig-id [id contract] ...)
-          | tagged-sig-id
+        sig-block = (tagged-sig-id [id contract] ...)
+                  | tagged-sig-id
+                     
+init-depends-decl = 
+                  | (init-depend tagged-sig-id ...)
+                     
+optional-body-ctc = 
+                  | contract
+                  | (values contract ...)
 syntax
 (define-unit/contract unit-id
   (import sig-spec-block ...)
   (export sig-spec-block ...)
   init-depends-decl
+  optional-body-ctc
   unit-body-expr-or-defn
   ...)
  
-sig-spec-block = (tagged-sig-spec [id contract] ...)
-               | tagged-sig-spec
+   sig-spec-block = (tagged-sig-spec [id contract] ...)
+                  | tagged-sig-spec
+                     
+optional-body-ctc = 
+                  | #:invoke/contract contract
+                  | #:invoke/contract (values contract ...)
 procedure
 (unit-static-signatures unit-identifier 
                         err-syntax)     
@@ -5406,11 +5867,24 @@ procedure
   sig-identifier : identifier?
   err-syntax : syntax?
 procedure
-(flat-named-contract  type-name       
-                      predicate       
-                     [generator]) -> flat-contract?
-  type-name : any/c
-  predicate : flat-contract?
+(unit-static-init-dependencies unit-identifier 
+                               err-syntax)     
+ -> (list/c (cons/c (or/c symbol? #f)
+                    identifier?))
+  unit-identifier : identifier?
+  err-syntax : syntax?
+procedure
+(flat-contract-with-explanation  get-explanation 
+                                [#:name name])   
+ -> flat-contract?
+  get-explanation : (-> any/c (or/c boolean? (-> blame? any)))
+  name : any/c = (object-name get-explanation)
+procedure
+(flat-named-contract  name              
+                      flat-contract     
+                     [generator])   -> flat-contract?
+  name : any/c
+  flat-contract : flat-contract?
   generator : (or/c #f (-> contract (-> int? any))) = #f
 value
 any/c : flat-contract?
@@ -5418,6 +5892,9 @@ value
 none/c : flat-contract?
 procedure
 (or/c contract ...) -> contract?
+  contract : contract?
+procedure
+(first-or/c contract ...) -> contract?
   contract : contract?
 procedure
 (and/c contract ...) -> contract?
@@ -5450,8 +5927,12 @@ procedure
   m : real?
 procedure
 (integer-in j k) -> flat-contract?
-  j : exact-integer?
-  k : exact-integer?
+  j : (or/c exact-integer? #f)
+  k : (or/c exact-integer? #f)
+procedure
+(char-in a b) -> flat-contract?
+  a : char?
+  b : char?
 value
 natural-number/c : flat-contract?
 procedure
@@ -5470,10 +5951,12 @@ procedure
 procedure
 (vectorof  c                         
           [#:immutable immutable     
-           #:flat? flat?])       -> contract?
+           #:flat? flat?             
+           #:eager eager])       -> contract?
   c : contract?
   immutable : (or/c #t #f 'dont-care) = 'dont-care
   flat? : boolean? = #f
+  eager : (or/c #t #f exact-nonnegative-integer?) = #t
 procedure
 (vector-immutableof c) -> contract?
   c : contract?
@@ -5489,57 +5972,78 @@ procedure
 (vector-immutable/c c ...) -> contract?
   c : contract?
 procedure
-(box/c  c                         
-       [#:immutable immutable     
+(box/c  in-c                      
+       [c                         
+        #:immutable immutable     
         #:flat? flat?])       -> contract?
-  c : contract?
+  in-c : contract?
+  c : contract? = in-c
   immutable : (or/c #t #f 'dont-care) = 'dont-care
   flat? : boolean? = #f
 procedure
 (box-immutable/c c) -> contract?
   c : contract?
 procedure
-(listof c) -> contract?
+(listof c) -> list-contract?
   c : contract?
 procedure
-(non-empty-listof c) -> contract?
+(non-empty-listof c) -> list-contract?
   c : contract?
+procedure
+(list*of ele-c [last-c]) -> contract?
+  ele-c : contract?
+  last-c : contract? = ele-c
 procedure
 (cons/c car-c cdr-c) -> contract?
   car-c : contract?
   cdr-c : contract?
+syntax
+(cons/dc [car-id contract-expr] [cdr-id (car-id) contract-expr] cons/dc-option)
+(cons/dc [car-id (cdr-id) contract-expr] [cdr-id contract-expr] cons/dc-option)
+ 
+cons/dc-option = 
+               | #:flat
+               | #:chaperone
+               | #:impersonator
 procedure
-(list/c c ...) -> contract?
+(list/c c ...) -> list-contract?
   c : contract?
+procedure
+(*list/c prefix suffix ...) -> list-contract?
+  prefix : contract?
+  suffix : contract?
 procedure
 (syntax/c c) -> flat-contract?
   c : flat-contract?
 syntax
 (struct/c struct-id contract-expr ...)
 syntax
-(struct/dc struct-id field-spec ...)
+(struct/dc struct-id field-spec ... maybe-inv)
  
-field-spec          = [field-name maybe-lazy contract-expr]
-                    | [field-name (dep-field-name ...)
+         field-spec = [field-name maybe-lazy contract-expr]
+                    | [field-name (dep-field-name ...)
                                   maybe-lazy
                                   maybe-contract-type
                                   maybe-dep-state
                                   contract-expr]
-                       
-field-name          = field-id
-                    | (#:selector selector-id)
-                    | (field-id #:parent struct-id)
-                       
-maybe-lazy          = 
-                    | #:lazy
-                       
+                       
+         field-name = field-id
+                    | (#:selector selector-id)
+                    | (field-id #:parent struct-id)
+                       
+         maybe-lazy = 
+                    | #:lazy
+                       
 maybe-contract-type = 
-                    | #:flat
-                    | #:chaperone
-                    | #:impersonator
-                       
-maybe-dep-state     = 
-                    | #:depends-on-state
+                    | #:flat
+                    | #:chaperone
+                    | #:impersonator
+                       
+    maybe-dep-state = 
+                    | #:depends-on-state
+                       
+          maybe-inv = 
+                    | #:inv (dep-field-name ...) invariant-expr
 procedure
 (parameter/c in [out]) -> contract?
   in : contract?
@@ -5556,6 +6060,13 @@ procedure
   val : contract?
   immutable : (or/c #t #f 'dont-care) = 'dont-care
   flat? : boolean? = #f
+syntax
+(hash/dc [key-id key-contract-expr] [value-id (key-id) value-contract-expr]
+         hash/dc-option)
+ 
+hash/dc-option = 
+               | #:immutable immutable?-expr hash/dc-option
+               | #:kind kind-expr hash/dc-option
 procedure
 (channel/c val) -> contract?
   val : contract?
@@ -5563,13 +6074,16 @@ syntax
 (prompt-tag/c contract ... maybe-call/cc)
  
 maybe-call/cc = 
-              | #:call/cc contract
-              | #:call/cc (values contract ...)
+              | #:call/cc contract
+              | #:call/cc (values contract ...)
  
   contract : contract?
 procedure
 (continuation-mark-key/c contract) -> contract?
   contract : contract?
+procedure
+(evt/c contract ...) -> chaperone-contract?
+  contract : chaperone-contract?
 syntax
 (flat-rec-contract id flat-contract-expr ...)
 syntax
@@ -5585,84 +6099,103 @@ procedure
 procedure
 (flat-contract-predicate v) -> (-> any/c any/c)
   v : flat-contract?
+procedure
+(suggest/c c field message) -> contract?
+  c : contract?
+  field : string?
+  message : string?
 syntax
 (-> dom ... range)
+(-> dom ... ellipsis dom-expr ... range)
  
-dom   = dom-expr
-      | keyword dom-expr
-         
-range = range-expr
-      | (values range-expr ...)
-      | any
+     dom = dom-expr
+         | keyword dom-expr
+            
+   range = range-expr
+         | (values range-expr ...)
+         | any
+            
+ellipsis = ...
 syntax
 (->* (mandatory-dom ...) optional-doms rest pre range post)
  
 mandatory-dom = dom-expr
-              | keyword dom-expr
-                 
+              | keyword dom-expr
+                 
 optional-doms = 
-              | (optional-dom ...)
-                 
-optional-dom  = dom-expr
-              | keyword dom-expr
-                 
-rest          = 
-              | #:rest rest-expr
-                 
-pre           = 
-              | #:pre pre-cond-expr
-                 
-range         = range-expr
-              | (values range-expr ...)
-              | any
-                 
-post          = 
-              | #:post post-cond-expr
+              | (optional-dom ...)
+                 
+ optional-dom = dom-expr
+              | keyword dom-expr
+                 
+         rest = 
+              | #:rest rest-expr
+                 
+          pre = 
+              | #:pre pre-cond-expr
+              | #:pre/desc pre-cond-expr
+                 
+        range = range-expr
+              | (values range-expr ...)
+              | any
+                 
+         post = 
+              | #:post post-cond-expr
+              | #:post/desc post-cond-expr
 syntax
-(->i (mandatory-dependent-dom ...)
+(->i maybe-chaperone
+     (mandatory-dependent-dom ...)
      dependent-rest
      pre-condition
      dependent-range
      post-condition)
-(->i (mandatory-dependent-dom ...)
+(->i maybe-chaperone
+     (mandatory-dependent-dom ...)
      (optional-dependent-dom ...)
      dependent-rest
      pre-condition
      dependent-range
      post-condition)
  
+        maybe-chaperone = #:chaperone
+                        | 
+                           
 mandatory-dependent-dom = id+ctc
-                        | keyword id+ctc
-                           
-optional-dependent-dom  = id+ctc
-                        | keyword id+ctc
-                           
-dependent-rest          = 
-                        | #:rest id+ctc
-                           
-pre-condition           = 
-                        | #:pre (id ...)
+                        | keyword id+ctc
+                           
+ optional-dependent-dom = id+ctc
+                        | keyword id+ctc
+                           
+         dependent-rest = 
+                        | #:rest id+ctc
+                           
+          pre-condition = 
+                        | #:pre (id ...)
                           boolean-expr pre-condition
-                        | #:pre/name (id ...)
+                        | #:pre/desc (id ...)
+                          expr pre-condition
+                        | #:pre/name (id ...)
                           string boolean-expr pre-condition
-                           
-dependent-range         = any
-                        | id+ctc
-                        | un+ctc
-                        | (values id+ctc ...)
-                        | (values un+ctc ...)
-                           
-post-condition          = 
-                        | #:post (id ...)
+                           
+        dependent-range = any
+                        | id+ctc
+                        | un+ctc
+                        | (values id+ctc ...)
+                        | (values un+ctc ...)
+                           
+         post-condition = 
+                        | #:post (id ...)
                           boolean-expr post-condition
-                        | #:post/name (id ...)
+                        | #:post/desc (id ...)
+                          expr post-condition
+                        | #:post/name (id ...)
                           string boolean-expr post-condition
-                           
-id+ctc                  = [id contract-expr]
-                        | [id (id ...) contract-expr]
-                           
-un+ctc                  = [_ contract-expr]
-                        | [_ (id ...) contract-expr]
+                           
+                 id+ctc = [id contract-expr]
+                        | [id (id ...) contract-expr]
+                           
+                 un+ctc = [_ contract-expr]
+                        | [_ (id ...) contract-expr]
 syntax
 (->d (mandatory-dependent-dom ...)
      dependent-rest
@@ -5677,35 +6210,54 @@ syntax
      post-condition)
  
 mandatory-dependent-dom = [id dom-expr]
-                        | keyword [id dom-expr]
-                           
-optional-dependent-dom  = [id dom-expr]
-                        | keyword [id dom-expr]
-                           
-dependent-rest          = 
-                        | #:rest id rest-expr
-                           
-pre-condition           = 
-                        | #:pre boolean-expr
-                        | #:pre-cond boolean-expr
-                           
-dependent-range         = any
-                        | [_ range-expr]
-                        | (values [_ range-expr] ...)
-                        | [id range-expr]
-                        | (values [id range-expr] ...)
-                           
-post-condition          = 
-                        | #:post-cond boolean-expr
+                        | keyword [id dom-expr]
+                           
+ optional-dependent-dom = [id dom-expr]
+                        | keyword [id dom-expr]
+                           
+         dependent-rest = 
+                        | #:rest id rest-expr
+                           
+          pre-condition = 
+                        | #:pre boolean-expr
+                        | #:pre-cond boolean-expr
+                           
+        dependent-range = any
+                        | [_ range-expr]
+                        | (values [_ range-expr] ...)
+                        | [id range-expr]
+                        | (values [id range-expr] ...)
+                           
+         post-condition = 
+                        | #:post-cond boolean-expr
 syntax
 (case-> (-> dom-expr ... rest range) ...)
  
-rest  = 
-      | #:rest rest-expr
-         
+ rest = 
+      | #:rest rest-expr
+         
 range = range-expr
-      | (values range-expr ...)
-      | any
+      | (values range-expr ...)
+      | any
+procedure
+(dynamic->*                                                            
+            [#:mandatory-domain-contracts mandatory-domain-contracts   
+             #:optional-domain-contracts optional-domain-contracts     
+             #:mandatory-keywords mandatory-keywords                   
+             #:mandatory-keyword-contracts mandatory-keyword-contracts 
+             #:optional-keywords optional-keywords                     
+             #:optional-keyword-contracts optional-keyword-contracts   
+             #:rest-contract rest-contract]                            
+             #:range-contracts range-contracts)                        
+ -> contract?
+  mandatory-domain-contracts : (listof contract?) = '()
+  optional-domain-contracts : (listof contract?) = '()
+  mandatory-keywords : (listof keyword?) = '()
+  mandatory-keyword-contracts : (listof contract?) = '()
+  optional-keywords : (listof keyword?) = '()
+  optional-keyword-contracts : (listof contract?) = '()
+  rest-contract : (or/c #f contract?) = #f
+  range-contracts : (or/c #f (listof contract?))
 syntax
 (unconstrained-domain-> range-expr ...)
 value
@@ -5718,18 +6270,18 @@ procedure
 syntax
 (parametric->/c (x ...) c)
 procedure
-(new-∀/c name) -> contract?
-  name : symbol?
+(new-∀/c [name]) -> contract?
+  name : (or/c symbol? #f) = #f
 procedure
-(new-∃/c name) -> contract?
-  name : symbol?
+(new-∃/c [name]) -> contract?
+  name : (or/c symbol? #f) = #f
 syntax
 (contract-struct id (field-id ...))
 
 (id/dc field-spec ...)
  
 field-spec = [field-id contract-expr]
-           | [field-id (field-id ...) contract-expr]
+           | [field-id (field-id ...) contract-expr]
 syntax
 (define-contract-struct id (field-id ...))
 procedure
@@ -5738,23 +6290,23 @@ procedure
 syntax
 (contract-out p/c-item ...)
  
-p/c-item       = (struct id/super ((id contract-expr) ...)
+      p/c-item = (struct id/super ((id contract-expr) ...)
                    struct-option)
-               | (rename orig-id id contract-expr)
-               | (id contract-expr)
-               | #:∃ poly-variables
-               | #:exists poly-variables
-               | #:∀ poly-variables
-               | #:forall poly-variables
-                  
+               | (rename orig-id id contract-expr)
+               | (id contract-expr)
+               | #:∃ poly-variables
+               | #:exists poly-variables
+               | #:∀ poly-variables
+               | #:forall poly-variables
+                  
 poly-variables = id
-               | (id ...)
-                  
-id/super       = id
-               | (id super-id)
-                  
-struct-option  = 
-               | #:omit-constructor
+               | (id ...)
+                  
+      id/super = id
+               | (id super-id)
+                  
+ struct-option = 
+               | #:omit-constructor
 syntax
 (recontract-out id ...)
 syntax
@@ -5763,14 +6315,14 @@ syntax
 (with-contract blame-id (wc-export ...) free-var-list ... body ...+)
 (with-contract blame-id results-spec free-var-list ... body ...+)
  
-wc-export     = (id contract-expr)
-                 
-result-spec   = #:result contract-expr
-              | #:results (contract-expr ...)
-                 
+    wc-export = (id contract-expr)
+                 
+  result-spec = #:result contract-expr
+              | #:results (contract-expr ...)
+                 
 free-var-list = 
-              | #:freevar id contract-expr
-              | #:freevars ([id contract-expr] ...)
+              | #:freevar id contract-expr
+              | #:freevars ([id contract-expr] ...)
 syntax
 (define/contract id contract-expr free-var-list init-value-expr)
 (define/contract (head args) contract-expr free-var-list body ...+)
@@ -5781,19 +6333,25 @@ syntax
                         ([field contract-expr] ...)
                         struct-option ...)
 syntax
+(invariant-assertion invariant-expr expr)
+syntax
 current-contract-region
 syntax
 (define-module-boundary-contract id
   orig-id
   contract-expr
   pos-blame-party
-  source-loc)
+  source-loc
+  name-for-blame)
  
 pos-blame-party = 
-                | #:pos-source pos-source-expr
-                   
-source-loc      = 
-                | #:srcloc srcloc-expr
+                | #:pos-source pos-source-expr
+                   
+     source-loc = 
+                | #:srcloc srcloc-expr
+                   
+ name-for-blame = 
+                | #:name-for-blame blame-id
 syntax
 (contract contract-expr to-protect-expr
           positive-blame-expr negative-blame-expr)
@@ -5803,12 +6361,16 @@ syntax
 procedure
 (make-contract [#:name name                           
                 #:first-order test                    
+                #:late-neg-projection late-neg-proj   
                 #:val-first-projection val-first-proj 
                 #:projection proj                     
-                #:stronger stronger])                 
+                #:stronger stronger                   
+                #:list-contract? is-list-contract?])  
  -> contract?
   name : any/c = 'anonymous-contract
   test : (-> any/c any/c) = (λ (x) #t)
+  late-neg-proj : (or/c #f (-> blame? (-> any/c any/c any/c)))
+                = #f
   val-first-proj : (or/c #f (-> blame? (-> any/c (-> any/c any/c))))
                  = #f
   proj : (-> blame? (-> any/c any/c))
@@ -5821,16 +6383,21 @@ procedure
                 '(expected: "~a" given: "~e")
                 name x))))
   stronger : (or/c #f (-> contract? contract? boolean?)) = #f
+  is-list-contract? : boolean? = #f
 procedure
 (make-chaperone-contract                                        
                          [#:name name                           
                           #:first-order test                    
+                          #:late-neg-projection late-neg-proj   
                           #:val-first-projection val-first-proj 
                           #:projection proj                     
-                          #:stronger stronger])                 
+                          #:stronger stronger                   
+                          #:list-contract? is-list-contract?])  
  -> chaperone-contract?
   name : any/c = 'anonymous-chaperone-contract
   test : (-> any/c any/c) = (λ (x) #t)
+  late-neg-proj : (or/c #f (-> blame? (-> any/c any/c any/c)))
+                = #f
   val-first-proj : (or/c #f (-> blame? (-> any/c (-> any/c any/c))))
                  = #f
   proj : (-> blame? (-> any/c any/c))
@@ -5843,15 +6410,20 @@ procedure
                 '(expected: "~a" given: "~e")
                 name x))))
   stronger : (or/c #f (-> contract? contract? boolean?)) = #f
+  is-list-contract? : boolean? = #f
 procedure
 (make-flat-contract [#:name name                           
                      #:first-order test                    
+                     #:late-neg-projection late-neg-proj   
                      #:val-first-projection val-first-proj 
                      #:projection proj                     
-                     #:stronger stronger])                 
+                     #:stronger stronger                   
+                     #:list-contract? is-list-contract?])  
  -> flat-contract?
   name : any/c = 'anonymous-flat-contract
   test : (-> any/c any/c) = (λ (x) #t)
+  late-neg-proj : (or/c #f (-> blame? (-> any/c any/c any/c)))
+                = #f
   val-first-proj : (or/c #f (-> blame? (-> any/c (-> any/c any/c))))
                  = #f
   proj : (-> blame? (-> any/c any/c))
@@ -5864,39 +6436,71 @@ procedure
                 '(expected: "~a" given: "~e")
                 name x))))
   stronger : (or/c #f (-> contract? contract? boolean?)) = #f
+  is-list-contract? : boolean? = #f
 procedure
 (build-compound-type-name c/s ...) -> any
   c/s : any/c
 procedure
-(coerce-contract id x) -> contract?
+(coerce-contract id v) -> contract?
   id : symbol?
-  x : any/c
+  v : any/c
 procedure
-(coerce-contracts id xs) -> (listof contract?)
+(coerce-contracts id vs) -> (listof contract?)
   id : symbol?
-  xs : (listof any/c)
+  vs : (listof any/c)
 procedure
-(coerce-chaperone-contract id x) -> chaperone-contract?
+(coerce-chaperone-contract id v) -> chaperone-contract?
   id : symbol?
-  x : any/c
+  v : any/c
 procedure
-(coerce-chaperone-contracts id x) -> (listof chaperone-contract?)
+(coerce-chaperone-contracts id vs)
+ -> (listof chaperone-contract?)
   id : symbol?
-  x : (listof any/c)
+  vs : (listof any/c)
 procedure
-(coerce-flat-contract id x) -> flat-contract?
+(coerce-flat-contract id v) -> flat-contract?
   id : symbol?
-  x : any/c
+  v : any/c
 procedure
-(coerce-flat-contracts id x) -> (listof flat-contract?)
+(coerce-flat-contracts id v) -> (listof flat-contract?)
   id : symbol?
-  x : (listof any/c)
+  v : (listof any/c)
 procedure
-(coerce-contract/f x) -> (or/c contract? #f)
-  x : any/c
+(coerce-contract/f v) -> (or/c contract? #f)
+  v : any/c
 procedure
-(blame? x) -> boolean?
-  x : any/c
+(get/build-val-first-projection c)
+ -> (-> blame? (-> any/c (-> any/c any/c)))
+  c : contract?
+procedure
+(get/build-late-neg-projection c)
+ -> (-> blame? (-> any/c any/c any/c))
+  c : contract?
+parameter
+(skip-projection-wrapper?) -> boolean?
+(skip-projection-wrapper? wrap?) -> void?
+  wrap? : boolean?
+ = #f
+syntax
+(with-contract-continuation-mark blame body ...)
+(with-contract-continuation-mark blame+neg-party body ...)
+procedure
+(blame? v) -> boolean?
+  v : any/c
+procedure
+(raise-blame-error b                                 
+                   #:missing-party missing-party     
+                   v                                 
+                   fmt                               
+                   v-fmt ...)                    -> none/c
+  b : blame?
+  missing-party : #f
+  v : any/c
+  fmt : (or/c string?
+              (listof (or/c string?
+                            'given 'given:
+                            'expected 'expected:)))
+  v-fmt : any/c
 procedure
 (blame-add-context  blame                     
                     context                   
@@ -5940,17 +6544,16 @@ procedure
   pos : any/c
   neg : any/c
 procedure
-(raise-blame-error b x fmt v ...) -> none/c
+(blame-missing-party? b) -> boolean?
   b : blame?
-  x : any/c
-  fmt : (or/c string?
-              (listof (or/c string?
-                            'given 'given:
-                            'expected 'expected:)))
-  v : any/c
+procedure
+(blame-add-missing-party b missing-party)
+ -> (and/c blame? (not/c blame-missing-party?))
+  b : (and/c blame? blame-missing-party?)
+  missing-party : any/c
 struct
 (struct exn:fail:contract:blame exn:fail:contract (object)
-        #:extra-constructor-name make-exn:fail:contract:blame)
+    #:extra-constructor-name make-exn:fail:contract:blame)
   object : blame?
 parameter
 (current-blame-format) -> (-> blame? any/c string? string?)
@@ -5966,19 +6569,27 @@ value
 prop:contracted : struct-type-property?
 value
 impersonator-prop:contracted : impersonator-property?
+value
+prop:blame : struct-type-property?
+value
+impersonator-prop:blame : impersonator-property?
 procedure
 (build-flat-contract-property                                        
                               [#:name get-name                       
                                #:first-order get-first-order         
+                               #:late-neg-projection late-neg-proj   
                                #:val-first-projection val-first-proj 
                                #:projection get-projection           
                                #:stronger stronger                   
-                               #:generator generator])               
+                               #:generate generate                   
+                               #:list-contract? is-list-contract?])  
  -> flat-contract-property?
   get-name : (-> contract? any/c)
            = (λ (c) 'anonymous-flat-contract)
   get-first-order : (-> contract? (-> any/c boolean?))
                   = (λ (c) (λ (x) #t))
+  late-neg-proj : (or/c #f (-> contract? (-> blame? (-> any/c any/c any/c))))
+                = #f
   val-first-proj : (or/c #f (-> contract? blame? (-> any/c (-> any/c any/c))))
                  = #f
   get-projection : (-> contract? (-> blame? (-> any/c any/c)))
@@ -5991,22 +6602,32 @@ procedure
                               b x '(expected: "~a" given: "~e")
                               (get-name c) x)))))
   stronger : (or/c (-> contract? contract? boolean?) #f) = #f
-  generator : (or/c (-> number? (listof (list any/c contract?)) any/c)
-                    #f)
-            = #f
+  generate : (->i ([c contract?])
+                  ([generator
+                    (c)
+                    (-> (and/c positive? real?)
+                        (or/c (-> (or/c contract-random-generate-fail? c))
+                              #f))]))
+           = (λ (c) (λ (fuel) #f))
+  is-list-contract? : (-> contract? boolean?) = (λ (c) #f)
 procedure
 (build-chaperone-contract-property                                        
                                    [#:name get-name                       
                                     #:first-order get-first-order         
+                                    #:late-neg-projection late-neg-proj   
                                     #:val-first-projection val-first-proj 
                                     #:projection get-projection           
                                     #:stronger stronger                   
-                                    #:generator generator])               
+                                    #:generate generate                   
+                                    #:exercise exercise                   
+                                    #:list-contract? is-list-contract?])  
  -> chaperone-contract-property?
   get-name : (-> contract? any/c)
            = (λ (c) 'anonymous-chaperone-contract)
   get-first-order : (-> contract? (-> any/c boolean?))
                   = (λ (c) (λ (x) #t))
+  late-neg-proj : (or/c #f (-> contract? blame? (-> any/c any/c any/c)))
+                = #f
   val-first-proj : (or/c #f (-> contract? blame? (-> any/c (-> any/c any/c))))
                  = #f
   get-projection : (-> contract? (-> blame? (-> any/c any/c)))
@@ -6019,21 +6640,39 @@ procedure
                               b x '(expected: "~a" given: "~e")
                               (get-name c) x)))))
   stronger : (or/c (-> contract? contract? boolean?) #f) = #f
-  generator : (or/c (-> number? (listof (list any/c contract?)) any/c)
-                    #f)
-            = #f
+  generate : (->i ([c contract?])
+                  ([generator
+                    (c)
+                    (-> (and/c positive? real?)
+                        (or/c (-> (or/c contract-random-generate-fail? c))
+                              #f))]))
+           = (λ (c) (λ (fuel) #f))
+  exercise : (->i ([c contract?])
+                  ([result
+                    (c)
+                    (-> (and/c positive? real?)
+                        (values
+                         (-> c void?)
+                         (listof contract?)))]))
+           = (λ (c) (λ (fuel) (values void '())))
+  is-list-contract? : (-> contract? boolean?) = (λ (c) #f)
 procedure
 (build-contract-property                                        
                          [#:name get-name                       
                           #:first-order get-first-order         
+                          #:late-neg-projection late-neg-proj   
                           #:val-first-projection val-first-proj 
                           #:projection get-projection           
                           #:stronger stronger                   
-                          #:generator generator])               
+                          #:generate generate                   
+                          #:exercise exercise                   
+                          #:list-contract? is-list-contract?])  
  -> contract-property?
   get-name : (-> contract? any/c) = (λ (c) 'anonymous-contract)
   get-first-order : (-> contract? (-> any/c boolean?))
                   = (λ (c) (λ (x) #t))
+  late-neg-proj : (or/c #f (-> contract? blame? (-> any/c any/c any/c)))
+                = #f
   val-first-proj : (or/c #f (-> contract? blame? (-> any/c (-> any/c any/c))))
                  = #f
   get-projection : (-> contract? (-> blame? (-> any/c any/c)))
@@ -6046,34 +6685,47 @@ procedure
                               b x '(expected: "~a" given: "~e")
                               (get-name c) x)))))
   stronger : (or/c (-> contract? contract? boolean?) #f) = #f
-  generator : (or/c (-> number? (listof (list any/c contract?)) any/c)
-                    #f)
-            = #f
+  generate : (->i ([c contract?])
+                  ([generator
+                    (c)
+                    (-> (and/c positive? real?)
+                        (or/c (-> (or/c contract-random-generate-fail? c))
+                              #f))]))
+           = (λ (c) (λ (fuel) #f))
+  exercise : (->i ([c contract?])
+                  ([result
+                    (c)
+                    (-> (and/c positive? real?)
+                        (values
+                         (-> c void?)
+                         (listof contract?)))]))
+           = (λ (c) (λ (fuel) (values void '())))
+  is-list-contract? : (-> contract? boolean?) = (λ (c) #f)
 procedure
-(contract-property? x) -> boolean?
-  x : any/c
+(contract-property? v) -> boolean?
+  v : any/c
 procedure
-(chaperone-contract-property? x) -> boolean?
-  x : any/c
+(chaperone-contract-property? v) -> boolean?
+  v : any/c
 procedure
-(flat-contract-property? x) -> boolean?
-  x : any/c
+(flat-contract-property? v) -> boolean?
+  v : any/c
 syntax
 (define/final-prop header body ...)
  
 header = main-id
-       | (main-id id ...)
-       | (main-id id ... . id)
+       | (main-id id ...)
+       | (main-id id ... . id)
 syntax
 (define/subexpression-pos-prop header body ...)
  
 header = main-id
-       | (main-id id ...)
-       | (main-id id ... . id)
+       | (main-id id ...)
+       | (main-id id ... . id)
 procedure
-(contract-stronger? x y) -> boolean?
-  x : contract?
-  y : contract?
+(contract-stronger? c1 c2) -> boolean?
+  c1 : contract?
+  c2 : contract?
 procedure
 (contract-first-order-passes? contract v) -> boolean?
   contract : contract?
@@ -6094,32 +6746,78 @@ procedure
 (flat-contract? v) -> boolean?
   v : any/c
 procedure
+(list-contract? v) -> boolean?
+  v : any/c
+procedure
 (contract-name c) -> any/c
   c : contract?
 procedure
-(value-contract v) -> contract?
+(value-contract v) -> (or/c contract? #f)
   v : has-contract?
 procedure
 (has-contract? v) -> boolean?
   v : any/c
 procedure
+(value-blame v) -> (or/c blame? #f)
+  v : has-blame?
+procedure
+(has-blame? v) -> boolean?
+  v : any/c
+procedure
+(contract-late-neg-projection c)
+ -> (-> blame? (-> any/c (or/c #f any/c) any/c))
+  c : contract?
+procedure
 (contract-projection c) -> (-> blame? (-> any/c any/c))
+  c : contract?
+procedure
+(contract-val-first-projection c)
+ -> (-> blame? (-> any/c (-> any/c any/c)))
   c : contract?
 procedure
 (make-none/c sexp-name) -> contract?
   sexp-name : any/c
 syntax
-(recursive-contract contract-expr)
-(recursive-contract contract-expr type)
+(recursive-contract contract-expr recursive-contract-option ...)
+(recursive-contract contract-expr type recursive-contract-option ...)
+ 
+recursive-contract-option = #:list-contract?
+                          | #:extra-delay
+                             
+                     type = #:impersonator
+                          | #:chaperone
+                          | #:flat
 syntax
 (opt/c contract-expr maybe-name)
  
 maybe-name = 
-           | #:error-name id
+           | #:error-name id
 syntax
 (define-opt/c (id id ...) expr)
 value
 contract-continuation-mark-key : continuation-mark-key?
+procedure
+(contract-custom-write-property-proc c         
+                                     p         
+                                     mode) -> void?
+  c : contract?
+  p : output-port?
+  mode : (or/c #f #t 0 1)
+procedure
+(rename-contract contract name) -> contract?
+  contract : contract?
+  name : any/c
+syntax
+(contract-first-order-okay-to-give-up?)
+syntax
+(contract-first-order-try-less-hard e)
+procedure
+(if/c predicate then-contract else-contract) -> contract?
+  predicate : (-> any/c any/c)
+  then-contract : contract?
+  else-contract : contract?
+value
+failure-result/c : contract?
 procedure
 (make-proj-contract name proj first-order) -> contract?
   name : any/c
@@ -6155,42 +6853,65 @@ procedure
          (-> any/c any))
   c : contract?
 procedure
-(contract-random-generate ctc fuel [fail]) -> any/c
+(contract-random-generate ctc [fuel fail]) -> any/c
   ctc : contract?
-  fuel : int?
-  fail : (-> any/c) = (λ () (error ...))
+  fuel : 5 = exact-nonnegative-integer?
+  fail : (or/c #f (-> any) (-> boolean? any)) = #f
+procedure
+(contract-exercise val ...+) -> void?
+  val : any/c
+procedure
+(contract-random-generate/choose c fuel) -> (or/c #f (-> c))
+  c : contract?
+  fuel : exact-nonnegative-integer?
+value
+contract-random-generate-fail : contract-random-generate-fail?
+procedure
+(contract-random-generate-fail? v) -> boolean?
+  v : any/c
+procedure
+(contract-random-generate-env? v) -> boolean?
+  v : any/c
+procedure
+(contract-random-generate-stash env c v) -> void?
+  env : contract-random-generate-env?
+  c : contract?
+  v : c
+procedure
+(contract-random-generate-get-current-environment)
+ -> contract-random-generate-env?
 syntax
 (match val-expr clause ...)
  
 clause = [pat body ...+]
-       | [pat (=> id) body ...+]
-       | [pat #:when cond-expr body ...+]
+       | [pat (=> id) body ...+]
+       | [pat #:when cond-expr body ...+]
 syntax
 (match* (val-expr ...+) clause* ...)
  
 clause* = [(pat ...+) body ...+]
-        | [(pat ...+) (=> id) body ...+]
-        | [(pat ...+) #:when cond-expr body ...+]
+        | [(pat ...+) (=> id) body ...+]
+        | [(pat ...+) #:when cond-expr body ...+]
 syntax
 (match/values expr clause clause ...)
 syntax
 (define/match (head args)
   match*-clause ...)
  
-head          = id
-              | (head args)
-                 
-args          = arg ...
-              | arg ... . rest-id
-                 
-arg           = arg-id
-              | [arg-id default-expr]
-              | keyword arg-id
-              | keyword [arg-id default-expr]
-                 
+         head = id
+              | (head args)
+                 
+         args = arg ...
+              | arg ... . rest-id
+                 
+          arg = arg-id
+              | [arg-id default-expr]
+              | keyword arg-id
+              | keyword [arg-id default-expr]
+                 
 match*-clause = [(pat ...+) body ...+]
-              | [(pat ...+) (=> id) body ...+]
-              | [(pat ...+) #:when cond-expr body ...+]
+              | [(pat ...+) (=> id) body ...+]
+              | [(pat ...+) #:when cond-expr body ...+]
 syntax
 (match-lambda clause ...)
 syntax
@@ -6207,6 +6928,8 @@ syntax
 (match-let*-values ([(pat ...) expr] ...) body ...+)
 syntax
 (match-letrec ([pat expr] ...) body ...+)
+syntax
+(match-letrec-values ([(pat ...) expr] ...) body ...+)
 syntax
 (match-define pat expr)
 syntax
@@ -6229,6 +6952,9 @@ procedure
 procedure
 (legacy-match-expander? v) -> boolean?
   v : any/c
+procedure
+(syntax-local-match-introduce stx) -> syntax?
+  stx : syntax?
 parameter
 (match-equality-test) -> (any/c any/c . -> . any)
 (match-equality-test comp-proc) -> void?
@@ -6345,14 +7071,14 @@ procedure
   message : string?
   v : any/c
 procedure
-(raise-arity-error name arity-v [arg-v ...]) -> any
+(raise-arity-error name arity-v arg-v ...) -> any
   name : (or/c symbol? procedure?)
   arity-v : (or/c exact-nonnegative-integer?
                   arity-at-least?
                   (listof
                    (or/c exact-nonnegative-integer?
                          arity-at-least?)))
-  arg-v : any/c = #f
+  arg-v : any/c
 procedure
 (raise-syntax-error  name                
                      message             
@@ -6364,6 +7090,15 @@ procedure
   expr : any/c = #f
   sub-expr : any/c = #f
   extra-sources : (listof syntax?) = null
+procedure
+(unquoted-printing-string? v) -> boolean?
+  v : any/c
+procedure
+(unquoted-printing-string s) -> unquoted-printing-string?
+  s : string?
+procedure
+(unquoted-printing-string-value ups) -> string?
+  ups : unquoted-printing-string?
 procedure
 (call-with-exception-handler f thunk) -> any
   f : (any/c . -> . any)
@@ -6409,128 +7144,126 @@ parameter
   include? : any/c
 struct
 (struct exn (message continuation-marks)
-        #:extra-constructor-name make-exn
-        #:transparent)
+    #:extra-constructor-name make-exn
+    #:transparent)
   message : string?
   continuation-marks : continuation-mark-set?
 struct
 (struct exn:fail exn ()
-        #:extra-constructor-name make-exn:fail
-        #:transparent)
+    #:extra-constructor-name make-exn:fail
+    #:transparent)
 struct
 (struct exn:fail:contract exn:fail ()
-        #:extra-constructor-name make-exn:fail:contract
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:contract
+    #:transparent)
 struct
 (struct exn:fail:contract:arity exn:fail:contract ()
-        #:extra-constructor-name make-exn:fail:contract:arity
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:contract:arity
+    #:transparent)
 struct
 (struct exn:fail:contract:divide-by-zero exn:fail:contract ()
-        #:extra-constructor-name
-        make-exn:fail:contract:divide-by-zero
-        #:transparent)
+    #:extra-constructor-name
+    make-exn:fail:contract:divide-by-zero
+    #:transparent)
 struct
 (struct exn:fail:contract:non-fixnum-result exn:fail:contract ()
-        #:extra-constructor-name
-        make-exn:fail:contract:non-fixnum-result
-        #:transparent)
+    #:extra-constructor-name
+    make-exn:fail:contract:non-fixnum-result
+    #:transparent)
 struct
 (struct exn:fail:contract:continuation exn:fail:contract ()
-        #:extra-constructor-name
-        make-exn:fail:contract:continuation
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:contract:continuation
+    #:transparent)
 struct
 (struct exn:fail:contract:variable exn:fail:contract (id)
-        #:extra-constructor-name make-exn:fail:contract:variable
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:contract:variable
+    #:transparent)
   id : symbol?
 struct
 (struct exn:fail:syntax exn:fail (exprs)
-        #:extra-constructor-name make-exn:fail:syntax
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:syntax
+    #:transparent)
   exprs : (listof syntax?)
 struct
 (struct exn:fail:syntax:unbound exn:fail:syntax ()
-        #:extra-constructor-name make-exn:fail:syntax:unbound
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:syntax:unbound
+    #:transparent)
 struct
 (struct exn:fail:syntax:missing-module exn:fail:syntax (path)
-        #:extra-constructor-name
-        make-exn:fail:syntax:missing-module
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:syntax:missing-module
+    #:transparent)
   path : module-path?
 struct
 (struct exn:fail:read exn:fail (srclocs)
-        #:extra-constructor-name make-exn:fail:read
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:read
+    #:transparent)
   srclocs : (listof srcloc?)
 struct
 (struct exn:fail:read:eof exn:fail:read ()
-        #:extra-constructor-name make-exn:fail:read:eof
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:read:eof
+    #:transparent)
 struct
 (struct exn:fail:read:non-char exn:fail:read ()
-        #:extra-constructor-name make-exn:fail:read:non-char
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:read:non-char
+    #:transparent)
 struct
 (struct exn:fail:filesystem exn:fail ()
-        #:extra-constructor-name make-exn:fail:filesystem
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:filesystem
+    #:transparent)
 struct
 (struct exn:fail:filesystem:exists exn:fail:filesystem ()
-        #:extra-constructor-name make-exn:fail:filesystem:exists
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:filesystem:exists
+    #:transparent)
 struct
 (struct exn:fail:filesystem:version exn:fail:filesystem ()
-        #:extra-constructor-name make-exn:fail:filesystem:version
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:filesystem:version
+    #:transparent)
 struct
 (struct exn:fail:filesystem:errno exn:fail:filesystem (errno)
-        #:extra-constructor-name make-exn:fail:filesystem:errno
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:filesystem:errno
+    #:transparent)
   errno : (cons/c exact-integer? (or/c 'posix 'windows 'gai))
 struct
 (struct exn:fail:filesystem:missing-module exn:fail:filesystem
-                                                               (path)
-        #:extra-constructor-name
-        make-exn:fail:filesystem:missing-module
-        #:transparent)
+        (path)
+    #:extra-constructor-name
+    make-exn:fail:filesystem:missing-module
+    #:transparent)
   path : module-path?
 struct
 (struct exn:fail:network exn:fail ()
-        #:extra-constructor-name make-exn:fail:network
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:network
+    #:transparent)
 struct
 (struct exn:fail:network:errno exn:fail:network (errno)
-        #:extra-constructor-name make-exn:fail:network:errno
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:network:errno
+    #:transparent)
   errno : (cons/c exact-integer? (or/c 'posix 'windows 'gai))
 struct
 (struct exn:fail:out-of-memory exn:fail ()
-        #:extra-constructor-name make-exn:fail:out-of-memory
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:out-of-memory
+    #:transparent)
 struct
 (struct exn:fail:unsupported exn:fail ()
-        #:extra-constructor-name make-exn:fail:unsupported
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:unsupported
+    #:transparent)
 struct
 (struct exn:fail:user exn:fail ()
-        #:extra-constructor-name make-exn:fail:user
-        #:transparent)
+    #:extra-constructor-name make-exn:fail:user
+    #:transparent)
 struct
 (struct exn:break exn (continuation)
-        #:extra-constructor-name make-exn:break
-        #:transparent)
+    #:extra-constructor-name make-exn:break
+    #:transparent)
   continuation : continuation?
 struct
 (struct exn:break:hang-up exn:break ()
-        #:extra-constructor-name make-exn:break:hang-up
-        #:transparent)
+    #:extra-constructor-name make-exn:break:hang-up
+    #:transparent)
 struct
 (struct exn:break:terminate exn:break ()
-        #:extra-constructor-name make-exn:break:terminate
-        #:transparent)
+    #:extra-constructor-name make-exn:break:terminate
+    #:transparent)
 value
 prop:exn:srclocs : struct-type-property?
 procedure
@@ -6542,8 +7275,8 @@ procedure
   v : exn:srclocs?
 struct
 (struct srcloc (source line column position span)
-        #:extra-constructor-name make-srcloc
-        #:transparent)
+    #:extra-constructor-name make-srcloc
+    #:transparent)
   source : any/c
   line : (or/c exact-positive-integer? #f)
   column : (or/c exact-nonnegative-integer? #f)
@@ -6562,6 +7295,9 @@ procedure
  -> (exn:missing-module? . -> . module-path?)
   v : exn:srclocs?
 procedure
+(exn->string exn) -> string?
+  exn : (or/c exn? any/c)
+procedure
 (promise? v) -> boolean?
   v : any/c
 syntax
@@ -6579,6 +7315,9 @@ procedure
   promise : promise?
 syntax
 (delay/name body ...+)
+procedure
+(promise/name? promise) -> boolean?
+  promise : any/c
 syntax
 (delay/strict body ...+)
 syntax
@@ -6587,15 +7326,15 @@ syntax
 (delay/thread body/option ...+)
  
 body/option = body
-            | #:group thread-group-expr
+            | #:group thread-group-expr
 syntax
 (delay/idle body/option ...+)
  
 body/option = body
-            | #:wait-for wait-evt-expr
-            | #:work-while while-evt-expr
-            | #:tick tick-secs-expr
-            | #:use use-ratio-expr
+            | #:wait-for wait-evt-expr
+            | #:work-while while-evt-expr
+            | #:tick tick-secs-expr
+            | #:use use-ratio-expr
 procedure
 (call-with-continuation-prompt  proc           
                                [prompt-tag     
@@ -6810,6 +7549,9 @@ procedure
   break-param : break-parameterization?
   thunk : (-> any)
 procedure
+(break-parameterization? v) -> boolean?
+  v : any/c
+procedure
 (exit [v]) -> any
   v : any/c = #t
 parameter
@@ -6829,7 +7571,7 @@ procedure
 procedure
 (current-thread) -> thread?
 procedure
-(thread/suspend-to-kill thunk) -> thread
+(thread/suspend-to-kill thunk) -> thread?
   thunk : (-> any)
 procedure
 (call-in-nested-thread thunk [cust]) -> any
@@ -6889,17 +7631,17 @@ procedure
 (evt? v) -> boolean?
   v : any/c
 procedure
-(sync evt ...+) -> any
+(sync evt ...) -> any
   evt : evt?
 procedure
-(sync/timeout timeout evt ...+) -> any
+(sync/timeout timeout evt ...) -> any
   timeout : (or/c #f (and/c real? (not/c negative?)) (-> any))
   evt : evt?
 procedure
-(sync/enable-break evt ...+) -> any
+(sync/enable-break evt ...) -> any
   evt : evt?
 procedure
-(sync/timeout/enable-break timeout evt ...+) -> any
+(sync/timeout/enable-break timeout evt ...) -> any
   timeout : (or/c #f (and/c real? (not/c negative?)) (-> any))
   evt : evt?
 procedure
@@ -6915,13 +7657,17 @@ procedure
   handle : (any/c ... . -> . any)
 procedure
 (guard-evt maker) -> evt?
-  maker : (-> evt?)
+  maker : (-> (or/c evt? any/c))
 procedure
 (nack-guard-evt maker) -> evt?
-  maker : (evt? . -> . evt?)
+  maker : (evt? . -> . (or/c evt? any/c))
 procedure
 (poll-guard-evt maker) -> evt?
-  maker : (boolean? . -> . evt?)
+  maker : (boolean? . -> . (or/c evt? any/c))
+procedure
+(replace-evt evt maker) -> evt?
+  evt : evt?
+  maker : (any/c ... . -> . (or/c evt? any/c))
 value
 always-evt : evt?
 value
@@ -7026,6 +7772,35 @@ procedure
   ach : async-channel?
   v : any/c
 procedure
+(async-channel/c c) -> contract?
+  c : contract?
+procedure
+(impersonate-async-channel channel      
+                           get-proc     
+                           put-proc     
+                           prop         
+                           prop-val ... 
+                           ...)         
+ -> (and/c async-channel? impersonator?)
+  channel : async-channel?
+  get-proc : (any/c . -> . any/c)
+  put-proc : (any/c . -> . any/c)
+  prop : impersonator-property?
+  prop-val : any
+procedure
+(chaperone-async-channel channel      
+                         get-proc     
+                         put-proc     
+                         prop         
+                         prop-val ... 
+                         ...)         
+ -> (and/c async-channel? chaperone?)
+  channel : async-channel?
+  get-proc : (any/c . -> . any/c)
+  put-proc : (any/c . -> . any/c)
+  prop : impersonator-property?
+  prop-val : any
+procedure
 (thread-cell? v) -> boolean?
   v : any/c
 procedure
@@ -7100,6 +7875,10 @@ procedure
   thunk : (-> any)
 procedure
 (processor-count) -> exact-positive-integer?
+syntax
+(for/async (for-clause ...) body ...+)
+syntax
+(for*/async (for-clause ...) body ...+)
 procedure
 (make-fsemaphore init) -> fsemaphore?
   init : exact-nonnegative-integer?
@@ -7157,9 +7936,11 @@ syntax
         body ...+)
  
 maybe-port = 
-           | #:in in-expr
-           | #:out out-expr
-           | #:err err-expr
+           | #:in in-expr
+           | #:out out-expr
+           | #:err err-expr
+syntax
+(place/context id body ...+)
 procedure
 (place-wait p) -> exact-integer?
   p : place?
@@ -7214,30 +7995,30 @@ syntax
 (syntax-case stx-expr (literal-id ...)
   clause ...)
  
-clause       = [pattern result-expr]
-             | [pattern fender-expr result-expr]
-                
-pattern      = _
-             | id
-             | (pattern ...)
-             | (pattern ...+ . pattern)
-             | (pattern ... pattern ellipsis pattern ...)
-             | (pattern ... pattern ellipsis pattern ... . pattern)
-             | #(pattern ...)
-             | #(pattern ... pattern ellipsis pattern ...)
-             | #&pattern
-             | #s(key-datum pattern ...)
-             | #s(key-datum pattern ... pattern ellipsis pattern ...)
-             | (ellipsis stat-pattern)
-             | const
-                
+      clause = [pattern result-expr]
+             | [pattern fender-expr result-expr]
+                
+     pattern = _
+             | id
+             | (pattern ...)
+             | (pattern ...+ . pattern)
+             | (pattern ... pattern ellipsis pattern ...)
+             | (pattern ... pattern ellipsis pattern ... . pattern)
+             | #(pattern ...)
+             | #(pattern ... pattern ellipsis pattern ...)
+             | #&pattern
+             | #s(key-datum pattern ...)
+             | #s(key-datum pattern ... pattern ellipsis pattern ...)
+             | (ellipsis stat-pattern)
+             | const
+                
 stat-pattern = id
-             | (stat-pattern ...)
-             | (stat-pattern ...+ . stat-pattern)
-             | #(stat-pattern ...)
-             | const
-                
-ellipsis     = ...
+             | (stat-pattern ...)
+             | (stat-pattern ...+ . stat-pattern)
+             | #(stat-pattern ...)
+             | const
+                
+    ellipsis = ...
 
 _
 
@@ -7273,26 +8054,26 @@ syntax
 syntax
 (syntax template)
  
-template      = id
-              | (template-elem ...)
-              | (template-elem ...+ . template)
-              | #(template-elem ...)
-              | #&template
-              | #s(key-datum template-elem ...)
-              | (ellipsis stat-template)
-              | const
-                 
+     template = id
+              | (template-elem ...)
+              | (template-elem ...+ . template)
+              | #(template-elem ...)
+              | #&template
+              | #s(key-datum template-elem ...)
+              | (ellipsis stat-template)
+              | const
+                 
 template-elem = template ellipsis ...
-                 
+                 
 stat-template = id
-              | (stat-template ...)
-              | (stat-template ... . stat-template)
-              | #(stat-template ...)
-              | #&stat-template
-              | #s(key-datum stat-template ...)
-              | const
-                 
-ellipsis      = ...
+              | (stat-template ...)
+              | (stat-template ... . stat-template)
+              | #(stat-template ...)
+              | #&stat-template
+              | #s(key-datum stat-template ...)
+              | const
+                 
+     ellipsis = ...
 
 id
 
@@ -7420,6 +8201,11 @@ procedure
   inspector : inspector?
   key : any/c
 procedure
+(syntax-debug-info stx [phase all-bindings?]) -> hash?
+  stx : syntax?
+  phase : (or/c exact-integer? #f) = (syntax-local-phase-level)
+  all-bindings? : any/c = #f
+procedure
 (bound-identifier=? a-id b-id [phase-level]) -> boolean?
   a-id : syntax?
   b-id : syntax?
@@ -7430,52 +8216,59 @@ procedure
                     b-id                
                    [a-phase-level       
                     b-phase-level]) -> boolean?
-  a-id : syntax?
-  b-id : syntax?
+  a-id : identifier?
+  b-id : identifier?
   a-phase-level : (or/c exact-integer? #f)
                 = (syntax-local-phase-level)
   b-phase-level : (or/c exact-integer? #f) = a-phase-level
 procedure
 (free-transformer-identifier=? a-id b-id) -> boolean?
-  a-id : syntax?
-  b-id : syntax?
+  a-id : identifier?
+  b-id : identifier?
 procedure
 (free-template-identifier=? a-id b-id) -> boolean?
-  a-id : syntax?
-  b-id : syntax?
+  a-id : identifier?
+  b-id : identifier?
 procedure
 (free-label-identifier=? a-id b-id) -> boolean?
-  a-id : syntax?
-  b-id : syntax?
+  a-id : identifier?
+  b-id : identifier?
 procedure
 (check-duplicate-identifier ids) -> (or/c identifier? #f)
   ids : (listof identifier?)
 procedure
-(identifier-binding id-stx [phase-level])
+(identifier-binding  id-stx              
+                    [phase-level         
+                     top-level-symbol?]) 
  -> (or/c 'lexical
           #f
-          (listof module-path-index?
+          (list/c module-path-index?
                   symbol?
                   module-path-index?
                   symbol?
-                  (or/c 0 1)
+                  exact-nonnegative-integer?
                   (or/c exact-integer? #f)
-                  (or/c exact-integer? #f)))
-  id-stx : syntax?
+                  (or/c exact-integer? #f))
+          (list/c symbol?))
+  id-stx : identifier?
   phase-level : (or/c exact-integer? #f)
               = (syntax-local-phase-level)
+  top-level-symbol? : any/c = #f
 procedure
-(identifier-transformer-binding id-stx)
+(identifier-transformer-binding  id-stx           
+                                [rt-phase-level]) 
  -> (or/c 'lexical
           #f
           (listof module-path-index?
                   symbol?
                   module-path-index?
                   symbol?
-                  (or/c 0 1)
+                  exact-nonnegative-integer?
                   (or/c exact-integer? #f)
                   (or/c exact-integer? #f)))
-  id-stx : syntax?
+  id-stx : identifier?
+  rt-phase-level : (or/c exact-integer? #f)
+                 = (syntax-local-phase-level)
 procedure
 (identifier-template-binding id-stx)
  -> (or/c 'lexical
@@ -7484,10 +8277,10 @@ procedure
                   symbol?
                   module-path-index?
                   symbol?
-                  (or/c 0 1)
+                  exact-nonnegative-integer?
                   (or/c exact-integer? #f)
                   (or/c exact-integer? #f)))
-  id-stx : syntax?
+  id-stx : identifier?
 procedure
 (identifier-label-binding id-stx)
  -> (or/c 'lexical
@@ -7496,14 +8289,14 @@ procedure
                   symbol?
                   module-path-index?
                   symbol?
-                  (or/c 0 1)
+                  exact-nonnegative-integer?
                   (or/c exact-integer? #f)
                   (or/c exact-integer? #f)))
-  id-stx : syntax?
+  id-stx : identifier?
 procedure
 (identifier-binding-symbol  id-stx            
                            [phase-level]) -> symbol?
-  id-stx : syntax?
+  id-stx : identifier?
   phase-level : (or/c exact-integer? #f)
               = (syntax-local-phase-level)
 procedure
@@ -7522,11 +8315,8 @@ procedure
 (rename-transformer? v) -> boolean?
   v : any/c
 procedure
-(make-rename-transformer  id-stx                
-                         [delta-introduce]) -> rename-transformer?
+(make-rename-transformer id-stx) -> rename-transformer?
   id-stx : syntax?
-  delta-introduce : (identifier? . -> . identifier?)
-                  = (lambda (id) id)
 procedure
 (rename-transformer-target transformer) -> identifier?
   transformer : rename-transformer?
@@ -7537,9 +8327,9 @@ procedure
                context-v        
                stop-ids         
               [intdef-ctx]) -> syntax?
-  stx : syntax?
+  stx : any/c
   context-v : (or/c 'expression 'top-level 'module 'module-begin list?)
-  stop-ids : (or/c (listof identifier?) #f)
+  stop-ids : (or/c (listof identifier?) empty #f)
   intdef-ctx : (or/c internal-definition-context?
                      (and/c pair?
                             (listof internal-definition-context?))
@@ -7547,13 +8337,13 @@ procedure
              = #f
 procedure
 (syntax-local-expand-expression stx) -> syntax? syntax?
-  stx : syntax?
+  stx : any/c
 procedure
 (local-transformer-expand  stx              
                            context-v        
                            stop-ids         
                           [intdef-ctx]) -> syntax?
-  stx : syntax?
+  stx : any/c
   context-v : (or/c 'expression 'top-level list?)
   stop-ids : (or/c (listof identifier?) #f)
   intdef-ctx : (or/c internal-definition-context? #f) = #f
@@ -7563,7 +8353,7 @@ procedure
                              stop-ids       
                             [intdef-ctx     
                              lift-ctx]) -> syntax?
-  stx : syntax?
+  stx : any/c
   context-v : (or/c 'expression 'top-level 'module 'module-begin list?)
   stop-ids : (or/c (listof identifier?) #f)
   intdef-ctx : (or/c internal-definition-context? #f) = #f
@@ -7574,7 +8364,7 @@ procedure
                                          stop-ids       
                                         [intdef-ctx     
                                          lift-ctx]) -> syntax?
-  stx : syntax?
+  stx : any/c
   context-v : (or/c 'expression 'top-level list?)
   stop-ids : (or/c (listof identifier?) #f)
   intdef-ctx : (or/c internal-definition-context? #f) = #f
@@ -7583,9 +8373,11 @@ procedure
 (internal-definition-context? v) -> boolean?
   v : any/c
 procedure
-(syntax-local-make-definition-context [intdef-ctx])
+(syntax-local-make-definition-context [intdef-ctx   
+                                       add-scope?]) 
  -> internal-definition-context?
   intdef-ctx : (or/c internal-definition-context? #f) = #f
+  add-scope? : any/c = #f
 procedure
 (syntax-local-bind-syntaxes id-list         
                             expr            
@@ -7593,6 +8385,17 @@ procedure
   id-list : (listof identifier?)
   expr : (or/c syntax? #f)
   intdef-ctx : internal-definition-context?
+procedure
+(internal-definition-context-binding-identifiers intdef-ctx)
+ -> (listof identifier?)
+  intdef-ctx : internal-definition-context?
+procedure
+(internal-definition-context-introduce  intdef-ctx     
+                                        stx            
+                                       [mode])     -> syntax?
+  intdef-ctx : internal-definition-context?
+  stx : syntax?
+  mode : (or/c 'flip 'add 'remove) = 'flip
 procedure
 (internal-definition-context-seal intdef-ctx) -> void?
   intdef-ctx : internal-definition-context?
@@ -7603,11 +8406,13 @@ procedure
   id-stx : identifier?
   intdef-ctx : (or/c internal-definition-context?
                      (listof internal-definition-context?))
+value
+prop:expansion-contexts : struct-type-property?
 procedure
 (syntax-local-value  id-stx            
                     [failure-thunk     
                      intdef-ctx])  -> any
-  id-stx : syntax?
+  id-stx : identifier?
   failure-thunk : (or/c (-> any) #f) = #f
   intdef-ctx : (or/c internal-definition-context? = #f
                      #f)
@@ -7630,6 +8435,9 @@ procedure
 procedure
 (syntax-local-lift-context) -> any/c
 procedure
+(syntax-local-lift-module stx) -> void?
+  stx : syntax?
+procedure
 (syntax-local-lift-module-end-declaration stx) -> void?
   stx : syntax?
 procedure
@@ -7646,7 +8454,7 @@ procedure
 (syntax-local-context)
  -> (or/c 'expression 'top-level 'module 'module-begin list?)
 procedure
-(syntax-local-phase-level) -> (or/c exact-integer? #f)
+(syntax-local-phase-level) -> exact-integer?
 procedure
 (syntax-local-module-exports mod-path)
  -> (listof (cons/c (or/c exact-integer? #f) (listof symbol?)))
@@ -7657,7 +8465,12 @@ procedure
 procedure
 (syntax-local-submodules) -> (listof symbol?)
 procedure
-(syntax-local-get-shadower id-stx) -> identifier?
+(syntax-local-get-shadower  id-stx                
+                           [only-generated?]) -> identifier?
+  id-stx : identifier?
+  only-generated? : any/c = #f
+procedure
+(syntax-local-make-delta-introducer id-stx) -> procedure?
   id-stx : identifier?
 procedure
 (syntax-local-certifier [active?])
@@ -7667,25 +8480,28 @@ procedure
 procedure
 (syntax-transforming?) -> boolean?
 procedure
+(syntax-transforming-with-lifts?) -> boolean?
+procedure
 (syntax-transforming-module-expression?) -> boolean?
+procedure
+(syntax-local-identifier-as-binding id-stx) -> identifier?
+  id-stx : identifier?
 procedure
 (syntax-local-introduce stx) -> syntax?
   stx : syntax?
 procedure
-(make-syntax-introducer) -> (syntax? . -> . syntax?)
+(make-syntax-introducer [as-use-site?])
+ -> ((syntax?) ((or/c 'flip 'add 'remove)) . ->* . syntax?)
+  as-use-site? : any/c = #f
 procedure
 (make-syntax-delta-introducer  ext-stx       
                                base-stx      
                               [phase-level]) 
- -> (syntax? . -> . syntax?)
-  ext-stx : syntax?
+ -> ((syntax?) ((or/c 'flip 'add 'remove)) . ->* . syntax?)
+  ext-stx : identifier?
   base-stx : (or/c syntax? #f)
   phase-level : (or/c #f exact-integer?)
               = (syntax-local-phase-level)
-procedure
-(syntax-local-make-delta-introducer id)
- -> (identifier? . -> . identifier?)
-  id : identifier?
 procedure
 (syntax-local-transforming-module-provides?) -> boolean?
 procedure
@@ -7694,8 +8510,9 @@ procedure
 procedure
 (syntax-local-module-required-identifiers mod-path     
                                           phase-level) 
- -> (listof (cons/c (or/c exact-integer? #f)
-                    (listof identifier?)))
+ -> (or/c (listof (cons/c (or/c exact-integer? #f)
+                          (listof identifier?)))
+          #f)
   mod-path : (or/c module-path? #f)
   phase-level : (or/c exact-integer? #f #t)
 value
@@ -7704,8 +8521,9 @@ procedure
 (liberal-define-context? v) -> boolean?
   v : any/c
 procedure
-(expand-import stx) -> (listof import?) (listof import-source?)
-  stx : syntax?
+(expand-import require-spec)
+ -> (listof import?) (listof import-source?)
+  require-spec : syntax?
 procedure
 (make-require-transformer proc) -> require-transformer?
   proc : (syntax? . -> . (values
@@ -7717,14 +8535,14 @@ procedure
 (require-transformer? v) -> boolean?
   v : any/c
 struct
-(struct import                                (local-id
-                                              src-sym
-                                              src-mod-path
-                                              mode
-                                              req-mode
-                                              orig-mode
-                                              orig-stx)
-        #:extra-constructor-name make-import)
+(struct import (local-id
+                src-sym
+                src-mod-path
+                mode
+                req-mode
+                orig-mode
+                orig-stx)
+    #:extra-constructor-name make-import)
   local-id : identifier?
   src-sym : symbol?
   src-mod-path : (or/c module-path?
@@ -7737,7 +8555,7 @@ struct
   orig-stx : syntax?
 struct
 (struct import-source (mod-path-stx mode)
-        #:extra-constructor-name make-import-source)
+    #:extra-constructor-name make-import-source)
   mod-path-stx : (and/c syntax?
                         (lambda (x)
                           (module-path? (syntax->datum x))))
@@ -7761,12 +8579,12 @@ procedure
  -> ((syntax?) (or/c #f (syntax? . -> . syntax?))
      . ->* . syntax?)
 procedure
-(expand-export stx modes) -> (listof export?)
-  stx : syntax?
+(expand-export provide-spec modes) -> (listof export?)
+  provide-spec : syntax?
   modes : (listof (or/c exact-integer? #f))
 procedure
-(pre-expand-export stx modes) -> syntax?
-  stx : syntax?
+(pre-expand-export provide-spec modes) -> syntax?
+  provide-spec : syntax?
   modes : (listof (or/c exact-integer? #f))
 procedure
 (make-provide-transformer proc) -> provide-transformer?
@@ -7795,7 +8613,7 @@ procedure
   v : any/c
 struct
 (struct export (local-id out-sym mode protect? orig-stx)
-        #:extra-constructor-name make-export)
+    #:extra-constructor-name make-export)
   local-id : identifier?
   out-sym : symbol?
   mode : (or/c exact-integer? #f)
@@ -7825,6 +8643,8 @@ syntax
 (define-syntax-parameter id expr)
 syntax
 (syntax-parameterize ([id expr] ...) body-expr ...+)
+syntax
+(define-rename-transformer-parameter id expr)
 procedure
 (syntax-parameter-value id-stx) -> any
   id-stx : syntax?
@@ -7854,13 +8674,18 @@ splicing-local
 syntax
 splicing-syntax-parameterize
 procedure
-(syntax-property stx key v) -> syntax?
+(syntax-property stx key v [preserved?]) -> syntax?
   stx : syntax?
-  key : any/c
+  key : (if preserved? (and/c symbol? symbol-interned?) any/c)
   v : any/c
+  preserved? : any/c = (eq? key 'paren-shape)
 (syntax-property stx key) -> any
   stx : syntax?
   key : any/c
+procedure
+(syntax-property-preserved? stx key) -> boolean?
+  stx : syntax?
+  key : (and/c symbol? symbol-interned?)
 procedure
 (syntax-property-symbol-keys stx) -> list?
   stx : syntax?
@@ -7870,7 +8695,7 @@ procedure
                      id-stx)  -> any
   new-stx : syntax?
   orig-stx : syntax?
-  id-stx : syntax?
+  id-stx : identifier?
 procedure
 (syntax-tainted? stx) -> boolean?
   stx : syntax?
@@ -7916,8 +8741,8 @@ syntax
 (include path-spec)
  
 path-spec = string
-          | (file string)
-          | (lib string ...+)
+          | (file string)
+          | (lib string ...+)
 syntax
 (include-at/relative-to context source path-spec)
 syntax
@@ -7960,7 +8785,7 @@ parameter
 (current-recorded-disappeared-uses ids) -> void?
   ids : (or/c (listof identifier?) false/c)
 syntax
-(with-disappeared-uses stx-expr)
+(with-disappeared-uses body-expr ... stx-expr)
  
   stx-expr : syntax?
 procedure
@@ -7968,8 +8793,8 @@ procedure
   id : identifier?
   predicate : (-> any/c boolean?)
 procedure
-(record-disappeared-uses ids) -> void?
-  ids : (listof identifier?)
+(record-disappeared-uses id) -> void?
+  id : (or/c identifier? (listof identifier?))
 procedure
 (generate-temporary [name-base]) -> identifier?
   name-base : any/c = 'g
@@ -8083,9 +8908,12 @@ parameter
 (port-count-lines-enabled on?) -> void?
   on? : any/c
 procedure
-(open-input-file path [#:mode mode-flag]) -> input-port?
+(open-input-file  path                            
+                 [#:mode mode-flag                
+                  #:for-module? for-module?]) -> input-port?
   path : path-string?
   mode-flag : (or/c 'binary 'text) = 'binary
+  for-module? : any/c = #f
 procedure
 (open-output-file  path                       
                   [#:mode mode-flag           
@@ -8171,31 +8999,34 @@ procedure
 (port-file-identity port) -> exact-positive-integer?
   port : file-stream-port?
 procedure
-(open-input-bytes bstr [name]) -> input-port?
+(string-port? p) -> boolean?
+  p : port?
+procedure
+(open-input-bytes bstr [name]) -> (and/c input-port? string-port?)
   bstr : bytes?
   name : any/c = 'string
 procedure
-(open-input-string str [name]) -> input-port?
+(open-input-string str [name]) -> (and/c input-port? string-port?)
   str : string?
   name : any/c = 'string
 procedure
-(open-output-bytes [name]) -> output-port?
+(open-output-bytes [name]) -> (and/c output-port? string-port?)
   name : any/c = 'string
 procedure
-(open-output-string [name]) -> output-port?
+(open-output-string [name]) -> (and/c output-port? string-port?)
   name : any/c = 'string
 procedure
 (get-output-bytes  out           
                   [reset?        
                    start-pos     
                    end-pos]) -> bytes?
-  out : output-port?
+  out : (and/c output-port? string-port?)
   reset? : any/c = #f
   start-pos : exact-nonnegative-integer? = 0
   end-pos : exact-nonnegative-integer? = #f
 procedure
 (get-output-string out) -> string?
-  out : output-port?
+  out : (and/c output-port? string-port?)
 procedure
 (make-pipe [limit input-name output-name])
  -> input-port? output-port?
@@ -8322,22 +9153,29 @@ procedure
   r : (input-port? . -> . any/c) = read
   in : input-port? = (current-input-port)
 procedure
-(port->string [in]) -> string?
+(port->string [in #:close? close?]) -> string?
   in : input-port? = (current-input-port)
+  close? : any/c = #f
 procedure
-(port->bytes [in]) -> bytes?
+(port->bytes [in #:close? close?]) -> bytes?
   in : input-port? = (current-input-port)
+  close? : any/c = #f
 procedure
-(port->lines [in #:line-mode line-mode]) -> (listof string?)
+(port->lines [in                        
+              #:line-mode line-mode     
+              #:close? close?])     -> (listof string?)
   in : input-port? = (current-input-port)
   line-mode : (or/c 'linefeed 'return 'return-linefeed 'any 'any-one)
             = 'any
+  close? : any/c = #f
 procedure
-(port->bytes-lines [in                          
-                    #:line-mode line-mode]) -> (listof bytes?)
+(port->bytes-lines [in                        
+                    #:line-mode line-mode     
+                    #:close? close?])     -> (listof bytes?)
   in : input-port? = (current-input-port)
   line-mode : (or/c 'linefeed 'return 'return-linefeed 'any 'any-one)
             = 'any
+  close? : any/c = #f
 procedure
 (display-lines  lst                         
                [out                         
@@ -8500,33 +9338,38 @@ procedure
   out : output-port?
   close? : any/c = #f
 procedure
-(relocate-input-port  in           
-                      line         
-                      column       
-                      position     
-                     [close?]) -> input-port?
+(relocate-input-port  in               
+                      line             
+                      column           
+                      position         
+                     [close?]          
+                      #:name name) -> input-port?
   in : input-port?
   line : (or/c exact-positive-integer? #f)
   column : (or/c exact-nonnegative-integer? #f)
   position : exact-positive-integer?
   close? : any/c = #t
+  name : (object-name out)
 procedure
-(relocate-output-port  out          
-                       line         
-                       column       
-                       position     
-                      [close?]) -> output-port?
+(relocate-output-port  out              
+                       line             
+                       column           
+                       position         
+                      [close?]          
+                       #:name name) -> output-port?
   out : output-port?
   line : (or/c exact-positive-integer? #f)
   column : (or/c exact-nonnegative-integer? #f)
   position : exact-positive-integer?
   close? : any/c = #t
+  name : (object-name out)
 procedure
-(transplant-input-port  in                 
-                        get-location       
-                        init-pos           
-                       [close?             
-                        count-lines!]) -> input-port?
+(transplant-input-port  in                
+                        get-location      
+                        init-pos          
+                       [close?            
+                        count-lines!]     
+                        #:name name)  -> input-port?
   in : input-port?
   get-location : (or/c
                   (->
@@ -8538,12 +9381,14 @@ procedure
   init-pos : exact-positive-integer?
   close? : any/c = #t
   count-lines! : (-> any) = void
+  name : (object-name out)
 procedure
-(transplant-output-port  out                
-                         get-location       
-                         init-pos           
-                        [close?             
-                         count-lines!]) -> output-port?
+(transplant-output-port  out               
+                         get-location      
+                         init-pos          
+                        [close?            
+                         count-lines!]     
+                         #:name name)  -> output-port?
   out : output-port?
   get-location : (or/c
                   (->
@@ -8555,6 +9400,7 @@ procedure
   init-pos : exact-positive-integer?
   close? : any/c = #t
   count-lines! : (-> any) = void
+  name : (object-name out)
 procedure
 (filter-read-input-port  in            
                          read-wrap     
@@ -8810,11 +9656,21 @@ procedure
   start-pos : exact-nonnegative-integer? = 0
   end-pos : exact-nonnegative-integer? = (bytes-length bstr)
 procedure
-(read-char-or-special [in]) -> (or/c char? eof-object? any/c)
+(read-char-or-special [in            
+                       special-wrap  
+                       source-name]) 
+ -> (or/c char? eof-object? any/c)
   in : input-port? = (current-input-port)
+  special-wrap : (or/c (any/c -> any/c) #f) = #f
+  source-name : any/c = #f
 procedure
-(read-byte-or-special [in]) -> (or/c byte? eof-object? any/c)
+(read-byte-or-special [in            
+                       special-wrap  
+                       source-name]) 
+ -> (or/c byte? eof-object? any/c)
   in : input-port? = (current-input-port)
+  special-wrap : (or/c (any/c -> any/c) #f) = #f
+  source-name : any/c = #f
 procedure
 (peek-char [in skip-bytes-amt]) -> (or/c char? eof-object?)
   in : input-port? = (current-input-port)
@@ -8824,18 +9680,27 @@ procedure
   in : input-port? = (current-input-port)
   skip-bytes-amt : exact-nonnegative-integer? = 0
 procedure
-(peek-char-or-special [in skip-bytes-amt])
+(peek-char-or-special [in             
+                       skip-bytes-amt 
+                       special-wrap   
+                       source-name])  
  -> (or/c char? eof-object? any/c)
   in : input-port? = (current-input-port)
   skip-bytes-amt : exact-nonnegative-integer? = 0
+  special-wrap : (or/c (any/c -> any/c) #f) = #f
+  source-name : any/c = #f
 procedure
 (peek-byte-or-special [in             
                        skip-bytes-amt 
-                       progress])     
+                       progress       
+                       special-wrap   
+                       source-name])  
  -> (or/c byte? eof-object? any/c)
   in : input-port? = (current-input-port)
   skip-bytes-amt : exact-nonnegative-integer? = 0
   progress : (or/c progress-evt? #f) = #f
+  special-wrap : (or/c (any/c -> any/c) #f) = #f
+  source-name : any/c = #f
 procedure
 (port-progress-evt [in]) -> progress-evt?
   in : (and/c input-port? port-provides-progress-evts?)
@@ -8967,7 +9832,8 @@ procedure
   readtable : (or/c readtable? #f) = (current-readtable)
   graph? : any/c = #t
 procedure
-(read-language [in fail-thunk]) -> (any/c any/c . -> . any)
+(read-language [in fail-thunk])
+ -> (or/c (any/c any/c . -> . any) #f)
   in : input-port? = (current-input-port)
   fail-thunk : (-> any) = (lambda () (error ...))
 parameter
@@ -8981,6 +9847,14 @@ parameter
 parameter
 (read-curly-brace-as-paren) -> boolean?
 (read-curly-brace-as-paren on?) -> void?
+  on? : any/c
+parameter
+(read-square-bracket-with-tag) -> boolean?
+(read-square-bracket-with-tag on?) -> void?
+  on? : any/c
+parameter
+(read-curly-brace-with-tag) -> boolean?
+(read-curly-brace-with-tag on?) -> void?
   on? : any/c
 parameter
 (read-accept-box) -> boolean?
@@ -9009,6 +9883,10 @@ parameter
 parameter
 (read-accept-infix-dot) -> boolean?
 (read-accept-infix-dot on?) -> void?
+  on? : any/c
+parameter
+(read-cdot) -> boolean?
+(read-cdot on?) -> void?
   on? : any/c
 parameter
 (read-accept-quasiquote) -> boolean?
@@ -9062,9 +9940,18 @@ procedure
   out : output-port? = (current-output-port)
   quote-depth : (or/c 0 1) = 0
 procedure
+(writeln datum [out]) -> void?
+  datum : any/c
+  out : output-port? = (current-output-port)
+procedure
 (displayln datum [out]) -> void?
   datum : any/c
   out : output-port? = (current-output-port)
+procedure
+(println datum [out quote-depth]) -> void?
+  datum : any/c
+  out : output-port? = (current-output-port)
+  quote-depth : (or/c 0 1) = 0
 procedure
 (fprintf out form v ...) -> void?
   out : output-port?
@@ -9168,22 +10055,29 @@ procedure
   proc : (or/c (->* (any/c output-port?) ((or/c 0 1)) any)
                (any/c output-port? . -> . any))
 procedure
-(pretty-print v [port quote-depth]) -> void?
+(pretty-print  v                         
+              [port                      
+               quote-depth               
+               #:newline? newline?]) -> void?
   v : any/c
   port : output-port? = (current-output-port)
   quote-depth : (or/c 0 1) = 0
+  newline? : boolean? = #t
 procedure
-(pretty-write v [port]) -> void?
+(pretty-write v [port #:newline? newline?]) -> void?
   v : any/c
   port : output-port? = (current-output-port)
+  newline? : boolean? = #t
 procedure
-(pretty-display v [port]) -> void?
+(pretty-display v [port #:newline? newline?]) -> void?
   v : any/c
   port : output-port? = (current-output-port)
+  newline? : boolean? = #t
 procedure
-(pretty-format v [columns]) -> string?
+(pretty-format v [columns #:mode mode]) -> string?
   v : any/c
   columns : exact-nonnegative-integer? = (pretty-print-columns)
+  mode : (or/c 'print 'write 'display) = 'print
 procedure
 (pretty-print-handler v) -> void?
   v : any/c
@@ -9234,7 +10128,7 @@ parameter
   proc : (any/c . -> . (or/c symbol? #f))
 procedure
 (pretty-print-newline port width) -> void?
-  port : out-port?
+  port : output-port?
   width : exact-nonnegative-integer?
 parameter
 (pretty-print-print-line)
@@ -9303,7 +10197,7 @@ procedure
                 key              
                 mode             
                 action ...+) -> readtable?
-  readtable : readtable?
+  readtable : (or/c readtable? #f)
   key : (or/c char? #f)
   mode : (or/c (or/c 'terminating-macro
                      'non-terminating-macro
@@ -9484,7 +10378,7 @@ procedure
                           modname              
                          [dest-namespace]) -> void?
   src-namespace : namespace?
-  modname : module-path?
+  modname : (or module-path? resolved-module-path?)
   dest-namespace : namespace? = (current-namespace)
 procedure
 (namespace-attach-module-declaration  src-namespace        
@@ -9504,8 +10398,10 @@ procedure
 (namespace-module-registry namespace) -> any
   namespace : namespace?
 procedure
-(module->namespace modname) -> namespace?
-  modname : module-path?
+(module->namespace mod) -> namespace?
+  mod : (or/c module-path?
+              resolved-module-path?
+              module-path-index?)
 procedure
 (namespace-syntax-introduce stx) -> syntax?
   stx : syntax?
@@ -9622,9 +10518,13 @@ parameter
 (use-compiled-file-paths paths) -> void?
   paths : (listof (and/c path-string? relative-path?))
 parameter
-(current-compiled-file-roots) -> (listof (or/c path? 'path))
+(current-compiled-file-roots) -> (listof (or/c path? 'same))
 (current-compiled-file-roots paths) -> void?
   paths : (listof (or/c path-string? 'same))
+parameter
+(use-compiled-file-check) -> (or/c 'modify-seconds 'exists)
+(use-compiled-file-check check) -> void?
+  check : (or/c 'modify-seconds 'exists)
 procedure
 (read-eval-print-loop) -> any
 parameter
@@ -9654,6 +10554,9 @@ procedure
 procedure
 (compile-syntax stx) -> compiled-expression?
   stx : syntax?
+procedure
+(compiled-expression-recompile ce) -> compiled-expression?
+  ce : compiled-expression?
 procedure
 (compiled-expression? v) -> boolean?
   v : any/c
@@ -9794,6 +10697,10 @@ procedure
     (listof (cons/c (or/c exact-integer? #f) list?))
   compiled-module-code : compiled-module-expression?
 procedure
+(module-compiled-indirect-exports compiled-module-code)
+ -> (listof (cons/c exact-integer? (listof symbol?)))
+  compiled-module-code : compiled-module-expression?
+procedure
 (module-compiled-language-info compiled-module-code)
  -> (or/c #f (vector/c module-path? symbol? any/c))
   compiled-module-code : compiled-module-expression?
@@ -9802,7 +10709,7 @@ procedure
  -> boolean?
   compiled-module-code : compiled-module-expression?
 procedure
-(dynamic-require mod provided [fail-thunk]) -> any
+(dynamic-require mod provided [fail-thunk]) -> (or/c void? any/c)
   mod : (or/c module-path?
               resolved-module-path?
               module-path-index?)
@@ -9838,6 +10745,10 @@ procedure
     (listof (cons/c (or/c exact-integer? #f) list?))
   mod : (or/c module-path? resolved-module-path?)
 procedure
+(module->indirect-exports mod)
+ -> (listof (cons/c exact-integer? (listof symbol?)))
+  mod : (or/c module-path? resolved-module-path?)
+procedure
 (module-predefined? mod) -> boolean?
   mod : (or/c module-path? resolved-module-path?)
 procedure
@@ -9858,6 +10769,9 @@ procedure
 (impersonator-ephemeron v) -> ephemeron?
   v : any/c
 procedure
+(procedure-impersonator*? v) -> boolean?
+  v : any/c
+procedure
 (impersonate-procedure proc         
                        wrapper-proc 
                        prop         
@@ -9865,22 +10779,35 @@ procedure
                        ...)         
  -> (and/c procedure? impersonator?)
   proc : procedure?
-  wrapper-proc : procedure?
+  wrapper-proc : (or/c procedure? #f)
   prop : impersonator-property?
   prop-val : any
 procedure
-(impersonate-struct v                     
-                    orig-proc             
-                    redirect-proc ...     
-                    ...                   
-                    prop                  
-                    prop-val ...          
-                    ...)              -> any/c
+(impersonate-procedure* proc         
+                        wrapper-proc 
+                        prop         
+                        prop-val ... 
+                        ...)         
+ -> (and/c procedure? impersonator?)
+  proc : procedure?
+  wrapper-proc : (or/c procedure? #f)
+  prop : impersonator-property?
+  prop-val : any
+procedure
+(impersonate-struct  v                     
+                    [struct-type]          
+                     orig-proc             
+                     redirect-proc ...     
+                     ...                   
+                     prop                  
+                     prop-val ...          
+                     ...)              -> any/c
   v : any/c
+  struct-type : struct-type? = unspecified
   orig-proc : (or/c struct-accessor-procedure?
                     struct-mutator-procedure?
                     struct-type-property-accessor-procedure?)
-  redirect-proc : procedure?
+  redirect-proc : (or/c procedure? #f)
   prop : impersonator-property?
   prop-val : any
 procedure
@@ -9892,8 +10819,25 @@ procedure
                     ...)         
  -> (and/c vector? impersonator?)
   vec : (and/c vector? (not/c immutable?))
-  ref-proc : (vector? exact-nonnegative-integer? any/c . -> . any/c)
-  set-proc : (vector? exact-nonnegative-integer? any/c . -> . any/c)
+  ref-proc : (or/c (vector? exact-nonnegative-integer? any/c . ->
+. any/c) #f)
+  set-proc : (or/c (vector? exact-nonnegative-integer? any/c . ->
+. any/c) #f)
+  prop : impersonator-property?
+  prop-val : any
+procedure
+(impersonate-vector* vec          
+                     ref-proc     
+                     set-proc     
+                     prop         
+                     prop-val ... 
+                     ...)         
+ -> (and/c vector? impersonator?)
+  vec : (and/c vector? (not/c immutable?))
+  ref-proc : (or/c (vector? vector? exact-nonnegative-integer? any/c .
+-> . any/c) #f)
+  set-proc : (or/c (vector? vector? exact-nonnegative-integer? any/c .
+-> . any/c) #f)
   prop : impersonator-property?
   prop-val : any
 procedure
@@ -9909,15 +10853,16 @@ procedure
   prop : impersonator-property?
   prop-val : any
 procedure
-(impersonate-hash  hash             
-                   ref-proc         
-                   set-proc         
-                   remove-proc      
-                   key-proc         
-                  [clear-proc]      
-                   prop             
-                   prop-val ...     
-                   ...)         -> (and/c hash? impersonator?)
+(impersonate-hash  hash                
+                   ref-proc            
+                   set-proc            
+                   remove-proc         
+                   key-proc            
+                  [clear-proc          
+                   equal-key-proc]     
+                   prop                
+                   prop-val ...        
+                   ...)            -> (and/c hash? impersonator?)
   hash : (and/c hash? (not/c immutable?))
   ref-proc : (hash? any/c . -> . (values
                                   any/c
@@ -9926,6 +10871,7 @@ procedure
   remove-proc : (hash? any/c . -> . any/c)
   key-proc : (hash? any/c . -> . any/c)
   clear-proc : (or/c #f (hash? . -> . any)) = #f
+  equal-key-proc : (or/c #f (hash? any/c . -> . any/c)) = #f
   prop : impersonator-property?
   prop-val : any
 procedure
@@ -9974,6 +10920,8 @@ procedure
   prop-val : any
 value
 prop:impersonator-of : struct-type-property?
+value
+prop:authentic : struct-type-property?
 procedure
 (chaperone-procedure proc         
                      wrapper-proc 
@@ -9982,23 +10930,36 @@ procedure
                      ...)         
  -> (and/c procedure? chaperone?)
   proc : procedure?
-  wrapper-proc : procedure?
+  wrapper-proc : (or/c procedure? #f)
   prop : impersonator-property?
   prop-val : any
 procedure
-(chaperone-struct v                     
-                  orig-proc             
-                  redirect-proc ...     
-                  ...                   
-                  prop                  
-                  prop-val ...          
-                  ...)              -> any/c
+(chaperone-procedure* proc         
+                      wrapper-proc 
+                      prop         
+                      prop-val ... 
+                      ...)         
+ -> (and/c procedure? chaperone?)
+  proc : procedure?
+  wrapper-proc : (or/c procedure? #f)
+  prop : impersonator-property?
+  prop-val : any
+procedure
+(chaperone-struct  v                     
+                  [struct-type]          
+                   orig-proc             
+                   redirect-proc ...     
+                   ...                   
+                   prop                  
+                   prop-val ...          
+                   ...)              -> any/c
   v : any/c
+  struct-type : struct-type? = unspecified
   orig-proc : (or/c struct-accessor-procedure?
                     struct-mutator-procedure?
                     struct-type-property-accessor-procedure?
                     (one-of/c struct-info))
-  redirect-proc : procedure?
+  redirect-proc : (or/c procedure? #f)
   prop : impersonator-property?
   prop-val : any
 procedure
@@ -10009,8 +10970,24 @@ procedure
                   prop-val ...     
                   ...)         -> (and/c vector? chaperone?)
   vec : vector?
-  ref-proc : (vector? exact-nonnegative-integer? any/c . -> . any/c)
-  set-proc : (vector? exact-nonnegative-integer? any/c . -> . any/c)
+  ref-proc : (or/c (vector? exact-nonnegative-integer? any/c . ->
+. any/c) #f)
+  set-proc : (or/c (vector? exact-nonnegative-integer? any/c . ->
+. any/c) #f)
+  prop : impersonator-property?
+  prop-val : any
+procedure
+(chaperone-vector* vec              
+                   ref-proc         
+                   set-proc         
+                   prop             
+                   prop-val ...     
+                   ...)         -> (and/c vector? chaperone?)
+  vec : (and/c vector? (not/c immutable?))
+  ref-proc : (or/c (vector? vector? exact-nonnegative-integer? any/c .
+-> . any/c) #f)
+  set-proc : (or/c (vector? vector? exact-nonnegative-integer? any/c .
+-> . any/c) #f)
   prop : impersonator-property?
   prop-val : any
 procedure
@@ -10026,15 +11003,16 @@ procedure
   prop : impersonator-property?
   prop-val : any
 procedure
-(chaperone-hash  hash             
-                 ref-proc         
-                 set-proc         
-                 remove-proc      
-                 key-proc         
-                [clear-proc]      
-                 prop             
-                 prop-val ...     
-                 ...)         -> (and/c hash? chaperone?)
+(chaperone-hash  hash                
+                 ref-proc            
+                 set-proc            
+                 remove-proc         
+                 key-proc            
+                [clear-proc          
+                 equal-key-proc]     
+                 prop                
+                 prop-val ...        
+                 ...)            -> (and/c hash? chaperone?)
   hash : hash?
   ref-proc : (hash? any/c . -> . (values
                                   any/c
@@ -10043,6 +11021,7 @@ procedure
   remove-proc : (hash? any/c . -> . any/c)
   key-proc : (hash? any/c . -> . any/c)
   clear-proc : (or/c #f (hash? . -> . any)) = #f
+  equal-key-proc : (or/c #f (hash? any/c . -> . any/c)) = #f
   prop : impersonator-property?
   prop-val : any
 procedure
@@ -10208,6 +11187,11 @@ procedure
 procedure
 (make-sibling-inspector [inspector]) -> inspector?
   inspector : inspector? = (current-inspector)
+procedure
+(inspector-superior? inspector               
+                     maybe-subinspector) -> boolean?
+  inspector : inspector?
+  maybe-subinspector : inspector?
 parameter
 (current-inspector) -> inspector?
 (current-inspector insp) -> void?
@@ -10236,10 +11220,35 @@ procedure
 procedure
 (object-name v) -> any
   v : any/c
+value
+prop:object-name : struct-type-property?
 parameter
 (current-code-inspector) -> inspector?
 (current-code-inspector insp) -> void?
   insp : inspector?
+procedure
+(plumber? v) -> boolean?
+  v : any/c
+procedure
+(make-plumber) -> plumber?
+parameter
+(current-plumber) -> plumber?
+(current-plumber plumber) -> void?
+  plumber : plumber?
+procedure
+(plumber-flush-all plumber) -> void?
+  plumber : plumber?
+procedure
+(plumber-flush-handle? v) -> boolean?
+  v : any/c
+procedure
+(plumber-add-flush! plumber proc [weak?]) -> plumber-flush-handle?
+  plumber : plumber?
+  proc : (plumber-flush-handle? . -> . any)
+  weak? : any/c = #f
+procedure
+(plumber-flush-handle-remove! handle) -> void?
+  handle : plumber-flush-handle?
 procedure
 (make-evaluator  language                              
                  input-program ...                     
@@ -10420,6 +11429,10 @@ parameter
 (sandbox-make-logger make) -> void?
   make : (-> logger?)
 parameter
+(sandbox-make-plumber) -> (or/c (-> plumber?) 'propagate)
+(sandbox-make-plumber make) -> void?
+  make : (or/c (-> plumber?) 'propagate)
+parameter
 (sandbox-make-environment-variables)
  -> (-> environment-variables?)
 (sandbox-make-environment-variables make) -> void?
@@ -10599,13 +11612,22 @@ procedure
  -> (listof (or/c path-for-some-system? 'up 'same))
   path : (or/c path-string? path-for-some-system?)
 procedure
-(path-replace-suffix path suffix) -> path-for-some-system?
+(path-replace-extension path ext) -> path-for-some-system?
   path : (or/c path-string? path-for-some-system?)
-  suffix : (or/c string? bytes?)
+  ext : (or/c string? bytes?)
 procedure
-(path-add-suffix path suffix) -> path-for-some-system?
+(path-add-extension path ext [sep]) -> path-for-some-system?
   path : (or/c path-string? path-for-some-system?)
-  suffix : (or/c string? bytes?)
+  ext : (or/c string? bytes?)
+  sep : (or/c string? bytes?) = #"_"
+procedure
+(path-replace-suffix path ext) -> path-for-some-system?
+  path : (or/c path-string? path-for-some-system?)
+  ext : (or/c string? bytes?)
+procedure
+(path-add-suffix path ext) -> path-for-some-system?
+  path : (or/c path-string? path-for-some-system?)
+  ext : (or/c string? bytes?)
 procedure
 (reroot-path path root-path) -> path-for-some-system?
   path : (or/c path-string? path-for-some-system?)
@@ -10614,16 +11636,25 @@ procedure
 (file-name-from-path path) -> (or/c path-for-some-system? #f)
   path : (or/c path-string? path-for-some-system?)
 procedure
+(path-get-extension path) -> (or/c bytes? #f)
+  path : (or/c path-string? path-for-some-system?)
+procedure
+(path-has-extension? path ext) -> (or/c bytes? #f)
+  path : (or/c path-string? path-for-some-system?)
+  ext : (or/c bytes? string?)
+procedure
 (filename-extension path) -> (or/c bytes? #f)
   path : (or/c path-string? path-for-some-system?)
 procedure
 (find-relative-path  base                                
                      path                                
-                    [#:more-than-root? more-than-root?]) 
- -> path-for-some-system?
+                    [#:more-than-root? more-than-root?   
+                     #:normalize-case? normalize-case?]) 
+ -> (or/c path-for-some-system? path-string?)
   base : (or/c path-string? path-for-some-system?)
   path : (or/c path-string?  path-for-some-system?)
   more-than-root? : any/c = #f
+  normalize-case? : any/c = #t
 procedure
 (normalize-path path [wrt]) -> path?
   path : path-string?
@@ -10659,11 +11690,11 @@ procedure
   str : (or/c string? bytes?)
   default-path-list : (listof path?)
 procedure
-(find-executable-path  program-sub     
-                      [related-sub     
-                       deepest?])  -> (or/c path? #f)
-  program-sub : path-string?
-  related-sub : (or/c path-string? #f) = #f
+(find-executable-path  program        
+                      [related        
+                       deepest?]) -> (or/c path? #f)
+  program : path-string?
+  related : (or/c path-string? #f) = #f
   deepest? : any/c = #f
 procedure
 (file-exists? path) -> boolean?
@@ -10682,6 +11713,14 @@ procedure
   new : path-string?
   exists-ok? : any/c = #f
 procedure
+(file-or-directory-modify-seconds  path         
+                                  [secs-n]) -> exact-integer?
+  path : path-string?
+  secs-n : #f = #f
+(file-or-directory-modify-seconds path        
+                                  secs-n) -> void?
+  path : path-string?
+  secs-n : exact-integer?
 (file-or-directory-modify-seconds  path             
                                   [secs-n           
                                    fail-thunk]) -> any
@@ -10717,6 +11756,10 @@ procedure
 (make-file-or-directory-link to path) -> void?
   to : path-string?
   path : path-string?
+parameter
+(current-force-delete-permissions) -> boolean?
+(current-force-delete-permissions any/c) -> void?
+  any/c : boolean?
 parameter
 (current-directory) -> (and/c path? complete-path?)
 (current-directory path) -> void?
@@ -10755,13 +11798,16 @@ procedure
 (filesystem-change-evt-cancel evt) -> void?
   evt : filesystem-change-evt?
 syntax
-(define-runtime-path id expr)
+(define-runtime-path id maybe-runtime?-id expr)
+ 
+maybe-runtime? = 
+               | #:runtime?-id runtime?-id
 syntax
-(define-runtime-paths (id ...) expr)
+(define-runtime-paths (id ...) maybe-runtime?-id expr)
 syntax
-(define-runtime-path-list id expr)
+(define-runtime-path-list id maybe-runtime?-id expr)
 syntax
-(define-runtime-module-path-index id module-path-expr)
+(define-runtime-module-path-index id maybe-runtime?-id module-path-expr)
 syntax
 (runtime-require module-path)
 syntax
@@ -10837,32 +11883,40 @@ procedure
                       'replace 'truncate 'truncate/replace)
               = 'error
 procedure
-(copy-directory/files                                              
-                      src                                          
-                      dest                                         
-                      #:keep-modify-seconds? keep-modify-seconds?) 
+(copy-directory/files                                             
+                      src                                         
+                      dest                                        
+                      #:keep-modify-seconds? keep-modify-seconds? 
+                      #:preserve-links? preserve-links?)          
  -> void?
   src : path-string?
   dest : path-string?
   keep-modify-seconds? : #f
+  preserve-links? : #f
 procedure
 (delete-directory/files path                           
                         #:must-exist? must-exist?) -> void?
   path : path-string?
   must-exist? : #t
 procedure
-(find-files  predicate                          
-            [start-path]                        
-             #:follow-links? follow-links?) -> (listof path?)
+(find-files                                                      
+             predicate                                           
+            [start-path]                                         
+             #:skip-filtered-directory? skip-filtered-directory? 
+             #:follow-links? follow-links?)                      
+ -> (listof path?)
   predicate : (path? . -> . any/c)
   start-path : (or/c path-string? #f) = #f
+  skip-filtered-directory? : #f
   follow-links? : #f
 procedure
-(pathlist-closure path-list                      
-                  #:follow-links? follow-links?) 
+(pathlist-closure  path-list                       
+                  [#:path-filter path-filter       
+                   #:follow-links? follow-links?]) 
  -> (listof path?)
   path-list : (listof path-string?)
-  follow-links? : #f
+  path-filter : (or/c #f (path? . -> . any/c)) = #f
+  follow-links? : any/c = #f
 procedure
 (fold-files  proc                
              init-val            
@@ -10879,6 +11933,9 @@ procedure
 (make-directory* path) -> void?
   path : path-string?
 procedure
+(make-parent-directory* path) -> void?
+  path : path-string?
+procedure
 (make-temporary-file [template               
                       copy-from-filename     
                       directory])        -> path?
@@ -10891,7 +11948,7 @@ procedure
                               [#:security-guard security-guard]) 
  -> any
   file : path-string?
-  proc : ([port input-port?] [tmp-path path?]  . -> . any)
+  proc : ([port output-port?] [tmp-path path?]  . -> . any)
   security-guard : (or/c #f security-guard?) = #f
 procedure
 (get-preference  name                                        
@@ -10982,7 +12039,7 @@ procedure
             [max-allow-wait     
              reuse?             
              hostname])     -> tcp-listener?
-  port-no : (integer-in 0 65535)
+  port-no : listen-port-number?
   max-allow-wait : exact-nonnegative-integer? = 4
   reuse? : any/c = #f
   hostname : (or/c string? #f) = #f
@@ -10992,9 +12049,9 @@ procedure
              [local-hostname      
               local-port-no]) -> input-port? output-port?
   hostname : string?
-  port-no : (integer-in 1 65535)
+  port-no : port-number?
   local-hostname : (or/c string? #f) = #f
-  local-port-no : (or/c (integer-in 1 65535) #f) = #f
+  local-port-no : (or/c port-number? #f) = #f
 procedure
 (tcp-connect/enable-break  hostname        
                            port-no         
@@ -11002,9 +12059,9 @@ procedure
                            local-port-no)  
  -> input-port? output-port?
   hostname : string?
-  port-no : (integer-in 1 65535)
+  port-no : port-number?
   local-hostname : (or/c string? #f) = #f
-  local-port-no : (or/c (integer-in 1 65535) #f)
+  local-port-no : (or/c port-number? #f)
 procedure
 (tcp-accept listener) -> input-port? output-port?
   listener : tcp-listener?
@@ -11029,18 +12086,22 @@ procedure
 procedure
 (tcp-addresses tcp-port [port-numbers?])
  -> (or/c (values string? string?)
-          (values string? (integer-in 1 65535)
-                  string? (integer-in 0 65535)))
-  tcp-port : (or/c tcp-port? tcp-listener?)
+          (values string? port-number?
+                  string? listen-port-number?))
+  tcp-port : (or/c tcp-port? tcp-listener? udp?)
   port-numbers? : any/c = #f
 procedure
 (tcp-port? v) -> boolean?
   v : any/c
+value
+port-number? : contract?
+value
+listen-port-number? : contract?
 procedure
 (udp-open-socket [family-hostname      
                   family-port-no]) -> udp?
   family-hostname : (or/c string? #f) = #f
-  family-port-no : (or/c (integer-in 1 65535) #f) = #f
+  family-port-no : (or/c port-number? #f) = #f
 procedure
 (udp-bind!  udp-socket          
             hostname-string     
@@ -11048,7 +12109,7 @@ procedure
            [reuse?])        -> void?
   udp-socket : udp?
   hostname-string : (or/c string? #f)
-  port-no : (integer-in 0 65535)
+  port-no : listen-port-number?
   reuse? : any/c = #f
 procedure
 (udp-connect! udp-socket          
@@ -11056,8 +12117,7 @@ procedure
               port-no)        -> void?
   udp-socket : udp?
   hostname-string : (or/c string? #f)
-  port-no : (or/c (integer-in 1 65535)
-                  #f)
+  port-no : (or/c port-number? #f)
 procedure
 (udp-send-to  udp-socket     
               hostname       
@@ -11067,7 +12127,7 @@ procedure
               end-pos])  -> void
   udp-socket : udp?
   hostname : string?
-  port-no : (integer-in 1 65535)
+  port-no : port-number?
   bstr : bytes?
   start-pos : exact-nonnegative-integer? = 0
   end-pos : exact-nonnegative-integer? = (bytes-length bstr)
@@ -11086,7 +12146,7 @@ procedure
                end-pos])  -> boolean?
   udp-socket : udp?
   hostname : string?
-  port-no : (integer-in 1 65535)
+  port-no : port-number?
   bstr : bytes?
   start-pos : exact-nonnegative-integer? = 0
   end-pos : exact-nonnegative-integer? = (bytes-length bstr)
@@ -11105,7 +12165,7 @@ procedure
                            end-pos])  -> void
   udp-socket : udp?
   hostname : string?
-  port-no : (integer-in 1 65535)
+  port-no : port-number?
   bstr : bytes?
   start-pos : exact-nonnegative-integer? = 0
   end-pos : exact-nonnegative-integer? = (bytes-length bstr)
@@ -11124,7 +12184,7 @@ procedure
               [start-pos      
                end-pos])  -> exact-nonnegative-integer?
                              string?
-                             (integer-in 1 65535)
+                             port-number?
   udp-socket : udp?
   bstr : (and/c bytes? (not immutable?))
   start-pos : exact-nonnegative-integer? = 0
@@ -11136,7 +12196,7 @@ procedure
                 end-pos])  
  -> (or/c exact-nonnegative-integer? #f)
     (or/c string? #f)
-    (or/c (integer-in 1 65535) #f)
+    (or/c port-number? #f)
   udp-socket : udp?
   bstr : (and/c bytes? (not immutable?))
   start-pos : exact-nonnegative-integer? = 0
@@ -11148,7 +12208,7 @@ procedure
                             end-pos])  
  -> exact-nonnegative-integer?
     string?
-    (integer-in 1 65535)
+    port-number?
   udp-socket : udp?
   bstr : (and/c bytes? (not immutable?))
   start-pos : exact-nonnegative-integer? = 0
@@ -11180,7 +12240,7 @@ procedure
                   end-pos])  -> evt?
   udp-socket : udp?
   hostname : string?
-  port-no : (integer-in 1 65535)
+  port-no : port-number?
   bstr : bytes?
   start-pos : exact-nonnegative-integer? = 0
   end-pos : exact-nonnegative-integer? = (bytes-length bstr)
@@ -11205,8 +12265,8 @@ procedure
 procedure
 (udp-addresses udp-port [port-numbers?])
  -> (or/c (values string? string?)
-          (values string? (integer-in 0 65535)
-                  string? (integer-in 0 65535)))
+          (values string? listen-port-number?
+                  string? listen-port-number?))
   udp-port : udp?
   port-numbers? : any/c = #f
 procedure
@@ -11423,10 +12483,15 @@ procedure
 (logger? v) -> boolean?
   v : any/c
 procedure
-(make-logger [name parent notify-callback]) -> logger?
-  name : (or/c symbol? #f) = #f
+(make-logger [topic                    
+              parent                   
+              propagate-level          
+              propagate-topic ...]     
+              ...)                 -> logger?
+  topic : (or/c symbol? #f) = #f
   parent : (or/c logger? #f) = #f
-  notify-callback : (vector? . -> . any/c) = #f
+  propagate-level : log-level/c = 'debug
+  propagate-topic : (or/c #f symbol?) = #f
 procedure
 (logger-name logger) -> (or/c symbol? #f)
   logger : logger?
@@ -11437,19 +12502,34 @@ parameter
 syntax
 (define-logger id)
 procedure
-(log-message logger level [name] message data) -> void?
+(log-message  logger                
+              level                 
+             [topic]                
+              message               
+              data                  
+             [prefix-message?]) -> void?
   logger : logger?
-  level : (or/c 'fatal 'error 'warning 'info 'debug)
-  name : (or/c symbol? #f) = (object-name logger)
+  level : log-level/c
+  topic : (or/c symbol? #f) = (logger-name logger)
   message : string?
   data : any/c
+  prefix-message? : any/c = #t
 procedure
-(log-level? logger level) -> boolean?
+(log-level? logger level [topic]) -> boolean?
   logger : logger?
-  level : (or/c 'fatal 'error 'warning 'info 'debug)
+  level : log-level/c
+  topic : (or/c symbol? #f) = #f
 procedure
-(log-max-level logger)
- -> (or/c #f 'fatal 'error 'warning 'info 'debug)
+(log-max-level logger [topic]) -> (or/c log-level/c #f)
+  logger : logger?
+  topic : (or/c symbol? #f) = #f
+procedure
+(log-all-levels logger) -> (list/c (or/c #f log-level/c)
+                                   (or/c #f symbol?)
+                                   ... ...)
+  logger : logger?
+procedure
+(log-level-evt logger) -> evt?
   logger : logger?
 syntax
 (log-fatal string-expr)
@@ -11470,10 +12550,42 @@ procedure
 (log-receiver? v) -> boolean?
   v : any/c
 procedure
-(make-log-receiver logger level [name ...] ...) -> log-receiver?
+(make-log-receiver logger level [topic ...] ...) -> log-receiver?
   logger : logger?
-  level : (or/c 'none 'fatal 'error 'warning 'info 'debug)
-  name : (or/c #f symbol?) = #f
+  level : log-level/c
+  topic : (or/c #f symbol?) = #f
+procedure
+(log-level/c v) -> boolean?
+  v : any/c
+procedure
+(with-intercepted-logging  interceptor          
+                           proc                 
+                          [#:logger logger]     
+                           level                
+                          [topic ...]           
+                           ...)             -> any
+  interceptor : (-> (vector/c
+                      log-level/c
+                      string?
+                      any/c
+                      (or/c symbol? #f))
+                     any)
+  proc : (-> any)
+  logger : logger? = #f
+  level : log-level/c
+  topic : (or/c #f symbol?) = #f
+procedure
+(with-logging-to-port  port                 
+                       proc                 
+                      [#:logger logger]     
+                       level                
+                      [topic ...]           
+                       ...)             -> any
+  port : output-port?
+  proc : (-> any)
+  logger : logger? = #f
+  level : log-level/c
+  topic : (or/c #f symbol?) = #f
 procedure
 (current-seconds) -> exact-integer?
 procedure
@@ -11483,18 +12595,18 @@ procedure
   secs-n : real?
   local-time? : any/c = #t
 struct
-(struct date                               (second
-                                           minute
-                                           hour
-                                           day
-                                           month
-                                           year
-                                           week-day
-                                           year-day
-                                           dst?
-                                           time-zone-offset)
-        #:extra-constructor-name make-date
-        #:transparent)
+(struct date (second
+              minute
+              hour
+              day
+              month
+              year
+              week-day
+              year-day
+              dst?
+              time-zone-offset)
+    #:extra-constructor-name make-date
+    #:transparent)
   second : (integer-in 0 60)
   minute : (integer-in 0 59)
   hour : (integer-in 0 23)
@@ -11507,14 +12619,14 @@ struct
   time-zone-offset : exact-integer?
 struct
 (struct date* date (nanosecond time-zone-name)
-        #:extra-constructor-name make-date*)
+    #:extra-constructor-name make-date*)
   nanosecond : (integer-in 0 999999999)
   time-zone-name : (and/c string? immutable?)
 procedure
 (current-milliseconds) -> exact-integer?
 procedure
-(current-process-milliseconds thread) -> exact-integer?
-  thread : (or/c thread? #f)
+(current-process-milliseconds [scope]) -> exact-integer?
+  scope : (or/c #f thread? 'subprocesses) = #f
 procedure
 (current-gc-milliseconds) -> exact-integer?
 procedure
@@ -11574,10 +12686,10 @@ procedure
   year : exact-nonnegative-integer?
   local-time? : any/c = #t
 procedure
-(date->julian/scalinger date) -> exact-integer?
+(date->julian/scaliger date) -> exact-integer?
   date : date?
 procedure
-(julian/scalinger->string date-number) -> string?
+(julian/scaliger->string date-number) -> string?
   date-number : exact-integer?
 procedure
 (environment-variables? v) -> boolean?
@@ -11629,8 +12741,8 @@ procedure
 procedure
 (system-type [mode])
  -> (or/c symbol? string? bytes? exact-positive-integer? vector?)
-  mode : (or/c 'os 'word 'gc 'link 'machine    = 'os
-               'so-suffix 'so-mode 'fs-change)
+  mode : (or/c 'os 'word 'vm 'gc 'link 'machine       = 'os
+               'so-suffix 'so-mode 'fs-change 'cross)
 procedure
 (system-language+country) -> string?
 procedure
@@ -11659,42 +12771,42 @@ syntax
               finish-clause)
  
 optional-name-expr = 
-                   | #:program name-expr
-                      
+                   | #:program name-expr
+                      
 optional-argv-expr = 
-                   | #:argv argv-expr
-                      
-flag-clause        = #:multi flag-spec ...
-                   | #:once-each flag-spec ...
-                   | #:once-any flag-spec ...
-                   | #:final flag-spec ...
-                   | #:usage-help string ...
-                   | #:help-labels string ...
-                   | #:ps string ...
-                      
-flag-spec          = (flags id ... help-spec body ...+)
-                   | (flags => handler-expr help-expr)
-                      
-flags              = flag-string
-                   | (flag-string ...+)
-                      
-help-spec          = string
-                   | (string-expr ...+)
-                      
-finish-clause      = 
-                   | #:args arg-formals body ...+
-                   | #:handlers handlers-exprs
-                      
-arg-formals        = rest-id
-                   | (arg ...)
-                   | (arg ...+ . rest-id)
-                      
-arg                = id
-                   | [id default-expr]
-                      
-handlers-exprs     = finish-expr arg-strings-expr
-                   | finish-expr arg-strings-expr help-expr
-                   | finish-expr arg-strings-expr help-expr
+                   | #:argv argv-expr
+                      
+       flag-clause = #:multi flag-spec ...
+                   | #:once-each flag-spec ...
+                   | #:once-any flag-spec ...
+                   | #:final flag-spec ...
+                   | #:usage-help string ...
+                   | #:help-labels string ...
+                   | #:ps string ...
+                      
+         flag-spec = (flags id ... help-spec body ...+)
+                   | (flags => handler-expr help-expr)
+                      
+             flags = flag-string
+                   | (flag-string ...+)
+                      
+         help-spec = string
+                   | (string-expr ...+)
+                      
+     finish-clause = 
+                   | #:args arg-formals body ...+
+                   | #:handlers handlers-exprs
+                      
+       arg-formals = rest-id
+                   | (arg ...)
+                   | (arg ...+ . rest-id)
+                      
+               arg = id
+                   | [id default-expr]
+                      
+    handlers-exprs = finish-expr arg-strings-expr
+                   | finish-expr arg-strings-expr help-expr
+                   | finish-expr arg-strings-expr help-expr
                      unknown-expr
 procedure
 (parse-command-line  name               
@@ -11711,6 +12823,10 @@ procedure
   arg-help-strs : (listof string?)
   help-proc : (string? . -> . any) = (lambda (str) ....)
   unknown-proc : (string? . -> . any) = (lambda (str) ...)
+procedure
+(gethostname) -> string?
+procedure
+(getpid) -> exact-integer?
 procedure
 (make-weak-box v) -> weak-box?
   v : any/c
@@ -11746,13 +12862,15 @@ procedure
 (will-execute executor) -> any
   executor : will-executor?
 procedure
-(will-try-execute executor) -> any
+(will-try-execute executor [v]) -> any
   executor : any/c
+  v : any/c = #f
 procedure
-(collect-garbage) -> void?
+(collect-garbage [request]) -> void?
+  request : (or/c 'major 'minor 'incremental) = 'major
 procedure
-(current-memory-use [cust]) -> exact-nonnegative-integer?
-  cust : custodian? = #f
+(current-memory-use [mode]) -> exact-nonnegative-integer?
+  mode : (or/c #f 'cumulative custodian?) = #f
 procedure
 (dump-memory-stats v ...) -> any
   v : any/c
@@ -11936,15 +13054,21 @@ procedure
   b : flonum?
 procedure
 (unsafe-make-flrectangular a b)
- -> (and/c complex? inexact? (not/c real?))
+ -> (and/c complex?
+           (lambda (c) (flonum? (real-part c)))
+           (lambda (c) (flonum? (imag-part c))))
   a : flonum?
   b : flonum?
 procedure
 (unsafe-flreal-part a) -> flonum?
-  a : (and/c complex? inexact? (not/c real?))
+  a : (and/c complex?
+             (lambda (c) (flonum? (real-part c)))
+             (lambda (c) (flonum? (imag-part c))))
 procedure
 (unsafe-flimag-part a) -> flonum?
-  a : (and/c complex? inexact? (not/c real?))
+  a : (and/c complex?
+             (lambda (c) (flonum? (real-part c)))
+             (lambda (c) (flonum? (imag-part c))))
 procedure
 (unsafe-fx->fl a) -> flonum?
   a : fixnum?
@@ -12055,10 +13179,22 @@ procedure
   k : fixnum?
   b : byte?
 procedure
+(unsafe-fxvector-length v) -> fixnum?
+  v : fxvector?
+procedure
+(unsafe-fxvector-ref v k) -> fixnum?
+  v : fxvector?
+  k : fixnum?
+procedure
+(unsafe-fxvector-set! v k x) -> void?
+  v : fxvector?
+  k : fixnum?
+  x : fixnum?
+procedure
 (unsafe-flvector-length v) -> fixnum?
   v : flvector?
 procedure
-(unsafe-flvector-ref v k) -> any/c
+(unsafe-flvector-ref v k) -> flonum?
   v : flvector?
   k : fixnum?
 procedure
@@ -12111,6 +13247,76 @@ procedure
   v : (not/c impersonator?)
   k : fixnum?
   val : any/c
+procedure
+(unsafe-mutable-hash-iterate-first h) -> (or/c #f any/c)
+  h : (and/c hash? (not/c immutable?) (not/c hash-weak?))
+procedure
+(unsafe-mutable-hash-iterate-next h i) -> (or/c #f any/c)
+  h : (and/c hash? (not/c immutable?) (not/c hash-weak?))
+  i : any/c
+procedure
+(unsafe-mutable-hash-iterate-key h i) -> any/c
+  h : (and/c hash? (not/c immutable?) (not/c hash-weak?))
+  i : any/c
+procedure
+(unsafe-mutable-hash-iterate-value h i) -> any/c
+  h : (and/c hash? (not/c immutable?) (not/c hash-weak?))
+  i : any/c
+procedure
+(unsafe-mutable-hash-iterate-key+value h i) -> any/c any/c
+  h : (and/c hash? (not/c immutable?) (not/c hash-weak?))
+  i : any/c
+procedure
+(unsafe-mutable-hash-iterate-pair h i) -> pair?
+  h : (and/c hash? (not/c immutable?) (not/c hash-weak?))
+  i : any/c
+procedure
+(unsafe-immutable-hash-iterate-first h) -> (or/c #f any/c)
+  h : (and/c hash? immutable?)
+procedure
+(unsafe-immutable-hash-iterate-next h i) -> (or/c #f any/c)
+  h : (and/c hash? immutable?)
+  i : any/c
+procedure
+(unsafe-immutable-hash-iterate-key h i) -> any/c
+  h : (and/c hash? immutable?)
+  i : any/c
+procedure
+(unsafe-immutable-hash-iterate-value h i) -> any/c
+  h : (and/c hash? immutable?)
+  i : any/c
+procedure
+(unsafe-immutable-hash-iterate-key+value h      
+                                         i) -> any/c any/c
+  h : (and/c hash? immutable?)
+  i : any/c
+procedure
+(unsafe-immutable-hash-iterate-pair h i) -> pair?
+  h : (and/c hash? immutable?)
+  i : any/c
+procedure
+(unsafe-weak-hash-iterate-first h) -> (or/c #f any/c)
+  h : (and/c hash? hash-weak?)
+procedure
+(unsafe-weak-hash-iterate-next h i) -> (or/c #f any/c)
+  h : (and/c hash? hash-weak?)
+  i : any/c
+procedure
+(unsafe-weak-hash-iterate-key h i) -> any/c
+  h : (and/c hash? hash-weak?)
+  i : any/c
+procedure
+(unsafe-weak-hash-iterate-value h i) -> any/c
+  h : (and/c hash? hash-weak?)
+  i : any/c
+procedure
+(unsafe-weak-hash-iterate-key+value h i) -> any/c any/c
+  h : (and/c hash? hash-weak?)
+  i : any/c
+procedure
+(unsafe-weak-hash-iterate-pair h i) -> pair?
+  h : (and/c hash? hash-weak?)
+  i : any/c
 procedure
 (unsafe-extfl+ a b) -> extflonum?
   a : extflonum?
@@ -12211,7 +13417,7 @@ procedure
 (unsafe-extflvector-length v) -> fixnum?
   v : extflvector?
 procedure
-(unsafe-extflvector-ref v k) -> any/c
+(unsafe-extflvector-ref v k) -> extflonum?
   v : extflvector?
   k : fixnum?
 procedure
@@ -12219,6 +13425,67 @@ procedure
   v : extflvector?
   k : fixnum?
   x : extflonum?
+procedure
+(unsafe-impersonate-procedure proc             
+                              replacement-proc 
+                              prop             
+                              prop-val ...     
+                              ...)             
+ -> (and/c procedure? impersonator?)
+  proc : procedure?
+  replacement-proc : procedure?
+  prop : impersonator-property?
+  prop-val : any
+procedure
+(unsafe-chaperone-procedure proc         
+                            wrapper-proc 
+                            prop         
+                            prop-val ... 
+                            ...)         
+ -> (and/c procedure? chaperone?)
+  proc : procedure?
+  wrapper-proc : procedure?
+  prop : impersonator-property?
+  prop-val : any
+procedure
+(unsafe-impersonate-vector vec             
+                           replacement-vec 
+                           prop            
+                           prop-val ...    
+                           ...)            
+ -> (and/c vector? impersonator?)
+  vec : vector?
+  replacement-vec : (and/c vector? (not/c impersonator?))
+  prop : impersonator-property?
+  prop-val : any/c
+procedure
+(unsafe-chaperone-vector vec             
+                         replacement-vec 
+                         prop            
+                         prop-val ...    
+                         ...)            
+ -> (and/c vector? chaperone?)
+  vec : vector?
+  replacement-vec : (and/c vector? (not/c impersonator?))
+  prop : impersonator-property?
+  prop-val : any/c
+value
+unsafe-undefined : any/c
+procedure
+(check-not-unsafe-undefined v sym)
+ -> (and/c any/c (not/c (one-of/c unsafe-undefined)))
+  v : any/c
+  sym : symbol?
+procedure
+(check-not-unsafe-undefined/assign v sym)
+ -> (and/c any/c (not/c (one-of/c unsafe-undefined)))
+  v : any/c
+  sym : symbol?
+procedure
+(chaperone-struct-unsafe-undefined v) -> any/c
+  v : any/c
+value
+prop:chaperone-unsafe-undefined : struct-type-property?
 procedure
 (find-library-collection-paths [pre-extras        
                                 post-extras]) -> (listof path?)
@@ -12228,15 +13495,21 @@ procedure
 (find-library-collection-links)
  -> (listof (or/c #f (and/c path? complete-path?)))
 procedure
-(collection-file-path file collection ...+) -> path?
+(collection-file-path  file                                
+                       collection ...+                     
+                      [#:check-compiled? check-compiled?]) 
+ -> path?
   file : path-string?
   collection : path-string?
-(collection-file-path file                  
-                      collection ...+       
-                      #:fail fail-proc) -> any
+  check-compiled? : any/c = (regexp-match? #rx"[.]rkt$" file)
+(collection-file-path  file                                    
+                       collection ...+                         
+                       #:fail fail-proc                        
+                      [#:check-compiled? check-compiled?]) -> any
   file : path-string?
   collection : path-string?
   fail-proc : (string? . -> . any)
+  check-compiled? : any/c = (regexp-match? #rx"[.]rkt$" file)
 procedure
 (collection-path collection ...+) -> path?
   collection : path-string?
@@ -12281,16 +13554,33 @@ syntax
 (enter! module-path flag ...+)
  
 flag = #:quiet
-     | #:verbose-reload
-     | #:verbose
-     | #:dont-re-require-enter
+     | #:verbose-reload
+     | #:verbose
+     | #:dont-re-require-enter
+procedure
+(dynamic-enter!  mod                                         
+                [#:verbosity verbosity                       
+                 #:re-require-enter? re-require-enter?]) -> void?
+  mod : (or/c module-path? #f)
+  verbosity : (or/c 'all 'reload 'none) = 'reload
+  re-require-enter? : any/c = #t
 procedure
 (dynamic-rerequire  module-path                 
-                   [#:verbosity verbosity]) -> void?
+                   [#:verbosity verbosity]) -> (listof path?)
   module-path : module-path?
   verbosity : (or/c 'all 'reload 'none) = 'reload
 syntax
 (trace id ...)
+syntax
+(trace-define id expr)
+(trace-define (head args) body ...+)
+syntax
+(trace-define-syntax id expr)
+(trace-define-syntax (head args) body ...+)
+syntax
+(trace-lambda [#:name id] args expr)
+syntax
+(trace-let id ([arg expr] ...+) body ...+)
 syntax
 (untrace id ...)
 parameter

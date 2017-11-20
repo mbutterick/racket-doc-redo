@@ -1,5 +1,5 @@
-14987
-((3) 0 () 38 ((q lib "web-server/configuration/configuration-table-structs.rkt") (q 16571 . 18) (q lib "web-server/configuration/responders.rkt") (q lib "web-server/private/timer.rkt") (q 18859 . 16) (q 14944 . 12) (q lib "web-server/web-server-sig.rkt") (q lib "web-server/private/util.rkt") (q lib "web-server/servlet/setup.rkt") (q lib "web-server/private/connection-manager.rkt") (q lib "web-server/private/mod-map.rkt") (q lib "web-server/private/servlet.rkt") (q 5626 . 9) (q 21022 . 7) (q 15620 . 8) (q 15882 . 16) (q 21609 . 8) (q 18325 . 12) (q lib "web-server/web-config-sig.rkt") (q lib "web-server/configuration/configuration-table.rkt") (q lib "web-server/dispatchers/dispatch-passwords.rkt") (q lib "web-server/web-server.rkt") (q lib "web-server/dispatchers/dispatch-stat.rkt") (q 17587 . 16) (q lib "web-server/dispatchers/dispatch-log.rkt") (q lib "web-server/private/cache-table.rkt") (q lib "web-server/private/dispatch-server-sig.rkt") (q lib "web-server/private/mime-types.rkt") (q lib "web-server/dispatchers/dispatch-servlets.rkt") (q lib "web-server/dispatchers/filesystem-map.rkt") (q lib "web-server/dispatchers/dispatch.rkt") (q lib "web-server/configuration/namespace.rkt") (q lib "web-server/private/url-param.rkt") (q lib "web-server/lang/serial-lambda.rkt") (q 947 . 3) (q lib "web-server/servlet-dispatch.rkt") (q lib "web-server/private/gzip.rkt") (q lib "web-server/web-config-unit.rkt")) () (h ! (equal) ((c def c (c (? . 0) q responders-file-not-found)) c (? . 1)) ((c def c (c (? . 7) q explode-path*)) q (23907 . 3)) ((c def c (c (? . 2) q gen-collect-garbage-responder)) q (20867 . 3)) ((c def c (c (? . 0) q host-table-timeouts)) c (? . 14)) ((c def c (c (? . 9) q connection-o-port)) c (? . 16)) ((c def c (c (? . 20) q make)) q (2301 . 7)) ((c def c (c (? . 0) q messages-servlets-refreshed)) c (? . 23)) ((c def c (c (? . 0) q struct:responders)) c (? . 1)) ((c def c (c (? . 0) q struct:configuration-table)) c (? . 5)) ((c def c (c (? . 19) q write-configuration-table)) q (14820 . 4)) ((c def c (c (? . 2) q gen-file-not-found-responder)) q (20751 . 4)) ((c def c (c (? . 3) q timer)) c (? . 13)) ((c def c (c (? . 0) q make-responders)) c (? . 1)) ((c def c (c (? . 11) q servlet-directory)) c (? . 12)) ((c def c (c (? . 0) q paths-conf)) c (? . 4)) ((q def ((lib "web-server/dispatchers/dispatch-lift.rkt") make)) q (1553 . 3)) ((c def c (c (? . 3) q timer-manager?)) q (20962 . 3)) ((c form c (c (? . 6) q web-server^)) q (12094 . 2)) ((c def c (c (? . 0) q paths-htdocs)) c (? . 4)) ((c def c (c (? . 2) q file-response)) q (19633 . 9)) ((c def c (c (? . 0) q configuration-table-initial-connection-timeout)) c (? . 5)) ((c def c (c (? . 0) q struct:timeouts)) c (? . 17)) ((c def c (c (? . 3) q start-timer)) q (21276 . 5)) ((c sig-val c (c (? . 6) q web-server^ serve)) q (12130 . 2)) ((c def c (c (? . 37) q configuration-table-sexpr->web-config@)) q (13407 . 15)) ((c def c (c (? . 8) q make-v1.servlet)) q (4144 . 5)) ((c def c (c (? . 7) q exn->string)) q (24379 . 3)) ((c def c (c (? . 8) q make-v2.servlet)) q (4320 . 5)) ((c def c (c (? . 10) q decompress-serial)) q (23234 . 3)) ((c def c (c (? . 9) q adjust-connection-timeout!)) q (22434 . 4)) ((c def c (c (? . 0) q host-paths)) c (? . 15)) ((c def c (c (? . 10) q compress-serial)) q (23174 . 3)) ((c def c (c (? . 21) q serve/ips+ports)) q (8386 . 18)) ((c def c (c (? . 11) q struct:servlet)) c (? . 12)) ((c def c (c (? . 2) q gen-servlet-not-found)) q (20020 . 3)) ((c def c (c (? . 3) q timer-tm)) c (? . 13)) ((c def c (c (? . 0) q host-table)) c (? . 14)) ((c def c (c (? . 0) q paths-mime-types)) c (? . 4)) ((c def c (c (? . 29) q make-url->valid-path)) q (1185 . 3)) ((c def c (c (? . 3) q start-timer-manager)) q (21224 . 2)) ((c def c (c (? . 22) q make)) q (6004 . 2)) ((c def c (c (? . 0) q configuration-table)) c (? . 5)) ((c def c (c (? . 0) q host-indices)) c (? . 15)) ((c def c (c (? . 9) q connection-timer)) c (? . 16)) ((c def c (c (? . 3) q cancel-timer!)) q (21553 . 3)) ((c def c (c (? . 7) q url-path->string)) q (23816 . 3)) ((c def c (c (? . 0) q timeouts-servlet-connection)) c (? . 17)) ((c def c (c (? . 0) q responders-collect-garbage)) c (? . 1)) ((c def c (c (? . 9) q connection-close?)) c (? . 16)) ((c def c (c (? . 2) q servlet-error-responder)) q (20124 . 4)) ((c def c (c (? . 0) q host-log-format)) c (? . 15)) ((c def c (c (? . 11) q set-servlet-namespace!)) c (? . 12)) ((c def c (c (? . 27) q read-mime-types)) q (22984 . 3)) ((c def c (c (? . 35) q serve/launch/wait)) q (11061 . 20)) ((q def ((lib "web-server/web-server-unit.rkt") web-server@)) q (12253 . 3)) ((c sig-val c (c (? . 18) q web-config^ initial-connection-timeout)) q (12483 . 2)) ((c def c (c (? . 7) q build-path-unless-absolute)) q (24165 . 4)) ((c def c (c (? . 0) q paths-servlet)) c (? . 4)) ((c sig-val c (c (? . 18) q web-config^ listen-ip)) q (12557 . 2)) ((c def c (c (? . 0) q responders-servlet)) c (? . 1)) ((c def c (c (? . 19) q configuration-table->sexpr)) q (14609 . 4)) ((c def c (c (? . 20) q password-file->authorized?)) q (2768 . 4)) ((c def c (c (? . 11) q set-servlet-manager!)) c (? . 12)) ((c def c (c (? . 21) q serve/web-config@)) q (9487 . 4)) ((c def c (c (? . 25) q cache-table-clear!)) q (22856 . 3)) ((c def c (c (? . 0) q responders?)) c (? . 1)) ((c def c (c (? . 8) q default-module-specs)) q (4848 . 2)) ((c def c (c (? . 3) q timer-evt)) c (? . 13)) ((c def c (c (? . 0) q responders-passwords-refreshed)) c (? . 1)) ((c def c (c (? . 0) q host-responders)) c (? . 15)) ((c def c (c (? . 0) q configuration-table-max-waiting)) c (? . 5)) ((c def c (c (? . 0) q configuration-table?)) c (? . 5)) ((c def c (c (? . 22) q make-gc-thread)) q (5936 . 3)) ((c def c (c (? . 11) q make-servlet)) c (? . 12)) ((c def c (c (? . 0) q host-table-paths)) c (? . 14)) ((c def c (c (? . 9) q connection-manager?)) q (21858 . 3)) ((c sig-val c (c (? . 26) q dispatch-server^ serve-ports)) q (146 . 4)) ((c def c (c (? . 0) q make-messages)) c (? . 23)) ((c def c (c (? . 11) q set-servlet-handler!)) c (? . 12)) ((c def c (c (? . 0) q responders-authentication)) c (? . 1)) ((q def ((lib "web-server/dispatchers/limit.rkt") make)) q (6039 . 5)) ((c sig-val c (c (? . 18) q web-config^ max-waiting)) q (12385 . 2)) ((c def c (c (? . 2) q gen-authentication-responder)) q (20515 . 4)) ((c def c (c (? . 21) q serve/ports)) q (7274 . 19)) ((c def c (c (? . 20) q denied?/c)) q (2271 . 2)) ((c sig-val c (c (? . 18) q web-config^ port)) q (12529 . 2)) ((c def c (c (? . 8) q make-stateless.servlet)) q (4496 . 9)) ((c def c (c (? . 21) q serve)) q (6235 . 19)) ((c def c (c (? . 0) q messages-file-not-found)) c (? . 23)) ((c def c (c (? . 0) q host-table?)) c (? . 14)) ((c def c (c (? . 24) q log-format->format)) q (2032 . 3)) ((c def c (c (? . 3) q timer-expire-seconds)) c (? . 13)) ((c def c (c (? . 0) q messages?)) c (? . 23)) ((c def c (c (? . 0) q struct:host)) c (? . 15)) ((c def c (c (? . 36) q gzip/bytes)) q (23488 . 3)) ((c def c (c (? . 0) q struct:paths)) c (? . 4)) ((c sig-val c (c (? . 18) q web-config^ virtual-hosts)) q (12434 . 2)) ((c def c (c (? . 9) q connection-custodian)) c (? . 16)) ((c def c (c (? . 32) q extract-param)) q (23393 . 4)) ((c def c (c (? . 20) q authorized?/c)) q (2636 . 2)) ((c def c (c (? . 11) q servlet-handler)) c (? . 12)) ((c def c (c (? . 24) q paren-format)) q (1879 . 2)) ((c def c (c (? . 0) q paths-passwords)) c (? . 4)) ((c def c (c (? . 31) q make-servlet-namespace/c)) q (5397 . 2)) ((q form ((lib "web-server/private/define-closure.rkt") define-closure)) q (22627 . 2)) ((c def c (c (? . 0) q timeouts?)) c (? . 17)) ((c def c (c (? . 25) q make-cache-table)) q (22688 . 2)) ((c form c (c (? . 26) q dispatch-server^)) q (0 . 2)) ((c def c (c (? . 28) q make)) q (3625 . 10)) ((c def c (c (? . 0) q responders-protocol)) c (? . 1)) ((c def c (c (? . 7) q bytes-ci=?)) q (23604 . 4)) ((c sig-val c (c (? . 26) q dispatch-server-config^ read-request)) q (455 . 5)) ((c def c (c (? . 25) q cache-table?)) q (22926 . 3)) ((c def c (c (? . 0) q host-table-messages)) c (? . 14)) ((c def c (c (? . 0) q make-paths)) c (? . 4)) ((c def c (c (? . 19) q read-configuration-table)) q (14725 . 3)) ((c def c (c (? . 9) q kill-connection!)) q (22370 . 3)) ((c sig-val c (c (? . 26) q dispatch-server-config^ port)) q (283 . 2)) ((c def c (c (? . 3) q increment-timer!)) q (21473 . 4)) ((c sig-val c (c (? . 26) q dispatch-server-config^ listen-ip)) q (315 . 2)) ((c form c (c (? . 26) q dispatch-server-config^)) q (235 . 2)) ((c def c (c (? . 27) q make-path->mime-type)) q (23069 . 3)) ((c def c (c (? . 0) q timeouts-default-servlet)) c (? . 17)) ((c def c (c (? . 0) q messages-authentication)) c (? . 23)) ((c sig-val c (c (? . 26) q dispatch-server-config^ initial-connection-timeout)) q (409 . 2)) ((c def c (c (? . 30) q dispatcher-interface-version/c)) q (867 . 3)) ((c sig-val c (c (? . 26) q dispatch-server-config^ dispatch)) q (645 . 2)) ((c def c (c (? . 3) q timer-action)) c (? . 13)) ((c def c (c (? . 9) q connection?)) c (? . 16)) ((c def c (c (? . 0) q messages)) c (? . 23)) ((c def c (c (? . 24) q apache-default-format)) q (1954 . 2)) ((c def c (c (? . 2) q gen-servlets-refreshed)) q (20338 . 3)) ((c def c (c (? . 24) q extended-format)) q (1915 . 2)) ((c def c (c (? . 25) q cache-table-lookup!)) q (22735 . 5)) ((c def c (c (? . 0) q host-table-indices)) c (? . 14)) ((c def c (c (? . 11) q set-servlet-custodian!)) c (? . 12)) ((c def c (c (? . 0) q messages-passwords-refreshed)) c (? . 23)) ((c def c (c (? . 28) q make-cached-url->servlet)) q (3425 . 6)) ((c def c (c (? . 2) q servlet-loading-responder)) q (19923 . 4)) ((c def c (c (? . 0) q timeouts-file-base)) c (? . 17)) ((c def c (c (? . 0) q messages-servlet)) c (? . 23)) ((c def c (c (? . 0) q configuration-table-virtual-hosts)) c (? . 5)) ((c def c (c (? . 11) q servlet?)) c (? . 12)) ((c def c (c (? . 8) q path->servlet/c)) q (4902 . 2)) ((c def c (c (? . 11) q servlet-manager)) c (? . 12)) ((c def c (c (? . 0) q make-configuration-table)) c (? . 5)) ((c def c (c (? . 0) q host-timeouts)) c (? . 15)) ((c def c (c (? . 9) q struct:connection)) c (? . 16)) ((c def c (c (? . 7) q network-error)) q (24273 . 5)) ((c def c (c (? . 0) q configuration-table-default-host)) c (? . 5)) ((c def c (c (? . 2) q gen-passwords-refreshed)) q (20426 . 3)) ((c def c (c (? . 0) q make-host-table)) c (? . 14)) ((c def c (c (? . 0) q paths-log)) c (? . 4)) ((c def c (c (? . 3) q struct:timer)) c (? . 13)) ((c def c (c (? . 0) q make-host)) c (? . 15)) ((c def c (c (? . 9) q new-connection)) q (21985 . 13)) ((c def c (c (? . 29) q make-url->path)) q (1109 . 3)) ((q def ((lib "web-server/dispatchers/dispatch-timeout.rkt") make)) q (1476 . 3)) ((c def c (c (? . 0) q struct:host-table)) c (? . 14)) ((c def c (c (? . 0) q responders)) c (? . 1)) ((c def c (c (? . 3) q timer?)) c (? . 13)) ((q def ((lib "web-server/dispatchers/dispatch-host.rkt") make)) q (2889 . 3)) ((c def c (c (? . 7) q path-without-base)) q (23986 . 4)) ((c def c (c (? . 19) q sexpr->configuration-table)) q (14496 . 3)) ((c def c (c (? . 0) q timeouts-password)) c (? . 17)) ((c def c (c (? . 30) q exn:dispatcher)) c (? . 34)) ((c sig-val c (c (? . 6) q web-server^ serve-ports)) q (12164 . 4)) ((c sig-val c (c (? . 26) q dispatch-server^ serve)) q (41 . 3)) ((c def c (c (? . 11) q servlet)) c (? . 12)) ((c def c (c (? . 0) q host-log-path)) c (? . 15)) ((c def c (c (? . 21) q do-not-return)) q (9677 . 2)) ((q def ((lib "web-server/dispatchers/dispatch-filter.rkt") make)) q (1637 . 4)) ((c def c (c (? . 31) q make-make-servlet-namespace)) q (5442 . 4)) ((c def c (c (? . 24) q log-format/c)) q (1999 . 2)) ((c form c (c (? . 33) q serial-case-lambda)) q (22572 . 2)) ((c def c (c (? . 0) q host-passwords)) c (? . 15)) ((c def c (c (? . 2) q gen-protocol-responder)) q (20646 . 3)) ((c sig-val c (c (? . 26) q dispatch-server-config^ max-waiting)) q (360 . 2)) ((c def c (c (? . 11) q servlet-namespace)) c (? . 12)) ((c def c (c (? . 0) q paths?)) c (? . 4)) ((c def c (c (? . 20) q make-basic-denied?/path)) q (2670 . 3)) ((c def c (c (? . 0) q make-timeouts)) c (? . 17)) ((c def c (c (? . 9) q connection-i-port)) c (? . 16)) ((q def ((lib "web-server/dispatchers/dispatch-sequencer.rkt") make)) q (1392 . 3)) ((c sig-val c (c (? . 18) q web-config^ make-servlet-namespace)) q (12602 . 2)) ((c def c (c (? . 28) q url->servlet/c)) q (3390 . 2)) ((c def c (c (? . 3) q reset-timer!)) q (21397 . 4)) ((c form c (c (? . 18) q web-config^)) q (12349 . 2)) ((c def c (c (? . 24) q format-req/c)) q (1846 . 2)) ((c def c (c (? . 0) q responders-servlets-refreshed)) c (? . 1)) ((c def c (c (? . 0) q host?)) c (? . 15)) ((c def c (c (? . 9) q start-connection-manager)) q (21923 . 2)) ((c def c (c (? . 32) q insert-param)) q (23298 . 5)) ((c def c (c (? . 24) q make)) q (2109 . 4)) ((c def c (c (? . 0) q messages-protocol)) c (? . 23)) ((c def c (c (? . 0) q struct:messages)) c (? . 23)) ((c def c (c (? . 30) q next-dispatcher)) q (1039 . 2)) ((c form c (c (? . 33) q serial-lambda)) q (22529 . 2)) ((c def c (c (? . 0) q responders-servlet-loading)) c (? . 1)) ((c def c (c (? . 0) q host)) c (? . 15)) ((c def c (c (? . 11) q servlet-custodian)) c (? . 12)) ((c def c (c (? . 7) q directory-part)) q (24101 . 3)) ((c def c (c (? . 8) q make-default-path->servlet)) q (4938 . 8)) ((c def c (c (? . 9) q make-connection)) c (? . 16)) ((c def c (c (? . 30) q make-exn:dispatcher)) c (? . 34)) ((c def c (c (? . 0) q host-table-log-format)) c (? . 14)) ((c def c (c (? . 29) q url->path/c)) q (1077 . 2)) ((c def c (c (? . 30) q struct:exn:dispatcher)) c (? . 34)) ((c def c (c (? . 35) q dispatch/servlet)) q (9713 . 22)) ((c def c (c (? . 19) q configuration-table-sexpr?)) q (14435 . 2)) ((c def c (c (? . 0) q timeouts-file-per-byte)) c (? . 17)) ((c def c (c (? . 29) q filter-url->path)) q (1276 . 4)) ((c def c (c (? . 36) q gunzip/bytes)) q (23545 . 3)) ((q def ((lib "web-server/dispatchers/dispatch-files.rkt") make)) q (3001 . 8)) ((c def c (c (? . 0) q paths-host-base)) c (? . 4)) ((q def ((lib "web-server/private/dispatch-server-unit.rkt") dispatch-server@)) q (695 . 3)) ((c def c (c (? . 9) q connection)) c (? . 16)) ((c def c (c (? . 11) q set-servlet-directory!)) c (? . 12)) ((c def c (c (? . 30) q dispatcher/c)) q (834 . 2)) ((c def c (c (? . 2) q gen-servlet-responder)) q (20219 . 4)) ((c def c (c (? . 0) q configuration-table-port)) c (? . 5)) ((c def c (c (? . 30) q exn:dispatcher?)) c (? . 34)) ((c def c (c (? . 0) q messages-collect-garbage)) c (? . 23)) ((c def c (c (? . 19) q default-configuration-table-path)) q (14386 . 2)) ((c def c (c (? . 37) q configuration-table->web-config@)) q (12660 . 12)) ((c def c (c (? . 3) q make-timer)) c (? . 13)) ((q def ((lib "web-server/dispatchers/dispatch-pathprocedure.rkt") make)) q (1735 . 4)) ((c def c (c (? . 7) q url-replace-path)) q (23685 . 4)) ((c def c (c (? . 0) q paths)) c (? . 4)) ((c def c (c (? . 0) q timeouts)) c (? . 17))))
+15590
+((3) 0 () 40 ((q lib "web-server/configuration/configuration-table-structs.rkt") (q 17140 . 12) (q lib "web-server/private/servlet.rkt") (q 6118 . 9) (q lib "web-server/dispatchers/dispatch-log.rkt") (q lib "web-server/private/connection-manager.rkt") (q lib "web-server/private/timer.rkt") (q lib "web-server/servlet/setup.rkt") (q 19172 . 16) (q lib "web-server/configuration/responders.rkt") (q 17923 . 16) (q lib "web-server/configuration/configuration-table.rkt") (q lib "web-server/private/dispatch-server-sig.rkt") (q 20078 . 16) (q 18399 . 18) (q 22613 . 8) (q lib "web-server/web-config-sig.rkt") (q 22028 . 7) (q lib "web-server/private/util.rkt") (q 19697 . 12) (q 17663 . 8) (q lib "web-server/web-server.rkt") (q lib "web-server/dispatchers/dispatch-passwords.rkt") (q lib "web-server/dispatchers/dispatch-servlets.rkt") (q lib "web-server/private/cache-table.rkt") (q lib "web-server/dispatchers/dispatch.rkt") (q lib "web-server/private/mime-types.rkt") (q lib "web-server/servlet-dispatch.rkt") (q lib "web-server/dispatchers/filesystem-map.rkt") (q lib "web-server/private/mod-map.rkt") (q lib "web-server/private/dispatch-server-unit.rkt") (q lib "web-server/web-server-sig.rkt") (q lib "web-server/private/gzip.rkt") (q 1398 . 3) (q lib "web-server/web-server-unit.rkt") (q lib "web-server/lang/serial-lambda.rkt") (q lib "web-server/private/url-param.rkt") (q lib "web-server/web-config-unit.rkt") (q lib "web-server/dispatchers/dispatch-stat.rkt") (q lib "web-server/configuration/namespace.rkt")) () (h ! (equal) ((c def c (c (? . 0) q struct:configuration-table)) c (? . 1)) ((c def c (c (? . 36) q insert-param)) q (24373 . 5)) ((q form ((lib "web-server/private/define-closure.rkt") define-closure)) q (23629 . 2)) ((c def c (c (? . 23) q make-cached-url->servlet)) q (3873 . 7)) ((c sig-val c (c (? . 12) q dispatch-server-connect^ port->real-ports)) q (284 . 4)) ((c def c (c (? . 6) q start-timer-manager)) q (22228 . 2)) ((c def c (c (? . 28) q make-url->valid-path)) q (1633 . 3)) ((c def c (c (? . 5) q kill-connection!)) q (23372 . 3)) ((c def c (c (? . 29) q compress-serial)) q (24249 . 3)) ((c def c (c (? . 24) q cache-table?)) q (24001 . 3)) ((c def c (c (? . 2) q set-servlet-manager!)) c (? . 3)) ((c def c (c (? . 0) q responders-collect-garbage)) c (? . 14)) ((c def c (c (? . 0) q configuration-table-initial-connection-timeout)) c (? . 1)) ((q def ((lib "web-server/dispatchers/dispatch-filter.rkt") make)) q (2085 . 4)) ((c def c (c (? . 2) q set-servlet-custodian!)) c (? . 3)) ((c def c (c (? . 4) q paren-format)) q (2327 . 2)) ((c def c (c (? . 0) q configuration-table-port)) c (? . 1)) ((c def c (c (? . 4) q make)) q (2557 . 4)) ((c def c (c (? . 0) q messages?)) c (? . 8)) ((c def c (c (? . 5) q connection-close?)) c (? . 15)) ((c def c (c (? . 6) q timer-evt)) c (? . 17)) ((c def c (c (? . 2) q struct:servlet)) c (? . 3)) ((c def c (c (? . 18) q path-without-base)) q (25061 . 4)) ((c def c (c (? . 7) q make-v2.servlet)) q (4812 . 5)) ((c def c (c (? . 11) q write-configuration-table)) q (17016 . 4)) ((c def c (c (? . 7) q default-module-specs)) q (5340 . 2)) ((c def c (c (? . 2) q servlet-manager)) c (? . 3)) ((c def c (c (? . 9) q gen-passwords-refreshed)) q (21432 . 3)) ((c def c (c (? . 0) q messages)) c (? . 8)) ((c def c (c (? . 0) q host-paths)) c (? . 10)) ((c def c (c (? . 9) q file-response)) q (20639 . 9)) ((c sig-val c (c (? . 16) q web-config^ initial-connection-timeout)) q (14679 . 2)) ((c def c (c (? . 0) q messages-passwords-refreshed)) c (? . 8)) ((c def c (c (? . 2) q servlet-namespace)) c (? . 3)) ((c def c (c (? . 0) q make-host)) c (? . 10)) ((c def c (c (? . 11) q configuration-table-sexpr?)) q (16631 . 2)) ((q def ((lib "web-server/dispatchers/dispatch-sequencer.rkt") make)) q (1840 . 3)) ((c form c (c (? . 12) q dispatch-server-config^)) q (399 . 2)) ((c def c (c (? . 0) q make-configuration-table)) c (? . 1)) ((c def c (c (? . 4) q format-req/c)) q (2294 . 2)) ((c def c (c (? . 0) q paths-mime-types)) c (? . 13)) ((q def ((lib "web-server/dispatchers/dispatch-pathprocedure.rkt") make)) q (2183 . 4)) ((c def c (c (? . 0) q messages-collect-garbage)) c (? . 8)) ((c def c (c (? . 0) q make-messages)) c (? . 8)) ((c def c (c (? . 0) q paths)) c (? . 13)) ((c def c (c (? . 2) q set-servlet-handler!)) c (? . 3)) ((c def c (c (? . 9) q servlet-loading-responder)) q (20929 . 4)) ((c def c (c (? . 4) q extended-format)) q (2363 . 2)) ((c def c (c (? . 0) q struct:responders)) c (? . 14)) ((c def c (c (? . 0) q paths-host-base)) c (? . 13)) ((c def c (c (? . 0) q host-indices)) c (? . 10)) ((c def c (c (? . 0) q struct:timeouts)) c (? . 19)) ((c def c (c (? . 0) q host?)) c (? . 10)) ((c def c (c (? . 5) q connection)) c (? . 15)) ((c sig-val c (c (? . 16) q web-config^ max-waiting)) q (14581 . 2)) ((c def c (c (? . 0) q host-responders)) c (? . 10)) ((c def c (c (? . 0) q responders-servlet)) c (? . 14)) ((c def c (c (? . 25) q dispatcher-interface-version/c)) q (1318 . 3)) ((c def c (c (? . 0) q host-passwords)) c (? . 10)) ((c def c (c (? . 6) q make-timer)) c (? . 17)) ((c def c (c (? . 2) q servlet-directory)) c (? . 3)) ((c def c (c (? . 18) q write/bytes)) q (25594 . 3)) ((c def c (c (? . 4) q apache-default-format)) q (2402 . 2)) ((c def c (c (? . 9) q gen-servlets-refreshed)) q (21344 . 3)) ((c def c (c (? . 0) q host-table-messages)) c (? . 20)) ((c def c (c (? . 7) q path->servlet/c)) q (5394 . 2)) ((c def c (c (? . 5) q start-connection-manager)) q (22925 . 2)) ((c def c (c (? . 18) q directory-part)) q (25176 . 3)) ((c def c (c (? . 0) q make-timeouts)) c (? . 19)) ((c def c (c (? . 0) q paths-log)) c (? . 13)) ((c def c (c (? . 0) q make-paths)) c (? . 13)) ((c def c (c (? . 0) q responders?)) c (? . 14)) ((c def c (c (? . 0) q host-table-log-format)) c (? . 20)) ((c sig-val c (c (? . 12) q dispatch-server-config^ port)) q (447 . 2)) ((q def ((lib "web-server/dispatchers/dispatch-timeout.rkt") make)) q (1924 . 3)) ((c def c (c (? . 21) q do-not-return)) q (11759 . 2)) ((c def c (c (? . 0) q responders-servlets-refreshed)) c (? . 14)) ((c def c (c (? . 0) q configuration-table-max-waiting)) c (? . 1)) ((c def c (c (? . 0) q timeouts-password)) c (? . 19)) ((c def c (c (? . 27) q serve/launch/wait)) q (13143 . 20)) ((c def c (c (? . 18) q read/bytes)) q (25528 . 3)) ((c def c (c (? . 0) q struct:host-table)) c (? . 20)) ((c sig-val c (c (? . 16) q web-config^ port)) q (14725 . 2)) ((c def c (c (? . 0) q messages-authentication)) c (? . 8)) ((c def c (c (? . 6) q timer-manager?)) q (21968 . 3)) ((c def c (c (? . 2) q set-servlet-directory!)) c (? . 3)) ((c def c (c (? . 2) q servlet)) c (? . 3)) ((c def c (c (? . 5) q connection-manager?)) q (22860 . 3)) ((q def ((lib "web-server/dispatchers/limit.rkt") make)) q (6527 . 5)) ((c def c (c (? . 11) q sexpr->configuration-table)) q (16692 . 3)) ((c def c (c (? . 0) q host-log-path)) c (? . 10)) ((c form c (c (? . 16) q web-config^)) q (14545 . 2)) ((c def c (c (? . 21) q serve)) q (6723 . 23)) ((c def c (c (? . 0) q messages-protocol)) c (? . 8)) ((c def c (c (? . 18) q explode-path*)) q (24982 . 3)) ((q def ((lib "web-server/dispatchers/dispatch-host.rkt") make)) q (3337 . 3)) ((c def c (c (? . 22) q denied?/c)) q (2719 . 2)) ((c form c (c (? . 12) q dispatch-server-connect^)) q (235 . 2)) ((c def c (c (? . 26) q make-path->mime-type)) q (24144 . 3)) ((c def c (c (? . 0) q timeouts-servlet-connection)) c (? . 19)) ((c def c (c (? . 9) q gen-authentication-responder)) q (21521 . 4)) ((c def c (c (? . 0) q timeouts-file-base)) c (? . 19)) ((c def c (c (? . 0) q messages-servlets-refreshed)) c (? . 8)) ((c def c (c (? . 9) q gen-file-not-found-responder)) q (21757 . 4)) ((c def c (c (? . 0) q messages-file-not-found)) c (? . 8)) ((c def c (c (? . 0) q struct:paths)) c (? . 13)) ((c sig-val c (c (? . 12) q dispatch-server^ serve-ports)) q (146 . 4)) ((c def c (c (? . 22) q make)) q (2749 . 7)) ((c def c (c (? . 7) q make-stateless.servlet)) q (4988 . 9)) ((c def c (c (? . 23) q make)) q (4117 . 10)) ((c def c (c (? . 0) q make-responders)) c (? . 14)) ((c def c (c (? . 5) q connection-o-port)) c (? . 15)) ((c def c (c (? . 2) q servlet?)) c (? . 3)) ((c def c (c (? . 6) q timer?)) c (? . 17)) ((c def c (c (? . 11) q configuration-table->sexpr)) q (16805 . 4)) ((c def c (c (? . 24) q cache-table-clear!)) q (23858 . 4)) ((c def c (c (? . 0) q timeouts)) c (? . 19)) ((c def c (c (? . 5) q adjust-connection-timeout!)) q (23436 . 4)) ((c def c (c (? . 25) q next-dispatcher)) q (1488 . 2)) ((c def c (c (? . 2) q set-servlet-namespace!)) c (? . 3)) ((c def c (c (? . 6) q timer)) c (? . 17)) ((c def c (c (? . 30) q dispatch-server@)) q (1096 . 4)) ((c def c (c (? . 24) q cache-table-lookup!)) q (23737 . 5)) ((c def c (c (? . 37) q configuration-table->web-config@)) q (14856 . 12)) ((c def c (c (? . 9) q gen-servlet-responder)) q (21225 . 4)) ((c def c (c (? . 7) q make-v1.servlet)) q (4636 . 5)) ((c def c (c (? . 0) q paths-conf)) c (? . 13)) ((c def c (c (? . 0) q paths-htdocs)) c (? . 13)) ((c def c (c (? . 26) q read-mime-types)) q (24059 . 3)) ((c def c (c (? . 5) q connection-i-port)) c (? . 15)) ((c def c (c (? . 0) q timeouts-file-per-byte)) c (? . 19)) ((c def c (c (? . 34) q web-server-with-connect@)) q (14324 . 4)) ((c def c (c (? . 21) q serve/ips+ports)) q (9416 . 22)) ((c def c (c (? . 7) q make-default-path->servlet)) q (5430 . 8)) ((c def c (c (? . 22) q authorized?/c)) q (3084 . 2)) ((c def c (c (? . 6) q timer-tm)) c (? . 17)) ((c sig-val c (c (? . 16) q web-config^ virtual-hosts)) q (14630 . 2)) ((c def c (c (? . 18) q build-path-unless-absolute)) q (25240 . 4)) ((c def c (c (? . 6) q struct:timer)) c (? . 17)) ((c def c (c (? . 0) q host-log-format)) c (? . 10)) ((c def c (c (? . 39) q make-make-servlet-namespace)) q (5934 . 4)) ((c def c (c (? . 18) q exn->string)) q (25454 . 3)) ((c def c (c (? . 6) q timer-expire-seconds)) c (? . 17)) ((c def c (c (? . 5) q struct:connection)) c (? . 15)) ((c def c (c (? . 32) q gunzip/bytes)) q (24620 . 3)) ((c def c (c (? . 0) q responders-servlet-loading)) c (? . 14)) ((c def c (c (? . 18) q path-piece?)) q (25655 . 2)) ((c def c (c (? . 27) q dispatch/servlet)) q (11795 . 22)) ((c def c (c (? . 28) q filter-url->path)) q (1724 . 4)) ((c def c (c (? . 6) q timer-action)) c (? . 17)) ((c def c (c (? . 9) q servlet-error-responder)) q (21130 . 4)) ((c sig-val c (c (? . 12) q dispatch-server^ serve)) q (41 . 3)) ((c def c (c (? . 29) q decompress-serial)) q (24309 . 3)) ((c def c (c (? . 0) q host-table-indices)) c (? . 20)) ((c def c (c (? . 21) q raw:dispatch-server-connect@)) q (11439 . 3)) ((c def c (c (? . 5) q connection-timer)) c (? . 15)) ((c form c (c (? . 12) q dispatch-server^)) q (0 . 2)) ((c def c (c (? . 11) q read-configuration-table)) q (16921 . 3)) ((c def c (c (? . 25) q make-exn:dispatcher)) c (? . 33)) ((c def c (c (? . 0) q responders-protocol)) c (? . 14)) ((c sig-val c (c (? . 31) q web-server^ serve)) q (14201 . 2)) ((c def c (c (? . 30) q dispatch-server-with-connect@)) q (865 . 6)) ((c form c (c (? . 35) q serial-case-lambda)) q (23574 . 2)) ((c form c (c (? . 31) q web-server^)) q (14165 . 2)) ((c sig-val c (c (? . 12) q dispatch-server-config^ dispatch)) q (815 . 2)) ((c def c (c (? . 18) q bytes-ci=?)) q (24679 . 4)) ((c sig-val c (c (? . 12) q dispatch-server-config^ max-waiting)) q (527 . 2)) ((c def c (c (? . 32) q gzip/bytes)) q (24563 . 3)) ((c def c (c (? . 28) q url->path/c)) q (1525 . 2)) ((c def c (c (? . 6) q start-timer)) q (22280 . 5)) ((c def c (c (? . 25) q exn:dispatcher)) c (? . 33)) ((c def c (c (? . 0) q struct:messages)) c (? . 8)) ((c def c (c (? . 21) q serve/web-config@)) q (10795 . 11)) ((c def c (c (? . 0) q host-timeouts)) c (? . 10)) ((c sig-val c (c (? . 16) q web-config^ make-servlet-namespace)) q (14798 . 2)) ((c def c (c (? . 5) q make-connection)) c (? . 15)) ((c def c (c (? . 28) q make-url->path)) q (1557 . 3)) ((c sig-val c (c (? . 31) q web-server^ serve-ports)) q (14235 . 4)) ((c def c (c (? . 0) q responders-file-not-found)) c (? . 14)) ((c def c (c (? . 0) q paths-passwords)) c (? . 13)) ((c def c (c (? . 2) q servlet-handler)) c (? . 3)) ((c def c (c (? . 0) q struct:host)) c (? . 10)) ((c def c (c (? . 18) q url-replace-path)) q (24760 . 4)) ((c def c (c (? . 0) q host-table-paths)) c (? . 20)) ((c sig-val c (c (? . 16) q web-config^ listen-ip)) q (14753 . 2)) ((c def c (c (? . 0) q paths?)) c (? . 13)) ((c def c (c (? . 21) q serve/ports)) q (8030 . 23)) ((c def c (c (? . 9) q gen-servlet-not-found)) q (21026 . 3)) ((c sig-val c (c (? . 12) q dispatch-server-config^ initial-connection-timeout)) q (576 . 2)) ((c def c (c (? . 23) q url->servlet/c)) q (3838 . 2)) ((c def c (c (? . 22) q make-basic-denied?/path)) q (3118 . 3)) ((c def c (c (? . 34) q web-server@)) q (14449 . 3)) ((c def c (c (? . 0) q configuration-table-default-host)) c (? . 1)) ((c def c (c (? . 5) q new-connection)) q (22987 . 13)) ((c def c (c (? . 38) q make)) q (6492 . 2)) ((c def c (c (? . 4) q log-format->format)) q (2480 . 3)) ((c def c (c (? . 0) q make-host-table)) c (? . 20)) ((c def c (c (? . 24) q make-cache-table)) q (23690 . 2)) ((c def c (c (? . 0) q messages-servlet)) c (? . 8)) ((c sig-val c (c (? . 12) q dispatch-server-config^ read-request)) q (622 . 5)) ((c def c (c (? . 25) q struct:exn:dispatcher)) c (? . 33)) ((c def c (c (? . 22) q password-file->authorized?)) q (3216 . 4)) ((c def c (c (? . 21) q make-ssl-connect@)) q (11534 . 6)) ((c def c (c (? . 0) q timeouts-default-servlet)) c (? . 19)) ((c def c (c (? . 2) q servlet-custodian)) c (? . 3)) ((c def c (c (? . 4) q log-format/c)) q (2447 . 2)) ((c def c (c (? . 0) q host-table)) c (? . 20)) ((c form c (c (? . 35) q serial-lambda)) q (23531 . 2)) ((c def c (c (? . 36) q extract-param)) q (24468 . 4)) ((c def c (c (? . 6) q increment-timer!)) q (22477 . 4)) ((c def c (c (? . 0) q host-table-timeouts)) c (? . 20)) ((c def c (c (? . 0) q responders)) c (? . 14)) ((c def c (c (? . 0) q configuration-table-virtual-hosts)) c (? . 1)) ((c def c (c (? . 2) q make-servlet)) c (? . 3)) ((c def c (c (? . 0) q paths-servlet)) c (? . 13)) ((c def c (c (? . 5) q connection?)) c (? . 15)) ((c def c (c (? . 0) q host-table?)) c (? . 20)) ((c def c (c (? . 0) q configuration-table)) c (? . 1)) ((c def c (c (? . 37) q configuration-table-sexpr->web-config@)) q (15603 . 15)) ((c def c (c (? . 6) q cancel-timer!)) q (22557 . 3)) ((c def c (c (? . 0) q host)) c (? . 10)) ((c def c (c (? . 18) q url-path->string)) q (24891 . 3)) ((q def ((lib "web-server/dispatchers/dispatch-files.rkt") make)) q (3449 . 8)) ((c def c (c (? . 0) q responders-passwords-refreshed)) c (? . 14)) ((c sig-val c (c (? . 12) q dispatch-server-config^ listen-ip)) q (482 . 2)) ((c def c (c (? . 5) q connection-custodian)) c (? . 15)) ((c def c (c (? . 9) q gen-collect-garbage-responder)) q (21873 . 3)) ((c def c (c (? . 0) q responders-authentication)) c (? . 14)) ((c def c (c (? . 0) q configuration-table?)) c (? . 1)) ((c def c (c (? . 9) q gen-protocol-responder)) q (21652 . 3)) ((c def c (c (? . 0) q timeouts?)) c (? . 19)) ((c def c (c (? . 18) q network-error)) q (25348 . 5)) ((q def ((lib "web-server/dispatchers/dispatch-lift.rkt") make)) q (2001 . 3)) ((c def c (c (? . 11) q default-configuration-table-path)) q (16582 . 2)) ((c def c (c (? . 6) q reset-timer!)) q (22401 . 4)) ((c def c (c (? . 38) q make-gc-thread)) q (6424 . 3)) ((c def c (c (? . 39) q make-servlet-namespace/c)) q (5889 . 2)) ((c def c (c (? . 25) q exn:dispatcher?)) c (? . 33)) ((c def c (c (? . 25) q dispatcher/c)) q (1285 . 2))))
 signature
 dispatch-server^ : signature
 procedure
@@ -10,9 +10,15 @@ procedure
   ip : input-port?
   op : output-port?
 signature
+dispatch-server-connect^ : signature
+procedure
+(port->real-ports ip op) -> input-port? output-port?
+  ip : input-port?
+  op : output-port?
+signature
 dispatch-server-config^ : signature
 value
-port : tcp-listen-port?
+port : listen-port-number?
 value
 listen-ip : (or/c string? false/c)
 value
@@ -22,12 +28,19 @@ initial-connection-timeout : integer?
 procedure
 (read-request c p port-addresses) -> any/c boolean?
   c : connection?
-  p : tcp-listen-port?
+  p : listen-port-number?
   port-addresses : (input-port? . -> . (values string? string?))
 value
 dispatch : (-> connection? any/c void)
 value
-dispatch-server@ : (unit/c (import tcp^ dispatch-server-config^)
+dispatch-server-with-connect@
+ : (unit/c (import tcp^
+                   dispatch-server-connect^
+                   dispatch-server-config^)
+           (export dispatch-server^))
+value
+dispatch-server@ : (unit/c (import tcp^
+                                   dispatch-server-config^)
                            (export dispatch-server^))
 value
 dispatcher/c : contract?
@@ -36,9 +49,9 @@ procedure
   any : any/c
 struct
 (struct exn:dispatcher ()
-        #:extra-constructor-name make-exn:dispatcher)
+    #:extra-constructor-name make-exn:dispatcher)
 procedure
-(next-dispatcher) -> void
+(next-dispatcher) -> any
 value
 url->path/c : contract?
 procedure
@@ -119,7 +132,8 @@ url->servlet/c : contract?
 procedure
 (make-cached-url->servlet url->path      
                           path->serlvet) 
- -> (-> void) url->servlet/c
+ -> (->* () ((or/c false/c (listof url?))) void?)
+    url->servlet/c
   url->path : url->path/c
   path->serlvet : path->servlet/c
 procedure
@@ -171,8 +185,8 @@ procedure
   to-be-copied-module-specs : (listof module-path?)
 struct
 (struct servlet (custodian namespace manager directory handler)
-        #:extra-constructor-name make-servlet
-        #:mutable)
+    #:extra-constructor-name make-servlet
+    #:mutable)
   custodian : custodian?
   namespace : namespace?
   manager : manager?
@@ -193,6 +207,7 @@ procedure
         #:dispatch dispatch                                       
        [#:confirmation-channel confirmation-channel               
         #:connection-close? connection-close?                     
+        #:dispatch-server-connect@ dispatch-server-connect@       
         #:tcp@ tcp@                                               
         #:port port                                               
         #:listen-ip listen-ip                                     
@@ -202,8 +217,11 @@ procedure
   dispatch : dispatcher/c
   confirmation-channel : (or/c false/c async-channel?) = #f
   connection-close? : boolean? = #f
+  dispatch-server-connect@ : (unit/c (import)
+                                     (export dispatch-server-connect^))
+                           = raw:dispatch-server-connect@
   tcp@ : (unit/c (import) (export tcp^)) = raw:tcp@
-  port : tcp-listen-port? = 80
+  port : listen-port-number? = 80
   listen-ip : (or/c string? false/c) = #f
   max-waiting : integer? = 511
   initial-connection-timeout : integer? = 60
@@ -212,6 +230,7 @@ procedure
               #:dispatch dispatch                                       
              [#:confirmation-channel confirmation-channel               
               #:connection-close? connection-close?                     
+              #:dispatch-server-connect@ dispatch-server-connect@       
               #:tcp@ tcp@                                               
               #:ports ports                                             
               #:listen-ip listen-ip                                     
@@ -221,8 +240,11 @@ procedure
   dispatch : dispatcher/c
   confirmation-channel : (or/c false/c async-channel?) = #f
   connection-close? : boolean? = #f
+  dispatch-server-connect@ : (unit/c (import)
+                                     (export dispatch-server-connect^))
+                           = raw:dispatch-server-connect@
   tcp@ : (unit/c (import) (export tcp^)) = raw:tcp@
-  ports : (listof tcp-listen-port?) = (list 80)
+  ports : (listof listen-port-number?) = (list 80)
   listen-ip : (or/c string? false/c) = #f
   max-waiting : integer? = 511
   initial-connection-timeout : integer? = 60
@@ -231,6 +253,7 @@ procedure
                   #:dispatch dispatch                                       
                  [#:confirmation-channel confirmation-channel               
                   #:connection-close? connection-close?                     
+                  #:dispatch-server-connect@ dispatch-server-connect@       
                   #:tcp@ tcp@                                               
                   #:ips+ports ips+ports                                     
                   #:max-waiting max-waiting                                 
@@ -239,15 +262,34 @@ procedure
   dispatch : dispatcher/c
   confirmation-channel : (or/c false/c async-channel?) = #f
   connection-close? : boolean? = #f
+  dispatch-server-connect@ : (unit/c (import)
+                                     (export dispatch-server-connect^))
+                           = raw:dispatch-server-connect@
   tcp@ : (unit/c (import) (export tcp^)) = raw:tcp@
-  ips+ports : (listof (cons/c (or/c string? false/c) (listof tcp-listen-port?)))
+  ips+ports : (listof (cons/c (or/c string? false/c) (listof listen-port-number?)))
             = (list (cons #f (list 80)))
   max-waiting : integer? = 511
   initial-connection-timeout : integer? = 60
 procedure
-(serve/web-config@ config@ [#:tcp@ tcp@]) -> (-> void)
+(serve/web-config@                                                      
+                    config@                                             
+                   [#:dispatch-server-connect@ dispatch-server-connect@ 
+                    #:tcp@ tcp@])                                       
+ -> (-> void)
   config@ : (unit/c (import) (export web-config^))
+  dispatch-server-connect@ : (unit/c (import)
+                                     (export dispatch-server-connect^))
+                           = raw:dispatch-server-connect@
   tcp@ : (unit/c (import) (export tcp^)) = raw:tcp@
+value
+raw:dispatch-server-connect@
+ : (unit/c (import) (export dispatch-server-connect^))
+procedure
+(make-ssl-connect@ server-cert-file 
+                   server-key-file) 
+ -> (unit/c (import) (export dispatch-server-connect^))
+  server-cert-file : path-string?
+  server-key-file : path-string?
 procedure
 (do-not-return) -> void
 procedure
@@ -273,15 +315,15 @@ procedure
   responders-servlet : (url? any/c . -> . can-be-response?)
                      = servlet-error-responder
 procedure
-(serve/launch/wait  make-dispatcher                          
-                   [#:connection-close? connection-close?    
-                    #:launch-path launch-path                
-                    #:banner? banner?                        
-                    #:listen-ip listen-ip                    
-                    #:port port]                             
-                    #:max-waiting exact-nonnegative-integer? 
-                   [#:ssl-cert ssl-cert                      
-                    #:ssl-key ssl-key])                      
+(serve/launch/wait  make-dispatcher                       
+                   [#:connection-close? connection-close? 
+                    #:launch-path launch-path             
+                    #:banner? banner?                     
+                    #:listen-ip listen-ip                 
+                    #:port port                           
+                    #:max-waiting max-waiting             
+                    #:ssl-cert ssl-cert                   
+                    #:ssl-key ssl-key])                   
  -> void
   make-dispatcher : (semaphore? . -> . dispatcher/c)
   connection-close? : boolean? = #f
@@ -289,7 +331,7 @@ procedure
   banner? : boolean? = #f
   listen-ip : (or/c false/c string?) = "127.0.0.1"
   port : number? = 8000
-  exact-nonnegative-integer? : 511
+  max-waiting : exact-nonnegative-integer? = 511
   ssl-cert : (or/c false/c path-string?) = #f
   ssl-key : (or/c false/c path-string?) = #f
 signature
@@ -300,6 +342,10 @@ procedure
 (serve-ports ip op) -> void
   ip : input-port?
   op : output-port?
+value
+web-server-with-connect@
+ : (unit/c (web-config^ tcp^ dispatch-server-connect^)
+           (web-server^))
 value
 web-server@ : (unit/c (web-config^ tcp^)
                       (web-server^))
@@ -363,12 +409,12 @@ procedure
   ctable : configuration-table?
   path : path-string?
 struct
-(struct configuration-table                                (port
-                                                           max-waiting
-                                                           initial-connection-timeout
-                                                           default-host
-                                                           virtual-hosts)
-        #:extra-constructor-name make-configuration-table)
+(struct configuration-table (port
+                             max-waiting
+                             initial-connection-timeout
+                             default-host
+                             virtual-hosts)
+    #:extra-constructor-name make-configuration-table)
   port : port-number?
   max-waiting : exact-nonnegative-integer?
   initial-connection-timeout : natural-number/c
@@ -376,21 +422,21 @@ struct
   virtual-hosts : (listof (cons/c string? host-table?))
 struct
 (struct host-table (indices log-format messages timeouts paths)
-        #:extra-constructor-name make-host-table)
+    #:extra-constructor-name make-host-table)
   indices : (listof string?)
   log-format : symbol?
   messages : messages?
   timeouts : timeouts?
   paths : paths?
 struct
-(struct host                                (indices
-                                            log-format
-                                            log-path
-                                            passwords
-                                            responders
-                                            timeouts
-                                            paths)
-        #:extra-constructor-name make-host)
+(struct host (indices
+              log-format
+              log-path
+              passwords
+              responders
+              timeouts
+              paths)
+    #:extra-constructor-name make-host)
   indices : (listof string?)
   log-format : symbol?
   log-path : (or/c false/c path-string?)
@@ -399,15 +445,15 @@ struct
   timeouts : timeouts?
   paths : paths?
 struct
-(struct responders                                (servlet
-                                                  servlet-loading
-                                                  authentication
-                                                  servlets-refreshed
-                                                  passwords-refreshed
-                                                  file-not-found
-                                                  protocol
-                                                  collect-garbage)
-        #:extra-constructor-name make-responders)
+(struct responders (servlet
+                    servlet-loading
+                    authentication
+                    servlets-refreshed
+                    passwords-refreshed
+                    file-not-found
+                    protocol
+                    collect-garbage)
+    #:extra-constructor-name make-responders)
   servlet : (url? any/c . -> . response?)
   servlet-loading : (url? any/c . -> . response?)
   authentication : (url? (cons/c symbol? string?) . -> . response?)
@@ -417,14 +463,14 @@ struct
   protocol : (url? . -> . response?)
   collect-garbage : (-> response?)
 struct
-(struct messages                                (servlet
-                                                authentication
-                                                servlets-refreshed
-                                                passwords-refreshed
-                                                file-not-found
-                                                protocol
-                                                collect-garbage)
-        #:extra-constructor-name make-messages)
+(struct messages (servlet
+                  authentication
+                  servlets-refreshed
+                  passwords-refreshed
+                  file-not-found
+                  protocol
+                  collect-garbage)
+    #:extra-constructor-name make-messages)
   servlet : string?
   authentication : string?
   servlets-refreshed : string?
@@ -433,26 +479,26 @@ struct
   protocol : string?
   collect-garbage : string?
 struct
-(struct timeouts                                (default-servlet
-                                                password
-                                                servlet-connection
-                                                file-per-byte
-                                                file-base)
-        #:extra-constructor-name make-timeouts)
+(struct timeouts (default-servlet
+                  password
+                  servlet-connection
+                  file-per-byte
+                  file-base)
+    #:extra-constructor-name make-timeouts)
   default-servlet : number?
   password : number?
   servlet-connection : number?
   file-per-byte : number?
   file-base : number?
 struct
-(struct paths                                (conf
-                                             host-base
-                                             log
-                                             htdocs
-                                             servlet
-                                             mime-types
-                                             passwords)
-        #:extra-constructor-name make-paths)
+(struct paths (conf
+               host-base
+               log
+               htdocs
+               servlet
+               mime-types
+               passwords)
+    #:extra-constructor-name make-paths)
   conf : (or/c false/c path-string?)
   host-base : (or/c false/c path-string?)
   log : (or/c false/c path-string?)
@@ -509,7 +555,7 @@ procedure
   x : any/c
 struct
 (struct timer (tm evt expire-seconds action)
-        #:extra-constructor-name make-timer)
+    #:extra-constructor-name make-timer)
   tm : timer-manager?
   evt : evt?
   expire-seconds : number?
@@ -534,7 +580,7 @@ procedure
   t : timer?
 struct
 (struct connection (timer i-port o-port custodian close?)
-        #:extra-constructor-name make-connection)
+    #:extra-constructor-name make-connection)
   timer : timer?
   i-port : input-port?
   o-port : output-port?
@@ -579,8 +625,9 @@ procedure
   id : symbol?
   mk : (-> any/c)
 procedure
-(cache-table-clear! ct) -> void?
+(cache-table-clear! ct [entry-ids]) -> void?
   ct : cache-table?
+  entry-ids : (or/c false/c (listof symbol?)) = #f
 procedure
 (cache-table? v) -> boolean?
   v : any/c
@@ -644,3 +691,11 @@ procedure
 procedure
 (exn->string exn) -> string?
   exn : (or/c exn? any/c)
+procedure
+(read/bytes bstr) -> printable/c
+  bstr : bytes?
+procedure
+(write/bytes v) -> bytes?
+  v : printable/c
+value
+path-piece? : contract?

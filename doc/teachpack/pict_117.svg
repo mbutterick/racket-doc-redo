@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91pt" height="91pt" viewBox="0 0 91 91" version="1.1">
-<g id="surface4537">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,100%);fill-opacity:1;" d="M 90 50 C 90 72.089844 72.089844 90 50 90 C 27.910156 90 10 72.089844 10 50 C 10 27.910156 27.910156 10 50 10 C 72.089844 10 90 27.910156 90 50 Z M 90 50 "/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,0%,0%);fill-opacity:1;" d="M 80 40 C 80 62.089844 62.089844 80 40 80 C 17.910156 80 0 62.089844 0 40 C 0 17.910156 17.910156 0 40 0 C 62.089844 0 80 17.910156 80 40 Z M 80 40 "/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="187" height="187" viewBox="0 0 187 187" version="1.1">
+<g id="surface6848">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,0%);fill-opacity:1;" d="M 3 3 C 3 3 183 3 183 3 C 183 3 183 183 183 183 C 183 183 3 183 3 183 C 3 183 3 3 3 3 Z "/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 112.5 163.5 C 112.5 163.5 29.5 151.5 29.5 151.5 C 29.5 151.5 49.5 39.5 49.5 39.5 C 49.5 39.5 96.5 47.5 96.5 47.5 C 96.5 47.5 92.5 71.5 92.5 71.5 C 92.5 71.5 125.5 75.5 125.5 75.5 C 125.5 75.5 112.5 163.5 112.5 163.5 Z "/>
 </g>
 </svg>

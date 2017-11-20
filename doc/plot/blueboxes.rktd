@@ -1,5 +1,5 @@
-22707
-((3) 0 () 12 ((q lib "plot/main.rkt") (q lib "plot/utils.rkt") (q lib "plot/compat.rkt") (q 82832 . 4) (q 89827 . 7) (q 74128 . 5) (q 82696 . 5) (q lib "plot/bitmap.rkt") (q 83124 . 5) (q 86151 . 5) (q 89380 . 5) (q lib "plot/pict.rkt")) () (h ! (equal) ((c def c (c (? . 0) q surface)) q (114871 . 9)) ((c def c (c (? . 0) q date-ticks)) q (76311 . 7)) ((c def c (c (? . 1) q plot-time-hour)) c (? . 4)) ((c def c (c (? . 0) q time-ticks-formats)) q (78128 . 5)) ((c def c (c (? . 0) q plot-background)) q (91106 . 5)) ((c def c (c (? . 1) q plot-colors/c)) q (112471 . 4)) ((c def c (c (? . 0) q error-bar-width)) q (98444 . 5)) ((c def c (c (? . 1) q v/)) q (88491 . 4)) ((c def c (c (? . 0) q plot3d-samples)) q (105552 . 5)) ((c def c (c (? . 0) q animated-samples)) q (94841 . 5)) ((c def c (c (? . 2) q vector-field)) q (119052 . 12)) ((c def c (c (? . 0) q polar-axes)) q (37974 . 9)) ((c def c (c (? . 0) q plot-z-transform)) q (71404 . 5)) ((c def c (c (? . 0) q plot-y-far-ticks)) q (73168 . 5)) ((c def c (c (? . 11) q plot)) q (6451 . 3)) ((c def c (c (? . 0) q contour-colors)) q (99857 . 5)) ((c def c (c (? . 1) q ->brush-style)) q (87490 . 3)) ((c def c (c (? . 0) q plot-y-label)) q (92431 . 5)) ((c def c (c (? . 0) q interval-alpha)) q (96787 . 5)) ((c def c (c (? . 0) q function)) q (10343 . 23)) ((c def c (c (? . 0) q parametric3d)) q (49797 . 31)) ((c def c (c (? . 0) q discrete-histogram-gap)) q (101931 . 5)) ((c def c (c (? . 0) q 12h-descending-date-ticks-formats)) q (77157 . 18)) ((c def c (c (? . 2) q derivative)) q (120846 . 4)) ((c def c (c (? . 1) q bounds->intervals)) q (89552 . 3)) ((c def c (c (? . 0) q axis-transform-compose)) q (72430 . 4)) ((c def c (c (? . 0) q contour-interval-line-widths)) q (107196 . 5)) ((c def c (c (? . 0) q contour-styles)) q (100187 . 5)) ((c def c (c (? . 0) q ticks)) c (? . 5)) ((c def c (c (? . 0) q vector-field3d)) q (47202 . 31)) ((c def c (c (? . 0) q apply-axis-transform)) q (72643 . 6)) ((c def c (c (? . 0) q surface-style)) q (106401 . 5)) ((c def c (c (? . 1) q floor-log/base)) q (87912 . 4)) ((c def c (c (? . 0) q tick)) c (? . 3)) ((c def c (c (? . 0) q ticks-default-number)) q (74275 . 5)) ((c def c (c (? . 1) q ivl)) c (? . 10)) ((c def c (c (? . 0) q axis-transform/c)) q (71964 . 3)) ((c def c (c (? . 0) q error-bar-color)) q (98552 . 5)) ((c def c (c (? . 0) q plot3d-file)) q (4133 . 10)) ((c def c (c (? . 0) q plot3d-pict)) q (4779 . 3)) ((c def c (c (? . 0) q no-ticks-format)) q (80794 . 4)) ((c def c (c (? . 0) q plot-ps/pdf-interactive?)) q (90853 . 5)) ((c def c (c (? . 0) q no-ticks)) q (80909 . 3)) ((c def c (c (? . 1) q mapped-function-fmap)) c (? . 9)) ((c def c (c (? . 0) q tick?)) c (? . 3)) ((c def c (c (? . 0) q y-axis-alpha)) q (103470 . 5)) ((c def c (c (? . 0) q error-bar-line-width)) q (98666 . 5)) ((c def c (c (? . 0) q pre-tick)) c (? . 6)) ((c def c (c (? . 7) q plot)) q (6657 . 3)) ((c def c (c (? . 0) q error-bar-line-style)) q (98784 . 5)) ((c def c (c (? . 1) q plot-time-minute)) c (? . 4)) ((c def c (c (? . 0) q tick-label)) c (? . 3)) ((c def c (c (? . 1) q 3d-polar->3d-cartesian)) q (87660 . 5)) ((c def c (c (? . 0) q ticks-layout)) c (? . 5)) ((c def c (c (? . 0) q interval-style)) q (95900 . 5)) ((c def c (c (? . 0) q default-isosurface-colors)) q (107575 . 5)) ((c def c (c (? . 0) q contour-widths)) q (100032 . 5)) ((c def c (c (? . 0) q surface3d)) q (51130 . 31)) ((c def c (c (? . 1) q maybe-inexact->exact)) q (88029 . 3)) ((c def c (c (? . 1) q vcenter)) q (89226 . 3)) ((c def c (c (? . 1) q plot-time)) c (? . 4)) ((c def c (c (? . 0) q plot)) q (0 . 29)) ((c def c (c (? . 1) q vdot)) q (88935 . 4)) ((c def c (c (? . 0) q plot-file)) q (3619 . 10)) ((c def c (c (? . 0) q plot-deprecation-warnings?)) q (90203 . 5)) ((c def c (c (? . 1) q renderer3d?)) q (109367 . 3)) ((c def c (c (? . 0) q contour-levels)) q (99652 . 6)) ((c def c (c (? . 0) q contour-samples)) q (99489 . 5)) ((c def c (c (? . 0) q plot-jpeg-quality)) q (90713 . 5)) ((c def c (c (? . 0) q inverse-label)) q (41416 . 30)) ((c def c (c (? . 0) q surface-line-width)) q (106648 . 5)) ((c def c (c (? . 0) q bit/byte-ticks-format)) q (80980 . 5)) ((c def c (c (? . 0) q plot-title)) q (92183 . 5)) ((c def c (c (? . 0) q struct:pre-tick)) c (? . 6)) ((c def c (c (? . 0) q polar-interval)) q (23810 . 39)) ((c def c (c (? . 0) q 24h-descending-date-ticks-formats)) q (76811 . 18)) ((c def c (c (? . 0) q isosurface-styles)) q (108411 . 5)) ((c def c (c (? . 7) q plot3d)) q (6769 . 3)) ((c def c (c (? . 0) q polar-axes-alpha)) q (104780 . 5)) ((c def c (c (? . 0) q struct:invertible-function)) c (? . 8)) ((c def c (c (? . 2) q shade)) q (120044 . 7)) ((c def c (c (? . 0) q invertible-inverse)) q (83467 . 5)) ((c def c (c (? . 0) q discrete-histogram-invert?)) q (102185 . 5)) ((c def c (c (? . 0) q y-axis-far?)) q (103795 . 5)) ((c def c (c (? . 0) q plot-z-label)) q (92560 . 5)) ((c def c (c (? . 0) q label-anchor)) q (105134 . 5)) ((c def c (c (? . 0) q vector-field-color)) q (97584 . 5)) ((c def c (c (? . 2) q mix)) q (120698 . 3)) ((c def c (c (? . 0) q currency-ticks-format)) q (78750 . 8)) ((c def c (c (? . 0) q isosurface-line-styles)) q (108962 . 5)) ((c def c (c (? . 0) q surface-color)) q (106291 . 5)) ((c def c (c (? . 0) q plot-y-far-label)) q (92814 . 5)) ((c def c (c (? . 0) q default-isosurface-line-colors)) q (107796 . 5)) ((c def c (c (? . 0) q stretch-transform)) q (71628 . 5)) ((c def c (c (? . 0) q plot-x-far-label)) q (92683 . 5)) ((c def c (c (? . 0) q vector-field-scale)) q (97973 . 6)) ((c def c (c (? . 0) q interval-line1-style)) q (96271 . 5)) ((c def c (c (? . 0) q contour-interval-line-colors)) q (107013 . 5)) ((c def c (c (? . 0) q isosurface-line-colors)) q (108590 . 5)) ((c def c (c (? . 0) q date-ticks-format)) q (76180 . 3)) ((c def c (c (? . 0) q line-alpha)) q (95678 . 5)) ((c def c (c (? . 0) q x-ticks)) q (70109 . 4)) ((c def c (c (? . 2) q plot3d)) q (116389 . 39)) ((c def c (c (? . 1) q v-)) q (88228 . 4)) ((c def c (c (? . 0) q time-ticks-format)) q (77663 . 3)) ((c def c (c (? . 1) q real->plot-label)) q (84210 . 5)) ((c def c (c (? . 0) q interval-line2-style)) q (96650 . 5)) ((c def c (c (? . 0) q axis-transform-append)) q (72071 . 5)) ((c def c (c (? . 0) q ticks-layout/c)) q (82941 . 3)) ((c def c (c (? . 0) q point-color)) q (97009 . 5)) ((c def c (c (? . 2) q error-bars)) q (118865 . 5)) ((c def c (c (? . 0) q time-ticks-layout)) q (77527 . 3)) ((c def c (c (? . 0) q plot-x-transform)) q (71118 . 5)) ((c def c (c (? . 0) q eu-currency-formats)) q (80614 . 3)) ((c def c (c (? . 0) q tick-grid)) q (38461 . 2)) ((c def c (c (? . 0) q label-angle)) q (105240 . 5)) ((c def c (c (? . 0) q linear-scale)) q (83639 . 6)) ((c def c (c (? . 0) q plot-foreground-alpha)) q (91220 . 5)) ((c def c (c (? . 0) q stacked-histogram3d)) q (66421 . 45)) ((c def c (c (? . 0) q make-invertible-function)) c (? . 8)) ((c def c (c (? . 1) q v+)) q (88124 . 4)) ((c def c (c (? . 0) q y-tick-lines)) q (38419 . 2)) ((c def c (c (? . 0) q make-tick)) c (? . 3)) ((c def c (c (? . 0) q isosurface-colors)) q (108227 . 5)) ((c def c (c (? . 0) q stacked-histogram-colors)) q (102465 . 5)) ((c def c (c (? . 0) q no-ticks-layout)) q (80722 . 3)) ((c def c (c (? . 1) q vcross)) q (88674 . 4)) ((c def c (c (? . 1) q color/c)) q (109702 . 5)) ((c def c (c (? . 0) q us-currency-formats)) q (80403 . 3)) ((c def c (c (? . 0) q vector-field-alpha)) q (98164 . 5)) ((c def c (c (? . 0) q z-axis-alpha)) q (103584 . 5)) ((c def c (c (? . 0) q ticks-format/c)) q (83023 . 3)) ((c def c (c (? . 1) q v*)) q (88403 . 4)) ((c def c (c (? . 1) q vneg)) q (88332 . 3)) ((c def c (c (? . 0) q polar-axes-ticks?)) q (104904 . 5)) ((c def c (c (? . 1) q rational-ivl?)) q (89493 . 3)) ((c def c (c (? . 0) q rectangle-line-color)) q (101308 . 5)) ((c def c (c (? . 0) q plot-z-far-ticks)) q (73407 . 5)) ((c def c (c (? . 0) q x-axis-ticks?)) q (103989 . 5)) ((c def c (c (? . 1) q mapped-function)) c (? . 9)) ((c def c (c (? . 0) q stacked-histogram-line-widths)) q (103018 . 5)) ((c def c (c (? . 1) q maybe-function/c)) q (112174 . 5)) ((c def c (c (? . 0) q points)) q (6889 . 25)) ((c def c (c (? . 0) q struct:tick)) c (? . 3)) ((c def c (c (? . 0) q stacked-histogram-line-colors)) q (102650 . 5)) ((c def c (c (? . 0) q plot-decorations?)) q (95076 . 5)) ((c def c (c (? . 0) q y-axis-labels?)) q (104413 . 5)) ((c def c (c (? . 0) q 24h-descending-time-ticks-formats)) q (78294 . 12)) ((c def c (c (? . 1) q anchor/c)) q (109498 . 5)) ((c def c (c (? . 1) q struct:mapped-function)) c (? . 9)) ((c def c (c (? . 0) q ticks-format)) c (? . 5)) ((c def c (c (? . 1) q clamp-real)) q (89633 . 4)) ((c def c (c (? . 0) q plot-line-width)) q (91714 . 5)) ((c def c (c (? . 0) q ticks-mimic)) q (82406 . 3)) ((c def c (c (? . 0) q isosurface-levels)) q (108016 . 6)) ((c def c (c (? . 0) q cbrt-transform)) q (71839 . 2)) ((c def c (c (? . 1) q nonlinear-seq)) q (85698 . 13)) ((c def c (c (? . 0) q function-interval)) q (16287 . 35)) ((c def c (c (? . 1) q font-family/c)) q (110398 . 2)) ((c def c (c (? . 0) q plot-pict)) q (4675 . 3)) ((c def c (c (? . 0) q log-ticks-format)) q (75622 . 3)) ((c def c (c (? . 0) q currency-ticks-formats)) q (79976 . 5)) ((c def c (c (? . 0) q parametric-interval)) q (21715 . 39)) ((c def c (c (? . 0) q label-point-size)) q (105444 . 5)) ((c def c (c (? . 0) q plot-y-tick-label-angle)) q (93452 . 5)) ((c def c (c (? . 1) q make-ivl)) c (? . 10)) ((c def c (c (? . 0) q rectangles3d)) q (62858 . 29)) ((c def c (c (? . 0) q plot-x-ticks)) q (72820 . 5)) ((c def c (c (? . 0) q shade)) q (114602 . 6)) ((c def c (c (? . 1) q vmag)) q (89090 . 3)) ((c def c (c (? . 1) q kde)) q (86340 . 6)) ((c def c (c (? . 0) q plot-new-window?)) q (90340 . 5)) ((c def c (c (? . 0) q plot3d-angle)) q (105713 . 5)) ((c def c (c (? . 0) q error-bar-alpha)) q (98921 . 5)) ((c def c (c (? . 0) q y-ticks)) q (70223 . 4)) ((c def c (c (? . 0) q plot-font-family)) q (91589 . 5)) ((c def c (c (? . 0) q surface-line-style)) q (106764 . 5)) ((c def c (c (? . 0) q plot3d)) q (1334 . 39)) ((c def c (c (? . 1) q renderer2d?)) q (109302 . 3)) ((c def c (c (? . 0) q pre-tick?)) c (? . 6)) ((c def c (c (? . 0) q discrete-histogram3d)) q (64270 . 41)) ((c def c (c (? . 1) q ceiling-log/base)) q (87793 . 4)) ((c def c (c (? . 0) q ticks-scale)) q (82602 . 4)) ((c def c (c (? . 0) q log-ticks)) q (75742 . 6)) ((c def c (c (? . 0) q vector-field-samples)) q (97433 . 5)) ((c def c (c (? . 0) q plot-y-far-tick-label-anchor)) q (93832 . 5)) ((c def c (c (? . 0) q rectangle-alpha)) q (101687 . 5)) ((c def c (c (? . 2) q line)) q (118200 . 18)) ((c def c (c (? . 11) q plot3d)) q (6550 . 3)) ((c def c (c (? . 0) q line)) q (113446 . 17)) ((c def c (c (? . 0) q contour-alphas)) q (100367 . 5)) ((c def c (c (? . 0) q plot-y-far-tick-label-angle)) q (93970 . 5)) ((c def c (c (? . 1) q polar->cartesian)) q (87561 . 4)) ((c def c (c (? . 0) q parametric)) q (13068 . 27)) ((c def c (c (? . 1) q nonrenderer?)) q (109432 . 3)) ((c def c (c (? . 0) q isoline)) q (25807 . 25)) ((c def c (c (? . 1) q known-point-symbols)) q (110545 . 22)) ((c def c (c (? . 0) q ticks?)) c (? . 5)) ((c def c (c (? . 1) q ivl-min)) c (? . 10)) ((c def c (c (? . 0) q uk-currency-formats)) q (80509 . 3)) ((c def c (c (? . 0) q plot-animating?)) q (94724 . 5)) ((c def c (c (? . 0) q id-function)) q (83295 . 2)) ((c def c (c (? . 0) q invertible-function-g)) c (? . 8)) ((c def c (c (? . 1) q point-sym/c)) q (110437 . 3)) ((c def c (c (? . 1) q pen-widths/c)) q (112765 . 4)) ((c def c (c (? . 0) q invertible-function)) c (? . 8)) ((c def c (c (? . 0) q pre-tick-major?)) c (? . 6)) ((c def c (c (? . 0) q make-pre-tick)) c (? . 6)) ((c def c (c (? . 0) q x-axis-far?)) q (103698 . 5)) ((c def c (c (? . 0) q make-axis-transform)) q (72551 . 3)) ((c def c (c (? . 0) q contour-intervals3d)) q (56642 . 49)) ((c def c (c (? . 0) q axis-transform-bound)) q (72214 . 7)) ((c def c (c (? . 0) q log-transform)) q (71587 . 2)) ((c def c (c (? . 1) q plot-pen-style/c)) q (109904 . 5)) ((c def c (c (? . 0) q default-contour-fill-colors)) q (99255 . 5)) ((c def c (c (? . 1) q ->plot-label)) q (84473 . 4)) ((c def c (c (? . 0) q ticks-add)) q (82476 . 5)) ((c def c (c (? . 0) q plot/dc)) q (5137 . 15)) ((c def c (c (? . 0) q date-ticks-layout)) q (76044 . 3)) ((c def c (c (? . 0) q z-ticks)) q (70337 . 4)) ((c def c (c (? . 1) q v=)) q (88579 . 4)) ((c def c (c (? . 1) q plot-pen-styles/c)) q (112614 . 4)) ((c def c (c (? . 0) q contours)) q (26820 . 26)) ((c def c (c (? . 0) q rectangle3d-line-width)) q (101807 . 5)) ((c def c (c (? . 1) q seconds->plot-time)) q (90137 . 3)) ((c def c (c (? . 0) q point-sym)) q (96907 . 5)) ((c def c (c (? . 0) q isosurface-line-widths)) q (108789 . 5)) ((c def c (c (? . 0) q bit/byte-ticks)) q (81181 . 11)) ((c def c (c (? . 1) q mapped-function-f)) c (? . 9)) ((c def c (c (? . 0) q plot-x-far-ticks)) q (72929 . 5)) ((c def c (c (? . 1) q real->string/trunc)) q (84576 . 4)) ((c def c (c (? . 0) q axes)) q (37287 . 17)) ((c def c (c (? . 0) q plot-x-tick-label-angle)) q (93205 . 5)) ((c def c (c (? . 0) q 12h-descending-time-ticks-formats)) q (78514 . 12)) ((c def c (c (? . 0) q plot-foreground)) q (90992 . 5)) ((c def c (c (? . 1) q plot-time?)) c (? . 4)) ((c def c (c (? . 0) q linear-ticks)) q (74853 . 10)) ((c def c (c (? . 0) q label-alpha)) q (105332 . 5)) ((c def c (c (? . 0) q invertible-function?)) c (? . 8)) ((c def c (c (? . 0) q plot-x-label)) q (92302 . 5)) ((c def c (c (? . 1) q vmag^2)) q (89029 . 3)) ((c def c (c (? . 0) q interval-color)) q (95788 . 5)) ((c def c (c (? . 0) q line-style)) q (95561 . 5)) ((c def c (c (? . 0) q plot3d-ambient-light)) q (105915 . 5)) ((c def c (c (? . 0) q invisible-rect)) q (70451 . 6)) ((c def c (c (? . 0) q mix)) q (113345 . 3)) ((c def c (c (? . 0) q inverse-interval)) q (18152 . 35)) ((c def c (c (? . 1) q datetime->real)) q (89704 . 3)) ((c def c (c (? . 0) q plot-snip)) q (3139 . 3)) ((c def c (c (? . 1) q color-seq*)) q (86854 . 10)) ((c def c (c (? . 0) q currency-ticks)) q (79139 . 13)) ((c def c (c (? . 0) q vector-field3d-samples)) q (98290 . 5)) ((c def c (c (? . 0) q contour-interval-line-styles)) q (107379 . 6)) ((c def c (c (? . 0) q function-label)) q (39946 . 30)) ((c def c (c (? . 0) q lines)) q (12254 . 21)) ((c def c (c (? . 0) q stacked-histogram-line-styles)) q (102839 . 5)) ((c def c (c (? . 0) q plot-legend-box-alpha)) q (91944 . 5)) ((c def c (c (? . 0) q plot-z-ticks)) q (73298 . 5)) ((c def c (c (? . 1) q linear-seq)) q (85021 . 11)) ((c def c (c (? . 2) q surface)) q (120344 . 10)) ((c def c (c (? . 1) q ivl-max)) c (? . 10)) ((c def c (c (? . 0) q contours3d)) q (55240 . 30)) ((c def c (c (? . 0) q isoline3d)) q (54034 . 29)) ((c def c (c (? . 0) q plot-legend-anchor)) q (91822 . 5)) ((c def c (c (? . 0) q z-axis-ticks?)) q (104199 . 5)) ((c def c (c (? . 0) q density)) q (15268 . 25)) ((c def c (c (? . 0) q plot-z-far-label)) q (92945 . 5)) ((c def c (c (? . 0) q contour-interval-alphas)) q (100900 . 5)) ((c def c (c (? . 0) q isosurface-alphas)) q (109147 . 5)) ((c def c (c (? . 0) q rectangle-line-style)) q (101550 . 5)) ((c def c (c (? . 0) q x-axis-labels?)) q (104304 . 5)) ((c def c (c (? . 1) q make-mapped-function)) c (? . 9)) ((c def c (c (? . 0) q polar-axes-labels?)) q (105017 . 5)) ((c def c (c (? . 0) q discrete-histogram)) q (32464 . 36)) ((c def c (c (? . 0) q make-ticks)) c (? . 5)) ((c def c (c (? . 1) q ->color)) q (87175 . 3)) ((c def c (c (? . 1) q digits-for-range)) q (83873 . 9)) ((c def c (c (? . 0) q rectangle-style)) q (101177 . 5)) ((c def c (c (? . 2) q points)) q (117947 . 6)) ((c def c (c (? . 1) q integer->superscript)) q (84947 . 3)) ((c def c (c (? . 0) q point-alpha)) q (97321 . 5)) ((c def c (c (? . 0) q point-label)) q (38510 . 27)) ((c def c (c (? . 0) q plot-y-tick-label-anchor)) q (93321 . 5)) ((c def c (c (? . 0) q polar3d)) q (52595 . 31)) ((c def c (c (? . 0) q invertible-function-f)) c (? . 8)) ((c def c (c (? . 0) q polar-axes-number)) q (104631 . 5)) ((c def c (c (? . 0) q uk-currency-scales)) q (80248 . 3)) ((c def c (c (? . 0) q error-bars)) q (9352 . 21)) ((c def c (c (? . 0) q contour-interval-styles)) q (100710 . 6)) ((c def c (c (? . 0) q plot-d-ticks)) q (73910 . 5)) ((c def c (c (? . 0) q stacked-histogram)) q (34438 . 41)) ((c def c (c (? . 1) q make-plot-time)) c (? . 4)) ((c def c (c (? . 0) q contour-interval-colors)) q (100514 . 5)) ((c def c (c (? . 0) q area-histogram)) q (31019 . 29)) ((c def c (c (? . 0) q plot3d-specular-light?)) q (106168 . 5)) ((c def c (c (? . 0) q plot3d-altitude)) q (105808 . 5)) ((c def c (c (? . 0) q plot-z-far-axis?)) q (94615 . 5)) ((c def c (c (? . 0) q id-transform)) q (71547 . 2)) ((c def c (c (? . 1) q struct:plot-time)) c (? . 4)) ((c def c (c (? . 0) q vector-field-line-width)) q (97704 . 5)) ((c def c (c (? . 0) q default-contour-colors)) q (99043 . 5)) ((c def c (c (? . 0) q plot-width)) q (90453 . 5)) ((c def c (c (? . 0) q plot3d-snip)) q (3260 . 3)) ((c def c (c (? . 1) q ->brush-color)) q (87336 . 3)) ((c def c (c (? . 1) q vcross2)) q (88824 . 4)) ((c def c (c (? . 0) q contour)) q (114127 . 12)) ((c def c (c (? . 2) q gradient)) q (120964 . 5)) ((c def c (c (? . 0) q z-axis-labels?)) q (104522 . 5)) ((c def c (c (? . 0) q plot-r-ticks)) q (74019 . 5)) ((c def c (c (? . 0) q invisible-rect3d)) q (70668 . 13)) ((c def c (c (? . 1) q ivl->plot-label)) q (84356 . 4)) ((c def c (c (? . 1) q mapped-function?)) c (? . 9)) ((c def c (c (? . 0) q interval-line2-color)) q (96408 . 5)) ((c def c (c (? . 0) q plot-y-axis?)) q (94304 . 5)) ((c def c (c (? . 0) q plot-y-transform)) q (71261 . 5)) ((c def c (c (? . 0) q polar-label)) q (44384 . 29)) ((c def c (c (? . 0) q z-axis-far?)) q (103892 . 5)) ((c def c (c (? . 0) q inverse)) q (11304 . 23)) ((c def c (c (? . 1) q plot-brush-styles/c)) q (112904 . 4)) ((c def c (c (? . 0) q rectangle-line-width)) q (101432 . 5)) ((c def c (c (? . 0) q plot3d-diffuse-light?)) q (106047 . 5)) ((c def c (c (? . 0) q plot-x-far-axis?)) q (94195 . 5)) ((c def c (c (? . 0) q line-color)) q (95359 . 5)) ((c def c (c (? . 0) q pre-tick-value)) c (? . 6)) ((c def c (c (? . 0) q currency-ticks-scales)) q (79821 . 5)) ((c def c (c (? . 1) q alphas/c)) q (113059 . 4)) ((c def c (c (? . 0) q stacked-histogram-styles)) q (103183 . 5)) ((c def c (c (? . 0) q eu-currency-scales)) q (80326 . 3)) ((c def c (c (? . 1) q linear-seq*)) q (85381 . 9)) ((c def c (c (? . 1) q color-seq)) q (86500 . 12)) ((c def c (c (? . 1) q plot-time->seconds)) q (90071 . 3)) ((c def c (c (? . 1) q plot-time-day)) c (? . 4)) ((c def c (c (? . 0) q plot-x-tick-label-anchor)) q (93076 . 5)) ((c def c (c (? . 1) q ->pen-color)) q (87251 . 3)) ((c def c (c (? . 0) q log-ticks-layout)) q (75387 . 5)) ((c def c (c (? . 0) q isosurface3d)) q (59156 . 33)) ((c def c (c (? . 0) q surface-line-color)) q (106528 . 5)) ((c def c (c (? . 0) q plot-x-far-tick-label-anchor)) q (93568 . 5)) ((c def c (c (? . 1) q maybe-apply)) q (112367 . 4)) ((c def c (c (? . 0) q interval-line2-width)) q (96532 . 5)) ((c def c (c (? . 1) q real->decimal-string*)) q (84667 . 7)) ((c def c (c (? . 0) q contour-intervals)) q (28027 . 36)) ((c def c (c (? . 0) q plot-background-alpha)) q (91352 . 5)) ((c def c (c (? . 0) q parametric-label)) q (42872 . 30)) ((c def c (c (? . 1) q struct:ivl)) c (? . 10)) ((c def c (c (? . 0) q invertible-compose)) q (83338 . 4)) ((c def c (c (? . 0) q plot3d-bitmap)) q (5010 . 3)) ((c def c (c (? . 0) q point-size)) q (97115 . 5)) ((c def c (c (? . 2) q plot-color?)) q (120789 . 3)) ((c def c (c (? . 0) q interval-line1-width)) q (96153 . 5)) ((c def c (c (? . 0) q isosurfaces3d)) q (60741 . 42)) ((c def c (c (? . 0) q line-width)) q (95463 . 5)) ((c def c (c (? . 0) q plot-frame)) q (3383 . 3)) ((c def c (c (? . 0) q vector-field-line-style)) q (97830 . 5)) ((c def c (c (? . 1) q vrational?)) q (89312 . 3)) ((c def c (c (? . 0) q lines3d)) q (48801 . 25)) ((c def c (c (? . 0) q plot-height)) q (90581 . 5)) ((c def c (c (? . 0) q plot-bitmap)) q (4891 . 3)) ((c def c (c (? . 0) q plot-z-axis?)) q (94514 . 5)) ((c def c (c (? . 1) q labels/c)) q (113200 . 4)) ((c def c (c (? . 0) q fraction-ticks)) q (82025 . 7)) ((c def c (c (? . 0) q surface-alpha)) q (106897 . 5)) ((c def c (c (? . 0) q rectangle-color)) q (101063 . 5)) ((c def c (c (? . 0) q y-axis)) q (36875 . 11)) ((c def c (c (? . 0) q x-axis-alpha)) q (103356 . 5)) ((c def c (c (? . 1) q plot-color/c)) q (109836 . 3)) ((c def c (c (? . 0) q point-line-width)) q (97211 . 5)) ((c def c (c (? . 0) q plot-x-far-tick-label-angle)) q (93708 . 5)) ((c def c (c (? . 2) q plot)) q (115213 . 29)) ((c def c (c (? . 1) q plot-time-second)) c (? . 4)) ((c def c (c (? . 0) q plot-y-ticks)) q (73059 . 5)) ((c def c (c (? . 2) q contour)) q (119572 . 13)) ((c def c (c (? . 0) q linear-ticks-layout)) q (74423 . 7)) ((c def c (c (? . 0) q x-tick-lines)) q (38377 . 2)) ((c def c (c (? . 0) q plot-x-axis?)) q (94094 . 5)) ((c def c (c (? . 0) q plot3d/dc)) q (5771 . 15)) ((c def c (c (? . 0) q plot3d-frame)) q (3500 . 3)) ((c def c (c (? . 0) q time-ticks)) q (77794 . 7)) ((c def c (c (? . 0) q points3d)) q (45902 . 29)) ((c def c (c (? . 0) q vector-field)) q (7985 . 27)) ((c def c (c (? . 1) q ->pen-style)) q (87423 . 3)) ((c def c (c (? . 0) q collapse-transform)) q (71748 . 4)) ((c def c (c (? . 0) q y-axis-ticks?)) q (104094 . 5)) ((c def c (c (? . 0) q line-samples)) q (95201 . 5)) ((c def c (c (? . 0) q struct:ticks)) c (? . 5)) ((c def c (c (? . 0) q x-axis)) q (36463 . 11)) ((c def c (c (? . 0) q date-ticks-formats)) q (76645 . 5)) ((c def c (c (? . 0) q plot-tick-size)) q (92078 . 5)) ((c def c (c (? . 0) q fraction-ticks-format)) q (81762 . 5)) ((c def c (c (? . 0) q us-currency-scales)) q (80172 . 3)) ((c def c (c (? . 0) q hand-drawn-transform)) q (71881 . 3)) ((c def c (c (? . 0) q plot-font-size)) q (91484 . 5)) ((c def c (c (? . 0) q discrete-histogram-skip)) q (102063 . 5)) ((c def c (c (? . 1) q vnormalize)) q (89149 . 3)) ((c def c (c (? . 0) q interval-line1-color)) q (96029 . 5)) ((c def c (c (? . 1) q plot-brush-style/c)) q (110099 . 6)) ((c def c (c (? . 0) q contour-ticks)) q (73537 . 11)) ((c def c (c (? . 0) q polar)) q (14199 . 27)) ((c def c (c (? . 0) q linear-ticks-format)) q (74801 . 2)) ((c def c (c (? . 0) q stacked-histogram-alphas)) q (102318 . 5)) ((c def c (c (? . 0) q lines-interval)) q (20000 . 33)) ((c def c (c (? . 1) q ivl?)) c (? . 10)) ((c def c (c (? . 0) q point-label3d)) q (68728 . 28)) ((c def c (c (? . 0) q plot-y-far-axis?)) q (94405 . 5)) ((c def c (c (? . 2) q make-vec)) q (121126 . 5)) ((c def c (c (? . 0) q rectangles)) q (29821 . 25))))
+22503
+((3) 0 () 11 ((q lib "plot/main.rkt") (q lib "plot/utils.rkt") (q lib "plot/compat.rkt") (q 84093 . 5) (q 90934 . 7) (q 84227 . 4) (q 76628 . 5) (q 90489 . 5) (q 84512 . 5) (q lib "plot/pict.rkt") (q lib "plot/bitmap.rkt")) () (h ! (equal) ((c def c (c (? . 0) q line-alpha)) q (97505 . 5)) ((c def c (c (? . 1) q nonlinear-seq)) q (86925 . 13)) ((c def c (c (? . 0) q log-ticks)) q (78179 . 4)) ((c def c (c (? . 0) q discrete-histogram3d)) q (66766 . 41)) ((c def c (c (? . 1) q vmag)) q (90199 . 3)) ((c def c (c (? . 0) q animated-samples)) q (96790 . 3)) ((c def c (c (? . 0) q 12h-descending-time-ticks-formats)) q (80634 . 12)) ((c def c (c (? . 0) q pre-tick?)) c (? . 3)) ((c def c (c (? . 0) q make-tick)) c (? . 5)) ((c def c (c (? . 0) q contour)) q (115490 . 12)) ((c def c (c (? . 1) q ivl->plot-label)) q (85583 . 4)) ((c def c (c (? . 0) q isosurface-line-styles)) q (110205 . 5)) ((c def c (c (? . 0) q point-label)) q (40106 . 29)) ((c def c (c (? . 0) q plot3d-frame)) q (3476 . 3)) ((c def c (c (? . 0) q plot-height)) q (91698 . 5)) ((c def c (c (? . 1) q maybe-inexact->exact)) q (89138 . 3)) ((c def c (c (? . 1) q ->color)) q (88284 . 3)) ((c def c (c (? . 1) q renderer3d?)) q (110622 . 3)) ((c def c (c (? . 2) q points)) q (119302 . 6)) ((c def c (c (? . 0) q plot3d)) q (1328 . 39)) ((c def c (c (? . 0) q axes)) q (38883 . 17)) ((c def c (c (? . 0) q surface3d)) q (53610 . 31)) ((c def c (c (? . 0) q plot-y-tick-label-angle)) q (95659 . 5)) ((c def c (c (? . 2) q error-bars)) q (120254 . 5)) ((c def c (c (? . 0) q discrete-histogram-gap)) q (105196 . 5)) ((c def c (c (? . 0) q polar-label)) q (46433 . 31)) ((c def c (c (? . 1) q labels/c)) q (114561 . 4)) ((c def c (c (? . 0) q eu-currency-scales)) q (82247 . 2)) ((c def c (c (? . 1) q struct:plot-time)) c (? . 4)) ((c def c (c (? . 0) q isoline)) q (27387 . 25)) ((c def c (c (? . 0) q plot-legend-box-alpha)) q (94752 . 5)) ((c def c (c (? . 0) q no-ticks-layout)) q (82650 . 2)) ((c def c (c (? . 0) q interval-line1-style)) q (98108 . 5)) ((c def c (c (? . 0) q stacked-histogram)) q (36034 . 41)) ((c def c (c (? . 0) q stretch-transform)) q (74241 . 5)) ((c def c (c (? . 2) q vector-field)) q (120437 . 12)) ((c def c (c (? . 1) q color/c)) q (111040 . 5)) ((c def c (c (? . 1) q real->plot-label)) q (85433 . 5)) ((c def c (c (? . 0) q contour-intervals)) q (29607 . 36)) ((c def c (c (? . 0) q invisible-rect)) q (73058 . 6)) ((c def c (c (? . 0) q plot-z-far-axis?)) q (96560 . 5)) ((c def c (c (? . 0) q polar-axes-alpha)) q (107904 . 5)) ((c def c (c (? . 0) q pre-tick-value)) c (? . 3)) ((c def c (c (? . 1) q maybe-function/c)) q (113523 . 5)) ((c def c (c (? . 1) q v/)) q (89600 . 4)) ((c def c (c (? . 0) q density)) q (15470 . 27)) ((c def c (c (? . 1) q datetime->real)) q (90811 . 3)) ((c def c (c (? . 0) q us-currency-scales)) q (82091 . 2)) ((c def c (c (? . 0) q surface-line-width)) q (108401 . 5)) ((c def c (c (? . 1) q digits-for-range)) q (85096 . 9)) ((c def c (c (? . 0) q isosurface-levels)) q (109233 . 6)) ((c def c (c (? . 0) q plot-jpeg-quality)) q (91832 . 5)) ((c def c (c (? . 0) q error-bars)) q (9522 . 21)) ((c def c (c (? . 0) q time-ticks)) q (80017 . 5)) ((c def c (c (? . 0) q interval-line1-color)) q (97862 . 5)) ((c def c (c (? . 0) q label-angle)) q (99740 . 5)) ((c def c (c (? . 0) q contour-interval-line-widths)) q (103899 . 5)) ((c def c (c (? . 0) q plot3d-angle)) q (93173 . 5)) ((c def c (c (? . 0) q plot-d-ticks)) q (76406 . 5)) ((c def c (c (? . 0) q log-ticks-format)) q (78059 . 3)) ((c def c (c (? . 0) q shade)) q (115965 . 6)) ((c def c (c (? . 1) q polar->cartesian)) q (88670 . 4)) ((c def c (c (? . 1) q ->pen-style)) q (88532 . 3)) ((c def c (c (? . 0) q rectangles3d)) q (65338 . 29)) ((c def c (c (? . 1) q plot-pen-style/c)) q (111245 . 5)) ((c def c (c (? . 0) q y-ticks)) q (72830 . 4)) ((c def c (c (? . 0) q plot-y-transform)) q (73870 . 5)) ((c def c (c (? . 0) q function)) q (10529 . 23)) ((c def c (c (? . 0) q currency-ticks-scales)) q (81736 . 5)) ((c def c (c (? . 0) q point-size)) q (98858 . 5)) ((c def c (c (? . 0) q parametric-label)) q (44807 . 32)) ((c def c (c (? . 1) q treeof)) q (110753 . 3)) ((c def c (c (? . 0) q plot-animating?)) q (96671 . 5)) ((c def c (c (? . 0) q stacked-histogram-styles)) q (105776 . 5)) ((c def c (c (? . 0) q invisible-rect3d)) q (73275 . 13)) ((c def c (c (? . 1) q integer->superscript)) q (86174 . 3)) ((c def c (c (? . 0) q linear-ticks-format)) q (77423 . 2)) ((c def c (c (? . 0) q point-x-jitter)) q (99070 . 5)) ((c def c (c (? . 0) q plot-foreground)) q (93767 . 5)) ((c def c (c (? . 0) q stacked-histogram-line-widths)) q (106150 . 5)) ((c def c (c (? . 0) q z-ticks)) q (72944 . 4)) ((c def c (c (? . 2) q mix)) q (122051 . 3)) ((c def c (c (? . 1) q make-plot-time)) c (? . 4)) ((c def c (c (? . 0) q plot3d-diffuse-light?)) q (93509 . 5)) ((c def c (c (? . 1) q plot-brush-styles/c)) q (114261 . 4)) ((c def c (c (? . 0) q no-ticks-format)) q (82691 . 2)) ((c def c (c (? . 0) q ticks-layout/c)) q (84334 . 2)) ((c def c (c (? . 0) q struct:invertible-function)) c (? . 8)) ((c def c (c (? . 2) q shade)) q (121413 . 7)) ((c def c (c (? . 1) q clamp-real)) q (90740 . 4)) ((c def c (c (? . 0) q pre-tick)) c (? . 3)) ((c def c (c (? . 0) q plot3d-file)) q (4109 . 10)) ((c def c (c (? . 0) q time-ticks-layout)) q (79750 . 3)) ((c def c (c (? . 1) q floor-log/base)) q (89021 . 4)) ((c def c (c (? . 1) q make-ivl)) c (? . 7)) ((c def c (c (? . 1) q linear-seq*)) q (86608 . 9)) ((c def c (c (? . 0) q struct:tick)) c (? . 5)) ((c def c (c (? . 0) q ticks-layout)) c (? . 6)) ((c def c (c (? . 9) q plot3d)) q (6526 . 3)) ((c def c (c (? . 1) q seconds->plot-time)) q (91242 . 3)) ((c def c (c (? . 0) q plot-y-far-tick-label-angle)) q (95903 . 5)) ((c def c (c (? . 0) q cbrt-transform)) q (74452 . 2)) ((c def c (c (? . 0) q struct:ticks)) c (? . 6)) ((c def c (c (? . 0) q surface-line-color)) q (108271 . 5)) ((c def c (c (? . 0) q stacked-histogram-line-colors)) q (105951 . 5)) ((c def c (c (? . 0) q area-histogram)) q (32615 . 29)) ((c def c (c (? . 0) q tick-grid)) q (40057 . 2)) ((c def c (c (? . 1) q plot-time-hour)) c (? . 4)) ((c def c (c (? . 0) q plot-z-far-ticks)) q (75901 . 5)) ((c def c (c (? . 0) q surface-color)) q (108030 . 5)) ((c def c (c (? . 0) q hand-drawn-transform)) q (74494 . 3)) ((c def c (c (? . 0) q plot-x-tick-label-angle)) q (95541 . 5)) ((c def c (c (? . 0) q x-axis-far?)) q (107099 . 5)) ((c def c (c (? . 0) q contour-interval-styles)) q (103357 . 6)) ((c def c (c (? . 0) q invertible-inverse)) q (84900 . 3)) ((c def c (c (? . 0) q line-style)) q (97386 . 5)) ((c def c (c (? . 0) q eu-currency-formats)) q (82540 . 3)) ((c def c (c (? . 0) q isosurface-line-colors)) q (109813 . 5)) ((c def c (c (? . 1) q v-)) q (89337 . 4)) ((c def c (c (? . 1) q alphas/c)) q (114418 . 4)) ((c def c (c (? . 0) q label-point-size)) q (99948 . 5)) ((c def c (c (? . 2) q plot-color?)) q (122134 . 3)) ((c def c (c (? . 0) q date-ticks-format)) q (78504 . 3)) ((c def c (c (? . 1) q kde)) q (87378 . 7)) ((c def c (c (? . 1) q rational-ivl?)) q (90600 . 3)) ((c def c (c (? . 0) q label-alpha)) q (99834 . 5)) ((c def c (c (? . 0) q line-samples)) q (97032 . 5)) ((c def c (c (? . 0) q surface-alpha)) q (108670 . 5)) ((c def c (c (? . 0) q plot3d-specular-light?)) q (93636 . 5)) ((c def c (c (? . 0) q polar-axes-number)) q (107529 . 5)) ((c def c (c (? . 0) q surface-line-style)) q (108527 . 5)) ((c def c (c (? . 1) q ->brush-color)) q (88445 . 3)) ((c def c (c (? . 1) q color-seq*)) q (87963 . 10)) ((c def c (c (? . 1) q vcenter)) q (90335 . 3)) ((c def c (c (? . 0) q plot-font-family)) q (94501 . 5)) ((c def c (c (? . 0) q rectangle-line-style)) q (104927 . 5)) ((c def c (c (? . 0) q y-tick-lines)) q (40015 . 2)) ((c def c (c (? . 0) q vector-field3d-samples)) q (100199 . 5)) ((c def c (c (? . 0) q discrete-histogram)) q (34060 . 36)) ((c def c (c (? . 0) q rectangle-style)) q (104398 . 5)) ((c def c (c (? . 2) q gradient)) q (122303 . 5)) ((c def c (c (? . 1) q ivl?)) c (? . 7)) ((c def c (c (? . 0) q plot-z-axis?)) q (96235 . 5)) ((c def c (c (? . 1) q point-sym/c)) q (111782 . 3)) ((c def c (c (? . 0) q x-axis-ticks?)) q (106663 . 5)) ((c def c (c (? . 0) q ticks-add)) q (83873 . 5)) ((c def c (c (? . 0) q contour-interval-colors)) q (103159 . 5)) ((c def c (c (? . 0) q rectangle-alpha)) q (105074 . 5)) ((c def c (c (? . 0) q contour-widths)) q (102671 . 5)) ((c def c (c (? . 0) q plot-x-axis?)) q (96029 . 5)) ((c def c (c (? . 1) q plot-time)) c (? . 4)) ((c def c (c (? . 0) q date-ticks)) q (78635 . 5)) ((c def c (c (? . 0) q plot-background-alpha)) q (94133 . 5)) ((c def c (c (? . 0) q isosurfaces3d)) q (63221 . 42)) ((c def c (c (? . 0) q polar3d)) q (55075 . 31)) ((c def c (c (? . 0) q vector-field-samples)) q (100058 . 5)) ((c def c (c (? . 0) q point-alpha)) q (98956 . 5)) ((c def c (c (? . 0) q lines)) q (12440 . 21)) ((c def c (c (? . 0) q no-ticks)) q (82732 . 2)) ((c def c (c (? . 0) q ticks-format)) c (? . 6)) ((c def c (c (? . 1) q renderer2d?)) q (110557 . 3)) ((c def c (c (? . 0) q time-ticks-formats)) q (80244 . 5)) ((c def c (c (? . 0) q plot-x-tick-label-anchor)) q (94995 . 5)) ((c def c (c (? . 0) q lines3d)) q (51265 . 25)) ((c def c (c (? . 1) q bounds->intervals)) q (90659 . 3)) ((c def c (c (? . 0) q plot-x-far-label)) q (92623 . 5)) ((c def c (c (? . 0) q plot-legend-anchor)) q (94628 . 5)) ((c def c (c (? . 10) q plot3d)) q (6745 . 3)) ((c def c (c (? . 0) q ticks-default-number)) q (76895 . 5)) ((c def c (c (? . 0) q mix)) q (114708 . 3)) ((c def c (c (? . 0) q plot-new-window?)) q (91445 . 5)) ((c def c (c (? . 0) q polar-axes)) q (39570 . 9)) ((c def c (c (? . 1) q maybe-apply)) q (113718 . 4)) ((c def c (c (? . 0) q contour-interval-alphas)) q (103549 . 5)) ((c def c (c (? . 0) q plot-y-far-axis?)) q (96449 . 5)) ((c def c (c (? . 0) q contour-alphas)) q (103010 . 5)) ((c def c (c (? . 0) q discrete-histogram-skip)) q (105330 . 5)) ((c def c (c (? . 0) q x-tick-lines)) q (39973 . 2)) ((c def c (c (? . 0) q plot-decorations?)) q (96919 . 5)) ((c def c (c (? . 0) q parametric3d)) q (52277 . 31)) ((c def c (c (? . 0) q plot-y-axis?)) q (96132 . 5)) ((c def c (c (? . 0) q linear-ticks-layout)) q (77045 . 7)) ((c def c (c (? . 1) q vrational?)) q (90421 . 3)) ((c def c (c (? . 0) q currency-ticks-format)) q (80872 . 8)) ((c def c (c (? . 1) q ivl-min)) c (? . 7)) ((c def c (c (? . 0) q isosurface-colors)) q (109446 . 5)) ((c def c (c (? . 1) q plot-time->seconds)) q (91176 . 3)) ((c def c (c (? . 0) q struct:pre-tick)) c (? . 3)) ((c def c (c (? . 0) q plot-x-ticks)) q (75304 . 5)) ((c def c (c (? . 0) q plot-title)) q (92115 . 5)) ((c def c (c (? . 0) q y-axis-labels?)) q (106988 . 5)) ((c def c (c (? . 0) q rectangles)) q (31401 . 25)) ((c def c (c (? . 1) q plot-time-minute)) c (? . 4)) ((c def c (c (? . 0) q plot-snip)) q (3127 . 3)) ((c def c (c (? . 0) q interval-line2-style)) q (98493 . 5)) ((c def c (c (? . 0) q plot)) q (0 . 29)) ((c def c (c (? . 0) q error-bar-color)) q (101169 . 5)) ((c def c (c (? . 0) q invertible-function-f)) c (? . 8)) ((c def c (c (? . 1) q anchor/c)) q (110834 . 5)) ((c def c (c (? . 0) q x-axis-alpha)) q (107297 . 5)) ((c def c (c (? . 0) q axis-transform-append)) q (74682 . 5)) ((c def c (c (? . 0) q vector-field-line-width)) q (100465 . 5)) ((c def c (c (? . 1) q ->pen-color)) q (88360 . 3)) ((c def c (c (? . 0) q plot3d-altitude)) q (93270 . 5)) ((c def c (c (? . 1) q plot-brush-style/c)) q (111442 . 6)) ((c def c (c (? . 1) q font-family/c)) q (111743 . 2)) ((c def c (c (? . 1) q 3d-polar->3d-cartesian)) q (88769 . 5)) ((c def c (c (? . 0) q axis-transform/c)) q (74577 . 3)) ((c def c (c (? . 0) q stacked-histogram3d)) q (68917 . 45)) ((c def c (c (? . 0) q y-axis-ticks?)) q (106770 . 5)) ((c def c (c (? . 0) q linear-ticks)) q (77475 . 7)) ((c def c (c (? . 0) q plot/dc)) q (5113 . 15)) ((c def c (c (? . 0) q polar)) q (14401 . 27)) ((c def c (c (? . 0) q bit/byte-ticks-format)) q (82804 . 5)) ((c def c (c (? . 0) q vector-field-scale)) q (100738 . 6)) ((c def c (c (? . 0) q uk-currency-scales)) q (82168 . 2)) ((c def c (c (? . 0) q label-anchor)) q (99632 . 5)) ((c def c (c (? . 2) q line)) q (119551 . 17)) ((c def c (c (? . 0) q vector-field3d)) q (49668 . 31)) ((c def c (c (? . 0) q ticks-generate)) q (76773 . 5)) ((c def c (c (? . 0) q stacked-histogram-colors)) q (105589 . 5)) ((c def c (c (? . 0) q id-transform)) q (74160 . 2)) ((c def c (c (? . 2) q derivative)) q (122191 . 4)) ((c def c (c (? . 0) q plot-bitmap)) q (4867 . 3)) ((c def c (c (? . 0) q plot3d-ambient-light)) q (93379 . 5)) ((c def c (c (? . 0) q plot-x-far-axis?)) q (96338 . 5)) ((c def c (c (? . 0) q contour-ticks)) q (76033 . 11)) ((c def c (c (? . 0) q plot-frame)) q (3359 . 3)) ((c def c (c (? . 1) q vneg)) q (89441 . 3)) ((c def c (c (? . 0) q fraction-ticks-format)) q (83299 . 5)) ((c def c (c (? . 0) q x-axis)) q (38059 . 11)) ((c def c (c (? . 0) q plot3d-bitmap)) q (4986 . 3)) ((c def c (c (? . 0) q parametric-interval)) q (23295 . 39)) ((c def c (c (? . 0) q point-sym)) q (98754 . 5)) ((c def c (c (? . 0) q default-contour-fill-colors)) q (101898 . 5)) ((c def c (c (? . 0) q date-ticks-formats)) q (78862 . 5)) ((c def c (c (? . 0) q plot-z-ticks)) q (75790 . 5)) ((c def c (c (? . 0) q plot3d-snip)) q (3242 . 3)) ((c def c (c (? . 2) q make-vec)) q (122459 . 5)) ((c def c (c (? . 0) q inverse-interval)) q (19700 . 35)) ((c def c (c (? . 0) q isoline3d)) q (56514 . 29)) ((c def c (c (? . 0) q ticks-format/c)) q (84413 . 3)) ((c def c (c (? . 1) q plot-pen-styles/c)) q (114108 . 4)) ((c def c (c (? . 0) q points3d)) q (48067 . 35)) ((c def c (c (? . 0) q 24h-descending-time-ticks-formats)) q (80412 . 12)) ((c def c (c (? . 1) q known-point-symbols)) q (111892 . 22)) ((c def c (c (? . 0) q invertible-compose)) q (84771 . 4)) ((c def c (c (? . 0) q vector-field)) q (8163 . 27)) ((c def c (c (? . 0) q error-bar-line-width)) q (101285 . 5)) ((c def c (c (? . 0) q lines-interval)) q (21548 . 33)) ((c def c (c (? . 0) q contour-interval-line-styles)) q (104084 . 6)) ((c def c (c (? . 0) q bit/byte-ticks)) q (83005 . 7)) ((c def c (c (? . 1) q ivl-max)) c (? . 7)) ((c def c (c (? . 0) q stacked-histogram-alphas)) q (106514 . 5)) ((c def c (c (? . 1) q vmag^2)) q (90138 . 3)) ((c def c (c (? . 0) q vrule)) q (17210 . 17)) ((c def c (c (? . 0) q hrule)) q (16585 . 17)) ((c def c (c (? . 0) q linear-scale)) q (84991 . 4)) ((c def c (c (? . 0) q plot-z-label)) q (92498 . 5)) ((c def c (c (? . 0) q plot-x-label)) q (92236 . 5)) ((c def c (c (? . 0) q plot-y-far-label)) q (92756 . 5)) ((c def c (c (? . 0) q 24h-descending-date-ticks-formats)) q (79030 . 18)) ((c def c (c (? . 1) q struct:ivl)) c (? . 7)) ((c def c (c (? . 0) q tick-label)) c (? . 5)) ((c def c (c (? . 0) q contour-levels)) q (102287 . 6)) ((c def c (c (? . 0) q ticks)) c (? . 6)) ((c def c (c (? . 0) q y-axis-alpha)) q (107413 . 5)) ((c def c (c (? . 0) q vector-field-line-style)) q (100593 . 5)) ((c def c (c (? . 0) q plot-font-face)) q (94374 . 5)) ((c def c (c (? . 0) q fraction-ticks)) q (83562 . 5)) ((c def c (c (? . 0) q plot-width)) q (91568 . 5)) ((c def c (c (? . 1) q pen-widths/c)) q (113967 . 4)) ((c def c (c (? . 0) q x-axis-labels?)) q (106877 . 5)) ((c def c (c (? . 0) q plot-y-far-tick-label-anchor)) q (95401 . 5)) ((c def c (c (? . 1) q v+)) q (89233 . 4)) ((c def c (c (? . 0) q uk-currency-formats)) q (82433 . 3)) ((c def c (c (? . 0) q point-line-width)) q (99520 . 5)) ((c def c (c (? . 0) q plot-x-far-ticks)) q (75415 . 5)) ((c def c (c (? . 0) q default-isosurface-colors)) q (108788 . 5)) ((c def c (c (? . 0) q point-label3d)) q (71224 . 30)) ((c def c (c (? . 0) q contour-styles)) q (102828 . 5)) ((c def c (c (? . 0) q plot3d-pict)) q (4755 . 3)) ((c def c (c (? . 0) q rectangle-line-width)) q (104665 . 5)) ((c def c (c (? . 0) q plot-z-transform)) q (74015 . 5)) ((c def c (c (? . 0) q rectangle-line-color)) q (104531 . 5)) ((c def c (c (? . 0) q plot-x-transform)) q (73725 . 5)) ((c def c (c (? . 1) q v=)) q (89688 . 4)) ((c def c (c (? . 1) q ->plot-label)) q (85700 . 4)) ((c def c (c (? . 0) q plot3d/dc)) q (5747 . 15)) ((c def c (c (? . 0) q surface)) q (116234 . 9)) ((c def c (c (? . 0) q plot-y-tick-label-anchor)) q (95126 . 5)) ((c def c (c (? . 0) q currency-ticks-formats)) q (81893 . 5)) ((c def c (c (? . 1) q v*)) q (89512 . 4)) ((c def c (c (? . 0) q plot-z-far-label)) q (92889 . 5)) ((c def c (c (? . 0) q plot-y-far-ticks)) q (75658 . 5)) ((c def c (c (? . 0) q plot-deprecation-warnings?)) q (91308 . 5)) ((c def c (c (? . 0) q rectangle3d-line-width)) q (104793 . 5)) ((c def c (c (? . 0) q plot-y-label)) q (92367 . 5)) ((c def c (c (? . 0) q tick)) c (? . 5)) ((c def c (c (? . 0) q contour-intervals3d)) q (59122 . 49)) ((c def c (c (? . 0) q rectangle-color)) q (104282 . 5)) ((c def c (c (? . 0) q plot-pict)) q (4651 . 3)) ((c def c (c (? . 0) q default-isosurface-line-colors)) q (109011 . 5)) ((c def c (c (? . 0) q inverse)) q (11490 . 23)) ((c def c (c (? . 0) q line-color)) q (97180 . 5)) ((c def c (c (? . 0) q stacked-histogram-line-styles)) q (106325 . 5)) ((c def c (c (? . 9) q plot)) q (6427 . 3)) ((c def c (c (? . 0) q surface-style)) q (108142 . 5)) ((c def c (c (? . 1) q vcross2)) q (89933 . 4)) ((c def c (c (? . 0) q plot-foreground-alpha)) q (93999 . 5)) ((c def c (c (? . 0) q function-interval)) q (17835 . 35)) ((c def c (c (? . 2) q contour)) q (120949 . 13)) ((c def c (c (? . 0) q interval-line1-width)) q (97988 . 5)) ((c def c (c (? . 2) q plot3d)) q (117748 . 39)) ((c def c (c (? . 0) q time-ticks-format)) q (79886 . 3)) ((c def c (c (? . 0) q y-axis-far?)) q (107198 . 5)) ((c def c (c (? . 0) q interval-color)) q (97617 . 5)) ((c def c (c (? . 0) q point-z-jitter)) q (99298 . 5)) ((c def c (c (? . 1) q vcross)) q (89783 . 4)) ((c def c (c (? . 0) q plot-x-far-tick-label-angle)) q (95777 . 5)) ((c def c (c (? . 0) q error-bar-alpha)) q (101560 . 5)) ((c def c (c (? . 0) q interval-style)) q (97731 . 5)) ((c def c (c (? . 0) q plot-background)) q (93883 . 5)) ((c def c (c (? . 0) q function-label)) q (41658 . 32)) ((c def c (c (? . 0) q point-color)) q (99412 . 5)) ((c def c (c (? . 1) q real->string/trunc)) q (85803 . 4)) ((c def c (c (? . 0) q currency-ticks)) q (81261 . 10)) ((c def c (c (? . 0) q plot-x-far-tick-label-anchor)) q (95259 . 5)) ((c def c (c (? . 0) q isosurface-line-widths)) q (110022 . 5)) ((c def c (c (? . 0) q ticks?)) c (? . 6)) ((c def c (c (? . 0) q invertible-function-g)) c (? . 8)) ((c def c (c (? . 1) q plot-time-day)) c (? . 4)) ((c def c (c (? . 0) q y-axis)) q (38471 . 11)) ((c def c (c (? . 0) q make-pre-tick)) c (? . 3)) ((c def c (c (? . 1) q vnormalize)) q (90258 . 3)) ((c def c (c (? . 0) q vector-field-color)) q (100343 . 5)) ((c def c (c (? . 0) q plot-ps/pdf-interactive?)) q (91974 . 5)) ((c def c (c (? . 1) q plot-time?)) c (? . 4)) ((c def c (c (? . 10) q plot)) q (6633 . 3)) ((c def c (c (? . 0) q point-y-jitter)) q (99184 . 5)) ((c def c (c (? . 0) q pre-tick-major?)) c (? . 3)) ((c def c (c (? . 0) q tick?)) c (? . 5)) ((c def c (c (? . 0) q make-ticks)) c (? . 6)) ((c def c (c (? . 0) q ticks-scale)) q (83999 . 4)) ((c def c (c (? . 1) q nonrenderer?)) q (110687 . 3)) ((c def c (c (? . 0) q discrete-histogram-invert?)) q (105454 . 5)) ((c def c (c (? . 1) q linear-seq)) q (86248 . 11)) ((c def c (c (? . 0) q interval-line2-color)) q (98247 . 5)) ((c def c (c (? . 0) q date-ticks-layout)) q (78368 . 3)) ((c def c (c (? . 0) q points)) q (6865 . 29)) ((c def c (c (? . 0) q apply-axis-transform)) q (75161 . 5)) ((c def c (c (? . 0) q default-contour-colors)) q (101684 . 5)) ((c def c (c (? . 0) q vector-field-alpha)) q (100931 . 5)) ((c def c (c (? . 1) q plot-color/c)) q (111176 . 2)) ((c def c (c (? . 0) q make-invertible-function)) c (? . 8)) ((c def c (c (? . 0) q polar-interval)) q (25390 . 39)) ((c def c (c (? . 0) q plot-y-ticks)) q (75547 . 5)) ((c def c (c (? . 1) q color-seq)) q (87609 . 12)) ((c def c (c (? . 0) q polar-axes-labels?)) q (107785 . 5)) ((c def c (c (? . 1) q ceiling-log/base)) q (88902 . 4)) ((c def c (c (? . 1) q plot-time-second)) c (? . 4)) ((c def c (c (? . 0) q contours3d)) q (57720 . 30)) ((c def c (c (? . 0) q line-width)) q (97286 . 5)) ((c def c (c (? . 0) q error-bar-width)) q (101059 . 5)) ((c def c (c (? . 0) q log-ticks-layout)) q (77824 . 5)) ((c def c (c (? . 0) q plot-tick-size)) q (94888 . 5)) ((c def c (c (? . 0) q invertible-function)) c (? . 8)) ((c def c (c (? . 1) q ivl)) c (? . 7)) ((c def c (c (? . 0) q plot-r-ticks)) q (76517 . 5)) ((c def c (c (? . 0) q interval-alpha)) q (98632 . 5)) ((c def c (c (? . 0) q error-bar-line-style)) q (101413 . 5)) ((c def c (c (? . 0) q isosurface-styles)) q (109632 . 5)) ((c def c (c (? . 0) q plot-file)) q (3595 . 10)) ((c def c (c (? . 0) q inverse-label)) q (43240 . 32)) ((c def c (c (? . 0) q collapse-transform)) q (74361 . 4)) ((c def c (c (? . 0) q contour-interval-line-colors)) q (103714 . 5)) ((c def c (c (? . 0) q line)) q (114809 . 17)) ((c def c (c (? . 0) q parametric)) q (13270 . 27)) ((c def c (c (? . 0) q x-ticks)) q (72716 . 4)) ((c def c (c (? . 0) q ticks-mimic)) q (83803 . 3)) ((c def c (c (? . 0) q log-transform)) q (74200 . 2)) ((c def c (c (? . 1) q ->brush-style)) q (88599 . 3)) ((c def c (c (? . 0) q id-function)) q (84673 . 3)) ((c def c (c (? . 0) q axis-transform-compose)) q (74948 . 4)) ((c def c (c (? . 0) q isosurface3d)) q (61636 . 33)) ((c def c (c (? . 0) q make-axis-transform)) q (75069 . 3)) ((c def c (c (? . 0) q plot3d-samples)) q (93022 . 5)) ((c def c (c (? . 0) q axis-transform-bound)) q (74825 . 5)) ((c def c (c (? . 0) q contours)) q (28400 . 26)) ((c def c (c (? . 2) q surface)) q (121705 . 10)) ((c def c (c (? . 0) q polar-axes-ticks?)) q (107670 . 5)) ((c def c (c (? . 1) q vdot)) q (90044 . 4)) ((c def c (c (? . 0) q us-currency-formats)) q (82325 . 3)) ((c def c (c (? . 0) q invertible-function?)) c (? . 8)) ((c def c (c (? . 0) q contour-colors)) q (102494 . 5)) ((c def c (c (? . 1) q real->decimal-string*)) q (85894 . 7)) ((c def c (c (? . 1) q plot-colors/c)) q (113822 . 4)) ((c def c (c (? . 0) q contour-samples)) q (102134 . 5)) ((c def c (c (? . 0) q isosurface-alphas)) q (110400 . 5)) ((c def c (c (? . 0) q plot-font-size)) q (94267 . 5)) ((c def c (c (? . 0) q 12h-descending-date-ticks-formats)) q (79378 . 18)) ((c def c (c (? . 0) q interval-line2-width)) q (98373 . 5)) ((c def c (c (? . 2) q plot)) q (116576 . 29))))
 procedure
 (plot  renderer-tree                 
       [#:x-min x-min                 
@@ -14,7 +14,7 @@ procedure
        #:legend-anchor legend-anchor 
        #:out-file out-file           
        #:out-kind out-kind])         
- -> (or/c (is-a?/c image-snip%) void?)
+ -> (or/c (is-a?/c snip%) void?)
   renderer-tree : (treeof (or/c renderer2d? nonrenderer?))
   x-min : (or/c rational? #f) = #f
   x-max : (or/c rational? #f) = #f
@@ -48,7 +48,7 @@ procedure
          #:legend-anchor legend-anchor 
          #:out-file out-file           
          #:out-kind out-kind])         
- -> (or/c (is-a?/c image-snip%) void?)
+ -> (or/c (is-a?/c snip%) void?)
   renderer-tree : (treeof (or/c renderer3d? nonrenderer?))
   x-min : (or/c rational? #f) = #f
   x-max : (or/c rational? #f) = #f
@@ -69,10 +69,10 @@ procedure
   out-kind : (one-of/c 'auto 'png 'jpeg 'xmb 'xpm 'bmp 'ps 'pdf 'svg)
            = 'auto
 procedure
-(plot-snip <plot-argument> ...) -> (is-a?/c image-snip%)
+(plot-snip <plot-argument> ...) -> (is-a?/c snip%)
   <plot-argument> : <plot-argument-contract>
 procedure
-(plot3d-snip <plot-argument> ...) -> (is-a?/c image-snip%)
+(plot3d-snip <plot-argument> ...) -> (is-a?/c snip%)
   <plot-argument> : <plot-argument-contract>
 procedure
 (plot-frame <plot-argument> ...) -> (is-a?/c frame%)
@@ -163,11 +163,13 @@ procedure
          #:sym sym                   
          #:color color               
          #:fill-color fill-color     
+         #:x-jitter x-jitter         
+         #:y-jitter y-jitter         
          #:size size                 
          #:line-width line-width     
          #:alpha alpha               
          #:label label])         -> renderer2d?
-  vs : (sequence/c (sequence/c real?))
+  vs : (sequence/c (sequence/c #:min-count 2 real?))
   x-min : (or/c rational? #f) = #f
   x-max : (or/c rational? #f) = #f
   y-min : (or/c rational? #f) = #f
@@ -175,6 +177,8 @@ procedure
   sym : point-sym/c = (point-sym)
   color : plot-color/c = (point-color)
   fill-color : (or/c plot-color/c 'auto) = 'auto
+  x-jitter : (>=/c 0) = (point-x-jitter)
+  y-jitter : (>=/c 0) = (point-y-jitter)
   size : (>=/c 0) = (point-size)
   line-width : (>=/c 0) = (point-line-width)
   alpha : (real-in 0 1) = (point-alpha)
@@ -192,8 +196,8 @@ procedure
                #:line-style line-style     
                #:alpha alpha               
                #:label label])         -> renderer2d?
-  f : (or/c (real? real? . -> . (sequence/c real?))
-            ((vector/c real? real?) . -> . (sequence/c real?)))
+  f : (or/c (-> real? real? (sequence/c real?))
+            (-> (vector/c real? real?) (sequence/c real?)))
   x-min : (or/c rational? #f) = #f
   x-max : (or/c rational? #f) = #f
   y-min : (or/c rational? #f) = #f
@@ -217,7 +221,7 @@ procedure
              #:line-style line-style     
              #:width width               
              #:alpha alpha])         -> renderer2d?
-  bars : (sequence/c (sequence/c real?))
+  bars : (sequence/c (sequence/c #:min-count 3 real?))
   x-min : (or/c rational? #f) = #f
   x-max : (or/c rational? #f) = #f
   y-min : (or/c rational? #f) = #f
@@ -284,7 +288,7 @@ procedure
         #:style style       
         #:alpha alpha       
         #:label label]) -> renderer2d?
-  vs : (sequence/c (sequence/c real?))
+  vs : (sequence/c (sequence/c #:min-count 2 real?))
   x-min : (or/c rational? #f) = #f
   x-max : (or/c rational? #f) = #f
   y-min : (or/c rational? #f) = #f
@@ -351,6 +355,7 @@ procedure
 procedure
 (density  xs                    
          [bw-adjust             
+          ws                    
           #:x-min x-min         
           #:x-max x-max         
           #:y-min y-min         
@@ -362,12 +367,47 @@ procedure
           #:alpha alpha         
           #:label label])   -> renderer2d?
   xs : (sequence/c real?)
-  bw-adjust : real? = 1
+  bw-adjust : (>/c 0) = 1
+  ws : (or/c (sequence/c (>=/c 0)) #f) = #f
   x-min : (or/c rational? #f) = #f
   x-max : (or/c rational? #f) = #f
   y-min : (or/c rational? #f) = #f
   y-max : (or/c rational? #f) = #f
   samples : (and/c exact-integer? (>=/c 2)) = (line-samples)
+  color : plot-color/c = (line-color)
+  width : (>=/c 0) = (line-width)
+  style : plot-pen-style/c = (line-style)
+  alpha : (real-in 0 1) = (line-alpha)
+  label : (or/c string? #f) = #f
+procedure
+(hrule  y                   
+       [x-min               
+        x-max               
+        #:color color       
+        #:width width       
+        #:style style       
+        #:alpha alpha       
+        #:label label]) -> renderer2d?
+  y : real?
+  x-min : (or/c rational? #f) = #f
+  x-max : (or/c rational? #f) = #f
+  color : plot-color/c = (line-color)
+  width : (>=/c 0) = (line-width)
+  style : plot-pen-style/c = (line-style)
+  alpha : (real-in 0 1) = (line-alpha)
+  label : (or/c string? #f) = #f
+procedure
+(vrule  x                   
+       [y-min               
+        y-max               
+        #:color color       
+        #:width width       
+        #:style style       
+        #:alpha alpha       
+        #:label label]) -> renderer2d?
+  x : real?
+  y-min : (or/c rational? #f) = #f
+  y-max : (or/c rational? #f) = #f
   color : plot-color/c = (line-color)
   width : (>=/c 0) = (line-width)
   style : plot-pen-style/c = (line-style)
@@ -460,8 +500,8 @@ procedure
                  #:line2-style line2-style     
                  #:alpha alpha                 
                  #:label label])           -> renderer2d?
-  v1s : (sequence/c (sequence/c real?))
-  v2s : (sequence/c (sequence/c real?))
+  v1s : (sequence/c (sequence/c #:min-count 2 real?))
+  v2s : (sequence/c (sequence/c #:min-count 2 real?))
   x-min : (or/c rational? #f) = #f
   x-max : (or/c rational? #f) = #f
   y-min : (or/c rational? #f) = #f
@@ -654,7 +694,7 @@ procedure
              #:line-style line-style     
              #:alpha alpha               
              #:label label])         -> renderer2d?
-  rects : (sequence/c (sequence/c ivl?))
+  rects : (sequence/c (sequence/c #:min-count 2 ivl?))
   x-min : (or/c rational? #f) = #f
   x-max : (or/c rational? #f) = #f
   y-min : (or/c rational? #f) = #f
@@ -831,6 +871,7 @@ procedure
              [label                                   
               #:color color                           
               #:size size                             
+              #:face face                             
               #:family family                         
               #:anchor anchor                         
               #:angle angle                           
@@ -844,6 +885,7 @@ procedure
   label : (or/c string? #f) = #f
   color : plot-color/c = (plot-foreground)
   size : (>=/c 0) = (plot-font-size)
+  face : (or/c string? #f) = (plot-font-face)
   family : font-family/c = (plot-font-family)
   anchor : anchor/c = (label-anchor)
   angle : real? = (label-angle)
@@ -859,6 +901,7 @@ procedure
                 [label                               
                  #:color color                       
                  #:size size                         
+                 #:face face                         
                  #:family family                     
                  #:anchor anchor                     
                  #:angle angle                       
@@ -874,6 +917,7 @@ procedure
   label : (or/c string? #f) = #f
   color : plot-color/c = (plot-foreground)
   size : (>=/c 0) = (plot-font-size)
+  face : (or/c string? #f) = (plot-font-face)
   family : font-family/c = (plot-font-family)
   anchor : anchor/c = (label-anchor)
   angle : real? = (label-angle)
@@ -889,6 +933,7 @@ procedure
                [label                               
                 #:color color                       
                 #:size size                         
+                #:face face                         
                 #:family family                     
                 #:anchor anchor                     
                 #:angle angle                       
@@ -904,6 +949,7 @@ procedure
   label : (or/c string? #f) = #f
   color : plot-color/c = (plot-foreground)
   size : (>=/c 0) = (plot-font-size)
+  face : (or/c string? #f) = (plot-font-face)
   family : font-family/c = (plot-font-family)
   anchor : anchor/c = (label-anchor)
   angle : real? = (label-angle)
@@ -919,6 +965,7 @@ procedure
                   [label                               
                    #:color color                       
                    #:size size                         
+                   #:face face                         
                    #:family family                     
                    #:anchor anchor                     
                    #:angle angle                       
@@ -934,6 +981,7 @@ procedure
   label : (or/c string? #f) = #f
   color : plot-color/c = (plot-foreground)
   size : (>=/c 0) = (plot-font-size)
+  face : (or/c string? #f) = (plot-font-face)
   family : font-family/c = (plot-font-family)
   anchor : anchor/c = (label-anchor)
   angle : real? = (label-angle)
@@ -949,6 +997,7 @@ procedure
              [label                                   
               #:color color                           
               #:size size                             
+              #:face face                             
               #:family family                         
               #:anchor anchor                         
               #:angle angle                           
@@ -963,6 +1012,7 @@ procedure
   label : (or/c string? #f) = #f
   color : plot-color/c = (plot-foreground)
   size : (>=/c 0) = (plot-font-size)
+  face : (or/c string? #f) = (plot-font-face)
   family : font-family/c = (plot-font-family)
   anchor : anchor/c = (label-anchor)
   angle : real? = (label-angle)
@@ -983,11 +1033,14 @@ procedure
            #:sym sym                   
            #:color color               
            #:fill-color fill-color     
+           #:x-jitter x-jitter         
+           #:y-jitter y-jitter         
+           #:z-jitter z-jitter         
            #:size size                 
            #:line-width line-width     
            #:alpha alpha               
            #:label label])         -> renderer3d?
-  vs : (sequence/c (sequence/c real?))
+  vs : (sequence/c (sequence/c #:min-count 3 real?))
   x-min : (or/c rational? #f) = #f
   x-max : (or/c rational? #f) = #f
   y-min : (or/c rational? #f) = #f
@@ -997,6 +1050,9 @@ procedure
   sym : point-sym/c = (point-sym)
   color : plot-color/c = (point-color)
   fill-color : (or/c plot-color/c 'auto) = 'auto
+  x-jitter : (>=/c 0) = (point-x-jitter)
+  y-jitter : (>=/c 0) = (point-y-jitter)
+  z-jitter : (>=/c 0) = (point-z-jitter)
   size : (>=/c 0) = (point-size)
   line-width : (>=/c 0) = (point-line-width)
   alpha : (real-in 0 1) = (point-alpha)
@@ -1024,7 +1080,7 @@ procedure
   y-max : (or/c rational? #f) = #f
   z-min : (or/c rational? #f) = #f
   z-max : (or/c rational? #f) = #f
-  samples : exact-positive-integer? = ( vector-field3d-samples)
+  samples : exact-positive-integer? = (vector-field3d-samples)
   scale : (or/c real? (one-of/c 'auto 'normalized))
         = (vector-field-scale)
   color : plot-color/c = (vector-field-color)
@@ -1045,7 +1101,7 @@ procedure
           #:style style       
           #:alpha alpha       
           #:label label]) -> renderer3d?
-  vs : (sequence/c (sequence/c real?))
+  vs : (sequence/c (sequence/c #:min-count 3 real?))
   x-min : (or/c rational? #f) = #f
   x-max : (or/c rational? #f) = #f
   y-min : (or/c rational? #f) = #f
@@ -1348,7 +1404,7 @@ procedure
                #:line-style line-style     
                #:alpha alpha               
                #:label label])         -> renderer3d?
-  rects : (sequence/c (sequence/c ivl?))
+  rects : (sequence/c (sequence/c #:min-count 3 ivl?))
   x-min : (or/c rational? #f) = #f
   x-max : (or/c rational? #f) = #f
   y-min : (or/c rational? #f) = #f
@@ -1453,6 +1509,7 @@ procedure
                [label                               
                 #:color color                       
                 #:size size                         
+                #:face face                         
                 #:family family                     
                 #:anchor anchor                     
                 #:angle angle                       
@@ -1467,6 +1524,7 @@ procedure
   label : (or/c string? #f) = #f
   color : plot-color/c = (plot-foreground)
   size : (>=/c 0) = (plot-font-size)
+  face : (or/c string? #f) = (plot-font-face)
   family : font-family/c = (plot-font-family)
   anchor : anchor/c = (label-anchor)
   angle : real? = (label-angle)
@@ -1511,17 +1569,17 @@ parameter
 (plot-x-transform) -> axis-transform/c
 (plot-x-transform transform) -> void?
   transform : axis-transform/c
-=  id-transform
+ = id-transform
 parameter
 (plot-y-transform) -> axis-transform/c
 (plot-y-transform transform) -> void?
   transform : axis-transform/c
-=  id-transform
+ = id-transform
 parameter
 (plot-z-transform) -> axis-transform/c
 (plot-z-transform transform) -> void?
   transform : axis-transform/c
-=  id-transform
+ = id-transform
 value
 id-transform : axis-transform/c
 value
@@ -1542,7 +1600,7 @@ procedure
   freq : (>/c 0)
 value
 axis-transform/c : contract?
-=  (real? real? invertible-function? . -> . invertible-function?)
+ = (-> real? real? invertible-function? invertible-function?)
 procedure
 (axis-transform-append t1 t2 mid) -> axis-transform/c
   t1 : axis-transform/c
@@ -1553,8 +1611,6 @@ procedure
   t : axis-transform/c
   a : real?
   b : real?
-=  (axis-transform-append
-    (axis-transform-append id-transform t a) id-transform b)
 procedure
 (axis-transform-compose t1 t2) -> axis-transform/c
   t1 : axis-transform/c
@@ -1567,37 +1623,36 @@ procedure
   t : axis-transform/c
   x-min : real?
   x-max : real?
-=  (t x-min x-max id-function)
 parameter
 (plot-x-ticks) -> ticks?
 (plot-x-ticks ticks) -> void?
   ticks : ticks?
-=  (linear-ticks)
+ = (linear-ticks)
 parameter
 (plot-x-far-ticks) -> ticks?
 (plot-x-far-ticks ticks) -> void?
   ticks : ticks?
-=  (ticks-mimic plot-x-ticks)
+ = (ticks-mimic plot-x-ticks)
 parameter
 (plot-y-ticks) -> ticks?
 (plot-y-ticks ticks) -> void?
   ticks : ticks?
-=  (linear-ticks)
+ = (linear-ticks)
 parameter
 (plot-y-far-ticks) -> ticks?
 (plot-y-far-ticks ticks) -> void?
   ticks : ticks?
-=  (ticks-mimic plot-y-ticks)
+ = (ticks-mimic plot-y-ticks)
 parameter
 (plot-z-ticks) -> ticks?
 (plot-z-ticks ticks) -> void?
   ticks : ticks?
-=  (linear-ticks)
+ = (linear-ticks)
 parameter
 (plot-z-far-ticks) -> ticks?
 (plot-z-far-ticks ticks) -> void?
   ticks : ticks?
-=  (ticks-mimic plot-z-ticks)
+ = (ticks-mimic plot-z-ticks)
 procedure
 (contour-ticks z-ticks         
                z-min           
@@ -1613,22 +1668,27 @@ parameter
 (plot-d-ticks) -> ticks?
 (plot-d-ticks ticks) -> void?
   ticks : ticks?
-=  (linear-ticks)
+ = (linear-ticks)
 parameter
 (plot-r-ticks) -> ticks?
 (plot-r-ticks ticks) -> void?
   ticks : ticks?
-=  (linear-ticks)
+ = (linear-ticks)
 struct
 (struct ticks (layout format)
-        #:extra-constructor-name make-ticks)
+    #:extra-constructor-name make-ticks)
   layout : ticks-layout/c
   format : ticks-format/c
+procedure
+(ticks-generate ticks min max) -> (listof tick?)
+  ticks : ticks?
+  min : real?
+  max : real?
 parameter
 (ticks-default-number) -> exact-positive-integer?
 (ticks-default-number number) -> void?
   number : exact-positive-integer?
-=  4
+ = 4
 procedure
 (linear-ticks-layout [#:number number           
                       #:base base               
@@ -1645,9 +1705,6 @@ procedure
   number : exact-positive-integer? = (ticks-default-number)
   base : (and/c exact-integer? (>=/c 2)) = 10
   divisors : (listof exact-positive-integer?) = '(1 2 4 5)
-=  (ticks (linear-ticks-layout #:number number #:base base
-                               #:divisors divisors)
-          (linear-ticks-format))
 procedure
 (log-ticks-layout [#:number number     
                    #:base base])   -> ticks-layout/c
@@ -1660,8 +1717,6 @@ procedure
 (log-ticks [#:number number #:base base]) -> ticks?
   number : exact-positive-integer? = (ticks-default-number)
   base : (and/c exact-integer? (>=/c 2)) = 10
-=  (ticks (log-ticks-layout #:number number #:base base)
-          (log-ticks-format #:base base))
 procedure
 (date-ticks-layout [#:number number]) -> ticks-layout/c
   number : exact-positive-integer? = (ticks-default-number)
@@ -1673,16 +1728,14 @@ procedure
              #:formats formats]) -> ticks?
   number : exact-positive-integer? = (ticks-default-number)
   formats : (listof string?) = (date-ticks-formats)
-=  (ticks (date-ticks-layout #:number number)
-          (date-ticks-format #:formats formats))
 parameter
 (date-ticks-formats) -> (listof string?)
 (date-ticks-formats formats) -> void?
   formats : (listof string?)
-=  24h-descending-date-ticks-formats
+ = 24h-descending-date-ticks-formats
 value
 24h-descending-date-ticks-formats : (listof string?)
-=  '("~Y-~m-~d ~H:~M:~f"
+ = '("~Y-~m-~d ~H:~M:~f"
      "~Y-~m-~d ~H:~M"
      "~Y-~m-~d ~Hh"
      "~Y-~m-~d"
@@ -1700,7 +1753,7 @@ value
      "~fs")
 value
 12h-descending-date-ticks-formats : (listof string?)
-=  '("~Y-~m-~d ~I:~M:~f ~p"
+ = '("~Y-~m-~d ~I:~M:~f ~p"
      "~Y-~m-~d ~I:~M ~p"
      "~Y-~m-~d ~I ~p"
      "~Y-~m-~d"
@@ -1727,16 +1780,14 @@ procedure
              #:formats formats]) -> ticks?
   number : exact-positive-integer? = (ticks-default-number)
   formats : (listof string?) = (time-ticks-formats)
-=  (ticks (time-ticks-layout #:number number)
-          (time-ticks-format #:formats formats))
 parameter
 (time-ticks-formats) -> (listof string?)
 (time-ticks-formats formats) -> void?
   formats : (listof string?)
-=  24h-descending-time-ticks-formats
+ = 24h-descending-time-ticks-formats
 value
 24h-descending-time-ticks-formats : (listof string?)
-=  '("~dd ~H:~M:~f"
+ = '("~dd ~H:~M:~f"
      "~dd ~H:~M"
      "~dd ~Hh"
      "~dd"
@@ -1748,7 +1799,7 @@ value
      "~fs")
 value
 12h-descending-time-ticks-formats : (listof string?)
-=  '("~dd ~I:~M:~f ~p"
+ = '("~dd ~I:~M:~f ~p"
      "~dd ~I:~M ~p"
      "~dd ~I ~p"
      "~dd"
@@ -1776,47 +1827,37 @@ procedure
   scales : (listof string?) = (currency-ticks-scales)
   formats : (list/c string? string? string?)
           = (currency-ticks-formats)
-=  (ticks (linear-ticks-layout #:number number)
-          (currency-ticks-format #:kind kind #:scales scales
-                                 #:formats formats))
 parameter
 (currency-ticks-scales) -> (listof string?)
 (currency-ticks-scales scales) -> void?
   scales : (listof string?)
-=  us-currency-scales
+ = us-currency-scales
 parameter
 (currency-ticks-formats) -> (list/c string? string? string?)
 (currency-ticks-formats formats) -> void?
   formats : (list/c string? string? string?)
-=  us-currency-formats
+ = us-currency-formats
 value
-us-currency-scales : (listof string?)
-=  '("" "K" "M" "B" "T")
+us-currency-scales : (listof string?) = '("" "K" "M" "B" "T")
 value
-uk-currency-scales : (listof string?)
-=  '("" "k" "m" "bn" "tr")
+uk-currency-scales : (listof string?) = '("" "k" "m" "bn" "tr")
 value
-eu-currency-scales : (listof string?)
-=  '("" "K" "M" "Md" "B")
+eu-currency-scales : (listof string?) = '("" "K" "M" "Md" "B")
 value
 us-currency-formats : (list/c string? string? string?)
-=  '("~$~w.~f~s" "(~$~w.~f~s)" "~$0")
+ = '("~$~w.~f~s" "(~$~w.~f~s)" "~$0")
 value
 uk-currency-formats : (list/c string? string? string?)
-=  '("~$~w.~f~s" "-~$~w.~f~s" "~$0")
+ = '("~$~w.~f~s" "-~$~w.~f~s" "~$0")
 value
 eu-currency-formats : (list/c string? string? string?)
-=  '("~w,~f ~s~$" "-~w,~f ~s~$" "0 ~$")
+ = '("~w,~f ~s~$" "-~w,~f ~s~$" "0 ~$")
 value
 no-ticks-layout : ticks-layout/c
-=  (λ (x-min x-max) empty)
 value
 no-ticks-format : ticks-format/c
-=  (λ (x-min x-max pre-ticks)
-     (map (λ (_) "") pre-ticks))
 value
-no-ticks : ticks?
-=  (ticks no-ticks-layout no-ticks-format)
+no-ticks : ticks? = (ticks no-ticks-layout no-ticks-format)
 procedure
 (bit/byte-ticks-format [#:size size       
                         #:kind kind]) -> ticks-format/c
@@ -1829,10 +1870,6 @@ procedure
   number : exact-positive-integer? = (ticks-default-number)
   size : (or/c 'byte 'bit) = 'byte
   kind : (or/c 'CS 'SI) = 'CS
-=  (define si? (eq? kind 'SI))
-   (ticks (linear-ticks-layout #:number number #:base (if si? 10 2)
-                               #:divisors (if si? '(1 2 4 5) '(1 2)))
-          (bit/byte-ticks-format #:size size #:kind kind))
 procedure
 (fraction-ticks-format [#:base base               
                         #:divisors divisors]) -> ticks-format/c
@@ -1843,8 +1880,6 @@ procedure
                  #:divisors divisors]) -> ticks?
   base : (and/c exact-integer? (>=/c 2)) = 10
   divisors : (listof exact-positive-integer?) = '(1 2 3 4 5)
-=  (ticks (linear-ticks #:base base #:divisors divisors)
-          (fraction-ticks-format #:base base #:divisors divisors))
 procedure
 (ticks-mimic thunk) -> ticks?
   thunk : (-> ticks?)
@@ -1859,26 +1894,26 @@ procedure
   fun : invertible-function?
 struct
 (struct pre-tick (value major?)
-        #:extra-constructor-name make-pre-tick)
+    #:extra-constructor-name make-pre-tick)
   value : real?
   major? : boolean?
 struct
 (struct tick pre-tick (label)
-        #:extra-constructor-name make-tick)
+    #:extra-constructor-name make-tick)
   label : string?
 value
-ticks-layout/c : contract?
-=  (real? real? . -> . (listof pre-tick?))
+ticks-layout/c : contract? = (-> real? real? (listof pre-tick?))
 value
 ticks-format/c : contract?
-=  (real? real? (listof pre-tick?) . -> . (listof string?))
+ = (-> real? real? (listof pre-tick?) (listof string?))
 struct
 (struct invertible-function (f g)
-        #:extra-constructor-name make-invertible-function)
-  f : (real? . -> . real?)
-  g : (real? . -> . real?)
+    #:extra-constructor-name make-invertible-function)
+  f : (-> real? real?)
+  g : (-> real? real?)
 value
 id-function : invertible-function?
+ = (invertible-function (λ (x) x) (λ (x) x))
 procedure
 (invertible-compose f1 f2) -> invertible-function?
   f1 : invertible-function?
@@ -1886,14 +1921,10 @@ procedure
 procedure
 (invertible-inverse h) -> invertible-function?
   h : invertible-function?
-=  (match-define (invertible-function f g) h)
-   (invertible-function g f)
 procedure
 (linear-scale m [b]) -> invertible-function?
   m : rational?
   b : rational? = 0
-=  (invertible-function (λ (x) (+ (* m x) b))
-                        (λ (y) (/ (- y b) m)))
 procedure
 (digits-for-range  x-min              
                    x-max              
@@ -1904,7 +1935,7 @@ procedure
   base : (and/c exact-integer? (>=/c 2)) = 10
   extra-digits : exact-integer? = 3
 procedure
-(real->plot-label x digits [scientific?]) -> any
+(real->plot-label x digits [scientific?]) -> string?
   x : real?
   digits : exact-integer?
   scientific? : boolean? = #t
@@ -1963,17 +1994,13 @@ procedure
   transform : axis-transform/c
   start? : boolean? = #t
   end? : boolean? = #t
-struct
-(struct mapped-function (f fmap)
-        #:extra-constructor-name make-mapped-function)
-  f : (any/c . -> . any/c)
-  fmap : ((listof any/c) . -> . (listof any/c))
 procedure
-(kde xs h) -> mapped-function?
-              (or/c rational? #f)
-              (or/c rational? #f)
+(kde xs h [ws]) -> (-> real? real?)
+                   (or/c rational? #f)
+                   (or/c rational? #f)
   xs : (listof real?)
-  h : real?
+  h : (>/c 0)
+  ws : (or/c (listof (>=/c 0)) #f) = #f
 procedure
 (color-seq  c1              
             c2              
@@ -2083,7 +2110,7 @@ procedure
   v : (vectorof real?)
 struct
 (struct ivl (min max)
-        #:extra-constructor-name make-ivl)
+    #:extra-constructor-name make-ivl)
   min : real?
   max : real?
 procedure
@@ -2101,7 +2128,7 @@ procedure
   x : (or/c plot-time? date? date*? sql-date? sql-time? sql-timestamp?)
 struct
 (struct plot-time (second minute hour day)
-        #:extra-constructor-name make-plot-time)
+    #:extra-constructor-name make-plot-time)
   second : (and/c (>=/c 0) (</c 60))
   minute : (integer-in 0 59)
   hour : (integer-in 0 23)
@@ -2114,719 +2141,712 @@ procedure
   s : real?
 parameter
 (plot-deprecation-warnings?) -> boolean?
-(plot-deprecation-warnings? warnings?) -> void?
-  warnings? : boolean?
-=  #f
+(plot-deprecation-warnings? warnings) -> void?
+  warnings : boolean?
+ = #f
 parameter
 (plot-new-window?) -> boolean?
-(plot-new-window? window?) -> void?
-  window? : boolean?
-=  #f
+(plot-new-window? new-window?) -> void?
+  new-window? : boolean?
+ = #f
 parameter
 (plot-width) -> exact-positive-integer?
 (plot-width width) -> void?
   width : exact-positive-integer?
-=  400
+ = 400
 parameter
 (plot-height) -> exact-positive-integer?
 (plot-height height) -> void?
   height : exact-positive-integer?
-=  400
+ = 400
 parameter
 (plot-jpeg-quality) -> (integer-in 0 100)
 (plot-jpeg-quality quality) -> void?
   quality : (integer-in 0 100)
-=  100
+ = 100
 parameter
 (plot-ps/pdf-interactive?) -> boolean?
 (plot-ps/pdf-interactive? interactive?) -> void?
   interactive? : boolean?
-=  #f
-parameter
-(plot-foreground) -> plot-color/c
-(plot-foreground color) -> void?
-  color : plot-color/c
-=  0
-parameter
-(plot-background) -> plot-color/c
-(plot-background color) -> void?
-  color : plot-color/c
-=  0
-parameter
-(plot-foreground-alpha) -> (real-in 0 1)
-(plot-foreground-alpha alpha) -> void?
-  alpha : (real-in 0 1)
-=  1
-parameter
-(plot-background-alpha) -> (real-in 0 1)
-(plot-background-alpha alpha) -> void?
-  alpha : (real-in 0 1)
-=  1
-parameter
-(plot-font-size) -> (>=/c 0)
-(plot-font-size size) -> void?
-  size : (>=/c 0)
-=  11
-parameter
-(plot-font-family) -> font-family/c
-(plot-font-family family) -> void?
-  family : font-family/c
-=  'roman
-parameter
-(plot-line-width) -> (>=/c 0)
-(plot-line-width width) -> void?
-  width : (>=/c 0)
-=  1
-parameter
-(plot-legend-anchor) -> anchor/c
-(plot-legend-anchor anchor) -> void?
-  anchor : anchor/c
-=  'top-left
-parameter
-(plot-legend-box-alpha) -> (real-in 0 1)
-(plot-legend-box-alpha alpha) -> void?
-  alpha : (real-in 0 1)
-=  2/3
-parameter
-(plot-tick-size) -> (>=/c 0)
-(plot-tick-size size) -> void?
-  size : (>=/c 0)
-=  10
+ = #f
 parameter
 (plot-title) -> (or/c string? #f)
 (plot-title title) -> void?
   title : (or/c string? #f)
-=  #f
+ = #f
 parameter
 (plot-x-label) -> (or/c string? #f)
 (plot-x-label label) -> void?
   label : (or/c string? #f)
-=  "x axis"
+ = "x axis"
 parameter
 (plot-y-label) -> (or/c string? #f)
 (plot-y-label label) -> void?
   label : (or/c string? #f)
-=  "y axis"
+ = "y axis"
 parameter
 (plot-z-label) -> (or/c string? #f)
 (plot-z-label label) -> void?
   label : (or/c string? #f)
-=  #f
+ = #f
 parameter
 (plot-x-far-label) -> (or/c string? #f)
 (plot-x-far-label label) -> void?
   label : (or/c string? #f)
-=  #f
+ = #f
 parameter
 (plot-y-far-label) -> (or/c string? #f)
 (plot-y-far-label label) -> void?
   label : (or/c string? #f)
-=  #f
+ = #f
 parameter
 (plot-z-far-label) -> (or/c string? #f)
 (plot-z-far-label label) -> void?
   label : (or/c string? #f)
-=  #f
+ = #f
+parameter
+(plot3d-samples) -> (and/c exact-integer? (>=/c 2))
+(plot3d-samples n) -> void?
+  n : (and/c exact-integer? (>=/c 2))
+ = 41
+parameter
+(plot3d-angle) -> real?
+(plot3d-angle angle) -> void?
+  angle : real?
+ = 30
+parameter
+(plot3d-altitude) -> real?
+(plot3d-altitude altitude) -> void?
+  altitude : real?
+ = 60
+parameter
+(plot3d-ambient-light) -> (real-in 0 1)
+(plot3d-ambient-light amt) -> void?
+  amt : (real-in 0 1)
+ = 2/3
+parameter
+(plot3d-diffuse-light?) -> boolean?
+(plot3d-diffuse-light? diffuse?) -> void?
+  diffuse? : boolean?
+ = #t
+parameter
+(plot3d-specular-light?) -> boolean?
+(plot3d-specular-light? specular?) -> void?
+  specular? : boolean?
+ = #t
+parameter
+(plot-foreground) -> plot-color/c
+(plot-foreground color) -> void?
+  color : plot-color/c
+ = 0
+parameter
+(plot-background) -> plot-color/c
+(plot-background color) -> void?
+  color : plot-color/c
+ = 0
+parameter
+(plot-foreground-alpha) -> (real-in 0 1)
+(plot-foreground-alpha alpha) -> void?
+  alpha : (real-in 0 1)
+ = 1
+parameter
+(plot-background-alpha) -> (real-in 0 1)
+(plot-background-alpha alpha) -> void?
+  alpha : (real-in 0 1)
+ = 1
+parameter
+(plot-font-size) -> (>=/c 0)
+(plot-font-size size) -> void?
+  size : (>=/c 0)
+ = 11
+parameter
+(plot-font-face) -> (or/c string? #f)
+(plot-font-face face) -> void?
+  face : (or/c string? #f)
+ = #f
+parameter
+(plot-font-family) -> font-family/c
+(plot-font-family family) -> void?
+  family : font-family/c
+ = 'roman
+parameter
+(plot-legend-anchor) -> anchor/c
+(plot-legend-anchor anchor) -> void?
+  anchor : anchor/c
+ = 'top-left
+parameter
+(plot-legend-box-alpha) -> (real-in 0 1)
+(plot-legend-box-alpha alpha) -> void?
+  alpha : (real-in 0 1)
+ = 2/3
+parameter
+(plot-tick-size) -> (>=/c 0)
+(plot-tick-size size) -> void?
+  size : (>=/c 0)
+ = 10
 parameter
 (plot-x-tick-label-anchor) -> anchor/c
 (plot-x-tick-label-anchor anchor) -> void?
   anchor : anchor/c
-=  'top
-parameter
-(plot-x-tick-label-angle) -> real?
-(plot-x-tick-label-angle angle) -> void?
-  angle : real?
-=  0
+ = 'top
 parameter
 (plot-y-tick-label-anchor) -> anchor/c
 (plot-y-tick-label-anchor anchor) -> void?
   anchor : anchor/c
-=  'right
-parameter
-(plot-y-tick-label-angle) -> real?
-(plot-y-tick-label-angle angle) -> void?
-  angle : real?
-=  0
+ = 'right
 parameter
 (plot-x-far-tick-label-anchor) -> anchor/c
 (plot-x-far-tick-label-anchor anchor) -> void?
   anchor : anchor/c
-=  'bottom
-parameter
-(plot-x-far-tick-label-angle) -> real?
-(plot-x-far-tick-label-angle angle) -> void?
-  angle : real?
-=  0
+ = 'bottom
 parameter
 (plot-y-far-tick-label-anchor) -> anchor/c
 (plot-y-far-tick-label-anchor anchor) -> void?
   anchor : anchor/c
-=  'left
+ = 'left
+parameter
+(plot-x-tick-label-angle) -> real?
+(plot-x-tick-label-angle angle) -> void?
+  angle : real?
+ = 0
+parameter
+(plot-y-tick-label-angle) -> real?
+(plot-y-tick-label-angle angle) -> void?
+  angle : real?
+ = 0
+parameter
+(plot-x-far-tick-label-angle) -> real?
+(plot-x-far-tick-label-angle angle) -> void?
+  angle : real?
+ = 0
 parameter
 (plot-y-far-tick-label-angle) -> real?
 (plot-y-far-tick-label-angle angle) -> void?
   angle : real?
-=  0
+ = 0
 parameter
 (plot-x-axis?) -> boolean?
-(plot-x-axis? axis?) -> void?
-  axis? : boolean?
-=  #t
-parameter
-(plot-x-far-axis?) -> boolean?
-(plot-x-far-axis? axis?) -> void?
-  axis? : boolean?
-=  #t
+(plot-x-axis? draw?) -> void?
+  draw? : boolean?
+ = #t
 parameter
 (plot-y-axis?) -> boolean?
-(plot-y-axis? axis?) -> void?
-  axis? : boolean?
-=  #t
-parameter
-(plot-y-far-axis?) -> boolean?
-(plot-y-far-axis? axis?) -> void?
-  axis? : boolean?
-=  #t
+(plot-y-axis? draw?) -> void?
+  draw? : boolean?
+ = #t
 parameter
 (plot-z-axis?) -> boolean?
-(plot-z-axis? axis?) -> void?
-  axis? : boolean?
-=  #t
+(plot-z-axis? draw?) -> void?
+  draw? : boolean?
+ = #t
+parameter
+(plot-x-far-axis?) -> boolean?
+(plot-x-far-axis? draw?) -> void?
+  draw? : boolean?
+ = #t
+parameter
+(plot-y-far-axis?) -> boolean?
+(plot-y-far-axis? draw?) -> void?
+  draw? : boolean?
+ = #t
 parameter
 (plot-z-far-axis?) -> boolean?
-(plot-z-far-axis? axis?) -> void?
-  axis? : boolean?
-=  #t
+(plot-z-far-axis? draw?) -> void?
+  draw? : boolean?
+ = #t
 parameter
 (plot-animating?) -> boolean?
 (plot-animating? animating?) -> void?
   animating? : boolean?
-=  #f
+ = #f
 procedure
 (animated-samples samples) -> (and/c exact-integer? (>=/c 2))
   samples : (and/c exact-integer? (>=/c 2))
-=  (cond [(plot-animating?)  (max 2 (ceiling (* 1/4 samples)))]
-         [else  samples])
 parameter
 (plot-decorations?) -> boolean?
-(plot-decorations? decorations?) -> void?
-  decorations? : boolean?
-=  #t
+(plot-decorations? draw?) -> void?
+  draw? : boolean?
+ = #t
 parameter
 (line-samples) -> (and/c exact-integer? (>=/c 2))
-(line-samples samples) -> void?
-  samples : (and/c exact-integer? (>=/c 2))
-=  500
+(line-samples n) -> void?
+  n : (and/c exact-integer? (>=/c 2))
+ = 500
 parameter
 (line-color) -> plot-color/c
 (line-color color) -> void?
   color : plot-color/c
-=  1
+ = 1
 parameter
 (line-width) -> (>=/c 0)
 (line-width width) -> void?
   width : (>=/c 0)
-=  1
+ = 1
 parameter
 (line-style) -> plot-pen-style/c
 (line-style style) -> void?
   style : plot-pen-style/c
-=  'solid
+ = 'solid
 parameter
 (line-alpha) -> (real-in 0 1)
 (line-alpha alpha) -> void?
   alpha : (real-in 0 1)
-=  1
+ = 1
 parameter
 (interval-color) -> plot-color/c
 (interval-color color) -> void?
   color : plot-color/c
-=  3
+ = 3
 parameter
 (interval-style) -> plot-brush-style/c
 (interval-style style) -> void?
   style : plot-brush-style/c
-=  'solid
+ = 'solid
 parameter
 (interval-line1-color) -> plot-color/c
 (interval-line1-color color) -> void?
   color : plot-color/c
-=  3
+ = 3
 parameter
 (interval-line1-width) -> (>=/c 0)
 (interval-line1-width width) -> void?
   width : (>=/c 0)
-=  1
+ = 1
 parameter
 (interval-line1-style) -> plot-pen-style/c
 (interval-line1-style style) -> void?
   style : plot-pen-style/c
-=  'solid
+ = 'solid
 parameter
 (interval-line2-color) -> plot-color/c
 (interval-line2-color color) -> void?
   color : plot-color/c
-=  3
+ = 3
 parameter
 (interval-line2-width) -> (>=/c 0)
 (interval-line2-width width) -> void?
   width : (>=/c 0)
-=  1
+ = 1
 parameter
 (interval-line2-style) -> plot-pen-style/c
 (interval-line2-style style) -> void?
   style : plot-pen-style/c
-=  'solid
+ = 'solid
 parameter
 (interval-alpha) -> (real-in 0 1)
 (interval-alpha alpha) -> void?
   alpha : (real-in 0 1)
-=  3/4
+ = 3/4
 parameter
 (point-sym) -> point-sym/c
 (point-sym sym) -> void?
   sym : point-sym/c
-=  'circle
-parameter
-(point-color) -> plot-color/c
-(point-color color) -> void?
-  color : plot-color/c
-=  0
+ = 'circle
 parameter
 (point-size) -> (>=/c 0)
 (point-size size) -> void?
   size : (>=/c 0)
-=  6
-parameter
-(point-line-width) -> (>=/c 0)
-(point-line-width width) -> void?
-  width : (>=/c 0)
-=  1
+ = 6
 parameter
 (point-alpha) -> (real-in 0 1)
 (point-alpha alpha) -> void?
   alpha : (real-in 0 1)
-=  1
+ = 1
+parameter
+(point-x-jitter) -> (>=/c 0)
+(point-x-jitter x-jitter) -> void?
+  x-jitter : (>=/c 0)
+ = 0
+parameter
+(point-y-jitter) -> (>=/c 0)
+(point-y-jitter y-jitter) -> void?
+  y-jitter : (>=/c 0)
+ = 0
+parameter
+(point-z-jitter) -> (>=/c 0)
+(point-z-jitter z-jitter) -> void?
+  z-jitter : (>=/c 0)
+ = 0
+parameter
+(point-color) -> plot-color/c
+(point-color color) -> void?
+  color : plot-color/c
+ = 0
+parameter
+(point-line-width) -> (>=/c 0)
+(point-line-width width) -> void?
+  width : (>=/c 0)
+ = 1
+parameter
+(label-anchor) -> anchor/c
+(label-anchor anchor) -> void?
+  anchor : anchor/c
+ = 'left
+parameter
+(label-angle) -> real?
+(label-angle angle) -> void?
+  angle : real?
+ = 0
+parameter
+(label-alpha) -> (real-in 0 1)
+(label-alpha alpha) -> void?
+  alpha : (real-in 0 1)
+ = 1
+parameter
+(label-point-size) -> (>=/c 0)
+(label-point-size size) -> void?
+  size : (>=/c 0)
+ = 4
 parameter
 (vector-field-samples) -> exact-positive-integer?
-(vector-field-samples samples) -> void?
-  samples : exact-positive-integer?
-=  20
+(vector-field-samples n) -> void?
+  n : exact-positive-integer?
+ = 20
+parameter
+(vector-field3d-samples) -> exact-positive-integer?
+(vector-field3d-samples n) -> void?
+  n : exact-positive-integer?
+ = 9
 parameter
 (vector-field-color) -> plot-color/c
 (vector-field-color color) -> void?
   color : plot-color/c
-=  1
+ = 1
 parameter
 (vector-field-line-width) -> (>=/c 0)
 (vector-field-line-width width) -> void?
   width : (>=/c 0)
-=  2/3
+ = 2/3
 parameter
 (vector-field-line-style) -> plot-pen-style/c
 (vector-field-line-style style) -> void?
   style : plot-pen-style/c
-=  'solid
+ = 'solid
 parameter
 (vector-field-scale)
  -> (or/c real? (one-of/c 'auto 'normalized))
 (vector-field-scale scale) -> void?
   scale : (or/c real? (one-of/c 'auto 'normalized))
-=  'auto
+ = 'auto
 parameter
 (vector-field-alpha) -> (real-in 0 1)
 (vector-field-alpha alpha) -> void?
   alpha : (real-in 0 1)
-=  1
-parameter
-(vector-field3d-samples) -> exact-positive-integer?
-(vector-field3d-samples samples) -> void?
-  samples : exact-positive-integer?
-=  9
+ = 1
 parameter
 (error-bar-width) -> (>=/c 0)
 (error-bar-width width) -> void?
   width : (>=/c 0)
-=  6
+ = 6
 parameter
 (error-bar-color) -> plot-color/c
 (error-bar-color color) -> void?
   color : plot-color/c
-=  0
+ = 0
 parameter
 (error-bar-line-width) -> (>=/c 0)
-(error-bar-line-width width) -> void?
-  width : (>=/c 0)
-=  1
+(error-bar-line-width pen-width) -> void?
+  pen-width : (>=/c 0)
+ = 1
 parameter
 (error-bar-line-style) -> plot-pen-style/c
-(error-bar-line-style style) -> void?
-  style : plot-pen-style/c
-=  'solid
+(error-bar-line-style pen-style) -> void?
+  pen-style : plot-pen-style/c
+ = 'solid
 parameter
 (error-bar-alpha) -> (real-in 0 1)
 (error-bar-alpha alpha) -> void?
   alpha : (real-in 0 1)
-=  2/3
+ = 2/3
 procedure
 (default-contour-colors zs) -> (listof plot-color/c)
   zs : (listof real?)
-=  (color-seq* (list (->pen-color 5) (->pen-color 0) (->pen-color 1))
+ = (color-seq* (list (->pen-color 5) (->pen-color 0) (->pen-color 1))
                (length zs))
 procedure
 (default-contour-fill-colors z-ivls) -> (listof plot-color/c)
   z-ivls : (listof ivl?)
-=  (color-seq* (list (->brush-color 5) (->brush-color 0) (->brush-color 1))
+ = (color-seq* (list (->brush-color 5) (->brush-color 0) (->brush-color 1))
                (length z-ivls))
 parameter
 (contour-samples) -> (and/c exact-integer? (>=/c 2))
-(contour-samples samples) -> void?
-  samples : (and/c exact-integer? (>=/c 2))
-=  51
+(contour-samples n) -> void?
+  n : (and/c exact-integer? (>=/c 2))
+ = 51
 parameter
 (contour-levels)
  -> (or/c 'auto exact-positive-integer? (listof real?))
 (contour-levels levels) -> void?
   levels : (or/c 'auto exact-positive-integer? (listof real?))
-=  'auto
+ = 'auto
 parameter
 (contour-colors) -> (plot-colors/c (listof real?))
 (contour-colors colors) -> void?
   colors : (plot-colors/c (listof real?))
-=  default-contour-colors
+ = default-contour-colors
 parameter
 (contour-widths) -> (pen-widths/c (listof real?))
 (contour-widths widths) -> void?
   widths : (pen-widths/c (listof real?))
-=  '(1)
+ = '(1)
 parameter
 (contour-styles) -> (plot-pen-styles/c (listof real?))
 (contour-styles styles) -> void?
   styles : (plot-pen-styles/c (listof real?))
-=  '(solid long-dash)
+ = '(solid long-dash)
 parameter
 (contour-alphas) -> (alphas/c (listof real?))
 (contour-alphas alphas) -> void?
   alphas : (alphas/c (listof real?))
-=  '(1)
+ = '(1)
 parameter
 (contour-interval-colors) -> (plot-colors/c (listof ivl?))
 (contour-interval-colors colors) -> void?
   colors : (plot-colors/c (listof ivl?))
-=  default-contour-fill-colors
+ = default-contour-fill-colors
 parameter
 (contour-interval-styles)
  -> (plot-brush-styles/c (listof ivl?))
 (contour-interval-styles styles) -> void?
   styles : (plot-brush-styles/c (listof ivl?))
-=  '(solid)
+ = '(solid)
 parameter
 (contour-interval-alphas) -> (alphas/c (listof ivl?))
 (contour-interval-alphas alphas) -> void?
   alphas : (alphas/c (listof ivl?))
-=  '(1)
-parameter
-(rectangle-color) -> plot-color/c
-(rectangle-color color) -> void?
-  color : plot-color/c
-=  3
-parameter
-(rectangle-style) -> plot-brush-style/c
-(rectangle-style style) -> void?
-  style : plot-brush-style/c
-=  'solid
-parameter
-(rectangle-line-color) -> plot-color/c
-(rectangle-line-color color) -> void?
-  color : plot-color/c
-=  3
-parameter
-(rectangle-line-width) -> (>=/c 0)
-(rectangle-line-width width) -> void?
-  width : (>=/c 0)
-=  1
-parameter
-(rectangle-line-style) -> plot-pen-style/c
-(rectangle-line-style style) -> void?
-  style : plot-pen-style/c
-=  'solid
-parameter
-(rectangle-alpha) -> (real-in 0 1)
-(rectangle-alpha alpha) -> void?
-  alpha : (real-in 0 1)
-=  1
-parameter
-(rectangle3d-line-width) -> (>=/c 0)
-(rectangle3d-line-width width) -> void?
-  width : (>=/c 0)
-=  1/3
-parameter
-(discrete-histogram-gap) -> (real-in 0 1)
-(discrete-histogram-gap gap) -> void?
-  gap : (real-in 0 1)
-=  1/8
-parameter
-(discrete-histogram-skip) -> (>=/c 0)
-(discrete-histogram-skip skip) -> void?
-  skip : (>=/c 0)
-=  1
-parameter
-(discrete-histogram-invert?) -> boolean?
-(discrete-histogram-invert? invert?) -> void?
-  invert? : boolean?
-=  #f
-parameter
-(stacked-histogram-alphas) -> (alphas/c nat/c)
-(stacked-histogram-alphas alphas) -> void?
-  alphas : (alphas/c nat/c)
-=  '(1)
-parameter
-(stacked-histogram-colors) -> (plot-colors/c nat/c)
-(stacked-histogram-colors colors) -> void?
-  colors : (plot-colors/c nat/c)
-=  (λ (n) (build-list n add1))
-parameter
-(stacked-histogram-line-colors) -> (plot-colors/c nat/c)
-(stacked-histogram-line-colors colors) -> void?
-  colors : (plot-colors/c nat/c)
-=  (stacked-histogram-colors)
-parameter
-(stacked-histogram-line-styles) -> (plot-pen-styles/c nat/c)
-(stacked-histogram-line-styles styles) -> void?
-  styles : (plot-pen-styles/c nat/c)
-=  '(solid)
-parameter
-(stacked-histogram-line-widths) -> (pen-widths/c nat/c)
-(stacked-histogram-line-widths widths) -> void?
-  widths : (pen-widths/c nat/c)
-=  '(1)
-parameter
-(stacked-histogram-styles) -> (plot-brush-styles/c nat/c)
-(stacked-histogram-styles styles) -> void?
-  styles : (plot-brush-styles/c nat/c)
-=  '(solid)
-parameter
-(x-axis-alpha) -> (real-in 0 1)
-(x-axis-alpha alpha) -> void?
-  alpha : (real-in 0 1)
-=  1
-parameter
-(y-axis-alpha) -> (real-in 0 1)
-(y-axis-alpha alpha) -> void?
-  alpha : (real-in 0 1)
-=  1
-parameter
-(z-axis-alpha) -> (real-in 0 1)
-(z-axis-alpha alpha) -> void?
-  alpha : (real-in 0 1)
-=  1
-parameter
-(x-axis-far?) -> boolean?
-(x-axis-far? far?) -> void?
-  far? : boolean?
-=  #f
-parameter
-(y-axis-far?) -> boolean?
-(y-axis-far? far?) -> void?
-  far? : boolean?
-=  #f
-parameter
-(z-axis-far?) -> boolean?
-(z-axis-far? far?) -> void?
-  far? : boolean?
-=  #f
-parameter
-(x-axis-ticks?) -> boolean?
-(x-axis-ticks? ticks?) -> void?
-  ticks? : boolean?
-=  #t
-parameter
-(y-axis-ticks?) -> boolean?
-(y-axis-ticks? ticks?) -> void?
-  ticks? : boolean?
-=  #t
-parameter
-(z-axis-ticks?) -> boolean?
-(z-axis-ticks? ticks?) -> void?
-  ticks? : boolean?
-=  #t
-parameter
-(x-axis-labels?) -> boolean?
-(x-axis-labels? labels?) -> void?
-  labels? : boolean?
-=  #f
-parameter
-(y-axis-labels?) -> boolean?
-(y-axis-labels? labels?) -> void?
-  labels? : boolean?
-=  #f
-parameter
-(z-axis-labels?) -> boolean?
-(z-axis-labels? labels?) -> void?
-  labels? : boolean?
-=  #f
-parameter
-(polar-axes-number) -> exact-nonnegative-integer?
-(polar-axes-number number) -> void?
-  number : exact-nonnegative-integer?
-=  12
-parameter
-(polar-axes-alpha) -> (real-in 0 1)
-(polar-axes-alpha alpha) -> void?
-  alpha : (real-in 0 1)
-=  1/2
-parameter
-(polar-axes-ticks?) -> boolean?
-(polar-axes-ticks? ticks?) -> void?
-  ticks? : boolean?
-=  #t
-parameter
-(polar-axes-labels?) -> boolean?
-(polar-axes-labels? labels?) -> void?
-  labels? : boolean?
-=  #t
-parameter
-(label-anchor) -> anchor/c
-(label-anchor anchor) -> void?
-  anchor : anchor/c
-=  'left
-parameter
-(label-angle) -> real?
-(label-angle angle) -> void?
-  angle : real?
-=  0
-parameter
-(label-alpha) -> (real-in 0 1)
-(label-alpha alpha) -> void?
-  alpha : (real-in 0 1)
-=  1
-parameter
-(label-point-size) -> (>=/c 0)
-(label-point-size size) -> void?
-  size : (>=/c 0)
-=  4
-parameter
-(plot3d-samples) -> (and/c exact-integer? (>=/c 2))
-(plot3d-samples samples) -> void?
-  samples : (and/c exact-integer? (>=/c 2))
-=  41
-parameter
-(plot3d-angle) -> real?
-(plot3d-angle angle) -> void?
-  angle : real?
-=  30
-parameter
-(plot3d-altitude) -> real?
-(plot3d-altitude altitude) -> void?
-  altitude : real?
-=  60
-parameter
-(plot3d-ambient-light) -> (real-in 0 1)
-(plot3d-ambient-light light) -> void?
-  light : (real-in 0 1)
-=  2/3
-parameter
-(plot3d-diffuse-light?) -> boolean?
-(plot3d-diffuse-light? light?) -> void?
-  light? : boolean?
-=  #t
-parameter
-(plot3d-specular-light?) -> boolean?
-(plot3d-specular-light? light?) -> void?
-  light? : boolean?
-=  #t
-parameter
-(surface-color) -> plot-color/c
-(surface-color color) -> void?
-  color : plot-color/c
-=  0
-parameter
-(surface-style) -> plot-brush-style/c
-(surface-style style) -> void?
-  style : plot-brush-style/c
-=  'solid
-parameter
-(surface-line-color) -> plot-color/c
-(surface-line-color color) -> void?
-  color : plot-color/c
-=  0
-parameter
-(surface-line-width) -> (>=/c 0)
-(surface-line-width width) -> void?
-  width : (>=/c 0)
-=  1/3
-parameter
-(surface-line-style) -> plot-pen-style/c
-(surface-line-style style) -> void?
-  style : plot-pen-style/c
-=  'solid
-parameter
-(surface-alpha) -> (real-in 0 1)
-(surface-alpha alpha) -> void?
-  alpha : (real-in 0 1)
-=  1
+ = '(1)
 parameter
 (contour-interval-line-colors) -> (plot-colors/c (listof ivl?))
 (contour-interval-line-colors colors) -> void?
   colors : (plot-colors/c (listof ivl?))
-=  '(0)
+ = '(0)
 parameter
 (contour-interval-line-widths) -> (pen-widths/c (listof ivl?))
 (contour-interval-line-widths widths) -> void?
   widths : (pen-widths/c (listof ivl?))
-=  '(1/3)
+ = '(1/3)
 parameter
 (contour-interval-line-styles)
  -> (plot-pen-styles/c (listof ivl?))
 (contour-interval-line-styles styles) -> void?
   styles : (plot-pen-styles/c (listof ivl?))
-=  '(solid)
+ = '(solid)
+parameter
+(rectangle-color) -> plot-color/c
+(rectangle-color color) -> void?
+  color : plot-color/c
+ = 3
+parameter
+(rectangle-style) -> plot-brush-style/c
+(rectangle-style style) -> void?
+  style : plot-brush-style/c
+ = 'solid
+parameter
+(rectangle-line-color) -> plot-color/c
+(rectangle-line-color pen-color) -> void?
+  pen-color : plot-color/c
+ = 3
+parameter
+(rectangle-line-width) -> (>=/c 0)
+(rectangle-line-width pen-width) -> void?
+  pen-width : (>=/c 0)
+ = 1
+parameter
+(rectangle3d-line-width) -> (>=/c 0)
+(rectangle3d-line-width pen-width) -> void?
+  pen-width : (>=/c 0)
+ = 1/3
+parameter
+(rectangle-line-style) -> plot-pen-style/c
+(rectangle-line-style pen-style) -> void?
+  pen-style : plot-pen-style/c
+ = 'solid
+parameter
+(rectangle-alpha) -> (real-in 0 1)
+(rectangle-alpha alpha) -> void?
+  alpha : (real-in 0 1)
+ = 1
+parameter
+(discrete-histogram-gap) -> (real-in 0 1)
+(discrete-histogram-gap gap) -> void?
+  gap : (real-in 0 1)
+ = 1/8
+parameter
+(discrete-histogram-skip) -> (>=/c 0)
+(discrete-histogram-skip skip) -> void?
+  skip : (>=/c 0)
+ = 1
+parameter
+(discrete-histogram-invert?) -> boolean?
+(discrete-histogram-invert? invert?) -> void?
+  invert? : boolean?
+ = #f
+parameter
+(stacked-histogram-colors) -> (plot-colors/c nat/c)
+(stacked-histogram-colors colors) -> void?
+  colors : (plot-colors/c nat/c)
+ = (λ (n) (build-list n add1))
+parameter
+(stacked-histogram-styles) -> (plot-brush-styles/c nat/c)
+(stacked-histogram-styles styles) -> void?
+  styles : (plot-brush-styles/c nat/c)
+ = '(solid)
+parameter
+(stacked-histogram-line-colors) -> (plot-colors/c nat/c)
+(stacked-histogram-line-colors pen-colors) -> void?
+  pen-colors : (plot-colors/c nat/c)
+ = (stacked-histogram-colors)
+parameter
+(stacked-histogram-line-widths) -> (pen-widths/c nat/c)
+(stacked-histogram-line-widths pen-widths) -> void?
+  pen-widths : (pen-widths/c nat/c)
+ = '(1)
+parameter
+(stacked-histogram-line-styles) -> (plot-pen-styles/c nat/c)
+(stacked-histogram-line-styles pen-styles) -> void?
+  pen-styles : (plot-pen-styles/c nat/c)
+ = '(solid)
+parameter
+(stacked-histogram-alphas) -> (alphas/c nat/c)
+(stacked-histogram-alphas alphas) -> void?
+  alphas : (alphas/c nat/c)
+ = '(1)
+parameter
+(x-axis-ticks?) -> boolean?
+(x-axis-ticks? ticks?) -> void?
+  ticks? : boolean?
+ = #t
+parameter
+(y-axis-ticks?) -> boolean?
+(y-axis-ticks? ticks?) -> void?
+  ticks? : boolean?
+ = #t
+parameter
+(x-axis-labels?) -> boolean?
+(x-axis-labels? labels?) -> void?
+  labels? : boolean?
+ = #f
+parameter
+(y-axis-labels?) -> boolean?
+(y-axis-labels? labels?) -> void?
+  labels? : boolean?
+ = #f
+parameter
+(x-axis-far?) -> boolean?
+(x-axis-far? far?) -> void?
+  far? : boolean?
+ = #f
+parameter
+(y-axis-far?) -> boolean?
+(y-axis-far? far?) -> void?
+  far? : boolean?
+ = #f
+parameter
+(x-axis-alpha) -> (real-in 0 1)
+(x-axis-alpha alpha) -> void?
+  alpha : (real-in 0 1)
+ = 1
+parameter
+(y-axis-alpha) -> (real-in 0 1)
+(y-axis-alpha alpha) -> void?
+  alpha : (real-in 0 1)
+ = 1
+parameter
+(polar-axes-number) -> exact-nonnegative-integer?
+(polar-axes-number n) -> void?
+  n : exact-nonnegative-integer?
+ = 12
+parameter
+(polar-axes-ticks?) -> boolean?
+(polar-axes-ticks? ticks?) -> void?
+  ticks? : boolean?
+ = #t
+parameter
+(polar-axes-labels?) -> boolean?
+(polar-axes-labels? labels?) -> void?
+  labels? : boolean?
+ = #t
+parameter
+(polar-axes-alpha) -> (real-in 0 1)
+(polar-axes-alpha alpha) -> void?
+  alpha : (real-in 0 1)
+ = 1/2
+parameter
+(surface-color) -> plot-color/c
+(surface-color color) -> void?
+  color : plot-color/c
+ = 0
+parameter
+(surface-style) -> plot-brush-style/c
+(surface-style style) -> void?
+  style : plot-brush-style/c
+ = 'solid
+parameter
+(surface-line-color) -> plot-color/c
+(surface-line-color pen-color) -> void?
+  pen-color : plot-color/c
+ = 0
+parameter
+(surface-line-width) -> (>=/c 0)
+(surface-line-width pen-width) -> void?
+  pen-width : (>=/c 0)
+ = 1/3
+parameter
+(surface-line-style) -> plot-pen-style/c
+(surface-line-style pen-style) -> void?
+  pen-style : plot-pen-style/c
+ = 'solid
+parameter
+(surface-alpha) -> (real-in 0 1)
+(surface-alpha alpha) -> void?
+  alpha : (real-in 0 1)
+ = 1
 procedure
 (default-isosurface-colors zs) -> (listof plot-color/c)
   zs : (listof real?)
-=  (color-seq* (list (->brush-color 5) (->brush-color 0) (->brush-color 1))
+ = (color-seq* (list (->brush-color 5) (->brush-color 0) (->brush-color 1))
                (length zs))
 procedure
 (default-isosurface-line-colors zs) -> (listof plot-color/c)
   zs : (listof real?)
-=  (color-seq* (list (->pen-color 5) (->pen-color 0) (->pen-color 1))
+ = (color-seq* (list (->pen-color 5) (->pen-color 0) (->pen-color 1))
                (length zs))
 parameter
 (isosurface-levels)
  -> (or/c 'auto exact-positive-integer? (listof real?))
 (isosurface-levels levels) -> void?
   levels : (or/c 'auto exact-positive-integer? (listof real?))
-=  'auto
+ = 'auto
 parameter
 (isosurface-colors) -> (plot-colors/c (listof real?))
 (isosurface-colors colors) -> void?
   colors : (plot-colors/c (listof real?))
-=  default-isosurface-colors
+ = default-isosurface-colors
 parameter
 (isosurface-styles) -> (plot-brush-styles/c (listof real?))
 (isosurface-styles styles) -> void?
   styles : (plot-brush-styles/c (listof real?))
-=  '(solid)
+ = '(solid)
 parameter
 (isosurface-line-colors) -> (plot-colors/c (listof real?))
-(isosurface-line-colors colors) -> void?
-  colors : (plot-colors/c (listof real?))
-=  default-isosurface-line-colors
+(isosurface-line-colors pen-colors) -> void?
+  pen-colors : (plot-colors/c (listof real?))
+ = default-isosurface-line-colors
 parameter
 (isosurface-line-widths) -> (pen-widths/c (listof real?))
-(isosurface-line-widths widths) -> void?
-  widths : (pen-widths/c (listof real?))
-=  '(1/3)
+(isosurface-line-widths pen-widths) -> void?
+  pen-widths : (pen-widths/c (listof real?))
+ = '(1/3)
 parameter
 (isosurface-line-styles) -> (plot-pen-styles/c (listof real?))
-(isosurface-line-styles styles) -> void?
-  styles : (plot-pen-styles/c (listof real?))
-=  '(solid)
+(isosurface-line-styles pen-styles) -> void?
+  pen-styles : (plot-pen-styles/c (listof real?))
+ = '(solid)
 parameter
 (isosurface-alphas) -> (alphas/c (listof real?))
 (isosurface-alphas alphas) -> void?
   alphas : (alphas/c (listof real?))
-=  '(1/2)
+ = '(1/2)
 procedure
 (renderer2d? value) -> boolean?
   value : any/c
@@ -2836,27 +2856,29 @@ procedure
 procedure
 (nonrenderer? value) -> boolean?
   value : any/c
+procedure
+(treeof elem-contract) -> contract?
+  elem-contract : contract?
 value
 anchor/c : contract?
-=  (one-of/c 'top-left    'top    'top-right
+ = (one-of/c 'top-left    'top    'top-right
              'left        'center 'right
              'bottom-left 'bottom 'bottom-right)
 value
 color/c : contract?
-=  (or/c (list/c real? real? real?)
+ = (or/c (list/c real? real? real?)
          string? symbol?
          (is-a?/c color%))
 value
-plot-color/c : contract?
-=  (or/c exact-integer? color/c)
+plot-color/c : contract? = (or/c exact-integer? color/c)
 value
 plot-pen-style/c : contract?
-=  (or/c exact-integer?
+ = (or/c exact-integer?
          (one-of/c 'transparent 'solid    'dot 'long-dash
                    'short-dash  'dot-dash))
 value
 plot-brush-style/c : contract?
-=  (or/c exact-integer?
+ = (or/c exact-integer?
          (one-of/c 'transparent      'solid
                    'bdiagonal-hatch  'fdiagonal-hatch 'crossdiag-hatch
                    'horizontal-hatch 'vertical-hatch  'cross-hatch))
@@ -2864,10 +2886,10 @@ value
 font-family/c : flat-contract?
 value
 point-sym/c : contract?
-=  (or/c char? string? integer? (apply one-of/c known-point-symbols))
+ = (or/c char? string? integer? (apply one-of/c known-point-symbols))
 value
 known-point-symbols : (listof symbol?)
-=  (list 'dot               'point            'pixel
+ = (list 'dot               'point            'pixel
          'plus              'times            'asterisk
          '5asterisk         'odot             'oplus
          'otimes            'oasterisk        'o5asterisk
@@ -2891,7 +2913,7 @@ procedure
 (maybe-function/c in-contract out-contract) -> contract?
   in-contract : contract?
   out-contract : contract?
-=  (or/c out-contract (in-contract . -> . out-contract))
+ = (or/c out-contract (in-contract . -> . out-contract))
 procedure
 (maybe-apply f arg) -> any/c
   f : (maybe-function/c any/c any/c)
@@ -2899,27 +2921,27 @@ procedure
 procedure
 (plot-colors/c in-contract) -> contract?
   in-contract : contract?
-=  (maybe-function/c in-contract (listof plot-color/c))
-procedure
-(plot-pen-styles/c in-contract) -> contract?
-  in-contract : contract?
-=  (maybe-function/c in-contract (listof plot-pen-style/c))
+ = (maybe-function/c in-contract (listof plot-color/c))
 procedure
 (pen-widths/c in-contract) -> contract?
   in-contract : contract?
-=  (maybe-function/c in-contract (listof (>=/c 0)))
+ = (maybe-function/c in-contract (listof (>=/c 0)))
+procedure
+(plot-pen-styles/c in-contract) -> contract?
+  in-contract : contract?
+ = (maybe-function/c in-contract (listof plot-pen-style/c))
 procedure
 (plot-brush-styles/c in-contract) -> contract?
   in-contract : contract?
-=  (maybe-function/c in-contract (listof plot-brush-style/c))
+ = (maybe-function/c in-contract (listof plot-brush-style/c))
 procedure
 (alphas/c in-contract) -> contract?
   in-contract : contract?
-=  (maybe-function/c in-contract (listof (real-in 0 1)))
+ = (maybe-function/c in-contract (listof (real-in 0 1)))
 procedure
 (labels/c in-contract) -> contract?
   in-contract : contract?
-=  (maybe-function/c in-contract (listof (or/c string? #f)))
+ = (maybe-function/c in-contract (listof (or/c string? #f)))
 procedure
 (mix plot-data ...) -> (any/c . -> . void?)
   plot-data : (any/c . -> . void?)
@@ -2982,7 +3004,7 @@ procedure
        #:bgcolor bgcolor         
        #:lncolor lncolor         
        #:out-file out-file]) -> (is-a?/c image-snip%)
-  data : ((is-a?/c 2d-plot-area%) . -> . void?)
+  data : (-> (is-a?/c 2d-plot-area%) void?)
   width : real? = 400
   height : real? = 400
   x-min : real? = -5
@@ -3016,7 +3038,7 @@ procedure
          #:bgcolor bgcolor         
          #:lncolor lncolor         
          #:out-file out-file]) -> (is-a?/c image-snip%)
-  data : ((is-a?/c 3d-plot-area%) . -> . void?)
+  data : (-> (is-a?/c 3d-plot-area%) void?)
   width : real? = 400
   height : real? = 400
   x-min : real? = -5
@@ -3037,21 +3059,20 @@ procedure
   out-file : (or/c path-string? output-port? #f) = #f
 procedure
 (points vecs [#:sym sym #:color color])
- -> ((is-a?/c 2d-plot-area%) . -> . void?)
+ -> (-> (is-a?/c 2d-plot-area%) void?)
   vecs : (listof (vectorof real?))
   sym : (or/c char? string? exact-integer? symbol?) = 'square
   color : plot-color? = 'black
 procedure
-(line  f                 
-      [#:samples samples 
-       #:width width     
-       #:color color     
-       #:mode mode       
-       #:mapping mapping 
-       #:t-min t-min     
-       #:t-max t-max])   
- -> ((is-a?/c 2d-plot-area%) . -> . void?)
-  f : (real? . -> . (or/c real? (vector/c real? real?)))
+(line  f                     
+      [#:samples samples     
+       #:width width         
+       #:color color         
+       #:mode mode           
+       #:mapping mapping     
+       #:t-min t-min         
+       #:t-max t-max])   -> (-> (is-a?/c 2d-plot-area%) void?)
+  f : (-> real? (or/c real? (vector/c real? real?)))
   samples : (and/c exact-integer? (>=/c 2)) = 150
   width : (>=/c 0) = 1
   color : plot-color/c = 'red
@@ -3061,7 +3082,7 @@ procedure
   t-max : real? = 5
 procedure
 (error-bars vecs [#:color color])
- -> ((is-a?/c 2d-plot-area%) . -> . void?)
+ -> (-> (is-a?/c 2d-plot-area%) void?)
   vecs : (listof (vector/c real? real? real?))
   color : plot-color? = 'black
 procedure
@@ -3070,8 +3091,8 @@ procedure
                #:width width     
                #:color color     
                #:style style])   
- -> ((is-a?/c 2d-plot-area%) . -> . void?)
-  f : ((vector/c real? real?) . -> . (vector/c real? real?))
+ -> (-> (is-a?/c 2d-plot-area%) void?)
+  f : (-> (vector/c real? real?) (vector/c real? real?))
   samples : (and/c exact-integer? (>=/c 2)) = 20
   width : exact-positive-integer? = 1
   color : plot-color? = 'red
@@ -3082,8 +3103,8 @@ procedure
           #:width width     
           #:color color     
           #:levels levels]) 
- -> ((is-a?/c 2d-plot-area%) . -> . void?)
-  f : (real? real? . -> . real?)
+ -> (-> (is-a?/c 2d-plot-area%) void?)
+  f : (-> real? real? real?)
   samples : exact-nonnegative-integer? = 50
   width : (>=/c 0) = 1
   color : plot-color/c = 'black
@@ -3091,8 +3112,8 @@ procedure
          = 10
 procedure
 (shade f [#:samples samples #:levels levels])
- -> ((is-a?/c 2d-plot-area%) . -> . void?)
-  f : (real? real? . -> . real?)
+ -> (-> (is-a?/c 2d-plot-area%) void?)
+  f : (-> real? real? real?)
   samples : (and/c exact-integer? (>=/c 2)) = 50
   levels : (or/c (and/c exact-integer? (>=/c 2)) (listof real?))
          = 10
@@ -3101,28 +3122,28 @@ procedure
          [#:samples samples 
           #:width width     
           #:color color])   
- -> ((is-a?/c 3d-plot-area%) . -> . void?)
-  f : (real? real? . -> . real?)
+ -> (-> (is-a?/c 3d-plot-area%) void?)
+  f : (-> real? real? real?)
   samples : (and/c exact-integer? (>=/c 2)) = 50
   width : (>=/c 0) = 1
   color : plot-color/c = 'black
 procedure
-(mix data ...) -> (any/c . -> . void?)
-  data : (any/c . -> . void?)
+(mix data ...) -> (-> any/c void?)
+  data : (-> any/c void?)
 procedure
 (plot-color? v) -> boolean?
   v : any/c
 procedure
-(derivative f [h]) -> (real? . -> . real?)
-  f : (real? . -> . real?)
-  h : real? = 1e-06
+(derivative f [h]) -> (-> real? real?)
+  f : (-> real? real?)
+  h : real? = #i1e-06
 procedure
 (gradient f [h])
- -> ((vector/c real? real?) . -> . (vector/c real? real?))
-  f : (real? real? . -> . real?)
-  h : real? = 1e-06
+ -> (-> (vector/c real? real?) (vector/c real? real?))
+  f : (-> real? real? real?)
+  h : real? = #i1e-06
 procedure
 (make-vec fx fy)
- -> ((vector/c real? real?) . -> . (vector/c real? real?))
-  fx : (real? real? . -> . real?)
-  fy : (real? real? . -> . real?)
+ -> (-> (vector/c real? real?) (vector/c real? real?))
+  fx : (-> real? real? real?)
+  fy : (-> real? real? real?)

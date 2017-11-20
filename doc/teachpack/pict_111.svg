@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51pt" height="51pt" viewBox="0 0 51 51" version="1.1">
-<defs>
-<clipPath id="clip1">
-  <path d="M 0 0 L 50 0 L 50 50 L 0 50 Z M 0 0 "/>
-</clipPath>
-</defs>
-<g id="surface4507">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(67.843137%,84.705882%,90.196078%);fill-opacity:1;" d="M 0 0 L 50 0 L 50 50 L 0 50 Z M 0 0 "/>
-<g clip-path="url(#clip1)" clip-rule="evenodd">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,75.294118%,79.607843%);fill-opacity:1;" d="M 25 -10 L 60 25 L 25 60 L -10 25 Z M 25 -10 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77" height="47" viewBox="0 0 77 47" version="1.1">
+<g id="surface6812">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.058824%,72.156863%,52.941176%);fill-opacity:1;" d="M 13 23 C 11.722656 34.105469 3 43 3 43 C 3 43 43.53125 44.367188 73 23 C 43.53125 1.632812 3 3 3 3 C 3 3 11.722656 11.894531 13 23 Z "/>
 </g>
 </svg>

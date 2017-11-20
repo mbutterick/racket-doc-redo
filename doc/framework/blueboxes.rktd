@@ -1,5 +1,5 @@
-74277
-((3) 0 () 106 ((q lib "framework/main.rkt") (c (? . 0) q text:autocomplete<%>) (c (? . 0) q frame:standard-menus<%>) (q lib "framework/preferences.rkt") (q lib "framework/test.rkt") (c (? . 0) q mode:surrogate-text%) (c (? . 0) q text:1-pixel-tab-snip%) (c (? . 0) q racket:text<%>) (q lib "framework/splash.rkt") (c (? . 0) q frame:editor-mixin) (c (? . 0) q text:ports<%>) (c (? . 0) q group:%) (c (? . 0) q text:searching<%>) (c (? . 0) q comment-box:snip%) (c (? . 0) q frame:searchable-mixin) (c (? . 0) q text:line-numbers-mixin) (c (? . 0) q mode:host-text-mixin) (c (? . 0) q text:autocomplete-mixin) (c (? . 0) q panel:splitter-mixin) (c (? . 0) q panel:dragable<%>) (c (? . 0) q editor:basic-mixin) (c (? . 0) q frame:delegate-mixin) (c (? . 0) q text:basic<%>) (c (? . 0) q color:text<%>) (c (? . 0) q editor-snip:decorated-mixin) (q lib "framework/gui-utils.rkt") (c (? . 0) q frame:editor<%>) (c (? . 0) q keymap:aug-keymap<%>) (c (? . 0) q text:return-mixin) (c (? . 0) q text:nbsp->space-mixin) (c (? . 0) q editor:backup-autosave<%>) (c (? . 0) q editor:basic<%>) (c (? . 0) q keymap:aug-keymap-mixin) (c (? . 0) q color:text-mode-mixin) (c (? . 0) q frame:searchable<%>) (c (? . 0) q text:info-mixin) (c (? . 0) q editor-snip:decorated%) (c (? . 0) q frame:basic<%>) (c (? . 0) q frame:size-pref-mixin) (c (? . 0) q text:1-pixel-string-snip%) (c (? . 0) q editor:backup-autosave-mixin) (c (? . 0) q panel:dragable-mixin) (c (? . 0) q text:delegate-mixin) (c (? . 0) q number-snip:snip-class%) (q lib "framework/decorated-editor-snip.rkt") (c (? . 0) q editor-snip:decorated<%>) (c (? . 0) q text:foreground-color-mixin) (c (? . 0) q color:text-mixin) (c (? . 0) q frame:delegate<%>) (c (? . 0) q text:wide-snip<%>) (c (? . 0) q frame:searchable-text-mixin) (c (? . 0) q panel:single-mixin) (c (? . 0) q text:file-mixin) (c (? . 0) q frame:basic-mixin) (c (? . 0) q text:searching-mixin) (c (? . 0) q editor:file<%>) (c (? . 0) q canvas:wide-snip<%>) (c (? . 0) q frame:text-info<%>) (c (? . 0) q racket:sexp-snip%) (c (? . 0) q frame:info-mixin) (c (? . 0) q editor-snip:decorated-snipclass%) (c (? . 0) q text:basic-mixin) (c (? . 0) q frame:status-line<%>) (c (? . 0) q text:column-guide-mixin) (c (? . 0) q text:first-line-mixin) (c (? . 0) q text:first-line<%>) (c (? . 0) q frame:text-info-mixin) (c (? . 0) q racket:text-mixin) (c (? . 0) q frame:info<%>) (c (? . 0) q text:file<%>) (c (? . 0) q text:delegate<%>) (c (? . 0) q text:ports-mixin) (c (? . 0) q text:crlf-line-endings-mixin) (c (? . 0) q frame:text-mixin) (c (? . 0) q panel:single<%>) (c (? . 0) q frame:focus-table-mixin) (c (? . 0) q panel:single-window-mixin) (c (? . 0) q panel:discrete-sizes<%>) (c (? . 0) q racket:text-mode-mixin) (c (? . 0) q mode:surrogate-text<%>) (c (? . 0) q editor:file-mixin) (c (? . 0) q text:normalize-paste-mixin) (c (? . 0) q menu:can-restore-underscore<%>) (c (? . 0) q autosave:autosavable<%>) (c (? . 0) q text:clever-file-format-mixin) (c (? . 0) q text:line-numbers<%>) (c (? . 0) q menu:can-restore<%>) (c (? . 0) q frame:register-group-mixin) (c (? . 0) q panel:vertical-dragable-mixin) (c (? . 0) q frame:status-line-mixin) (c (? . 0) q editor:keymap<%>) (c (? . 0) q frame:standard-menus-mixin) (c (? . 0) q frame:pasteboard-mixin) (c (? . 0) q mode:host-text<%>) (c (? . 0) q panel:discrete-child<%>) (c (? . 0) q text:normalize-paste<%>) (c (? . 0) q panel:horizontal-dragable-mixin) (c (? . 0) q editor:info-mixin) (c (? . 0) q frame:size-pref<%>) (c (? . 0) q canvas:info-mixin) (c (? . 0) q canvas:wide-snip-mixin) (c (? . 0) q text:hide-caret/selection-mixin) (c (? . 0) q canvas:delegate-mixin) (q lib "framework/framework-sig.rkt") (c (? . 0) q racket:sexp-snip<%>) (c (? . 0) q text:input-box-mixin)) () (h ! (equal) ((c meth c (c (? . 7) q tabify-on-return?)) q (125090 . 2)) ((c def c (c (? . 0) q racket:get-color-prefs-table)) q (129923 . 3)) ((c form c (c (? . 0) q scheme:get-color-prefs-table)) q (169905 . 2)) ((c meth c (c (? . 5) q after-edit-sequence)) q (98976 . 6)) ((c meth c (c (? . 24) q get-corner-bitmap)) q (16869 . 3)) ((c def c (c (? . 0) q canvas:delegate<%>)) q (903 . 3)) ((c meth c (c (? . 1) q get-autocomplete-selected-color)) q (158716 . 3)) ((c def c (c (? . 4) q test:top-level-focus-window-has?)) q (168503 . 3)) ((c def c (c (? . 0) q racket:text-mode<%>)) q (128797 . 2)) ((c meth c (c (? . 69) q while-unlocked)) q (154617 . 3)) ((c meth c (c (? . 21) q get-editor%)) q (69557 . 3)) ((c meth c (c (? . 11) q get-mdi-parent)) q (76302 . 3)) ((c def c (c (? . 0) q text:wide-snip%)) q (160025 . 3)) ((c meth c (c (? . 2) q help-menu:about-on-demand)) q (60811 . 4)) ((c meth c (c (? . 1) q get-word-at)) q (159027 . 3)) ((c def c (c (? . 3) q exn:make-unknown-preference)) q (121192 . 6)) ((c def c (? . 90)) q (21934 . 3)) ((c def c (c (? . 8) q set-splash-progress-bar?!)) q (165517 . 3)) ((c meth c (c (? . 12) q get-search-hit-count)) q (142097 . 2)) ((c meth c (c (? . 2) q file-menu:get-save-as-item)) q (43742 . 3)) ((c def c (c (? . 3) q preferences:set-un/marshall)) q (120664 . 7)) ((c meth c (c (? . 17) q on-event)) q (159382 . 2)) ((c def c (c (? . 0) q exit:can-exit?)) q (26794 . 2)) ((c def c (c (? . 0) q frame:info%)) q (73564 . 3)) ((c def c (? . 29)) q (138805 . 4)) ((c def c (c (? . 3) q preferences:low-level-get-preference)) q (121785 . 5)) ((c def c (? . 75)) q (33496 . 4)) ((c def c (c (? . 0) q number-snip:make-fraction-snip)) q (108686 . 6)) ((c meth c (c (? . 2) q edit-menu:copy-callback)) q (49559 . 6)) ((c meth c (c (? . 65) q get-first-line-height)) q (136171 . 2)) ((c def c (? . 79)) q (90211 . 2)) ((c meth c (c (? . 34) q replace-all)) q (69890 . 2)) ((c def c (? . 92)) q (68142 . 4)) ((c def c (c (? . 4) q test:run-one)) q (168711 . 3)) ((c meth c (c (? . 5) q can-change-style?)) q (99745 . 9)) ((c meth c (c (? . 6) q split)) q (147295 . 7)) ((c def c (? . 6)) q (147228 . 3)) ((c meth c (c (? . 31) q save-file/gui-error)) q (18675 . 9)) ((c meth c (c (? . 5) q after-insert)) q (98142 . 9)) ((c meth c (c (? . 2) q edit-menu:create-replace-all?)) q (57637 . 3)) ((c def c (c (? . 0) q frame:current-icon)) q (75626 . 10)) ((c def c (? . 33)) q (14335 . 4)) ((c def c (c (? . 0) q handler:insert-format-handler)) q (82424 . 7)) ((c meth c (c (? . 43) q read)) q (108363 . 4)) ((c def c (c (? . 3) q exn:unknown-preference?)) q (121411 . 3)) ((c meth c (c (? . 91) q on-close)) q (61366 . 2)) ((c meth c (c (? . 37) q get-area-container%)) q (32010 . 3)) ((c def c (c (? . 4) q test:menu-select)) q (167592 . 4)) ((c def c (c (? . 0) q color-prefs:register-color-preference)) q (4003 . 13)) ((c def c (? . 10)) q (155287 . 2)) ((c def c (c (? . 0) q group:add-to-windows-menu)) q (77502 . 3)) ((c def c (c (? . 0) q keymap:remove-chained-keymap)) q (88793 . 5)) ((c form c (c (? . 0) q scheme:init-wordbreak-map)) q (169739 . 2)) ((c def c (c (? . 0) q text:input-box<%>)) q (158063 . 3)) ((c meth c (c (? . 7) q forward-sexp)) q (126463 . 3)) ((c def c (? . 32)) q (85166 . 4)) ((c def c (c (? . 0) q frame:focus-table<%>)) q (33413 . 3)) ((c meth c (c (? . 2) q edit-menu:undo-string)) q (47636 . 2)) ((c def c (? . 18)) q (113363 . 5)) ((c meth c (c (? . 50) q get-editor%)) q (73294 . 3)) ((c meth c (c (? . 16) q on-char)) q (103288 . 3)) ((c meth c (c (? . 2) q edit-menu:get-find-case-sensitive-item)) q (58339 . 3)) ((c meth c (c (? . 13) q get-corner-bitmap)) q (15700 . 3)) ((c meth c (c (? . 42) q after-change-style)) q (152441 . 5)) ((c meth c (c (? . 5) q on-default-event)) q (91217 . 7)) ((c def c (c (? . 8) q close-splash)) q (164427 . 2)) ((c form c (c (? . 44) q decorated-editor-snip<%>)) q (16150 . 2)) ((c meth c (c (? . 9) q help-menu:about-callback)) q (67331 . 5)) ((c meth c (c (? . 9) q file-menu:open-callback)) q (65695 . 5)) ((c meth c (c (? . 7) q find-down-sexp)) q (127183 . 4)) ((c def c (c (? . 0) q handler:current-create-new-window)) q (83286 . 5)) ((c meth c (c (? . 10) q set-insertion-point)) q (155567 . 3)) ((c meth c (c (? . 19) q get-default-percentages)) q (110570 . 4)) ((c meth c (c (? . 11) q get-frames)) q (76383 . 3)) ((c meth c (c (? . 5) q can-do-edit-operation?)) q (101095 . 17)) ((c meth c (c (? . 15) q show-line-numbers!)) q (161600 . 3)) ((c def c (c (? . 0) q handler:handler?)) q (82003 . 3)) ((c meth c (c (? . 12) q set-searching-state)) q (141605 . 10)) ((c meth c (c (? . 14) q edit-menu:find-again-callback)) q (71388 . 6)) ((c meth c (c (? . 13) q get-text)) q (15867 . 2)) ((c def c (c (? . 0) q exit:exiting?)) q (26489 . 2)) ((c def c (c (? . 0) q icon:get-gc-on-bitmap)) q (84723 . 2)) ((c meth c (c (? . 14) q edit-menu:find-callback)) q (71243 . 2)) ((c meth c (c (? . 2) q file-menu:close-string)) q (46029 . 2)) ((c def c (c (? . 0) q frame:text-info%)) q (73642 . 3)) ((c meth c (c (? . 15) q set-line-numbers-color)) q (161763 . 3)) ((c meth c (c (? . 2) q edit-menu:create-paste?)) q (50281 . 3)) ((c meth c (c (? . 16) q on-new-tab-snip)) q (106024 . 2)) ((c meth c (c (? . 2) q file-menu:between-new-and-open)) q (40486 . 4)) ((c meth c (c (? . 2) q file-menu:create-save?)) q (43155 . 3)) ((c meth c (c (? . 10) q get-err-style-delta)) q (156795 . 3)) ((c constructor c (? . 38)) q (34085 . 16)) ((c meth c (c (? . 22) q get-edition-number)) q (134134 . 3)) ((c meth c (c (? . 2) q file-menu:create-open?)) q (40717 . 3)) ((c meth c (c (? . 7) q flash-backward-sexp)) q (126774 . 3)) ((c def c (? . 39)) q (144476 . 3)) ((c meth c (c (? . 82) q restore-underscores)) q (89629 . 3)) ((c def c (c (? . 25) q gui-utils:next-untitled-name)) q (79340 . 2)) ((c def c (? . 17)) q (159129 . 4)) ((c meth c (c (? . 88) q get-vertical?)) q (112764 . 2)) ((c def c (c (? . 3) q preferences:add-callback)) q (119848 . 5)) ((c meth c (c (? . 18) q split-horizontal)) q (113818 . 7)) ((c meth c (c (? . 94) q get-discrete-widths)) q (114451 . 3)) ((c def c (c (? . 0) q keymap:get-search)) q (87311 . 2)) ((c def c (c (? . 0) q canvas:info%)) q (2367 . 3)) ((c meth c (c (? . 28) q on-local-char)) q (143707 . 3)) ((c meth c (c (? . 2) q edit-menu:cut-string)) q (49099 . 2)) ((c meth c (c (? . 2) q edit-menu:between-paste-and-clear)) q (50852 . 4)) ((c def c (c (? . 0) q text:basic%)) q (159438 . 3)) ((c meth c (c (? . 2) q edit-menu:create-cut?)) q (48693 . 2)) ((c def c (c (? . 0) q frame:text<%>)) q (67673 . 3)) ((c def c (c (? . 0) q color-prefs:set-default/color-scheme)) q (3637 . 8)) ((c meth c (c (? . 9) q file-menu:revert-on-demand)) q (65900 . 2)) ((c meth c (c (? . 19) q get-percentages)) q (111160 . 2)) ((c meth c (c (? . 20) q can-save-file?)) q (20243 . 5)) ((c def c (? . 98)) q (33773 . 3)) ((c meth c (c (? . 41) q on-subwindow-event)) q (111864 . 5)) ((c meth c (c (? . 20) q on-new-image-snip)) q (20932 . 10)) ((c meth c (c (? . 2) q edit-menu:select-all-help-string)) q (52486 . 3)) ((c meth c (c (? . 15) q on-paint)) q (161544 . 2)) ((c meth c (c (? . 10) q insert-before)) q (156089 . 3)) ((c def c (c (? . 0) q pasteboard:basic%)) q (116236 . 3)) ((c meth c (c (? . 21) q get-editor<%>)) q (69495 . 2)) ((c meth c (c (? . 22) q get-fixed-style)) q (133107 . 2)) ((c def c (c (? . 0) q frame:setup-size-pref)) q (74504 . 13)) ((c meth c (c (? . 14) q on-close)) q (72750 . 2)) ((c meth c (c (? . 2) q file-menu:get-new-item)) q (39799 . 3)) ((c meth c (c (? . 23) q classify-position)) q (13178 . 4)) ((c meth c (c (? . 60) q make-snip)) q (17792 . 4)) ((c meth c (c (? . 2) q edit-menu:find-next-on-demand)) q (54762 . 4)) ((c def c (c (? . 8) q start-splash)) q (162933 . 24)) ((c form c (c (? . 0) q scheme:text-mixin)) q (169499 . 2)) ((c def c (? . 46)) q (138038 . 5)) ((c meth c (c (? . 5) q on-event)) q (91897 . 7)) ((c meth c (c (? . 23) q is-stopped?)) q (10348 . 2)) ((c def c (c (? . 0) q racket:short-sym->style-name)) q (130216 . 3)) ((c meth c (c (? . 20) q on-edit-sequence)) q (20686 . 2)) ((c meth c (c (? . 2) q edit-menu:find-from-selection-on-demand)) q (53941 . 4)) ((c def c (c (? . 0) q text:range?)) q (161862 . 3)) ((c meth c (c (? . 16) q on-paint)) q (104583 . 19)) ((c meth c (c (? . 96) q get-vertical?)) q (113002 . 2)) ((c def c (c (? . 0) q editor:get-current-preferred-font-size)) q (24796 . 3)) ((c def c (? . 24)) q (16712 . 4)) ((c meth c (c (? . 2) q file-menu:quit-help-string)) q (46925 . 3)) ((c meth c (c (? . 2) q edit-menu:find-on-demand)) q (53116 . 4)) ((c meth c (c (? . 2) q help-menu:before-about)) q (60278 . 4)) ((c def c (c (? . 8) q get-splash-eventspace)) q (164815 . 2)) ((c meth c (c (? . 30) q backup?)) q (23426 . 2)) ((c meth c (c (? . 2) q edit-menu:clear-on-demand)) q (51384 . 4)) ((c def c (? . 15)) q (161402 . 4)) ((c def c (c (? . 0) q preferences:add-to-scheme-checkbox-panel)) q (118521 . 3)) ((c def c (c (? . 4) q test:new-window)) q (168321 . 3)) ((c def c (c (? . 0) q preferences:add-check)) q (119233 . 11)) ((c meth c (c (? . 10) q set-unread-start-point)) q (155729 . 3)) ((c meth c (c (? . 16) q after-set-position)) q (106615 . 2)) ((c def c (c (? . 0) q frame:text%)) q (74124 . 3)) ((c def c (c (? . 0) q keymap:get-file)) q (87153 . 2)) ((c def c (c (? . 0) q racket:text-balanced?)) q (129588 . 5)) ((c meth c (c (? . 26) q get-editor)) q (62518 . 2)) ((c meth c (c (? . 59) q on-close)) q (38072 . 2)) ((c meth c (c (? . 22) q initial-autowrap-bitmap)) q (133878 . 3)) ((c def c (c (? . 0) q text:clever-file-format%)) q (160686 . 3)) ((c meth c (c (? . 27) q get-chained-keymaps)) q (84911 . 3)) ((c def c (c (? . 25) q gui-utils:get-clicked-clickback-delta)) q (81733 . 4)) ((c meth c (c (? . 16) q can-set-size-constraint?)) q (107450 . 2)) ((c meth c (c (? . 26) q get-editor%)) q (61872 . 3)) ((c def c (c (? . 0) q color-model:xyz-y)) q (3483 . 3)) ((c def c (c (? . 0) q text:range-end)) q (162017 . 3)) ((c meth c (c (? . 27) q get-map-function-table/ht)) q (85072 . 3)) ((c constructor c (? . 28)) q (143587 . 4)) ((c meth c (c (? . 35) q set-anchor)) q (153162 . 3)) ((c def c (c (? . 0) q racket:get-keymap)) q (129810 . 2)) ((c meth c (c (? . 7) q get-tab-size)) q (127928 . 2)) ((c def c (? . 21)) q (69077 . 5)) ((c meth c (c (? . 26) q set-label-prefix)) q (61628 . 3)) ((c meth c (c (? . 40) q on-close)) q (24164 . 2)) ((c def c (? . 95)) q (140506 . 3)) ((c meth c (c (? . 52) q can-delete?)) q (155031 . 4)) ((c meth c (c (? . 29) q after-insert)) q (139139 . 5)) ((c meth c (c (? . 2) q file-menu:create-close?)) q (45592 . 3)) ((c meth c (c (? . 51) q container-size)) q (109393 . 3)) ((c meth c (c (? . 101) q after-set-position)) q (138663 . 2)) ((c meth c (c (? . 2) q file-menu:print-callback)) q (44842 . 6)) ((c def c (? . 30)) q (23342 . 3)) ((c meth c (c (? . 2) q file-menu:revert-string)) q (42762 . 3)) ((c meth c (c (? . 16) q after-save-file)) q (106897 . 3)) ((c meth c (c (? . 45) q get-menu)) q (16455 . 3)) ((c def c (c (? . 0) q color:text-mode%)) q (15155 . 3)) ((c def c (c (? . 4) q enabled-shown-button?)) q (169145 . 3)) ((c meth c (c (? . 2) q edit-menu:preferences-help-string)) q (60071 . 3)) ((c meth c (c (? . 2) q edit-menu:create-find?)) q (52810 . 3)) ((c meth c (c (? . 54) q after-delete)) q (143119 . 5)) ((c def c (c (? . 0) q path-utils:generate-backup-name)) q (116940 . 3)) ((c meth c (c (? . 2) q edit-menu:redo-callback)) q (47975 . 6)) ((c meth c (c (? . 2) q edit-menu:find-from-selection-string)) q (54073 . 3)) ((c meth c (c (? . 2) q edit-menu:create-preferences?)) q (59456 . 3)) ((c meth c (c (? . 2) q help-menu:create-about?)) q (60502 . 3)) ((c def c (c (? . 3) q preferences:set-default)) q (120001 . 13)) ((c def c (? . 77)) q (114175 . 2)) ((c def c (c (? . 0) q icon:get-anchor-bitmap)) q (84541 . 2)) ((c def c (? . 57)) q (38121 . 3)) ((c meth c (c (? . 61) q put-file)) q (135505 . 5)) ((c meth c (c (? . 10) q get-box-input-editor-snip%)) q (157350 . 3)) ((c meth c (c (? . 7) q tabify)) q (125152 . 3)) ((c meth c (c (? . 31) q run-after-edit-sequence)) q (18301 . 5)) ((c meth c (c (? . 2) q edit-menu:paste-string)) q (50696 . 2)) ((c def c (c (? . 4) q test:current-get-eventspaces)) q (168158 . 4)) ((c meth c (c (? . 63) q on-change)) q (140449 . 2)) ((c def c (c (? . 0) q keymap:call/text-keymap-initializer)) q (86880 . 3)) ((c def c (c (? . 25) q gui-utils:quote-literal-label)) q (77923 . 7)) ((c def c (? . 26)) q (61425 . 3)) ((c def c (c (? . 0) q frame:standard-menus%)) q (73929 . 3)) ((c def c (c (? . 0) q text:wide-snip-mixin)) q (144067 . 4)) ((c meth c (c (? . 2) q get-menu%)) q (39256 . 3)) ((c def c (c (? . 0) q exit:user-oks-exit)) q (26902 . 2)) ((c def c (? . 89)) q (36341 . 4)) ((c def c (c (? . 3) q preferences:unregister-save-callback)) q (121107 . 3)) ((c meth c (c (? . 7) q introduce-let-ans)) q (128087 . 3)) ((c meth c (c (? . 32) q remove-chained-keymap)) q (85500 . 3)) ((c meth c (c (? . 2) q edit-menu:find-case-sensitive-string)) q (59025 . 3)) ((c meth c (c (? . 2) q edit-menu:between-clear-and-select-all)) q (51658 . 4)) ((c constructor c (? . 33)) q (14490 . 10)) ((c def c (c (? . 0) q racket:setup-keymap)) q (130467 . 3)) ((c def c (c (? . 0) q editor:add-after-user-keymap)) q (26280 . 6)) ((c meth c (c (? . 2) q file-menu:quit-callback)) q (46495 . 6)) ((c meth c (c (? . 34) q search)) q (69713 . 3)) ((c def c (? . 47)) q (13636 . 4)) ((c meth c (c (? . 19) q right-click-in-gap)) q (110742 . 7)) ((c def c (c (? . 0) q frame:basic%)) q (73373 . 3)) ((c def c (? . 100)) q (1869 . 4)) ((c meth c (c (? . 14) q edit-menu:create-find-again?)) q (71609 . 3)) ((c meth c (c (? . 31) q get-pos/text-dc-location)) q (19868 . 7)) ((c meth c (c (? . 2) q file-menu:open-recent-on-demand)) q (41725 . 4)) ((c def c (? . 55)) q (22459 . 3)) ((c def c (c (? . 8) q refresh-splash)) q (166163 . 2)) ((c meth c (c (? . 36) q make-editor)) q (17547 . 3)) ((c meth c (c (? . 58) q get-text)) q (122497 . 7)) ((c meth c (c (? . 5) q on-local-char)) q (92774 . 7)) ((c meth c (c (? . 99) q set-editor)) q (1488 . 2)) ((c meth c (c (? . 31) q save-file-out-of-date?)) q (18606 . 2)) ((c meth c (c (? . 48) q show-delegated-text)) q (68954 . 2)) ((c meth c (c (? . 2) q edit-menu:find-previous-on-demand)) q (55573 . 4)) ((c def c (c (? . 0) q preferences:add-font-panel)) q (118903 . 2)) ((c meth c (c (? . 23) q reset-regions)) q (10866 . 3)) ((c meth c (c (? . 9) q file-menu:between-save-as-and-print)) q (67079 . 4)) ((c def c (c (? . 4) q test:use-focus-table)) q (168772 . 4)) ((c def c (c (? . 0) q text:delegate%)) q (159935 . 3)) ((c meth c (c (? . 23) q get-spell-current-dict)) q (11440 . 2)) ((c def c (c (? . 0) q application:current-app-name)) q (0 . 4)) ((c meth c (c (? . 16) q on-local-char)) q (103969 . 3)) ((c meth c (c (? . 2) q edit-menu:create-clear?)) q (51087 . 3)) ((c def c (c (? . 0) q color-prefs:unmarshall-style-delta)) q (5708 . 4)) ((c meth c (c (? . 71) q can-delete?)) q (157787 . 4)) ((c def c (c (? . 25) q gui-utils:show-busy-cursor)) q (79511 . 4)) ((c def c (c (? . 0) q editor:autowrap-mixin)) q (22311 . 4)) ((c meth c (c (? . 35) q after-delete)) q (153518 . 4)) ((c def c (c (? . 0) q color-prefs:known-color-scheme-name?)) q (7417 . 3)) ((c meth c (c (? . 10) q on-submit)) q (156292 . 2)) ((c meth c (c (? . 10) q delete/io)) q (155326 . 4)) ((c def c (c (? . 4) q test:run-interval)) q (168057 . 4)) ((c def c (c (? . 0) q color-model:xyz-x)) q (3406 . 3)) ((c meth c (c (? . 15) q show-line-numbers?)) q (161694 . 2)) ((c form c (c (? . 0) q scheme:text-mode<%>)) q (169544 . 2)) ((c def c (c (? . 0) q finder:put-file)) q (30109 . 17)) ((c meth c (c (? . 24) q get-color)) q (16970 . 3)) ((c def c (c (? . 25) q gui-utils:cursor-delay)) q (79394 . 4)) ((c def c (? . 64)) q (136338 . 4)) ((c def c (c (? . 0) q finder:dialog-parent-parameter)) q (26947 . 5)) ((c def c (c (? . 0) q color-prefs:add-to-preferences-panel)) q (4764 . 5)) ((c def c (? . 14)) q (71085 . 4)) ((c def c (c (? . 0) q text:line-spacing-mixin)) q (135775 . 4)) ((c meth c (c (? . 2) q edit-menu:select-all-string)) q (52405 . 3)) ((c meth c (c (? . 2) q file-menu:save-on-demand)) q (43461 . 4)) ((c meth c (c (? . 23) q forward-match)) q (12447 . 6)) ((c def c (? . 36)) q (17251 . 3)) ((c meth c (c (? . 85) q show-line-numbers?)) q (161234 . 2)) ((c meth c (c (? . 37) q get-filename)) q (32660 . 3)) ((c def c (? . 73)) q (67745 . 4)) ((c def c (c (? . 0) q icon:get-paren-highlight-bitmap)) q (84240 . 2)) ((c meth c (c (? . 38) q on-move)) q (35302 . 5)) ((c meth c (c (? . 34) q get-text-to-search)) q (69948 . 2)) ((c meth c (c (? . 5) q can-load-file?)) q (101759 . 9)) ((c meth c (c (? . 11) q insert-frame)) q (76896 . 3)) ((c meth c (c (? . 39) q draw)) q (146364 . 21)) ((c meth c (c (? . 39) q split)) q (144549 . 7)) ((c meth c (c (? . 10) q get-in-box-port)) q (157047 . 2)) ((c meth c (c (? . 10) q get-allow-edits)) q (155924 . 2)) ((c meth c (c (? . 31) q get-pos/text)) q (19705 . 5)) ((c meth c (c (? . 22) q get-highlighted-ranges)) q (132967 . 3)) ((c def c (c (? . 0) q preferences:add-to-editor-checkbox-panel)) q (118648 . 3)) ((c meth c (c (? . 40) q on-save-file)) q (23910 . 5)) ((c meth c (c (? . 37) q close)) q (32517 . 2)) ((c def c (c (? . 3) q preferences:restore-defaults)) q (120948 . 2)) ((c meth c (c (? . 1) q completion-mode-key-event?)) q (158825 . 4)) ((c def c (c (? . 0) q frame:editor%)) q (74033 . 3)) ((c meth c (c (? . 41) q container-size)) q (112429 . 4)) ((c def c (c (? . 4) q test:mouse-click)) q (167703 . 8)) ((c meth c (c (? . 2) q get-checkable-menu-item%)) q (39455 . 3)) ((c meth c (c (? . 49) q add-tall-snip)) q (143973 . 3)) ((c meth c (c (? . 24) q get-position)) q (17158 . 3)) ((c meth c (c (? . 16) q on-insert)) q (105861 . 4)) ((c meth c (c (? . 6) q copy)) q (147598 . 2)) ((c meth c (c (? . 42) q on-edit-sequence)) q (151753 . 2)) ((c meth c (c (? . 2) q file-menu:revert-help-string)) q (42839 . 3)) ((c meth c (c (? . 16) q put-file)) q (108120 . 5)) ((c def c (c (? . 0) q text:autocomplete-append-after)) q (162388 . 4)) ((c def c (? . 43)) q (108293 . 3)) ((c meth c (c (? . 2) q file-menu:quit-string)) q (46851 . 2)) ((c form c (c (? . 44) q decorated-editor-snip%)) q (16050 . 2)) ((c meth c (c (? . 45) q get-color)) q (16363 . 3)) ((c def c (c (? . 0) q text:column-guide<%>)) q (139339 . 3)) ((c def c (c (? . 0) q text:clever-file-format<%>)) q (153662 . 3)) ((c meth c (c (? . 12) q set-replace-start)) q (142246 . 3)) ((c form c (c (? . 0) q scheme:add-preferences-panel)) q (169824 . 2)) ((c meth c (c (? . 22) q unhighlight-ranges)) q (132568 . 10)) ((c def c (c (? . 0) q keymap:region-click)) q (88985 . 5)) ((c def c (? . 66)) q (38619 . 4)) ((c def c (c (? . 0) q handler:handler-extension)) q (82157 . 4)) ((c def c (c (? . 0) q racket:text%)) q (129337 . 4)) ((c def c (c (? . 4) q test:get-active-top-level-window)) q (168937 . 3)) ((c meth c (c (? . 12) q set-search-anchor)) q (141988 . 3)) ((c def c (c (? . 0) q canvas:delegate%)) q (2448 . 3)) ((c meth c (c (? . 53) q on-drop-file)) q (33267 . 3)) ((c meth c (c (? . 46) q get-fixed-style)) q (138330 . 3)) ((c meth c (c (? . 20) q get-file)) q (21368 . 3)) ((c meth c (c (? . 2) q edit-menu:create-find-from-selection?)) q (53510 . 3)) ((c meth c (c (? . 23) q get-spell-check-strings)) q (11034 . 2)) ((c meth c (c (? . 76) q container-size)) q (109915 . 7)) ((c meth c (c (? . 10) q get-box-input-text%)) q (157440 . 3)) ((c def c (c (? . 3) q preferences:low-level-put-preferences)) q (121537 . 5)) ((c meth c (c (? . 7) q tabify-selection)) q (125283 . 5)) ((c meth c (c (? . 5) q on-focus)) q (92157 . 7)) ((c def c (c (? . 0) q text:standard-style-list%)) q (160117 . 3)) ((c form c (c (? . 0) q scheme:text%)) q (169524 . 2)) ((c meth c (c (? . 23) q force-stop-colorer)) q (10259 . 3)) ((c meth c (c (? . 2) q edit-menu:clear-string)) q (51502 . 2)) ((c def c (c (? . 0) q keymap:add-to-right-button-menu/before)) q (86598 . 5)) ((c meth c (c (? . 31) q get-top-level-window)) q (18504 . 3)) ((c def c (c (? . 0) q exit:exit)) q (26871 . 2)) ((c meth c (c (? . 39) q get-extent)) q (144931 . 22)) ((c def c (c (? . 3) q preferences:set)) q (119751 . 4)) ((c meth c (c (? . 72) q after-load-file)) q (154358 . 4)) ((c def c (c (? . 4) q test:keystroke)) q (167315 . 6)) ((c meth c (c (? . 2) q edit-menu:replace-all-string)) q (58170 . 3)) ((c def c (c (? . 0) q editor:font-size-pref->current-font-size)) q (24880 . 16)) ((c meth c (c (? . 47) q after-change-style)) q (13985 . 2)) ((c def c (c (? . 4) q button-in-top-level-focusd-window?)) q (169235 . 3)) ((c meth c (c (? . 102) q on-superwindow-show)) q (1128 . 3)) ((c meth c (c (? . 22) q get-start-of-line)) q (134215 . 4)) ((c def c (? . 48)) q (68497 . 4)) ((c def c (c (? . 4) q test:reraise-error)) q (168669 . 2)) ((c def c (? . 62)) q (35896 . 3)) ((c def c (c (? . 0) q frame:pasteboard-info%)) q (73729 . 3)) ((c meth c (c (? . 2) q get-edit-menu)) q (39649 . 2)) ((c def c (c (? . 0) q panel:single-window<%>)) q (109611 . 4)) ((c meth c (c (? . 36) q make-snip)) q (17456 . 3)) ((c meth c (c (? . 9) q file-menu:create-save-as?)) q (66732 . 2)) ((c meth c (c (? . 5) q on-char)) q (90679 . 7)) ((c def c (? . 45)) q (16182 . 3)) ((c meth c (c (? . 80) q set-filename)) q (23038 . 5)) ((c def c (c (? . 0) q text:autowrap%)) q (160502 . 3)) ((c def c (? . 49)) q (143805 . 3)) ((c meth c (c (? . 50) q get-text-to-search)) q (73131 . 3)) ((c def c (c (? . 0) q color-prefs:add-color-scheme-preferences-panel)) q (7020 . 4)) ((c meth c (c (? . 2) q edit-menu:get-find-previous-item)) q (55049 . 3)) ((c def c (c (? . 0) q panel:horizontal-dragable%)) q (113195 . 4)) ((c meth c (c (? . 2) q edit-menu:show/hide-replace-help-string)) q (56644 . 3)) ((c meth c (c (? . 51) q place-children)) q (109476 . 3)) ((c def c (c (? . 25) q gui-utils:ok/cancel-buttons)) q (78521 . 14)) ((c def c (c (? . 0) q finder:common-get-file)) q (28243 . 12)) ((c meth c (c (? . 67) q get-start-of-line)) q (128672 . 4)) ((c def c (c (? . 4) q test:set-check-box!)) q (166819 . 4)) ((c meth c (c (? . 2) q file-menu:print-string)) q (45201 . 2)) ((c meth c (c (? . 2) q edit-menu:create-find-case-sensitive?)) q (58462 . 3)) ((c meth c (c (? . 48) q get-delegated-text)) q (68607 . 3)) ((c meth c (c (? . 10) q send-eof-to-in-port)) q (156342 . 2)) ((c meth c (c (? . 10) q get-insertion-point)) q (155498 . 2)) ((c meth c (c (? . 17) q on-char)) q (159327 . 2)) ((c meth c (c (? . 2) q edit-menu:find-from-selection-callback)) q (53602 . 7)) ((c meth c (c (? . 5) q on-change)) q (90494 . 5)) ((c meth c (c (? . 56) q add-tall-snip)) q (1773 . 3)) ((c meth c (c (? . 23) q backward-containing-sexp)) q (12194 . 6)) ((c def c (c (? . 0) q handler:set-recent-items-frame-superclass)) q (83725 . 3)) ((c def c (? . 84)) q (153737 . 4)) ((c meth c (c (? . 2) q edit-menu:find-previous-callback)) q (55252 . 7)) ((c meth c (c (? . 97) q lock)) q (24603 . 3)) ((c def c (? . 52)) q (154704 . 5)) ((c def c (c (? . 0) q color-prefs:add-color-scheme-entry)) q (5965 . 20)) ((c def c (c (? . 0) q racket:get-wordbreak-map)) q (130307 . 2)) ((c def c (c (? . 0) q preferences:put-preferences/gui)) q (117028 . 5)) ((c meth c (c (? . 16) q on-snip-modified)) q (105426 . 5)) ((c def c (? . 50)) q (72921 . 5)) ((c meth c (c (? . 2) q edit-menu:get-clear-item)) q (50978 . 3)) ((c meth c (c (? . 35) q after-insert)) q (153374 . 4)) ((c def c (c (? . 0) q group:on-close-action)) q (77409 . 2)) ((c meth c (c (? . 53) q can-exit?)) q (33074 . 2)) ((c def c (c (? . 0) q text:crlf-line-endings<%>)) q (154132 . 3)) ((c def c (c (? . 0) q color:text-mode<%>)) q (14291 . 2)) ((c def c (? . 22)) q (130552 . 4)) ((c meth c (c (? . 16) q on-set-size-constraint)) q (106082 . 2)) ((c def c (c (? . 0) q editor:info<%>)) q (24390 . 3)) ((c meth c (c (? . 2) q edit-menu:find-case-sensitive-callback)) q (58554 . 7)) ((c meth c (c (? . 16) q on-default-char)) q (103365 . 3)) ((c meth c (c (? . 23) q is-frozen?)) q (10403 . 2)) ((c meth c (c (? . 2) q edit-menu:replace-help-string)) q (57439 . 3)) ((c def c (c (? . 0) q keymap:set-chained-keymaps)) q (88567 . 5)) ((c def c (c (? . 25) q gui-utils:local-busy-cursor)) q (79886 . 7)) ((c meth c (c (? . 2) q edit-menu:copy-string)) q (49893 . 2)) ((c meth c (c (? . 2) q file-menu:save-as-string)) q (44366 . 3)) ((c meth c (c (? . 2) q edit-menu:preferences-on-demand)) q (59855 . 4)) ((c meth c (c (? . 48) q hide-delegated-text)) q (68890 . 2)) ((c form c (c (? . 0) q scheme:get-white-on-black-color-prefs-table)) q (169941 . 2)) ((c def c (c (? . 0) q panel:dragable-container-size)) q (115055 . 7)) ((c def c (c (? . 0) q preferences:show-dialog)) q (118953 . 2)) ((c def c (c (? . 0) q panel:splitter<%>)) q (113320 . 2)) ((c meth c (c (? . 2) q edit-menu:replace-all-callback)) q (57721 . 7)) ((c def c (c (? . 0) q text:range-start)) q (161923 . 3)) ((c meth c (c (? . 31) q has-focus?)) q (18177 . 2)) ((c meth c (c (? . 20) q after-save-file)) q (20418 . 3)) ((c def c (c (? . 0) q color-model:xyz-z)) q (3560 . 3)) ((c meth c (c (? . 1) q get-autocomplete-background-color)) q (158605 . 3)) ((c meth c (c (? . 2) q file-menu:create-new?)) q (39906 . 2)) ((c meth c (c (? . 7) q box-comment-out-selection)) q (125638 . 6)) ((c def c (? . 81)) q (140744 . 4)) ((c meth c (c (? . 7) q select-down-sexp)) q (127670 . 2)) ((c def c (c (? . 0) q panel:single%)) q (110215 . 3)) ((c form c (c (? . 0) q scheme:get-wordbreak-map)) q (169707 . 2)) ((c def c (? . 2)) q (39116 . 3)) ((c meth c (c (? . 9) q file-menu:create-revert?)) q (66178 . 2)) ((c meth c (c (? . 54) q on-focus)) q (143315 . 3)) ((c meth c (c (? . 11) q locate-file)) q (77236 . 4)) ((c def c (c (? . 0) q pasteboard:keymap%)) q (116440 . 3)) ((c meth c (c (? . 2) q edit-menu:undo-callback)) q (47302 . 6)) ((c meth c (c (? . 55) q user-saves-or-not-modified?)) q (22783 . 4)) ((c meth c (c (? . 20) q on-new-box)) q (20812 . 3)) ((c meth c (c (? . 6) q get-extent)) q (147665 . 22)) ((c meth c (c (? . 16) q on-focus)) q (103731 . 3)) ((c def c (c (? . 0) q text:hide-caret/selection%)) q (159621 . 3)) ((c def c (? . 19)) q (110399 . 4)) ((c def c (c (? . 0) q color-prefs:build-color-selection-panel)) q (4963 . 13)) ((c def c (c (? . 0) q autosave:register)) q (235 . 4)) ((c meth c (c (? . 2) q file-menu:between-open-and-revert)) q (42018 . 4)) ((c meth c (c (? . 2) q help-menu:about-help-string)) q (61014 . 3)) ((c meth c (c (? . 2) q file-menu:open-recent-help-string)) q (41931 . 3)) ((c meth c (c (? . 34) q search-hits-changed)) q (71019 . 2)) ((c def c (c (? . 0) q icon:get-eof-bitmap)) q (84308 . 2)) ((c meth c (c (? . 56) q recalc-snips)) q (1618 . 2)) ((c meth c (c (? . 7) q select-forward-sexp)) q (127491 . 2)) ((c meth c (c (? . 36) q copy)) q (17627 . 3)) ((c meth c (c (? . 9) q file-menu:save-as-callback)) q (66521 . 5)) ((c def c (c (? . 0) q handler:find-format-handler)) q (82884 . 4)) ((c meth c (c (? . 10) q submit-to-port?)) q (156194 . 3)) ((c meth c (c (? . 7) q down-sexp)) q (127305 . 3)) ((c def c (c (? . 0) q editor:set-standard-style-list-pref-callbacks)) q (26142 . 2)) ((c def c (c (? . 0) q frame:add-snip-menu-items)) q (75164 . 7)) ((c meth c (c (? . 30) q do-autosave)) q (23556 . 2)) ((c def c (? . 37)) q (31946 . 3)) ((c meth c (c (? . 33) q on-enable-surrogate)) q (15090 . 2)) ((c meth c (c (? . 34) q unhide-search-and-toggle-focus)) q (70732 . 4)) ((c meth c (c (? . 47) q on-focus)) q (13817 . 2)) ((c meth c (c (? . 23) q set-spell-current-dict)) q (11338 . 3)) ((c meth c (c (? . 50) q get-editor<%>)) q (73213 . 3)) ((c def c (c (? . 4) q test:set-list-box!)) q (167139 . 4)) ((c meth c (c (? . 57) q anchor-status-changed)) q (38357 . 2)) ((c meth c (c (? . 93) q set-surrogate)) q (103002 . 3)) ((c def c (c (? . 8) q get-splash-bitmap)) q (164618 . 2)) ((c meth c (c (? . 22) q unhighlight-range)) q (131917 . 12)) ((c def c (? . 58)) q (122376 . 5)) ((c meth c (c (? . 5) q after-load-file)) q (99177 . 7)) ((c def c (c (? . 0) q keymap:setup-global)) q (88397 . 3)) ((c def c (? . 59)) q (37689 . 4)) ((c meth c (c (? . 7) q up-sexp)) q (127098 . 3)) ((c meth c (c (? . 12) q get-replace-search-hit)) q (142164 . 3)) ((c meth c (c (? . 9) q get-filename)) q (65292 . 2)) ((c meth c (c (? . 13) q make-snip)) q (15625 . 2)) ((c meth c (c (? . 2) q file-menu:get-save-item)) q (43047 . 3)) ((c meth c (c (? . 2) q edit-menu:redo-on-demand)) q (48192 . 4)) ((c def c (? . 86)) q (89150 . 3)) ((c meth c (c (? . 2) q edit-menu:between-find-and-preferences)) q (59210 . 4)) ((c meth c (c (? . 2) q edit-menu:get-cut-item)) q (48586 . 3)) ((c def c (c (? . 0) q preferences:add-to-general-checkbox-panel)) q (118775 . 3)) ((c def c (c (? . 0) q comment-box:snipclass)) q (15995 . 2)) ((c meth c (c (? . 22) q get-styles-fixed)) q (133047 . 2)) ((c meth c (c (? . 2) q edit-menu:get-find-next-item)) q (54258 . 3)) ((c meth c (c (? . 5) q after-save-file)) q (99461 . 7)) ((c meth c (c (? . 5) q can-set-size-constraint?)) q (100816 . 7)) ((c def c (? . 60)) q (17713 . 3)) ((c meth c (c (? . 2) q edit-menu:find-case-sensitive-help-string)) q (59115 . 3)) ((c meth c (c (? . 61) q after-insert)) q (135360 . 4)) ((c meth c (c (? . 2) q file-menu:save-as-on-demand)) q (44236 . 4)) ((c meth c (c (? . 2) q edit-menu:get-preferences-item)) q (59341 . 3)) ((c def c (c (? . 0) q text:info<%>)) q (152910 . 3)) ((c meth c (c (? . 1) q get-autocomplete-border-color)) q (158498 . 3)) ((c def c (c (? . 0) q autosave:restore-autosave-files/gui)) q (414 . 2)) ((c meth c (c (? . 11) q frame-shown/hidden)) q (76565 . 2)) ((c meth c (c (? . 7) q select-backward-sexp)) q (127552 . 2)) ((c meth c (c (? . 2) q file-menu:between-close-and-quit)) q (46185 . 4)) ((c def c (c (? . 8) q set-splash-paint-callback)) q (165241 . 8)) ((c meth c (c (? . 2) q file-menu:close-help-string)) q (46104 . 3)) ((c def c (c (? . 0) q editor:autowrap<%>)) q (22234 . 3)) ((c def c (c (? . 0) q preferences:add-can-close-dialog-callback)) q (119138 . 3)) ((c meth c (c (? . 68) q determine-width)) q (36790 . 7)) ((c def c (c (? . 0) q icon:get-up/down-cursor)) q (84663 . 2)) ((c meth c (c (? . 10) q get-unread-start-point)) q (155657 . 2)) ((c meth c (c (? . 31) q load-file/gui-error)) q (19072 . 9)) ((c meth c (c (? . 23) q set-spell-check-strings)) q (11101 . 3)) ((c meth c (c (? . 2) q edit-menu:cut-on-demand)) q (48983 . 4)) ((c meth c (c (? . 62) q update-status-line)) q (36149 . 5)) ((c def c (c (? . 0) q icon:get-gc-off-bitmap)) q (84781 . 2)) ((c meth c (c (? . 40) q on-change)) q (24226 . 2)) ((c meth c (c (? . 10) q get-in-port)) q (156989 . 2)) ((c meth c (c (? . 42) q on-load-file)) q (152647 . 5)) ((c def c (c (? . 0) q color-prefs:register-info-based-color-schemes)) q (7164 . 2)) ((c def c (c (? . 0) q color-prefs:set-current-color-scheme)) q (7233 . 3)) ((c meth c (c (? . 2) q edit-menu:find-from-selection-help-string)) q (54163 . 3)) ((c def c (c (? . 0) q frame:pasteboard<%>)) q (68064 . 3)) ((c form c (c (? . 0) q scheme:get-keymap)) q (169772 . 2)) ((c def c (c (? . 0) q group:create-windows-menu)) q (77596 . 3)) ((c def c (c (? . 0) q color-model:rgb-color-distance)) q (2746 . 13)) ((c meth c (c (? . 55) q allow-close-with-no-filename?)) q (22708 . 2)) ((c def c (c (? . 0) q racket:add-preferences-panel)) q (129758 . 2)) ((c def c (c (? . 0) q exit:set-exiting)) q (26529 . 3)) ((c def c (c (? . 0) q keymap:aug-keymap%)) q (85801 . 3)) ((c meth c (c (? . 78) q on-enable-surrogate)) q (129117 . 2)) ((c meth c (c (? . 40) q set-modified)) q (24289 . 3)) ((c def c (c (? . 0) q racket:init-wordbreak-map)) q (130382 . 3)) ((c def c (c (? . 0) q version:add-spec)) q (169338 . 4)) ((c meth c (c (? . 23) q set-spell-check-text)) q (11253 . 3)) ((c meth c (c (? . 2) q file-menu:close-callback)) q (45670 . 6)) ((c def c (c (? . 0) q editor:set-current-preferred-font-size)) q (24680 . 3)) ((c meth c (c (? . 10) q get-out-port)) q (157109 . 2)) ((c meth c (c (? . 53) q on-exit)) q (33128 . 2)) ((c meth c (c (? . 7) q backward-sexp)) q (126879 . 3)) ((c def c (c (? . 0) q color:text%)) q (14213 . 3)) ((c meth c (c (? . 2) q file-menu:quit-on-demand)) q (46724 . 4)) ((c meth c (c (? . 2) q edit-menu:find-previous-string)) q (55699 . 3)) ((c meth c (c (? . 2) q file-menu:save-string)) q (43588 . 2)) ((c def c (c (? . 0) q keymap:setup-search)) q (88482 . 3)) ((c meth c (c (? . 2) q file-menu:new-help-string)) q (40407 . 3)) ((c meth c (c (? . 48) q set-delegated-text)) q (68705 . 3)) ((c meth c (c (? . 10) q do-submission)) q (155444 . 2)) ((c meth c (c (? . 7) q get-backward-sexp)) q (126657 . 4)) ((c meth c (c (? . 49) q add-wide-snip)) q (143879 . 3)) ((c meth c (c (? . 62) q close-status-line)) q (36061 . 3)) ((c meth c (c (? . 2) q edit-menu:create-show/hide-replace?)) q (55993 . 3)) ((c def c (c (? . 3) q preferences:register-save-callback)) q (121000 . 3)) ((c meth c (c (? . 31) q on-close)) q (19472 . 2)) ((c def c (c (? . 0) q canvas:basic<%>)) q (473 . 3)) ((c def c (c (? . 0) q menu:can-restore-checkable-menu-item%)) q (89983 . 3)) ((c meth c (c (? . 11) q get-active-frame)) q (76723 . 2)) ((c meth c (c (? . 2) q file-menu:new-callback)) q (39981 . 6)) ((c def c (c (? . 0) q text:get-completions/manuals)) q (162692 . 3)) ((c def c (c (? . 0) q text:range-color)) q (162286 . 3)) ((c meth c (c (? . 5) q on-load-file)) q (92415 . 9)) ((c def c (c (? . 0) q text:range-caret-space?)) q (162109 . 3)) ((c def c (c (? . 0) q canvas:color%)) q (2284 . 3)) ((c def c (c (? . 3) q preferences:default-set?)) q (120586 . 3)) ((c meth c (c (? . 58) q copy)) q (122764 . 2)) ((c meth c (c (? . 42) q resized)) q (151876 . 5)) ((c meth c (c (? . 2) q edit-menu:redo-help-string)) q (48383 . 3)) ((c form c (c (? . 0) q scheme:text-mode%)) q (169601 . 2)) ((c meth c (c (? . 41) q after-new-child)) q (111761 . 3)) ((c meth c (c (? . 57) q add-line-number-menu-items)) q (38493 . 4)) ((c meth c (c (? . 2) q file-menu:revert-on-demand)) q (42633 . 4)) ((c meth c (c (? . 5) q can-save-file?)) q (102126 . 9)) ((c meth c (c (? . 63) q on-paint)) q (139550 . 21)) ((c meth c (c (? . 7) q get-forward-sexp)) q (126258 . 4)) ((c meth c (c (? . 64) q on-paint)) q (136476 . 19)) ((c def c (? . 65)) q (135925 . 3)) ((c meth c (c (? . 37) q make-root-area-container)) q (32263 . 6)) ((c def c (? . 74)) q (108916 . 3)) ((c meth c (c (? . 9) q set-label)) q (65614 . 3)) ((c meth c (c (? . 83) q do-autosave)) q (172 . 2)) ((c def c (c (? . 8) q get-splash-paint-callback)) q (164866 . 7)) ((c meth c (c (? . 14) q edit-menu:create-find?)) q (71316 . 2)) ((c meth c (c (? . 7) q balance-parens)) q (124983 . 3)) ((c meth c (c (? . 14) q edit-menu:find-again-backwards-callback)) q (71688 . 7)) ((c meth c (c (? . 2) q edit-menu:find-string)) q (53233 . 2)) ((c def c (c (? . 0) q autosave:toc-path)) q (380 . 2)) ((c def c (? . 70)) q (144211 . 3)) ((c def c (c (? . 0) q text:nbsp->space%)) q (159735 . 3)) ((c meth c (c (? . 66) q on-close)) q (38765 . 2)) ((c def c (? . 9)) q (62586 . 4)) ((c meth c (c (? . 26) q revert)) q (62082 . 2)) ((c meth c (c (? . 67) q get-word-at)) q (128576 . 3)) ((c meth c (c (? . 2) q edit-menu:get-paste-item)) q (50172 . 3)) ((c def c (c (? . 0) q text:autocomplete-limit)) q (162519 . 4)) ((c meth c (c (? . 54) q after-insert)) q (142923 . 5)) ((c meth c (c (? . 2) q edit-menu:show/hide-replace-string)) q (56556 . 3)) ((c meth c (c (? . 47) q on-set-size-constraint)) q (14044 . 2)) ((c def c (c (? . 0) q handler:edit-file)) q (83007 . 6)) ((c def c (c (? . 0) q keymap:get-editor)) q (87099 . 2)) ((c meth c (c (? . 64) q on-event)) q (137228 . 3)) ((c meth c (c (? . 2) q edit-menu:preferences-callback)) q (59540 . 7)) ((c meth c (c (? . 23) q get-token-range)) q (13305 . 5)) ((c meth c (c (? . 22) q move/copy-to-edit)) q (133266 . 13)) ((c meth c (c (? . 5) q after-delete)) q (97789 . 9)) ((c meth c (c (? . 16) q can-change-style?)) q (106988 . 5)) ((c meth c (c (? . 68) q is-info-hidden?)) q (37630 . 2)) ((c meth c (c (? . 58) q draw)) q (122951 . 21)) ((c meth c (c (? . 14) q edit-menu:create-find-again-backwards?)) q (72002 . 3)) ((c meth c (c (? . 69) q get-read-write?)) q (154559 . 2)) ((c meth c (c (? . 2) q edit-menu:get-redo-item)) q (47790 . 3)) ((c form c (c (? . 103) q framework-class^)) q (170127 . 2)) ((c def c (c (? . 3) q preferences:snapshot?)) q (121999 . 3)) ((c def c (c (? . 0) q keymap:canonicalize-keybinding-string)) q (86982 . 4)) ((c meth c (c (? . 16) q can-delete?)) q (107150 . 5)) ((c def c (c (? . 0) q editor:set-standard-style-list-delta)) q (25960 . 5)) ((c def c (? . 13)) q (15450 . 4)) ((c meth c (c (? . 2) q file-menu:open-recent-string)) q (41849 . 3)) ((c meth c (c (? . 7) q get-limit)) q (124887 . 3)) ((c meth c (c (? . 70) q set-delegate)) q (144364 . 3)) ((c meth c (c (? . 2) q edit-menu:replace-on-demand)) q (57231 . 4)) ((c meth c (c (? . 2) q edit-menu:replace-string)) q (57361 . 3)) ((c meth c (c (? . 26) q get-canvas<%>)) q (61797 . 2)) ((c def c (c (? . 8) q get-splash-height)) q (166101 . 2)) ((c def c (? . 63)) q (139408 . 4)) ((c def c (c (? . 0) q color-prefs:set-in-color-scheme)) q (7819 . 7)) ((c meth c (c (? . 6) q draw)) q (148785 . 21)) ((c meth c (c (? . 59) q make-root-area-container)) q (37826 . 6)) ((c meth c (c (? . 2) q edit-menu:between-select-all-and-find)) q (52572 . 4)) ((c meth c (c (? . 10) q clear-output-ports)) q (156522 . 2)) ((c meth c (c (? . 10) q get-err-port)) q (157169 . 2)) ((c meth c (c (? . 61) q on-insert)) q (135218 . 4)) ((c meth c (c (? . 2) q file-menu:save-callback)) q (43232 . 6)) ((c def c (c (? . 0) q pasteboard:standard-style-list%)) q (116321 . 3)) ((c meth c (c (? . 71) q on-local-char)) q (157910 . 3)) ((c def c (c (? . 0) q panel:dragable-place-children)) q (115375 . 19)) ((c meth c (c (? . 56) q add-wide-snip)) q (1677 . 3)) ((c meth c (c (? . 34) q search-replace)) q (69826 . 2)) ((c def c (? . 72)) q (154206 . 4)) ((c meth c (c (? . 47) q after-edit-sequence)) q (13866 . 2)) ((c meth c (c (? . 10) q get-value-port)) q (157229 . 2)) ((c constructor c (? . 73)) q (67883 . 4)) ((c constructor c (? . 36)) q (17351 . 3)) ((c meth c (c (? . 16) q on-default-event)) q (103450 . 3)) ((c def c (c (? . 0) q color-prefs:white-on-black)) q (5869 . 2)) ((c meth c (c (? . 7) q insert-return)) q (125583 . 2)) ((c meth c (c (? . 16) q on-new-string-snip)) q (105963 . 2)) ((c meth c (c (? . 13) q make-editor)) q (15556 . 2)) ((c meth c (c (? . 2) q edit-menu:get-find-from-selection-item)) q (53387 . 3)) ((c meth c (c (? . 74) q active-child)) q (108992 . 4)) ((c def c (c (? . 0) q keymap:send-map-function-meta)) q (87562 . 13)) ((c def c (c (? . 0) q frame:size-pref%)) q (73476 . 3)) ((c meth c (c (? . 18) q split-vertical)) q (113561 . 7)) ((c meth c (c (? . 23) q is-lexer-valid?)) q (13577 . 2)) ((c meth c (c (? . 75) q on-close)) q (33717 . 2)) ((c def c (? . 76)) q (109717 . 5)) ((c meth c (c (? . 2) q edit-menu:get-undo-item)) q (47117 . 3)) ((c meth c (c (? . 14) q edit-menu:find-case-sensitive-on-demand)) q (72450 . 4)) ((c meth c (c (? . 2) q get-help-menu)) q (39724 . 2)) ((c meth c (c (? . 58) q get-extent)) q (123679 . 22)) ((c meth c (c (? . 23) q get-regions)) q (11517 . 3)) ((c meth c (c (? . 57) q editor-position-changed)) q (38424 . 2)) ((c meth c (c (? . 77) q set-orientation)) q (114224 . 4)) ((c meth c (c (? . 53) q show)) q (33002 . 3)) ((c meth c (c (? . 2) q file-menu:new-string)) q (40334 . 2)) ((c meth c (c (? . 2) q file-menu:get-revert-item)) q (42144 . 3)) ((c def c (c (? . 0) q frame:searchable-text<%>)) q (72805 . 4)) ((c meth c (c (? . 9) q help-menu:create-about?)) q (67604 . 2)) ((c def c (c (? . 0) q preferences:add-warnings-checkbox-panel)) q (118268 . 2)) ((c def c (? . 35)) q (152979 . 5)) ((c meth c (c (? . 2) q file-menu:create-save-as?)) q (43853 . 3)) ((c meth c (c (? . 2) q edit-menu:paste-callback)) q (50359 . 6)) ((c meth c (c (? . 68) q get-info-panel)) q (37451 . 3)) ((c def c (c (? . 0) q text:file%)) q (160588 . 3)) ((c meth c (c (? . 2) q help-menu:about-string)) q (60939 . 2)) ((c meth c (c (? . 5) q on-change-style)) q (95780 . 9)) ((c def c (c (? . 25) q gui-utils:format-literal-label)) q (78202 . 8)) ((c meth c (c (? . 2) q edit-menu:paste-help-string)) q (50771 . 3)) ((c def c (c (? . 0) q pasteboard:backup-autosave%)) q (116637 . 3)) ((c def c (c (? . 0) q icon:get-autowrap-bitmap)) q (84364 . 2)) ((c meth c (c (? . 20) q after-edit-sequence)) q (20749 . 2)) ((c def c (c (? . 0) q racket:short-sym->pref-name)) q (130126 . 3)) ((c meth c (c (? . 5) q on-delete)) q (96145 . 9)) ((c def c (c (? . 0) q icon:get-unlock-bitmap)) q (84482 . 2)) ((c meth c (c (? . 9) q get-label)) q (65560 . 2)) ((c meth c (c (? . 16) q on-display-size)) q (103536 . 2)) ((c def c (? . 78)) q (128842 . 5)) ((c meth c (c (? . 79) q on-enable-surrogate)) q (90259 . 2)) ((c def c (c (? . 8) q get-splash-width)) q (166040 . 2)) ((c meth c (c (? . 2) q edit-menu:create-undo?)) q (47225 . 3)) ((c def c (c (? . 4) q test:set-choice!)) q (166960 . 4)) ((c meth c (c (? . 2) q file-menu:open-recent-callback)) q (41503 . 6)) ((c def c (c (? . 4) q test:number-pending-actions)) q (168616 . 2)) ((c def c (c (? . 25) q gui-utils:get-choice)) q (80690 . 22)) ((c meth c (c (? . 16) q on-change)) q (103236 . 2)) ((c def c (c (? . 0) q text:hide-caret/selection<%>)) q (138412 . 3)) ((c form c (c (? . 0) q scheme:setup-keymap)) q (169797 . 2)) ((c meth c (c (? . 14) q edit-menu:replace-all-on-demand)) q (72172 . 4)) ((c def c (c (? . 0) q editor:get-change-font-size-when-monitors-change?)) q (25518 . 2)) ((c def c (c (? . 3) q preferences:get)) q (119681 . 3)) ((c def c (c (? . 0) q handler:set-recent-position)) q (83934 . 7)) ((c meth c (c (? . 32) q map-function)) q (85609 . 5)) ((c def c (c (? . 0) q pasteboard:info%)) q (116747 . 3)) ((c def c (c (? . 0) q text:lookup-port-name)) q (162816 . 4)) ((c meth c (c (? . 29) q on-insert)) q (138945 . 5)) ((c meth c (c (? . 2) q edit-menu:replace-callback)) q (56928 . 7)) ((c meth c (c (? . 26) q get-entire-label)) q (61507 . 2)) ((c meth c (c (? . 26) q get-canvas)) q (62452 . 2)) ((c meth c (c (? . 68) q update-info)) q (37111 . 2)) ((c meth c (c (? . 2) q get-menu-item%)) q (39356 . 3)) ((c meth c (c (? . 9) q can-close?)) q (65507 . 2)) ((c def c (? . 42)) q (149619 . 4)) ((c def c (c (? . 0) q panel:vertical-dragable%)) q (113074 . 4)) ((c meth c (c (? . 2) q edit-menu:cut-help-string)) q (49172 . 3)) ((c def c (c (? . 0) q canvas:wide-snip%)) q (2537 . 3)) ((c meth c (c (? . 31) q close)) q (19581 . 2)) ((c meth c (c (? . 80) q can-close?)) q (23207 . 2)) ((c meth c (c (? . 2) q edit-menu:find-callback)) q (52887 . 6)) ((c meth c (c (? . 22) q get-port-name)) q (133968 . 3)) ((c meth c (c (? . 81) q after-insert)) q (141291 . 5)) ((c meth c (c (? . 34) q search-hidden?)) q (70155 . 2)) ((c meth c (c (? . 2) q file-menu:create-quit?)) q (46418 . 3)) ((c meth c (c (? . 10) q get-value-style-delta)) q (156891 . 3)) ((c meth c (c (? . 2) q edit-menu:undo-on-demand)) q (47519 . 4)) ((c def c (c (? . 0) q panel:vertical-dragable<%>)) q (111395 . 3)) ((c meth c (c (? . 2) q file-menu:open-on-demand)) q (41023 . 4)) ((c def c (? . 82)) q (89459 . 3)) ((c def c (? . 83)) q (123 . 2)) ((c meth c (c (? . 2) q edit-menu:between-cut-and-copy)) q (49251 . 4)) ((c meth c (c (? . 14) q edit-menu:find-case-sensitive-callback)) q (72361 . 3)) ((c meth c (c (? . 23) q reset-region)) q (10707 . 4)) ((c form c (c (? . 0) q scheme:text-mode-mixin)) q (169571 . 2)) ((c meth c (c (? . 37) q make-visible)) q (32782 . 3)) ((c def c (? . 20)) q (20107 . 4)) ((c meth c (c (? . 11) q frame-label-changed)) q (76462 . 3)) ((c meth c (c (? . 2) q edit-menu:get-select-all-item)) q (51789 . 3)) ((c def c (c (? . 0) q keymap:remove-user-keybindings-file)) q (85888 . 4)) ((c meth c (c (? . 37) q editing-this-file?)) q (32564 . 3)) ((c meth c (c (? . 23) q insert-close-paren)) q (12678 . 11)) ((c meth c (c (? . 14) q edit-menu:create-replace-all?)) q (72281 . 3)) ((c def c (? . 40)) q (23702 . 5)) ((c meth c (c (? . 2) q edit-menu:clear-callback)) q (51165 . 6)) ((c def c (c (? . 0) q color-model:rgb->xyz)) q (2628 . 5)) ((c def c (c (? . 0) q canvas:info<%>)) q (1225 . 3)) ((c meth c (c (? . 2) q file-menu:get-open-item)) q (40609 . 3)) ((c meth c (c (? . 33) q on-disable-surrogate)) q (15024 . 2)) ((c meth c (c (? . 2) q edit-menu:paste-on-demand)) q (50578 . 4)) ((c meth c (c (? . 38) q on-size)) q (35123 . 5)) ((c def c (c (? . 0) q canvas:basic%)) q (2200 . 3)) ((c meth c (c (? . 5) q after-set-size-constraint)) q (98694 . 7)) ((c meth c (c (? . 23) q on-lexer-valid)) q (13492 . 3)) ((c def c (c (? . 0) q preferences:hide-dialog)) q (119000 . 2)) ((c meth c (c (? . 23) q stop-colorer)) q (10151 . 3)) ((c meth c (c (? . 7) q comment-out-selection)) q (125894 . 5)) ((c meth c (c (? . 42) q highlight-range)) q (149761 . 14)) ((c def c (c (? . 0) q keymap:add-to-right-button-menu)) q (86151 . 10)) ((c meth c (c (? . 9) q file-menu:create-print?)) q (67010 . 2)) ((c def c (c (? . 0) q exit:insert-can?-callback)) q (26697 . 3)) ((c meth c (c (? . 39) q insert)) q (146078 . 7)) ((c def c (? . 11)) q (76252 . 3)) ((c meth c (c (? . 14) q make-root-area-container)) q (72655 . 3)) ((c def c (? . 38)) q (33938 . 4)) ((c meth c (c (? . 19) q set-orientation)) q (111293 . 3)) ((c def c (c (? . 0) q text:normalize-paste%)) q (159831 . 3)) ((c meth c (c (? . 58) q write)) q (122838 . 3)) ((c def c (c (? . 0) q finder:common-put-file)) q (27473 . 17)) ((c meth c (c (? . 2) q file-menu:print-help-string)) q (45276 . 3)) ((c meth c (c (? . 10) q clear-box-input-port)) q (156638 . 2)) ((c meth c (c (? . 34) q unhide-search)) q (70277 . 7)) ((c def c (c (? . 25) q gui-utils:unsaved-warning)) q (80158 . 14)) ((c meth c (c (? . 7) q move-sexp-out)) q (128190 . 3)) ((c meth c (c (? . 10) q set-allow-edits)) q (155824 . 3)) ((c def c (? . 16)) q (103140 . 3)) ((c meth c (c (? . 5) q on-paint)) q (94148 . 23)) ((c meth c (c (? . 5) q on-new-string-snip)) q (96827 . 6)) ((c def c (c (? . 0) q editor:set-change-font-size-when-monitors-change?)) q (25594 . 3)) ((c def c (c (? . 0) q panel:horizontal-discrete-sizes%)) q (114851 . 3)) ((c meth c (c (? . 2) q edit-menu:create-redo?)) q (47898 . 3)) ((c meth c (c (? . 42) q unhighlight-range)) q (150439 . 12)) ((c meth c (c (? . 31) q get-filename/untitled-name)) q (19633 . 2)) ((c meth c (c (? . 51) q after-new-child)) q (109292 . 3)) ((c meth c (c (? . 71) q can-insert?)) q (157664 . 4)) ((c meth c (c (? . 87) q can-close?)) q (35685 . 2)) ((c def c (c (? . 0) q handler:handler-handler)) q (82296 . 4)) ((c meth c (c (? . 2) q file-menu:create-open-recent?)) q (41419 . 3)) ((c def c (c (? . 0) q finder:std-get-file)) q (29558 . 12)) ((c meth c (c (? . 16) q after-load-file)) q (106806 . 3)) ((c meth c (c (? . 5) q can-insert?)) q (100467 . 9)) ((c def c (c (? . 8) q set-splash-bitmap)) q (164684 . 3)) ((c meth c (c (? . 2) q help-menu:after-about)) q (61095 . 4)) ((c meth c (c (? . 53) q after-new-child)) q (33356 . 2)) ((c meth c (c (? . 16) q after-insert)) q (106463 . 5)) ((c meth c (c (? . 2) q edit-menu:get-find-item)) q (52702 . 3)) ((c meth c (c (? . 31) q can-close?)) q (19524 . 2)) ((c meth c (c (? . 23) q get-spell-check-text)) q (11189 . 2)) ((c meth c (c (? . 19) q set-percentages)) q (111041 . 3)) ((c def c (? . 104)) q (122247 . 2)) ((c def c (c (? . 0) q preferences:get-preference/gui)) q (117214 . 6)) ((c def c (c (? . 0) q handler:find-named-format-handler)) q (82761 . 4)) ((c def c (? . 34)) q (69636 . 3)) ((c meth c (c (? . 61) q on-paint)) q (134515 . 19)) ((c meth c (c (? . 68) q show-info)) q (37530 . 2)) ((c meth c (c (? . 5) q after-change-style)) q (97430 . 10)) ((c meth c (c (? . 84) q on-save-file)) q (153891 . 5)) ((c meth c (c (? . 2) q file-menu:open-callback)) q (40794 . 6)) ((c meth c (c (? . 2) q edit-menu:get-show/hide-replace-item)) q (55872 . 3)) ((c def c (? . 67)) q (128289 . 7)) ((c meth c (c (? . 48) q delegated-text-shown?)) q (68821 . 2)) ((c def c (c (? . 0) q color-prefs:black-on-white)) q (5917 . 2)) ((c def c (c (? . 3) q preferences:restore-prefs-snapshot)) q (122070 . 3)) ((c meth c (c (? . 12) q get-search-bubbles)) q (142345 . 6)) ((c meth c (c (? . 37) q get-area-container)) q (32105 . 3)) ((c meth c (c (? . 68) q get-info-editor)) q (37367 . 3)) ((c def c (c (? . 0) q color-model:xyz->rgb)) q (3203 . 5)) ((c def c (c (? . 0) q preferences:add-scheme-checkbox-panel)) q (118331 . 2)) ((c meth c (c (? . 2) q help-menu:get-about-item)) q (60393 . 3)) ((c def c (c (? . 4) q test:set-radio-box-item!)) q (166725 . 3)) ((c meth c (c (? . 2) q edit-menu:create-find-next?)) q (54371 . 3)) ((c def c (c (? . 0) q version:version)) q (169436 . 2)) ((c meth c (c (? . 35) q after-set-position)) q (153316 . 2)) ((c def c (c (? . 0) q color-prefs:register-color-scheme-entry-change-callback)) q (8135 . 12)) ((c def c (c (? . 3) q exn:struct:unknown-preference)) q (121484 . 2)) ((c def c (c (? . 0) q editor:keymap-mixin)) q (22090 . 4)) ((c meth c (c (? . 2) q edit-menu:get-copy-item)) q (49374 . 3)) ((c meth c (c (? . 22) q highlight-range)) q (130645 . 22)) ((c meth c (c (? . 5) q on-edit-sequence)) q (91698 . 5)) ((c meth c (c (? . 85) q show-line-numbers!)) q (161140 . 3)) ((c meth c (c (? . 5) q on-insert)) q (96486 . 9)) ((c def c (c (? . 0) q group:can-close-check)) q (77454 . 2)) ((c meth c (c (? . 2) q file-menu:between-revert-and-save)) q (42921 . 4)) ((c def c (c (? . 0) q panel:vertical-discrete-sizes%)) q (114954 . 3)) ((c def c (c (? . 0) q frame:register-group<%>)) q (35479 . 2)) ((c def c (c (? . 0) q pasteboard:file%)) q (116547 . 3)) ((c meth c (c (? . 16) q on-delete)) q (105759 . 4)) ((c meth c (c (? . 80) q get-keymaps)) q (23263 . 3)) ((c def c (c (? . 8) q set-splash-event-callback)) q (165686 . 3)) ((c meth c (c (? . 2) q edit-menu:between-redo-and-cut)) q (48463 . 4)) ((c meth c (c (? . 9) q help-menu:about-string)) q (67538 . 2)) ((c meth c (c (? . 2) q file-menu:get-print-item)) q (44655 . 3)) ((c def c (c (? . 8) q get-splash-event-callback)) q (165786 . 2)) ((c meth c (c (? . 32) q chain-to-keymap)) q (85310 . 5)) ((c meth c (c (? . 2) q file-menu:between-save-as-and-print)) q (44527 . 4)) ((c meth c (c (? . 16) q on-new-box)) q (104136 . 3)) ((c meth c (c (? . 7) q mark-matching-parenthesis)) q (127820 . 3)) ((c meth c (c (? . 2) q file-menu:open-help-string)) q (41224 . 3)) ((c meth c (c (? . 14) q edit-menu:replace-all-callback)) q (72091 . 3)) ((c def c (c (? . 0) q frame:pasteboard-info<%>)) q (38876 . 3)) ((c meth c (c (? . 86) q restore-keybinding)) q (89236 . 2)) ((c meth c (c (? . 87) q on-close)) q (35749 . 2)) ((c meth c (c (? . 16) q can-load-file?)) q (107784 . 5)) ((c meth c (c (? . 10) q after-io-insertion)) q (157291 . 2)) ((c def c (c (? . 0) q menu:can-restore-underscore-menu%)) q (90101 . 3)) ((c meth c (c (? . 47) q after-delete)) q (14160 . 2)) ((c meth c (c (? . 16) q can-save-file?)) q (107952 . 5)) ((c def c (? . 88)) q (112598 . 4)) ((c meth c (c (? . 73) q get-editor<%>)) q (68006 . 2)) ((c meth c (c (? . 2) q file-menu:new-on-demand)) q (40208 . 4)) ((c def c (c (? . 0) q racket:add-coloring-preferences-panel)) q (129864 . 2)) ((c meth c (c (? . 23) q skip-whitespace)) q (11653 . 8)) ((c def c (? . 69)) q (154460 . 4)) ((c meth c (c (? . 41) q place-children)) q (112077 . 8)) ((c meth c (c (? . 23) q start-colorer)) q (8823 . 22)) ((c def c (c (? . 0) q handler:add-to-recent)) q (83856 . 3)) ((c meth c (c (? . 19) q after-percentage-change)) q (110502 . 2)) ((c meth c (c (? . 5) q on-local-event)) q (93049 . 7)) ((c def c (c (? . 4) q label-of-enabled/shown-button-in-top-level-window?)) q (169038 . 4)) ((c def c (c (? . 0) q icon:get-left/right-cursor)) q (84600 . 2)) ((c def c (c (? . 0) q preferences:add-panel)) q (117460 . 12)) ((c meth c (c (? . 5) q on-set-size-constraint)) q (97223 . 6)) ((c meth c (c (? . 16) q on-local-event)) q (104052 . 3)) ((c def c (c (? . 0) q menu:can-restore-mixin)) q (89301 . 4)) ((c def c (c (? . 0) q frame:reorder-menus)) q (75457 . 3)) ((c meth c (c (? . 9) q file-menu:print-callback)) q (66803 . 5)) ((c def c (c (? . 25) q gui-utils:delay-action)) q (79655 . 7)) ((c def c (? . 12)) q (141499 . 4)) ((c def c (? . 61)) q (134339 . 5)) ((c meth c (c (? . 26) q save)) q (62131 . 4)) ((c meth c (c (? . 60) q read)) q (17953 . 4)) ((c def c (c (? . 0) q keymap:add-user-keybindings-file)) q (86005 . 4)) ((q def ((lib "framework/framework-unit.rkt") framework@)) q (170168 . 2)) ((c def c (c (? . 0) q finder:get-file)) q (30830 . 12)) ((c meth c (c (? . 11) q set-active-frame)) q (76796 . 3)) ((c meth c (c (? . 81) q do-paste)) q (140900 . 5)) ((c meth c (c (? . 2) q edit-menu:cut-callback)) q (48768 . 6)) ((c meth c (c (? . 89) q make-root-area-container)) q (36492 . 6)) ((c meth c (c (? . 2) q file-menu:save-help-string)) q (43662 . 3)) ((c def c (c (? . 0) q racket:text-mode%)) q (129494 . 3)) ((c def c (c (? . 0) q color:get-parenthesis-colors-table)) q (15251 . 3)) ((c meth c (c (? . 35) q set-overwrite-mode)) q (153235 . 3)) ((c def c (? . 1)) q (158368 . 3)) ((c meth c (c (? . 20) q on-focus)) q (20608 . 3)) ((c meth c (c (? . 20) q after-load-file)) q (20513 . 3)) ((c def c (? . 56)) q (1540 . 3)) ((c def c (c (? . 0) q keymap:get-user)) q (87205 . 2)) ((c meth c (c (? . 64) q scroll-editor-to)) q (137327 . 13)) ((c meth c (c (? . 26) q get-canvas%)) q (61718 . 3)) ((c meth c (c (? . 2) q edit-menu:create-select-all?)) q (51903 . 3)) ((c meth c (c (? . 23) q thaw-colorer)) q (10512 . 5)) ((c def c (c (? . 0) q frame:pasteboard-info-mixin)) q (38957 . 4)) ((c meth c (c (? . 26) q save-as)) q (62290 . 4)) ((c def c (c (? . 0) q path-utils:generate-autosave-name)) q (116846 . 3)) ((c def c (c (? . 0) q exit:insert-on-callback)) q (26605 . 3)) ((c def c (c (? . 0) q finder:std-put-file)) q (28809 . 17)) ((c meth c (c (? . 10) q get-out-style-delta)) q (156699 . 3)) ((c def c (c (? . 0) q editor:get-standard-style-list)) q (26209 . 2)) ((c meth c (c (? . 65) q first-line-currently-drawn-specially?)) q (136084 . 3)) ((c meth c (c (? . 90) q get-keymaps)) q (22009 . 3)) ((c def c (? . 91)) q (61209 . 4)) ((c meth c (c (? . 48) q delegate-moved)) q (69018 . 2)) ((c meth c (c (? . 10) q insert-between)) q (155983 . 3)) ((c meth c (c (? . 31) q local-edit-sequence?)) q (18234 . 2)) ((c meth c (c (? . 92) q get-editor<%>)) q (68433 . 2)) ((c meth c (c (? . 13) q get-position)) q (15778 . 3)) ((c def c (? . 93)) q (102855 . 2)) ((c meth c (c (? . 47) q after-insert)) q (14107 . 2)) ((c form c (c (? . 0) q scheme:set-mode-mixin)) q (169626 . 2)) ((c meth c (c (? . 16) q on-change-style)) q (105601 . 5)) ((c meth c (c (? . 16) q on-load-file)) q (103805 . 5)) ((c meth c (c (? . 2) q on-close)) q (39197 . 2)) ((c meth c (c (? . 5) q on-snip-modified)) q (95406 . 9)) ((c meth c (c (? . 2) q edit-menu:after-preferences)) q (60158 . 4)) ((c meth c (c (? . 11) q remove-frame)) q (76992 . 3)) ((c def c (c (? . 8) q add-splash-icon)) q (164463 . 5)) ((c def c (c (? . 0) q panel:single-pane%)) q (110319 . 3)) ((c def c (c (? . 0) q text:nbsp->space<%>)) q (138737 . 3)) ((c meth c (c (? . 7) q tabify-all)) q (125531 . 2)) ((c meth c (c (? . 2) q edit-menu:create-find-previous?)) q (55166 . 3)) ((c def c (c (? . 0) q menu:can-restore-menu-item%)) q (89885 . 3)) ((c meth c (c (? . 46) q default-style-name)) q (138258 . 2)) ((c meth c (c (? . 2) q edit-menu:copy-on-demand)) q (49776 . 4)) ((c meth c (c (? . 93) q get-surrogate)) q (102898 . 3)) ((c meth c (c (? . 10) q send-eof-to-box-in-port)) q (156402 . 2)) ((c meth c (c (? . 42) q on-paint)) q (151019 . 19)) ((c def c (? . 27)) q (84840 . 3)) ((c meth c (c (? . 2) q edit-menu:find-next-callback)) q (54453 . 7)) ((c meth c (c (? . 2) q file-menu:close-on-demand)) q (45901 . 4)) ((c meth c (c (? . 5) q on-new-box)) q (93327 . 7)) ((c meth c (c (? . 2) q edit-menu:find-case-sensitive-on-demand)) q (58893 . 4)) ((c def c (c (? . 0) q color:misspelled-text-color-style-name)) q (15393 . 2)) ((c def c (c (? . 0) q canvas:color-mixin)) q (761 . 4)) ((c meth c (c (? . 19) q get-vertical?)) q (111232 . 2)) ((c meth c (c (? . 2) q get-file-menu)) q (39574 . 2)) ((c def c (c (? . 0) q keymap:setup-editor)) q (88229 . 3)) ((c meth c (c (? . 70) q get-delegate)) q (144284 . 3)) ((c def c (c (? . 0) q handler:install-recent-items)) q (83637 . 3)) ((c def c (c (? . 0) q preferences:add-to-warnings-checkbox-panel)) q (118392 . 3)) ((c meth c (c (? . 42) q after-insert)) q (152053 . 5)) ((c meth c (c (? . 68) q lock-status-changed)) q (37051 . 2)) ((c meth c (c (? . 9) q on-close)) q (65456 . 2)) ((c def c (c (? . 0) q preferences:add-editor-checkbox-panel)) q (118145 . 2)) ((c def c (c (? . 0) q color-prefs:color-scheme-style-name?)) q (7505 . 3)) ((c def c (c (? . 0) q editor:standard-style-list<%>)) q (21688 . 3)) ((c meth c (c (? . 13) q get-menu)) q (15923 . 2)) ((c meth c (c (? . 16) q on-event)) q (103653 . 3)) ((c def c (? . 54)) q (142650 . 5)) ((c meth c (c (? . 77) q get-orientation)) q (114333 . 2)) ((c meth c (c (? . 1) q auto-complete)) q (158437 . 2)) ((c meth c (c (? . 2) q edit-menu:show/hide-replace-callback)) q (56083 . 7)) ((c meth c (c (? . 2) q edit-menu:select-all-on-demand)) q (52282 . 4)) ((c meth c (c (? . 105) q on-default-char)) q (158265 . 3)) ((c meth c (c (? . 2) q help-menu:about-callback)) q (60580 . 6)) ((c meth c (c (? . 2) q file-menu:create-print?)) q (44764 . 3)) ((c meth c (c (? . 16) q after-delete)) q (106311 . 5)) ((c def c (? . 94)) q (114402 . 2)) ((c def c (c (? . 25) q gui-utils:trim-string)) q (77705 . 7)) ((c def c (c (? . 0) q keymap:make-meta-prefix-list)) q (87365 . 5)) ((c meth c (c (? . 62) q open-status-line)) q (35974 . 3)) ((c meth c (c (? . 2) q edit-menu:find-help-string)) q (53307 . 3)) ((c def c (c (? . 4) q test:set-radio-box!)) q (166559 . 4)) ((c meth c (c (? . 16) q on-save-file)) q (105262 . 5)) ((c meth c (c (? . 2) q edit-menu:redo-string)) q (48309 . 2)) ((c def c (c (? . 0) q number-snip:make-repeating-decimal-snip)) q (108486 . 6)) ((c meth c (c (? . 65) q highlight-first-line)) q (135992 . 3)) ((c meth c (c (? . 55) q update-frame-filename)) q (22644 . 2)) ((c meth c (c (? . 5) q put-file)) q (102493 . 9)) ((c def c (c (? . 0) q editor:get-default-color-style-name)) q (25899 . 2)) ((c meth c (c (? . 2) q edit-menu:copy-help-string)) q (49967 . 3)) ((c def c (c (? . 0) q text:line-spacing%)) q (159530 . 3)) ((c meth c (c (? . 95) q ask-normalize?)) q (140586 . 2)) ((c meth c (c (? . 2) q edit-menu:get-replace-item)) q (56737 . 3)) ((c meth c (c (? . 5) q after-set-position)) q (98495 . 6)) ((c meth c (c (? . 11) q clear)) q (77088 . 2)) ((c meth c (c (? . 7) q set-tab-size)) q (127991 . 3)) ((c def c (c (? . 0) q color-prefs:marshall-style-delta)) q (5589 . 3)) ((c def c (c (? . 0) q frame:delegate%)) q (74322 . 3)) ((c def c (c (? . 0) q frame:remove-empty-menus)) q (75539 . 3)) ((c def c (? . 96)) q (112834 . 4)) ((c meth c (c (? . 81) q on-insert)) q (141089 . 5)) ((c def c (c (? . 0) q text:backup-autosave%)) q (160788 . 3)) ((c def c (c (? . 0) q text:searching%)) q (160900 . 3)) ((c meth c (c (? . 79) q on-disable-surrogate)) q (90326 . 2)) ((c def c (c (? . 0) q icon:get-lock-bitmap)) q (84425 . 2)) ((c meth c (c (? . 24) q get-menu)) q (17062 . 3)) ((c meth c (c (? . 95) q string-normalize)) q (140654 . 3)) ((c meth c (c (? . 2) q file-menu:get-quit-item)) q (46310 . 3)) ((c meth c (c (? . 82) q erase-underscores)) q (89554 . 2)) ((c meth c (c (? . 9) q editing-this-file?)) q (65359 . 3)) ((c meth c (c (? . 52) q after-save-file)) q (155177 . 2)) ((c meth c (c (? . 11) q can-close-all?)) q (77182 . 2)) ((c def c (? . 7)) q (124754 . 5)) ((c def c (? . 71)) q (157524 . 4)) ((c meth c (c (? . 16) q after-change-style)) q (106147 . 5)) ((c meth c (c (? . 5) q can-delete?)) q (100118 . 9)) ((c meth c (c (? . 85) q set-line-numbers-color)) q (161303 . 3)) ((c meth c (c (? . 2) q edit-menu:clear-help-string)) q (51577 . 3)) ((c meth c (c (? . 34) q set-text-to-search)) q (70024 . 3)) ((c meth c (c (? . 2) q file-menu:save-as-help-string)) q (44444 . 3)) ((c meth c (c (? . 2) q edit-menu:replace-all-help-string)) q (58252 . 3)) ((c def c (? . 97)) q (24463 . 4)) ((c def c (c (? . 0) q racket:get-white-on-black-color-prefs-table)) q (130017 . 3)) ((c meth c (c (? . 2) q file-menu:after-quit)) q (47005 . 3)) ((c def c (c (? . 0) q handler:handler-name)) q (82069 . 3)) ((c meth c (c (? . 14) q edit-menu:create-find-case-sensitive?)) q (72567 . 3)) ((c meth c (c (? . 98) q adjust-size-when-monitor-setup-changes?)) q (33849 . 3)) ((c def c (c (? . 25) q gui-utils:cancel-on-right?)) q (78468 . 2)) ((c def c (c (? . 0) q preferences:add-on-close-dialog-callback)) q (119047 . 3)) ((c def c (? . 85)) q (161094 . 2)) ((c meth c (c (? . 68) q hide-info)) q (37580 . 2)) ((c form c (c (? . 44) q decorated-editor-snipclass%)) q (16080 . 2)) ((c meth c (c (? . 68) q set-info-canvas)) q (37163 . 3)) ((c meth c (c (? . 34) q get-case-sensitive-search?)) q (70942 . 3)) ((c def c (c (? . 0) q preferences:add-general-checkbox-panel)) q (118206 . 2)) ((c meth c (c (? . 10) q clear-input-port)) q (156581 . 2)) ((c meth c (c (? . 9) q file-menu:create-save?)) q (66453 . 2)) ((c meth c (c (? . 5) q on-new-tab-snip)) q (97026 . 5)) ((c meth c (c (? . 5) q on-display-size)) q (91501 . 5)) ((c meth c (c (? . 30) q remove-autosave)) q (23633 . 2)) ((c def c (? . 28)) q (143457 . 4)) ((c meth c (c (? . 11) q on-close-all)) q (77133 . 2)) ((c meth c (c (? . 21) q make-root-area-container)) q (69274 . 6)) ((c meth c (c (? . 2) q edit-menu:find-previous-help-string)) q (55783 . 3)) ((c def c (c (? . 8) q shutdown-splash)) q (164388 . 2)) ((c meth c (c (? . 45) q get-position)) q (16551 . 3)) ((c meth c (c (? . 99) q on-focus)) q (1438 . 2)) ((c meth c (c (? . 16) q can-do-edit-operation?)) q (107517 . 7)) ((c form c (c (? . 0) q scheme:sexp-snip%)) q (169655 . 2)) ((c def c (c (? . 0) q canvas:basic-mixin)) q (546 . 4)) ((c meth c (c (? . 100) q on-size)) q (2019 . 5)) ((c meth c (c (? . 47) q after-set-position)) q (13926 . 2)) ((c meth c (c (? . 42) q after-edit-sequence)) q (151813 . 2)) ((c meth c (c (? . 2) q edit-menu:replace-all-on-demand)) q (58036 . 4)) ((c meth c (c (? . 9) q edit-menu:between-select-all-and-find)) q (67204 . 4)) ((c def c (? . 31)) q (18109 . 3)) ((c def c (? . 101)) q (138497 . 4)) ((c def c (c (? . 0) q canvas:color<%>)) q (687 . 3)) ((c meth c (c (? . 2) q edit-menu:create-replace?)) q (56848 . 3)) ((c meth c (c (? . 2) q edit-menu:find-next-string)) q (54884 . 3)) ((c meth c (c (? . 7) q select-up-sexp)) q (127614 . 2)) ((c def c (c (? . 8) q get-splash-canvas)) q (164761 . 2)) ((c meth c (c (? . 7) q remove-parens-forward)) q (127392 . 3)) ((c meth c (c (? . 68) q get-info-canvas)) q (37279 . 3)) ((c form c (c (? . 44) q decorated-editor-snip-mixin)) q (16115 . 2)) ((c meth c (c (? . 2) q file-menu:create-revert?)) q (42254 . 3)) ((c def c (c (? . 0) q color-model:xyz?)) q (3340 . 3)) ((c meth c (c (? . 1) q get-all-words)) q (158954 . 2)) ((c meth c (c (? . 9) q file-menu:revert-callback)) q (65969 . 5)) ((c meth c (c (? . 26) q get-editor<%>)) q (61952 . 2)) ((c def c (? . 51)) q (109148 . 4)) ((c constructor c (? . 9)) q (62736 . 44)) ((c meth c (c (? . 16) q after-edit-sequence)) q (106744 . 2)) ((c def c (? . 23)) q (8753 . 3)) ((c def c (c (? . 0) q exit:on-exit)) q (26835 . 2)) ((c def c (? . 102)) q (980 . 4)) ((c meth c (c (? . 23) q freeze-colorer)) q (10457 . 2)) ((c def c (c (? . 0) q text:foreground-color<%>)) q (137912 . 4)) ((c def c (c (? . 0) q frame:pasteboard%)) q (74413 . 3)) ((c form c (c (? . 103) q framework^)) q (170092 . 2)) ((c meth c (c (? . 39) q copy)) q (144861 . 2)) ((c def c (? . 87)) q (35528 . 4)) ((c def c (c (? . 0) q finder:default-extension)) q (27173 . 4)) ((c form c (c (? . 0) q scheme:sexp-snip<%>)) q (169680 . 2)) ((c meth c (c (? . 104) q get-saved-snips)) q (122292 . 3)) ((c meth c (c (? . 94) q get-discrete-heights)) q (114553 . 3)) ((c meth c (c (? . 16) q on-edit-sequence)) q (103594 . 2)) ((c meth c (c (? . 5) q on-save-file)) q (95047 . 9)) ((c def c (? . 5)) q (90394 . 4)) ((c meth c (c (? . 7) q find-up-sexp)) q (126978 . 4)) ((c meth c (c (? . 22) q port-name-matches?)) q (134051 . 3)) ((c meth c (c (? . 7) q remove-sexp)) q (126374 . 3)) ((c meth c (c (? . 26) q get-label-prefix)) q (61567 . 2)) ((c def c (c (? . 0) q color-prefs:lookup-in-color-scheme)) q (7593 . 6)) ((c meth c (c (? . 16) q on-new-image-snip)) q (104214 . 9)) ((c meth c (c (? . 65) q is-special-first-line?)) q (136240 . 3)) ((c meth c (c (? . 26) q make-editor)) q (62013 . 2)) ((c def c (c (? . 0) q editor:standard-style-list-mixin)) q (21770 . 4)) ((c def c (c (? . 0) q editor:set-default-font-color)) q (25691 . 5)) ((c constructor c (? . 92)) q (68292 . 4)) ((c meth c (c (? . 52) q after-load-file)) q (155232 . 2)) ((c def c (c (? . 0) q handler:open-file)) q (83500 . 4)) ((c meth c (c (? . 45) q reset-min-sizes)) q (16644 . 2)) ((c meth c (c (? . 9) q file-menu:save-callback)) q (66248 . 5)) ((c meth c (c (? . 2) q edit-menu:between-copy-and-paste)) q (50047 . 4)) ((c meth c (c (? . 2) q file-menu:open-string)) q (41150 . 2)) ((c meth c (c (? . 18) q collapse)) q (114079 . 3)) ((c meth c (c (? . 2) q edit-menu:find-next-help-string)) q (54964 . 3)) ((c meth c (c (? . 2) q edit-menu:undo-help-string)) q (47710 . 3)) ((c def c (c (? . 0) q racket:set-mode-mixin)) q (129183 . 4)) ((c def c (c (? . 4) q test:close-top-level-window)) q (168404 . 3)) ((c form c (c (? . 0) q scheme:add-coloring-preferences-panel)) q (169860 . 2)) ((c meth c (c (? . 22) q unhighlight-ranges/key)) q (132482 . 3)) ((c meth c (c (? . 2) q edit-menu:preferences-string)) q (59989 . 3)) ((c def c (? . 99)) q (1298 . 4)) ((c def c (c (? . 0) q keymap:get-global)) q (87257 . 2)) ((c meth c (c (? . 7) q transpose-sexp)) q (127728 . 3)) ((c meth c (c (? . 30) q autosave?)) q (23490 . 2)) ((c def c (c (? . 0) q panel:discrete-sizes-mixin)) q (114656 . 5)) ((c def c (c (? . 8) q set-splash-char-observer)) q (165588 . 3)) ((c form c (c (? . 0) q scheme:short-sym->pref-name)) q (169992 . 2)) ((c meth c (c (? . 71) q on-display-size)) q (158007 . 2)) ((c meth c (c (? . 2) q file-menu:print-on-demand)) q (45073 . 4)) ((c meth c (c (? . 42) q after-delete)) q (152247 . 5)) ((c meth c (c (? . 2) q edit-menu:select-all-callback)) q (51986 . 7)) ((c def c (c (? . 0) q text:return%)) q (160422 . 3)) ((c meth c (c (? . 11) q for-each-frame)) q (76620 . 3)) ((c meth c (c (? . 23) q backward-match)) q (11961 . 6)) ((c def c (c (? . 0) q color-prefs:add-background-preferences-panel)) q (4696 . 2)) ((c def c (c (? . 0) q frame:searchable%)) q (74203 . 4)) ((c def c (c (? . 4) q test:button-push)) q (166201 . 7)) ((c def c (c (? . 25) q gui-utils:get-clickback-delta)) q (81872 . 4)) ((c def c (c (? . 0) q panel:horizontal-dragable<%>)) q (111482 . 3)) ((c meth c (c (? . 10) q reset-input-box)) q (156466 . 2)) ((c meth c (c (? . 7) q uncomment-selection)) q (126078 . 5)) ((c meth c (c (? . 2) q edit-menu:get-replace-all-item)) q (57522 . 3)) ((c def c (c (? . 0) q text:info%)) q (160995 . 3)) ((c def c (c (? . 0) q menu:can-restore-underscore-mixin)) q (89707 . 4)) ((c def c (? . 53)) q (32871 . 4)) ((c def c (c (? . 0) q text:return<%>)) q (143394 . 3)) ((c meth c (c (? . 20) q put-file)) q (21480 . 5)) ((c meth c (c (? . 2) q file-menu:revert-callback)) q (42333 . 7)) ((c def c (c (? . 0) q text:keymap%)) q (160327 . 3)) ((c meth c (c (? . 42) q after-load-file)) q (152815 . 3)) ((c def c (c (? . 0) q group:get-the-frame-group)) q (77347 . 2)) ((c meth c (c (? . 7) q flash-forward-sexp)) q (126553 . 3)) ((c meth c (c (? . 54) q get-keymaps)) q (142843 . 3)) ((c form c (c (? . 0) q scheme:text<%>)) q (169477 . 2)) ((c def c (c (? . 0) q handler:size-recently-opened-files)) q (84157 . 3)) ((c meth c (c (? . 34) q hide-search)) q (70219 . 2)) ((c def c (c (? . 0) q text:range-style)) q (162192 . 3)) ((c meth c (c (? . 2) q edit-menu:show/hide-replace-on-demand)) q (56416 . 4)) ((c def c (c (? . 0) q text:input-box%)) q (160228 . 3)) ((c meth c (c (? . 2) q edit-menu:create-copy?)) q (49482 . 3)) ((c meth c (c (? . 57) q set-macro-recording)) q (38196 . 3)) ((c def c (c (? . 8) q set-refresh-splash-on-gauge-change?!)) q (165863 . 5)) ((c meth c (c (? . 16) q after-set-size-constraint)) q (106676 . 2)) ((c meth c (c (? . 5) q on-new-image-snip)) q (93592 . 14)) ((c meth c (c (? . 2) q file-menu:save-as-callback)) q (43933 . 7)) ((c meth c (c (? . 22) q set-styles-fixed)) q (133177 . 3)) ((c meth c (c (? . 2) q file-menu:between-print-and-close)) q (45357 . 4)) ((c def c (c (? . 0) q frame:status-line%)) q (73833 . 3)) ((c meth c (c (? . 75) q show)) q (33639 . 3)) ((c def c (? . 41)) q (111571 . 5)) ((c meth c (c (? . 57) q overwrite-status-changed)) q (38287 . 2)) ((c def c (c (? . 0) q keymap:setup-file)) q (88314 . 3)) ((c meth c (c (? . 78) q on-disable-surrogate)) q (129050 . 2)) ((c meth c (c (? . 16) q can-insert?)) q (107300 . 5)) ((c meth c (c (? . 55) q get-can-close-parent)) q (22533 . 3)) ((c form c (c (? . 0) q scheme:short-sym->style-name)) q (170027 . 2)) ((c def c (c (? . 3) q preferences:get-prefs-snapshot)) q (122177 . 2)) ((c meth c (c (? . 2) q file-menu:get-close-item)) q (45483 . 3)) ((c meth c (c (? . 66) q update-info)) q (38819 . 2)) ((c def c (? . 80)) q (22897 . 4)) ((c def c (c (? . 0) q finder:common-get-file-list)) q (31370 . 13)) ((c meth c (c (? . 27) q get-map-function-table)) q (85002 . 2)) ((c def c (c (? . 0) q text:line-spacing<%>)) q (135698 . 3)) ((c meth c (c (? . 47) q lock)) q (13772 . 2)) ((c meth c (c (? . 2) q file-menu:get-open-recent-item)) q (41304 . 3)) ((c meth c (c (? . 87) q on-activate)) q (35808 . 3)) ((c def c (c (? . 0) q finder:default-filters)) q (27298 . 4)) ((c def c (c (? . 0) q color-prefs:get-current-color-scheme-name)) q (7320 . 3)) ((c def c (? . 105)) q (158129 . 4)) ((c def c (c (? . 0) q color-prefs:get-color-scheme-names)) q (8690 . 2)) ((c meth c (c (? . 53) q on-superwindow-show)) q (33177 . 3)) ((c meth c (c (? . 52) q can-insert?)) q (154885 . 4)) ((c meth c (c (? . 37) q get-menu-bar%)) q (32189 . 2)) ((c form c (c (? . 0) q scheme:text-balanced?)) q (170063 . 2)) ((c def c (c (? . 0) q frame:lookup-focus-table)) q (76097 . 4)) ((c meth c (c (? . 45) q get-corner-bitmap)) q (16262 . 3)) ((c meth c (c (? . 5) q on-default-char)) q (90936 . 7)) ((c meth c (c (? . 17) q on-paint)) q (159271 . 2)) ((c def c (? . 68)) q (36719 . 3))))
+77569
+((3) 0 () 115 ((q lib "framework/main.rkt") (c (? . 0) q frame:standard-menus<%>) (c (? . 0) q mode:surrogate-text%) (c (? . 0) q frame:info<%>) (c (? . 0) q text:ports<%>) (q lib "framework/test.rkt") (c (? . 0) q frame:searchable<%>) (q lib "framework/preferences.rkt") (c (? . 0) q color:text<%>) (c (? . 0) q racket:text<%>) (c (? . 0) q mode:host-text-mixin) (q lib "framework/gui-utils.rkt") (c (? . 0) q frame:searchable-mixin) (q lib "framework/splash.rkt") (c (? . 0) q editor-snip:decorated<%>) (c (? . 0) q panel:single-window-mixin) (c (? . 0) q frame:text-info<%>) (c (? . 0) q frame:status-line<%>) (c (? . 0) q editor:basic<%>) (c (? . 0) q text:all-string-snips-mixin) (c (? . 0) q frame:editor<%>) (c (? . 0) q group:%) (c (? . 0) q frame:editor-mixin) (c (? . 0) q text:autocomplete<%>) (c (? . 0) q text:basic<%>) (q lib "framework/notify.rkt") (c (? . 0) q frame:delegate<%>) (c (? . 0) q text:searching-mixin) (c (? . 0) q frame:size-pref-mixin) (c (? . 0) q text:info-mixin) (c (? . 0) q color:text-mixin) (c (? . 0) q text:basic-mixin) (c (? . 0) q text:1-pixel-tab-snip%) (c (? . 0) q text:inline-overview<%>) (c (? . 0) q text:line-numbers-mixin) (c (? . 0) q text:delegate-mixin) (c (? . 0) q racket:sexp-snip%) (c (? . 0) q menu:can-restore-underscore<%>) (c (? . 0) q text:file-mixin) (c (? . 0) q panel:horizontal-dragable-mixin) (c (? . 0) q frame:delegate-mixin) (c (? . 0) q editor:file<%>) (c (? . 0) q text:all-string-snips<%>) (c (? . 0) q frame:basic<%>) (c (? . 0) q canvas:delegate-mixin) (c (? . 0) q editor:backup-autosave<%>) (c (? . 0) q text:wide-snip<%>) (c (? . 0) q frame:size-pref<%>) (c (? . 25) q notify:notify-box%) (c (? . 0) q text:delegate<%>) (c (? . 0) q text:normalize-paste<%>) (q lib "framework/framework-sig.rkt") (c (? . 0) q editor:basic-mixin) (c (? . 0) q panel:discrete-child<%>) (q lib "framework/decorated-editor-snip.rkt") (c (? . 0) q racket:sexp-snip<%>) (c (? . 0) q panel:dragable<%>) (c (? . 0) q text:input-box-mixin) (c (? . 0) q frame:focus-table-mixin) (c (? . 0) q frame:basic-mixin) (c (? . 0) q frame:text-mixin) (c (? . 0) q text:ascii-art-enlarge-boxes<%>) (c (? . 0) q frame:searchable-text-mixin) (c (? . 0) q text:clever-file-format-mixin) (c (? . 0) q editor-snip:decorated%) (c (? . 0) q frame:register-group-mixin) (c (? . 0) q panel:dragable-mixin) (c (? . 0) q frame:text-info-mixin) (c (? . 0) q text:1-pixel-string-snip%) (c (? . 0) q keymap:aug-keymap<%>) (c (? . 0) q comment-box:snip%) (c (? . 0) q racket:text-mode-mixin) (c (? . 0) q text:searching<%>) (c (? . 0) q editor-snip:decorated-mixin) (c (? . 0) q editor:backup-autosave-mixin) (c (? . 0) q text:autocomplete-mixin) (c (? . 0) q number-snip:snip-class%) (c (? . 0) q frame:standard-menus-mixin) (c (? . 0) q frame:pasteboard-mixin) (c (? . 0) q text:first-line<%>) (c (? . 0) q panel:single-mixin) (c (? . 0) q text:line-numbers<%>) (c (? . 0) q text:crlf-line-endings-mixin) (c (? . 0) q panel:splitter-mixin) (c (? . 0) q text:ascii-art-enlarge-boxes-mixin) (c (? . 0) q editor:file-mixin) (c (? . 0) q mode:surrogate-text<%>) (c (? . 0) q text:return-mixin) (c (? . 0) q canvas:info-mixin) (c (? . 0) q panel:vertical-dragable-mixin) (c (? . 0) q text:ports-mixin) (c (? . 0) q menu:can-restore<%>) (c (? . 0) q text:nbsp->space-mixin) (c (? . 0) q mode:host-text<%>) (c (? . 0) q keymap:aug-keymap-mixin) (c (? . 0) q canvas:wide-snip<%>) (c (? . 0) q editor:font-size-message%) (c (? . 0) q text:normalize-paste-mixin) (c (? . 0) q editor-snip:decorated-snipclass%) (c (? . 0) q color:text-mode<%>) (c (? . 0) q autosave:autosavable<%>) (c (? . 0) q panel:discrete-sizes<%>) (c (? . 0) q editor:keymap<%>) (c (? . 0) q text:file<%>) (c (? . 0) q text:first-line-mixin) (c (? . 0) q racket:text-mixin) (c (? . 0) q editor:info-mixin) (c (? . 0) q frame:info-mixin) (c (? . 0) q text:column-guide-mixin) (c (? . 0) q panel:single<%>) (c (? . 0) q text:foreground-color-mixin) (c (? . 0) q text:hide-caret/selection-mixin) (c (? . 0) q color:text-mode-mixin) (c (? . 0) q canvas:wide-snip-mixin) (c (? . 0) q frame:status-line-mixin)) () (h ! (equal) ((c meth c (c (? . 6) q set-text-to-search)) q (70455 . 3)) ((c meth c (c (? . 1) q file-menu:create-new?)) q (40337 . 2)) ((c def c (c (? . 5) q test:get-active-top-level-window)) q (177210 . 3)) ((c meth c (c (? . 105) q get-word-at)) q (133449 . 3)) ((c meth c (c (? . 21) q clear)) q (77519 . 2)) ((c def c (c (? . 0) q handler:handler?)) q (82885 . 3)) ((c def c (c (? . 0) q text:get-completions/manuals)) q (170735 . 3)) ((c meth c (c (? . 3) q get-info-panel)) q (37882 . 3)) ((c meth c (c (? . 9) q find-down-sexp)) q (132007 . 4)) ((c meth c (c (? . 2) q on-set-size-constraint)) q (98273 . 6)) ((c meth c (c (? . 1) q file-menu:new-string)) q (40765 . 2)) ((c meth c (c (? . 4) q clear-box-input-port)) q (164358 . 2)) ((c def c (c (? . 11) q gui-utils:show-busy-cursor)) q (79942 . 4)) ((c def c (? . 75)) q (166849 . 4)) ((c def c (c (? . 0) q text:autowrap%)) q (168457 . 3)) ((c meth c (c (? . 2) q on-delete)) q (97179 . 9)) ((c meth c (c (? . 3) q set-info-canvas)) q (37594 . 3)) ((c def c (c (? . 0) q frame:current-icon)) q (76057 . 10)) ((c meth c (c (? . 24) q initial-autowrap-bitmap)) q (139437 . 3)) ((c meth c (c (? . 98) q read)) q (18380 . 4)) ((c meth c (c (? . 44) q on-superwindow-show)) q (1128 . 3)) ((c def c (c (? . 0) q panel:horizontal-dragable%)) q (116916 . 4)) ((c def c (? . 15)) q (113438 . 5)) ((c meth c (c (? . 16) q anchor-status-changed)) q (38788 . 2)) ((c form c (c (? . 54) q decorated-editor-snip<%>)) q (16577 . 2)) ((c meth c (c (? . 4) q get-out-port)) q (164829 . 2)) ((c def c (c (? . 0) q handler:edit-file)) q (83905 . 6)) ((c def c (? . 19)) q (148436 . 4)) ((c meth c (c (? . 102) q get-keymaps)) q (22436 . 3)) ((c form c (c (? . 0) q scheme:text-mode%)) q (177874 . 2)) ((c meth c (c (? . 12) q edit-menu:create-find-again-backwards?)) q (72433 . 3)) ((c meth c (c (? . 8) q skip-whitespace)) q (11981 . 8)) ((c def c (c (? . 0) q text:range-caret-space?)) q (170126 . 3)) ((c def c (? . 40)) q (69508 . 5)) ((c def c (c (? . 0) q keymap:setup-global)) q (89295 . 3)) ((c meth c (c (? . 20) q get-entire-label)) q (61938 . 2)) ((c def c (c (? . 7) q preferences:register-save-callback)) q (124866 . 3)) ((c meth c (c (? . 2) q on-new-image-snip)) q (94606 . 14)) ((c meth c (c (? . 10) q can-delete?)) q (108272 . 5)) ((c meth c (c (? . 2) q on-display-size)) q (92483 . 5)) ((c def c (c (? . 25) q notify:menu-group/notify-box)) q (111487 . 8)) ((c def c (c (? . 5) q test:keystroke)) q (175589 . 6)) ((c meth c (c (? . 6) q search-replace)) q (70257 . 2)) ((c def c (c (? . 5) q test:reraise-error)) q (176942 . 2)) ((c def c (? . 50)) q (147321 . 3)) ((c def c (c (? . 0) q path-utils:generate-autosave-name)) q (120567 . 3)) ((c def c (c (? . 0) q text:send-snip-to-port)) q (171135 . 4)) ((c def c (c (? . 13) q set-splash-bitmap)) q (172958 . 3)) ((c def c (c (? . 0) q preferences:add-check)) q (122992 . 11)) ((c def c (c (? . 7) q preferences:restore-prefs-snapshot)) q (125928 . 3)) ((c form c (c (? . 0) q scheme:sexp-snip%)) q (177928 . 2)) ((c meth c (c (? . 8) q backward-containing-sexp)) q (12522 . 6)) ((c def c (c (? . 7) q preferences:layer?)) q (126258 . 3)) ((c meth c (c (? . 9) q transpose-sexp)) q (132552 . 3)) ((c meth c (c (? . 10) q on-event)) q (104775 . 3)) ((c def c (c (? . 11) q gui-utils:cancel-on-right?)) q (78899 . 2)) ((c def c (c (? . 0) q frame:pasteboard%)) q (74844 . 3)) ((c def c (? . 89)) q (116319 . 4)) ((c meth c (c (? . 59) q can-exit?)) q (33505 . 2)) ((c def c (c (? . 0) q editor:set-change-font-size-when-monitors-change?)) q (26601 . 3)) ((c def c (? . 85)) q (23324 . 4)) ((c meth c (c (? . 1) q file-menu:close-help-string)) q (46535 . 3)) ((c meth c (c (? . 6) q search)) q (70144 . 3)) ((c meth c (c (? . 17) q update-status-line)) q (36580 . 5)) ((c meth c (c (? . 9) q select-down-sexp)) q (132494 . 2)) ((c def c (? . 46)) q (151396 . 3)) ((c meth c (c (? . 14) q get-position)) q (16978 . 3)) ((c def c (c (? . 0) q keymap:get-editor)) q (87997 . 2)) ((c def c (c (? . 5) q test:set-choice!)) q (175234 . 4)) ((c def c (? . 8)) q (8767 . 3)) ((c meth c (c (? . 23) q completion-mode-key-event?)) q (166545 . 4)) ((c meth c (c (? . 10) q after-edit-sequence)) q (107866 . 2)) ((c meth c (c (? . 35) q resized)) q (159467 . 5)) ((c meth c (c (? . 9) q select-backward-sexp)) q (132376 . 2)) ((c meth c (c (? . 12) q make-root-area-container)) q (73086 . 3)) ((c def c (c (? . 0) q color:text-mode%)) q (15582 . 3)) ((c meth c (c (? . 36) q write)) q (127078 . 3)) ((c def c (c (? . 13) q shutdown-splash)) q (172704 . 2)) ((c meth c (c (? . 1) q edit-menu:cut-string)) q (49530 . 2)) ((c def c (c (? . 0) q handler:handler-name)) q (82951 . 3)) ((c meth c (c (? . 14) q get-corner-bitmap)) q (16689 . 3)) ((c meth c (c (? . 33) q set-inline-overview-enabled?)) q (141621 . 4)) ((c meth c (c (? . 52) q after-save-file)) q (20845 . 3)) ((c meth c (c (? . 18) q close)) q (20008 . 2)) ((c def c (c (? . 0) q editor:standard-style-list<%>)) q (22115 . 3)) ((c meth c (c (? . 1) q file-menu:create-save?)) q (43586 . 3)) ((c form c (c (? . 0) q scheme:init-wordbreak-map)) q (178012 . 2)) ((c def c (c (? . 0) q canvas:wide-snip%)) q (2537 . 3)) ((c def c (c (? . 0) q racket:short-sym->pref-name)) q (135017 . 3)) ((c def c (c (? . 0) q panel:single-pane%)) q (114040 . 3)) ((c form c (c (? . 0) q scheme:get-white-on-black-color-prefs-table)) q (178214 . 2)) ((c meth c (c (? . 15) q container-size)) q (113636 . 7)) ((c meth c (c (? . 16) q set-macro-recording)) q (38627 . 3)) ((c def c (c (? . 7) q preferences:get)) q (123440 . 3)) ((c def c (? . 42)) q (148314 . 2)) ((c meth c (c (? . 4) q delete/io)) q (162939 . 4)) ((c meth c (c (? . 34) q show-line-numbers?)) q (169711 . 2)) ((c def c (c (? . 0) q text:nbsp->space%)) q (167659 . 3)) ((c meth c (c (? . 9) q tabify-selection)) q (129523 . 5)) ((c def c (c (? . 0) q finder:std-get-file)) q (30565 . 12)) ((c def c (c (? . 0) q icon:get-left/right-cursor)) q (85498 . 2)) ((c def c (c (? . 0) q frame:searchable-text<%>)) q (73236 . 4)) ((c meth c (c (? . 1) q file-menu:quit-help-string)) q (47356 . 3)) ((c meth c (c (? . 17) q close-status-line)) q (36492 . 3)) ((c def c (c (? . 13) q get-splash-width)) q (174314 . 2)) ((c meth c (c (? . 1) q file-menu:open-string)) q (41581 . 2)) ((c meth c (c (? . 4) q do-submission)) q (163164 . 2)) ((c meth c (c (? . 1) q help-menu:about-help-string)) q (61445 . 3)) ((c meth c (c (? . 79) q first-line-currently-drawn-specially?)) q (142899 . 3)) ((c meth c (c (? . 18) q save-file-out-of-date?)) q (19033 . 2)) ((c def c (c (? . 7) q preferences:set)) q (123510 . 4)) ((c def c (c (? . 0) q preferences:add-can-close-dialog-callback)) q (122897 . 3)) ((c meth c (c (? . 19) q on-insert)) q (148586 . 5)) ((c meth c (c (? . 22) q file-menu:create-save-as?)) q (67163 . 2)) ((c meth c (c (? . 20) q get-canvas%)) q (62149 . 3)) ((c meth c (c (? . 1) q edit-menu:get-preferences-item)) q (59772 . 3)) ((c def c (c (? . 0) q icon:get-eof-bitmap)) q (85206 . 2)) ((c meth c (c (? . 1) q edit-menu:replace-help-string)) q (57870 . 3)) ((c meth c (c (? . 1) q edit-menu:select-all-string)) q (52836 . 3)) ((c def c (c (? . 0) q pasteboard:keymap%)) q (120161 . 3)) ((c meth c (c (? . 8) q start-colorer)) q (8837 . 22)) ((c meth c (c (? . 1) q edit-menu:get-clear-item)) q (51409 . 3)) ((c meth c (c (? . 1) q file-menu:open-help-string)) q (41655 . 3)) ((c def c (c (? . 0) q canvas:delegate<%>)) q (903 . 3)) ((c def c (c (? . 7) q preferences:low-level-put-preferences)) q (125403 . 5)) ((c meth c (c (? . 21) q frame-label-changed)) q (76893 . 3)) ((c meth c (c (? . 2) q on-edit-sequence)) q (92684 . 5)) ((c def c (c (? . 0) q menu:can-restore-underscore-mixin)) q (90605 . 4)) ((c meth c (c (? . 27) q get-keymaps)) q (150434 . 3)) ((c meth c (c (? . 22) q set-label)) q (66045 . 3)) ((c meth c (c (? . 10) q on-load-file)) q (104927 . 5)) ((c meth c (c (? . 1) q file-menu:quit-string)) q (47282 . 2)) ((c def c (? . 17)) q (36327 . 3)) ((c meth c (c (? . 22) q file-menu:between-save-as-and-print)) q (67510 . 4)) ((c meth c (c (? . 76) q read)) q (111904 . 4)) ((c def c (c (? . 0) q preferences:put-preferences/gui)) q (120787 . 5)) ((c def c (? . 37)) q (90357 . 3)) ((c meth c (c (? . 1) q edit-menu:create-find?)) q (53241 . 3)) ((c meth c (c (? . 2) q on-local-char)) q (93776 . 7)) ((c def c (? . 23)) q (166088 . 3)) ((c def c (c (? . 0) q autosave:register)) q (235 . 4)) ((c meth c (c (? . 1) q edit-menu:create-clear?)) q (51518 . 3)) ((c meth c (c (? . 2) q after-load-file)) q (100255 . 7)) ((c meth c (c (? . 1) q file-menu:open-recent-callback)) q (41934 . 6)) ((c def c (c (? . 0) q number-snip:make-repeating-decimal-snip)) q (112027 . 6)) ((c meth c (c (? . 1) q file-menu:between-save-as-and-print)) q (44958 . 4)) ((c meth c (c (? . 61) q get-ascii-art-enlarge)) q (142258 . 3)) ((c def c (c (? . 11) q gui-utils:unsaved-warning)) q (80589 . 16)) ((c meth c (c (? . 18) q can-close?)) q (19951 . 2)) ((c meth c (c (? . 24) q copy-to)) q (139106 . 9)) ((c def c (c (? . 0) q racket:get-keymap)) q (134683 . 2)) ((c meth c (c (? . 30) q on-set-size-constraint)) q (14372 . 2)) ((c def c (? . 26)) q (68928 . 4)) ((c meth c (c (? . 1) q file-menu:create-open-recent?)) q (41850 . 3)) ((c meth c (c (? . 1) q file-menu:print-string)) q (45632 . 2)) ((c meth c (c (? . 4) q get-in-port)) q (164709 . 2)) ((c meth c (c (? . 1) q edit-menu:create-paste?)) q (50712 . 3)) ((c meth c (c (? . 8) q thaw-colorer)) q (10526 . 5)) ((c meth c (c (? . 8) q set-spell-current-dict)) q (11395 . 3)) ((c meth c (c (? . 110) q get-fixed-style)) q (145145 . 3)) ((c meth c (c (? . 6) q unhide-search)) q (70708 . 7)) ((c meth c (c (? . 20) q get-canvas<%>)) q (62228 . 2)) ((c form c (c (? . 25) q notify:define-notify)) q (110221 . 4)) ((c meth c (c (? . 84) q on-local-char)) q (142506 . 4)) ((c meth c (c (? . 26) q set-delegated-text)) q (69136 . 3)) ((c constructor c (? . 28)) q (34516 . 16)) ((c meth c (c (? . 1) q edit-menu:create-replace-all?)) q (58068 . 3)) ((c meth c (c (? . 1) q get-file-menu)) q (40005 . 2)) ((c def c (c (? . 0) q text:input-box<%>)) q (165783 . 3)) ((c meth c (c (? . 27) q after-insert)) q (150514 . 5)) ((c def c (c (? . 0) q number-snip:is-number-snip?)) q (112475 . 3)) ((c meth c (c (? . 3) q hide-info)) q (38011 . 2)) ((c def c (c (? . 0) q text:range?)) q (169879 . 3)) ((c meth c (c (? . 101) q get-orientation)) q (118054 . 2)) ((c meth c (c (? . 1) q edit-menu:replace-all-help-string)) q (58683 . 3)) ((c meth c (c (? . 28) q on-move)) q (35733 . 5)) ((c def c (c (? . 0) q racket:setup-keymap)) q (135358 . 3)) ((c def c (c (? . 7) q exn:unknown-preference?)) q (125277 . 3)) ((c meth c (c (? . 82) q after-load-file)) q (161971 . 4)) ((c def c (? . 29)) q (160570 . 5)) ((c meth c (c (? . 3) q get-info-canvas)) q (37710 . 3)) ((c meth c (c (? . 49) q get-delegate)) q (151875 . 3)) ((c meth c (c (? . 48) q remove-all-listeners)) q (109912 . 2)) ((c meth c (c (? . 1) q file-menu:between-new-and-open)) q (40917 . 4)) ((c meth c (c (? . 9) q flash-backward-sexp)) q (131598 . 3)) ((c meth c (c (? . 6) q get-case-sensitive-search?)) q (71373 . 3)) ((c def c (? . 41)) q (22886 . 3)) ((c meth c (c (? . 29) q set-overwrite-mode)) q (160826 . 3)) ((c meth c (c (? . 24) q unhighlight-ranges)) q (137459 . 10)) ((c meth c (c (? . 4) q get-box-input-text%)) q (165160 . 3)) ((c meth c (c (? . 68) q copy)) q (152452 . 2)) ((c meth c (c (? . 8) q is-frozen?)) q (10417 . 2)) ((c meth c (c (? . 30) q after-insert)) q (14435 . 2)) ((c def c (c (? . 0) q editor:info<%>)) q (24817 . 3)) ((c form c (c (? . 0) q scheme:text-mode-mixin)) q (177844 . 2)) ((c meth c (c (? . 9) q box-comment-out-selection)) q (130462 . 6)) ((c def c (c (? . 0) q text:nbsp->space<%>)) q (145552 . 3)) ((c def c (c (? . 0) q color-prefs:color-scheme-style-name?)) q (7519 . 3)) ((c def c (? . 31)) q (140055 . 5)) ((c meth c (c (? . 1) q edit-menu:get-show/hide-replace-item)) q (56303 . 3)) ((c def c (c (? . 0) q color-model:rgb-color-distance)) q (2746 . 13)) ((c meth c (c (? . 8) q classify-position)) q (13506 . 4)) ((c meth c (c (? . 2) q on-new-box)) q (94337 . 7)) ((c meth c (c (? . 18) q get-pos/text-dc-location)) q (20295 . 7)) ((c def c (c (? . 0) q keymap:remove-user-keybindings-file)) q (86786 . 4)) ((c meth c (c (? . 4) q get-out-style-delta)) q (164419 . 3)) ((c meth c (c (? . 47) q adjust-size-when-monitor-setup-changes?)) q (34280 . 3)) ((c def c (? . 39)) q (116555 . 4)) ((c meth c (c (? . 3) q get-info-editor)) q (37798 . 3)) ((c meth c (c (? . 4) q get-insertion-point)) q (163218 . 2)) ((c def c (c (? . 0) q text:wide-snip-mixin)) q (151658 . 4)) ((c def c (? . 73)) q (17139 . 4)) ((c def c (c (? . 13) q set-splash-progress-bar?!)) q (173791 . 3)) ((c form c (c (? . 0) q scheme:text-balanced?)) q (178336 . 2)) ((c meth c (c (? . 3) q lock-status-changed)) q (37482 . 2)) ((c def c (? . 90)) q (165244 . 4)) ((c meth c (c (? . 24) q unhighlight-range)) q (136808 . 12)) ((c meth c (c (? . 1) q edit-menu:find-from-selection-callback)) q (54033 . 7)) ((c meth c (c (? . 18) q run-after-edit-sequence)) q (18728 . 5)) ((c meth c (c (? . 31) q put-file)) q (141273 . 5)) ((c meth c (c (? . 32) q split)) q (154886 . 7)) ((c meth c (c (? . 1) q edit-menu:paste-help-string)) q (51202 . 3)) ((c meth c (c (? . 21) q locate-file)) q (77667 . 4)) ((c meth c (c (? . 72) q finish-pending-search-work)) q (149865 . 2)) ((c def c (c (? . 5) q label-of-enabled/shown-button-in-top-level-window?)) q (177311 . 4)) ((c meth c (c (? . 32) q draw)) q (156376 . 21)) ((c def c (c (? . 0) q icon:get-lock-bitmap)) q (85323 . 2)) ((c meth c (c (? . 3) q determine-width)) q (37221 . 7)) ((c def c (? . 3)) q (37150 . 3)) ((c def c (c (? . 0) q text:wide-snip%)) q (167949 . 3)) ((c meth c (c (? . 26) q delegated-text-shown?)) q (69252 . 2)) ((c def c (c (? . 0) q frame:info%)) q (73995 . 3)) ((c meth c (c (? . 33) q get-inline-overview-enabled?)) q (141538 . 3)) ((c def c (? . 1)) q (39547 . 3)) ((c meth c (c (? . 2) q can-change-style?)) q (100831 . 9)) ((c def c (? . 21)) q (76683 . 3)) ((c def c (c (? . 0) q frame:text-info%)) q (74073 . 3)) ((c def c (c (? . 0) q frame:size-pref%)) q (73907 . 3)) ((c def c (c (? . 0) q racket:get-wordbreak-map)) q (135198 . 2)) ((c meth c (c (? . 34) q set-line-numbers-color)) q (169780 . 3)) ((c meth c (c (? . 4) q set-unread-start-point)) q (163449 . 3)) ((c meth c (c (? . 1) q get-menu-item%)) q (39787 . 3)) ((c meth c (c (? . 1) q help-menu:create-about?)) q (60933 . 3)) ((c meth c (c (? . 35) q on-paint)) q (158610 . 19)) ((c meth c (c (? . 16) q add-line-number-menu-items)) q (38924 . 4)) ((c meth c (c (? . 64) q copy)) q (18054 . 3)) ((c meth c (c (? . 23) q get-autocomplete-background-color)) q (166325 . 3)) ((c def c (c (? . 0) q handler:current-create-new-window)) q (84184 . 5)) ((c def c (? . 24)) q (135443 . 4)) ((c def c (c (? . 0) q icon:get-autowrap-bitmap)) q (85262 . 2)) ((c def c (c (? . 13) q start-splash)) q (171249 . 24)) ((c meth c (c (? . 1) q edit-menu:find-callback)) q (53318 . 6)) ((c def c (c (? . 5) q test:button-push)) q (174475 . 7)) ((c meth c (c (? . 4) q insert-before)) q (163809 . 3)) ((c def c (? . 80)) q (112869 . 4)) ((c def c (c (? . 11) q gui-utils:format-literal-label)) q (78633 . 8)) ((c def c (c (? . 0) q text:standard-style-list%)) q (168041 . 3)) ((c meth c (c (? . 38) q after-save-file)) q (162790 . 2)) ((c meth c (c (? . 12) q edit-menu:find-case-sensitive-callback)) q (72792 . 3)) ((c meth c (c (? . 23) q get-word-at)) q (166747 . 3)) ((c meth c (c (? . 36) q get-extent)) q (127919 . 22)) ((c def c (c (? . 0) q path-utils:generate-backup-name)) q (120699 . 3)) ((c def c (c (? . 0) q color-prefs:marshall-style-delta)) q (5589 . 3)) ((c def c (? . 100)) q (123 . 2)) ((c meth c (c (? . 55) q get-saved-snips)) q (126532 . 3)) ((c meth c (c (? . 2) q on-default-char)) q (91910 . 7)) ((c def c (c (? . 5) q test:current-get-eventspaces)) q (176431 . 4)) ((c meth c (c (? . 10) q on-change-style)) q (106723 . 5)) ((c def c (c (? . 11) q gui-utils:get-clickback-delta)) q (82754 . 4)) ((c def c (? . 77)) q (61640 . 4)) ((c def c (c (? . 0) q exit:user-oks-exit)) q (27909 . 2)) ((c meth c (c (? . 1) q edit-menu:undo-string)) q (48067 . 2)) ((c meth c (c (? . 12) q edit-menu:replace-all-callback)) q (72522 . 3)) ((c meth c (c (? . 37) q erase-underscores)) q (90452 . 2)) ((c meth c (c (? . 35) q after-change-style)) q (160032 . 5)) ((c def c (c (? . 0) q panel:vertical-discrete-sizes%)) q (118675 . 3)) ((c meth c (c (? . 1) q help-menu:before-about)) q (60709 . 4)) ((c def c (c (? . 0) q text:info%)) q (168950 . 3)) ((c meth c (c (? . 2) q can-do-edit-operation?)) q (102197 . 17)) ((c meth c (c (? . 107) q on-close)) q (38503 . 2)) ((c def c (c (? . 11) q gui-utils:get-choice)) q (81327 . 24)) ((c meth c (c (? . 1) q edit-menu:between-redo-and-cut)) q (48894 . 4)) ((c meth c (c (? . 35) q unhighlight-range)) q (158030 . 12)) ((c def c (? . 45)) q (23769 . 3)) ((c def c (c (? . 0) q icon:get-gc-off-bitmap)) q (85679 . 2)) ((c meth c (c (? . 2) q on-new-tab-snip)) q (98072 . 5)) ((c meth c (c (? . 1) q edit-menu:between-clear-and-select-all)) q (52089 . 4)) ((c def c (c (? . 13) q add-splash-icon)) q (172779 . 5)) ((c meth c (c (? . 1) q file-menu:open-recent-help-string)) q (42362 . 3)) ((c def c (c (? . 7) q preferences:set-default)) q (123867 . 13)) ((c constructor c (? . 60)) q (68314 . 4)) ((c meth c (c (? . 38) q can-delete?)) q (162644 . 4)) ((c def c (c (? . 0) q color:misspelled-text-color-style-name)) q (15820 . 2)) ((c meth c (c (? . 39) q get-vertical?)) q (116723 . 2)) ((c meth c (c (? . 9) q backward-sexp)) q (131703 . 3)) ((c meth c (c (? . 4) q send-eof-to-in-port)) q (164062 . 2)) ((c meth c (c (? . 24) q after-set-port-unsaved-name)) q (139782 . 2)) ((c def c (c (? . 0) q keymap:call/text-keymap-initializer)) q (87778 . 3)) ((c form c (c (? . 51) q framework^)) q (178365 . 2)) ((c meth c (c (? . 92) q on-insert)) q (145760 . 5)) ((c meth c (c (? . 9) q tabify)) q (129392 . 3)) ((c meth c (c (? . 40) q get-editor%)) q (69988 . 3)) ((c meth c (c (? . 43) q get-filename)) q (33091 . 3)) ((c meth c (c (? . 23) q get-all-words)) q (166674 . 2)) ((c meth c (c (? . 1) q edit-menu:show/hide-replace-callback)) q (56514 . 7)) ((c meth c (c (? . 63) q on-save-file)) q (161482 . 6)) ((c def c (c (? . 0) q color-prefs:set-current-color-scheme)) q (7247 . 3)) ((c meth c (c (? . 22) q can-close?)) q (65938 . 2)) ((c meth c (c (? . 1) q edit-menu:cut-on-demand)) q (49414 . 4)) ((c meth c (c (? . 22) q file-menu:save-as-callback)) q (66952 . 5)) ((c meth c (c (? . 20) q get-editor%)) q (62303 . 3)) ((c def c (c (? . 13) q set-splash-event-callback)) q (173960 . 3)) ((c meth c (c (? . 1) q edit-menu:find-case-sensitive-string)) q (59456 . 3)) ((c meth c (c (? . 41) q user-saves-or-not-modified?)) q (23210 . 4)) ((c def c (c (? . 0) q group:can-close-check)) q (77885 . 2)) ((c meth c (c (? . 78) q get-editor<%>)) q (68864 . 2)) ((c meth c (c (? . 42) q all-string-snips?)) q (148364 . 2)) ((c meth c (c (? . 1) q help-menu:after-about)) q (61526 . 4)) ((c meth c (c (? . 67) q on-close)) q (39196 . 2)) ((c meth c (c (? . 43) q make-visible)) q (33213 . 3)) ((c meth c (c (? . 4) q insert/io)) q (163057 . 4)) ((c def c (c (? . 0) q preferences:add-editor-checkbox-panel)) q (121904 . 2)) ((c meth c (c (? . 4) q clear-input-port)) q (164301 . 2)) ((c meth c (c (? . 58) q on-close)) q (34148 . 2)) ((c def c (c (? . 0) q racket:set-mode-mixin)) q (134056 . 4)) ((c def c (c (? . 0) q keymap:add-to-right-button-menu)) q (87049 . 10)) ((c def c (? . 57)) q (165849 . 4)) ((c meth c (c (? . 1) q file-menu:revert-callback)) q (42764 . 7)) ((c def c (c (? . 0) q preferences:add-on-close-dialog-callback)) q (122806 . 3)) ((c def c (c (? . 0) q text:hide-caret/selection<%>)) q (145227 . 3)) ((c def c (c (? . 0) q editor:set-default-font-color)) q (26698 . 5)) ((c meth c (c (? . 3) q is-info-hidden?)) q (38061 . 2)) ((c def c (c (? . 0) q handler:install-recent-items)) q (84535 . 3)) ((c def c (c (? . 5) q test:new-window)) q (176594 . 3)) ((c def c (? . 44)) q (980 . 4)) ((c meth c (c (? . 20) q get-label-prefix)) q (61998 . 2)) ((c def c (c (? . 0) q group:add-to-windows-menu)) q (77933 . 3)) ((c def c (c (? . 0) q text:snip-special?)) q (171071 . 3)) ((c meth c (c (? . 1) q file-menu:get-save-as-item)) q (44173 . 3)) ((c meth c (c (? . 16) q editor-position-changed)) q (38855 . 2)) ((c def c (c (? . 0) q frame:editor%)) q (74464 . 3)) ((c meth c (c (? . 1) q file-menu:get-new-item)) q (40230 . 3)) ((c meth c (c (? . 1) q edit-menu:get-find-previous-item)) q (55480 . 3)) ((c meth c (c (? . 1) q get-checkable-menu-item%)) q (39886 . 3)) ((c meth c (c (? . 2) q after-edit-sequence)) q (100050 . 6)) ((c def c (c (? . 0) q editor:font-size-pref->current-font-size)) q (25887 . 16)) ((c def c (c (? . 0) q editor:add-after-user-keymap)) q (27287 . 6)) ((c meth c (c (? . 45) q autosave?)) q (23917 . 2)) ((c meth c (c (? . 46) q add-tall-snip)) q (151564 . 3)) ((c meth c (c (? . 8) q set-spell-check-strings)) q (11158 . 3)) ((c meth c (c (? . 24) q get-edition-number)) q (139850 . 3)) ((c meth c (c (? . 24) q set-port-unsaved-name)) q (139693 . 3)) ((c def c (c (? . 7) q preferences:low-level-get-preference)) q (125643 . 5)) ((c def c (c (? . 0) q icon:get-paren-highlight-bitmap)) q (85138 . 2)) ((c def c (c (? . 0) q color-prefs:unmarshall-style-delta)) q (5708 . 4)) ((c def c (? . 62)) q (73352 . 5)) ((c meth c (c (? . 1) q file-menu:close-string)) q (46460 . 2)) ((c def c (c (? . 0) q frame:searchable%)) q (74634 . 4)) ((c def c (? . 12)) q (71516 . 4)) ((c meth c (c (? . 8) q reset-regions)) q (10880 . 4)) ((c meth c (c (? . 1) q edit-menu:copy-string)) q (50324 . 2)) ((c meth c (c (? . 37) q restore-underscores)) q (90527 . 3)) ((c def c (? . 106)) q (24890 . 4)) ((c def c (c (? . 0) q editor:get-standard-style-list)) q (27216 . 2)) ((c def c (? . 47)) q (34204 . 3)) ((c meth c (c (? . 10) q on-focus)) q (104853 . 3)) ((c def c (c (? . 13) q refresh-splash)) q (174437 . 2)) ((c meth c (c (? . 1) q edit-menu:create-select-all?)) q (52334 . 3)) ((c meth c (c (? . 1) q edit-menu:cut-help-string)) q (49603 . 3)) ((c def c (c (? . 0) q text:autocomplete-limit)) q (170562 . 4)) ((c meth c (c (? . 10) q on-display-size)) q (104658 . 2)) ((c meth c (c (? . 81) q show-line-numbers!)) q (169095 . 3)) ((c meth c (c (? . 8) q get-spell-check-text)) q (11246 . 2)) ((c meth c (c (? . 1) q edit-menu:find-previous-on-demand)) q (56004 . 4)) ((c def c (c (? . 11) q gui-utils:quote-literal-label)) q (78354 . 7)) ((c meth c (c (? . 1) q edit-menu:redo-callback)) q (48406 . 6)) ((c def c (c (? . 0) q preferences:add-general-checkbox-panel)) q (121965 . 2)) ((c meth c (c (? . 1) q file-menu:create-quit?)) q (46849 . 3)) ((c meth c (c (? . 56) q get-default-percentages)) q (114291 . 4)) ((c def c (? . 4)) q (162900 . 2)) ((c form c (c (? . 0) q scheme:text-mixin)) q (177772 . 2)) ((c meth c (c (? . 1) q file-menu:after-quit)) q (47436 . 3)) ((c meth c (c (? . 70) q get-text)) q (16294 . 2)) ((c meth c (c (? . 48) q set)) q (109637 . 3)) ((c meth c (c (? . 4) q get-box-input-editor-snip%)) q (165070 . 3)) ((c meth c (c (? . 49) q set-delegate)) q (151955 . 3)) ((c def c (c (? . 0) q color-prefs:add-to-preferences-panel)) q (4764 . 5)) ((c def c (c (? . 0) q text:line-spacing<%>)) q (141872 . 3)) ((c def c (c (? . 0) q exit:insert-can?-callback)) q (27704 . 3)) ((c meth c (c (? . 36) q copy)) q (127004 . 2)) ((c meth c (c (? . 24) q highlight-range)) q (135536 . 22)) ((c meth c (c (? . 50) q ask-normalize?)) q (147401 . 2)) ((c meth c (c (? . 18) q on-close)) q (19899 . 2)) ((c meth c (c (? . 12) q edit-menu:create-find-again?)) q (72040 . 3)) ((c meth c (c (? . 31) q after-insert)) q (141128 . 4)) ((c def c (c (? . 0) q keymap:add-to-right-button-menu/before)) q (87496 . 5)) ((c def c (? . 32)) q (154819 . 3)) ((c def c (c (? . 0) q racket:short-sym->style-name)) q (135107 . 3)) ((c form c (c (? . 51) q framework-class^)) q (178400 . 2)) ((c meth c (c (? . 52) q on-focus)) q (21035 . 3)) ((c meth c (c (? . 12) q edit-menu:create-find?)) q (71747 . 2)) ((c def c (c (? . 0) q group:get-the-frame-group)) q (77778 . 2)) ((c meth c (c (? . 1) q file-menu:quit-callback)) q (46926 . 6)) ((c def c (? . 53)) q (118123 . 2)) ((c meth c (c (? . 8) q get-spell-current-dict)) q (11497 . 2)) ((c meth c (c (? . 10) q on-new-string-snip)) q (107085 . 2)) ((c def c (c (? . 0) q frame:pasteboard<%>)) q (68495 . 3)) ((c def c (c (? . 0) q keymap:get-global)) q (88155 . 2)) ((c meth c (c (? . 71) q on-enable-surrogate)) q (133990 . 2)) ((c def c (c (? . 0) q panel:vertical-dragable%)) q (116795 . 4)) ((c meth c (c (? . 53) q get-discrete-heights)) q (118274 . 3)) ((c def c (? . 88)) q (1298 . 4)) ((c meth c (c (? . 1) q edit-menu:get-paste-item)) q (50603 . 3)) ((c meth c (c (? . 86) q on-disable-surrogate)) q (91258 . 3)) ((c meth c (c (? . 2) q on-insert)) q (97524 . 9)) ((c def c (? . 52)) q (20534 . 4)) ((c meth c (c (? . 27) q after-delete)) q (150710 . 5)) ((c meth c (c (? . 1) q edit-menu:find-string)) q (53664 . 2)) ((c def c (c (? . 0) q racket:add-preferences-panel)) q (134631 . 2)) ((c form c (c (? . 54) q decorated-editor-snip%)) q (16477 . 2)) ((c meth c (c (? . 21) q get-frames)) q (76814 . 3)) ((c meth c (c (? . 26) q get-delegated-text)) q (69038 . 3)) ((c def c (c (? . 13) q set-refresh-splash-on-gauge-change?!)) q (174137 . 5)) ((c def c (c (? . 0) q canvas:info<%>)) q (1225 . 3)) ((c meth c (c (? . 4) q get-value-style-delta)) q (164611 . 3)) ((c def c (c (? . 0) q frame:pasteboard-info%)) q (74160 . 3)) ((c meth c (c (? . 52) q can-save-file?)) q (20670 . 5)) ((c meth c (c (? . 2) q on-new-string-snip)) q (97869 . 6)) ((c meth c (c (? . 1) q file-menu:between-print-and-close)) q (45788 . 4)) ((c def c (? . 55)) q (126487 . 2)) ((c def c (c (? . 0) q comment-box:snipclass)) q (16422 . 2)) ((c def c (c (? . 0) q frame:pasteboard-info<%>)) q (39307 . 3)) ((c meth c (c (? . 56) q set-percentages)) q (114762 . 3)) ((c meth c (c (? . 2) q can-load-file?)) q (102869 . 9)) ((c def c (? . 66)) q (115292 . 5)) ((c meth c (c (? . 57) q on-default-char)) q (165985 . 3)) ((c meth c (c (? . 1) q file-menu:get-quit-item)) q (46741 . 3)) ((c def c (c (? . 0) q preferences:hide-dialog)) q (122759 . 2)) ((c meth c (c (? . 35) q after-insert)) q (159644 . 5)) ((c meth c (c (? . 2) q can-save-file?)) q (103240 . 9)) ((c def c (c (? . 7) q exn:struct:unknown-preference)) q (125350 . 2)) ((c def c (c (? . 11) q gui-utils:trim-string)) q (78136 . 7)) ((c def c (? . 58)) q (33927 . 4)) ((c meth c (c (? . 20) q save)) q (62562 . 4)) ((c meth c (c (? . 2) q on-save-file)) q (96069 . 9)) ((c meth c (c (? . 111) q after-set-position)) q (145478 . 2)) ((c meth c (c (? . 18) q get-top-level-window)) q (18931 . 3)) ((c meth c (c (? . 113) q on-size)) q (2019 . 5)) ((c meth c (c (? . 2) q on-local-event)) q (94055 . 7)) ((c def c (c (? . 0) q color-prefs:add-color-scheme-entry)) q (5965 . 20)) ((c meth c (c (? . 6) q search-hidden?)) q (70586 . 2)) ((c meth c (c (? . 9) q select-up-sexp)) q (132438 . 2)) ((c meth c (c (? . 12) q edit-menu:create-find-case-sensitive?)) q (72998 . 3)) ((c meth c (c (? . 1) q file-menu:revert-help-string)) q (43270 . 3)) ((c meth c (c (? . 14) q get-menu)) q (16882 . 3)) ((c def c (c (? . 0) q text:line-spacing-mixin)) q (141949 . 4)) ((c def c (c (? . 7) q preferences:unregister-save-callback)) q (124973 . 3)) ((c meth c (c (? . 1) q edit-menu:copy-on-demand)) q (50207 . 4)) ((c def c (c (? . 7) q preferences:new-layer)) q (126105 . 4)) ((c meth c (c (? . 1) q edit-menu:select-all-callback)) q (52417 . 7)) ((c meth c (c (? . 10) q on-default-event)) q (104572 . 3)) ((c meth c (c (? . 1) q edit-menu:select-all-help-string)) q (52917 . 3)) ((c def c (c (? . 5) q test:menu-select)) q (175865 . 4)) ((c def c (c (? . 7) q preferences:set-un/marshall)) q (124530 . 7)) ((c meth c (c (? . 1) q edit-menu:cut-callback)) q (49199 . 6)) ((c def c (c (? . 0) q text:overwrite-disable-mixin)) q (167209 . 4)) ((c def c (c (? . 0) q editor:autowrap-mixin)) q (22738 . 4)) ((c meth c (c (? . 10) q after-set-size-constraint)) q (107798 . 2)) ((c meth c (c (? . 1) q edit-menu:get-replace-all-item)) q (57953 . 3)) ((c meth c (c (? . 59) q on-superwindow-show)) q (33608 . 3)) ((c def c (? . 60)) q (68176 . 4)) ((c meth c (c (? . 9) q flash-forward-sexp)) q (131377 . 3)) ((c def c (c (? . 0) q racket:get-color-prefs-table)) q (134796 . 3)) ((c meth c (c (? . 9) q find-up-sexp)) q (131802 . 4)) ((c def c (c (? . 0) q panel:discrete-sizes-mixin)) q (118377 . 5)) ((c meth c (c (? . 24) q get-start-of-line)) q (139931 . 4)) ((c def c (? . 16)) q (38552 . 3)) ((c meth c (c (? . 1) q edit-menu:get-select-all-item)) q (52220 . 3)) ((c def c (c (? . 0) q editor:autowrap<%>)) q (22661 . 3)) ((c form c (c (? . 0) q scheme:sexp-snip<%>)) q (177953 . 2)) ((c meth c (c (? . 35) q on-load-file)) q (160238 . 5)) ((c meth c (c (? . 56) q right-click-in-gap)) q (114463 . 7)) ((c meth c (c (? . 4) q reset-input-box)) q (164186 . 2)) ((c meth c (c (? . 22) q file-menu:save-callback)) q (66679 . 5)) ((c meth c (c (? . 1) q edit-menu:create-cut?)) q (49124 . 2)) ((c meth c (c (? . 1) q edit-menu:between-find-and-preferences)) q (59641 . 4)) ((c def c (c (? . 0) q text:clever-file-format%)) q (168641 . 3)) ((c meth c (c (? . 1) q file-menu:revert-string)) q (43193 . 3)) ((c meth c (c (? . 95) q add-tall-snip)) q (1773 . 3)) ((c meth c (c (? . 29) q set-anchor)) q (160753 . 3)) ((c meth c (c (? . 1) q edit-menu:between-paste-and-clear)) q (51283 . 4)) ((c def c (c (? . 0) q color-prefs:white-on-black)) q (5869 . 2)) ((c meth c (c (? . 61) q set-ascii-art-enlarge)) q (142156 . 4)) ((c meth c (c (? . 10) q on-snip-modified)) q (106548 . 5)) ((c meth c (c (? . 1) q edit-menu:get-redo-item)) q (48221 . 3)) ((c def c (c (? . 0) q group:on-close-action)) q (77840 . 2)) ((c meth c (c (? . 69) q get-map-function-table)) q (85900 . 2)) ((c meth c (c (? . 112) q on-disable-surrogate)) q (15451 . 2)) ((c meth c (c (? . 56) q get-vertical?)) q (114953 . 2)) ((c def c (? . 10)) q (104262 . 3)) ((c meth c (c (? . 9) q move-sexp-out)) q (133014 . 3)) ((c def c (c (? . 0) q panel:single%)) q (113936 . 3)) ((c meth c (c (? . 62) q get-text-to-search)) q (73562 . 3)) ((c def c (c (? . 0) q text:return%)) q (168377 . 3)) ((c def c (c (? . 0) q frame:standard-menus%)) q (74360 . 3)) ((c meth c (c (? . 22) q help-menu:about-string)) q (67969 . 2)) ((c meth c (c (? . 22) q file-menu:create-print?)) q (67441 . 2)) ((c meth c (c (? . 4) q after-io-insertion)) q (165011 . 2)) ((c def c (c (? . 0) q handler:set-recent-items-frame-superclass)) q (84623 . 3)) ((c meth c (c (? . 1) q edit-menu:replace-string)) q (57792 . 3)) ((c def c (? . 65)) q (35959 . 4)) ((c def c (c (? . 0) q keymap:remove-chained-keymap)) q (89691 . 5)) ((c def c (? . 27)) q (150241 . 5)) ((c meth c (c (? . 83) q split-horizontal)) q (117539 . 7)) ((c meth c (c (? . 18) q get-pos/text)) q (20132 . 5)) ((c meth c (c (? . 1) q edit-menu:get-find-item)) q (53133 . 3)) ((c meth c (c (? . 1) q edit-menu:get-find-from-selection-item)) q (53818 . 3)) ((c def c (c (? . 13) q close-splash)) q (172743 . 2)) ((c def c (c (? . 0) q exit:on-exit)) q (27842 . 2)) ((c def c (? . 63)) q (161328 . 4)) ((c meth c (c (? . 59) q on-drop-file)) q (33698 . 3)) ((c def c (? . 34)) q (169357 . 5)) ((c meth c (c (? . 1) q edit-menu:undo-callback)) q (47733 . 6)) ((c meth c (c (? . 103) q while-unlocked)) q (162230 . 3)) ((c meth c (c (? . 29) q after-insert)) q (160965 . 4)) ((c def c (c (? . 0) q keymap:send-map-function-meta)) q (88460 . 13)) ((c meth c (c (? . 64) q make-snip)) q (17883 . 3)) ((c meth c (c (? . 65) q on-close)) q (36180 . 2)) ((c def c (c (? . 0) q editor:get-default-color-style-name)) q (26906 . 2)) ((c meth c (c (? . 93) q set-surrogate)) q (104124 . 3)) ((c def c (c (? . 0) q color-prefs:known-color-scheme-name?)) q (7431 . 3)) ((c meth c (c (? . 12) q edit-menu:find-again-backwards-callback)) q (72119 . 7)) ((c meth c (c (? . 26) q show-delegated-text)) q (69385 . 2)) ((c meth c (c (? . 66) q container-size)) q (116150 . 4)) ((c meth c (c (? . 1) q edit-menu:find-next-help-string)) q (55395 . 3)) ((c meth c (c (? . 67) q update-info)) q (39250 . 2)) ((c def c (c (? . 13) q get-splash-bitmap)) q (172892 . 2)) ((c meth c (c (? . 74) q on-close)) q (24591 . 2)) ((c def c (c (? . 0) q racket:init-wordbreak-map)) q (135273 . 3)) ((c meth c (c (? . 6) q unhide-search-and-toggle-focus)) q (71163 . 4)) ((c meth c (c (? . 1) q file-menu:create-open?)) q (41148 . 3)) ((c meth c (c (? . 2) q put-file)) q (103611 . 9)) ((c def c (? . 68)) q (152067 . 3)) ((c meth c (c (? . 9) q down-sexp)) q (132129 . 3)) ((c meth c (c (? . 10) q on-set-size-constraint)) q (107204 . 2)) ((c form c (c (? . 0) q scheme:text-mode<%>)) q (177817 . 2)) ((c meth c (c (? . 69) q get-map-function-table/ht)) q (85970 . 3)) ((c def c (c (? . 0) q racket:text-balanced?)) q (134461 . 5)) ((c def c (c (? . 13) q set-splash-char-observer)) q (173862 . 3)) ((c def c (c (? . 0) q editor:keymap-mixin)) q (22517 . 4)) ((c meth c (c (? . 70) q make-snip)) q (16052 . 2)) ((c meth c (c (? . 10) q on-new-box)) q (105258 . 3)) ((c meth c (c (? . 4) q submit-to-port?)) q (163914 . 3)) ((c def c (c (? . 0) q icon:get-up/down-cursor)) q (85561 . 2)) ((c def c (c (? . 5) q test:top-level-focus-window-has?)) q (176776 . 3)) ((c def c (c (? . 0) q handler:set-recent-position)) q (84832 . 7)) ((c meth c (c (? . 9) q compute-amount-to-indent)) q (130275 . 4)) ((c meth c (c (? . 1) q edit-menu:copy-help-string)) q (50398 . 3)) ((c meth c (c (? . 70) q get-position)) q (16205 . 3)) ((c meth c (c (? . 1) q edit-menu:replace-all-string)) q (58601 . 3)) ((c meth c (c (? . 71) q on-disable-surrogate)) q (133923 . 2)) ((c meth c (c (? . 28) q on-size)) q (35554 . 5)) ((c def c (c (? . 13) q get-splash-eventspace)) q (173089 . 2)) ((c form c (c (? . 0) q scheme:short-sym->style-name)) q (178300 . 2)) ((c meth c (c (? . 1) q edit-menu:redo-help-string)) q (48814 . 3)) ((c meth c (c (? . 1) q file-menu:get-revert-item)) q (42575 . 3)) ((c meth c (c (? . 22) q file-menu:revert-callback)) q (66400 . 5)) ((c meth c (c (? . 4) q get-value-port)) q (164949 . 2)) ((c meth c (c (? . 70) q make-editor)) q (15983 . 2)) ((c meth c (c (? . 2) q after-insert)) q (99204 . 9)) ((c meth c (c (? . 9) q get-backward-sexp)) q (131481 . 4)) ((c def c (c (? . 25) q notify:check-box/notify-box)) q (110650 . 8)) ((c meth c (c (? . 2) q on-load-file)) q (93413 . 9)) ((c meth c (c (? . 2) q can-delete?)) q (101208 . 9)) ((c meth c (c (? . 1) q edit-menu:find-next-string)) q (55315 . 3)) ((c def c (c (? . 0) q exit:can-exit?)) q (27801 . 2)) ((c meth c (c (? . 10) q on-save-file)) q (106384 . 5)) ((c meth c (c (? . 43) q get-area-container%)) q (32441 . 3)) ((c meth c (c (? . 35) q highlight-range)) q (157352 . 14)) ((c meth c (c (? . 2) q after-change-style)) q (98484 . 10)) ((c meth c (c (? . 10) q after-change-style)) q (107269 . 5)) ((c form c (c (? . 0) q scheme:set-mode-mixin)) q (177899 . 2)) ((c meth c (c (? . 29) q after-delete)) q (161109 . 4)) ((c meth c (c (? . 1) q edit-menu:preferences-callback)) q (59971 . 7)) ((c def c (c (? . 0) q menu:can-restore-menu-item%)) q (90783 . 3)) ((c def c (c (? . 5) q test:number-pending-actions)) q (176889 . 2)) ((c meth c (c (? . 1) q edit-menu:clear-callback)) q (51596 . 6)) ((c meth c (c (? . 24) q unhighlight-ranges/key)) q (137373 . 3)) ((c meth c (c (? . 1) q edit-menu:find-case-sensitive-help-string)) q (59546 . 3)) ((c def c (c (? . 0) q panel:dragable-place-children)) q (119096 . 19)) ((c def c (c (? . 0) q handler:find-named-format-handler)) q (83643 . 4)) ((c def c (c (? . 0) q panel:horizontal-discrete-sizes%)) q (118572 . 3)) ((c def c (c (? . 0) q color-prefs:get-color-scheme-names)) q (8704 . 2)) ((c meth c (c (? . 72) q get-replace-search-hit)) q (149684 . 3)) ((c def c (c (? . 11) q gui-utils:cursor-delay)) q (79825 . 4)) ((c def c (c (? . 0) q color-prefs:build-color-selection-panel)) q (4963 . 13)) ((c def c (c (? . 0) q preferences:add-to-editor-checkbox-panel)) q (122407 . 3)) ((c meth c (c (? . 97) q after-insert)) q (148106 . 5)) ((c def c (c (? . 0) q handler:size-recently-opened-files)) q (85055 . 3)) ((c meth c (c (? . 22) q edit-menu:between-select-all-and-find)) q (67635 . 4)) ((c meth c (c (? . 1) q file-menu:revert-on-demand)) q (43064 . 4)) ((c meth c (c (? . 1) q file-menu:new-callback)) q (40412 . 6)) ((c def c (c (? . 0) q panel:horizontal-dragable<%>)) q (115203 . 3)) ((c meth c (c (? . 43) q get-menu-bar%)) q (32620 . 2)) ((c meth c (c (? . 1) q edit-menu:preferences-help-string)) q (60502 . 3)) ((c meth c (c (? . 1) q file-menu:get-open-recent-item)) q (41735 . 3)) ((c meth c (c (? . 24) q get-styles-fixed)) q (137938 . 2)) ((c meth c (c (? . 73) q get-color)) q (17397 . 3)) ((c def c (c (? . 0) q number-snip:get-number)) q (112548 . 3)) ((c meth c (c (? . 9) q tabify-on-return?)) q (129330 . 2)) ((c meth c (c (? . 74) q on-change)) q (24653 . 2)) ((c meth c (c (? . 18) q local-edit-sequence?)) q (18661 . 2)) ((c meth c (c (? . 75) q on-char)) q (167047 . 2)) ((c meth c (c (? . 19) q after-delete)) q (148790 . 5)) ((c meth c (c (? . 2) q can-insert?)) q (101561 . 9)) ((c meth c (c (? . 20) q get-canvas)) q (62883 . 2)) ((c meth c (c (? . 72) q get-search-bubbles)) q (149936 . 6)) ((c meth c (c (? . 1) q edit-menu:find-help-string)) q (53738 . 3)) ((c meth c (c (? . 43) q close)) q (32948 . 2)) ((c def c (c (? . 0) q color-model:xyz->rgb)) q (3203 . 5)) ((c meth c (c (? . 65) q on-activate)) q (36239 . 3)) ((c def c (c (? . 0) q keymap:get-search)) q (88209 . 2)) ((c meth c (c (? . 52) q on-edit-sequence)) q (21113 . 2)) ((c meth c (c (? . 1) q edit-menu:clear-help-string)) q (52008 . 3)) ((c meth c (c (? . 16) q overwrite-status-changed)) q (38718 . 2)) ((c meth c (c (? . 17) q open-status-line)) q (36405 . 3)) ((c meth c (c (? . 24) q move-to)) q (138775 . 9)) ((c def c (? . 76)) q (111834 . 3)) ((c meth c (c (? . 73) q get-position)) q (17585 . 3)) ((c def c (c (? . 0) q color:text%)) q (14541 . 3)) ((c meth c (c (? . 20) q set-label-prefix)) q (62059 . 3)) ((c meth c (c (? . 1) q edit-menu:create-copy?)) q (49913 . 3)) ((c def c (c (? . 13) q set-splash-paint-callback)) q (173515 . 8)) ((c meth c (c (? . 12) q edit-menu:find-case-sensitive-on-demand)) q (72881 . 4)) ((c def c (c (? . 0) q text:return<%>)) q (150985 . 3)) ((c meth c (c (? . 1) q edit-menu:between-cut-and-copy)) q (49682 . 4)) ((c meth c (c (? . 52) q after-load-file)) q (20940 . 3)) ((c meth c (c (? . 77) q on-close)) q (61797 . 2)) ((c def c (? . 78)) q (68573 . 4)) ((c def c (c (? . 0) q canvas:color-mixin)) q (761 . 4)) ((c def c (c (? . 0) q frame:remove-empty-menus)) q (75970 . 3)) ((c def c (c (? . 0) q color-prefs:add-color-scheme-preferences-panel)) q (7034 . 4)) ((c meth c (c (? . 1) q file-menu:print-on-demand)) q (45504 . 4)) ((c meth c (c (? . 1) q help-menu:about-on-demand)) q (61242 . 4)) ((c meth c (c (? . 79) q get-first-line-height)) q (142986 . 2)) ((c def c (c (? . 0) q icon:get-anchor-bitmap)) q (85439 . 2)) ((c meth c (c (? . 21) q insert-frame)) q (77327 . 3)) ((c def c (c (? . 0) q menu:can-restore-mixin)) q (90199 . 4)) ((c constructor c (? . 96)) q (25175 . 7)) ((c meth c (c (? . 6) q get-text-to-search)) q (70379 . 2)) ((c def c (c (? . 0) q keymap:region-click)) q (89883 . 5)) ((c def c (c (? . 0) q finder:common-put-file)) q (28480 . 17)) ((c def c (? . 43)) q (32377 . 3)) ((c meth c (c (? . 69) q get-chained-keymaps)) q (85809 . 3)) ((c meth c (c (? . 1) q file-menu:print-help-string)) q (45707 . 3)) ((c def c (c (? . 0) q panel:dragable-container-size)) q (118776 . 7)) ((c meth c (c (? . 30) q on-focus)) q (14145 . 2)) ((c meth c (c (? . 8) q get-token-range)) q (13633 . 5)) ((c meth c (c (? . 1) q edit-menu:find-from-selection-string)) q (54504 . 3)) ((c def c (c (? . 0) q canvas:basic%)) q (2200 . 3)) ((c meth c (c (? . 46) q add-wide-snip)) q (151470 . 3)) ((c meth c (c (? . 80) q container-size)) q (113114 . 3)) ((c meth c (c (? . 4) q set-insertion-point)) q (163287 . 3)) ((c meth c (c (? . 1) q edit-menu:find-from-selection-on-demand)) q (54372 . 4)) ((c meth c (c (? . 8) q freeze-colorer)) q (10471 . 2)) ((c meth c (c (? . 2) q on-char)) q (91649 . 7)) ((c form c (c (? . 0) q scheme:short-sym->pref-name)) q (178265 . 2)) ((c def c (c (? . 25) q notify:notify-box/pref)) q (109980 . 6)) ((c meth c (c (? . 62) q get-editor%)) q (73725 . 3)) ((c meth c (c (? . 73) q get-menu)) q (17489 . 3)) ((c meth c (c (? . 23) q auto-complete)) q (166157 . 2)) ((c def c (c (? . 0) q color-prefs:lookup-in-color-scheme)) q (7607 . 6)) ((c def c (c (? . 0) q keymap:make-meta-prefix-list)) q (88263 . 5)) ((c meth c (c (? . 10) q on-new-image-snip)) q (105336 . 9)) ((c def c (c (? . 0) q preferences:get-preference/gui)) q (120973 . 6)) ((c def c (c (? . 0) q keymap:setup-editor)) q (89127 . 3)) ((c def c (? . 81)) q (169049 . 2)) ((c meth c (c (? . 4) q on-submit)) q (164012 . 2)) ((c meth c (c (? . 26) q hide-delegated-text)) q (69321 . 2)) ((c def c (c (? . 13) q get-splash-event-callback)) q (174060 . 2)) ((c meth c (c (? . 41) q update-frame-filename)) q (23071 . 2)) ((c def c (? . 82)) q (161819 . 4)) ((c def c (? . 87)) q (151048 . 4)) ((c def c (c (? . 0) q frame:text%)) q (74555 . 3)) ((c meth c (c (? . 31) q on-paint)) q (140231 . 21)) ((c def c (c (? . 0) q frame:delegate%)) q (74753 . 3)) ((c meth c (c (? . 40) q make-root-area-container)) q (69705 . 6)) ((c meth c (c (? . 1) q edit-menu:find-previous-callback)) q (55683 . 7)) ((c meth c (c (? . 64) q make-editor)) q (17974 . 3)) ((c def c (c (? . 0) q canvas:basic-mixin)) q (546 . 4)) ((c def c (c (? . 5) q test:set-radio-box-item!)) q (174999 . 3)) ((c meth c (c (? . 83) q collapse)) q (117800 . 3)) ((c meth c (c (? . 1) q edit-menu:get-undo-item)) q (47548 . 3)) ((c meth c (c (? . 45) q do-autosave)) q (23983 . 2)) ((c def c (c (? . 0) q finder:std-put-file)) q (29816 . 17)) ((c def c (? . 109)) q (112637 . 3)) ((c def c (c (? . 7) q preferences:default-set?)) q (124452 . 3)) ((c meth c (c (? . 84) q on-default-char)) q (142622 . 4)) ((c meth c (c (? . 6) q hide-search)) q (70650 . 2)) ((c def c (c (? . 0) q handler:open-file)) q (84398 . 4)) ((c meth c (c (? . 52) q on-new-box)) q (21239 . 3)) ((c meth c (c (? . 45) q remove-autosave)) q (24060 . 2)) ((c meth c (c (? . 1) q edit-menu:find-previous-help-string)) q (56214 . 3)) ((c meth c (c (? . 1) q file-menu:between-open-and-revert)) q (42449 . 4)) ((c meth c (c (? . 4) q get-unread-start-point)) q (163377 . 2)) ((c def c (c (? . 0) q color:get-parenthesis-colors-table)) q (15678 . 3)) ((c meth c (c (? . 53) q get-discrete-widths)) q (118172 . 3)) ((c meth c (c (? . 1) q file-menu:create-save-as?)) q (44284 . 3)) ((c def c (c (? . 0) q exit:exit)) q (27878 . 2)) ((c meth c (c (? . 80) q place-children)) q (113197 . 3)) ((c meth c (c (? . 1) q edit-menu:between-copy-and-paste)) q (50478 . 4)) ((c def c (c (? . 11) q gui-utils:next-untitled-name)) q (79771 . 2)) ((c def c (c (? . 11) q gui-utils:local-busy-cursor)) q (80317 . 7)) ((c meth c (c (? . 43) q make-root-area-container)) q (32694 . 6)) ((c meth c (c (? . 2) q after-save-file)) q (100543 . 7)) ((c form c (c (? . 0) q scheme:add-preferences-panel)) q (178097 . 2)) ((c def c (c (? . 5) q button-in-top-level-focusd-window?)) q (177508 . 3)) ((c def c (c (? . 13) q get-splash-paint-callback)) q (173140 . 7)) ((c meth c (c (? . 30) q after-set-position)) q (14254 . 2)) ((c def c (c (? . 0) q color-prefs:get-current-color-scheme-name)) q (7334 . 3)) ((c meth c (c (? . 83) q split-vertical)) q (117282 . 7)) ((c meth c (c (? . 30) q after-change-style)) q (14313 . 2)) ((c meth c (c (? . 85) q can-close?)) q (23634 . 2)) ((c meth c (c (? . 1) q edit-menu:replace-all-callback)) q (58152 . 7)) ((c meth c (c (? . 1) q help-menu:about-string)) q (61370 . 2)) ((c meth c (c (? . 86) q on-enable-surrogate)) q (91157 . 3)) ((c def c (? . 14)) q (16609 . 3)) ((c meth c (c (? . 36) q get-text)) q (126737 . 7)) ((c meth c (c (? . 87) q on-local-char)) q (151298 . 3)) ((c meth c (c (? . 1) q file-menu:between-close-and-quit)) q (46616 . 4)) ((c meth c (c (? . 8) q get-regions)) q (11845 . 3)) ((c def c (? . 86)) q (91109 . 2)) ((c def c (c (? . 0) q text:autocomplete-append-after)) q (170431 . 4)) ((c meth c (c (? . 1) q file-menu:save-callback)) q (43663 . 6)) ((c meth c (c (? . 88) q set-editor)) q (1488 . 2)) ((c def c (c (? . 0) q text:lookup-port-name)) q (170859 . 4)) ((c meth c (c (? . 10) q can-change-style?)) q (108110 . 5)) ((c def c (c (? . 0) q racket:text-mode<%>)) q (133670 . 2)) ((c meth c (c (? . 32) q copy)) q (155189 . 2)) ((c meth c (c (? . 1) q file-menu:save-as-on-demand)) q (44667 . 4)) ((c meth c (c (? . 1) q file-menu:get-close-item)) q (45914 . 3)) ((c def c (c (? . 0) q editor:set-standard-style-list-delta)) q (26967 . 5)) ((c meth c (c (? . 10) q on-char)) q (104410 . 3)) ((c def c (c (? . 0) q preferences:show-dialog)) q (122712 . 2)) ((c def c (c (? . 0) q text:input-box%)) q (168152 . 3)) ((c def c (? . 6)) q (70067 . 3)) ((c def c (c (? . 0) q frame:setup-size-pref)) q (74935 . 13)) ((c meth c (c (? . 89) q get-vertical?)) q (116485 . 2)) ((c meth c (c (? . 108) q on-paint)) q (146365 . 21)) ((c meth c (c (? . 26) q delegate-moved)) q (69449 . 2)) ((c meth c (c (? . 10) q on-delete)) q (106881 . 4)) ((c meth c (c (? . 1) q file-menu:save-as-callback)) q (44364 . 7)) ((c meth c (c (? . 9) q tabify-all)) q (129771 . 2)) ((c meth c (c (? . 22) q file-menu:create-revert?)) q (66609 . 2)) ((c meth c (c (? . 8) q force-stop-colorer)) q (10273 . 3)) ((c def c (c (? . 13) q get-splash-canvas)) q (173035 . 2)) ((c meth c (c (? . 50) q string-normalize)) q (147469 . 3)) ((c def c (c (? . 11) q gui-utils:delay-action)) q (80086 . 7)) ((c meth c (c (? . 10) q after-load-file)) q (107928 . 3)) ((c meth c (c (? . 1) q file-menu:create-close?)) q (46023 . 3)) ((c meth c (c (? . 1) q edit-menu:get-find-case-sensitive-item)) q (58770 . 3)) ((c meth c (c (? . 1) q file-menu:open-on-demand)) q (41454 . 4)) ((c def c (? . 30)) q (13964 . 4)) ((c meth c (c (? . 3) q show-info)) q (37961 . 2)) ((c meth c (c (? . 58) q show)) q (34070 . 3)) ((c def c (c (? . 5) q test:set-check-box!)) q (175093 . 4)) ((c meth c (c (? . 9) q up-sexp)) q (131922 . 3)) ((c def c (c (? . 0) q canvas:color<%>)) q (687 . 3)) ((c def c (c (? . 0) q frame:basic%)) q (73804 . 3)) ((c meth c (c (? . 9) q get-limit)) q (129127 . 3)) ((c meth c (c (? . 1) q file-menu:new-on-demand)) q (40639 . 4)) ((c def c (? . 91)) q (90048 . 3)) ((c meth c (c (? . 90) q can-insert?)) q (165384 . 4)) ((c constructor c (? . 22)) q (63167 . 44)) ((c def c (c (? . 0) q racket:get-white-on-black-color-prefs-table)) q (134899 . 3)) ((c def c (c (? . 0) q keymap:add-user-keybindings-file)) q (86903 . 4)) ((c def c (c (? . 0) q text:range-style)) q (170209 . 4)) ((c meth c (c (? . 91) q restore-keybinding)) q (90134 . 2)) ((c def c (c (? . 0) q icon:get-unlock-bitmap)) q (85380 . 2)) ((c meth c (c (? . 74) q set-modified)) q (24716 . 3)) ((c meth c (c (? . 60) q get-editor<%>)) q (68437 . 2)) ((c meth c (c (? . 1) q edit-menu:find-previous-string)) q (56130 . 3)) ((c meth c (c (? . 99) q set-get-token)) q (14663 . 3)) ((c meth c (c (? . 1) q file-menu:new-help-string)) q (40838 . 3)) ((c meth c (c (? . 30) q after-edit-sequence)) q (14194 . 2)) ((c meth c (c (? . 85) q get-keymaps)) q (23690 . 3)) ((c meth c (c (? . 35) q on-edit-sequence)) q (159344 . 2)) ((c meth c (c (? . 2) q after-set-position)) q (99561 . 6)) ((c def c (c (? . 0) q racket:text-mode%)) q (134367 . 3)) ((c def c (? . 94)) q (86064 . 4)) ((c meth c (c (? . 41) q allow-close-with-no-filename?)) q (23135 . 2)) ((c def c (c (? . 0) q canvas:info%)) q (2367 . 3)) ((c def c (c (? . 0) q text:inline-overview-mixin)) q (141724 . 4)) ((c meth c (c (? . 92) q after-insert)) q (145954 . 5)) ((c meth c (c (? . 72) q set-searching-state)) q (149106 . 10)) ((c def c (c (? . 0) q text:range-color)) q (170329 . 3)) ((c def c (c (? . 0) q color-prefs:register-color-scheme-entry-change-callback)) q (8149 . 12)) ((c meth c (c (? . 1) q file-menu:open-recent-on-demand)) q (42156 . 4)) ((c def c (? . 93)) q (103977 . 2)) ((c meth c (c (? . 8) q forward-match)) q (12775 . 6)) ((c def c (c (? . 0) q version:version)) q (177709 . 2)) ((c def c (c (? . 0) q keymap:setup-file)) q (89212 . 3)) ((c def c (c (? . 0) q preferences:add-to-general-checkbox-panel)) q (122534 . 3)) ((c meth c (c (? . 56) q set-orientation)) q (115014 . 3)) ((c meth c (c (? . 1) q edit-menu:show/hide-replace-help-string)) q (57075 . 3)) ((c meth c (c (? . 68) q insert)) q (153669 . 7)) ((c meth c (c (? . 24) q move/copy-to-edit)) q (138157 . 13)) ((c def c (c (? . 0) q exit:exiting?)) q (27496 . 2)) ((c meth c (c (? . 2) q after-delete)) q (98847 . 9)) ((c meth c (c (? . 81) q show-line-numbers?)) q (169189 . 2)) ((c meth c (c (? . 12) q edit-menu:create-replace-all?)) q (72712 . 3)) ((c def c (c (? . 0) q color-model:xyz?)) q (3340 . 3)) ((c def c (c (? . 0) q color-prefs:set-default/color-scheme)) q (3637 . 8)) ((c meth c (c (? . 94) q chain-to-keymap)) q (86208 . 5)) ((c meth c (c (? . 9) q forward-sexp)) q (131287 . 3)) ((c meth c (c (? . 93) q get-surrogate)) q (104020 . 3)) ((c def c (c (? . 0) q text:keymap%)) q (168251 . 4)) ((c meth c (c (? . 9) q uncomment-selection)) q (130902 . 5)) ((c meth c (c (? . 1) q edit-menu:after-preferences)) q (60589 . 4)) ((c meth c (c (? . 8) q backward-match)) q (12289 . 6)) ((c def c (? . 95)) q (1540 . 3)) ((c meth c (c (? . 1) q edit-menu:paste-string)) q (51127 . 2)) ((c meth c (c (? . 14) q reset-min-sizes)) q (17071 . 2)) ((c meth c (c (? . 38) q after-load-file)) q (162845 . 2)) ((c meth c (c (? . 12) q edit-menu:find-callback)) q (71674 . 2)) ((c meth c (c (? . 8) q stop-colorer)) q (10165 . 3)) ((c def c (c (? . 0) q pasteboard:backup-autosave%)) q (120358 . 3)) ((c meth c (c (? . 18) q has-focus?)) q (18604 . 2)) ((c meth c (c (? . 1) q edit-menu:find-next-on-demand)) q (55193 . 4)) ((c meth c (c (? . 20) q revert)) q (62513 . 2)) ((c def c (c (? . 0) q frame:register-group<%>)) q (35910 . 2)) ((c meth c (c (? . 79) q is-special-first-line?)) q (143055 . 3)) ((c form c (c (? . 0) q scheme:add-coloring-preferences-panel)) q (178133 . 2)) ((c meth c (c (? . 22) q file-menu:open-callback)) q (66126 . 5)) ((c def c (c (? . 0) q color-prefs:register-info-based-color-schemes)) q (7178 . 2)) ((c meth c (c (? . 21) q get-active-frame)) q (77154 . 2)) ((c meth c (c (? . 10) q can-insert?)) q (108422 . 5)) ((c meth c (c (? . 1) q edit-menu:redo-string)) q (48740 . 2)) ((c meth c (c (? . 8) q get-spell-check-strings)) q (11091 . 2)) ((c def c (c (? . 0) q text:delegate%)) q (167859 . 3)) ((c meth c (c (? . 2) q on-event)) q (92887 . 7)) ((c meth c (c (? . 68) q get-extent)) q (152522 . 22)) ((c meth c (c (? . 24) q get-highlighted-ranges)) q (137858 . 3)) ((c def c (c (? . 0) q finder:default-extension)) q (28180 . 4)) ((c def c (c (? . 0) q version:add-spec)) q (177611 . 4)) ((c meth c (c (? . 10) q on-local-char)) q (105091 . 3)) ((c meth c (c (? . 9) q comment-out-selection)) q (130718 . 5)) ((c def c (? . 18)) q (18536 . 3)) ((c meth c (c (? . 12) q edit-menu:find-again-callback)) q (71819 . 6)) ((c def c (? . 92)) q (145620 . 4)) ((c meth c (c (? . 79) q highlight-first-line)) q (142807 . 3)) ((c meth c (c (? . 90) q on-local-char)) q (165630 . 3)) ((c def c (c (? . 0) q menu:can-restore-underscore-menu%)) q (90999 . 3)) ((c meth c (c (? . 1) q get-help-menu)) q (40155 . 2)) ((c def c (c (? . 0) q text:normalize-paste%)) q (167755 . 3)) ((c def c (c (? . 0) q finder:get-file)) q (31837 . 12)) ((c meth c (c (? . 1) q file-menu:quit-on-demand)) q (47155 . 4)) ((c meth c (c (? . 1) q edit-menu:create-undo?)) q (47656 . 3)) ((c meth c (c (? . 21) q for-each-frame)) q (77051 . 3)) ((c def c (c (? . 0) q autosave:toc-path)) q (380 . 2)) ((c def c (c (? . 0) q pasteboard:file%)) q (120268 . 3)) ((c def c (c (? . 0) q preferences:add-scheme-checkbox-panel)) q (122090 . 2)) ((c meth c (c (? . 59) q show)) q (33433 . 3)) ((c def c (? . 104)) q (143153 . 4)) ((c meth c (c (? . 9) q balance-parens)) q (129223 . 3)) ((c meth c (c (? . 14) q get-color)) q (16790 . 3)) ((c meth c (c (? . 1) q edit-menu:show/hide-replace-string)) q (56987 . 3)) ((c meth c (c (? . 2) q on-snip-modified)) q (96432 . 9)) ((c def c (c (? . 7) q preferences:restore-defaults)) q (124814 . 2)) ((c def c (c (? . 0) q color-model:xyz-y)) q (3483 . 3)) ((c meth c (c (? . 1) q file-menu:save-string)) q (44019 . 2)) ((c def c (c (? . 0) q frame:text<%>)) q (68104 . 3)) ((c def c (c (? . 0) q color-model:xyz-x)) q (3406 . 3)) ((c def c (c (? . 0) q handler:insert-format-handler)) q (83306 . 7)) ((c def c (? . 22)) q (63017 . 4)) ((c def c (c (? . 0) q canvas:color%)) q (2284 . 3)) ((c meth c (c (? . 6) q replace-all)) q (70321 . 2)) ((c def c (? . 96)) q (25107 . 3)) ((c meth c (c (? . 1) q edit-menu:replace-all-on-demand)) q (58467 . 4)) ((c meth c (c (? . 1) q file-menu:print-callback)) q (45273 . 6)) ((c def c (? . 33)) q (141466 . 3)) ((c def c (c (? . 0) q editor:get-current-preferred-font-size)) q (25803 . 3)) ((c meth c (c (? . 20) q get-editor)) q (62949 . 2)) ((c def c (c (? . 11) q gui-utils:ok/cancel-buttons)) q (78952 . 14)) ((c def c (c (? . 13) q get-splash-height)) q (174375 . 2)) ((c meth c (c (? . 66) q place-children)) q (115798 . 8)) ((c form c (c (? . 0) q scheme:text<%>)) q (177750 . 2)) ((c meth c (c (? . 97) q on-insert)) q (147904 . 5)) ((c def c (c (? . 25) q notify:menu-option/notify-box)) q (110321 . 8)) ((c def c (c (? . 0) q canvas:basic<%>)) q (473 . 3)) ((c def c (c (? . 0) q racket:add-coloring-preferences-panel)) q (134737 . 2)) ((c meth c (c (? . 2) q after-set-size-constraint)) q (99764 . 7)) ((c meth c (c (? . 94) q remove-chained-keymap)) q (86398 . 3)) ((c def c (? . 98)) q (18140 . 3)) ((c def c (c (? . 0) q preferences:add-to-warnings-checkbox-panel)) q (122151 . 3)) ((c def c (c (? . 0) q keymap:set-chained-keymaps)) q (89465 . 5)) ((c def c (c (? . 0) q color-prefs:black-on-white)) q (5917 . 2)) ((c meth c (c (? . 59) q after-new-child)) q (33787 . 2)) ((c meth c (c (? . 75) q on-event)) q (167102 . 2)) ((c meth c (c (? . 1) q file-menu:save-on-demand)) q (43892 . 4)) ((c def c (c (? . 5) q enabled-shown-button?)) q (177418 . 3)) ((c meth c (c (? . 1) q file-menu:get-open-item)) q (41040 . 3)) ((c meth c (c (? . 96) q set-message)) q (25560 . 3)) ((c meth c (c (? . 68) q split)) q (152140 . 7)) ((c meth c (c (? . 90) q can-delete?)) q (165507 . 4)) ((c def c (c (? . 0) q preferences:add-panel)) q (121219 . 12)) ((c meth c (c (? . 34) q show-line-numbers!)) q (169617 . 3)) ((c meth c (c (? . 1) q file-menu:open-callback)) q (41225 . 6)) ((c meth c (c (? . 12) q on-close)) q (73181 . 2)) ((c def c (c (? . 5) q test:set-list-box!)) q (175413 . 4)) ((c def c (c (? . 0) q autosave:restore-autosave-files/gui)) q (414 . 2)) ((c meth c (c (? . 4) q get-allow-edits)) q (163644 . 2)) ((c def c (? . 99)) q (14619 . 2)) ((c def c (? . 28)) q (34369 . 4)) ((c def c (c (? . 0) q text:make-snip-special)) q (170976 . 3)) ((c meth c (c (? . 4) q clear-output-ports)) q (164242 . 2)) ((c def c (c (? . 0) q pasteboard:basic%)) q (119957 . 3)) ((c meth c (c (? . 100) q do-autosave)) q (172 . 2)) ((c meth c (c (? . 1) q edit-menu:select-all-on-demand)) q (52713 . 4)) ((c meth c (c (? . 9) q remove-sexp)) q (131198 . 3)) ((c def c (c (? . 0) q text:file%)) q (168543 . 3)) ((c def c (? . 49)) q (151802 . 3)) ((c meth c (c (? . 21) q remove-frame)) q (77423 . 3)) ((c def c (c (? . 0) q finder:default-filters)) q (28305 . 4)) ((c meth c (c (? . 101) q set-orientation)) q (117945 . 4)) ((c def c (c (? . 0) q racket:text%)) q (134210 . 4)) ((c def c (? . 102)) q (22361 . 3)) ((c def c (? . 20)) q (61856 . 3)) ((c def c (? . 83)) q (117084 . 5)) ((c def c (c (? . 0) q text:range-start)) q (169940 . 3)) ((c meth c (c (? . 9) q remove-parens-forward)) q (132216 . 3)) ((c meth c (c (? . 10) q on-edit-sequence)) q (104716 . 2)) ((c meth c (c (? . 4) q get-err-port)) q (164889 . 2)) ((c meth c (c (? . 45) q backup?)) q (23853 . 2)) ((c meth c (c (? . 48) q get)) q (109586 . 2)) ((c def c (c (? . 0) q text:hide-caret/selection%)) q (167545 . 3)) ((c meth c (c (? . 52) q on-new-image-snip)) q (21359 . 10)) ((c def c (c (? . 0) q text:basic%)) q (167362 . 3)) ((c def c (c (? . 0) q handler:handler-extension)) q (83039 . 4)) ((c form c (c (? . 0) q scheme:text%)) q (177797 . 2)) ((c def c (? . 103)) q (162073 . 4)) ((c def c (c (? . 0) q keymap:get-file)) q (88051 . 2)) ((c meth c (c (? . 4) q insert-between)) q (163703 . 3)) ((c meth c (c (? . 10) q can-do-edit-operation?)) q (108639 . 7)) ((c meth c (c (? . 1) q edit-menu:get-find-next-item)) q (54689 . 3)) ((c meth c (c (? . 1) q edit-menu:copy-callback)) q (49990 . 6)) ((c meth c (c (? . 20) q save-as)) q (62721 . 4)) ((c meth c (c (? . 2) q can-set-size-constraint?)) q (101914 . 7)) ((c meth c (c (? . 1) q help-menu:about-callback)) q (61011 . 6)) ((c def c (c (? . 0) q editor:get-change-font-size-when-monitors-change?)) q (26525 . 2)) ((c meth c (c (? . 68) q draw)) q (153955 . 21)) ((c def c (c (? . 0) q keymap:setup-search)) q (89380 . 3)) ((c meth c (c (? . 1) q get-edit-menu)) q (40080 . 2)) ((c meth c (c (? . 30) q after-delete)) q (14488 . 2)) ((c meth c (c (? . 9) q get-forward-sexp)) q (131082 . 4)) ((c meth c (c (? . 72) q set-replace-start)) q (149766 . 3)) ((c meth c (c (? . 10) q after-delete)) q (107433 . 5)) ((c meth c (c (? . 10) q can-load-file?)) q (108906 . 5)) ((c meth c (c (? . 41) q get-can-close-parent)) q (22960 . 3)) ((c meth c (c (? . 10) q on-default-char)) q (104487 . 3)) ((c meth c (c (? . 85) q set-filename)) q (23465 . 5)) ((c meth c (c (? . 65) q can-close?)) q (36116 . 2)) ((c meth c (c (? . 43) q editing-this-file?)) q (32995 . 3)) ((c def c (c (? . 0) q frame:pasteboard-info-mixin)) q (39388 . 4)) ((c meth c (c (? . 4) q set-allow-edits)) q (163544 . 3)) ((c meth c (c (? . 10) q after-insert)) q (107585 . 5)) ((c meth c (c (? . 97) q do-paste)) q (147715 . 5)) ((c meth c (c (? . 1) q file-menu:close-on-demand)) q (46332 . 4)) ((c meth c (c (? . 18) q get-filename/untitled-name)) q (20060 . 2)) ((c meth c (c (? . 104) q scroll-editor-to)) q (144142 . 13)) ((c meth c (c (? . 70) q get-corner-bitmap)) q (16127 . 3)) ((c meth c (c (? . 105) q get-start-of-line)) q (133545 . 4)) ((c def c (c (? . 0) q text:clever-file-format<%>)) q (161253 . 3)) ((c meth c (c (? . 21) q set-active-frame)) q (77227 . 3)) ((c def c (c (? . 0) q editor:set-current-preferred-font-size)) q (25687 . 3)) ((c meth c (c (? . 10) q on-local-event)) q (105174 . 3)) ((c meth c (c (? . 23) q get-autocomplete-border-color)) q (166218 . 3)) ((c def c (? . 2)) q (91360 . 4)) ((c meth c (c (? . 1) q edit-menu:clear-string)) q (51933 . 2)) ((c meth c (c (? . 1) q edit-menu:find-on-demand)) q (53547 . 4)) ((c meth c (c (? . 24) q get-fixed-style)) q (137998 . 2)) ((c meth c (c (? . 1) q edit-menu:create-replace?)) q (57279 . 3)) ((c meth c (c (? . 59) q on-exit)) q (33559 . 2)) ((c def c (? . 9)) q (128994 . 5)) ((c def c (c (? . 7) q preferences:add-callback)) q (123714 . 5)) ((c meth c (c (? . 35) q after-load-file)) q (160406 . 3)) ((c def c (? . 97)) q (147559 . 4)) ((c meth c (c (? . 106) q lock)) q (25030 . 3)) ((c meth c (c (? . 88) q on-focus)) q (1438 . 2)) ((c form c (c (? . 0) q scheme:get-color-prefs-table)) q (178178 . 2)) ((c meth c (c (? . 1) q edit-menu:redo-on-demand)) q (48623 . 4)) ((c meth c (c (? . 72) q get-search-hit-count)) q (149608 . 2)) ((c def c (c (? . 0) q handler:handler-handler)) q (83178 . 4)) ((c meth c (c (? . 32) q get-extent)) q (155256 . 22)) ((c def c (c (? . 5) q test:mouse-click)) q (175976 . 8)) ((c meth c (c (? . 52) q get-file)) q (21795 . 3)) ((c meth c (c (? . 10) q can-save-file?)) q (109074 . 5)) ((c meth c (c (? . 24) q get-port-name)) q (139527 . 3)) ((c meth c (c (? . 2) q on-paint)) q (95166 . 23)) ((c def c (? . 107)) q (38120 . 4)) ((c meth c (c (? . 114) q make-root-area-container)) q (36923 . 6)) ((c meth c (c (? . 21) q on-close-all)) q (77564 . 2)) ((c meth c (c (? . 1) q edit-menu:create-find-from-selection?)) q (53941 . 3)) ((c meth c (c (? . 9) q set-tab-size)) q (132815 . 3)) ((c def c (c (? . 0) q text:info<%>)) q (160501 . 3)) ((c meth c (c (? . 38) q can-insert?)) q (162498 . 4)) ((c constructor c (? . 78)) q (68723 . 4)) ((c def c (c (? . 0) q color-model:rgb->xyz)) q (2628 . 5)) ((c def c (? . 67)) q (39050 . 4)) ((c meth c (c (? . 1) q edit-menu:find-next-callback)) q (54884 . 7)) ((c meth c (c (? . 22) q file-menu:revert-on-demand)) q (66331 . 2)) ((c def c (c (? . 0) q color-model:xyz-z)) q (3560 . 3)) ((c meth c (c (? . 18) q load-file/gui-error)) q (19499 . 9)) ((c def c (c (? . 5) q test:close-top-level-window)) q (176677 . 3)) ((c meth c (c (? . 56) q get-percentages)) q (114881 . 2)) ((c meth c (c (? . 98) q make-snip)) q (18219 . 4)) ((c meth c (c (? . 8) q get-spell-suggestions)) q (11574 . 6)) ((c meth c (c (? . 1) q edit-menu:replace-on-demand)) q (57662 . 4)) ((c def c (c (? . 5) q test:use-focus-table)) q (177045 . 4)) ((c meth c (c (? . 4) q get-in-box-port)) q (164767 . 2)) ((c def c (? . 69)) q (85738 . 3)) ((c def c (c (? . 0) q pasteboard:standard-style-list%)) q (120042 . 3)) ((c meth c (c (? . 36) q draw)) q (127191 . 21)) ((c meth c (c (? . 22) q get-label)) q (65991 . 2)) ((c meth c (c (? . 1) q edit-menu:get-cut-item)) q (49017 . 3)) ((c def c (c (? . 0) q pasteboard:info%)) q (120468 . 3)) ((c meth c (c (? . 31) q on-insert)) q (140986 . 4)) ((c meth c (c (? . 1) q file-menu:between-revert-and-save)) q (43352 . 4)) ((c meth c (c (? . 62) q get-editor<%>)) q (73644 . 3)) ((c def c (c (? . 0) q text:overwrite-disable<%>)) q (167158 . 2)) ((c meth c (c (? . 1) q file-menu:save-help-string)) q (44093 . 3)) ((c def c (? . 70)) q (15877 . 4)) ((c meth c (c (? . 1) q file-menu:get-print-item)) q (45086 . 3)) ((c meth c (c (? . 1) q edit-menu:get-replace-item)) q (57168 . 3)) ((c meth c (c (? . 95) q add-wide-snip)) q (1677 . 3)) ((c meth c (c (? . 29) q after-set-position)) q (160907 . 2)) ((c def c (c (? . 0) q frame:add-snip-menu-items)) q (75595 . 7)) ((c meth c (c (? . 1) q edit-menu:create-show/hide-replace?)) q (56424 . 3)) ((c def c (c (? . 0) q handler:add-to-recent)) q (84754 . 3)) ((c meth c (c (? . 21) q frame-shown/hidden)) q (76996 . 2)) ((c def c (c (? . 0) q frame:lookup-focus-table)) q (76528 . 4)) ((c meth c (c (? . 1) q get-menu%)) q (39687 . 3)) ((c def c (? . 108)) q (146223 . 4)) ((c def c (c (? . 0) q finder:dialog-parent-parameter)) q (27954 . 5)) ((c def c (? . 101)) q (117896 . 2)) ((c meth c (c (? . 1) q edit-menu:undo-on-demand)) q (47950 . 4)) ((c meth c (c (? . 104) q on-event)) q (144043 . 3)) ((c meth c (c (? . 1) q file-menu:save-as-string)) q (44797 . 3)) ((c def c (? . 38)) q (162317 . 5)) ((c meth c (c (? . 22) q editing-this-file?)) q (65790 . 3)) ((c def c (? . 61)) q (142099 . 2)) ((c def c (? . 79)) q (142740 . 3)) ((c def c (c (? . 5) q test:run-one)) q (176984 . 3)) ((c def c (c (? . 0) q text:searching%)) q (168855 . 3)) ((c meth c (c (? . 90) q on-display-size)) q (165727 . 2)) ((c meth c (c (? . 109) q active-child)) q (112713 . 4)) ((c meth c (c (? . 110) q default-style-name)) q (145073 . 2)) ((c meth c (c (? . 104) q on-paint)) q (143291 . 19)) ((c meth c (c (? . 2) q on-focus)) q (93151 . 7)) ((c def c (c (? . 0) q frame:reorder-menus)) q (75888 . 3)) ((c def c (c (? . 0) q menu:can-restore-checkable-menu-item%)) q (90881 . 3)) ((c def c (c (? . 0) q preferences:add-font-panel)) q (122662 . 2)) ((c meth c (c (? . 1) q edit-menu:show/hide-replace-on-demand)) q (56847 . 4)) ((c def c (c (? . 0) q text:backup-autosave%)) q (168743 . 3)) ((c def c (c (? . 0) q editor:set-standard-style-list-pref-callbacks)) q (27149 . 2)) ((c meth c (c (? . 10) q on-new-tab-snip)) q (107146 . 2)) ((c def c (c (? . 0) q application:current-app-name)) q (0 . 4)) ((c def c (c (? . 0) q panel:splitter<%>)) q (117041 . 2)) ((c meth c (c (? . 8) q is-lexer-valid?)) q (13905 . 2)) ((c meth c (c (? . 8) q on-lexer-valid)) q (13820 . 3)) ((c meth c (c (? . 34) q on-paint)) q (169561 . 2)) ((c def c (c (? . 11) q gui-utils:get-clicked-clickback-delta)) q (82615 . 4)) ((c meth c (c (? . 1) q edit-menu:between-select-all-and-find)) q (53003 . 4)) ((c form c (c (? . 54) q decorated-editor-snipclass%)) q (16507 . 2)) ((c def c (c (? . 0) q preferences:add-to-scheme-checkbox-panel)) q (122280 . 3)) ((c def c (? . 64)) q (17678 . 3)) ((c meth c (c (? . 1) q edit-menu:undo-help-string)) q (48141 . 3)) ((c def c (? . 48)) q (109415 . 3)) ((c def c (c (? . 0) q frame:status-line%)) q (74264 . 3)) ((c meth c (c (? . 1) q edit-menu:find-case-sensitive-on-demand)) q (59324 . 4)) ((c def c (c (? . 0) q text:foreground-color<%>)) q (144727 . 4)) ((c meth c (c (? . 8) q reset-region)) q (10721 . 4)) ((c def c (c (? . 0) q text:range-end)) q (170034 . 3)) ((c def c (c (? . 0) q exit:insert-on-callback)) q (27612 . 3)) ((c def c (c (? . 0) q keymap:get-user)) q (88103 . 2)) ((c meth c (c (? . 10) q after-save-file)) q (108019 . 3)) ((c meth c (c (? . 66) q after-new-child)) q (115482 . 3)) ((c def c (c (? . 5) q test:set-radio-box!)) q (174833 . 4)) ((c meth c (c (? . 40) q get-editor<%>)) q (69926 . 2)) ((c meth c (c (? . 1) q edit-menu:create-redo?)) q (48329 . 3)) ((c meth c (c (? . 10) q put-file)) q (109242 . 5)) ((c meth c (c (? . 21) q get-mdi-parent)) q (76733 . 3)) ((c def c (c (? . 0) q icon:get-gc-on-bitmap)) q (85621 . 2)) ((c def c (? . 111)) q (145312 . 4)) ((c meth c (c (? . 9) q get-tab-size)) q (132752 . 2)) ((c def c (c (? . 0) q keymap:canonicalize-keybinding-string)) q (87880 . 4)) ((c meth c (c (? . 21) q can-close-all?)) q (77613 . 2)) ((c meth c (c (? . 75) q on-paint)) q (166991 . 2)) ((c meth c (c (? . 20) q get-editor<%>)) q (62383 . 2)) ((c def c (c (? . 0) q group:create-windows-menu)) q (78027 . 3)) ((c meth c (c (? . 24) q set-styles-fixed)) q (138068 . 3)) ((c def c (? . 36)) q (126616 . 5)) ((c meth c (c (? . 1) q file-menu:close-callback)) q (46101 . 6)) ((c meth c (c (? . 1) q edit-menu:create-find-previous?)) q (55597 . 3)) ((c def c (c (? . 7) q preferences:get-prefs-snapshot)) q (126035 . 2)) ((c meth c (c (? . 23) q get-autocomplete-selected-color)) q (166436 . 3)) ((c def c (c (? . 0) q number-snip:make-fraction-snip)) q (112236 . 6)) ((c meth c (c (? . 3) q update-info)) q (37542 . 2)) ((c meth c (c (? . 70) q get-menu)) q (16350 . 2)) ((c meth c (c (? . 1) q file-menu:save-as-help-string)) q (44875 . 3)) ((c def c (c (? . 0) q text:crlf-line-endings<%>)) q (161745 . 3)) ((c def c (c (? . 0) q finder:put-file)) q (31116 . 17)) ((c meth c (c (? . 10) q on-change)) q (104358 . 2)) ((c meth c (c (? . 1) q edit-menu:replace-callback)) q (57359 . 7)) ((c meth c (c (? . 22) q get-filename)) q (65723 . 2)) ((c def c (? . 35)) q (157210 . 4)) ((c meth c (c (? . 1) q edit-menu:paste-callback)) q (50790 . 6)) ((c meth c (c (? . 12) q edit-menu:replace-all-on-demand)) q (72603 . 4)) ((c meth c (c (? . 27) q on-focus)) q (150906 . 3)) ((c meth c (c (? . 107) q make-root-area-container)) q (38257 . 6)) ((c form c (c (? . 54) q decorated-editor-snip-mixin)) q (16542 . 2)) ((c meth c (c (? . 1) q help-menu:get-about-item)) q (60824 . 3)) ((c def c (c (? . 0) q panel:single-window<%>)) q (113332 . 4)) ((c meth c (c (? . 24) q port-name-matches?)) q (139610 . 3)) ((c meth c (c (? . 22) q file-menu:create-save?)) q (66884 . 2)) ((c meth c (c (? . 80) q after-new-child)) q (113013 . 3)) ((c form c (c (? . 0) q scheme:get-keymap)) q (178045 . 2)) ((c meth c (c (? . 4) q send-eof-to-box-in-port)) q (164122 . 2)) ((c constructor c (? . 112)) q (14917 . 10)) ((c meth c (c (? . 22) q help-menu:create-about?)) q (68035 . 2)) ((c meth c (c (? . 52) q put-file)) q (21907 . 5)) ((c meth c (c (? . 1) q file-menu:get-save-item)) q (43478 . 3)) ((c meth c (c (? . 9) q introduce-let-ans)) q (132911 . 3)) ((c meth c (c (? . 94) q map-function)) q (86507 . 5)) ((c meth c (c (? . 1) q file-menu:create-revert?)) q (42685 . 3)) ((c meth c (c (? . 1) q file-menu:open-recent-string)) q (42280 . 3)) ((c meth c (c (? . 48) q listen)) q (109707 . 3)) ((c meth c (c (? . 74) q on-save-file)) q (24337 . 5)) ((c def c (c (? . 0) q preferences:add-warnings-checkbox-panel)) q (122027 . 2)) ((c meth c (c (? . 10) q on-insert)) q (106983 . 4)) ((c meth c (c (? . 10) q on-paint)) q (105705 . 19)) ((c meth c (c (? . 8) q insert-close-paren)) q (13006 . 11)) ((c def c (c (? . 0) q keymap:aug-keymap%)) q (86699 . 3)) ((c def c (? . 113)) q (1869 . 4)) ((c meth c (c (? . 52) q after-edit-sequence)) q (21176 . 2)) ((c meth c (c (? . 72) q set-search-anchor)) q (149499 . 3)) ((c meth c (c (? . 112) q on-enable-surrogate)) q (15517 . 2)) ((c meth c (c (? . 10) q after-set-position)) q (107737 . 2)) ((c def c (? . 59)) q (33302 . 4)) ((c def c (? . 114)) q (36772 . 4)) ((c def c (c (? . 7) q preferences:current-layer)) q (126322 . 4)) ((c def c (c (? . 0) q color-prefs:add-background-preferences-panel)) q (4696 . 2)) ((c meth c (c (? . 1) q edit-menu:find-from-selection-help-string)) q (54594 . 3)) ((c meth c (c (? . 35) q after-delete)) q (159838 . 5)) ((c def c (? . 84)) q (142342 . 4)) ((c def c (c (? . 0) q editor:standard-style-list-mixin)) q (22197 . 4)) ((c def c (c (? . 7) q preferences:snapshot?)) q (125857 . 3)) ((c def c (c (? . 0) q finder:common-get-file)) q (29250 . 12)) ((c meth c (c (? . 1) q edit-menu:find-case-sensitive-callback)) q (58985 . 7)) ((c meth c (c (? . 56) q after-percentage-change)) q (114223 . 2)) ((c def c (c (? . 7) q preferences:get/set)) q (123607 . 4)) ((c constructor c (? . 48)) q (109476 . 4)) ((c meth c (c (? . 9) q insert-return)) q (130407 . 2)) ((c def c (c (? . 25) q notify:choice/notify-box)) q (111030 . 10)) ((c meth c (c (? . 48) q remove-listener)) q (109805 . 3)) ((c meth c (c (? . 1) q edit-menu:preferences-on-demand)) q (60286 . 4)) ((c def c (c (? . 0) q text:column-guide<%>)) q (146154 . 3)) ((c meth c (c (? . 108) q on-change)) q (147264 . 2)) ((c def c (c (? . 0) q text:line-spacing%)) q (167454 . 3)) ((c meth c (c (? . 1) q edit-menu:create-find-case-sensitive?)) q (58893 . 3)) ((c meth c (c (? . 22) q on-close)) q (65887 . 2)) ((c meth c (c (? . 8) q set-spell-check-text)) q (11310 . 3)) ((c constructor c (? . 64)) q (17778 . 3)) ((c meth c (c (? . 2) q on-default-event)) q (92195 . 7)) ((c meth c (c (? . 95) q recalc-snips)) q (1618 . 2)) ((c meth c (c (? . 9) q compute-racket-amount-to-indent)) q (129823 . 8)) ((c meth c (c (? . 1) q edit-menu:create-preferences?)) q (59887 . 3)) ((c def c (? . 112)) q (14762 . 4)) ((c meth c (c (? . 1) q edit-menu:get-copy-item)) q (49805 . 3)) ((c def c (c (? . 0) q panel:vertical-dragable<%>)) q (115116 . 3)) ((c def c (c (? . 0) q canvas:delegate%)) q (2448 . 3)) ((c def c (? . 56)) q (114120 . 4)) ((c def c (c (? . 0) q color-prefs:register-color-preference)) q (4003 . 13)) ((c meth c (c (? . 6) q search-hits-changed)) q (71450 . 2)) ((c meth c (c (? . 1) q on-close)) q (39628 . 2)) ((c def c (c (? . 0) q exit:set-exiting)) q (27536 . 3)) ((c meth c (c (? . 1) q edit-menu:clear-on-demand)) q (51815 . 4)) ((c meth c (c (? . 2) q on-change-style)) q (96810 . 9)) ((c meth c (c (? . 43) q get-area-container)) q (32536 . 3)) ((c meth c (c (? . 9) q mark-matching-parenthesis)) q (132644 . 3)) ((c def c (c (? . 0) q color-prefs:set-in-color-scheme)) q (7833 . 7)) ((c meth c (c (? . 66) q on-subwindow-event)) q (115585 . 5)) ((c form c (c (? . 0) q scheme:setup-keymap)) q (178070 . 2)) ((q def ((lib "framework/framework-unit.rkt") framework@)) q (178441 . 2)) ((c meth c (c (? . 9) q select-forward-sexp)) q (132315 . 2)) ((c meth c (c (? . 10) q can-set-size-constraint?)) q (108572 . 2)) ((c def c (c (? . 0) q handler:find-format-handler)) q (83774 . 4)) ((c def c (c (? . 5) q test:run-interval)) q (176330 . 4)) ((c meth c (c (? . 22) q help-menu:about-callback)) q (67762 . 5)) ((c meth c (c (? . 1) q file-menu:create-print?)) q (45195 . 3)) ((c meth c (c (? . 2) q on-change)) q (91460 . 5)) ((c def c (? . 110)) q (144853 . 5)) ((c meth c (c (? . 81) q set-line-numbers-color)) q (169258 . 3)) ((c def c (c (? . 7) q exn:make-unknown-preference)) q (125058 . 6)) ((c meth c (c (? . 8) q is-stopped?)) q (10362 . 2)) ((c constructor c (? . 87)) q (151178 . 4)) ((c meth c (c (? . 35) q after-edit-sequence)) q (159404 . 2)) ((c def c (? . 71)) q (133715 . 5)) ((c meth c (c (? . 18) q save-file/gui-error)) q (19102 . 9)) ((c form c (c (? . 0) q scheme:get-wordbreak-map)) q (177980 . 2)) ((c meth c (c (? . 22) q file-menu:print-callback)) q (67234 . 5)) ((c meth c (c (? . 1) q edit-menu:paste-on-demand)) q (51009 . 4)) ((c def c (? . 72)) q (149000 . 4)) ((c meth c (c (? . 4) q get-err-style-delta)) q (164515 . 3)) ((c meth c (c (? . 20) q make-editor)) q (62444 . 2)) ((c def c (? . 74)) q (24129 . 5)) ((c meth c (c (? . 1) q edit-menu:create-find-next?)) q (54802 . 3)) ((c meth c (c (? . 73) q get-corner-bitmap)) q (17296 . 3)) ((c def c (? . 105)) q (133113 . 8)) ((c meth c (c (? . 30) q lock)) q (14100 . 2)) ((c meth c (c (? . 1) q edit-menu:preferences-string)) q (60420 . 3)) ((c meth c (c (? . 103) q get-read-write?)) q (162172 . 2)) ((c def c (c (? . 0) q frame:focus-table<%>)) q (33844 . 3))))
 parameter
 (application:current-app-name) -> string?
 (application:current-app-name name) -> void?
@@ -178,7 +178,7 @@ procedure
                                      black-on-white-color      
                                      white-on-black-color      
                                     [#:style style             
-                                     #:bold? bold?             
+                                     #:bold? bold              
                                      #:underline? underline?   
                                      #:italic? italic?         
                                      #:background background]) 
@@ -187,7 +187,7 @@ procedure
   black-on-white-color : (or/c string? (is-a?/c color%))
   white-on-black-color : (or/c string? (is-a?/c color%))
   style : (or/c #f string?) = #f
-  bold? : (if style boolean? #f) = #f
+  bold : (if style (or/c boolean? 'base) #f) = #f
   underline? : (if style boolean? #f) = #f
   italic? : (if style boolean? #f) = #f
   background : (if style                              = #f
@@ -286,7 +286,8 @@ method
   end : (or/c exact-nonnegative-integer? 'end)
 method
 (send a-color:text reset-regions regions) -> void?
-  regions : (listof (list/c exact-nonnegative-integer? (or/c exact-nonnegative-integer? 'end)))
+  regions : (listof (list/c exact-nonnegative-integer?
+                            (or/c exact-nonnegative-integer? 'end)))
 method
 (send a-color:text get-spell-check-strings) -> boolean?
 method
@@ -302,6 +303,12 @@ method
   dict : (or/c string? #f)
 method
 (send a-color:text get-spell-current-dict) -> (or/c string? #f)
+method
+(send a-color:text get-spell-suggestions pos)
+ -> (or/c #f (list/c exact-nonnegative-integer?
+                     exact-nonnegative-integer?
+                     (listof string?)))
+  pos : exact-nonnegative-integer?
 method
 (send a-color:text get-regions)
  -> (listof (list/c exact-nonnegative-integer? (or/c exact-nonnegative-integer? 'end)))
@@ -381,6 +388,9 @@ color:text% : class?
   superclass: (color:text-mixin text:keymap%)
 interface
 color:text-mode<%> : interface?
+method
+(send a-color:text-mode set-get-token get-token) -> void?
+  get-token : procedure?
 mixin
 color:text-mode-mixin : (class? . -> . class?)
   argument extends/implements: mode:surrogate-text<%>
@@ -682,6 +692,19 @@ editor:info-mixin : (class? . -> . class?)
 method
 (send an-editor:info lock lock?) -> void?
   lock? : boolean?
+class
+editor:font-size-message% : class?
+  superclass: canvas%
+constructor
+(new editor:font-size-message%                                            
+                                [message message]                         
+                               [[stretchable-height stretchable-height]]) 
+ -> (is-a?/c editor:font-size-message%)
+  message : (or/c string? (listof string?))
+  stretchable-height : any/c = #f
+method
+(send an-editor:font-size-message set-message message) -> void?
+  message : (or/c string? (listof string?))
 procedure
 (editor:set-current-preferred-font-size new-size) -> void?
   new-size : exact-nonnegative-integer?
@@ -847,19 +870,6 @@ procedure
   directory : (or/c path? false/c) = #f
   prompt : string? = "Select File"
   filter : (or/c byte-regexp? string? false/c) = #f
-  filter-msg : string?
-             = "That filename does not have the right form."
-  parent : (or/c false/c (is-a?/c top-level-window<%>)) = #f
-procedure
-(finder:common-get-file-list [directory  
-                              prompt     
-                              filter     
-                              filter-msg 
-                              parent])   
- -> (or/c (listof path?) false/c)
-  directory : (or/c false/c path?) = #f
-  prompt : string? = "Select File"
-  filter : (or/c false/c byte-regexp?) = #f
   filter-msg : string?
              = "That filename does not have the right form."
   parent : (or/c false/c (is-a?/c top-level-window<%>)) = #f
@@ -2235,11 +2245,12 @@ procedure
   thunk : (-> any/c)
   delay : integer? = (gui-utils:cursor-delay)
 procedure
-(gui-utils:unsaved-warning  filename      
-                            action        
-                           [can-save-now? 
-                            parent        
-                            cancel?])     
+(gui-utils:unsaved-warning  filename                      
+                            action                        
+                           [can-save-now?                 
+                            parent                        
+                            cancel?                       
+                            #:dialog-mixin dialog-mixin]) 
  -> (symbols 'continue 'save 'cancel)
   filename : string?
   action : string?
@@ -2248,16 +2259,18 @@ procedure
                  (is-a?/c frame%)
                  (is-a?/c dialog%))
   cancel? : boolean? = #t
+  dialog-mixin : (make-mixin-contract dialog%) = values
 procedure
-(gui-utils:get-choice  message              
-                       true-choice          
-                       false-choice         
-                      [title                
-                       default-result       
-                       parent               
-                       style                
-                       checkbox-proc        
-                       checkbox-label]) -> any/c
+(gui-utils:get-choice  message                           
+                       true-choice                       
+                       false-choice                      
+                      [title                             
+                       default-result                    
+                       parent                            
+                       style                             
+                       checkbox-proc                     
+                       checkbox-label                    
+                       #:dialog-mixin dialog-mixin]) -> any/c
   message : string?
   true-choice : string?
   false-choice : string?
@@ -2270,6 +2283,7 @@ procedure
                                         (-> boolean?)))
                 = #f
   checkbox-label : string? = (string-constant dont-ask-again)
+  dialog-mixin : (make-mixin-contract dialog%) = values
 procedure
 (gui-utils:get-clicked-clickback-delta [white-on-black?])
  -> (is-a?/c style-delta%)
@@ -2301,11 +2315,11 @@ procedure
   handler : (path? . -> . (or/c false/c (is-a?/c frame:editor<%>)))
 procedure
 (handler:find-named-format-handler name)
- -> (path? . -> . (is-a?/c frame:editor<%>))
+ -> (or/c #f (-> path? (is-a?/c frame:editor<%>)))
   name : string?
 procedure
 (handler:find-format-handler filename)
- -> (path? . -> . (is-a?/c frame:editor<%>))
+ -> (or/c #f (-> path? (is-a?/c frame:editor<%>)))
   filename : path?
 procedure
 (handler:edit-file filename [make-default])
@@ -2510,9 +2524,11 @@ menu:can-restore-underscore-menu% : class?
 interface
 mode:surrogate-text<%> : interface?
 method
-(send a-mode:surrogate-text on-enable-surrogate) -> any
+(send a-mode:surrogate-text on-enable-surrogate txt) -> any
+  txt : (is-a?/c text%)
 method
-(send a-mode:surrogate-text on-disable-surrogate) -> any
+(send a-mode:surrogate-text on-disable-surrogate txt) -> any
+  txt : (is-a?/c text%)
 class
 mode:surrogate-text% : class?
   superclass: object%
@@ -2520,82 +2536,82 @@ mode:surrogate-text% : class?
 method
 (send a-mode:surrogate-text on-change orig            
                                       call-inner) -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
 method
 (send a-mode:surrogate-text on-char orig           
                                     call-super     
                                     event)     -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   event : any/c
 method
 (send a-mode:surrogate-text on-default-char orig           
                                             call-super     
                                             event)     -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   event : any/c
 method
 (send a-mode:surrogate-text on-default-event orig           
                                              call-super     
                                              event)     -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   event : any/c
 method
 (send a-mode:surrogate-text on-display-size orig            
                                             call-inner) -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
 method
 (send a-mode:surrogate-text on-edit-sequence orig            
                                              call-inner) -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
 method
 (send a-mode:surrogate-text on-event orig           
                                      call-super     
                                      event)     -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   event : any/c
 method
 (send a-mode:surrogate-text on-focus orig           
                                      call-super     
                                      on?)       -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   on? : any/c
 method
 (send a-mode:surrogate-text on-load-file orig           
                                          call-inner     
                                          filename       
                                          format)    -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   filename : any/c
   format : any/c
 method
 (send a-mode:surrogate-text on-local-char orig           
                                           call-super     
                                           event)     -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   event : any/c
 method
 (send a-mode:surrogate-text on-local-event orig           
                                            call-super     
                                            event)     -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   event : any/c
 method
 (send a-mode:surrogate-text on-new-box orig           
                                        call-super     
                                        type)      -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   type : any/c
 method
 (send a-mode:surrogate-text on-new-image-snip orig           
@@ -2605,8 +2621,8 @@ method
                                               relative-path? 
                                               inline?)       
  -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   filename : any/c
   kind : any/c
   relative-path? : any/c
@@ -2623,8 +2639,8 @@ method
                                      dx              
                                      dy              
                                      draw-caret) -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   before? : any/c
   dc : any/c
   left : any/c
@@ -2639,8 +2655,8 @@ method
                                          call-inner     
                                          filename       
                                          format)    -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   filename : any/c
   format : any/c
 method
@@ -2648,8 +2664,8 @@ method
                                              call-inner     
                                              snip           
                                              modified?) -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   snip : any/c
   modified? : any/c
 method
@@ -2657,8 +2673,8 @@ method
                                             call-inner     
                                             start          
                                             len)       -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   start : any/c
   len : any/c
 method
@@ -2666,8 +2682,8 @@ method
                                       call-inner     
                                       start          
                                       len)       -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   start : any/c
   len : any/c
 method
@@ -2675,35 +2691,35 @@ method
                                       call-inner     
                                       start          
                                       len)       -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   start : any/c
   len : any/c
 method
 (send a-mode:surrogate-text on-new-string-snip orig        
                                                call-super) 
  -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
 method
 (send a-mode:surrogate-text on-new-tab-snip orig            
                                             call-super) -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
 method
 (send a-mode:surrogate-text on-set-size-constraint orig        
                                                    call-inner) 
  -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
 method
 (send a-mode:surrogate-text after-change-style orig       
                                                call-inner 
                                                start      
                                                len)       
  -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   start : any/c
   len : any/c
 method
@@ -2711,8 +2727,8 @@ method
                                          call-inner     
                                          start          
                                          len)       -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   start : any/c
   len : any/c
 method
@@ -2720,50 +2736,50 @@ method
                                          call-inner     
                                          start          
                                          len)       -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   start : any/c
   len : any/c
 method
 (send a-mode:surrogate-text after-set-position orig        
                                                call-inner) 
  -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
 method
 (send a-mode:surrogate-text after-set-size-constraint             
                                                       orig        
                                                       call-inner) 
  -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
 method
 (send a-mode:surrogate-text after-edit-sequence orig        
                                                 call-inner) 
  -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
 method
 (send a-mode:surrogate-text after-load-file orig           
                                             call-inner     
                                             success?)  -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   success? : any/c
 method
 (send a-mode:surrogate-text after-save-file orig           
                                             call-inner     
                                             success?)  -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   success? : any/c
 method
 (send a-mode:surrogate-text can-change-style? orig           
                                               call-inner     
                                               start          
                                               len)       -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   start : any/c
   len : any/c
 method
@@ -2771,8 +2787,8 @@ method
                                         call-inner     
                                         start          
                                         len)       -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   start : any/c
   len : any/c
 method
@@ -2780,8 +2796,8 @@ method
                                         call-inner     
                                         start          
                                         len)       -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   start : any/c
   len : any/c
 method
@@ -2789,23 +2805,23 @@ method
                                                      orig        
                                                      call-inner) 
  -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
 method
 (send a-mode:surrogate-text can-do-edit-operation? orig       
                                                    call-super 
                                                    op)        
  -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   op : any/c
 (send a-mode:surrogate-text can-do-edit-operation? orig        
                                                    call-super  
                                                    op          
                                                    recursive?) 
  -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   op : any/c
   recursive? : any/c
 method
@@ -2813,8 +2829,8 @@ method
                                            call-inner     
                                            filename       
                                            format)    -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   filename : any/c
   format : any/c
 method
@@ -2822,8 +2838,8 @@ method
                                            call-inner     
                                            filename       
                                            format)    -> any
-  orig : (is-a?/ctext%)
-  call-inner : (->any)
+  orig : (is-a?/c text%)
+  call-inner : (-> any)
   filename : any/c
   format : any/c
 method
@@ -2831,8 +2847,8 @@ method
                                      call-super        
                                      directory         
                                      default-name) -> any
-  orig : (is-a?/ctext%)
-  call-super : (->any)
+  orig : (is-a?/c text%)
+  call-super : (-> any)
   directory : any/c
   default-name : any/c
 interface
@@ -3005,6 +3021,70 @@ method
   directory : any/c
   default-name : any/c
 class
+notify:notify-box% : class?
+  superclass: object%
+constructor
+(new notify:notify-box% [value value])
+ -> (is-a?/c notify:notify-box%)
+  value : any/c
+method
+(send a-notify:notify-box get) -> any/c
+method
+(send a-notify:notify-box set v) -> void?
+  v : any/c
+method
+(send a-notify:notify-box listen listener) -> void?
+  listener : (-> any/c any)
+method
+(send a-notify:notify-box remove-listener listener) -> void?
+  listener : (-> any/c any)
+method
+(send a-notify:notify-box remove-all-listeners) -> void?
+procedure
+(notify:notify-box/pref  proc                    
+                        [#:readonly? readonly?]) 
+ -> (is-a?/c notify:notify-box%)
+  proc : (case-> (-> any/c) (-> any/c void?))
+  readonly? : boolean? = #f
+syntax
+(notify:define-notify name value-expr)
+ 
+  value-expr : (is-a?/c notify:notify-box%)
+procedure
+(notify:menu-option/notify-box parent      
+                               label       
+                               notify-box) 
+ -> (is-a?/c checkable-menu-item%)
+  parent : (or/c (is-a?/c menu%) (is-a?/c popup-menu%))
+  label : label-string?
+  notify-box : (is-a?/c notify:notify-box%)
+procedure
+(notify:check-box/notify-box parent          
+                             label           
+                             notify-box) -> (is-a?/c check-box%)
+  parent : (or/c (is-a?/c frame%) (is-a?/c dialog%)
+                 (is-a?/c panel%) (is-a?/c pane%))
+  label : label-string?
+  notify-box : (is-a?/c notify:notify-box%)
+procedure
+(notify:choice/notify-box parent          
+                          label           
+                          choices         
+                          notify-box) -> (is-a?/c choice%)
+  parent : (or/c (is-a?/c frame%) (is-a?/c dialog%)
+                 (is-a?/c panel%) (is-a?/c pane%))
+  label : label-string?
+  choices : (listof label-string?)
+  notify-box : (is-a?/c notify:notify-box%)
+procedure
+(notify:menu-group/notify-box parent      
+                              labels      
+                              notify-box) 
+ -> (listof (is-a?/c checkable-menu-item%))
+  parent : (or/c (is-a?/c menu%) (is-a?/c popup-menu%))
+  labels : (listof label-string?)
+  notify-box : (is-a?/c notify:notify-box%)
+class
 number-snip:snip-class% : class?
   superclass: snip-class%
 method
@@ -3014,15 +3094,21 @@ method
 procedure
 (number-snip:make-repeating-decimal-snip num           
                                          show-prefix?) 
- -> (is-a?/c snip%)
-  num : number?
+ -> number-snip:is-number-snip?
+  num : real?
   show-prefix? : boolean?
 procedure
 (number-snip:make-fraction-snip num                           
                                 show-prefix-in-decimal-view?) 
- -> (is-a?/c snip%)
-  num : number?
+ -> number-snip:is-number-snip?
+  num : real?
   show-prefix-in-decimal-view? : boolean?
+procedure
+(number-snip:is-number-snip? v) -> boolean?
+  v : any/c
+procedure
+(number-snip:get-number ns) -> real?
+  ns : number-snip:is-number-snip?
 interface
 panel:single<%> : interface?
   implements: area-container<%>
@@ -3239,8 +3325,8 @@ class
 pasteboard:info% : class?
   superclass: (editor:info-mixin pasteboard:backup-autosave%)
 procedure
-(path-utils:generate-autosave-name filename) -> string?
-  filename : string?
+(path-utils:generate-autosave-name filename) -> path?
+  filename : (or/c #f path-string? path-for-some-system?)
 procedure
 (path-utils:generate-backup-name filename) -> path?
   filename : path?
@@ -3318,6 +3404,10 @@ procedure
   symbol : symbol?
   value : any/c
 procedure
+(preferences:get/set pref)
+ -> (case-> (-> any/c) (-> any/c void?))
+  pref : symbol?
+procedure
 (preferences:add-callback p f [weak?]) -> (-> void?)
   p : symbol?
   f : (-> symbol? any/c any)
@@ -3366,9 +3456,9 @@ value
 exn:struct:unknown-preference : struct-type?
 parameter
 (preferences:low-level-put-preferences)
- -> ((listof symbol?) (listof any/c) . -> . any)
+ -> (-> (listof symbol?) (listof any/c) any)
 (preferences:low-level-put-preferences put-preferences) -> void?
-  put-preferences : ((listof symbol?) (listof any/c) . -> . any)
+  put-preferences : (-> (listof symbol?) (listof any/c) any)
 parameter
 (preferences:low-level-get-preference)
  -> (->* (symbol?) [(-> any)] any)
@@ -3382,6 +3472,17 @@ procedure
   snapshot : preferences:snapshot?
 procedure
 (preferences:get-prefs-snapshot) -> preferences:snapshot?
+procedure
+(preferences:new-layer previous-preferences-layer)
+ -> preferences:layer?
+  previous-preferences-layer : (or/c #f preferences:layer?)
+procedure
+(preferences:layer? v) -> boolean?
+  v : any/c
+parameter
+(preferences:current-layer) -> preferences:layer?
+(preferences:current-layer preferences-layer) -> void?
+  preferences-layer : preferences:layer?
 interface
 racket:sexp-snip<%> : interface?
 method
@@ -3471,6 +3572,18 @@ method
 method
 (send a-racket:text tabify-all) -> void?
 method
+(send a-racket:text compute-racket-amount-to-indent                       
+                                                     pos                  
+                                                    [get-head-sexp-type]) 
+ -> exact-nonnegative-integer?
+  pos : exact-nonnegative-integer?
+  get-head-sexp-type : (-> string? (or/c #f 'lambda 'define 'begin 'for/fold 'other))
+                     = (λ (x) #f)
+method
+(send a-racket:text compute-amount-to-indent pos)
+ -> exact-nonnegative-integer?
+  pos : exact-nonnegative-integer?
+method
 (send a-racket:text insert-return) -> void?
 method
 (send a-racket:text box-comment-out-selection start-pos 
@@ -3559,6 +3672,7 @@ racket:text-mixin : (class? . -> . class?)
                                mode:host-text<%>
                                color:text<%>
                                text:autocomplete<%>
+                               editor:keymap<%>
   result implements: racket:text<%>
 method
 (send a-racket:text get-word-at pos) -> string?
@@ -3602,10 +3716,10 @@ procedure
 (racket:add-coloring-preferences-panel) -> any
 procedure
 (racket:get-color-prefs-table)
- -> (listof (list/c symbol? (is-a?/c color%)))
+ -> (listof (list/c symbol? (is-a?/c color%) string?))
 procedure
 (racket:get-white-on-black-color-prefs-table)
- -> (listof (list/c symbol? (is-a?/c color%)))
+ -> (listof (list/c symbol? (is-a?/c color%) string?))
 procedure
 (racket:short-sym->pref-name short-sym) -> symbol?
   short-sym : symbol?
@@ -3690,10 +3804,28 @@ method
                                      [#:try-to-move? try-to-move?]) 
  -> void?
   dest-text : (is-a?/c text%)
-  start : exact-integer?
-  end : exact-integer?
-  dest-pos : exact-integer?
+  start : natural?
+  end : (and/c natural? (>=/c start))
+  dest-pos : natural?
   try-to-move? : boolean? = #t
+method
+(send a-text:basic move-to dest-text     
+                           start         
+                           end           
+                           dest-pos) -> void?
+  dest-text : (is-a?/c text%)
+  start : natural?
+  end : (and/c natural? (>=/c start))
+  dest-pos : natural?
+method
+(send a-text:basic copy-to dest-text     
+                           start         
+                           end           
+                           dest-pos) -> void?
+  dest-text : (is-a?/c text%)
+  start : natural?
+  end : (and/c natural? (>=/c start))
+  dest-pos : natural?
 method
 (send a-text:basic initial-autowrap-bitmap)
  -> (or/c #f (is-a?/c bitmap%))
@@ -3703,6 +3835,11 @@ method
 method
 (send a-text:basic port-name-matches? id) -> boolean?
   id : any/c
+method
+(send a-text:basic set-port-unsaved-name name) -> void?
+  name : string?
+method
+(send a-text:basic after-set-port-unsaved-name) -> any/c
 method
 (send a-text:basic get-edition-number)
  -> exact-nonnegative-integer?
@@ -3733,7 +3870,9 @@ method
   bottom : real?
   dx : real?
   dy : real?
-  draw-caret : (or/c 'no-caret 'show-inactive-caret 'show-caret)
+  draw-caret : (or/c 'no-caret
+                     'show-inactive-caret
+                     'show-caret)
 method
 (send a-text:basic on-insert start end) -> void?
   start : exact-nonnegative-integer?
@@ -3748,12 +3887,47 @@ method
   directory : (or/c path? #f)
   default-name : string?
 interface
+text:inline-overview<%> : interface?
+  implements: text%
+method
+(send a-text:inline-overview get-inline-overview-enabled?)
+ -> boolean?
+method
+(send a-text:inline-overview set-inline-overview-enabled? on?)
+ -> void?
+  on? : any/c
+mixin
+text:inline-overview-mixin : (class? . -> . class?)
+  argument extends/implements: text%
+  result implements: text:inline-overview<%>
+interface
 text:line-spacing<%> : interface?
   implements: text:basic<%>
 mixin
 text:line-spacing-mixin : (class? . -> . class?)
   argument extends/implements: text:basic<%>
   result implements: text:line-spacing<%>
+interface
+text:ascii-art-enlarge-boxes<%> : interface?
+method
+(send a-text:ascii-art-enlarge-boxes set-ascii-art-enlarge e?)
+ -> void?
+  e? : any/c
+method
+(send a-text:ascii-art-enlarge-boxes get-ascii-art-enlarge)
+ -> boolean?
+mixin
+text:ascii-art-enlarge-boxes-mixin : (class? . -> . class?)
+  argument extends/implements: text%
+  result implements: text:ascii-art-enlarge-boxes<%>
+method
+(send a-text:ascii-art-enlarge-boxes on-local-char event)
+ -> void?
+  event : (is-a?/c key-event%)
+method
+(send a-text:ascii-art-enlarge-boxes on-default-char event)
+ -> void?
+  event : (is-a?/c key-event%)
 interface
 text:first-line<%> : interface?
   implements: text%
@@ -3905,6 +4079,24 @@ method
   start : exact-nonnegative-integer?
   len : exact-nonnegative-integer?
 interface
+text:all-string-snips<%> : interface?
+method
+(send a-text:all-string-snips all-string-snips?) -> boolean?
+mixin
+text:all-string-snips-mixin : (class? . -> . class?)
+  argument extends/implements: text%
+  result implements: text:all-string-snips<%>
+method
+(send a-text:all-string-snips on-insert start     
+                                        len)  -> void?
+  start : exact-nonnegative-integer?
+  len : exact-nonnegative-integer?
+method
+(send a-text:all-string-snips after-delete start     
+                                           len)  -> void?
+  start : exact-nonnegative-integer?
+  len : exact-nonnegative-integer?
+interface
 text:searching<%> : interface?
   implements: editor:keymap<%>
               text:basic<%>
@@ -3914,7 +4106,7 @@ method
                                            replace-mode?  
                                            notify-frame?) 
  -> void?
-  str : (or/c #f string?)
+  str : (or/c #f non-empty-string?)
   cs? : boolean?
   replace-mode? : boolean?
   notify-frame? : boolean?
@@ -3922,13 +4114,15 @@ method
 (send a-text:searching set-search-anchor position) -> void?
   position : (or/c #f number?)
 method
-(send a-text:searching get-search-hit-count) -> number?
+(send a-text:searching get-search-hit-count) -> number? number?
 method
 (send a-text:searching get-replace-search-hit)
  -> (or/c number? #f)
 method
 (send a-text:searching set-replace-start pos) -> void?
   pos : (or/c number? #f)
+method
+(send a-text:searching finish-pending-search-work) -> void?
 method
 (send a-text:searching get-search-bubbles)
  -> (listof (list/c (cons/c number? number?)
@@ -4225,7 +4419,8 @@ method
 (send a-text:clever-file-format on-save-file filename     
                                              format)  -> void?
   filename : path?
-  format : (or/c 'guess 'standard 'text 'text-force-cr 'same 'copy)
+  format : (or/c 'guess 'standard 'text
+                 'text-force-cr 'same 'copy)
 interface
 text:crlf-line-endings<%> : interface?
   implements: text%
@@ -4269,6 +4464,10 @@ method
 (send a-text:ports delete/io start end) -> void?
   start : exact-integer?
   end : exact-integer?
+method
+(send a-text:ports insert/io str pos) -> void?
+  str : string?
+  pos : exact-integer?
 method
 (send a-text:ports do-submission) -> void?
 method
@@ -4396,6 +4595,12 @@ method
 (send a-text:autocomplete on-char) -> void?
 method
 (send a-text:autocomplete on-event) -> void?
+interface
+text:overwrite-disable<%> : interface?
+mixin
+text:overwrite-disable-mixin : (class? . -> . class?)
+  argument extends/implements: text%
+  result implements: text:set-overwrite-mode<%>
 class
 text:basic% : class?
   superclass: (text:basic-mixin (editor:basic-mixin text%))
@@ -4425,7 +4630,8 @@ text:input-box% : class?
   superclass: (text:input-box-mixin text:standard-style-list%)
 class
 text:keymap% : class?
-  superclass: (editor:keymap-mixin text:standard-style-list%)
+  superclass: (text:overwrite-disable-mixin (editor:keymap-mixin
+text:standard-style-list%))
 class
 text:return% : class?
   superclass: (text:return-mixin text:keymap%)
@@ -4460,6 +4666,7 @@ method
 mixin
 text:line-numbers-mixin : (class? . -> . class?)
   argument extends/implements: text%
+                               editor:standard-style-list<%>
   result implements: text:line-numbers<%>
 method
 (send a-text:line-numbers on-paint) -> void?
@@ -4484,7 +4691,8 @@ procedure
 (text:range-caret-space? range) -> boolean?
   range : text:range?
 procedure
-(text:range-style range) -> exact-nonnegative-integer?
+(text:range-style range)
+ -> (or/c 'rectangle 'hollow-ellipse 'ellipse 'dot)
   range : text:range?
 procedure
 (text:range-color range) -> (or/c string? (is-a?/c color%))
@@ -4504,6 +4712,16 @@ procedure
 (text:lookup-port-name manuals)
  -> (or/c (is-a?/c editor:basic<%>) false/c)
   manuals : symbol?
+procedure
+(text:make-snip-special snip) -> text:snip-special?
+  snip : (is-a?/c snip%)
+procedure
+(text:snip-special? v) -> boolean?
+  v : any/c
+procedure
+(text:send-snip-to-port snip port) -> void?
+  snip : (is-a?/c snip%)
+  port : output-port?
 procedure
 (start-splash  draw-spec                       
                splash-title                    
@@ -4535,8 +4753,8 @@ procedure
 procedure
 (add-splash-icon bmp x y) -> void?
   bmp : (is-a?/c bitmap%)
-  x : exact-nonnegative-integer?
-  y : exact-nonnegative-integer?
+  x : real?
+  y : real?
 procedure
 (get-splash-bitmap) -> (or/c #f (is-a?/c bitmap%))
 procedure
@@ -4613,7 +4831,7 @@ procedure
 (test:keystroke key [modifier-list]) -> void?
   key : (or/c char? symbol?)
   modifier-list : (listof (or/c 'alt 'control 'meta 'shift
-                                'noalt 'nocontrol 'nometea 'noshift))
+                                'noalt 'nocontrol 'nometa 'noshift))
                 = null
 procedure
 (test:menu-select menu items ...) -> void?

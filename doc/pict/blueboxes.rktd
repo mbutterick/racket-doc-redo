@@ -1,15 +1,15 @@
-10309
-((3) 0 () 19 ((q lib "pict/main.rkt") (q 10053 . 25) (q lib "pict/code.rkt") (q lib "pict/balloon.rkt") (q 20981 . 13) (q 10721 . 31) (q 4164 . 13) (q 15423 . 46) (q 0 . 18) (q 4454 . 108) (q 698 . 10) (q 1682 . 9) (q 2282 . 15) (q lib "pict/face.rkt") (q 3082 . 19) (q 4000 . 7) (q lib "pict/convert.rkt") (q lib "pict/flash.rkt") (q 2763 . 10)) () (h ! (equal) ((c form c (c (? . 2) q define-exec-code/scale)) q (26965 . 3)) ((c def c (c (? . 0) q inset/clip)) q (13906 . 14)) ((c def c (c (? . 3) q balloon-pict)) c (? . 4)) ((c def c (c (? . 0) q vl-append)) c (? . 1)) ((c def c (c (? . 0) q pin-line)) c (? . 9)) ((c def c (c (? . 0) q vc-append)) c (? . 1)) ((c def c (c (? . 2) q code-transformer?)) q (26826 . 3)) ((c def c (c (? . 0) q hline)) c (? . 11)) ((c def c (c (? . 3) q balloon-point-x)) c (? . 4)) ((c def c (c (? . 0) q ctl-find)) c (? . 7)) ((c def c (c (? . 0) q linestyle)) q (13277 . 7)) ((c def c (c (? . 0) q linewidth)) q (13188 . 4)) ((c def c (c (? . 17) q filled-flash)) q (23039 . 11)) ((c def c (c (? . 0) q hyperlinkize)) q (28661 . 3)) ((c def c (c (? . 0) q scale)) q (12656 . 8)) ((c def c (c (? . 2) q current-const-list)) q (25696 . 4)) ((c def c (c (? . 0) q fast-end)) q (28316 . 3)) ((c def c (c (? . 2) q comment-color)) q (27059 . 2)) ((c def c (c (? . 2) q prop:code-transformer)) q (26772 . 2)) ((c form c (c (? . 2) q code)) q (23869 . 2)) ((c def c (c (? . 0) q lc-superimpose)) c (? . 5)) ((c def c (c (? . 3) q wrap-balloon)) q (19297 . 13)) ((c def c (c (? . 2) q current-code-font)) q (23895 . 4)) ((c def c (c (? . 16) q pict-convertible?)) q (30942 . 3)) ((c def c (c (? . 0) q fade-pict)) q (27484 . 6)) ((c def c (c (? . 2) q code-pict-bottom-line-pict)) q (27290 . 3)) ((c def c (c (? . 0) q lt-superimpose)) c (? . 5)) ((c def c (c (? . 0) q fast-middle)) q (28476 . 3)) ((c def c (c (? . 0) q rtl-superimpose)) c (? . 5)) ((c def c (c (? . 0) q fast-start)) q (28235 . 3)) ((c def c (c (? . 0) q colorize)) q (13591 . 5)) ((c def c (c (? . 0) q fast-edges)) q (28395 . 3)) ((c def c (c (? . 0) q rt-superimpose)) c (? . 5)) ((c def c (c (? . 0) q inset)) q (14461 . 14)) ((c def c (c (? . 0) q file-icon)) q (16932 . 6)) ((c def c (c (? . 0) q pip-arrows-line)) c (? . 6)) ((c def c (c (? . 0) q hb-append)) c (? . 1)) ((c def c (c (? . 0) q pip-line)) c (? . 6)) ((c def c (c (? . 2) q code-colorize-enabled)) q (26049 . 4)) ((c def c (c (? . 0) q pict-path?)) q (16684 . 3)) ((c def c (c (? . 0) q text)) q (1495 . 6)) ((c def c (c (? . 0) q make-child)) c (? . 10)) ((c def c (c (? . 0) q ltl-find)) c (? . 7)) ((c def c (c (? . 0) q pict-panbox)) c (? . 8)) ((c def c (c (? . 0) q pict-width)) c (? . 8)) ((c def c (c (? . 0) q panorama)) q (15175 . 3)) ((c def c (c (? . 0) q lt-find)) c (? . 7)) ((c def c (c (? . 0) q pict-ascent)) c (? . 8)) ((c def c (c (? . 0) q refocus)) q (15086 . 4)) ((c def c (c (? . 0) q rounded-rectangle)) c (? . 14)) ((c def c (c (? . 2) q code-align)) q (25508 . 3)) ((c def c (c (? . 0) q pin-arrows-line)) c (? . 9)) ((c def c (c (? . 0) q rectangle)) c (? . 18)) ((c def c (c (? . 3) q pip-wrap-balloon)) q (19804 . 13)) ((c def c (c (? . 0) q ellipse)) c (? . 12)) ((c def c (c (? . 3) q balloon?)) c (? . 4)) ((c def c (c (? . 0) q child-pict)) c (? . 10)) ((c def c (c (? . 2) q current-reader-forms)) q (25381 . 4)) ((c def c (c (? . 13) q default-face-color)) q (21470 . 2)) ((c def c (c (? . 2) q make-code-transformer)) q (26599 . 4)) ((c def c (c (? . 0) q hc-append)) c (? . 1)) ((c def c (c (? . 0) q use-last)) q (15232 . 4)) ((c def c (c (? . 0) q rb-find)) c (? . 7)) ((c def c (c (? . 0) q child?)) c (? . 10)) ((c def c (c (? . 0) q vline)) c (? . 11)) ((c def c (c (? . 0) q bitmap)) q (3851 . 5)) ((c def c (c (? . 2) q code-italic-underscore-enabled)) q (26273 . 4)) ((c def c (c (? . 0) q child-dy)) c (? . 10)) ((c def c (c (? . 0) q sequence-animations)) q (27986 . 3)) ((c def c (c (? . 0) q cbl-superimpose)) c (? . 5)) ((c def c (c (? . 0) q clip)) q (13854 . 3)) ((c def c (c (? . 0) q rbl-find)) c (? . 7)) ((c def c (c (? . 0) q cellophane)) q (13754 . 4)) ((c def c (c (? . 3) q balloon)) q (20655 . 9)) ((c def c (c (? . 0) q child-sy)) c (? . 10)) ((c def c (c (? . 0) q pin-under)) q (11914 . 11)) ((c def c (c (? . 0) q thermometer)) q (18207 . 20)) ((c def c (c (? . 0) q text-style/c)) q (9922 . 2)) ((c def c (c (? . 0) q child)) c (? . 10)) ((c def c (c (? . 2) q pict->code-pict)) q (27377 . 4)) ((c def c (c (? . 0) q rb-superimpose)) c (? . 5)) ((c def c (c (? . 0) q make-pict)) c (? . 8)) ((c def c (c (? . 0) q ct-find)) c (? . 7)) ((c def c (c (? . 0) q standard-fish)) q (17106 . 13)) ((c def c (c (? . 0) q pict-height)) c (? . 8)) ((c def c (c (? . 0) q dc)) q (919 . 11)) ((c form c (c (? . 2) q define-code)) q (26501 . 3)) ((c def c (c (? . 2) q keyword-color)) q (27118 . 2)) ((c def c (c (? . 0) q pict-last)) c (? . 8)) ((c def c (c (? . 0) q lc-find)) c (? . 7)) ((c def c (c (? . 2) q id-color)) q (27177 . 2)) ((c def c (c (? . 0) q filled-ellipse)) c (? . 12)) ((c def c (c (? . 0) q rotate)) q (13052 . 4)) ((c def c (c (? . 0) q hbl-append)) c (? . 1)) ((c def c (c (? . 0) q pip-arrow-line)) c (? . 6)) ((c def c (c (? . 0) q table)) q (12213 . 13)) ((c def c (c (? . 13) q face*)) q (21668 . 30)) ((c def c (c (? . 0) q ct-superimpose)) c (? . 5)) ((c def c (c (? . 0) q desktop-machine)) q (18091 . 4)) ((c def c (c (? . 0) q pict->bitmap)) q (29722 . 3)) ((c def c (c (? . 3) q balloon-color)) q (21313 . 2)) ((c def c (c (? . 2) q code-colorize-quote-enabled)) q (26155 . 4)) ((c def c (c (? . 0) q lb-find)) c (? . 7)) ((c def c (c (? . 0) q fade-around-pict)) q (27679 . 5)) ((c def c (c (? . 0) q cc-find)) c (? . 7)) ((c def c (c (? . 0) q jack-o-lantern)) q (17700 . 7)) ((c def c (c (? . 0) q rbl-superimpose)) c (? . 5)) ((c def c (c (? . 2) q current-const-color)) q (25061 . 4)) ((c def c (c (? . 0) q filled-rounded-rectangle)) c (? . 14)) ((c def c (c (? . 3) q balloon-point-y)) c (? . 4)) ((c def c (c (? . 0) q struct:child)) c (? . 10)) ((c def c (c (? . 0) q child-sxy)) c (? . 10)) ((c def c (c (? . 0) q rc-superimpose)) c (? . 5)) ((c def c (c (? . 0) q lbl-superimpose)) c (? . 5)) ((c def c (c (? . 0) q lbl-find)) c (? . 7)) ((c def c (c (? . 0) q lift-above-baseline)) q (14849 . 4)) ((c def c (c (? . 2) q get-current-code-font-size)) q (24139 . 4)) ((c def c (c (? . 0) q dc-for-text-size)) q (29457 . 4)) ((c def c (c (? . 0) q arrow)) c (? . 15)) ((c def c (c (? . 0) q baseless)) q (15029 . 3)) ((c def c (c (? . 0) q scale-to-fit)) q (12849 . 8)) ((c def c (c (? . 0) q draw-pict)) q (29594 . 6)) ((c def c (c (? . 0) q frame)) q (1944 . 9)) ((c def c (c (? . 0) q launder)) q (16740 . 3)) ((c def c (c (? . 2) q current-code-tt)) q (24008 . 4)) ((c def c (c (? . 3) q make-balloon)) c (? . 4)) ((c def c (c (? . 2) q code-scripts-enabled)) q (26397 . 4)) ((c def c (c (? . 0) q color-series)) q (28853 . 17)) ((c def c (c (? . 0) q drop-below-ascent)) q (14940 . 4)) ((c def c (c (? . 0) q use-last*)) q (15327 . 4)) ((c def c (c (? . 13) q face)) q (21533 . 4)) ((c def c (c (? . 0) q child-sx)) c (? . 10)) ((c def c (c (? . 0) q lb-superimpose)) c (? . 5)) ((c def c (c (? . 2) q current-keyword-color)) q (24576 . 4)) ((c def c (c (? . 0) q circle)) c (? . 12)) ((c def c (c (? . 0) q child-syx)) c (? . 10)) ((c def c (c (? . 0) q arrowhead)) c (? . 15)) ((c def c (c (? . 0) q pict?)) c (? . 8)) ((c def c (c (? . 0) q pict-descent)) c (? . 8)) ((c def c (c (? . 0) q blank)) q (1205 . 15)) ((c def c (c (? . 0) q reverse-animations)) q (28111 . 3)) ((c def c (c (? . 2) q racket/base-const-list)) q (25950 . 2)) ((c def c (c (? . 0) q angel-wing)) q (17992 . 5)) ((c def c (c (? . 16) q pict-convert)) q (31005 . 3)) ((c def c (c (? . 2) q current-id-color)) q (24741 . 4)) ((c def c (c (? . 0) q pin-arrow-line)) c (? . 9)) ((c def c (c (? . 0) q pict-children)) c (? . 8)) ((c def c (c (? . 0) q ltl-superimpose)) c (? . 5)) ((c def c (c (? . 0) q show-pict)) q (29904 . 15)) ((c def c (c (? . 0) q pict-draw)) c (? . 8)) ((c def c (c (? . 2) q current-comment-color)) q (24411 . 4)) ((c def c (c (? . 0) q disk)) c (? . 12)) ((c def c (c (? . 2) q mzscheme-const-list)) q (26001 . 2)) ((c def c (c (? . 2) q literal-color)) q (27231 . 2)) ((c def c (c (? . 0) q make-pict-drawer)) q (29796 . 4)) ((c def c (c (? . 0) q pin-over)) q (11607 . 11)) ((c def c (c (? . 2) q current-base-color)) q (25222 . 4)) ((c def c (c (? . 0) q rc-find)) c (? . 7)) ((c def c (c (? . 0) q scale-color)) q (28722 . 4)) ((c def c (c (? . 3) q balloon-enable-3d)) q (21372 . 4)) ((c def c (c (? . 0) q clip-descent)) q (14788 . 3)) ((c form c (c (? . 2) q define-exec-code)) q (26889 . 3)) ((c def c (c (? . 0) q cc-superimpose)) c (? . 5)) ((c def c (c (? . 0) q rt-find)) c (? . 7)) ((c def c (c (? . 0) q ht-append)) c (? . 1)) ((c def c (c (? . 0) q pict)) c (? . 8)) ((c def c (c (? . 2) q current-literal-color)) q (24896 . 4)) ((c def c (c (? . 16) q prop:pict-convertible?)) q (30887 . 2)) ((c def c (c (? . 0) q cbl-find)) c (? . 7)) ((c def c (c (? . 17) q outline-flash)) q (23421 . 11)) ((c def c (c (? . 0) q split-phase)) q (28558 . 3)) ((c def c (c (? . 0) q cloud)) q (16796 . 5)) ((c def c (c (? . 0) q child-dx)) c (? . 10)) ((c def c (c (? . 0) q htl-append)) c (? . 1)) ((c def c (c (? . 0) q ghost)) q (13134 . 3)) ((c def c (c (? . 2) q typeset-code)) q (23808 . 3)) ((c def c (c (? . 3) q pin-balloon)) q (20332 . 11)) ((c def c (c (? . 16) q prop:pict-convertible)) q (30833 . 2)) ((c def c (c (? . 0) q struct:pict)) c (? . 8)) ((c def c (c (? . 0) q slide-pict)) q (27821 . 7)) ((c form c (c (? . 0) q scale/improve-new-text)) q (14248 . 3)) ((c def c (c (? . 2) q current-literal-list)) q (25821 . 4)) ((c def c (c (? . 0) q cb-find)) c (? . 7)) ((c def c (c (? . 0) q cb-superimpose)) c (? . 5)) ((c def c (c (? . 0) q vr-append)) c (? . 1)) ((c def c (c (? . 0) q ctl-superimpose)) c (? . 5)) ((c def c (c (? . 0) q rtl-find)) c (? . 7)) ((c def c (c (? . 2) q current-keyword-list)) q (25567 . 4)) ((c def c (c (? . 0) q black-and-white)) q (14367 . 4)) ((c def c (c (? . 0) q bitmap-draft-mode)) q (9955 . 4)) ((c def c (c (? . 0) q filled-rectangle)) c (? . 18)) ((c def c (c (? . 0) q current-expected-text-scale)) q (30682 . 4)) ((c def c (c (? . 2) q current-code-line-sep)) q (24308 . 4))))
+12390
+((3) 0 () 23 ((q lib "pict/code.rkt") (q lib "pict/main.rkt") (q 14311 . 31) (q lib "pict/balloon.rkt") (q lib "pict/color.rkt") (q lib "pict/tree-layout.rkt") (q 455 . 10) (q 20446 . 46) (q 26455 . 13) (q 2124 . 37) (q 0 . 18) (q lib "pict/conditional.rkt") (q lib "pict/convert.rkt") (q 13547 . 25) (q 6918 . 124) (q 4867 . 29) (q lib "pict/face.rkt") (q 6464 . 7) (q 1512 . 9) (q lib "pict/shadow.rkt") (q lib "pict/flash.rkt") (q 6628 . 13) (q 3887 . 21)) () (h ! (equal) ((c def c (c (? . 0) q keyword-color)) q (32592 . 2)) ((c def c (c (? . 1) q scale-to-fit)) q (17144 . 14)) ((c def c (c (? . 0) q code-colorize-enabled)) q (31523 . 4)) ((c def c (c (? . 4) q black)) q (34799 . 3)) ((c def c (c (? . 1) q lift-above-baseline)) q (19769 . 4)) ((c def c (c (? . 1) q ltl-superimpose)) c (? . 2)) ((c def c (c (? . 3) q balloon-enable-3d)) q (26846 . 4)) ((c def c (c (? . 0) q code-colorize-quote-enabled)) q (31629 . 4)) ((c def c (c (? . 1) q filled-ellipse)) c (? . 9)) ((c def c (c (? . 1) q child-sy)) c (? . 6)) ((c def c (c (? . 1) q cc-superimpose)) c (? . 2)) ((c def c (c (? . 3) q balloon-pict)) c (? . 8)) ((c def c (c (? . 16) q face)) q (27007 . 4)) ((c def c (c (? . 3) q pin-balloon)) q (25806 . 11)) ((c def c (c (? . 1) q cbl-superimpose)) c (? . 2)) ((c def c (c (? . 4) q color/c)) q (35242 . 2)) ((c def c (c (? . 5) q hv-alternating)) q (39483 . 7)) ((c def c (c (? . 1) q colorize)) q (18250 . 5)) ((c def c (c (? . 5) q tree-edge)) q (38220 . 9)) ((c def c (c (? . 1) q vline)) c (? . 18)) ((c def c (c (? . 5) q binary-tidier)) q (39151 . 7)) ((c def c (c (? . 1) q lt-find)) c (? . 7)) ((c def c (c (? . 1) q child-pict)) c (? . 6)) ((c def c (c (? . 1) q cc-find)) c (? . 7)) ((c def c (c (? . 1) q frame)) q (1774 . 9)) ((c def c (c (? . 3) q balloon-point-y)) c (? . 8)) ((c def c (c (? . 1) q ellipse)) c (? . 9)) ((c def c (c (? . 0) q current-base-color)) q (30696 . 4)) ((c def c (c (? . 4) q purple)) q (34744 . 3)) ((c form c (c (? . 11) q pict-if)) q (37477 . 5)) ((c def c (c (? . 1) q cloud)) q (22011 . 8)) ((c def c (c (? . 3) q make-balloon)) c (? . 8)) ((c def c (c (? . 3) q balloon-color)) q (26787 . 2)) ((c def c (c (? . 1) q lbl-find)) c (? . 7)) ((c def c (c (? . 1) q struct:child)) c (? . 6)) ((c def c (c (? . 5) q tree-layout?)) q (38647 . 3)) ((c def c (c (? . 0) q code-pict-bottom-line-pict)) q (32764 . 3)) ((c def c (c (? . 0) q code-italic-underscore-enabled)) q (31747 . 4)) ((c def c (c (? . 1) q convert-bounds-padding)) q (40763 . 5)) ((c def c (c (? . 1) q make-pict-drawer)) q (41842 . 4)) ((c def c (c (? . 1) q pict-path?)) q (21887 . 3)) ((c def c (c (? . 1) q arrowhead)) c (? . 17)) ((c def c (c (? . 0) q codeblock-pict)) q (32958 . 5)) ((c def c (c (? . 1) q thermometer)) q (23706 . 20)) ((c def c (c (? . 1) q bitmap)) q (6315 . 5)) ((c def c (c (? . 4) q white)) q (34960 . 3)) ((c def c (c (? . 1) q struct:pict)) c (? . 10)) ((c def c (c (? . 1) q lc-superimpose)) c (? . 2)) ((c def c (c (? . 0) q current-literal-color)) q (30370 . 4)) ((c def c (c (? . 1) q pip-arrows-line)) c (? . 21)) ((c def c (c (? . 1) q pin-under)) q (15744 . 11)) ((c def c (c (? . 1) q filled-rectangle)) c (? . 22)) ((c def c (c (? . 0) q prop:code-transformer)) q (32246 . 2)) ((c def c (c (? . 1) q ct-superimpose)) c (? . 2)) ((c def c (c (? . 1) q rbl-superimpose)) c (? . 2)) ((c def c (c (? . 1) q ghost)) q (17785 . 3)) ((c def c (c (? . 1) q pin-line)) c (? . 14)) ((c def c (c (? . 0) q current-const-color)) q (30535 . 4)) ((c def c (c (? . 1) q ltl-find)) c (? . 7)) ((c def c (c (? . 1) q child-sx)) c (? . 6)) ((c def c (c (? . 1) q hbl-append)) c (? . 13)) ((c def c (c (? . 1) q split-phase)) q (34372 . 3)) ((c def c (c (? . 1) q pict-last)) c (? . 10)) ((c def c (c (? . 1) q linestyle)) q (17952 . 7)) ((c def c (c (? . 4) q magenta)) q (35067 . 3)) ((c form c (c (? . 11) q pict-cond)) q (37607 . 5)) ((c def c (c (? . 1) q pict-height)) c (? . 10)) ((c def c (c (? . 1) q clip)) q (18539 . 3)) ((c def c (c (? . 0) q current-id-color)) q (30215 . 4)) ((c def c (c (? . 12) q pict-convert)) q (43079 . 3)) ((c def c (c (? . 1) q pict-panbox)) c (? . 10)) ((c def c (c (? . 1) q child-dy)) c (? . 6)) ((c def c (c (? . 0) q current-const-list)) q (31170 . 4)) ((c def c (c (? . 1) q black-and-white)) q (19100 . 4)) ((c def c (c (? . 1) q use-last*)) q (20331 . 4)) ((c form c (c (? . 0) q define-exec-code/scale)) q (32439 . 3)) ((c def c (c (? . 1) q sequence-animations)) q (33800 . 3)) ((c def c (c (? . 1) q clip-ascent)) q (19697 . 3)) ((c def c (c (? . 1) q freeze)) q (19194 . 3)) ((c def c (c (? . 1) q rotate)) q (17691 . 4)) ((c def c (c (? . 12) q prop:pict-convertible?)) q (42961 . 2)) ((c def c (c (? . 1) q cb-find)) c (? . 7)) ((c def c (c (? . 0) q racket/base-const-list)) q (31424 . 2)) ((c def c (c (? . 1) q launder)) q (21943 . 3)) ((c def c (c (? . 1) q rbl-find)) c (? . 7)) ((c def c (c (? . 0) q code-transformer?)) q (32300 . 3)) ((c def c (c (? . 1) q cb-superimpose)) c (? . 2)) ((c def c (c (? . 1) q pict-draw)) c (? . 10)) ((c def c (c (? . 1) q baseless)) q (19973 . 3)) ((c def c (c (? . 1) q rb-find)) c (? . 7)) ((c def c (c (? . 4) q dark)) q (35183 . 3)) ((c def c (c (? . 1) q dc)) q (674 . 7)) ((c def c (c (? . 1) q fade-pict)) q (33126 . 6)) ((c def c (c (? . 4) q blue)) q (34691 . 3)) ((c def c (c (? . 1) q slide-pict)) q (33463 . 7)) ((c def c (c (? . 1) q rounded-rectangle)) c (? . 15)) ((c def c (c (? . 1) q vc-append)) c (? . 13)) ((c def c (c (? . 1) q pin-over)) q (15377 . 11)) ((c def c (c (? . 3) q balloon)) q (26129 . 9)) ((c def c (c (? . 0) q current-keyword-list)) q (31041 . 4)) ((c def c (c (? . 1) q hyperlinkize)) q (39818 . 3)) ((c def c (c (? . 1) q pin-arrows-line)) c (? . 14)) ((c def c (c (? . 5) q binary-tree-layout?)) q (38705 . 3)) ((c form c (c (? . 11) q pict-case)) q (37735 . 5)) ((c def c (c (? . 1) q rc-superimpose)) c (? . 2)) ((c def c (c (? . 0) q code-align)) q (30982 . 3)) ((c def c (c (? . 5) q tree-edge?)) q (38770 . 3)) ((c def c (c (? . 4) q brown)) q (34853 . 3)) ((c def c (c (? . 1) q inset/clip)) q (18603 . 14)) ((c def c (c (? . 1) q panorama)) q (20155 . 3)) ((c def c (c (? . 0) q current-literal-list)) q (31295 . 4)) ((c def c (c (? . 0) q make-code-transformer)) q (32073 . 4)) ((c def c (c (? . 1) q inset)) q (19261 . 14)) ((c def c (c (? . 4) q light)) q (35123 . 3)) ((c def c (c (? . 1) q filled-rounded-rectangle)) c (? . 15)) ((c def c (c (? . 4) q red)) q (34475 . 3)) ((c def c (c (? . 1) q jack-o-lantern)) q (23091 . 9)) ((c def c (c (? . 1) q pict-width)) c (? . 10)) ((c def c (c (? . 1) q pict?)) c (? . 10)) ((c def c (c (? . 4) q green)) q (34637 . 3)) ((c def c (c (? . 1) q show-pict)) q (41962 . 15)) ((c def c (c (? . 1) q lc-find)) c (? . 7)) ((c def c (c (? . 1) q color-series)) q (40022 . 17)) ((c def c (c (? . 1) q htl-append)) c (? . 13)) ((c def c (c (? . 16) q default-face-color)) q (26944 . 2)) ((c def c (c (? . 1) q child)) c (? . 6)) ((c def c (c (? . 1) q pict-descent)) c (? . 10)) ((c def c (c (? . 1) q child?)) c (? . 6)) ((c def c (c (? . 16) q face*)) q (27142 . 30)) ((c def c (c (? . 1) q make-pict)) c (? . 10)) ((c def c (c (? . 19) q blur)) q (35275 . 5)) ((c def c (c (? . 0) q pict->code-pict)) q (32851 . 4)) ((c def c (c (? . 12) q prop:pict-convertible)) q (42907 . 2)) ((c form c (c (? . 0) q define-code)) q (31975 . 3)) ((c def c (c (? . 1) q standard-fish)) q (22497 . 13)) ((c def c (c (? . 1) q current-expected-text-scale)) q (42752 . 4)) ((c def c (c (? . 0) q typeset-code)) q (29282 . 3)) ((c def c (c (? . 1) q child-syx)) c (? . 6)) ((c def c (c (? . 1) q pict->argb-pixels)) q (41561 . 4)) ((c def c (c (? . 1) q file-icon)) q (22323 . 6)) ((c def c (c (? . 1) q disk)) c (? . 9)) ((c def c (c (? . 1) q ct-find)) c (? . 7)) ((c def c (c (? . 3) q balloon?)) c (? . 8)) ((c def c (c (? . 3) q wrap-balloon)) q (24771 . 13)) ((c def c (c (? . 1) q drop-below-ascent)) q (19872 . 4)) ((c def c (c (? . 5) q naive-layered)) q (38826 . 7)) ((c def c (c (? . 1) q pin-arrow-line)) c (? . 14)) ((c def c (c (? . 0) q code-scripts-enabled)) q (31871 . 4)) ((c def c (c (? . 0) q get-current-code-font-size)) q (29613 . 4)) ((c def c (c (? . 0) q current-comment-color)) q (29885 . 4)) ((c def c (c (? . 11) q hide)) q (37962 . 4)) ((c def c (c (? . 1) q lt-superimpose)) c (? . 2)) ((c def c (c (? . 1) q clip-descent)) q (19624 . 3)) ((c def c (c (? . 1) q circle)) c (? . 9)) ((c def c (c (? . 1) q child-dx)) c (? . 6)) ((c def c (c (? . 1) q blank)) q (1035 . 15)) ((c def c (c (? . 1) q lb-superimpose)) c (? . 2)) ((c def c (c (? . 0) q current-code-tt)) q (29482 . 4)) ((c def c (c (? . 1) q fast-middle)) q (34290 . 3)) ((c def c (c (? . 1) q dc-for-text-size)) q (40626 . 4)) ((c def c (c (? . 1) q pict->bitmap)) q (41111 . 9)) ((c def c (c (? . 1) q ctl-find)) c (? . 7)) ((c def c (c (? . 1) q unsafe-dc)) q (851 . 7)) ((c def c (c (? . 1) q rtl-superimpose)) c (? . 2)) ((c def c (c (? . 1) q text-style/c)) q (13416 . 2)) ((c def c (c (? . 1) q arrow)) c (? . 17)) ((c def c (c (? . 1) q bitmap-draft-mode)) q (13449 . 4)) ((c def c (c (? . 4) q gray)) q (34907 . 3)) ((c def c (c (? . 1) q linewidth)) q (17851 . 4)) ((c def c (c (? . 1) q cellophane)) q (18427 . 4)) ((c def c (c (? . 1) q slide-pict/center)) q (33628 . 7)) ((c def c (c (? . 1) q hb-append)) c (? . 13)) ((c def c (c (? . 1) q pict-children)) c (? . 10)) ((c def c (c (? . 1) q cbl-find)) c (? . 7)) ((c def c (c (? . 1) q rt-find)) c (? . 7)) ((c def c (c (? . 1) q scale-color)) q (39891 . 4)) ((c def c (c (? . 1) q argb-pixels->pict)) q (41725 . 4)) ((c def c (c (? . 1) q rc-find)) c (? . 7)) ((c def c (c (? . 1) q text)) q (1325 . 6)) ((c def c (c (? . 4) q orange)) q (34527 . 3)) ((c def c (c (? . 0) q id-color)) q (32651 . 2)) ((c def c (c (? . 1) q pict)) c (? . 10)) ((c def c (c (? . 1) q ctl-superimpose)) c (? . 2)) ((c def c (c (? . 3) q balloon-point-x)) c (? . 8)) ((c def c (c (? . 1) q rtl-find)) c (? . 7)) ((c def c (c (? . 12) q pict-convertible?)) q (43016 . 3)) ((c def c (c (? . 1) q ht-append)) c (? . 13)) ((c def c (c (? . 1) q fade-around-pict)) q (33321 . 5)) ((c def c (c (? . 1) q draw-pict)) q (40971 . 6)) ((c def c (c (? . 1) q fast-end)) q (34130 . 3)) ((c def c (c (? . 4) q yellow)) q (34582 . 3)) ((c def c (c (? . 20) q outline-flash)) q (28895 . 11)) ((c def c (c (? . 5) q tree-layout)) q (38051 . 4)) ((c def c (c (? . 1) q lbl-superimpose)) c (? . 2)) ((c def c (c (? . 1) q angel-wing)) q (23491 . 5)) ((c def c (c (? . 0) q current-code-font)) q (29369 . 4)) ((c def c (c (? . 1) q hline)) c (? . 18)) ((c def c (c (? . 3) q pip-wrap-balloon)) q (25278 . 13)) ((c def c (c (? . 1) q use-last)) q (20224 . 4)) ((c def c (c (? . 1) q vr-append)) c (? . 13)) ((c def c (c (? . 19) q shadow)) q (35461 . 13)) ((c def c (c (? . 4) q cyan)) q (35014 . 3)) ((c def c (c (? . 20) q filled-flash)) q (28513 . 11)) ((c def c (c (? . 1) q table)) q (16120 . 15)) ((c def c (c (? . 0) q current-code-line-sep)) q (29782 . 4)) ((c def c (c (? . 1) q child-sxy)) c (? . 6)) ((c def c (c (? . 1) q pip-arrow-line)) c (? . 21)) ((c def c (c (? . 0) q literal-color)) q (32705 . 2)) ((c form c (c (? . 1) q scale/improve-new-text)) q (18981 . 3)) ((c def c (c (? . 1) q pip-line)) c (? . 21)) ((c def c (c (? . 1) q rectangle)) c (? . 22)) ((c def c (c (? . 1) q pict-ascent)) c (? . 10)) ((c def c (c (? . 0) q current-keyword-color)) q (30050 . 4)) ((c def c (c (? . 1) q hc-append)) c (? . 13)) ((c form c (c (? . 0) q define-exec-code)) q (32363 . 3)) ((c def c (c (? . 1) q vl-append)) c (? . 13)) ((c def c (c (? . 1) q fast-edges)) q (34209 . 3)) ((c def c (c (? . 1) q scale)) q (16927 . 8)) ((c def c (c (? . 1) q refocus)) q (20042 . 4)) ((c def c (c (? . 1) q rt-superimpose)) c (? . 2)) ((c def c (c (? . 0) q current-reader-forms)) q (30855 . 4)) ((c def c (c (? . 1) q rb-superimpose)) c (? . 2)) ((c form c (c (? . 0) q code)) q (29343 . 2)) ((c def c (c (? . 1) q lb-find)) c (? . 7)) ((c def c (c (? . 1) q fast-start)) q (34049 . 3)) ((c def c (c (? . 1) q desktop-machine)) q (23590 . 4)) ((c def c (c (? . 0) q comment-color)) q (32533 . 2)) ((c def c (c (? . 1) q make-child)) c (? . 6)) ((c def c (c (? . 0) q mzscheme-const-list)) q (31475 . 2)) ((c def c (c (? . 1) q reverse-animations)) q (33925 . 3)) ((c def c (c (? . 19) q shadow-frame)) q (36014 . 27)) ((c def c (c (? . 11) q show)) q (37873 . 4))))
 struct
-(struct pict                                (draw
-                                            width
-                                            height
-                                            ascent
-                                            descent
-                                            children
-                                            panbox
-                                            last)
-        #:extra-constructor-name make-pict)
+(struct pict (draw
+              width
+              height
+              ascent
+              descent
+              children
+              panbox
+              last)
+    #:extra-constructor-name make-pict)
   draw : any/c
   width : real?
   height : real?
@@ -20,7 +20,7 @@ struct
   last : (or/c #f pict-path?)
 struct
 (struct child (pict dx dy sx sy sxy syx)
-        #:extra-constructor-name make-child)
+    #:extra-constructor-name make-child)
   pict : pict?
   dx : real?
   dy : real?
@@ -29,16 +29,19 @@ struct
   sxy : real?
   syx : real?
 procedure
-(dc draw w h) -> pict?
-  draw : ((is-a?/c dc<%>) real? real? . -> . any)
+(dc draw w h [a d]) -> pict?
+  draw : (-> (is-a?/c dc<%>) real? real? any)
   w : real?
   h : real?
-(dc draw w h a d) -> pict?
-  draw : ((is-a?/c dc<%>) real? real? . -> . any)
+  a : real? = h
+  d : real? = 0
+procedure
+(unsafe-dc draw w h [a d]) -> pict?
+  draw : (-> (is-a?/c dc<%>) real? real? any)
   w : real?
   h : real?
-  a : real?
-  d : real?
+  a : real? = h
+  d : real? = 0
 procedure
 (blank [size]) -> pict?
   size : real? = 0
@@ -74,54 +77,97 @@ procedure
        [#:segment seg-length     
         #:color color            
         #:line-width width]) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   seg-length : (or/c #f real?) = #f
   color : (or/c #f string? (is-a?/c color<%>)) = #f
   width : (or/c #f real?) = #f
 procedure
-(ellipse w h) -> pict?
+(ellipse  w                                 
+          h                                 
+         [#:border-color border-color       
+          #:border-width border-width]) -> pict?
   w : real?
   h : real?
-(circle diameter) -> pict?
+  border-color : (or/c #f string? (is-a?/c color<%>)) = #f
+  border-width : (or/c #f real?) = #f
+(circle  diameter                          
+        [#:border-color border-color       
+         #:border-width border-width]) -> pict?
   diameter : real?
+  border-color : (or/c #f string? (is-a?/c color<%>)) = #f
+  border-width : (or/c #f real?) = #f
 (filled-ellipse  w                                 
                  h                                 
-                [#:draw-border? draw-border?]) -> pict?
+                [#:draw-border? draw-border?       
+                 #:color color                     
+                 #:border-color border-color       
+                 #:border-width border-width]) -> pict?
   w : real?
   h : real?
   draw-border? : any/c = #t
-(disk diameter [#:draw-border? draw-border?]) -> pict?
-  diameter : real?
+  color : (or/c #f string? (is-a?/c color<%>)) = #f
+  border-color : (or/c #f string? (is-a?/c color<%>)) = #f
+  border-width : (or/c #f real?) = #f
+(disk  diameter                          
+      [#:draw-border? draw-border?       
+       #:color color                     
+       #:border-color border-color       
+       #:border-width border-width]) -> pict?
+  diameter : (and/c rational? (not/c negative?))
   draw-border? : any/c = #t
+  color : (or/c #f string? (is-a?/c color<%>)) = #f
+  border-color : (or/c #f string? (is-a?/c color<%>)) = #f
+  border-width : (or/c #f real?) = #f
 procedure
-(rectangle w h) -> pict?
+(rectangle  w                                 
+            h                                 
+           [#:border-color border-color       
+            #:border-width border-width]) -> pict?
   w : real?
   h : real?
+  border-color : (or/c #f string? (is-a?/c color<%>)) = #f
+  border-width : (or/c #f real?) = #f
 (filled-rectangle  w                                 
                    h                                 
-                  [#:draw-border? draw-border?]) -> pict?
+                  [#:draw-border? draw-border?       
+                   #:color color                     
+                   #:border-color border-color       
+                   #:border-width border-width]) -> pict?
   w : real?
   h : real?
   draw-border? : any/c = #t
+  color : (or/c #f string? (is-a?/c color<%>)) = #f
+  border-color : (or/c #f string? (is-a?/c color<%>)) = #f
+  border-width : (or/c #f real?) = #f
 procedure
-(rounded-rectangle  w                   
-                    h                   
-                   [corner-radius       
-                    #:angle angle]) -> pict?
+(rounded-rectangle  w                                 
+                    h                                 
+                   [corner-radius                     
+                    #:angle angle                     
+                    #:border-color border-color       
+                    #:border-width border-width]) -> pict?
   w : real?
   h : real?
   corner-radius : real? = -0.25
   angle : real? = 0
+  border-color : (or/c #f string? (is-a?/c color<%>)) = #f
+  border-width : (or/c #f real?) = #f
 (filled-rounded-rectangle  w                                 
                            h                                 
                           [corner-radius                     
                            #:angle angle                     
-                           #:draw-border? draw-border?]) -> pict?
+                           #:draw-border? draw-border?       
+                           #:color color                     
+                           #:border-color border-color       
+                           #:border-width border-width]) -> pict?
   w : real?
   h : real?
   corner-radius : real? = -0.25
   angle : real? = 0
   draw-border? : any/c = #t
+  color : (or/c #f string? (is-a?/c color<%>)) = #f
+  border-color : (or/c #f string? (is-a?/c color<%>)) = #f
+  border-width : (or/c #f real?) = #f
 procedure
 (bitmap img) -> pict
   img : (or/c path-string?
@@ -148,25 +194,28 @@ procedure
   dy : real?
   size : real?
 procedure
-(pin-line  pict                          
-           src                           
-           find-src                      
-           dest                          
-           find-dest                     
-          [#:start-angle start-angle     
-           #:end-angle end-angle         
-           #:start-pull start-pull       
-           #:end-pull end-pull           
-           #:line-width line-width       
-           #:color color                 
-           #:alpha alpha                 
-           #:style style                 
-           #:under? under?])         -> pict?
-  pict : pict?
+(pin-line  pict                                  
+           src                                   
+           find-src                              
+           dest                                  
+           find-dest                             
+          [#:start-angle start-angle             
+           #:end-angle end-angle                 
+           #:start-pull start-pull               
+           #:end-pull end-pull                   
+           #:line-width line-width               
+           #:color color                         
+           #:alpha alpha                         
+           #:style style                         
+           #:under? under?                       
+           #:label label                         
+           #:x-adjust-label x-adjust-label       
+           #:y-adjust-label y-adjust-label]) -> pict?
+  pict : pict-convertible?
   src : pict-path?
-  find-src : (pict? pict-path? . -> . (values real? real?))
+  find-src : (pict-convertible? pict-path? . -> . (values real? real?))
   dest : pict-path?
-  find-dest : (pict? pict-path? . -> . (values real? real?))
+  find-dest : (pict-convertible? pict-path? . -> . (values real? real?))
   start-angle : (or/c real? #f) = #f
   end-angle : (or/c real? #f) = #f
   start-pull : real? = 1/4
@@ -174,12 +223,14 @@ procedure
   line-width : (or/c #f real?) = #f
   color : (or/c #f string? (is-a?/c color%)) = #f
   alpha : (real-in 0.0 1.0) = #f
-  style : (one-of/c 'transparent 'solid 'xor 'hilite
-                    'dot 'long-dash 'short-dash 'dot-dash
-                    'xor-dot 'xor-long-dash 'xor-short-dash
-                    'xor-dot-dash)
-        = 'solid
+  style : (or/c 'transparent 'solid 'xor 'hilite        = #f
+                'dot 'long-dash 'short-dash 'dot-dash
+                'xor-dot 'xor-long-dash 'xor-short-dash
+                'xor-dot-dash #f)
   under? : any/c = #f
+  label : pict? = (blank)
+  x-adjust-label : real? = 0
+  y-adjust-label : real? = 0
 (pin-arrow-line  arrow-size                              
                  pict                                    
                  src                                     
@@ -195,14 +246,17 @@ procedure
                  #:alpha alpha                           
                  #:style style                           
                  #:under? under?                         
+                 #:label label                           
+                 #:x-adjust-label x-adjust-label         
+                 #:y-adjust-label y-adjust-label         
                  #:solid? solid?                         
                  #:hide-arrowhead? hide-arrowhead?]) -> pict?
   arrow-size : real?
-  pict : pict?
+  pict : pict-convertible?
   src : pict-path?
-  find-src : (pict? pict-path? . -> . (values real? real?))
+  find-src : (pict-convertible? pict-path? . -> . (values real? real?))
   dest : pict-path?
-  find-dest : (pict? pict-path? . -> . (values real? real?))
+  find-dest : (pict-convertible? pict-path? . -> . (values real? real?))
   start-angle : (or/c real? #f) = #f
   end-angle : (or/c real? #f) = #f
   start-pull : real? = 1/4
@@ -210,12 +264,14 @@ procedure
   line-width : (or/c #f real?) = #f
   color : (or/c #f string? (is-a?/c color%)) = #f
   alpha : (real-in 0.0 1.0) = #f
-  style : (one-of/c 'transparent 'solid 'xor 'hilite
-                    'dot 'long-dash 'short-dash 'dot-dash
-                    'xor-dot 'xor-long-dash 'xor-short-dash
-                    'xor-dot-dash)
-        = 'solid
+  style : (or/c 'transparent 'solid 'xor 'hilite        = #f
+                'dot 'long-dash 'short-dash 'dot-dash
+                'xor-dot 'xor-long-dash 'xor-short-dash
+                'xor-dot-dash #f)
   under? : any/c = #f
+  label : pict? = (blank)
+  x-adjust-label : real? = 0
+  y-adjust-label : real? = 0
   solid? : any/c = #t
   hide-arrowhead? : any/c = #f
 (pin-arrows-line  arrow-size                              
@@ -230,17 +286,20 @@ procedure
                   #:end-pull end-pull                     
                   #:line-width line-width                 
                   #:color color                           
-                  #:alpha alpha]                          
+                  #:alpha alpha                           
                   #:style style                           
-                 [#:under? under?                         
+                  #:under? under?                         
+                  #:label label                           
+                  #:x-adjust-label x-adjust-label         
+                  #:y-adjust-label y-adjust-label         
                   #:solid? solid?                         
                   #:hide-arrowhead? hide-arrowhead?]) -> pict?
   arrow-size : real?
-  pict : pict?
+  pict : pict-convertible?
   src : pict-path?
-  find-src : (pict? pict-path? . -> . (values real? real?))
+  find-src : (pict-convertible? pict-path? . -> . (values real? real?))
   dest : pict-path?
-  find-dest : (pict? pict-path? . -> . (values real? real?))
+  find-dest : (pict-convertible? pict-path? . -> . (values real? real?))
   start-angle : (or/c real? #f) = #f
   end-angle : (or/c real? #f) = #f
   start-pull : real? = 1/4
@@ -248,11 +307,14 @@ procedure
   line-width : (or/c #f real?) = #f
   color : (or/c #f string? (is-a?/c color%)) = #f
   alpha : (real-in 0.0 1.0) = #f
-  style : (one-of/c 'transparent 'solid 'xor 'hilite
-                    'dot 'long-dash 'short-dash 'dot-dash
-                    'xor-dot 'xor-long-dash 'xor-short-dash
-                    'xor-dot-dash)
+  style : (or/c 'transparent 'solid 'xor 'hilite        = #f
+                'dot 'long-dash 'short-dash 'dot-dash
+                'xor-dot 'xor-long-dash 'xor-short-dash
+                'xor-dot-dash #f)
   under? : any/c = #f
+  label : pict-convertible? = (blank)
+  x-adjust-label : real? = 0
+  y-adjust-label : real? = 0
   solid? : any/c = #t
   hide-arrowhead? : any/c = #f
 value
@@ -264,81 +326,81 @@ parameter
 procedure
 (vl-append [d] pict ...) -> pict?
   d : real? = 0.0
-  pict : pict?
+  pict : pict-convertible?
 (vc-append [d] pict ...) -> pict?
   d : real? = 0.0
-  pict : pict?
+  pict : pict-convertible?
 (vr-append [d] pict ...) -> pict?
   d : real? = 0.0
-  pict : pict?
+  pict : pict-convertible?
 (ht-append [d] pict ...) -> pict?
   d : real? = 0.0
-  pict : pict?
+  pict : pict-convertible?
 (htl-append [d] pict ...) -> pict?
   d : real? = 0.0
-  pict : pict?
+  pict : pict-convertible?
 (hc-append [d] pict ...) -> pict?
   d : real? = 0.0
-  pict : pict?
+  pict : pict-convertible?
 (hbl-append [d] pict ...) -> pict?
   d : real? = 0.0
-  pict : pict?
+  pict : pict-convertible?
 (hb-append [d] pict ...) -> pict?
   d : real? = 0.0
-  pict : pict?
+  pict : pict-convertible?
 procedure
 (lt-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (ltl-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (lc-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (lbl-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (lb-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (ct-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (ctl-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (cc-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (cbl-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (cb-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (rt-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (rtl-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (rc-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (rbl-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 (rb-superimpose pict ...) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 procedure
 (pin-over base dx dy pict) -> pict?
-  base : pict?
+  base : pict-convertible?
   dx : real?
   dy : real?
-  pict : pict?
+  pict : pict-convertible?
 (pin-over base find-pict find pict) -> pict?
-  base : pict?
+  base : pict-convertible?
   find-pict : pict-path?
-  find : (pict? pict-path? . -> . (values real? real?))
-  pict : pict?
+  find : (pict-convertible? pict-path? . -> . (values real? real?))
+  pict : pict-convertible?
 procedure
 (pin-under base dx dy pict) -> pict?
-  base : pict?
+  base : pict-convertible?
   dx : real?
   dy : real?
-  pict : pict?
+  pict : pict-convertible?
 (pin-under base find-pict find pict) -> pict?
-  base : pict?
-  find-pict : pict?
-  find : (pict? pict? . -> . (values real? real?))
-  pict : pict?
+  base : pict-convertible?
+  find-pict : pict-convertible?
+  find : (pict-convertible? pict-path? . -> . (values real? real?))
+  pict : pict-convertible?
 procedure
 (table ncols          
        picts          
@@ -347,67 +409,75 @@ procedure
        col-seps       
        row-seps)  -> pict?
   ncols : exact-positive-integer?
-  picts : (non-empty-listof pict?)
-  col-aligns : (list*of (pict? pict? -> pict?))
-  row-aligns : (list*of (pict? pict? -> pict?))
-  col-seps : (list*of real?)
-  row-seps : (list*of real?)
+  picts : (non-empty-listof pict-convertible?)
+  col-aligns : (or/c (list*of (->* () #:rest (listof pict-convertible?) pict-convertible?))
+                     (listof (->* () #:rest (listof pict-convertible?) pict-convertible?)))
+  row-aligns : (or/c (list*of (->* () #:rest (listof pict-convertible?) pict-convertible?))
+                     (listof (->* () #:rest (listof pict-convertible?) pict-convertible?)))
+  col-seps : (or/c (list*of real?) (listof real?))
+  row-seps : (or/c (list*of real?) (listof real?))
 procedure
 (scale pict factor) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   factor : real?
 (scale pict w-factor h-factor) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   w-factor : real?
   h-factor : real?
 procedure
-(scale-to-fit pict size-pict) -> pict?
-  pict : pict?
-  size-pict : pict?
-(scale-to-fit pict width height) -> pict?
-  pict : pict?
+(scale-to-fit pict size-pict [#:mode mode]) -> pict?
+  pict : pict-convertible?
+  size-pict : pict-convertible?
+  mode : (or/c 'preserve 'inset         = 'preserve
+               'preserve/max 'inset/max
+               'distort)
+(scale-to-fit pict width height [#:mode mode]) -> pict?
+  pict : pict-convertible?
   width : real?
   height : real?
+  mode : (or/c 'preserve 'inset         = 'preserve
+               'preserve/max 'inset/max
+               'distort)
 procedure
 (rotate pict theta) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   theta : real?
 procedure
 (ghost pict) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 procedure
 (linewidth w pict) -> pict?
   w : (or/c real? #f)
-  pict : pict?
+  pict : pict-convertible?
 procedure
 (linestyle style pict) -> pict?
-  style : (one-of/c 'transparent 'solid 'xor 'hilite
-                    'dot 'long-dash 'short-dash 'dot-dash
-                    'xor-dot 'xor-long-dash 'xor-short-dash
-                    'xor-dot-dash)
-  pict : pict?
+  style : (or/c 'transparent 'solid 'xor 'hilite
+                'dot 'long-dash 'short-dash 'dot-dash
+                'xor-dot 'xor-long-dash 'xor-short-dash
+                'xor-dot-dash)
+  pict : pict-convertible?
 procedure
 (colorize pict color) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   color : (or/c string? (is-a?/c color%)
-                (list byte? byte? byte?))
+                (list/c byte? byte? byte?))
 procedure
 (cellophane pict opacity) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   opacity : (real-in 0 1)
 procedure
 (clip pict) -> pict
-  pict : pict?
+  pict : pict-convertible?
 procedure
 (inset/clip pict amt) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   amt : real?
 (inset/clip pict h-amt v-amt) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   h-amt : real?
   v-amt : real?
 (inset/clip pict l-amt t-amt r-amt b-amt) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   l-amt : real?
   t-amt : real?
   r-amt : real?
@@ -420,105 +490,114 @@ parameter
 (black-and-white on?) -> void?
   on? : any/c
 procedure
+(freeze pict) -> pict?
+  pict : pict-convertible?
+procedure
 (inset pict amt) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   amt : real?
 (inset pict h-amt v-amt) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   h-amt : real?
   v-amt : real?
 (inset pict l-amt t-amt r-amt b-amt) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   l-amt : real?
   t-amt : real?
   r-amt : real?
   b-amt : real?
 procedure
 (clip-descent pict) -> pict?
-  pict : pict?
+  pict : pict-convertible?
+procedure
+(clip-ascent pict) -> pict?
+  pict : pict-convertible?
 procedure
 (lift-above-baseline pict amt) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   amt : real?
 procedure
 (drop-below-ascent pict amt) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   amt : real?
 procedure
 (baseless pict) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 procedure
 (refocus pict sub-pict) -> pict?
-  pict : pict?
-  sub-pict : pict?
+  pict : pict-convertible?
+  sub-pict : pict-convertible?
 procedure
 (panorama pict) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 procedure
 (use-last pict sub-pict) -> pict?
-  pict : pict?
+  pict : pict-convertible?
   sub-pict : pict-path?
 procedure
 (use-last* pict sub-pict) -> pict?
-  pict : pict?
-  sub-pict : pict-path?
+  pict : pict-convertible?
+  sub-pict : pict-convertible?
 procedure
 (lt-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (ltl-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (lc-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (lbl-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (lb-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (ct-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (ctl-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (cc-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (cbl-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (cb-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (rt-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (rtl-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (rc-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (rbl-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 (rb-find pict find) -> real? real?
-  pict : pict?
+  pict : pict-convertible?
   find : pict-path?
 procedure
 (pict-path? v) -> boolean?
   v : any/c
 procedure
 (launder pict) -> pict?
-  pict : pict?
+  pict : pict-convertible?
 procedure
-(cloud w h [color]) -> pict?
+(cloud w h [color #:style style]) -> pict?
   w : real?
   h : real?
   color : (or/c string? (is-a?/c color%)) = "gray"
+  style : (listof (or/c 'square         = null
+                        'nw 'ne 'sw 'se
+                         'wide))
 procedure
 (file-icon w h color [shaded?]) -> pict?
   w : real?
@@ -541,10 +620,12 @@ procedure
 procedure
 (jack-o-lantern  size              
                 [pumpkin-color     
-                 face-color])  -> pict?
+                 face-color        
+                 stem-color])  -> pict?
   size : real?
   pumpkin-color : (or/c string? (is-a?/c color%)) = "orange"
   face-color : (or/c string? (is-a?/c color%)) = "black"
+  stem-color : (or/c string? (is-a?/c color%)) = "brown"
 procedure
 (angel-wing w h left?) -> pict?
   w : real?
@@ -567,13 +648,13 @@ procedure
  -> pict?
   height-% : (between/c 0 1) = 1
   color-% : (between/c 0 1) = height-%
-  ticks : non-exact-negative-integer? = 4
+  ticks : exact-nonnegative-integer? = 4
   start-color : (or/c string? (is-a?/c color%)) = "lightblue"
   end-color : (or/c string? (is-a?/c color%)) = "lightcoral"
-  top-circle-diameter : positive-real? = 40
-  bottom-circle-diameter : positive-real? = 80
-  stem-height : positive-real? = 180
-  mercury-inset : positive-real? = 8
+  top-circle-diameter : (>/c 0) = 40
+  bottom-circle-diameter : (>/c 0) = 80
+  stem-height : (>/c 0) = 180
+  mercury-inset : (>/c 0) = 8
 procedure
 (wrap-balloon  pict                
                spike               
@@ -815,6 +896,11 @@ procedure
   pict : pict?
   bl-pict : (or/c pict? #f)
 procedure
+(codeblock-pict  code                          
+                [#:keep-lang-line? keep?]) -> pict?
+  code : string?
+  keep? : any/c = #t
+procedure
 (fade-pict n p1 p2 [#:combine combine]) -> pict?
   n : (real-in 0.0 1.0)
   p1 : pict?
@@ -827,6 +913,13 @@ procedure
   make-p2 : (pict? . -> . pict?)
 procedure
 (slide-pict base p p-from p-to n) -> pict?
+  base : pict?
+  p : pict?
+  p-from : pict?
+  p-to : pict?
+  n : (real-in 0.0 1.0)
+procedure
+(slide-pict/center base p p-from p-to n) -> pict?
   base : pict?
   p : pict?
   p-from : pict?
@@ -854,8 +947,163 @@ procedure
 (split-phase n) -> (real-in 0.0 1.0) (real-in 0.0 1.0)
   n : (real-in 0.0 1.0)
 procedure
-(hyperlinkize pict) -> pict?
+(red pict) -> pict?
   pict : pict?
+procedure
+(orange pict) -> pict?
+  pict : pict?
+procedure
+(yellow pict) -> pict?
+  pict : pict?
+procedure
+(green pict) -> pict?
+  pict : pict?
+procedure
+(blue pict) -> pict?
+  pict : pict?
+procedure
+(purple pict) -> pict?
+  pict : pict?
+procedure
+(black pict) -> pict?
+  pict : pict?
+procedure
+(brown pict) -> pict?
+  pict : pict?
+procedure
+(gray pict) -> pict?
+  pict : pict?
+procedure
+(white pict) -> pict?
+  pict : pict?
+procedure
+(cyan pict) -> pict?
+  pict : pict?
+procedure
+(magenta pict) -> pict?
+  pict : pict?
+procedure
+(light color) -> color/c
+  color : color/c
+procedure
+(dark color) -> color/c
+  color : color/c
+value
+color/c : flat-contract?
+procedure
+(blur p h-radius [v-radius]) -> pict?
+  p : pict?
+  h-radius : (and/c real? (not/c negative?))
+  v-radius : (and/c real? (not/c negative?)) = h-radius
+procedure
+(shadow  p                                 
+         radius                            
+        [dx                                
+         dy                                
+         #:color color                     
+         #:shadow-color shadow-color]) -> pict?
+  p : pict?
+  radius : (and/c real? (not/c negative?))
+  dx : real? = 0
+  dy : real? = dx
+  color : (or/c #f string? (is-a?/c color%)) = #f
+  shadow-color : (or/c #f string? (is-a?/c color%)) = #f
+procedure
+(shadow-frame  pict                                            
+               ...                                             
+              [#:sep separation                                
+               #:margin margin                                 
+               #:background-color bg-color                     
+               #:frame-color frame-color                       
+               #:frame-line-width frame-line-width             
+               #:shadow-side-length shadow-side-length         
+               #:shadow-top-y-offset shadow-top-y-offset       
+               #:shadow-bottom-y-offset shadow-bottom-y-offset 
+               #:shadow-descent shadow-descent                 
+               #:shadow-alpha-factor shadow-alpha-factor       
+               #:blur blur-radius])                            
+ -> pict?
+  pict : pict?
+  separation : real? = 5
+  margin : real? = 20
+  bg-color : (or/c string? (is-a?/c color%)) = "white"
+  frame-color : (or/c string? (is-a?/c color%)) = "gray"
+  frame-line-width : (or/c real? #f 'no-frame) = 0
+  shadow-side-length : real? = 4
+  shadow-top-y-offset : real? = 10
+  shadow-bottom-y-offset : real? = 4
+  shadow-descent : (and/c real? (not/c negative?)) = 40
+  shadow-alpha-factor : real? = 3/4
+  blur-radius : (and/c real? (not/c negative?)) = 20
+syntax
+(pict-if maybe-combine test-expr then-expr else-expr)
+ 
+maybe-combine = 
+              | #:combine combine-expr
+syntax
+(pict-cond maybe-combine [test-expr pict-expr] ...)
+ 
+maybe-combine = 
+              | #:combine combine-expr
+syntax
+(pict-case test-expr maybe-combine [literals pict-expr] ...)
+ 
+maybe-combine = 
+              | #:combine combine-expr
+procedure
+(show pict [show?]) -> pict?
+  pict : pict?
+  show? : any/c = #t
+procedure
+(hide pict [hide?]) -> pict?
+  pict : pict?
+  hide? : any/c = #t
+procedure
+(tree-layout [#:pict node-pict] child ...) -> tree-layout?
+  node-pict : (or/c #f pict?) = #f
+  child : (or/c tree-layout? tree-edge? #f)
+procedure
+(tree-edge  node                          
+           [#:edge-color edge-color       
+            #:edge-width edge-width]) -> tree-edge?
+  node : tree-layout?
+  edge-color : (or/c string?                     = "gray"
+                     (is-a?/c color%)
+                     (list/c byte? byte? byte?))
+  edge-width : (or/c 'unspecified real? #f) = 'unspecified
+procedure
+(tree-layout? v) -> boolean?
+  v : any/c
+procedure
+(binary-tree-layout? v) -> boolean?
+  v : any/c
+procedure
+(tree-edge? v) -> boolean?
+  v : any/c
+procedure
+(naive-layered  tree-layout                 
+               [#:x-spacing x-spacing       
+                #:y-spacing y-spacing]) -> pict?
+  tree-layout : tree-layout?
+  x-spacing : (or/c (and/c real? positive?) #f) = #f
+  y-spacing : (or/c (and/c real? positive?) #f) = #f
+procedure
+(binary-tidier  tree-layout                 
+               [#:x-spacing x-spacing       
+                #:y-spacing y-spacing]) -> pict?
+  tree-layout : binary-tree-layout?
+  x-spacing : (or/c (and/c real? positive?) #f) = #f
+  y-spacing : (or/c (and/c real? positive?) #f) = #f
+procedure
+(hv-alternating  tree-layout                 
+                [#:x-spacing x-spacing       
+                 #:y-spacing y-spacing]) -> pict?
+  tree-layout : binary-tree-layout?
+  x-spacing : (or/c (and/c real? positive?) #f) = #f
+  y-spacing : (or/c (and/c real? positive?) #f) = #f
+procedure
+(hyperlinkize pict) -> pict?
+  pict : pict-convertible?
 procedure
 (scale-color factor color) -> (is-a?/c color%)
   factor : real?
@@ -881,19 +1129,38 @@ parameter
 (dc-for-text-size) -> (or/c #f (is-a?/c dc<%>))
 (dc-for-text-size dc) -> void?
   dc : (or/c #f (is-a?/c dc<%>))
+parameter
+(convert-bounds-padding)
+ -> (list/c (>=/c 0) (>=/c 0) (>=/c 0) (>=/c 0))
+(convert-bounds-padding padding) -> void?
+  padding : (list/c (>=/c 0) (>=/c 0) (>=/c 0) (>=/c 0))
 procedure
 (draw-pict pict dc x y) -> void?
-  pict : pict?
+  pict : pict-convertible?
   dc : (is-a?/c dc<%>)
   x : real?
   y : real?
 procedure
-(pict->bitmap pict) -> (is-a?/c bitmap%)
-  pict : pict?
+(pict->bitmap  pict                              
+              [smoothing                         
+               #:make-bitmap make-a-bitmap]) -> (is-a?/c bitmap%)
+  pict : pict-convertible?
+  smoothing : (or/c 'unsmoothed 'smoothed 'aligned) = 'aligned
+  make-a-bitmap : (exact-positive-integer? exact-positive-integer?
+                   . -> . (is-a?/c bitmap%))
+                = make-bitmap
+procedure
+(pict->argb-pixels pict [smoothing]) -> bytes?
+  pict : pict-convertible?
+  smoothing : (or/c 'unsmoothed 'smoothed 'aligned) = 'aligned
+procedure
+(argb-pixels->pict bytes width) -> pict?
+  bytes : bytes?
+  width : exact-nonnegative-integer?
 procedure
 (make-pict-drawer pict)
  -> ((is-a?/c dc<%>) real? real? . -> . void?)
-  pict : pict?
+  pict : pict-convertible?
 procedure
 (show-pict  pict                           
            [w                              
@@ -901,7 +1168,7 @@ procedure
             #:frame-x frame-x              
             #:frame-y frame-y              
             #:frame-style frame-style) -> void?
-  pict : pict?
+  pict : pict-convertible?
   w : (or/c #f exact-nonnegative-integer?) = #f
   h : (or/c #f exact-nonnegative-integer?) = #f
   frame-x : (or/c (integer-in -10000 10000) #f)
@@ -910,9 +1177,9 @@ procedure
                               'no-system-menu 'hide-menu-bar
                               'toolbar-button 'float 'metal))
 parameter
-(current-expected-text-scale) -> (list real? real?)
+(current-expected-text-scale) -> (list/c real? real?)
 (current-expected-text-scale scales) -> void?
-  scales : (list real? real?)
+  scales : (list/c real? real?)
 value
 prop:pict-convertible : struct-type-property?
 value

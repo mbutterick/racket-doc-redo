@@ -26,7 +26,7 @@
 
 /* Monospace: */
 .maincolumn, .refpara, .refelem, .tocset, .stt, .hspace, .refparaleft, .refelemleft {
-    font-family: 'Source Code Pro', monospace;
+    font-family: 'Fira-Mono', monospace;
     white-space: inherit;
     font-size: 1rem;
 }
@@ -48,7 +48,7 @@ h2 .stt {
 
 .RpackageSpec .stt {
     font-weight: 300;
-    font-family: 'Source Code Pro';
+    font-family: 'Fira-Mono', monospace;
     font-size: 0.9rem;
 }
 
@@ -71,7 +71,7 @@ h3 .stt, h4 .stt, h5 .stt {
     font-family: 'Fira', sans-serif;
 }
 .ssansserif {
-    font-family: 'Fira';
+    font-family: 'Fira', sans-serif;
     font-weight: 500;
     font-size: 0.9em;
 }
@@ -88,6 +88,9 @@ p, .SIntrapara {
     line-height: 1.4;
 }
 
+.compact {
+  padding: 0 0 1em 0;
+}
 
 li {
     list-style-position: outside;
@@ -95,19 +98,14 @@ li {
 }
 
 h1, h2, h3, h4, h5, h6, h7, h8 {
-    font-family: 'Fira';
+    font-family: 'Fira', sans-serif;
     font-weight: 300;
     font-size: 1.6rem;
     color: #333;
     margin-top: inherit;
     margin-bottom: 1rem;
     line-height: 1.25;
-    -moz-font-feature-settings: 'tnum=1';
-    -moz-font-feature-settings: 'tnum' 1;
-    -webkit-font-feature-settings: 'tnum' 1;
-    -o-font-feature-settings: 'tnum' 1;
-    -ms-font-feature-settings: 'tnum' 1;
-    font-feature-settings: 'tnum' 1;
+    font-feature-settings: 'tnum' 1, 'liga' 0;
 
 }
 
@@ -118,10 +116,9 @@ h3, h4, h5, h6, h7, h8 {
 
 
 h2 { /* per-page main title */
-    font-family: 'Miso';
-    font-weight: bold;
+    font-family: 'Cooper-Hewitt';
     margin-top: 4rem;
-    font-size: 3rem;
+    font-size: 2.3rem;
     line-height: 1.1;
     width: 90%;
 }
@@ -171,7 +168,7 @@ a:hover {
     left: 0;
     width: 15rem;
     height: 6rem;
-    font-family: 'Fira';
+    font-family: 'Fira', sans-serif;
     font-size: 0.9rem;
     border-bottom: 0px solid hsl(216, 15%, 70%);
     background-color: inherit;
@@ -241,6 +238,12 @@ a:hover {
     height: 4rem;
 }
 
+.nosearchform {
+    margin: 0;
+    padding: 0;
+    height: 4rem;
+}
+
 .searchbox {
     font-size: 1rem;
     width: 12rem;
@@ -253,6 +256,10 @@ a:hover {
 #search_box {
     font-size: 0.8rem;
 }
+
+/* Default to local view. Global will specialize */
+.plt_global_only { display: none; }
+.plt_local_only { display: block; }
 
 /* ---------------------------------------- */
 /* Version */
@@ -304,7 +311,20 @@ a:hover {
     border-left: 0.4rem solid #ccb;
 }
 
-.refcontent p {
+
+/* slightly different handling for margin-note* on narrow screens */
+@media all and (max-width:1340px) {
+     span.refcolumn {
+         float: right;
+         width: 50%;
+         margin-left: 1rem;
+         margin-bottom: 0.8rem;   
+         margin-top: 1.2rem; 
+     }
+
+}
+
+.refcontent, .refcontent p {
     line-height: 1.5;
     margin: 0;
 }
@@ -330,18 +350,17 @@ a:hover {
 }
 
 
-@media all and (min-width:1260px) {
+@media all and (min-width:1340px) {
     .refcolumn {
-        position: absolute;
-        left: 66rem; right: 3em;
-        margin: 0;
+        margin: 0 -22.5rem 1rem 0;
         float: right;
-        max-width: 18rem;
+        clear: right;
+        width: 18rem;
     }
 }
 
 .refcontent {
-    font-family: 'Fira';
+    font-family: 'Fira', sans-serif;
     font-size: 1rem;
     line-height: 1.6;
     margin: 0 0 0 0;
@@ -388,14 +407,8 @@ a:hover {
     padding-bottom: 0.4rem;
     padding-left: 0.2rem;
     line-height: 1.1;
-    font-family: 'Fira';
-    -moz-font-feature-settings: 'tnum=1';
-    -moz-font-feature-settings: 'tnum' 1;
-    -webkit-font-feature-settings: 'tnum' 1;
-    -o-font-feature-settings: 'tnum' 1;
-    -ms-font-feature-settings: 'tnum' 1;
-    font-feature-settings: 'tnum' 1;
-
+    font-family: 'Fira', sans-serif;
+    font-feature-settings: 'tnum' 1, 'liga' 0;
 }
 
 .tocset td a {
@@ -507,7 +520,7 @@ table.tocsublist {
 .tocsubtitle {
     display: block;
     font-size: 62%;
-    font-family: 'Fira';
+    font-family: 'Fira', sans-serif;
     font-weight: bolder;
     font-style: normal;
     letter-spacing: 2px;
@@ -517,13 +530,10 @@ table.tocsublist {
 
 .toptoclink {
     font-weight: bold;
-    font-size: 110%
-}
-
-/* hack to add space around .toptoclink because markup is all td */
-.toptoclink:after {
-    content: " ";
-    font-size: 3rem;
+    font-size: 110%;
+    margin-bottom: 0.5rem;
+    margin-top: 1.5rem;
+    display: inline-block;
 }
 
 .toclink {
@@ -610,7 +620,7 @@ blockquote > blockquote.SVInsetFlow {
 .SAuthorListBox {
     position: static;
     float: none;
-    font-family: 'Fira';
+    font-family: 'Fira', sans-serif;
     font-weight: 300;
     font-size: 110%;
     margin-top: 1rem;

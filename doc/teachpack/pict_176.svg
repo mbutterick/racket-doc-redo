@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17pt" height="17pt" viewBox="0 0 17 17" version="1.1">
-<defs>
-<image id="image4835" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAC9ElEQVQ4jV2TTWhUdxTFf//3OZk8X97LGBM6Q1DRoVIRTO0uEimxixYlm7ou7aabloKURqqBunCj4MYPsF1kUSi0hdJFKKQR4gSzEKQ4M8XgkFgjhg6YjL6ZjPF93S5eWzQXLhcu95zFOfcottVkPv/1F+PjH2OaChFM6FWapsIgiD6/efOrH5Pk++2Y/0pd9P1rcvWqSL0uUquJVKtZ12oi9+7J1rlz8aeGcfpVkP7vdG8Ui99+NjX1CcePQ6sFT5/CixewuQnPn4NtY4yMaB8UCu8ld+/alTCcB0QvQumncvnnU2fPnmRsDMpl8H1YXYVnz6DbBc+DI0dg505Ufz/vDg8f3Vevvznfbv+un8nnL3w0Ofkhvk/s+6ihIZRtQ6EAjx6B48DoKNg2ommkjQaaYXBoz563/rp1q2UM5vMDKAUbG6hKhShNMQ8fRvk+jI+DbUMuh4gQViqYS0sgAnNzvJGmRcNWyiAIwLbRRVBzc8RBgDE6iurrAyDd2iKen8dqNFBPnsDMDNTr2GAZeppaxDHomZ5aFKGaTUiS/3cqDDGXl1Gzs1CtZto4Dnq326OZm5smi4vQaMDjx7B/P2piAmVZEMcZgeuiJibAMECpTJ/eXvoNo0ezoigjmJkB04QTJ8CyIAhgagouXYIogmIRrl/PdMnlYMcOnFyuV1vT9Tj1PMjnifbuRRwHOh24fBnW1uD+feTKFUgS0qEhuqUS+D6p67ISRbFuJMm+Q3DMK5UwV1aQTgd1+zY0mzA8DLt2QatF8vAh0cICdrVKqOv8WavxXbs9rS/Bna0wHDjY7b7tlcvorVZm0+7dMDiYPc/AANrGBkanQ5wkPJid5cL6+rVf4bwORH/Ab3+/fCkjzeaYe+CAolyGQgHxfcTzkJ4eUschWV2lMT0tk+vr3/wCZ4DotTSdhNPLlhV3+vqk7XnS8X1pe54EriuB68oDTUvehy9fS+D2SL6j66eOatqx2DAEyKxMErQ0VYuwcAd+ePX+H/1jOao5EGRsAAAAAElFTkSuQmCC"/>
-<pattern id="pattern0" patternUnits="userSpaceOnUse" width="16" height="16" >
-  <use xlink:href="#image4835"/>
-</pattern>
-</defs>
-<g id="surface4832">
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#pattern0);" d="M 0 0 L 16 0 L 16 16 L 0 16 Z M 0 0 "/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47" height="67" viewBox="0 0 47 67" version="1.1">
+<g id="surface7202">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,100%);fill-opacity:1;" d="M 43 33 C 43 49.570312 34.046875 63 23 63 C 11.953125 63 3 49.570312 3 33 C 3 16.429688 11.953125 3 23 3 C 34.046875 3 43 16.429688 43 33 Z "/>
 </g>
 </svg>

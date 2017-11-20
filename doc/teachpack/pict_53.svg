@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="142pt" height="142pt" viewBox="0 0 142 142" version="1.1">
-<g id="surface4217">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 20.5 20.5 L 120.5 20.5 L 120.5 120.5 L 20.5 120.5 Z M 20.5 20.5 "/>
-<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(100%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.5 0.5 C 198.488281 0.5 -57.488281 140.5 140.5 140.5 "/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="148" height="148" viewBox="0 0 148 148" version="1.1">
+<g id="surface6464">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 23.5 23.5 C 23.5 23.5 123.5 23.5 123.5 23.5 C 123.5 23.5 123.5 123.5 123.5 123.5 C 123.5 123.5 23.5 123.5 23.5 123.5 C 23.5 123.5 23.5 23.5 23.5 23.5 Z "/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(100%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 3.5 3.5 C 201.488281 3.5 -54.488281 143.5 143.5 143.5 "/>
 </g>
 </svg>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41pt" height="21pt" viewBox="0 0 41 21" version="1.1">
-<g id="surface4850">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,0%,0%);fill-opacity:1;" d="M 0 0 L 40 0 L 40 20 L 0 20 Z M 0 0 "/>
-<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:0.5;stroke-miterlimit:10;" d="M 20.5 0.5 L 20.5 20.5 "/>
-<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:0.5;stroke-miterlimit:10;" d="M 0.5 10.5 L 40.5 10.5 "/>
-<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:0.5;stroke-miterlimit:10;" d="M 19.5 0.5 L 19.5 20.5 "/>
-<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:0.5;stroke-miterlimit:10;" d="M 0.5 9.5 L 40.5 9.5 "/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="67" viewBox="0 0 67 67" version="1.1">
+<g id="surface7220">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,100%);fill-opacity:1;" d="M 63 33 C 63 49.570312 49.570312 63 33 63 C 16.429688 63 3 49.570312 3 33 C 3 16.429688 16.429688 3 33 3 C 49.570312 3 63 16.429688 63 33 Z "/>
 </g>
 </svg>

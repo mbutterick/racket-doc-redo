@@ -1,5 +1,5 @@
-17178
-((3) 0 () 50 ((q lib "web-server/lang/web.rkt") (q lib "web-server/stuffers/stuffer.rkt") (q lib "web-server/formlets/input.rkt") (q lib "web-server/http/request-structs.rkt") (q lib "web-server/http/cookie-parse.rkt") (q 20002 . 7) (q 14795 . 4) (q lib "web-server/test.rkt") (q 15453 . 18) (q lib "web-server/servlet/web.rkt") (q lib "web-server/managers/manager.rkt") (q 7038 . 17) (q 14433 . 5) (q lib "web-server/http/response-structs.rkt") (q 16987 . 8) (q 12614 . 5) (q lib "web-server/templates.rkt") (q lib "web-server/formlets/lib.rkt") (q lib "web-server/servlet/web-cells.rkt") (q lib "web-server/stuffers/store.rkt") (q 13579 . 5) (q lib "web-server/servlet/servlet-structs.rkt") (q lib "web-server/stuffers/hmac-sha1.rkt") (q lib "web-server/dispatch.rkt") (q lib "web-server/http/redirect.rkt") (q lib "web-server/dispatch/extend.rkt") (q lib "web-server/lang/web-param.rkt") (q lib "web-server/page.rkt") (q 8087 . 7) (q lib "web-server/http/digest-auth.rkt") (q 15016 . 6) (q 14893 . 4) (q 8432 . 7) (q lib "web-server/lang/soft.rkt") (q lib "web-server/http/bindings.rkt") (q lib "web-server/scribblings/dummy-stateless-servlet.rkt") (q lib "web-server/http/id-cookie.rkt") (q lib "web-server/lang/file-box.rkt") (q lib "web-server/formlets/dyn-syntax.rkt") (q lib "web-server/lang/abort-resume.rkt") (q lib "web-server/formlets/syntax.rkt") (q lib "web-server/http/cookie.rkt") (q lib "web-server/formlets/servlet.rkt") (q lib "web-server/scribblings/dummy-v2-servlet.rkt") (q lib "web-server/lang/stuff-url.rkt") (q lib "web-server/managers/lru.rkt") (q lib "web-server/stuffers/hash.rkt") (q lib "web-server/insta/insta.rkt") (q lib "web-server/lang/web-cells.rkt") (q lib "web-server/http/basic-auth.rkt")) () (h ! (equal) ((c def c (c (? . 0) q send/suspend/hidden)) q (11150 . 3)) ((c def c (c (? . 2) q to-symbol)) q (32193 . 3)) ((c def c (c (? . 1) q stuffer/c)) q (12767 . 4)) ((c def c (c (? . 0) q send/suspend/dispatch)) q (11423 . 4)) ((c def c (c (? . 29) q make-digest-auth-header)) q (20985 . 7)) ((c def c (c (? . 4) q client-cookie-value)) c (? . 5)) ((c def c (c (? . 45) q make-threshold-LRU-manager)) q (10093 . 7)) ((c def c (c (? . 13) q response-seconds)) c (? . 14)) ((c def c (c (? . 7) q make-servlet-tester)) q (33938 . 4)) ((c def c (c (? . 1) q stuffer-out)) c (? . 15)) ((c def c (c (? . 9) q send/back)) q (5099 . 3)) ((c def c (c (? . 26) q web-parameter?)) q (12247 . 3)) ((c def c (c (? . 3) q binding:form?)) c (? . 31)) ((c def c (c (? . 2) q required)) q (31811 . 3)) ((c def c (c (? . 3) q binding:file)) c (? . 30)) ((c def c (c (? . 3) q request-uri)) c (? . 8)) ((c def c (c (? . 3) q make-binding)) c (? . 6)) ((c def c (c (? . 19) q store)) c (? . 20)) ((c def c (c (? . 2) q select-input)) q (31391 . 9)) ((c def c (c (? . 18) q web-cell?)) q (6780 . 3)) ((c def c (c (? . 49) q request->basic-credentials)) q (20872 . 4)) ((c def c (c (? . 4) q make-client-cookie)) c (? . 5)) ((c def c (c (? . 22) q HMAC-SHA1-stuffer)) q (14120 . 3)) ((c def c (c (? . 17) q tag-xexpr)) q (24930 . 5)) ((c def c (c (? . 3) q header-value)) c (? . 12)) ((c def c (c (? . 3) q binding?)) c (? . 6)) ((c def c (c (? . 4) q request-cookies)) q (20241 . 3)) ((c form c (c (? . 23) q dispatch-url)) q (23340 . 6)) ((c def c (c (? . 3) q bindings-assq-all)) q (15337 . 4)) ((c def c (c (? . 7) q make-dispatcher-tester)) q (34061 . 3)) ((c def c (c (? . 3) q struct:request)) c (? . 8)) ((c def c (c (? . 24) q redirection-status?)) q (20606 . 3)) ((c def c (c (? . 3) q request-bindings/raw)) q (16264 . 3)) ((c def c (c (? . 2) q multiselect-input)) q (30863 . 11)) ((c def c (c (? . 10) q manager-continuation-lookup)) c (? . 11)) ((c def c (c (? . 9) q clear-continuation-table!)) q (6306 . 2)) ((c def c (c (? . 10) q manager-adjust-timeout!)) c (? . 11)) ((c form c (c (? . 16) q include-template)) q (33067 . 3)) ((c def c (c (? . 3) q make-header)) c (? . 12)) ((c def c (c (? . 2) q password-input)) q (26639 . 12)) ((c def c (c (? . 13) q response?)) c (? . 14)) ((c def c (c (? . 35) q interface-version)) q (10403 . 2)) ((c def c (c (? . 1) q stuffer)) c (? . 15)) ((c def c (c (? . 9) q adjust-timeout!)) q (6563 . 3)) ((c def c (c (? . 10) q exn:fail:servlet-manager:no-continuation)) c (? . 32)) ((c form c (c (? . 16) q in)) q (33164 . 2)) ((c form c (c (? . 25) q define-coercion-match-expander)) q (23951 . 2)) ((c form c (c (? . 27) q embed/url)) q (33213 . 2)) ((c def c (c (? . 17) q xml)) q (24797 . 3)) ((c def c (c (? . 18) q web-cell-shadow)) q (6956 . 4)) ((c def c (c (? . 19) q store-read)) c (? . 20)) ((c def c (c (? . 10) q exn:fail:servlet-manager:no-instance)) c (? . 28)) ((c def c (c (? . 21) q any->response)) q (4896 . 3)) ((c def c (c (? . 3) q struct:header)) c (? . 12)) ((c def c (c (? . 17) q formlet*/c)) q (24341 . 2)) ((c def c (c (? . 21) q set-any->response!)) q (4973 . 3)) ((c def c (c (? . 3) q request-headers/raw)) c (? . 8)) ((c def c (c (? . 3) q bindings-assq)) q (15218 . 4)) ((c def c (c (? . 2) q input-int)) q (32402 . 2)) ((c def c (c (? . 17) q formlet-display)) q (25099 . 3)) ((c def c (c (? . 0) q send/suspend)) q (11035 . 3)) ((c def c (c (? . 9) q send/suspend/url/dispatch)) q (5552 . 4)) ((c def c (c (? . 7) q tester/c)) q (33909 . 2)) ((c def c (c (? . 22) q HMAC-SHA1)) q (14042 . 4)) ((c form c (c (? . 23) q dispatch-rules+applies)) q (23199 . 4)) ((c def c (c (? . 1) q stuffer-sequence)) q (13034 . 4)) ((c def c (c (? . 37) q file-unbox)) q (11990 . 3)) ((c def c (c (? . 17) q xexpr-forest/c)) q (24233 . 2)) ((c def c (c (? . 1) q stuffer?)) c (? . 15)) ((c def c (c (? . 3) q request-host-ip)) c (? . 8)) ((c def c (c (? . 24) q see-other)) q (20755 . 2)) ((c def c (c (? . 34) q extract-bindings)) q (16732 . 4)) ((c def c (c (? . 25) q make-coerce-safe?)) q (24010 . 3)) ((c def c (c (? . 10) q manager)) c (? . 11)) ((c def c (c (? . 1) q stuffer-if)) q (13172 . 4)) ((c def c (c (? . 17) q text)) q (24863 . 3)) ((c def c (c (? . 2) q text-input)) q (26091 . 12)) ((c form c (c (? . 23) q define-container)) q (23620 . 2)) ((q def ((lib "web-server/stuffers/base64.rkt") base64-stuffer)) q (13475 . 2)) ((c def c (c (? . 43) q interface-version)) q (4673 . 2)) ((c def c (c (? . 10) q manager-create-instance)) c (? . 11)) ((q def ((lib "web-server/http/xexpr.rkt") response/xexpr)) q (21747 . 17)) ((c form c (c (? . 26) q make-web-parameter)) q (12210 . 2)) ((c def c (c (? . 17) q cross*)) q (24561 . 4)) ((c form c (c (? . 33) q soft-state)) q (12583 . 2)) ((c def c (c (? . 27) q binding-id/c)) q (33411 . 2)) ((c def c (c (? . 1) q stuffer-chain)) q (13309 . 3)) ((c def c (c (? . 2) q reset)) q (29184 . 5)) ((c def c (c (? . 9) q continuation-url?)) q (6623 . 4)) ((c def c (c (? . 2) q hidden)) q (29529 . 5)) ((c def c (c (? . 10) q make-manager)) c (? . 11)) ((c form c (c (? . 25) q define-bidi-match-expander)) q (23862 . 2)) ((c def c (c (? . 17) q formlet-process)) q (25179 . 4)) ((c def c (c (? . 19) q store-write)) c (? . 20)) ((c def c (c (? . 13) q response-code)) c (? . 14)) ((c def c (c (? . 0) q send/suspend/url)) q (10919 . 3)) ((c form c (c (? . 27) q lambda/page)) q (33230 . 2)) ((c def c (c (? . 13) q response-mime)) c (? . 14)) ((c def c (c (? . 1) q struct:stuffer)) c (? . 15)) ((c def c (c (? . 46) q hash-fun/c)) q (13812 . 2)) ((c def c (c (? . 24) q permanently)) q (20671 . 2)) ((c def c (c (? . 10) q struct:exn:fail:servlet-manager:no-instance)) c (? . 28)) ((c def c (c (? . 29) q make-check-digest-credentials)) q (21573 . 4)) ((c def c (c (? . 36) q make-id-cookie)) q (19141 . 9)) ((c def c (c (? . 9) q with-errors-to-browser)) q (6355 . 5)) ((c def c (c (? . 3) q binding:file-filename)) c (? . 30)) ((c form c (c (? . 23) q symbol-arg)) q (23842 . 2)) ((c def c (c (? . 9) q redirect/get)) q (5895 . 3)) ((c def c (c (? . 1) q stuffer-in)) c (? . 15)) ((c def c (c (? . 2) q make-input)) q (25282 . 3)) ((c form c (c (? . 38) q =>*)) q (24222 . 2)) ((c form c (c (? . 40) q formlet)) q (24117 . 2)) ((q def ((lib "web-server/managers/none.rkt") create-none-manager)) q (8789 . 4)) ((c def c (c (? . 4) q client-cookie)) c (? . 5)) ((c def c (c (? . 27) q get-binding)) q (33481 . 6)) ((c def c (c (? . 9) q send/finish)) q (5816 . 3)) ((c def c (c (? . 41) q make-cookie)) q (18337 . 17)) ((c def c (c (? . 3) q header)) c (? . 12)) ((c def c (c (? . 3) q binding:form)) c (? . 31)) ((c def c (c (? . 10) q exn:fail:servlet-manager:no-continuation?)) c (? . 32)) ((c def c (c (? . 17) q pure)) q (24372 . 3)) ((c def c (c (? . 0) q redirect/get)) q (11572 . 2)) ((c def c (c (? . 33) q soft-state?)) q (12385 . 3)) ((c def c (c (? . 2) q input)) q (25510 . 14)) ((c def c (c (? . 10) q manager-clear-continuations!)) c (? . 11)) ((c def c (c (? . 34) q exists-binding?)) q (16865 . 4)) ((c def c (c (? . 10) q manager-continuation-peek)) c (? . 11)) ((c def c (c (? . 9) q send/suspend/dispatch)) q (5401 . 4)) ((c def c (c (? . 19) q make-store)) c (? . 20)) ((c def c (c (? . 3) q request-post-data/raw)) c (? . 8)) ((c def c (c (? . 35) q manager)) q (10507 . 2)) ((c def c (c (? . 3) q headers-assq)) q (14562 . 4)) ((c def c (c (? . 36) q make-secret-salt/file)) q (19900 . 3)) ((c def c (c (? . 17) q formlet/c)) q (24268 . 3)) ((c def c (c (? . 44) q make-default-stuffer)) q (14267 . 3)) ((c def c (c (? . 13) q response-output)) c (? . 14)) ((c def c (c (? . 37) q file-box)) q (11901 . 4)) ((c def c (c (? . 3) q request-client-ip)) c (? . 8)) ((c def c (c (? . 3) q binding-id)) c (? . 6)) ((c form c (c (? . 38) q formlet*)) q (24175 . 2)) ((c def c (c (? . 0) q send/suspend/url/dispatch)) q (11278 . 3)) ((c def c (c (? . 13) q TEXT/HTML-MIME-TYPE)) q (18300 . 2)) ((c def c (c (? . 34) q extract-binding/single)) q (16603 . 4)) ((c form c (c (? . 39) q native->serial)) q (10789 . 2)) ((c def c (c (? . 9) q servlet-prompt)) q (6730 . 2)) ((c form c (c (? . 39) q serial->native)) q (10759 . 2)) ((c def c (c (? . 48) q web-cell-shadow)) q (11764 . 4)) ((c form c (c (? . 40) q #%#)) q (24164 . 2)) ((q form ((lib "web-server/lang/native.rkt") define-native)) q (10819 . 5)) ((c def c (c (? . 2) q to-number)) q (32111 . 3)) ((c def c (c (? . 3) q request-method)) c (? . 8)) ((c def c (c (? . 2) q checkbox-group)) q (28542 . 11)) ((c def c (c (? . 34) q request-bindings)) q (16343 . 5)) ((c def c (c (? . 13) q response)) c (? . 14)) ((c def c (c (? . 24) q temporarily)) q (20713 . 2)) ((c def c (c (? . 23) q serve/dispatch)) q (23463 . 3)) ((c def c (c (? . 42) q send/formlet)) q (32488 . 10)) ((c def c (c (? . 27) q binding-format/c)) q (33444 . 2)) ((c def c (c (? . 4) q client-cookie?)) c (? . 5)) ((c def c (c (? . 41) q cookie->header)) q (19080 . 3)) ((c form c (c (? . 23) q real-arg)) q (23804 . 2)) ((c def c (c (? . 2) q to-string)) q (32030 . 3)) ((c def c (c (? . 2) q input-string)) q (32358 . 2)) ((c def c (c (? . 2) q radio)) q (27869 . 6)) ((c form c (c (? . 27) q page)) q (33191 . 2)) ((c def c (c (? . 10) q exn:fail:servlet-manager:no-continuation-expiration-handler)) c (? . 32)) ((c def c (c (? . 10) q exn:fail:servlet-manager:no-instance?)) c (? . 28)) ((c def c (c (? . 37) q file-box-set!)) q (12122 . 4)) ((c def c (c (? . 3) q make-binding:file)) c (? . 30)) ((c def c (c (? . 9) q send/suspend/url)) q (5288 . 3)) ((c def c (c (? . 18) q make-web-cell)) q (6835 . 3)) ((c def c (c (? . 27) q get-bindings)) q (33694 . 6)) ((c def c (c (? . 19) q store?)) c (? . 20)) ((c def c (c (? . 47) q static-files-path)) q (37 . 3)) ((c def c (c (? . 42) q embed-formlet)) q (32919 . 4)) ((c def c (c (? . 3) q make-request)) c (? . 8)) ((c def c (c (? . 3) q header-field)) c (? . 12)) ((c def c (c (? . 3) q binding)) c (? . 6)) ((c form c (c (? . 23) q string-arg)) q (23822 . 2)) ((c def c (c (? . 27) q current-request)) q (33314 . 4)) ((c def c (c (? . 2) q submit)) q (28991 . 5)) ((c def c (c (? . 43) q start)) q (4744 . 3)) ((c def c (c (? . 29) q username*realm->password/c)) q (21341 . 2)) ((c form c (c (? . 26) q web-parameterize)) q (12307 . 2)) ((c def c (c (? . 44) q is-url-too-big?)) q (14205 . 3)) ((c def c (c (? . 3) q request-bindings/raw-promise)) c (? . 8)) ((c def c (c (? . 3) q make-binding:form)) c (? . 31)) ((c def c (c (? . 9) q send/forward)) q (5704 . 3)) ((c def c (c (? . 29) q username*realm->digest-HA1/c)) q (21388 . 2)) ((c def c (c (? . 10) q struct:exn:fail:servlet-manager:no-continuation)) c (? . 32)) ((c def c (c (? . 45) q create-LRU-manager)) q (9371 . 14)) ((c def c (c (? . 13) q response-headers)) c (? . 14)) ((c def c (c (? . 19) q dir-store)) q (13746 . 3)) ((c def c (c (? . 10) q exn:fail:servlet-manager:no-instance-expiration-handler)) c (? . 28)) ((c def c (c (? . 21) q can-be-response?)) q (4834 . 3)) ((c def c (c (? . 34) q request-headers)) q (16507 . 3)) ((c def c (c (? . 46) q md5-stuffer)) q (13953 . 3)) ((c def c (c (? . 2) q file-upload)) q (29376 . 4)) ((c def c (c (? . 2) q textarea-input)) q (27207 . 10)) ((c def c (c (? . 10) q manager?)) c (? . 11)) ((c def c (c (? . 2) q button)) q (30407 . 12)) ((c form c (c (? . 27) q define/page)) q (33268 . 2)) ((c def c (c (? . 13) q struct:response)) c (? . 14)) ((q def ((lib "web-server/stuffers/serialize.rkt") serialize-stuffer)) q (13412 . 2)) ((c def c (c (? . 10) q struct:manager)) c (? . 11)) ((c def c (c (? . 33) q soft-state-ref)) q (12518 . 3)) ((c def c (c (? . 3) q struct:binding:file)) c (? . 30)) ((c def c (c (? . 1) q stuffer-compose)) q (12897 . 4)) ((c def c (c (? . 43) q manager)) q (4717 . 2)) ((c def c (c (? . 47) q no-web-browser)) q (0 . 2)) ((c def c (c (? . 29) q password->digest-HA1)) q (21437 . 4)) ((c def c (c (? . 4) q client-cookie-domain)) c (? . 5)) ((c def c (c (? . 37) q file-box-set?)) q (12057 . 3)) ((c form c (c (? . 23) q number-arg)) q (23763 . 2)) ((c def c (c (? . 3) q binding:file?)) c (? . 30)) ((c def c (c (? . 35) q start)) q (10534 . 3)) ((c def c (c (? . 19) q struct:store)) c (? . 20)) ((c def c (c (? . 18) q web-cell-ref)) q (6895 . 3)) ((c def c (c (? . 39) q call-with-serializable-current-continuation)) q (10617 . 4)) ((c def c (c (? . 2) q to-boolean)) q (32275 . 3)) ((c def c (c (? . 3) q binding:file-content)) c (? . 30)) ((c def c (c (? . 48) q web-cell?)) q (11611 . 3)) ((c def c (c (? . 3) q headers-assq*)) q (14678 . 4)) ((c def c (c (? . 3) q binding:file-headers)) c (? . 30)) ((c form c (c (? . 23) q integer-arg)) q (23783 . 2)) ((c def c (c (? . 9) q send/suspend)) q (5176 . 3)) ((c def c (c (? . 17) q cross)) q (24440 . 4)) ((c def c (c (? . 3) q struct:binding:form)) c (? . 31)) ((c def c (c (? . 3) q binding:form-value)) c (? . 31)) ((c def c (c (? . 2) q img)) q (29722 . 15)) ((c def c (c (? . 2) q input-symbol)) q (32444 . 2)) ((c form c (c (? . 23) q dispatch-case)) q (23274 . 4)) ((c def c (c (? . 46) q hash-stuffer)) q (13843 . 4)) ((c def c (c (? . 17) q xml-forest)) q (24717 . 3)) ((c def c (c (? . 13) q response/full)) q (17238 . 13)) ((c def c (c (? . 24) q redirect-to)) q (20325 . 7)) ((c def c (c (? . 2) q radio-group)) q (28097 . 10)) ((c def c (c (? . 44) q default-stuffer)) q (14372 . 2)) ((c form c (c (? . 25) q bidi-match-going-in?)) q (23923 . 2)) ((c def c (c (? . 3) q request)) c (? . 8)) ((q def ((lib "web-server/managers/timeouts.rkt") create-timeout-manager)) q (8997 . 8)) ((c form c (c (? . 48) q make-web-cell)) q (11666 . 2)) ((c def c (c (? . 4) q client-cookie-name)) c (? . 5)) ((c def c (c (? . 35) q stuffer)) q (10454 . 2)) ((c def c (c (? . 9) q redirect/get/forget)) q (5990 . 3)) ((c def c (c (? . 4) q struct:client-cookie)) c (? . 5)) ((c def c (c (? . 3) q request?)) c (? . 8)) ((c def c (c (? . 36) q logout-id-cookie)) q (19765 . 4)) ((c def c (c (? . 49) q make-basic-auth-header)) q (20795 . 3)) ((c form c (c (? . 23) q dispatch-rules)) q (22487 . 22)) ((c def c (c (? . 2) q default)) q (31909 . 4)) ((c def c (c (? . 36) q request-id-cookie)) q (19449 . 10)) ((c def c (c (? . 13) q response-message)) c (? . 14)) ((c def c (c (? . 3) q request-host-port)) c (? . 8)) ((c def c (c (? . 2) q checkbox)) q (27638 . 6)) ((q def ((lib "web-server/stuffers/gzip.rkt") gzip-stuffer)) q (13528 . 2)) ((c def c (c (? . 10) q manager-continuation-store!)) c (? . 11)) ((c def c (c (? . 48) q web-cell-ref)) q (11703 . 3)) ((c def c (c (? . 10) q make-exn:fail:servlet-manager:no-instance)) c (? . 28)) ((c def c (c (? . 2) q make-input*)) q (25399 . 3)) ((c def c (c (? . 33) q make-soft-state)) q (12442 . 3)) ((c def c (c (? . 13) q response/output)) q (17626 . 15)) ((c def c (c (? . 4) q client-cookie-path)) c (? . 5)) ((q def ((lib "web-server/servlet-env.rkt") serve/servlet)) q (109 . 75)) ((c def c (c (? . 1) q make-stuffer)) c (? . 15)) ((c form c (c (? . 23) q dispatch-rules!)) q (23683 . 2)) ((c def c (c (? . 1) q id-stuffer)) q (12850 . 2)) ((c def c (c (? . 10) q make-exn:fail:servlet-manager:no-continuation)) c (? . 32)) ((c def c (c (? . 3) q header?)) c (? . 12)) ((c def c (c (? . 9) q current-servlet-continuation-expiration-handler)) q (6092 . 3)) ((c def c (c (? . 37) q file-box?)) q (11846 . 3)) ((c def c (c (? . 3) q struct:binding)) c (? . 6)) ((c def c (c (? . 23) q container?)) q (23564 . 3)) ((c def c (c (? . 29) q request->digest-credentials)) q (21215 . 4))))
+17226
+((3) 0 () 50 ((q lib "web-server/servlet/web.rkt") (q lib "web-server/http/request-structs.rkt") (q lib "web-server/managers/manager.rkt") (q lib "web-server/formlets/input.rkt") (q 14138 . 5) (q 14498 . 4) (q lib "web-server/insta/insta.rkt") (q 15150 . 18) (q lib "web-server/http/response-structs.rkt") (q 16441 . 8) (q lib "web-server/servlet/web-cells.rkt") (q 14594 . 4) (q lib "web-server/page.rkt") (q 7909 . 7) (q lib "web-server/lang/abort-resume.rkt") (q lib "web-server/http/cookie-parse.rkt") (q 22436 . 7) (q lib "web-server/dispatch.rkt") (q lib "web-server/formlets/lib.rkt") (q lib "web-server/stuffers/stuffer.rkt") (q lib "web-server/stuffers/hash.rkt") (q 7043 . 17) (q lib "web-server/test.rkt") (q lib "web-server/lang/file-box.rkt") (q lib "web-server/http/bindings.rkt") (q 12323 . 5) (q 14715 . 6) (q lib "web-server/scribblings/dummy-stateless-servlet.rkt") (q lib "web-server/managers/lru.rkt") (q lib "web-server/lang/web.rkt") (q lib "web-server/http/digest-auth.rkt") (q 8202 . 7) (q lib "web-server/lang/soft.rkt") (q lib "web-server/stuffers/store.rkt") (q lib "web-server/scribblings/dummy-v2-servlet.rkt") (q lib "web-server/http/redirect.rkt") (q lib "web-server/dispatch/extend.rkt") (q lib "web-server/lang/web-cells.rkt") (q lib "web-server/lang/web-param.rkt") (q lib "web-server/formlets/syntax.rkt") (q 13286 . 5) (q lib "web-server/stuffers/hmac-sha1.rkt") (q lib "web-server/formlets/dyn-syntax.rkt") (q lib "web-server/lang/stuff-url.rkt") (q lib "web-server/http/id-cookie.rkt") (q lib "web-server/templates.rkt") (q lib "web-server/http/basic-auth.rkt") (q lib "web-server/formlets/servlet.rkt") (q lib "web-server/http/cookie.rkt") (q lib "web-server/servlet/servlet-structs.rkt")) () (h ! (equal) ((c def c (c (? . 10) q web-cell?)) q (6785 . 3)) ((c def c (c (? . 6) q no-web-browser)) q (0 . 2)) ((c def c (c (? . 23) q file-box-set!)) q (11831 . 4)) ((c def c (c (? . 35) q see-other)) q (23237 . 2)) ((c def c (c (? . 0) q send/suspend/dispatch)) q (5452 . 4)) ((c def c (c (? . 0) q adjust-timeout!)) q (6568 . 3)) ((c def c (c (? . 8) q response)) c (? . 9)) ((c def c (c (? . 18) q formlet*/c)) q (26827 . 2)) ((c def c (c (? . 1) q struct:header)) c (? . 4)) ((c def c (c (? . 1) q binding-id)) c (? . 5)) ((c def c (c (? . 2) q make-exn:fail:servlet-manager:no-instance)) c (? . 13)) ((c def c (c (? . 2) q manager-continuation-store!)) c (? . 21)) ((c def c (c (? . 22) q tester/c)) q (36516 . 2)) ((c def c (c (? . 15) q client-cookie?)) c (? . 16)) ((c def c (c (? . 3) q radio)) q (30355 . 6)) ((c def c (c (? . 19) q make-stuffer)) c (? . 25)) ((c def c (c (? . 3) q multiselect-input)) q (33471 . 11)) ((c def c (c (? . 1) q header-value)) c (? . 4)) ((c def c (c (? . 48) q make-cookie)) q (17694 . 21)) ((c def c (c (? . 1) q binding?)) c (? . 5)) ((c def c (c (? . 0) q current-servlet-continuation-expiration-handler)) q (6143 . 4)) ((c form c (c (? . 14) q serial->native)) q (10473 . 2)) ((c def c (c (? . 1) q request-bindings/raw-promise)) c (? . 7)) ((c def c (c (? . 6) q static-files-path)) q (37 . 3)) ((c def c (c (? . 1) q request)) c (? . 7)) ((c def c (c (? . 8) q response-seconds)) c (? . 9)) ((c def c (c (? . 29) q redirect/get)) q (11281 . 2)) ((c def c (c (? . 49) q can-be-response?)) q (4885 . 3)) ((c def c (c (? . 3) q to-boolean)) q (34883 . 3)) ((c def c (c (? . 1) q make-binding:file)) c (? . 26)) ((c def c (c (? . 20) q hash-stuffer)) q (13548 . 4)) ((c def c (c (? . 8) q response-code)) c (? . 9)) ((c form c (c (? . 12) q embed/url)) q (35820 . 2)) ((c def c (c (? . 2) q struct:exn:fail:servlet-manager:no-continuation)) c (? . 31)) ((c def c (c (? . 3) q select-input)) q (33999 . 9)) ((c def c (c (? . 10) q web-cell-shadow)) q (6961 . 4)) ((c def c (c (? . 27) q start)) q (10248 . 3)) ((c def c (c (? . 1) q struct:binding:form)) c (? . 11)) ((c def c (c (? . 1) q make-binding:form)) c (? . 11)) ((c def c (c (? . 3) q input-int)) q (35010 . 2)) ((c def c (c (? . 12) q binding-format/c)) q (36051 . 2)) ((c def c (c (? . 3) q img)) q (32330 . 15)) ((c def c (c (? . 3) q hidden)) q (32137 . 5)) ((c def c (c (? . 2) q struct:exn:fail:servlet-manager:no-instance)) c (? . 13)) ((c def c (c (? . 0) q redirect/get/forget)) q (6041 . 3)) ((c def c (c (? . 14) q call-with-serializable-current-continuation)) q (10331 . 4)) ((c def c (c (? . 46) q make-basic-auth-header)) q (23277 . 3)) ((c def c (c (? . 15) q client-cookie-name)) c (? . 16)) ((c def c (c (? . 17) q serve/dispatch)) q (25945 . 3)) ((c def c (c (? . 3) q file-upload)) q (31984 . 4)) ((c def c (c (? . 17) q container?)) q (26046 . 3)) ((c def c (c (? . 30) q username*realm->digest-HA1/c)) q (23870 . 2)) ((c def c (c (? . 18) q xml)) q (27283 . 3)) ((c def c (c (? . 1) q request-headers/raw)) c (? . 7)) ((q def ((lib "web-server/managers/none.rkt") create-none-manager)) q (8503 . 4)) ((c def c (c (? . 19) q stuffer-if)) q (12879 . 4)) ((c def c (c (? . 20) q hash-fun/c)) q (13517 . 2)) ((c def c (c (? . 8) q response-mime)) c (? . 9)) ((c def c (c (? . 8) q response-headers)) c (? . 9)) ((c def c (c (? . 2) q manager?)) c (? . 21)) ((c def c (c (? . 0) q send/suspend/url)) q (5339 . 3)) ((c def c (c (? . 22) q make-servlet-tester)) q (36545 . 4)) ((c def c (c (? . 28) q create-LRU-manager)) q (9085 . 14)) ((c def c (c (? . 8) q response-message)) c (? . 9)) ((c def c (c (? . 0) q send/suspend)) q (5227 . 3)) ((c def c (c (? . 1) q binding)) c (? . 5)) ((c def c (c (? . 0) q clear-continuation-table!)) q (6311 . 2)) ((c def c (c (? . 44) q logout-id-cookie)) q (22061 . 7)) ((c def c (c (? . 24) q request-bindings)) q (15797 . 5)) ((c def c (c (? . 1) q bindings-assq)) q (14915 . 4)) ((c def c (c (? . 2) q exn:fail:servlet-manager:no-instance?)) c (? . 13)) ((c form c (c (? . 17) q dispatch-case)) q (25756 . 4)) ((c def c (c (? . 0) q with-errors-to-browser)) q (6360 . 5)) ((c form c (c (? . 12) q lambda/page)) q (35837 . 2)) ((q def ((lib "web-server/stuffers/gzip.rkt") gzip-stuffer)) q (13235 . 2)) ((c def c (c (? . 1) q header?)) c (? . 4)) ((c def c (c (? . 23) q file-box)) q (11610 . 4)) ((c def c (c (? . 32) q make-soft-state)) q (12151 . 3)) ((c def c (c (? . 24) q request-headers)) q (15961 . 3)) ((c def c (c (? . 15) q client-cookie-value)) c (? . 16)) ((c def c (c (? . 23) q file-box?)) q (11555 . 3)) ((c form c (c (? . 12) q page)) q (35798 . 2)) ((c def c (c (? . 20) q md5-stuffer)) q (13658 . 3)) ((c def c (c (? . 15) q struct:client-cookie)) c (? . 16)) ((c def c (c (? . 34) q manager)) q (4768 . 2)) ((c def c (c (? . 3) q input-string)) q (34966 . 2)) ((c def c (c (? . 19) q stuffer-compose)) q (12604 . 4)) ((c def c (c (? . 15) q make-client-cookie)) c (? . 16)) ((c def c (c (? . 19) q stuffer-in)) c (? . 25)) ((c def c (c (? . 1) q binding:file-filename)) c (? . 26)) ((c def c (c (? . 1) q headers-assq)) q (14265 . 4)) ((c def c (c (? . 27) q manager)) q (10221 . 2)) ((c def c (c (? . 28) q make-threshold-LRU-manager)) q (9807 . 7)) ((c def c (c (? . 18) q pure)) q (26858 . 3)) ((c def c (c (? . 29) q send/suspend/url)) q (10633 . 3)) ((c def c (c (? . 27) q stuffer)) q (10168 . 2)) ((c def c (c (? . 47) q embed-formlet)) q (35526 . 4)) ((c def c (c (? . 33) q store?)) c (? . 40)) ((c def c (c (? . 37) q web-cell?)) q (11320 . 3)) ((c def c (c (? . 8) q response/output)) q (17079 . 13)) ((c def c (c (? . 8) q TEXT/HTML-MIME-TYPE)) q (17657 . 2)) ((c def c (c (? . 0) q send/forward)) q (5755 . 3)) ((c def c (c (? . 0) q continuation-url?)) q (6628 . 4)) ((c def c (c (? . 3) q submit)) q (31599 . 5)) ((c def c (c (? . 1) q struct:request)) c (? . 7)) ((q def ((lib "web-server/stuffers/serialize.rkt") serialize-stuffer)) q (13119 . 2)) ((c form c (c (? . 45) q include-template)) q (35674 . 3)) ((c def c (c (? . 30) q password->digest-HA1)) q (23919 . 4)) ((c form c (c (? . 39) q formlet)) q (26599 . 2)) ((c def c (c (? . 0) q send/suspend/url/dispatch)) q (5603 . 4)) ((c def c (c (? . 30) q request->digest-credentials)) q (23697 . 4)) ((c def c (c (? . 3) q radio-group)) q (30583 . 12)) ((c def c (c (? . 38) q web-parameter?)) q (11956 . 3)) ((c def c (c (? . 2) q make-exn:fail:servlet-manager:no-continuation)) c (? . 31)) ((c def c (c (? . 32) q soft-state?)) q (12094 . 3)) ((c def c (c (? . 2) q exn:fail:servlet-manager:no-instance-expiration-handler)) c (? . 13)) ((c form c (c (? . 36) q define-coercion-match-expander)) q (26433 . 2)) ((c def c (c (? . 33) q dir-store)) q (13451 . 3)) ((c def c (c (? . 34) q start)) q (4795 . 3)) ((c def c (c (? . 12) q get-binding)) q (36088 . 6)) ((c def c (c (? . 3) q checkbox-group)) q (31150 . 11)) ((c form c (c (? . 14) q native->serial)) q (10503 . 2)) ((c def c (c (? . 30) q make-check-digest-credentials)) q (24055 . 4)) ((c def c (c (? . 35) q redirect-to)) q (22808 . 7)) ((c def c (c (? . 3) q reset)) q (31792 . 5)) ((c def c (c (? . 19) q stuffer/c)) q (12474 . 4)) ((q def ((lib "web-server/servlet-env.rkt") serve/servlet)) q (109 . 76)) ((c def c (c (? . 18) q xml-forest)) q (27203 . 3)) ((c def c (c (? . 35) q redirection-status?)) q (23088 . 3)) ((c form c (c (? . 36) q bidi-match-going-in?)) q (26405 . 2)) ((c form c (c (? . 37) q make-web-cell)) q (11375 . 2)) ((c form c (c (? . 17) q integer-arg)) q (26265 . 2)) ((c def c (c (? . 19) q id-stuffer)) q (12557 . 2)) ((c def c (c (? . 3) q input)) q (27996 . 14)) ((c def c (c (? . 1) q request-client-ip)) c (? . 7)) ((c def c (c (? . 30) q username*realm->password/c)) q (23823 . 2)) ((c def c (c (? . 15) q request-cookies)) q (22724 . 3)) ((c form c (c (? . 17) q define-container)) q (26102 . 2)) ((c form c (c (? . 17) q string-arg)) q (26304 . 2)) ((c form c (c (? . 38) q web-parameterize)) q (12016 . 2)) ((c def c (c (? . 37) q web-cell-shadow)) q (11473 . 4)) ((c form c (c (? . 38) q make-web-parameter)) q (11919 . 2)) ((c form c (c (? . 17) q dispatch-rules)) q (24969 . 22)) ((c def c (c (? . 23) q file-unbox)) q (11699 . 3)) ((c def c (c (? . 35) q permanently)) q (23153 . 2)) ((c def c (c (? . 1) q binding:form-value)) c (? . 11)) ((c def c (c (? . 12) q current-request)) q (35921 . 4)) ((q def ((lib "web-server/stuffers/base64.rkt") base64-stuffer)) q (13182 . 2)) ((c def c (c (? . 3) q button)) q (33015 . 12)) ((c def c (c (? . 41) q HMAC-SHA1-stuffer)) q (13825 . 3)) ((c def c (c (? . 1) q make-header)) c (? . 4)) ((c def c (c (? . 29) q send/suspend/hidden)) q (10864 . 3)) ((q form ((lib "web-server/lang/native.rkt") define-native)) q (10533 . 5)) ((c form c (c (? . 39) q #%#)) q (26646 . 2)) ((q def ((lib "web-server/managers/timeouts.rkt") create-timeout-manager)) q (8711 . 8)) ((c def c (c (? . 3) q text-input)) q (28577 . 12)) ((c def c (c (? . 0) q redirect/get)) q (5946 . 3)) ((c def c (c (? . 18) q cross)) q (26926 . 4)) ((c def c (c (? . 19) q stuffer)) c (? . 25)) ((c def c (c (? . 33) q store-write)) c (? . 40)) ((c def c (c (? . 2) q exn:fail:servlet-manager:no-continuation-expiration-handler)) c (? . 31)) ((c form c (c (? . 42) q =>*)) q (26704 . 2)) ((c def c (c (? . 41) q HMAC-SHA1)) q (13747 . 4)) ((c form c (c (? . 42) q formlet*)) q (26657 . 2)) ((c def c (c (? . 3) q default)) q (34517 . 4)) ((c def c (c (? . 1) q header-field)) c (? . 4)) ((c form c (c (? . 12) q define/page)) q (35875 . 2)) ((c def c (c (? . 1) q struct:binding:file)) c (? . 26)) ((c def c (c (? . 1) q make-binding)) c (? . 5)) ((c def c (c (? . 1) q binding:file-content)) c (? . 26)) ((c def c (c (? . 1) q headers-assq*)) q (14381 . 4)) ((c def c (c (? . 1) q request-host-port)) c (? . 7)) ((c def c (c (? . 0) q servlet-prompt)) q (6735 . 2)) ((c def c (c (? . 2) q make-manager)) c (? . 21)) ((c def c (c (? . 10) q web-cell-ref)) q (6900 . 3)) ((c def c (c (? . 24) q extract-binding/single)) q (16057 . 4)) ((q def ((lib "web-server/http/xexpr.rkt") response/xexpr)) q (24229 . 17)) ((c def c (c (? . 37) q web-cell-ref)) q (11412 . 3)) ((c def c (c (? . 18) q formlet-display)) q (27585 . 3)) ((c def c (c (? . 12) q get-bindings)) q (36301 . 6)) ((c def c (c (? . 33) q store-read)) c (? . 40)) ((c form c (c (? . 17) q symbol-arg)) q (26324 . 2)) ((c def c (c (? . 2) q manager-create-instance)) c (? . 21)) ((c def c (c (? . 27) q interface-version)) q (10117 . 2)) ((c def c (c (? . 18) q text)) q (27349 . 3)) ((c form c (c (? . 17) q dispatch-rules!)) q (26165 . 2)) ((c def c (c (? . 19) q stuffer-chain)) q (13016 . 3)) ((c def c (c (? . 24) q extract-bindings)) q (16186 . 4)) ((c def c (c (? . 30) q make-digest-auth-header)) q (23467 . 7)) ((c def c (c (? . 33) q store)) c (? . 40)) ((c def c (c (? . 1) q request-uri)) c (? . 7)) ((c def c (c (? . 19) q stuffer?)) c (? . 25)) ((c def c (c (? . 19) q stuffer-out)) c (? . 25)) ((c def c (c (? . 43) q default-stuffer)) q (14077 . 2)) ((c def c (c (? . 2) q manager-continuation-peek)) c (? . 21)) ((c def c (c (? . 2) q manager-adjust-timeout!)) c (? . 21)) ((c def c (c (? . 29) q send/suspend/dispatch)) q (11137 . 4)) ((c def c (c (? . 0) q send/back)) q (5150 . 3)) ((c def c (c (? . 22) q make-dispatcher-tester)) q (36668 . 3)) ((c def c (c (? . 43) q make-default-stuffer)) q (13972 . 3)) ((c def c (c (? . 33) q struct:store)) c (? . 40)) ((c def c (c (? . 2) q exn:fail:servlet-manager:no-instance)) c (? . 13)) ((c def c (c (? . 18) q tag-xexpr)) q (27416 . 5)) ((c def c (c (? . 23) q file-box-set?)) q (11766 . 3)) ((c def c (c (? . 3) q make-input*)) q (27885 . 3)) ((c def c (c (? . 3) q to-symbol)) q (34801 . 3)) ((c def c (c (? . 18) q formlet-process)) q (27665 . 4)) ((c def c (c (? . 2) q manager)) c (? . 21)) ((c def c (c (? . 1) q struct:binding)) c (? . 5)) ((c def c (c (? . 1) q request?)) c (? . 7)) ((c def c (c (? . 44) q request-id-cookie)) q (20644 . 23)) ((c form c (c (? . 45) q in)) q (35771 . 2)) ((c def c (c (? . 44) q valid-id-cookie?)) q (21590 . 12)) ((c def c (c (? . 3) q checkbox)) q (30124 . 6)) ((c def c (c (? . 2) q manager-clear-continuations!)) c (? . 21)) ((c def c (c (? . 18) q cross*)) q (27047 . 4)) ((c def c (c (? . 12) q binding-id/c)) q (36018 . 2)) ((c def c (c (? . 2) q manager-continuation-lookup)) c (? . 21)) ((c def c (c (? . 1) q binding:form)) c (? . 11)) ((c def c (c (? . 19) q struct:stuffer)) c (? . 25)) ((c def c (c (? . 3) q input-symbol)) q (35051 . 2)) ((c def c (c (? . 44) q make-id-cookie)) q (18685 . 41)) ((c def c (c (? . 3) q password-input)) q (29125 . 12)) ((c def c (c (? . 1) q binding:form?)) c (? . 11)) ((c def c (c (? . 46) q request->basic-credentials)) q (23354 . 4)) ((c def c (c (? . 2) q exn:fail:servlet-manager:no-continuation?)) c (? . 31)) ((c def c (c (? . 47) q send/formlet)) q (35095 . 10)) ((c form c (c (? . 36) q define-bidi-match-expander)) q (26344 . 2)) ((c def c (c (? . 36) q make-coerce-safe?)) q (26492 . 3)) ((c def c (c (? . 18) q xexpr-forest/c)) q (26715 . 2)) ((c def c (c (? . 8) q response?)) c (? . 9)) ((c def c (c (? . 3) q to-string)) q (34638 . 3)) ((c form c (c (? . 17) q dispatch-rules+applies)) q (25681 . 4)) ((c def c (c (? . 1) q request-post-data/raw)) c (? . 7)) ((c def c (c (? . 48) q cookie->header)) q (18624 . 3)) ((c def c (c (? . 8) q response-output)) c (? . 9)) ((c def c (c (? . 43) q is-url-too-big?)) q (13910 . 3)) ((c form c (c (? . 17) q real-arg)) q (26286 . 2)) ((c def c (c (? . 8) q struct:response)) c (? . 9)) ((c def c (c (? . 3) q to-number)) q (34719 . 3)) ((c def c (c (? . 8) q response/full)) q (16691 . 13)) ((c def c (c (? . 29) q send/suspend)) q (10749 . 3)) ((c def c (c (? . 35) q temporarily)) q (23195 . 2)) ((c form c (c (? . 17) q number-arg)) q (26245 . 2)) ((c def c (c (? . 3) q required)) q (34419 . 3)) ((c def c (c (? . 24) q exists-binding?)) q (16319 . 4)) ((c def c (c (? . 1) q request-method)) c (? . 7)) ((c def c (c (? . 15) q client-cookie)) c (? . 16)) ((c def c (c (? . 15) q client-cookie-domain)) c (? . 16)) ((c def c (c (? . 1) q request-bindings/raw)) q (15718 . 3)) ((c def c (c (? . 49) q any->response)) q (4947 . 3)) ((c def c (c (? . 1) q binding:file-headers)) c (? . 26)) ((c def c (c (? . 1) q request-host-ip)) c (? . 7)) ((c def c (c (? . 1) q make-request)) c (? . 7)) ((c def c (c (? . 44) q make-secret-salt/file)) q (22334 . 3)) ((c def c (c (? . 18) q formlet/c)) q (26750 . 3)) ((c form c (c (? . 32) q soft-state)) q (12292 . 2)) ((c def c (c (? . 19) q stuffer-sequence)) q (12741 . 4)) ((c def c (c (? . 0) q send/finish)) q (5867 . 3)) ((c def c (c (? . 33) q make-store)) c (? . 40)) ((c def c (c (? . 1) q binding:file?)) c (? . 26)) ((c def c (c (? . 3) q make-input)) q (27768 . 3)) ((c def c (c (? . 34) q interface-version)) q (4724 . 2)) ((c def c (c (? . 29) q send/suspend/url/dispatch)) q (10992 . 3)) ((c def c (c (? . 15) q client-cookie-path)) c (? . 16)) ((c def c (c (? . 10) q make-web-cell)) q (6840 . 3)) ((c form c (c (? . 17) q dispatch-url)) q (25822 . 6)) ((c def c (c (? . 2) q struct:manager)) c (? . 21)) ((c def c (c (? . 1) q bindings-assq-all)) q (15034 . 4)) ((c def c (c (? . 2) q exn:fail:servlet-manager:no-continuation)) c (? . 31)) ((c def c (c (? . 32) q soft-state-ref)) q (12227 . 3)) ((c def c (c (? . 1) q binding:file)) c (? . 26)) ((c def c (c (? . 3) q textarea-input)) q (29693 . 10)) ((c def c (c (? . 49) q set-any->response!)) q (5024 . 3)) ((c def c (c (? . 1) q header)) c (? . 4))))
 procedure
 (no-web-browser) -> void
 procedure
@@ -43,7 +43,7 @@ procedure
   quit? : boolean? = (not command-line?)
   banner? : boolean? = (not command-line?)
   listen-ip : (or/c false/c string?) = "127.0.0.1"
-  port : tcp-listen-port? = 8000
+  port : listen-port-number? = 8000
   max-waiting : exact-nonnegative-integer? = 511
   servlet-path : string? = "/servlets/standalone.rkt"
   servlet-regexp : regexp? = (regexp
@@ -55,7 +55,8 @@ procedure
   manager : manager?
           = (make-threshold-LRU-manager #f (* 128 1024 1024))
   servlet-namespace : (listof module-path?) = empty
-  server-root-path : path-string? = default-server-root-path
+  server-root-path : path-string?
+                   = (collection-path "web-server" "default-web-root")
   extra-files-paths : (listof path-string?)
                     = (list (build-path server-root-path "htdocs"))
   servlets-root : path-string?
@@ -126,8 +127,9 @@ procedure
 (redirect/get/forget [#:headers hs]) -> request?
   hs : (listof header?) = empty
 value
-current-servlet-continuation-expiration-handler : (parameter/c (or/c false/c
-                                                                     (request? . -> . can-be-response?)))
+current-servlet-continuation-expiration-handler
+ : (parameter/c (or/c false/c
+                      (request? . -> . can-be-response?)))
 procedure
 (clear-continuation-table!) -> void?
 procedure
@@ -158,13 +160,13 @@ procedure
   wc : web-cell?
   v : any/c
 struct
-(struct manager                                (create-instance
-                                               adjust-timeout!
-                                               clear-continuations!
-                                               continuation-store!
-                                               continuation-lookup
-                                               continuation-peek)
-        #:extra-constructor-name make-manager)
+(struct manager (create-instance
+                 adjust-timeout!
+                 clear-continuations!
+                 continuation-store!
+                 continuation-lookup
+                 continuation-peek)
+    #:extra-constructor-name make-manager)
   create-instance : ((-> void) . -> . number?)
   adjust-timeout! : (number? number? . -> . void)
   clear-continuations! : (number? . -> . void)
@@ -176,16 +178,16 @@ struct
   continuation-peek : (number? number? number? . -> . any/c)
 struct
 (struct exn:fail:servlet-manager:no-instance exn:fail
-                                                      (expiration-handler)
-        #:extra-constructor-name
-        make-exn:fail:servlet-manager:no-instance)
+        (expiration-handler)
+    #:extra-constructor-name
+    make-exn:fail:servlet-manager:no-instance)
   expiration-handler : (or/c false/c
                              (request? . -> . can-be-response?))
 struct
 (struct exn:fail:servlet-manager:no-continuation exn:fail
-                                                          (expiration-handler)
-        #:extra-constructor-name
-        make-exn:fail:servlet-manager:no-continuation)
+        (expiration-handler)
+    #:extra-constructor-name
+    make-exn:fail:servlet-manager:no-continuation)
   expiration-handler : (or/c false/c
                              (request? . -> . can-be-response?))
 procedure
@@ -256,7 +258,7 @@ procedure
 (send/suspend/url/dispatch make-response) -> any
   make-response : (((request? . -> . any) . -> . url?) . -> . response?)
 procedure
-(send/suspend/dispatch make-response) -> request?
+(send/suspend/dispatch make-response) -> any
   make-response : (((request? . -> . any) . -> . string?) . ->
 . response?)
 procedure
@@ -310,7 +312,7 @@ syntax
 (soft-state expr ...)
 struct
 (struct stuffer (in out)
-        #:extra-constructor-name make-stuffer)
+    #:extra-constructor-name make-stuffer)
   in : (any/c . -> . any/c)
   out : (any/c . -> . any/c)
 procedure
@@ -342,7 +344,7 @@ value
 gzip-stuffer : (stuffer/c bytes? bytes?)
 struct
 (struct store (write read)
-        #:extra-constructor-name make-store)
+    #:extra-constructor-name make-store)
   write : (bytes? bytes? . -> . void)
   read : (bytes? . -> . bytes?)
 procedure
@@ -374,7 +376,7 @@ value
 default-stuffer : (stuffer/c serializable? bytes?)
 struct
 (struct header (field value)
-        #:extra-constructor-name make-header)
+    #:extra-constructor-name make-header)
   field : bytes?
   value : bytes?
 procedure
@@ -387,15 +389,15 @@ procedure
   heads : (listof header?)
 struct
 (struct binding (id)
-        #:extra-constructor-name make-binding)
+    #:extra-constructor-name make-binding)
   id : bytes?
 struct
 (struct binding:form binding (value)
-        #:extra-constructor-name make-binding:form)
+    #:extra-constructor-name make-binding:form)
   value : bytes?
 struct
 (struct binding:file binding (filename headers content)
-        #:extra-constructor-name make-binding:file)
+    #:extra-constructor-name make-binding:file)
   filename : bytes?
   headers : (listof header?)
   content : bytes?
@@ -408,15 +410,15 @@ procedure
   id : bytes?
   binds : (listof binding?)
 struct
-(struct request                                (method
-                                               uri
-                                               headers/raw
-                                               bindings/raw-promise
-                                               post-data/raw
-                                               host-ip
-                                               host-port
-                                               client-ip)
-        #:extra-constructor-name make-request)
+(struct request (method
+                 uri
+                 headers/raw
+                 bindings/raw-promise
+                 post-data/raw
+                 host-ip
+                 host-port
+                 client-ip)
+    #:extra-constructor-name make-request)
   method : bytes?
   uri : url?
   headers/raw : (listof header?)
@@ -455,7 +457,7 @@ struct
   seconds : number?
   mime : (or/c false/c bytes?)
   headers : (listof header?)
-  output : (output-port? . -> . void)
+  output : (output-port? . -> . any)
 procedure
 (response/full code        
                message     
@@ -475,70 +477,132 @@ procedure
                   #:message message         
                   #:seconds seconds         
                   #:mime-type mime-type     
-                  #:headers headers         
-                  #:cookies cookies])   -> response?
-  output : (-> output-port? void?)
+                  #:headers headers])   -> response?
+  output : (-> output-port? any)
   code : number? = 200
   message : bytes? = #"Okay"
   seconds : number? = (current-seconds)
   mime-type : (or/c bytes? #f) = TEXT/HTML-MIME-TYPE
   headers : (listof header?) = '()
-  cookies : (listof cookie?) = '()
 value
 TEXT/HTML-MIME-TYPE : bytes?
 procedure
-(make-cookie  name                    
-              value                   
-             [#:comment comment       
-              #:domain domain         
-              #:max-age max-age       
-              #:path path             
-              #:expires expires       
-              #:secure? secure?]) -> cookie?
+(make-cookie  name                        
+              value                       
+             [#:comment comment           
+              #:domain domain             
+              #:max-age max-age           
+              #:path path                 
+              #:expires expires           
+              #:secure? secure?           
+              #:http-only? http-only?     
+              #:extension extension]) -> cookie?
   name : cookie-name?
   value : cookie-value?
-  comment : (or/c false/c string?) = #f
-  domain : (or/c false/c valid-domain?) = #f
-  max-age : (or/c false/c exact-nonnegative-integer?) = #f
-  path : (or/c false/c string?) = #f
-  expires : (or/c false/c string?) = #f
-  secure? : (or/c false/c boolean?) = #f
+  comment : any/c = #f
+  domain : (or/c domain-value? #f) = #f
+  max-age : (or/c (and/c integer? positive?) #f) = #f
+  path : (or/c path/extension-value? #f) = #f
+  expires : (or/c date? string? #f) = #f
+  secure? : any/c = #f
+  http-only? : any/c = #f
+  extension : (or/c path/extension-value? #f) = #f
 procedure
 (cookie->header c) -> header?
   c : cookie?
 procedure
-(make-id-cookie  name              
-                 secret-salt       
-                 value             
-                [#:path path]) -> cookie?
-  name : cookie-name?
+(make-id-cookie  name                        
+                 value                       
+                 #:key secret-salt           
+                [#:path path                 
+                 #:expires expires           
+                 #:max-age max-age           
+                 #:domain domain             
+                 #:secure? secure?           
+                 #:http-only? http-only?     
+                 #:extension extension]) -> cookie?
+  name : (and/c string? cookie-name?)
+  value : (and/c string? cookie-value?)
   secret-salt : bytes?
-  value : cookie-value?
-  path : (or/c false/c string?) = #f
+  path : (or/c path/extension-value? #f) = #f
+  expires : (or/c date? #f) = #f
+  max-age : (or/c (and/c integer? positive?) #f) = #f
+  domain : (or/c domain-value? #f) = #f
+  secure? : any/c = #f
+  http-only? : any/c = #f
+  extension : (or/c path/extension-value? #f) = #f
+(make-id-cookie  name                        
+                 secret-salt                 
+                 value                       
+                [#:path path                 
+                 #:expires expires           
+                 #:max-age max-age           
+                 #:domain domain             
+                 #:secure? secure?           
+                 #:http-only? http-only?     
+                 #:extension extension]) -> cookie?
+  name : (and/c string? cookie-name?)
+  secret-salt : bytes?
+  value : (and/c string? cookie-value?)
+  path : (or/c path/extension-value? #f) = #f
+  expires : (or/c date? #f) = #f
+  max-age : (or/c (and/c integer? positive?) #f) = #f
+  domain : (or/c domain-value? #f) = #f
+  secure? : any/c = #f
+  http-only? : any/c = #t
+  extension : (or/c path/extension-value? #f) = #f
 procedure
-(request-id-cookie name               
-                   secret-salt        
-                   request            
-                   #:timeout timeout) 
- -> (or/c false/c cookie-value?)
-  name : cookie-name?
+(request-id-cookie  request                   
+                    #:name name               
+                    #:key secret-salt         
+                   [#:timeout timeout         
+                    #:shelf-life shelf-life]) 
+ -> (or/c #f (and/c string? cookie-value?))
+  request : request?
+  name : (and/c string? cookie-name?)
+  secret-salt : bytes?
+  timeout : real? = +inf.0
+  shelf-life : real? = +inf.0
+(request-id-cookie  name                      
+                    secret-salt               
+                    request                   
+                   [#:timeout timeout         
+                    #:shelf-life shelf-life]) 
+ -> (or/c #f (and/c string? cookie-value?))
+  name : (and/c string? cookie-name?)
   secret-salt : bytes?
   request : request?
-  timeout : +inf.0
+  timeout : number? = +inf.0
+  shelf-life : real? = +inf.0
 procedure
-(logout-id-cookie name [#:path path]) -> cookie?
+(valid-id-cookie?  cookie                    
+                   #:name name               
+                   #:key secret-salt         
+                  [#:timeout timeout         
+                   #:shelf-life shelf-life]) 
+ -> (or/c #f (and/c string? cookie-value?))
+  cookie : any/c
+  name : (and/c string? cookie-name?)
+  secret-salt : bytes?
+  timeout : number? = +inf.0
+  shelf-life : real? = +inf.0
+procedure
+(logout-id-cookie  name                  
+                  [#:path path           
+                   #:domain domain]) -> cookie?
   name : cookie-name?
-  path : (or/c false/c string?) = #f
+  path : (or/c #f string?) = #f
+  domain : (or/c domain-value? #f) = #f
 procedure
 (make-secret-salt/file secret-salt-path) -> bytes?
   secret-salt-path : path-string?
 struct
 (struct client-cookie (name value domain path)
-        #:extra-constructor-name make-client-cookie)
-  name : string?
-  value : string?
-  domain : (or/c false/c valid-domain?)
-  path : (or/c false/c string?)
+    #:extra-constructor-name make-client-cookie)
+  name : (and/c string? cookie-name?)
+  value : (and/c string? cookie-value?)
+  domain : (or/c #f domain-value?)
+  path : (or/c #f path/extension-value?)
 procedure
 (request-cookies req) -> (listof client-cookie?)
   req : request?
@@ -546,7 +610,7 @@ procedure
 (redirect-to  uri                     
              [perm/temp               
               #:headers headers]) -> response?
-  uri : non-empty-string/c
+  uri : non-empty-string?
   perm/temp : redirection-status? = temporarily
   headers : (listof header?) = (list)
 procedure
@@ -610,20 +674,20 @@ syntax
  dispatch-clause ...
  maybe-else-clause)
  
-dispatch-clause   = [dispatch-pattern maybe-method dispatch-fun]
-                     
-dispatch-pattern  = ()
-                  | (string . dispatch-pattern)
-                  | (bidi-match-expander ... . dispatch-pattern)
-                  | (bidi-match-expander . dispatch-pattern)
-                     
-maybe-method      = 
-                  | #:method method
-                     
-method            = pat
-                     
+  dispatch-clause = [dispatch-pattern maybe-method dispatch-fun]
+                     
+ dispatch-pattern = ()
+                  | (string . dispatch-pattern)
+                  | (bidi-match-expander ... . dispatch-pattern)
+                  | (bidi-match-expander . dispatch-pattern)
+                     
+     maybe-method = 
+                  | #:method method
+                     
+           method = pat
+                     
 maybe-else-clause = 
-                  | [else else-fun]
+                  | [else else-fun]
  
   else-fun : (request? . -> . any)
   dispatch-fun : (request? any/c ... . -> . any)
@@ -682,7 +746,7 @@ value
 xexpr-forest/c : contract?
 procedure
 (formlet/c content ...) -> contract?
-  content : any/c
+  content : contract?
 value
 formlet*/c : contract?
 procedure
@@ -787,12 +851,14 @@ procedure
 (radio-group  l                       
              [#:attributes attrs      
               #:checked? checked?     
-              #:display display]) -> (formlet/c any/c)
+              #:display display       
+              #:wrap wrap])       -> (formlet/c any/c)
   l : sequence?
   attrs : (any/c . -> . (listof (list/c symbol? string?)))
         = (λ (x) empty)
   checked? : (any/c . -> . boolean?) = (λ (x) #f)
   display : (any/c . -> . xexpr/c) = (λ (x) x)
+  wrap : (any/c any/c . -> . xexpr/c) = (λ (x y) (list x y))
 procedure
 (checkbox-group  l                   
                 [#:attributes attrs  
@@ -892,7 +958,7 @@ procedure
 value
 input-string : (formlet/c string?)
 value
-input-int : (formlet/c integer?)
+input-int : (formlet/c number?)
 value
 input-symbol : (formlet/c symbol?)
 procedure

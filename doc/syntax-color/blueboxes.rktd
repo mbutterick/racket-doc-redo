@@ -1,13 +1,12 @@
-1690
-((3) 0 () 6 ((q lib "syntax-color/token-tree.rkt") (q lib "syntax-color/lexer-contract.rkt") (q 82 . 4) (q lib "syntax-color/racket-lexer.rkt") (q lib "syntax-color/scribble-lexer.rkt") (c (? . 0) q token-tree%)) () (h ! (equal) ((c def c (c (? . 3) q racket-nobar-lexer/status)) q (765 . 9)) ((c def c (c (? . 1) q dont-stop-val)) c (? . 2)) ((c constructor c (? . 5)) q (2572 . 5)) ((q def ((lib "syntax-color/default-lexer.rkt") default-lexer)) q (994 . 7)) ((c def c (c (? . 4) q scribble-lexer)) q (1748 . 11)) ((c def c (c (? . 0) q node-left-subtree-length)) q (3074 . 3)) ((c def c (c (? . 0) q node-token-length)) q (2945 . 3)) ((c def c (c (? . 1) q struct:dont-stop)) c (? . 2)) ((c def c (c (? . 0) q insert-first!)) q (3281 . 4)) ((c def c (c (? . 3) q racket-lexer)) q (185 . 7)) ((c def c (c (? . 0) q insert-last-spec!)) q (3530 . 5)) ((c def c (c (? . 0) q insert-last!)) q (3406 . 4)) ((c def c (c (? . 4) q scribble-inside-lexer)) q (2222 . 12)) ((q def ((lib "syntax-color/paren-tree.rkt") paren-tree%)) q (0 . 3)) ((c def c (c (? . 0) q node-right)) q (3216 . 3)) ((c def c (c (? . 1) q dont-stop?)) c (? . 2)) ((c def c (? . 5)) q (2518 . 3)) ((c def c (c (? . 0) q node-token-data)) q (3016 . 3)) ((c meth c (c (? . 5) q get-root)) q (2733 . 2)) ((c def c (c (? . 1) q lexer/c)) q (54 . 2)) ((q def ((lib "syntax-color/module-lexer.rkt") module-lexer)) q (1237 . 16)) ((c def c (c (? . 1) q make-dont-stop)) c (? . 2)) ((c def c (c (? . 0) q node?)) q (2894 . 3)) ((c meth c (c (? . 5) q search!)) q (2794 . 3)) ((c def c (c (? . 0) q node-left)) q (3152 . 3)) ((c def c (c (? . 3) q racket-lexer/status)) q (423 . 8)) ((c def c (c (? . 1) q dont-stop)) c (? . 2))))
+1764
+((3) 0 () 6 ((q lib "syntax-color/token-tree.rkt") (q lib "syntax-color/scribble-lexer.rkt") (q lib "syntax-color/lexer-contract.rkt") (q 82 . 3) (c (? . 0) q token-tree%) (q lib "syntax-color/racket-lexer.rkt")) () (h ! (equal) ((c def c (c (? . 0) q node?)) q (3104 . 3)) ((c def c (c (? . 5) q racket-lexer)) q (132 . 7)) ((c def c (c (? . 1) q scribble-lexer)) q (1695 . 11)) ((c def c (c (? . 0) q node-right)) q (3426 . 3)) ((c def c (c (? . 2) q struct:dont-stop)) c (? . 3)) ((c def c (c (? . 0) q node-token-data)) q (3226 . 3)) ((q def ((lib "syntax-color/default-lexer.rkt") default-lexer)) q (941 . 7)) ((c meth c (c (? . 4) q get-root)) q (2943 . 2)) ((c def c (c (? . 1) q scribble-inside-lexer)) q (2169 . 12)) ((c def c (c (? . 0) q node-left)) q (3362 . 3)) ((c def c (c (? . 1) q make-scribble-lexer)) q (2465 . 3)) ((c def c (c (? . 0) q node-left-subtree-length)) q (3284 . 3)) ((c def c (c (? . 2) q dont-stop)) c (? . 3)) ((c def c (c (? . 2) q dont-stop?)) c (? . 3)) ((c def c (c (? . 1) q make-scribble-inside-lexer)) q (2593 . 3)) ((c def c (c (? . 0) q insert-last!)) q (3616 . 4)) ((c constructor c (? . 4)) q (2782 . 5)) ((c meth c (c (? . 4) q search!)) q (3004 . 3)) ((c def c (c (? . 0) q node-token-length)) q (3155 . 3)) ((q def ((lib "syntax-color/module-lexer.rkt") module-lexer)) q (1184 . 16)) ((c def c (c (? . 0) q insert-last-spec!)) q (3740 . 5)) ((c def c (c (? . 5) q racket-nobar-lexer/status)) q (712 . 9)) ((c def c (c (? . 2) q dont-stop-val)) c (? . 3)) ((c def c (c (? . 0) q insert-first!)) q (3491 . 4)) ((c def c (? . 4)) q (2728 . 3)) ((q def ((lib "syntax-color/paren-tree.rkt") paren-tree%)) q (0 . 3)) ((c def c (c (? . 2) q lexer/c)) q (54 . 2)) ((c def c (c (? . 5) q racket-lexer/status)) q (370 . 8))))
 class
 paren-tree% : class?
   superclass: object%
 value
 lexer/c : contract?
 struct
-(struct dont-stop (val)
-        #:extra-constructor-name make-dont-stop)
+(struct dont-stop (val))
   val : any/c
 procedure
 (racket-lexer in) -> (or/c string? eof-object?)
@@ -79,6 +78,12 @@ procedure
   in : input-port?
   offset : exact-nonnegative-integer?
   mode : any/c
+procedure
+(make-scribble-lexer [#:command-char at]) -> lexer/c
+  at : (and/c char? (not/c (or/c #\] #\[))) = #\@
+procedure
+(make-scribble-inside-lexer [#:command-char at]) -> lexer/c
+  at : (and/c char? (not/c (or/c #\] #\[))) = #\@
 class
 token-tree% : class?
   superclass: object%

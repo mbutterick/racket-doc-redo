@@ -1,216 +1,5 @@
-41242
-((3) 0 () 31 ((q lib "drracket/tool-lib.rkt") (c (? . 0) q drracket:rep:text%) (q 45991 . 22) (c (? . 0) q drracket:unit:frame%) (c (? . 0) q drracket:unit:definitions-text<%>) (c (? . 0) q drracket:language:language<%>) (c (? . 0) q drracket:unit:tab<%>) (c (? . 0) q drracket:unit:frame<%>) (c (? . 0) q drracket:rep:context<%>) (c (? . 0) q drracket:language:simple-module-based-language->module-based-language-mixin) (c (? . 13) q syncheck-annotations<%>) (c (? . 0) q drracket:language:module-based-language<%>) (c (? . 0) q drracket:language:simple-module-based-language<%>) (q lib "drracket/check-syntax.rkt") (q 48047 . 9) (q 45641 . 6) (q 70145 . 9) (c (? . 0) q drracket:frame:basics-mixin) (q 25138 . 11) (c (? . 0) q drracket:rep:drs-bindings-keymap-mixin) (c (? . 0) q drracket:frame:<%>) (c (? . 0) q drracket:unit:definitions-text%) (c (? . 0) q drracket:language:module-based-language->language-mixin) (c (? . 0) q drracket:unit:program-editor-mixin) (q lib "lang/htdp-langs-save-file-prefix.rkt") (c (? . 0) q drracket:language:simple-module-based-language%) (c (? . 0) q drracket:unit:tab%) (c (? . 0) q drracket:frame:name-message%) (q lib "drracket/syncheck-drracket-button.rkt") (c (? . 0) q drracket:language:module-language<%>) (c (? . 0) q drracket:unit:interactions-canvas%)) () (h ! (equal) ((c meth c (c (? . 4) q end-metadata-changes)) q (23437 . 3)) ((c def c (c (? . 0) q drscheme:rep:get-drs-bindings-keymap)) q (101179 . 2)) ((c def c (c (? . 0) q drracket:language:simple-settings-show-sharing)) c (? . 2)) ((c meth c (c (? . 1) q initialize-console)) q (59743 . 2)) ((c def c (c (? . 0) q drscheme:language:create-module-based-stand-alone-executable)) q (94494 . 5)) ((c meth c (c (? . 3) q get-canvas)) q (18173 . 3)) ((c def c (c (? . 0) q drscheme:get/extend:get-definitions-canvas)) q (88367 . 2)) ((c def c (c (? . 0) q drscheme:module-language-tools:done?)) q (100605 . 2)) ((c def c (c (? . 0) q drscheme:unit:make-teachpack-callbacks)) q (102805 . 2)) ((c def c (c (? . 0) q drscheme:module-language-tools:done)) q (100674 . 2)) ((c meth c (c (? . 6) q enable-evaluation)) q (14061 . 2)) ((c meth c (c (? . 1) q get-user-namespace)) q (59122 . 3)) ((c def c (c (? . 0) q drracket:eval:traverse-program/multiple)) q (67382 . 16)) ((c def c (c (? . 0) q drscheme:language:simple-settings-case-sensitive)) q (96823 . 2)) ((c form c (c (? . 0) q drracket:tool^)) q (9823 . 2)) ((c def c (c (? . 0) q drracket:language:simple-settings-insert-newlines)) c (? . 2)) ((c def c (c (? . 0) q drracket:modes:mode)) c (? . 16)) ((c def c (c (? . 0) q drscheme:language:create-module-based-distribution)) q (94862 . 5)) ((c meth c (c (? . 3) q file-menu:print-string)) q (17786 . 2)) ((c meth c (c (? . 4) q get-next-settings)) q (23519 . 3)) ((c def c (c (? . 0) q drscheme:language:simple-settings?)) q (96760 . 2)) ((c meth c (c (? . 7) q get-tabs)) q (21197 . 3)) ((c def c (c (? . 0) q drracket:help-desk:goto-plt-license)) q (66042 . 2)) ((c def c (c (? . 0) q drracket:language:capability-registered?)) q (38931 . 3)) ((c meth c (c (? . 5) q get-metadata)) q (36160 . 6)) ((c def c (? . 12)) q (25905 . 2)) ((c def c (c (? . 0) q drracket:language:struct:text/pos)) q (45934 . 2)) ((c meth c (c (? . 9) q render-value/format)) q (29845 . 3)) ((c def c (c (? . 0) q drscheme:unit:tab%)) q (73600 . 2)) ((c def c (c (? . 0) q drracket:debug:srcloc->edition/pair)) q (56656 . 16)) ((c meth c (c (? . 5) q front-end/finished-complete-program)) q (35245 . 4)) ((c def c (c (? . 0) q drscheme:language:add-snip-value)) q (92683 . 5)) ((c meth c (c (? . 10) q syncheck:add-mouse-over-status)) q (5938 . 11)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-interactions-text-mixin)) q (73408 . 2)) ((c meth c (c (? . 6) q get-ints)) q (14563 . 3)) ((c def c (c (? . 0) q drscheme:unit:definitions-canvas%)) q (73672 . 2)) ((c def c (c (? . 0) q drscheme:debug:make-debug-error-display-handler)) q (75749 . 3)) ((c meth c (c (? . 7) q get-language-menu)) q (19477 . 3)) ((c meth c (c (? . 7) q get-definitions-text)) q (20785 . 3)) ((c def c (c (? . 0) q drscheme:debug:get-error-color)) q (81074 . 2)) ((c def c (c (? . 0) q drracket:debug:error-display-handler/stacktrace)) q (50624 . 14)) ((c def c (c (? . 0) q drracket:get/extend:extend-interactions-text)) q (11739 . 9)) ((c meth c (c (? . 8) q get-breakables)) q (61100 . 4)) ((c meth c (c (? . 7) q ensure-rep-shown)) q (19690 . 2)) ((c def c (c (? . 0) q drscheme:rep:text<%>)) q (73915 . 2)) ((c meth c (c (? . 8) q reset-offer-kill)) q (61387 . 2)) ((c def c (c (? . 0) q drracket:language:object/c)) q (38606 . 2)) ((c def c (c (? . 0) q drscheme:language:create-executable-gui)) q (93737 . 10)) ((c def c (c (? . 0) q drracket:language-configuration:language-settings?)) c (? . 14)) ((c meth c (c (? . 21) q set-modified)) q (23073 . 2)) ((c def c (c (? . 0) q drscheme:debug:show-backtrace-window/edition-pairs/two)) q (78729 . 25)) ((c def c (c (? . 0) q drscheme:module-language-tools:frame<%>)) q (75129 . 2)) ((c def c (c (? . 0) q drscheme:language-configuration:struct:language-settings)) q (90405 . 2)) ((c def c (c (? . 0) q drracket:unit:find-symbol)) q (25774 . 4)) ((c meth c (c (? . 8) q needs-execution)) q (61301 . 3)) ((c def c (c (? . 0) q drracket:eval:expand-program)) q (66503 . 18)) ((c def c (c (? . 0) q drracket:language-configuration:get-languages)) q (47322 . 3)) ((c def c (c (? . 0) q drscheme:language:get-default-mixin)) q (93182 . 2)) ((c def c (c (? . 0) q drracket:language-configuration:get-settings-preferences-symbol)) q (47957 . 3)) ((c def c (c (? . 0) q drracket:debug:show-backtrace-window/edition-pairs)) q (53039 . 21)) ((c meth c (c (? . 9) q get-transformer-module)) q (29370 . 3)) ((c def c (c (? . 0) q drracket:language:text/pos?)) c (? . 15)) ((c def c (c (? . 0) q drracket:unit:open-drscheme-window)) q (24487 . 6)) ((c meth c (c (? . 1) q get-user-language-settings)) q (59035 . 3)) ((c def c (c (? . 0) q drscheme:language:simple-settings-annotations)) q (97464 . 2)) ((c meth c (c (? . 1) q highlight-errors)) q (59294 . 6)) ((c meth c (c (? . 3) q get-text-to-search)) q (18759 . 3)) ((c meth c (c (? . 5) q create-executable)) q (34181 . 9)) ((c meth c (c (? . 10) q syncheck:add-docs-menu)) q (1903 . 17)) ((c def c (c (? . 0) q drracket:rep:get-welcome-delta)) q (61778 . 2)) ((c def c (c (? . 0) q drscheme:get/extend:get-unit-frame)) q (86464 . 2)) ((c meth c (c (? . 5) q get-language-url)) q (36067 . 3)) ((c meth c (c (? . 5) q capability-value)) q (33934 . 3)) ((c def c (c (? . 0) q drracket:frame:basics<%>)) q (65080 . 3)) ((c def c (c (? . 0) q drscheme:rep:context<%>)) q (74968 . 2)) ((c meth c (c (? . 11) q get-transformer-module)) q (31350 . 3)) ((c def c (c (? . 0) q drscheme:tool^)) q (73171 . 2)) ((c def c (c (? . 0) q drracket:module-language-tools:add-opt-out-toolbar-button)) q (70682 . 11)) ((c meth c (c (? . 20) q set-show-menu-sort-key)) q (65433 . 5)) ((c def c (c (? . 0) q drracket:debug:test-coverage-enabled)) q (51760 . 4)) ((c meth c (c (? . 17) q help-menu:before-about)) q (64880 . 4)) ((c meth c (c (? . 1) q on-execute)) q (58616 . 3)) ((c meth c (c (? . 11) q render-value/format)) q (32316 . 11)) ((c def c (c (? . 0) q drracket:language:struct:simple-settings)) q (47114 . 2)) ((c def c (c (? . 0) q drscheme:language:make-simple-settings)) q (97604 . 2)) ((c def c (c (? . 0) q drscheme:language:capability-registered?)) q (92137 . 2)) ((c meth c (c (? . 7) q on-tab-change)) q (21292 . 5)) ((c meth c (c (? . 6) q reset-offer-kill)) q (14828 . 2)) ((c sig-val c (c (? . 0) q drracket:tool-exports^ phase1)) q (9909 . 2)) ((c meth c (c (? . 12) q get-language-numbers)) q (25980 . 3)) ((c form c (c (? . 13) q syncheck:add-docs-menu)) q (9065 . 2)) ((c def c (c (? . 0) q drracket:help-desk:help-desk)) q (65772 . 6)) ((c def c (c (? . 0) q drscheme:unit:teachpack-callbacks-remove)) q (102517 . 2)) ((c meth c (c (? . 1) q get-error-range)) q (58729 . 3)) ((c meth c (c (? . 4) q begin-metadata-changes)) q (23353 . 3)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-definitions-text-mixin)) q (73477 . 2)) ((c meth c (c (? . 1) q wait-for-io-to-complete)) q (60361 . 2)) ((c def c (c (? . 0) q drscheme:unit:open-drscheme-window)) q (101822 . 4)) ((c meth c (c (? . 6) q add-bkg-running-color)) q (15114 . 7)) ((c meth c (c (? . 29) q get-users-language-name)) q (72849 . 3)) ((c meth c (c (? . 1) q reset-console)) q (60080 . 2)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-on-style-name)) q (76222 . 2)) ((c meth c (c (? . 3) q update-save-button)) q (19167 . 4)) ((c def c (c (? . 0) q drracket:debug:show-backtrace-window/edition-pairs/two)) q (54161 . 33)) ((c meth c (c (? . 22) q front-end/complete-program)) q (33405 . 3)) ((c def c (c (? . 0) q drscheme:language:simple-settings-printing-style)) q (96929 . 2)) ((c meth c (c (? . 6) q is-running?)) q (14710 . 2)) ((c def c (c (? . 0) q drscheme:rep:current-language-settings)) q (101479 . 2)) ((c def c (c (? . 0) q drscheme:eval:expand-program/multiple)) q (84793 . 12)) ((c meth c (c (? . 3) q update-shown)) q (19367 . 2)) ((c def c (? . 19)) q (60509 . 3)) ((c def c (c (? . 0) q drracket:unit:teachpack-callbacks-get-names)) c (? . 18)) ((c def c (c (? . 0) q drracket:frame:mixin)) q (63110 . 6)) ((c def c (c (? . 0) q drracket:rep:get-error-delta)) q (61925 . 2)) ((c def c (c (? . 0) q drscheme:language-configuration:language-settings-language)) q (90082 . 2)) ((c def c (c (? . 0) q drracket:rep:get-dark-green-delta)) q (61850 . 2)) ((c def c (c (? . 0) q drracket:language:extend-language-interface)) q (39663 . 7)) ((c def c (c (? . 0) q drracket:eval:set-basic-parameters)) q (66101 . 7)) ((c meth c (c (? . 6) q can-close?)) q (13934 . 2)) ((c form c (c (? . 13) q syncheck:add-mouse-over-status)) q (9219 . 2)) ((c meth c (c (? . 1) q run-in-evaluation-thread)) q (60207 . 3)) ((c meth c (c (? . 5) q front-end/complete-program)) q (34917 . 7)) ((c def c (c (? . 0) q drracket:module-language-tools:add-online-expansion-monitor)) q (71778 . 12)) ((c def c (c (? . 0) q make-drracket:language-configuration:language-settings)) c (? . 14)) ((c def c (c (? . 0) q drscheme:eval:set-basic-parameters)) q (82977 . 4)) ((c def c (c (? . 0) q drracket:module-language-tools:done)) q (72704 . 2)) ((c def c (c (? . 0) q drracket:debug:test-coverage-on-style-name)) q (51909 . 2)) ((c meth c (c (? . 7) q register-toolbar-button)) q (21792 . 7)) ((c meth c (c (? . 1) q get-user-custodian)) q (58855 . 3)) ((c def c (c (? . 0) q drscheme:rep:get-error-delta)) q (101110 . 2)) ((c meth c (c (? . 8) q ensure-rep-shown)) q (60984 . 3)) ((c def c (c (? . 0) q drracket:get/extend:get-definitions-text)) q (11625 . 3)) ((c meth c (c (? . 8) q get-directory)) q (61217 . 3)) ((c meth c (c (? . 6) q get-enabled)) q (14417 . 2)) ((c form c (c (? . 13) q syncheck:add-require-open-menu)) q (9027 . 2)) ((c meth c (c (? . 1) q kill-evaluation)) q (59870 . 2)) ((c def c (c (? . 0) q drscheme:modes:mode-repl-submit)) q (98406 . 2)) ((c def c (c (? . 0) q drracket:language-configuration:add-language)) q (47437 . 8)) ((c meth c (c (? . 9) q render-value)) q (29732 . 3)) ((c def c (c (? . 0) q drscheme:unit:frame<%>)) q (74842 . 2)) ((c def c (c (? . 0) q drracket:rep:get-drs-bindings-keymap)) q (61995 . 2)) ((c sig-val c (c (? . 0) q drracket:tool-exports^ phase2)) q (9939 . 2)) ((c meth c (c (? . 6) q get-defs)) q (14240 . 3)) ((c meth c (c (? . 11) q get-language-position)) q (30913 . 3)) ((c meth c (c (? . 3) q change-to-file)) q (17047 . 3)) ((c def c (c (? . 0) q drscheme:language:extend-language-interface)) q (92944 . 4)) ((c def c (? . 25)) q (26582 . 4)) ((c def c (c (? . 0) q drracket:get/extend:get-definitions-canvas)) q (12894 . 3)) ((c def c (c (? . 0) q drracket:debug:make-debug-error-display-handler)) q (51376 . 4)) ((c def c (c (? . 0) q make-drracket:language:text/pos)) c (? . 15)) ((c form c (c (? . 13) q syncheck:add-id-set)) q (9296 . 2)) ((c meth c (c (? . 6) q is-current-tab?)) q (14644 . 2)) ((c def c (c (? . 0) q drracket:language:add-snip-value)) q (39338 . 7)) ((c def c (c (? . 0) q drracket:modes:mode-repl-submit)) c (? . 16)) ((c meth c (c (? . 12) q get-one-line-summary)) q (26326 . 3)) ((c meth c (c (? . 17) q help-menu:create-about?)) q (65001 . 3)) ((c meth c (c (? . 17) q edit-menu:between-find-and-preferences)) q (63533 . 3)) ((c def c (c (? . 0) q drracket:module-language-tools:start?)) q (72386 . 3)) ((c def c (c (? . 0) q drscheme:rep:current-value-port)) q (101339 . 2)) ((c constructor c (? . 3)) q (16766 . 3)) ((c meth c (c (? . 3) q update-save-message)) q (19271 . 3)) ((c def c (c (? . 0) q drracket:language:create-module-based-stand-alone-executable)) q (41384 . 17)) ((c def c (c (? . 0) q drscheme:modes:mode?)) q (98186 . 2)) ((c meth c (c (? . 11) q render-value)) q (31939 . 9)) ((c def c (c (? . 0) q drscheme:language-configuration:language-settings-settings)) q (90276 . 2)) ((c def c (c (? . 0) q drracket:unit:definitions-canvas%)) q (24155 . 3)) ((c form c (c (? . 0) q drracket:tool-exports^)) q (9862 . 2)) ((c meth c (c (? . 17) q file-menu:open-callback)) q (64179 . 6)) ((c def c (c (? . 0) q struct:drracket:unit:teachpack-callbacks)) c (? . 18)) ((c form c (c (? . 13) q syncheck:find-source-object)) q (8955 . 2)) ((c def c (? . 4)) q (23146 . 2)) ((c meth c (c (? . 27) q set-message)) q (62897 . 6)) ((c meth c (c (? . 3) q find-matching-tab)) q (17138 . 4)) ((c def c (c (? . 0) q drracket:module-language-tools:add-online-expansion-handler)) q (71254 . 11)) ((c def c (c (? . 0) q drracket:language:create-module-based-distribution)) q (42450 . 17)) ((c form c (c (? . 13) q syncheck:add-arrow/name-dup)) q (9153 . 2)) ((c def c (c (? . 0) q drscheme:get/extend:disallow-re-extension!)) q (88994 . 2)) ((c meth c (c (? . 10) q syncheck:add-definition-target)) q (7215 . 11)) ((c def c (c (? . 0) q drscheme:unit:get-program-editor-mixin)) q (101592 . 3)) ((c meth c (c (? . 19) q get-keymaps)) q (60632 . 3)) ((c meth c (c (? . 17) q get-additional-important-urls)) q (64473 . 3)) ((c meth c (c (? . 20) q add-show-menu-items)) q (65322 . 3)) ((c meth c (c (? . 5) q extra-repl-information)) q (36795 . 7)) ((c meth c (c (? . 5) q get-style-delta)) q (36629 . 3)) ((c def c (c (? . 0) q drscheme:eval:traverse-program/multiple)) q (83959 . 11)) ((c def c (c (? . 0) q drracket:language:simple-settings-annotations)) c (? . 2)) ((c def c (c (? . 0) q drscheme:get/extend:extend-tab)) q (86551 . 5)) ((c def c (c (? . 0) q drracket:debug:profile-definitions-text-mixin)) q (50439 . 4)) ((c def c (c (? . 0) q drscheme:module-language:add-module-language)) q (100757 . 2)) ((c def c (c (? . 0) q drracket:debug:hide-backtrace-window)) q (51541 . 2)) ((c def c (c (? . 0) q drscheme:unit:get-definitions-text%)) q (73722 . 2)) ((c def c (? . 10)) q (679 . 2)) ((c meth c (c (? . 6) q get-last-touched)) q (15562 . 2)) ((c def c (c (? . 0) q drracket:language:get-capability-default)) q (39019 . 4)) ((c meth c (c (? . 6) q remove-bkg-running-color)) q (15412 . 3)) ((c meth c (c (? . 3) q get-definitions/interactions-panel-parent)) q (18328 . 5)) ((c def c (c (? . 0) q drscheme:language:struct:simple-settings)) q (97664 . 2)) ((c def c (c (? . 0) q drracket:language:get-default-mixin)) q (40015 . 3)) ((c meth c (c (? . 7) q get-interactions-text)) q (21101 . 3)) ((c def c (? . 17)) q (63365 . 4)) ((c meth c (c (? . 5) q render-value)) q (37742 . 8)) ((c def c (c (? . 0) q drscheme:debug:profile-definitions-text-mixin)) q (73241 . 2)) ((c def c (c (? . 0) q drscheme:get/extend:get-tab)) q (86882 . 2)) ((c def c (c (? . 0) q drracket:unit:add-search-help-desk-menu-item)) q (24699 . 9)) ((c constructor c (? . 21)) q (22900 . 3)) ((c meth c (c (? . 6) q on-close)) q (14772 . 2)) ((c meth c (c (? . 10) q syncheck:add-arrow)) q (3131 . 19)) ((c form c (c (? . 13) q syncheck:add-rename-menu)) q (9095 . 2)) ((c def c (c (? . 0) q drscheme:debug:show-backtrace-window)) q (81139 . 8)) ((c def c (c (? . 0) q drracket:language:create-module-based-launcher)) q (43896 . 17)) ((c meth c (c (? . 7) q get-interactions-canvas)) q (20969 . 3)) ((c def c (c (? . 0) q drracket:eval:expand-program/multiple)) q (68168 . 18)) ((c def c (c (? . 0) q drracket:get/extend:get-tab)) q (11010 . 3)) ((c def c (c (? . 0) q drscheme:language:get-capability-contract)) q (92504 . 3)) ((c def c (c (? . 0) q drscheme:language:get-capability-default)) q (92212 . 4)) ((c meth c (c (? . 7) q ensure-defs-shown)) q (19556 . 2)) ((c def c (? . 22)) q (33185 . 5)) ((c def c (c (? . 0) q drracket:get/extend:get-interactions-text)) q (12257 . 3)) ((c def c (c (? . 0) q drracket:language:simple-module-based-language-convert-value)) q (44850 . 7)) ((c meth c (c (? . 3) q file-menu:between-print-and-close)) q (17616 . 3)) ((c meth c (c (? . 12) q get-reader)) q (26438 . 3)) ((c def c (c (? . 0) q drscheme:get/extend:extend-unit-frame)) q (86105 . 5)) ((c def c (c (? . 0) q drscheme:unit:teachpack-callbacks-get-names)) q (102287 . 2)) ((c def c (c (? . 0) q drscheme:language:text/pos-text)) q (96362 . 2)) ((c def c (c (? . 0) q drscheme:debug:profiling-enabled)) q (76345 . 2)) ((c def c (c (? . 0) q drscheme:language:create-distribution-for-executable)) q (95190 . 6)) ((c def c (c (? . 0) q drracket:unit:make-teachpack-callbacks)) q (25714 . 2)) ((c def c (? . 6)) q (13785 . 3)) ((c def c (? . 3)) q (16603 . 5)) ((c meth c (c (? . 5) q get-language-position)) q (35961 . 3)) ((c def c (c (? . 0) q drscheme:language:language<%>)) q (74033 . 2)) ((c def c (c (? . 0) q drscheme:language:simple-settings-show-sharing)) q (97253 . 2)) ((c def c (c (? . 0) q drracket:language:text/pos-end)) c (? . 15)) ((c meth c (c (? . 5) q default-settings)) q (34620 . 3)) ((c meth c (c (? . 5) q get-comment-character)) q (35691 . 3)) ((c meth c (c (? . 12) q get-language-position)) q (26105 . 3)) ((c def c (c (? . 0) q drracket:language:get-language-extensions)) q (40122 . 3)) ((c meth c (c (? . 9) q default-settings)) q (28973 . 3)) ((c def c (c (? . 0) q drscheme:debug:profile-tab-mixin)) q (73303 . 2)) ((c meth c (c (? . 7) q unregister-toolbar-button)) q (22479 . 4)) ((c meth c (c (? . 17) q help-menu:about-callback)) q (64582 . 6)) ((c def c (c (? . 0) q drscheme:debug:error-display-handler/stacktrace)) q (75185 . 7)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-tab-mixin)) q (73545 . 2)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-off-style-name)) q (76283 . 2)) ((c def c (c (? . 0) q drracket:get/extend:extend-definitions-text)) q (11098 . 9)) ((c meth c (c (? . 8) q update-running)) q (61680 . 3)) ((c def c (c (? . 0) q drscheme:module-language-tools:frame-mixin)) q (74580 . 2)) ((c def c (c (? . 0) q drscheme:debug:srcloc->edition/pair)) q (81726 . 12)) ((c def c (c (? . 0) q drracket:get/extend:extend-unit-frame)) q (9969 . 9)) ((c def c (c (? . 0) q drscheme:modes:mode-surrogate)) q (98302 . 2)) ((c meth c (c (? . 23) q after-delete)) q (16027 . 6)) ((c meth c (c (? . 11) q unmarshall-settings)) q (32853 . 4)) ((c meth c (c (? . 11) q default-settings?)) q (30549 . 4)) ((c meth c (c (? . 3) q get-break-button)) q (18003 . 3)) ((c def c (c (? . 0) q drscheme:language:text/pos-start)) q (96450 . 2)) ((c meth c (c (? . 5) q config-panel)) q (34029 . 4)) ((c meth c (c (? . 22) q get-language-name)) q (33688 . 3)) ((c meth c (c (? . 3) q execute-callback)) q (17466 . 2)) ((c meth c (c (? . 10) q syncheck:find-source-object)) q (728 . 4)) ((c def c (c (? . 0) q drracket:unit:teachpack-callbacks-remove-all)) c (? . 18)) ((c meth c (c (? . 8) q clear-annotations)) q (60779 . 2)) ((c meth c (c (? . 1) q evaluate-from-port)) q (58182 . 9)) ((c meth c (c (? . 20) q get-show-menu)) q (65644 . 2)) ((c meth c (c (? . 11) q use-mred-launcher)) q (32993 . 3)) ((c def c (c (? . 0) q drracket:language:make-text/pos)) q (45881 . 2)) ((c def c (c (? . 0) q drracket:language:put-executable)) q (40203 . 12)) ((c def c (c (? . 0) q drracket:debug:profile-unit-frame-mixin)) q (50123 . 4)) ((c meth c (c (? . 4) q after-set-next-settings)) q (23205 . 4)) ((c meth c (c (? . 7) q get-insert-menu)) q (20893 . 2)) ((c def c (c (? . 0) q drscheme:frame:basics-mixin)) q (73989 . 2)) ((c meth c (c (? . 5) q get-language-numbers)) q (35856 . 3)) ((c def c (c (? . 0) q drscheme:get/extend:extend-definitions-canvas)) q (87963 . 5)) ((c def c (c (? . 0) q drscheme:get/extend:get-interactions-canvas)) q (88884 . 2)) ((c def c (c (? . 0) q drracket:module-language:add-module-language)) q (72938 . 2)) ((c meth c (c (? . 9) q use-mred-launcher)) q (30105 . 3)) ((c meth c (c (? . 11) q on-execute)) q (31595 . 7)) ((c meth c (c (? . 5) q render-value/format)) q (38007 . 11)) ((c def c (c (? . 0) q drscheme:unit:add-search-help-desk-menu-item)) q (102060 . 2)) ((c meth c (c (? . 9) q get-init-code)) q (29214 . 4)) ((c def c (? . 23)) q (15871 . 4)) ((c meth c (c (? . 17) q file-menu:open-string)) q (64398 . 2)) ((c def c (c (? . 0) q drscheme:module-language-tools:tab-mixin)) q (74639 . 2)) ((c meth c (c (? . 5) q get-one-line-summary)) q (36430 . 3)) ((c def c (c (? . 0) q drracket:language:simple-settings->vector)) q (47178 . 4)) ((c def c (c (? . 0) q drscheme:rep:after-expression)) q (101410 . 2)) ((c def c (c (? . 0) q drracket:unit:add-to-program-editor-mixin)) q (24348 . 3)) ((c def c (c (? . 0) q drracket:debug:get-error-color)) q (56004 . 2)) ((c def c (c (? . 0) q struct:drracket:language:simple-settings)) c (? . 2)) ((c meth c (c (? . 3) q on-close)) q (18983 . 2)) ((c meth c (c (? . 4) q set-next-settings)) q (23817 . 7)) ((c def c (c (? . 0) q drracket:language:text/pos-text)) c (? . 15)) ((c meth c (c (? . 1) q on-close)) q (59933 . 2)) ((c def c (c (? . 0) q drracket:language:simple-settings-fraction-style)) c (? . 2)) ((c def c (c (? . 0) q drscheme:frame:mixin)) q (73952 . 2)) ((c meth c (c (? . 9) q default-settings?)) q (29093 . 3)) ((c meth c (c (? . 7) q open-in-new-tab)) q (20038 . 3)) ((c meth c (c (? . 8) q disable-evaluation)) q (60847 . 2)) ((c def c (c (? . 24) q htdp-file-prefix?)) q (9752 . 3)) ((c def c (c (? . 24) q htdp-save-file-prefix)) q (9702 . 2)) ((c meth c (c (? . 5) q order-manuals)) q (37608 . 4)) ((c meth c (c (? . 5) q default-settings?)) q (34697 . 4)) ((c def c (? . 1)) q (57713 . 4)) ((c meth c (c (? . 5) q marshall-settings)) q (37079 . 4)) ((c meth c (c (? . 7) q ensure-rep-hidden)) q (19623 . 2)) ((c def c (c (? . 0) q drracket:debug:profiling-enabled)) q (52032 . 4)) ((c meth c (c (? . 25) q get-module)) q (28200 . 3)) ((c def c (c (? . 0) q drscheme:rep:current-rep)) q (101251 . 2)) ((c def c (c (? . 0) q drracket:modes:mode-matches-language)) c (? . 16)) ((c def c (c (? . 0) q drracket:debug:test-coverage-off-style-name)) q (51970 . 2)) ((c meth c (c (? . 22) q on-execute)) q (33788 . 3)) ((c def c (? . 21)) q (22677 . 5)) ((c def c (c (? . 0) q drracket:debug:bug-info->ticket-url)) q (52173 . 3)) ((c def c (c (? . 0) q drracket:rep:current-rep)) q (62068 . 3)) ((c def c (c (? . 0) q drscheme:unit:interactions-canvas%)) q (73774 . 2)) ((c def c (c (? . 0) q drscheme:module-language-tools:add-online-expansion-monitor)) q (99813 . 7)) ((c def c (c (? . 0) q drscheme:get/extend:get-interactions-text)) q (87863 . 2)) ((c def c (c (? . 0) q drscheme:tracing:frame-mixin)) q (74475 . 2)) ((c meth c (c (? . 10) q syncheck:add-id-set)) q (2645 . 9)) ((c def c (c (? . 0) q drscheme:language-configuration:get-languages)) q (89427 . 2)) ((c meth c (c (? . 10) q syncheck:add-tail-arrow)) q (5398 . 11)) ((c def c (c (? . 0) q drracket:debug:profile-interactions-text-mixin)) q (50304 . 3)) ((c def c (c (? . 0) q drracket:language:simple-settings)) c (? . 2)) ((c def c (c (? . 0) q drscheme:language:struct:text/pos)) q (96703 . 2)) ((c meth c (c (? . 11) q get-init-code)) q (30676 . 4)) ((c def c (c (? . 0) q drracket:rep:after-expression)) q (62230 . 4)) ((c def c (c (? . 0) q drscheme:module-language-tools:add-opt-out-toolbar-button)) q (98748 . 7)) ((c meth c (c (? . 7) q reorder-tabs)) q (20478 . 3)) ((c meth c (c (? . 11) q marshall-settings)) q (31468 . 4)) ((c meth c (c (? . 4) q set-needs-execution-message)) q (23703 . 4)) ((c def c (c (? . 0) q drscheme:language:simple-settings->vector)) q (97728 . 3)) ((c def c (c (? . 0) q drscheme:debug:add-prefs-panel)) q (76010 . 2)) ((c def c (c (? . 0) q drracket:language-configuration:fill-language-dialog)) q (49255 . 15)) ((c def c (c (? . 0) q drscheme:language:module-based-language->language-mixin)) q (74360 . 2)) ((c def c (c (? . 0) q drracket:unit:struct:teachpack-callbacks)) q (25650 . 2)) ((c def c (c (? . 0) q drscheme:debug:bug-info->ticket-url)) q (76410 . 3)) ((c def c (c (? . 0) q drscheme:language:create-module-based-launcher)) q (95547 . 4)) ((c def c (? . 9)) q (28559 . 5)) ((c def c (c (? . 0) q drscheme:rep:get-welcome-delta)) q (100965 . 2)) ((c def c (c (? . 0) q drracket:language:create-distribution-for-executable)) q (43438 . 9)) ((c meth c (c (? . 6) q get-breakables)) q (14126 . 4)) ((c def c (c (? . 0) q drscheme:modes:struct:mode)) q (98626 . 2)) ((c def c (c (? . 0) q drracket:debug:show-backtrace-window)) q (56070 . 12)) ((c def c (c (? . 0) q drracket:language:simple-settings-case-sensitive)) c (? . 2)) ((c constructor c (? . 1)) q (57814 . 4)) ((c meth c (c (? . 5) q get-language-name)) q (35779 . 3)) ((c meth c (c (? . 17) q help-menu:about-string)) q (64803 . 3)) ((c def c (c (? . 0) q drscheme:unit:teachpack-callbacks-add)) q (102404 . 2)) ((c meth c (c (? . 1) q after-delete)) q (57959 . 2)) ((c meth c (c (? . 5) q get-metadata-lines)) q (36353 . 3)) ((c def c (c (? . 0) q drracket:get/extend:disallow-re-extension!)) q (13656 . 2)) ((c def c (c (? . 0) q drscheme:modes:get-modes)) q (98676 . 2)) ((c def c (c (? . 0) q drracket:language:make-simple-settings)) q (47054 . 2)) ((c def c (c (? . 0) q drscheme:debug:profile-unit-frame-mixin)) q (73352 . 2)) ((c def c (c (? . 0) q drracket:language:text/pos-start)) c (? . 15)) ((c meth c (c (? . 3) q file-menu:save-as-string)) q (17858 . 2)) ((c meth c (c (? . 7) q move-current-tab-right)) q (20335 . 2)) ((c meth c (c (? . 1) q after-many-evals)) q (58554 . 2)) ((c meth c (c (? . 10) q syncheck:add-rename-menu)) q (8256 . 11)) ((c def c (c (? . 0) q drscheme:unit:struct:teachpack-callbacks)) q (102741 . 2)) ((c def c (c (? . 0) q drscheme:help-desk:goto-plt-license)) q (89369 . 2)) ((c def c (c (? . 0) q drracket:get/extend:extend-interactions-canvas)) q (13004 . 9)) ((c def c (c (? . 0) q drscheme:language:text/pos-end)) q (96551 . 2)) ((c def c (c (? . 0) q drracket:modes:mode-surrogate)) c (? . 16)) ((c form c (c (? . 13) q syncheck:add-tail-arrow)) q (9188 . 2)) ((c meth c (c (? . 1) q on-highlighted-errors)) q (59618 . 3)) ((c form c (c (? . 28) q syncheck:button-callback)) q (9625 . 2)) ((c def c (c (? . 0) q drscheme:language:simple-module-based-language->module-based-language-mixin)) q (74268 . 2)) ((c def c (c (? . 0) q drscheme:module-language:module-language-put-file-mixin)) q (100822 . 2)) ((c def c (c (? . 0) q drscheme:unit:find-symbol)) q (102865 . 2)) ((c def c (c (? . 13) q annotations-mixin)) q (8856 . 3)) ((c meth c (c (? . 9) q config-panel)) q (28819 . 3)) ((c meth c (c (? . 11) q default-settings)) q (30459 . 3)) ((c def c (c (? . 0) q drscheme:language:setup-printing-parameters)) q (96017 . 2)) ((c def c (c (? . 0) q drscheme:language-configuration:add-language)) q (89540 . 5)) ((c meth c (c (? . 25) q get-language-numbers)) q (27969 . 3)) ((c meth c (c (? . 11) q get-language-numbers)) q (30795 . 3)) ((c def c (c (? . 0) q drscheme:unit:teachpack-callbacks-remove-all)) q (102633 . 2)) ((c def c (c (? . 0) q make-drracket:language:simple-settings)) c (? . 2)) ((c meth c (c (? . 5) q get-reader-module)) q (36510 . 3)) ((c def c (c (? . 0) q drscheme:get/extend:extend-interactions-canvas)) q (88475 . 5)) ((c meth c (c (? . 17) q file-menu:new-callback)) q (63888 . 6)) ((c def c (c (? . 0) q drracket:get/extend:allow-re-extension!)) q (13722 . 2)) ((c meth c (c (? . 26) q clear-annotations)) q (15806 . 2)) ((c def c (c (? . 0) q drracket:debug:make-debug-eval-handler)) q (51655 . 3)) ((c def c (c (? . 0) q drracket:unit:teachpack-callbacks-add)) c (? . 18)) ((c meth c (c (? . 22) q front-end/interaction)) q (33549 . 3)) ((c meth c (c (? . 9) q marshall-settings)) q (29500 . 3)) ((c meth c (c (? . 6) q get-frame)) q (14479 . 3)) ((c meth c (c (? . 25) q get-one-line-summary)) q (28315 . 3)) ((c def c (c (? . 0) q struct:drracket:language-configuration:language-settings)) c (? . 14)) ((c def c (c (? . 13) q current-max-to-send-at-once)) q (477 . 5)) ((c meth c (c (? . 7) q move-current-tab-left)) q (20407 . 2)) ((c def c (c (? . 0) q drscheme:module-language-tools:add-online-expansion-handler)) q (99337 . 5)) ((c def c (c (? . 0) q drracket:get/extend:extend-tab)) q (10548 . 9)) ((c def c (c (? . 0) q drscheme:language-configuration:fill-language-dialog)) q (90927 . 10)) ((c meth c (c (? . 6) q get-directory)) q (14336 . 3)) ((c def c (c (? . 0) q drracket:language:simple-settings?)) c (? . 2)) ((c def c (c (? . 0) q drscheme:frame:basics<%>)) q (74766 . 2)) ((c meth c (c (? . 25) q get-reader)) q (28415 . 3)) ((c meth c (c (? . 9) q unmarshall-settings)) q (29965 . 3)) ((c def c (c (? . 0) q drscheme:debug:make-debug-eval-handler)) q (76063 . 2)) ((c def c (c (? . 0) q drscheme:debug:open-and-highlight-in-file)) q (76626 . 8)) ((c def c (c (? . 0) q drracket:debug:small-planet-bitmap)) q (52301 . 2)) ((c def c (c (? . 0) q drracket:language-configuration:language-settings-language)) c (? . 14)) ((c def c (c (? . 0) q drscheme:language:register-capability)) q (91781 . 6)) ((c def c (c (? . 0) q drracket:language-configuration:language-settings-settings)) c (? . 14)) ((c def c (c (? . 0) q drscheme:modes:mode-matches-language)) q (98519 . 2)) ((c def c (c (? . 0) q drracket:get/extend:extend-definitions-canvas)) q (12359 . 9)) ((c def c (c (? . 0) q drscheme:tracing:tab-mixin)) q (74432 . 2)) ((c meth c (c (? . 5) q on-execute)) q (37307 . 7)) ((c meth c (c (? . 7) q register-toolbar-buttons)) q (22106 . 7)) ((c meth c (c (? . 3) q add-show-menu-items)) q (16867 . 4)) ((c def c (c (? . 0) q drracket:language:get-capability-contract)) q (39197 . 3)) ((c def c (c (? . 0) q drscheme:language-configuration:language-dialog)) q (90561 . 4)) ((c def c (c (? . 0) q drscheme:help-desk:help-desk)) q (89121 . 5)) ((c def c (c (? . 0) q drscheme:unit:frame%)) q (73635 . 2)) ((c constructor c (? . 30)) q (16474 . 3)) ((c def c (? . 26)) q (15628 . 4)) ((c def c (c (? . 0) q drscheme:language-configuration:get-settings-preferences-symbol)) q (89915 . 2)) ((c def c (c (? . 0) q drracket:eval:build-user-eventspace/custodian)) q (69065 . 11)) ((c def c (c (? . 0) q drracket:language-configuration:make-language-settings)) q (48591 . 2)) ((c def c (c (? . 0) q drscheme:rep:drs-bindings-keymap-mixin)) q (73825 . 2)) ((c meth c (c (? . 20) q update-shown)) q (65714 . 2)) ((c def c (c (? . 0) q drracket:language:text/pos)) c (? . 15)) ((c meth c (c (? . 1) q shutdown)) q (60305 . 2)) ((c def c (? . 20)) q (65171 . 5)) ((c meth c (c (? . 6) q break-callback)) q (13872 . 2)) ((c meth c (c (? . 7) q get-current-tab)) q (19756 . 3)) ((c def c (c (? . 0) q drscheme:language:simple-module-based-language-convert-value)) q (95893 . 2)) ((c meth c (c (? . 1) q highlight-errors/exn)) q (59529 . 3)) ((c def c (c (? . 0) q drscheme:rep:get-dark-green-delta)) q (101036 . 2)) ((c def c (c (? . 0) q drracket:unit:teachpack-callbacks?)) c (? . 18)) ((c meth c (c (? . 3) q on-size)) q (19041 . 2)) ((c form c (c (? . 13) q syncheck:add-background-color)) q (8990 . 2)) ((c def c (c (? . 0) q drscheme:language-configuration:language-settings?)) q (90003 . 2)) ((c meth c (c (? . 1) q insert-prompt)) q (59809 . 2)) ((c def c (? . 8)) q (60730 . 2)) ((c def c (c (? . 0) q drscheme:unit:add-to-program-editor-mixin)) q (101700 . 3)) ((c meth c (c (? . 6) q set-breakables)) q (14892 . 5)) ((c def c (c (? . 0) q drracket:language-configuration:language-dialog)) q (48667 . 9)) ((c form c (c (? . 13) q syncheck:add-arrow)) q (9127 . 2)) ((c def c (c (? . 0) q drscheme:get/extend:allow-re-extension!)) q (89059 . 2)) ((c meth c (c (? . 11) q get-one-line-summary)) q (31120 . 3)) ((c meth c (c (? . 7) q prev-tab)) q (20277 . 2)) ((c meth c (c (? . 1) q get-user-eventspace)) q (58944 . 3)) ((c def c (c (? . 0) q drscheme:language:put-executable)) q (93366 . 7)) ((c def c (c (? . 13) q make-traversal)) q (0 . 7)) ((c def c (c (? . 0) q drracket:rep:text<%>)) q (57667 . 2)) ((c def c (c (? . 0) q drscheme:language:make-setup-printing-parameters)) q (96156 . 2)) ((c meth c (c (? . 21) q set-filename)) q (23000 . 2)) ((c meth c (c (? . 7) q get-tab-filename)) q (19848 . 3)) ((c def c (c (? . 0) q drscheme:language-configuration:make-language-settings)) q (90485 . 2)) ((c def c (c (? . 0) q drracket:language-configuration:struct:language-settings)) q (48511 . 2)) ((c form c (c (? . 13) q syncheck:add-jump-to-definition)) q (9257 . 2)) ((c def c (c (? . 0) q drscheme:module-language-tools:tab<%>)) q (75075 . 2)) ((c def c (c (? . 0) q drracket:module-language-tools:register-online-expansion-pref)) q (72473 . 4)) ((c def c (c (? . 0) q drracket:debug:add-prefs-panel)) q (51601 . 2)) ((c meth c (c (? . 6) q disable-evaluation)) q (13995 . 2)) ((c meth c (c (? . 17) q file-menu:between-print-and-close)) q (63756 . 4)) ((c meth c (c (? . 7) q get-definitions-canvas)) q (20673 . 3)) ((c meth c (c (? . 3) q file-menu:between-save-as-and-print)) q (17700 . 3)) ((c def c (c (? . 0) q drracket:module-language-tools:done?)) q (72618 . 3)) ((c meth c (c (? . 3) q get-editor)) q (18526 . 2)) ((c def c (c (? . 0) q drscheme:language:simple-module-based-language<%>)) q (74138 . 2)) ((c def c (? . 11)) q (30226 . 2)) ((c def c (c (? . 0) q drscheme:module-language-tools:start?)) q (100410 . 2)) ((c def c (? . 5)) q (33879 . 2)) ((c meth c (c (? . 4) q get-tab)) q (23610 . 3)) ((c def c (c (? . 0) q drracket:language-configuration:language-settings)) c (? . 14)) ((c def c (c (? . 0) q drracket:modes:struct:mode)) q (70559 . 2)) ((c meth c (c (? . 1) q wait-for-io-to-complete/user)) q (60432 . 3)) ((c def c (c (? . 0) q drscheme:language:simple-settings-insert-newlines)) q (97357 . 2)) ((c meth c (c (? . 3) q get-canvas%)) q (18254 . 2)) ((c def c (c (? . 0) q drscheme:rep:text%)) q (73880 . 2)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-enabled)) q (76153 . 2)) ((c meth c (c (? . 17) q file-menu:between-open-and-revert)) q (63624 . 4)) ((c def c (c (? . 0) q drscheme:modes:mode-name)) q (98235 . 2)) ((c meth c (c (? . 3) q change-to-tab)) q (17268 . 3)) ((c meth c (c (? . 8) q set-breakables)) q (61454 . 5)) ((c def c (c (? . 0) q drscheme:modes:add-mode)) q (97834 . 6)) ((c def c (c (? . 0) q drracket:get/extend:get-interactions-canvas)) q (13544 . 3)) ((c meth c (c (? . 10) q syncheck:add-require-open-menu)) q (1372 . 11)) ((c meth c (c (? . 17) q file-menu:new-string)) q (64105 . 2)) ((c def c (? . 27)) q (62672 . 3)) ((c meth c (c (? . 7) q get-tab-count)) q (19956 . 3)) ((c meth c (c (? . 3) q file-menu:save-string)) q (17932 . 2)) ((c def c (c (? . 0) q drscheme:eval:expand-program)) q (83271 . 11)) ((c def c (c (? . 0) q drscheme:module-language:module-language<%>)) q (74520 . 2)) ((c meth c (c (? . 3) q get-execute-button)) q (18677 . 3)) ((c def c (c (? . 0) q drscheme:get/extend:extend-interactions-text)) q (87476 . 5)) ((c def c (c (? . 0) q make-drracket:unit:teachpack-callbacks)) c (? . 18)) ((c meth c (c (? . 7) q next-tab)) q (20219 . 2)) ((c def c (c (? . 0) q drscheme:language:module-based-language<%>)) q (74079 . 2)) ((c constructor c (? . 25)) q (26736 . 18)) ((c def c (c (? . 0) q struct:drracket:modes:mode)) c (? . 16)) ((c meth c (c (? . 5) q unmarshall-settings)) q (38479 . 4)) ((c def c (c (? . 0) q drscheme:language:simple-module-based-language%)) q (74204 . 2)) ((c def c (c (? . 0) q drscheme:module-language-tools:register-online-expansion-pref)) q (100480 . 2)) ((c def c (c (? . 0) q drscheme:get/extend:extend-definitions-text)) q (86968 . 5)) ((c def c (c (? . 0) q drracket:language:simple-settings-printing-style)) c (? . 2)) ((c def c (c (? . 0) q drscheme:unit:teachpack-callbacks?)) q (102224 . 2)) ((c def c (c (? . 0) q drscheme:unit:definitions-text<%>)) q (74881 . 2)) ((c meth c (c (? . 11) q config-panel)) q (30294 . 4)) ((c def c (c (? . 0) q drscheme:eval:get-snip-classes)) q (83191 . 2)) ((c def c (c (? . 0) q struct:drracket:language:text/pos)) c (? . 15)) ((c def c (c (? . 0) q drscheme:tool-exports^)) q (73202 . 2)) ((c meth c (c (? . 1) q after-insert)) q (58019 . 2)) ((c def c (c (? . 0) q drscheme:language:simple-settings-fraction-style)) q (97079 . 2)) ((c meth c (c (? . 10) q syncheck:add-arrow/name-dup)) q (4109 . 23)) ((c meth c (c (? . 23) q after-insert)) q (16207 . 6)) ((c def c (c (? . 0) q drracket:eval:get-snip-classes)) q (66421 . 3)) ((c form c (c (? . 13) q syncheck:color-range)) q (9323 . 2)) ((c constructor c (? . 26)) q (15724 . 3)) ((c meth c (c (? . 5) q first-opened)) q (34811 . 4)) ((c meth c (c (? . 3) q make-searchable)) q (18849 . 3)) ((c def c (c (? . 0) q drscheme:unit:tab<%>)) q (74931 . 2)) ((c meth c (c (? . 5) q metadata->settings)) q (37193 . 4)) ((c def c (c (? . 0) q drscheme:module-language-tools:definitions-text<%>)) q (75008 . 2)) ((c def c (c (? . 0) q drscheme:module-language-tools:definitions-text-mixin)) q (74696 . 2)) ((c meth c (c (? . 25) q get-language-position)) q (28094 . 3)) ((c meth c (c (? . 12) q get-module)) q (26231 . 3)) ((c def c (c (? . 0) q drracket:unit:get-program-editor-mixin)) q (24238 . 3)) ((c def c (? . 7)) q (19429 . 2)) ((c meth c (c (? . 1) q reset-highlighting)) q (60141 . 2)) ((c def c (c (? . 0) q drscheme:language:make-text/pos)) q (96650 . 2)) ((c def c (c (? . 0) q drracket:modes:add-mode)) q (69690 . 10)) ((c def c (c (? . 13) q current-annotations)) q (297 . 5)) ((c meth c (c (? . 1) q get-user-thread)) q (59211 . 3)) ((c meth c (c (? . 7) q close-current-tab)) q (20606 . 2)) ((c meth c (c (? . 8) q enable-evaluation)) q (60916 . 2)) ((c meth c (c (? . 3) q get-editor%)) q (18601 . 2)) ((c meth c (c (? . 10) q syncheck:color-range)) q (7753 . 12)) ((c meth c (c (? . 3) q edit-menu:between-select-all-and-find)) q (17378 . 3)) ((c def c (c (? . 28) q syncheck-drracket-button)) q (9351 . 7)) ((c def c (? . 29)) q (72787 . 2)) ((c def c (c (? . 0) q drracket:rep:current-value-port)) q (62158 . 2)) ((c def c (c (? . 0) q drracket:rep:current-language-settings)) q (62415 . 6)) ((c meth c (c (? . 5) q front-end/interaction)) q (35372 . 7)) ((c def c (c (? . 0) q drscheme:frame:<%>)) q (74807 . 2)) ((c def c (c (? . 0) q drracket:modes:mode?)) c (? . 16)) ((c def c (c (? . 0) q drracket:unit:teachpack-callbacks)) c (? . 18)) ((c def c (c (? . 0) q drracket:language:setup-printing-parameters)) q (45168 . 7)) ((c def c (c (? . 0) q drscheme:language:get-language-extensions)) q (93287 . 2)) ((c def c (c (? . 0) q drracket:debug:open-and-highlight-in-file)) q (52365 . 11)) ((c def c (c (? . 0) q drscheme:get/extend:get-definitions-text)) q (87364 . 2)) ((c meth c (c (? . 3) q break-callback)) q (16983 . 2)) ((c meth c (c (? . 9) q on-execute)) q (29621 . 3)) ((c def c (c (? . 0) q drracket:module-language:module-language-put-file-mixin)) q (73004 . 4)) ((c meth c (c (? . 1) q queue-output)) q (59989 . 3)) ((c def c (c (? . 0) q drscheme:eval:build-user-eventspace/custodian)) q (85668 . 6)) ((c def c (c (? . 0) q drracket:language:make-setup-printing-parameters)) q (45489 . 3)) ((c def c (c (? . 0) q drscheme:debug:hide-backtrace-window)) q (75951 . 2)) ((c def c (c (? . 0) q drracket:modes:mode-name)) c (? . 16)) ((c meth c (c (? . 11) q use-namespace-require/copy?)) q (33084 . 3)) ((c def c (c (? . 0) q drscheme:language:text/pos?)) q (96306 . 2)) ((c def c (c (? . 0) q drracket:modes:get-modes)) q (70609 . 2)) ((c meth c (c (? . 7) q create-new-tab)) q (20155 . 2)) ((c def c (c (? . 0) q drracket:language:register-capability)) q (38653 . 7)) ((c meth c (c (? . 11) q get-reader)) q (31213 . 3)) ((c meth c (c (? . 10) q syncheck:add-background-color)) q (850 . 11)) ((c meth c (c (? . 3) q file-menu:between-open-and-revert)) q (17532 . 3)) ((c meth c (c (? . 11) q get-module)) q (31032 . 3)) ((c constructor c (? . 27)) q (62743 . 4)) ((c meth c (c (? . 3) q still-untouched?)) q (19098 . 2)) ((c def c (c (? . 0) q drscheme:debug:show-backtrace-window/edition-pairs)) q (77422 . 15)) ((c meth c (c (? . 7) q sort-toolbar-buttons-panel)) q (22600 . 3)) ((c meth c (c (? . 3) q get-button-panel)) q (18083 . 3)) ((c def c (c (? . 28) q syncheck-bitmap)) q (9657 . 2)) ((c meth c (c (? . 10) q syncheck:add-jump-to-definition)) q (6472 . 15)) ((c def c (c (? . 0) q drscheme:debug:small-planet-bitmap)) q (76562 . 2)) ((c def c (c (? . 0) q drracket:unit:teachpack-callbacks-remove)) c (? . 18)) ((c meth c (c (? . 1) q display-results)) q (58079 . 3)) ((c meth c (c (? . 7) q register-capability-menu-item)) q (21522 . 7)) ((c def c (c (? . 0) q drracket:language:create-executable-gui)) q (40707 . 13)) ((c def c (c (? . 0) q drracket:get/extend:get-unit-frame)) q (10459 . 3)) ((c def c (? . 30)) q (16387 . 3)) ((c meth c (c (? . 6) q touched)) q (15507 . 2))))
-procedure
-(make-traversal namespace path) -> (->* (syntax?)
-                                        ((-> any/c void?))
-                                        void?)
-                                   (-> void?)
-  namespace : namespace?
-  path : (or/c #f path-string?)
-parameter
-(current-annotations)
- -> (or/c #f (is-a?/c syncheck-annotations<%>))
-(current-annotations ca) -> void?
-  ca : (or/c #f (is-a?/c syncheck-annotations<%>))
-parameter
-(current-max-to-send-at-once)
- -> (or/c +inf.0 (and/c exact-integer? (>=/c 2)))
-(current-max-to-send-at-once m) -> void?
-  m : (or/c +inf.0 (and/c exact-integer? (>=/c 2)))
-interface
-syncheck-annotations<%> : interface?
-method
-(send a-syncheck-annotations syncheck:find-source-object stx)
- -> (or/c #f (not/c #f))
-  stx : syntax?
-method
-(send a-syncheck-annotations syncheck:add-background-color            
-                                                           source-obj 
-                                                           start      
-                                                           end        
-                                                           color)     
- -> void?
-  source-obj : (not/c #f)
-  start : exact-nonnegative-integer?
-  end : exact-nonnegative-integer?
-  color : string?
-method
-(send a-syncheck-annotations syncheck:add-require-open-menu            
-                                                            source-obj 
-                                                            start      
-                                                            end        
-                                                            file)      
- -> void?
-  source-obj : (not/c #f)
-  start : exact-nonnegative-integer?
-  end : exact-nonnegative-integer?
-  file : path-string?
-method
-(send a-syncheck-annotations syncheck:add-docs-menu            
-                                                    source-obj 
-                                                    start      
-                                                    end        
-                                                    id         
-                                                    label      
-                                                    path       
-                                                    tag)       
- -> void?
-  source-obj : (not/c #f)
-  start : exact-nonnegative-integer?
-  end : exact-nonnegative-integer?
-  id : symbol?
-  label : any/c
-  path : any/c
-  tag : any/c
-method
-(send a-syncheck-annotations syncheck:add-id-set                       
-                                                 all-ids               
-                                                 new-name-interferes?) 
- -> void?
-  all-ids : (listof (list/c (not/c #f)
-                            exact-nonnegative-integer?
-                            exact-nonnegative-integer?))
-  new-name-interferes? : (-> symbol boolean?)
-method
-(send a-syncheck-annotations syncheck:add-arrow                  
-                                                start-source-obj 
-                                                start-left       
-                                                start-right      
-                                                end-source-obj   
-                                                end-left         
-                                                end-right        
-                                                actual?          
-                                                phase-level)     
- -> void?
-  start-source-obj : (not/c #f)
-  start-left : exact-nonnegative-integer?
-  start-right : exact-nonnegative-integer?
-  end-source-obj : (not/c #f)
-  end-left : exact-nonnegative-integer?
-  end-right : exact-nonnegative-integer?
-  actual? : boolean?
-  phase-level : (or/c exact-nonnegative-integer? #f)
-method
-(send a-syncheck-annotations syncheck:add-arrow/name-dup                  
-                                                         start-source-obj 
-                                                         start-left       
-                                                         start-right      
-                                                         end-source-obj   
-                                                         end-left         
-                                                         end-right        
-                                                         actual?          
-                                                         phase-level      
-                                                         require-arrow?   
-                                                         name-dup?)       
- -> void?
-  start-source-obj : (not/c #f)
-  start-left : exact-nonnegative-integer?
-  start-right : exact-nonnegative-integer?
-  end-source-obj : (not/c #f)
-  end-left : exact-nonnegative-integer?
-  end-right : exact-nonnegative-integer?
-  actual? : boolean?
-  phase-level : (or/c exact-nonnegative-integer? #f)
-  require-arrow? : boolean?
-  name-dup? : (-> string? boolean?)
-method
-(send a-syncheck-annotations syncheck:add-tail-arrow                 
-                                                     from-source-obj 
-                                                     from-pos        
-                                                     to-source-obj   
-                                                     to-pos)         
- -> void?
-  from-source-obj : (not/c #f)
-  from-pos : exact-nonnegative-integer?
-  to-source-obj : (not/c #f)
-  to-pos : exact-nonnegative-integer?
-method
-(send a-syncheck-annotations syncheck:add-mouse-over-status            
-                                                            source-obj 
-                                                            pos-left   
-                                                            pos-right  
-                                                            str)       
- -> void?
-  source-obj : (not/c #f)
-  pos-left : exact-nonnegative-integer?
-  pos-right : exact-nonnegative-integer?
-  str : string?
-method
-(send a-syncheck-annotations syncheck:add-jump-to-definition            
-                                                             source-obj 
-                                                             start      
-                                                             end        
-                                                             id         
-                                                             filename   
-                                                             submods)   
- -> void?
-  source-obj : (not/c #f)
-  start : exact-nonnegative-integer?
-  end : exact-nonnegative-integer?
-  id : any/c
-  filename : path-string?
-  submods : (listof symbol?)
-method
-(send a-syncheck-annotations syncheck:add-definition-target             
-                                                            source-obj  
-                                                            start       
-                                                            finish      
-                                                            style-name) 
- -> void?
-  source-obj : (not/c #f)
-  start : exact-nonnegative-integer?
-  finish : exact-nonnegative-integer?
-  style-name : any/c
-method
-(send a-syncheck-annotations syncheck:color-range source-obj 
-                                                  start      
-                                                  finish     
-                                                  style-name 
-                                                  mode)      
- -> void?
-  source-obj : (not/c #f)
-  start : exact-nonnegative-integer?
-  finish : exact-nonnegative-integer?
-  style-name : any/c
-  mode : any/c
-method
-(send a-syncheck-annotations syncheck:add-rename-menu                       
-                                                      id                    
-                                                      all-ids               
-                                                      new-name-interferes?) 
- -> void?
-  id : symbol?
-  all-ids : (listof (list/c (not/c #f)
-                            exact-nonnegative-integer?
-                            exact-nonnegative-integer?))
-  new-name-interferes? : (-> symbol boolean?)
-mixin
-annotations-mixin : (class? . -> . class?)
-  result implements: syncheck-annotations<%>
-syntax
-syncheck:find-source-object
-syntax
-syncheck:add-background-color
-syntax
-syncheck:add-require-open-menu
-syntax
-syncheck:add-docs-menu
-syntax
-syncheck:add-rename-menu
-syntax
-syncheck:add-arrow
-syntax
-syncheck:add-arrow/name-dup
-syntax
-syncheck:add-tail-arrow
-syntax
-syncheck:add-mouse-over-status
-syntax
-syncheck:add-jump-to-definition
-syntax
-syncheck:add-id-set
-syntax
-syncheck:color-range
+41174
+((3) 0 () 31 ((q lib "drracket/tool-lib.rkt") (c (? . 0) q drracket:language:language<%>) (c (? . 0) q drracket:unit:frame%) (c (? . 0) q drracket:unit:frame<%>) (q 37958 . 22) (c (? . 0) q drracket:language:module-based-language<%>) (c (? . 0) q drracket:unit:tab<%>) (c (? . 0) q drracket:language:simple-module-based-language->module-based-language-mixin) (c (? . 0) q drracket:rep:text%) (c (? . 0) q drracket:language:simple-module-based-language<%>) (c (? . 0) q drracket:rep:context<%>) (c (? . 0) q drracket:language:simple-module-based-language%) (q 63646 . 11) (c (? . 0) q drracket:frame:basics-mixin) (c (? . 0) q drracket:language:module-based-language->language-mixin) (c (? . 0) q drracket:frame:<%>) (c (? . 0) q drracket:module-language-tools:definitions-text<%>) (q 37610 . 6) (c (? . 0) q drracket:unit:program-editor-mixin) (c (? . 0) q drracket:unit:definitions-text<%>) (q 17008 . 11) (q 39979 . 9) (c (? . 0) q drracket:rep:drs-bindings-keymap-mixin) (c (? . 0) q drracket:unit:definitions-text%) (c (? . 0) q drracket:frame:name-message%) (c (? . 0) q drracket:debug:profile-unit-frame-mixin) (c (? . 0) q drracket:unit:tab%) (c (? . 0) q drracket:unit:interactions-canvas%) (c (? . 0) q drracket:module-language:module-language<%>) (q lib "drracket/syncheck-drracket-button.rkt") (q lib "lang/htdp-langs-save-file-prefix.rkt")) () (h ! (equal) ((c def c (c (? . 0) q drscheme:language:capability-registered?)) q (83215 . 2)) ((c meth c (c (? . 1) q get-metadata-lines)) q (28198 . 3)) ((c meth c (c (? . 5) q get-init-code)) q (22521 . 4)) ((c meth c (c (? . 7) q render-value/format)) q (21690 . 3)) ((c meth c (c (? . 1) q get-reader-module)) q (28355 . 3)) ((c def c (c (? . 29) q syncheck-bitmap)) q (306 . 2)) ((c def c (c (? . 0) q drscheme:language:simple-settings?)) q (86469 . 2)) ((c def c (c (? . 0) q drscheme:debug:hide-backtrace-window)) q (71453 . 2)) ((c meth c (c (? . 16) q move-to-new-language)) q (67202 . 3)) ((c meth c (c (? . 3) q register-toolbar-button)) q (13529 . 7)) ((c meth c (c (? . 2) q file-menu:between-print-and-close)) q (9261 . 4)) ((c meth c (c (? . 10) q needs-execution)) q (54200 . 3)) ((c def c (c (? . 0) q drracket:language:simple-settings-fraction-style)) c (? . 4)) ((c def c (c (? . 0) q drscheme:language:get-capability-default)) q (83290 . 5)) ((c def c (c (? . 0) q drscheme:module-language-tools:tab<%>)) q (70857 . 2)) ((c meth c (c (? . 6) q get-defs)) q (5793 . 3)) ((c def c (c (? . 0) q drscheme:unit:definitions-text<%>)) q (70663 . 2)) ((c def c (c (? . 0) q drracket:debug:profile-definitions-text-mixin)) q (42470 . 4)) ((c def c (? . 11)) q (18427 . 4)) ((c meth c (c (? . 8) q run-in-evaluation-thread)) q (53126 . 3)) ((c meth c (c (? . 2) q make-searchable)) q (10586 . 3)) ((c meth c (c (? . 1) q get-one-line-summary)) q (28275 . 3)) ((c def c (c (? . 0) q drscheme:module-language-tools:register-online-expansion-pref)) q (89922 . 3)) ((c meth c (c (? . 3) q close-current-tab)) q (12343 . 2)) ((c def c (c (? . 0) q drscheme:language:struct:simple-settings)) q (87433 . 2)) ((c def c (c (? . 0) q drracket:language:simple-settings-printing-style)) c (? . 4)) ((c def c (c (? . 0) q drracket:debug:test-coverage-enabled)) q (44679 . 4)) ((c meth c (c (? . 3) q open-in-new-tab)) q (11775 . 3)) ((c def c (c (? . 0) q drracket:get/extend:extend-interactions-text)) q (3292 . 9)) ((c def c (c (? . 0) q drscheme:unit:struct:teachpack-callbacks)) q (92240 . 2)) ((c def c (c (? . 0) q drracket:module-language-tools:add-opt-out-toolbar-button)) q (64287 . 11)) ((c meth c (c (? . 3) q get-language-menu)) q (11214 . 3)) ((c meth c (c (? . 1) q get-metadata)) q (28005 . 6)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-definitions-text-mixin)) q (69201 . 2)) ((c meth c (c (? . 5) q default-settings)) q (22304 . 3)) ((c meth c (c (? . 6) q add-bkg-running-color)) q (6667 . 7)) ((c def c (c (? . 0) q drscheme:eval:expand-program/multiple)) q (76900 . 13)) ((c def c (c (? . 0) q drracket:unit:add-to-program-editor-mixin)) q (16194 . 3)) ((c meth c (c (? . 7) q unmarshall-settings)) q (21810 . 3)) ((c meth c (c (? . 1) q front-end/complete-program)) q (26762 . 7)) ((c meth c (c (? . 6) q get-breakables)) q (5679 . 4)) ((c def c (c (? . 0) q drscheme:language:get-language-extensions)) q (84067 . 3)) ((c def c (c (? . 0) q drracket:rep:current-rep)) q (54967 . 3)) ((c meth c (c (? . 13) q file-menu:new-callback)) q (56998 . 6)) ((c def c (c (? . 0) q drracket:language:struct:text/pos)) q (37901 . 2)) ((c def c (c (? . 0) q drscheme:rep:get-drs-bindings-keymap)) q (90624 . 2)) ((c meth c (c (? . 6) q touched)) q (7060 . 2)) ((c def c (c (? . 0) q drracket:debug:small-planet-bitmap)) q (45220 . 2)) ((c meth c (c (? . 8) q get-user-custodian)) q (51774 . 3)) ((c meth c (c (? . 9) q get-language-numbers)) q (17825 . 3)) ((c meth c (c (? . 7) q default-settings?)) q (20938 . 3)) ((c def c (c (? . 0) q drracket:get/extend:allow-re-extension!)) q (5275 . 2)) ((c def c (c (? . 0) q drracket:language:make-setup-printing-parameters)) q (37458 . 3)) ((c meth c (c (? . 8) q initialize-console)) q (52662 . 2)) ((c meth c (c (? . 9) q get-module)) q (18076 . 3)) ((c def c (c (? . 0) q drscheme:unit:tab<%>)) q (70713 . 2)) ((c def c (? . 27)) q (7940 . 3)) ((c meth c (c (? . 10) q clear-annotations)) q (53698 . 2)) ((c meth c (c (? . 1) q marshall-settings)) q (29048 . 4)) ((c meth c (c (? . 11) q get-language-position)) q (19939 . 3)) ((c meth c (c (? . 8) q evaluate-from-port)) q (51101 . 9)) ((c meth c (c (? . 1) q get-style-delta)) q (28474 . 7)) ((c def c (c (? . 0) q drracket:language:register-capability)) q (30622 . 7)) ((c meth c (c (? . 15) q set-show-menu-sort-key)) q (58543 . 5)) ((c def c (c (? . 0) q drscheme:eval:build-user-eventspace/custodian)) q (77406 . 7)) ((c def c (c (? . 0) q drscheme:module-language-tools:add-opt-out-toolbar-button)) q (88640 . 8)) ((c meth c (c (? . 2) q update-save-message)) q (11008 . 3)) ((c def c (c (? . 0) q drscheme:language:create-distribution-for-executable)) q (85173 . 7)) ((c def c (c (? . 0) q drscheme:modes:mode-matches-language)) q (88301 . 3)) ((c def c (c (? . 0) q drracket:language:text/pos?)) c (? . 17)) ((c meth c (c (? . 8) q on-highlighted-errors)) q (52537 . 3)) ((c meth c (c (? . 9) q get-reader)) q (18283 . 3)) ((c meth c (c (? . 7) q get-init-code)) q (21059 . 4)) ((c def c (c (? . 0) q drracket:language-configuration:language-settings)) c (? . 21)) ((c def c (c (? . 0) q drracket:rep:current-value-port)) q (55057 . 2)) ((c def c (c (? . 0) q drracket:modes:get-modes)) q (64214 . 2)) ((c def c (c (? . 0) q drscheme:get/extend:get-unit-frame)) q (77913 . 3)) ((c def c (c (? . 0) q drracket:tracing:tab-mixin)) q (68478 . 4)) ((c def c (c (? . 0) q drracket:debug:add-prefs-panel)) q (44520 . 2)) ((c meth c (c (? . 1) q get-language-name)) q (27624 . 3)) ((c def c (c (? . 0) q drscheme:language-configuration:add-language)) q (81380 . 6)) ((c def c (c (? . 0) q drscheme:debug:show-backtrace-window)) q (74477 . 9)) ((c meth c (c (? . 6) q break-callback)) q (5425 . 2)) ((c def c (? . 23)) q (14414 . 5)) ((c def c (c (? . 0) q drracket:modes:mode-intended-to-edit-programs?)) c (? . 12)) ((c def c (? . 1)) q (25724 . 2)) ((c meth c (c (? . 6) q get-enabled)) q (5970 . 2)) ((c meth c (c (? . 11) q get-language-numbers)) q (19814 . 3)) ((c def c (c (? . 0) q drracket:eval:traverse-program/multiple)) q (60492 . 16)) ((c meth c (c (? . 8) q get-error-range)) q (51648 . 3)) ((c def c (c (? . 0) q drracket:rep:get-dark-green-delta)) q (54749 . 2)) ((c def c (c (? . 0) q drracket:language:simple-settings-annotations)) c (? . 4)) ((c def c (c (? . 0) q drscheme:eval:expand-program)) q (75979 . 12)) ((c def c (c (? . 0) q drscheme:module-language-tools:done)) q (90117 . 3)) ((c meth c (c (? . 5) q marshall-settings)) q (23313 . 4)) ((c def c (c (? . 0) q drscheme:modes:mode-surrogate)) q (88060 . 3)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-interactions-text-mixin)) q (69132 . 2)) ((c def c (c (? . 0) q drracket:get/extend:get-interactions-text)) q (3810 . 3)) ((c def c (? . 10)) q (53649 . 2)) ((c meth c (c (? . 6) q on-close)) q (6325 . 2)) ((c meth c (c (? . 8) q reset-console)) q (52999 . 2)) ((c meth c (c (? . 2) q execute-callback)) q (9065 . 2)) ((c def c (c (? . 0) q drscheme:module-language-tools:definitions-text-mixin)) q (70478 . 2)) ((c def c (c (? . 0) q drracket:language:struct:simple-settings)) q (39046 . 2)) ((c def c (c (? . 0) q drracket:language-configuration:language-dialog)) q (40483 . 9)) ((c meth c (c (? . 10) q get-directory)) q (54136 . 2)) ((c meth c (c (? . 10) q disable-evaluation)) q (53766 . 2)) ((c meth c (c (? . 6) q get-directory)) q (5889 . 3)) ((c def c (c (? . 0) q drracket:modes:add-mode)) q (62800 . 13)) ((c def c (c (? . 0) q drscheme:unit:teachpack-callbacks-remove)) q (91996 . 3)) ((c def c (c (? . 0) q drscheme:rep:drs-bindings-keymap-mixin)) q (69606 . 2)) ((c def c (c (? . 0) q drracket:rep:get-drs-bindings-keymap)) q (54894 . 2)) ((c def c (c (? . 0) q drracket:unit:get-program-editor-mixin)) q (16084 . 3)) ((c def c (c (? . 0) q drscheme:frame:basics<%>)) q (70548 . 2)) ((c def c (c (? . 0) q drracket:language:get-capability-contract)) q (31166 . 3)) ((c def c (c (? . 0) q drracket:frame:basics<%>)) q (58190 . 3)) ((c def c (c (? . 0) q drracket:modes:mode)) c (? . 12)) ((c def c (c (? . 0) q drscheme:modes:get-modes)) q (88568 . 2)) ((c def c (c (? . 0) q drracket:rep:text<%>)) q (50586 . 2)) ((c meth c (c (? . 3) q get-current-tab)) q (11493 . 3)) ((c def c (c (? . 0) q drscheme:get/extend:extend-interactions-text)) q (79797 . 6)) ((c def c (? . 7)) q (20404 . 5)) ((c meth c (c (? . 10) q set-breakables)) q (54353 . 5)) ((c def c (? . 6)) q (5338 . 3)) ((c meth c (c (? . 3) q ensure-rep-hidden)) q (11360 . 2)) ((c def c (c (? . 0) q drscheme:unit:add-search-help-desk-menu-item)) q (91512 . 3)) ((c def c (c (? . 0) q drscheme:rep:current-value-port)) q (90785 . 2)) ((c meth c (c (? . 13) q file-menu:open-string)) q (57508 . 2)) ((c meth c (c (? . 1) q front-end/finished-complete-program)) q (27090 . 4)) ((c meth c (c (? . 13) q edit-menu:between-find-and-preferences)) q (56597 . 4)) ((c def c (c (? . 0) q drscheme:debug:profile-unit-frame-mixin)) q (69076 . 2)) ((c meth c (c (? . 10) q enable-evaluation)) q (53835 . 2)) ((c meth c (c (? . 1) q get-language-url)) q (27912 . 3)) ((c meth c (c (? . 1) q create-executable)) q (26026 . 9)) ((c def c (c (? . 0) q drracket:frame:mixin)) q (56174 . 6)) ((c meth c (c (? . 8) q wait-for-io-to-complete/user)) q (53351 . 3)) ((c meth c (c (? . 3) q get-interactions-text)) q (12838 . 3)) ((c def c (c (? . 0) q drscheme:language-configuration:fill-language-dialog)) q (82567 . 11)) ((c meth c (c (? . 28) q get-users-language-name)) q (67030 . 3)) ((c meth c (c (? . 14) q get-language-name)) q (25533 . 3)) ((c def c (c (? . 0) q drscheme:debug:make-debug-eval-handler)) q (71565 . 3)) ((c def c (? . 24)) q (55736 . 3)) ((c def c (c (? . 0) q drscheme:language:extend-language-interface)) q (83808 . 5)) ((c meth c (c (? . 3) q sort-toolbar-buttons-panel)) q (14337 . 3)) ((c meth c (c (? . 13) q help-menu:create-about?)) q (58111 . 3)) ((c def c (? . 14)) q (25030 . 5)) ((c meth c (c (? . 3) q prev-tab)) q (12014 . 2)) ((c def c (c (? . 0) q drracket:module-language-tools:frame-mixin)) q (67857 . 4)) ((c def c (c (? . 0) q drscheme:tracing:tab-mixin)) q (70214 . 2)) ((c meth c (c (? . 15) q get-show-menu)) q (58754 . 2)) ((c meth c (c (? . 2) q file-menu:print-string)) q (9523 . 2)) ((c meth c (c (? . 3) q get-insert-menu)) q (12630 . 2)) ((c def c (c (? . 0) q drscheme:get/extend:extend-definitions-text)) q (78330 . 13)) ((c def c (c (? . 0) q drracket:unit:teachpack-callbacks?)) c (? . 20)) ((c meth c (c (? . 18) q after-insert)) q (7760 . 6)) ((c def c (c (? . 0) q drracket:debug:get-error-color)) q (48923 . 2)) ((c meth c (c (? . 8) q wait-for-io-to-complete)) q (53280 . 2)) ((c meth c (c (? . 3) q ensure-defs-shown)) q (11293 . 2)) ((c def c (? . 16)) q (67126 . 2)) ((c def c (c (? . 0) q drscheme:language:make-text/pos)) q (86359 . 2)) ((c meth c (c (? . 15) q update-shown)) q (58824 . 2)) ((c def c (c (? . 0) q drracket:unit:add-search-help-desk-menu-item)) q (16569 . 9)) ((c def c (c (? . 0) q drscheme:language-configuration:language-dialog)) q (82294 . 5)) ((c def c (c (? . 0) q drscheme:language:setup-printing-parameters)) q (85703 . 3)) ((c def c (c (? . 0) q drscheme:language:make-simple-settings)) q (87373 . 2)) ((c meth c (c (? . 22) q get-keymaps)) q (53551 . 3)) ((c def c (c (? . 0) q drscheme:unit:open-drscheme-window)) q (91357 . 5)) ((c meth c (c (? . 2) q change-to-tab)) q (8821 . 3)) ((c meth c (c (? . 11) q get-one-line-summary)) q (20160 . 3)) ((c meth c (c (? . 1) q config-panel)) q (25874 . 4)) ((c meth c (c (? . 2) q update-shown)) q (11104 . 2)) ((c def c (c (? . 0) q drscheme:language:create-module-based-launcher)) q (85323 . 5)) ((c meth c (c (? . 7) q use-mred-launcher)) q (21950 . 3)) ((c def c (c (? . 0) q drscheme:tool-exports^)) q (68926 . 2)) ((c def c (c (? . 0) q drscheme:tracing:frame-mixin)) q (70257 . 2)) ((c meth c (c (? . 2) q update-save-button)) q (10904 . 4)) ((c meth c (c (? . 25) q hide-profile-gui)) q (42201 . 3)) ((c meth c (c (? . 3) q on-tab-change)) q (13029 . 5)) ((c sig-val c (c (? . 0) q drracket:tool-exports^ phase1)) q (558 . 2)) ((c def c (c (? . 0) q drracket:language:simple-settings?)) c (? . 4)) ((c def c (c (? . 0) q drscheme:language:simple-settings-fraction-style)) q (86812 . 3)) ((c meth c (c (? . 14) q front-end/complete-program)) q (25250 . 3)) ((c def c (c (? . 0) q drracket:language:create-executable-gui)) q (32676 . 13)) ((c meth c (c (? . 8) q after-insert)) q (50938 . 2)) ((c def c (c (? . 0) q drracket:language:simple-module-based-language-convert-value)) q (36819 . 7)) ((c meth c (c (? . 3) q get-tabs)) q (12934 . 3)) ((c def c (c (? . 0) q drscheme:debug:show-backtrace-window/edition-pairs)) q (72650 . 16)) ((c def c (c (? . 0) q drscheme:debug:make-debug-error-display-handler)) q (71297 . 4)) ((c def c (c (? . 0) q drracket:debug:show-backtrace-window/edition-pairs)) q (45958 . 21)) ((c def c (c (? . 0) q drracket:debug:open-and-highlight-in-file)) q (45284 . 11)) ((c def c (? . 13)) q (56429 . 4)) ((c constructor c (? . 8)) q (50733 . 4)) ((c meth c (c (? . 14) q front-end/interaction)) q (25394 . 3)) ((c def c (c (? . 0) q drscheme:language:create-module-based-distribution)) q (84994 . 6)) ((c def c (c (? . 0) q drscheme:language:simple-module-based-language->module-based-language-mixin)) q (70049 . 3)) ((c def c (c (? . 0) q drscheme:frame:<%>)) q (70589 . 2)) ((c def c (c (? . 0) q drracket:modes:mode-surrogate)) c (? . 12)) ((c def c (c (? . 0) q drscheme:get/extend:get-definitions-text)) q (79224 . 10)) ((c meth c (c (? . 2) q file-menu:between-open-and-revert)) q (9131 . 4)) ((c meth c (c (? . 1) q render-value/format)) q (29976 . 11)) ((c def c (c (? . 0) q drracket:language:text/pos-text)) c (? . 17)) ((c def c (c (? . 0) q drscheme:language:get-default-mixin)) q (83961 . 3)) ((c meth c (c (? . 6) q reset-offer-kill)) q (6381 . 2)) ((c def c (c (? . 0) q drracket:language:extend-language-interface)) q (31632 . 7)) ((c meth c (c (? . 6) q get-last-touched)) q (7115 . 2)) ((c meth c (c (? . 19) q get-tab)) q (15347 . 3)) ((c def c (c (? . 30) q htdp-file-prefix?)) q (401 . 3)) ((c def c (c (? . 0) q drscheme:language:module-based-language<%>)) q (69860 . 2)) ((c def c (c (? . 0) q drracket:get/extend:get-interactions-canvas)) q (5097 . 3)) ((c def c (c (? . 0) q drscheme:module-language:module-language-put-file-mixin)) q (90266 . 3)) ((c def c (c (? . 0) q drscheme:debug:add-prefs-panel)) q (71512 . 2)) ((c meth c (c (? . 6) q get-frame)) q (6032 . 3)) ((c def c (c (? . 0) q drracket:debug:error-display-handler/stacktrace)) q (43543 . 14)) ((c def c (c (? . 0) q drscheme:module-language-tools:done?)) q (90048 . 2)) ((c def c (c (? . 0) q drracket:unit:struct:teachpack-callbacks)) q (17495 . 2)) ((c def c (c (? . 0) q drracket:get/extend:get-definitions-text)) q (2767 . 10)) ((c def c (c (? . 0) q drracket:language-configuration:get-settings-preferences-symbol)) q (39889 . 3)) ((c meth c (c (? . 8) q reset-highlighting)) q (53060 . 2)) ((c def c (c (? . 0) q drracket:debug:srcloc->edition/pair)) q (49575 . 16)) ((c def c (c (? . 0) q drscheme:debug:small-planet-bitmap)) q (72035 . 2)) ((c def c (c (? . 0) q drracket:language:get-language-extensions)) q (32091 . 3)) ((c def c (c (? . 0) q drscheme:modes:mode-intended-to-edit-programs?)) q (88423 . 3)) ((c meth c (c (? . 8) q shutdown)) q (53224 . 2)) ((c def c (c (? . 0) q drscheme:language:add-snip-value)) q (83642 . 6)) ((c def c (c (? . 0) q drracket:rep:get-welcome-delta)) q (54677 . 2)) ((c meth c (c (? . 18) q after-delete)) q (7580 . 6)) ((c def c (c (? . 0) q drracket:language:simple-settings)) c (? . 4)) ((c def c (c (? . 0) q drscheme:language:text/pos-end)) q (86255 . 3)) ((c def c (c (? . 0) q drscheme:get/extend:get-interactions-canvas)) q (80805 . 3)) ((c def c (c (? . 0) q make-drracket:language:simple-settings)) c (? . 4)) ((c def c (c (? . 0) q drracket:language-configuration:add-language)) q (39369 . 8)) ((c def c (c (? . 0) q drracket:language:capability-registered?)) q (30900 . 3)) ((c meth c (c (? . 19) q get-next-settings)) q (15256 . 3)) ((c def c (c (? . 0) q struct:drracket:modes:mode)) c (? . 12)) ((c def c (c (? . 0) q drracket:module-language:add-module-language)) q (68245 . 2)) ((c def c (c (? . 0) q drracket:language:text/pos)) c (? . 17)) ((c def c (c (? . 0) q drscheme:language:put-executable)) q (84147 . 8)) ((c def c (c (? . 0) q drracket:unit:teachpack-callbacks-remove-all)) c (? . 20)) ((c meth c (c (? . 8) q get-user-language-settings)) q (51954 . 3)) ((c def c (c (? . 0) q drracket:module-language:module-language-put-file-mixin)) q (68311 . 4)) ((c def c (c (? . 0) q drscheme:language:simple-module-based-language%)) q (69985 . 2)) ((c def c (c (? . 0) q drscheme:get/extend:allow-re-extension!)) q (80981 . 2)) ((c def c (c (? . 0) q drracket:language-configuration:language-settings-language)) c (? . 21)) ((c def c (c (? . 0) q make-drracket:unit:teachpack-callbacks)) c (? . 20)) ((c def c (c (? . 0) q drracket:unit:open-drscheme-window)) q (16333 . 6)) ((c def c (? . 22)) q (53428 . 3)) ((c def c (c (? . 0) q drscheme:language:simple-module-based-language-convert-value)) q (85578 . 3)) ((c def c (c (? . 0) q drracket:eval:build-user-eventspace/custodian)) q (62175 . 11)) ((c def c (c (? . 0) q drscheme:rep:current-rep)) q (90696 . 3)) ((c meth c (c (? . 23) q set-filename)) q (14737 . 2)) ((c def c (? . 15)) q (58281 . 5)) ((c form c (c (? . 0) q drracket:tool^)) q (472 . 2)) ((c meth c (c (? . 13) q file-menu:between-open-and-revert)) q (56734 . 4)) ((c meth c (c (? . 2) q still-untouched?)) q (10835 . 2)) ((c meth c (c (? . 10) q reset-offer-kill)) q (54286 . 2)) ((c constructor c (? . 24)) q (55807 . 4)) ((c def c (c (? . 0) q drscheme:language:make-setup-printing-parameters)) q (85843 . 3)) ((c meth c (c (? . 8) q get-user-namespace)) q (52041 . 3)) ((c def c (c (? . 0) q drracket:module-language-tools:done?)) q (66791 . 3)) ((c def c (c (? . 0) q drracket:rep:after-expression)) q (55129 . 4)) ((c meth c (c (? . 19) q set-next-settings)) q (15554 . 7)) ((c def c (c (? . 0) q drscheme:language:simple-settings-printing-style)) q (86647 . 3)) ((c def c (c (? . 0) q drscheme:unit:tab%)) q (69381 . 2)) ((c def c (c (? . 0) q drracket:module-language-tools:frame<%>)) q (67469 . 2)) ((c meth c (c (? . 1) q capability-value)) q (25779 . 3)) ((c def c (c (? . 0) q drracket:rep:get-error-delta)) q (54824 . 2)) ((c def c (c (? . 0) q drracket:tracing:frame-mixin)) q (68649 . 4)) ((c meth c (c (? . 13) q file-menu:between-print-and-close)) q (56866 . 4)) ((c def c (c (? . 0) q drscheme:rep:text%)) q (69661 . 2)) ((c def c (c (? . 0) q drracket:rep:current-language-settings)) q (55314 . 6)) ((c def c (c (? . 0) q drracket:debug:profile-tab-mixin)) q (42282 . 4)) ((c def c (c (? . 0) q drscheme:language-configuration:language-settings-settings)) q (82002 . 3)) ((c def c (c (? . 0) q drracket:language:make-simple-settings)) q (38986 . 2)) ((c meth c (c (? . 15) q add-show-menu-items)) q (58432 . 3)) ((c def c (c (? . 0) q drscheme:debug:bug-info->ticket-url)) q (71917 . 4)) ((c meth c (c (? . 2) q get-execute-button)) q (10414 . 3)) ((c meth c (c (? . 2) q get-text-to-search)) q (10496 . 3)) ((c meth c (c (? . 9) q get-one-line-summary)) q (18171 . 3)) ((c meth c (c (? . 7) q config-panel)) q (20664 . 3)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-on-style-name)) q (71727 . 2)) ((c def c (c (? . 0) q drracket:unit:teachpack-callbacks-remove)) c (? . 20)) ((c def c (c (? . 0) q drracket:modes:mode-repl-submit)) c (? . 12)) ((c def c (c (? . 0) q drscheme:module-language-tools:add-opt-in-toolbar-button)) q (88945 . 8)) ((c def c (c (? . 0) q drscheme:frame:basics-mixin)) q (69770 . 2)) ((c def c (c (? . 0) q drracket:get/extend:extend-interactions-canvas)) q (4557 . 9)) ((c def c (c (? . 0) q drracket:get/extend:extend-definitions-text)) q (1747 . 16)) ((c meth c (c (? . 8) q display-results)) q (50998 . 3)) ((c def c (c (? . 0) q drracket:language:create-module-based-launcher)) q (35865 . 17)) ((c def c (c (? . 0) q drracket:get/extend:get-unit-frame)) q (1108 . 3)) ((c meth c (c (? . 8) q highlight-errors)) q (52213 . 6)) ((c def c (c (? . 0) q drscheme:debug:profile-definitions-text-mixin)) q (68965 . 2)) ((c meth c (c (? . 5) q render-value)) q (23784 . 9)) ((c meth c (c (? . 3) q get-tab-count)) q (11693 . 3)) ((c meth c (c (? . 19) q end-metadata-changes)) q (15174 . 3)) ((c def c (c (? . 0) q make-drracket:language:text/pos)) c (? . 17)) ((c meth c (c (? . 1) q default-settings)) q (26465 . 3)) ((c def c (c (? . 0) q drracket:language:object/c)) q (30575 . 2)) ((c def c (c (? . 0) q drracket:language-configuration:get-languages)) q (39254 . 3)) ((c meth c (c (? . 5) q get-module)) q (22877 . 3)) ((c meth c (c (? . 5) q render-value/format)) q (24161 . 11)) ((c def c (c (? . 0) q drscheme:debug:profile-tab-mixin)) q (69027 . 2)) ((c def c (c (? . 0) q drracket:debug:test-coverage-tab-mixin)) q (43107 . 5)) ((c def c (c (? . 0) q drscheme:language-configuration:get-settings-preferences-symbol)) q (81624 . 3)) ((c meth c (c (? . 6) q set-breakables)) q (6445 . 5)) ((c def c (c (? . 0) q struct:drracket:language:simple-settings)) c (? . 4)) ((c def c (c (? . 0) q drscheme:module-language-tools:definitions-text<%>)) q (70790 . 2)) ((c def c (c (? . 0) q drracket:rep:module-language-initial-run)) q (55571 . 4)) ((c meth c (c (? . 3) q move-current-tab-right)) q (12072 . 2)) ((c def c (c (? . 0) q drracket:module-language-tools:add-online-expansion-handler)) q (65427 . 11)) ((c meth c (c (? . 1) q render-value)) q (29711 . 8)) ((c meth c (c (? . 2) q on-size)) q (10778 . 2)) ((c def c (c (? . 0) q drracket:debug:test-coverage-definitions-text-mixin)) q (42655 . 5)) ((c meth c (c (? . 6) q remove-bkg-running-color)) q (6965 . 3)) ((c def c (c (? . 0) q drscheme:rep:get-dark-green-delta)) q (90481 . 2)) ((c meth c (c (? . 2) q get-canvas)) q (9910 . 3)) ((c def c (c (? . 0) q drracket:debug:make-debug-error-display-handler)) q (44295 . 4)) ((c def c (? . 3)) q (11166 . 2)) ((c def c (c (? . 0) q drracket:module-language-tools:start?)) q (66559 . 3)) ((c def c (c (? . 0) q drracket:modes:mode?)) c (? . 12)) ((c def c (c (? . 0) q drracket:modes:struct:mode)) q (64164 . 2)) ((c def c (c (? . 0) q drracket:debug:hide-backtrace-window)) q (44460 . 2)) ((c def c (c (? . 0) q drscheme:language:text/pos?)) q (85994 . 2)) ((c def c (c (? . 0) q drracket:language:get-capability-default)) q (30988 . 4)) ((c def c (c (? . 0) q drracket:eval:expand-program/multiple)) q (61278 . 18)) ((c def c (c (? . 0) q drscheme:modes:struct:mode)) q (88518 . 2)) ((c def c (c (? . 0) q drscheme:debug:error-display-handler/stacktrace)) q (70967 . 8)) ((c meth c (c (? . 3) q register-toolbar-buttons)) q (13843 . 7)) ((c def c (c (? . 0) q drscheme:module-language-tools:start?)) q (89852 . 2)) ((c meth c (c (? . 8) q kill-evaluation)) q (52789 . 2)) ((c meth c (c (? . 14) q on-execute)) q (25633 . 3)) ((c def c (? . 9)) q (17750 . 2)) ((c meth c (c (? . 11) q get-reader)) q (20260 . 3)) ((c def c (c (? . 0) q drscheme:unit:add-to-program-editor-mixin)) q (91234 . 3)) ((c meth c (c (? . 2) q get-editor)) q (10263 . 2)) ((c def c (c (? . 0) q drracket:debug:show-backtrace-window/edition-pairs/two)) q (47080 . 33)) ((c def c (c (? . 0) q drracket:module-language-tools:done)) q (66877 . 3)) ((c def c (c (? . 0) q drscheme:modes:mode?)) q (87936 . 2)) ((c def c (c (? . 0) q drscheme:unit:frame<%>)) q (70624 . 2)) ((c def c (c (? . 0) q drracket:unit:teachpack-callbacks-add)) c (? . 20)) ((c def c (c (? . 0) q drracket:help-desk:help-desk)) q (58882 . 6)) ((c meth c (c (? . 6) q disable-evaluation)) q (5548 . 2)) ((c def c (c (? . 0) q make-drracket:language-configuration:language-settings)) c (? . 21)) ((c def c (c (? . 0) q drscheme:unit:teachpack-callbacks-get-names)) q (91744 . 3)) ((c meth c (c (? . 8) q insert-prompt)) q (52728 . 2)) ((c def c (c (? . 0) q drracket:language:simple-settings-insert-newlines)) c (? . 4)) ((c meth c (c (? . 5) q use-namespace-require/copy?)) q (24929 . 3)) ((c meth c (c (? . 5) q default-settings?)) q (22394 . 4)) ((c meth c (c (? . 1) q get-language-numbers)) q (27701 . 3)) ((c def c (c (? . 0) q struct:drracket:language-configuration:language-settings)) c (? . 21)) ((c meth c (c (? . 3) q get-definitions-canvas)) q (12410 . 3)) ((c def c (c (? . 0) q drscheme:help-desk:goto-plt-license)) q (81208 . 2)) ((c def c (c (? . 0) q drscheme:module-language:add-module-language)) q (90201 . 2)) ((c def c (c (? . 0) q drscheme:get/extend:get-tab)) q (78243 . 3)) ((c meth c (c (? . 8) q on-execute)) q (51535 . 3)) ((c meth c (c (? . 6) q enable-evaluation)) q (5614 . 2)) ((c def c (c (? . 0) q drracket:language:create-module-based-distribution)) q (34419 . 17)) ((c meth c (c (? . 5) q get-language-position)) q (22758 . 3)) ((c def c (c (? . 0) q drscheme:tracing:annotate)) q (92461 . 2)) ((c def c (c (? . 0) q drscheme:unit:find-symbol)) q (92364 . 3)) ((c def c (c (? . 0) q drscheme:language:simple-settings-show-sharing)) q (86999 . 3)) ((c def c (c (? . 0) q drscheme:debug:get-error-color)) q (74412 . 2)) ((c meth c (c (? . 8) q queue-output)) q (52908 . 3)) ((c def c (c (? . 0) q drscheme:unit:teachpack-callbacks-remove-all)) q (92123 . 3)) ((c def c (c (? . 0) q drscheme:debug:profiling-enabled)) q (71850 . 2)) ((c meth c (c (? . 19) q after-set-next-settings)) q (14942 . 4)) ((c meth c (c (? . 8) q on-close)) q (52852 . 2)) ((c meth c (c (? . 7) q render-value)) q (21577 . 3)) ((c def c (c (? . 0) q drscheme:module-language-tools:frame-mixin)) q (70362 . 2)) ((c meth c (c (? . 2) q get-button-panel)) q (9820 . 3)) ((c def c (c (? . 0) q drracket:debug:test-coverage-frame-mixin)) q (43350 . 4)) ((c def c (c (? . 0) q drscheme:tool^)) q (68895 . 2)) ((c def c (? . 25)) q (41939 . 4)) ((c meth c (c (? . 2) q change-to-file)) q (8600 . 3)) ((c def c (c (? . 0) q drscheme:unit:definitions-canvas%)) q (69453 . 2)) ((c meth c (c (? . 2) q get-definitions/interactions-panel-parent)) q (10065 . 5)) ((c def c (c (? . 0) q drracket:unit:make-teachpack-callbacks)) q (17559 . 2)) ((c meth c (c (? . 1) q unmarshall-settings)) q (30448 . 4)) ((c meth c (c (? . 24) q set-message)) q (55961 . 6)) ((c def c (c (? . 0) q drscheme:unit:make-teachpack-callbacks)) q (92304 . 2)) ((c def c (c (? . 0) q drscheme:language-configuration:struct:language-settings)) q (82136 . 3)) ((c def c (c (? . 0) q drracket:get/extend:disallow-re-extension!)) q (5209 . 2)) ((c meth c (c (? . 3) q next-tab)) q (11956 . 2)) ((c meth c (c (? . 2) q file-menu:save-string)) q (9669 . 2)) ((c def c (c (? . 0) q drscheme:unit:frame%)) q (69416 . 2)) ((c def c (c (? . 0) q drscheme:language-configuration:get-languages)) q (81266 . 3)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-frame-mixin)) q (69324 . 2)) ((c def c (c (? . 0) q drscheme:unit:teachpack-callbacks-add)) q (91872 . 3)) ((c def c (c (? . 0) q drracket:language:get-default-mixin)) q (31984 . 3)) ((c meth c (c (? . 5) q on-execute)) q (23440 . 7)) ((c def c (c (? . 0) q drscheme:language:text/pos-start)) q (86149 . 3)) ((c def c (c (? . 0) q drscheme:debug:open-and-highlight-in-file)) q (72099 . 9)) ((c def c (c (? . 0) q drracket:get/extend:get-definitions-canvas)) q (4447 . 3)) ((c def c (c (? . 0) q drracket:language-configuration:language-settings-settings)) c (? . 21)) ((c def c (c (? . 0) q drracket:unit:get-definitions-text%)) q (15975 . 3)) ((c def c (c (? . 0) q drracket:debug:bug-info->ticket-url)) q (45092 . 3)) ((c def c (c (? . 0) q struct:drracket:unit:teachpack-callbacks)) c (? . 20)) ((c meth c (c (? . 13) q help-menu:about-callback)) q (57692 . 6)) ((c meth c (c (? . 3) q get-tab-filename)) q (11585 . 3)) ((c def c (c (? . 0) q drracket:module-language-tools:add-opt-in-toolbar-button)) q (64859 . 11)) ((c meth c (c (? . 2) q get-break-button)) q (9740 . 3)) ((c def c (c (? . 0) q drracket:modes:mode-matches-language)) c (? . 12)) ((c def c (c (? . 0) q drracket:unit:teachpack-callbacks-get-names)) c (? . 20)) ((c def c (c (? . 0) q drracket:debug:test-coverage-on-style-name)) q (44828 . 2)) ((c meth c (c (? . 10) q get-breakables)) q (54019 . 4)) ((c meth c (c (? . 1) q on-execute)) q (29276 . 7)) ((c meth c (c (? . 6) q can-close?)) q (5487 . 2)) ((c meth c (c (? . 8) q after-delete)) q (50878 . 2)) ((c meth c (c (? . 7) q default-settings)) q (20818 . 3)) ((c def c (c (? . 0) q drracket:debug:test-coverage-off-style-name)) q (44889 . 2)) ((c meth c (c (? . 2) q add-show-menu-items)) q (8420 . 4)) ((c def c (? . 5)) q (22071 . 2)) ((c def c (c (? . 0) q drscheme:rep:after-expression)) q (90856 . 2)) ((c def c (c (? . 0) q drscheme:unit:interactions-canvas%)) q (69555 . 2)) ((c meth c (c (? . 5) q get-language-numbers)) q (22640 . 3)) ((c def c (c (? . 0) q drracket:get/extend:extend-unit-frame)) q (618 . 9)) ((c def c (c (? . 0) q drracket:language:put-executable)) q (32172 . 12)) ((c meth c (c (? . 5) q config-panel)) q (22139 . 4)) ((c def c (c (? . 0) q drracket:language:simple-settings-show-sharing)) c (? . 4)) ((c meth c (c (? . 1) q get-language-position)) q (27806 . 3)) ((c meth c (c (? . 5) q unmarshall-settings)) q (24698 . 4)) ((c def c (c (? . 0) q drscheme:frame:mixin)) q (69733 . 2)) ((c def c (c (? . 0) q struct:drracket:language:text/pos)) c (? . 17)) ((c meth c (c (? . 3) q register-capability-menu-item)) q (13259 . 7)) ((c meth c (c (? . 5) q use-mred-launcher)) q (24838 . 3)) ((c def c (c (? . 0) q drracket:modes:mode-name)) c (? . 12)) ((c meth c (c (? . 26) q clear-annotations)) q (7359 . 2)) ((c def c (c (? . 0) q drracket:language:simple-settings-case-sensitive)) c (? . 4)) ((c meth c (c (? . 25) q show-profile-gui)) q (42120 . 3)) ((c meth c (c (? . 13) q help-menu:about-string)) q (57913 . 3)) ((c meth c (c (? . 7) q on-execute)) q (21466 . 3)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-off-style-name)) q (71788 . 2)) ((c meth c (c (? . 9) q get-language-position)) q (17950 . 3)) ((c def c (? . 2)) q (8156 . 5)) ((c meth c (c (? . 2) q edit-menu:between-select-all-and-find)) q (8931 . 4)) ((c meth c (c (? . 1) q order-manuals)) q (29577 . 4)) ((c constructor c (? . 26)) q (7277 . 3)) ((c def c (c (? . 0) q drracket:eval:set-basic-parameters)) q (59211 . 7)) ((c def c (c (? . 0) q drracket:unit:find-symbol)) q (17619 . 4)) ((c def c (c (? . 0) q drracket:language:create-distribution-for-executable)) q (35407 . 9)) ((c def c (c (? . 0) q drscheme:language:simple-settings->vector)) q (87497 . 3)) ((c def c (c (? . 0) q drscheme:module-language-tools:add-online-expansion-handler)) q (89249 . 6)) ((c def c (c (? . 0) q drscheme:rep:context<%>)) q (70750 . 2)) ((c meth c (c (? . 10) q ensure-rep-shown)) q (53903 . 3)) ((c meth c (c (? . 7) q get-transformer-module)) q (21215 . 3)) ((c meth c (c (? . 13) q file-menu:open-callback)) q (57289 . 6)) ((c def c (c (? . 0) q drracket:module-language-tools:add-online-expansion-monitor)) q (65951 . 12)) ((c sig-val c (c (? . 0) q drracket:tool-exports^ phase2)) q (588 . 2)) ((c def c (c (? . 0) q drscheme:language-configuration:make-language-settings)) q (82217 . 3)) ((c meth c (c (? . 19) q set-needs-execution-message)) q (15440 . 4)) ((c def c (c (? . 0) q drscheme:get/extend:extend-tab)) q (78001 . 6)) ((c meth c (c (? . 6) q is-current-tab?)) q (6197 . 2)) ((c meth c (c (? . 6) q get-ints)) q (6116 . 3)) ((c def c (c (? . 0) q drscheme:get/extend:get-interactions-text)) q (80053 . 3)) ((c def c (? . 19)) q (14883 . 2)) ((c constructor c (? . 27)) q (8027 . 3)) ((c def c (c (? . 0) q drracket:tracing:annotate)) q (68819 . 3)) ((c constructor c (? . 11)) q (18581 . 18)) ((c def c (c (? . 0) q drscheme:get/extend:extend-interactions-canvas)) q (80533 . 6)) ((c def c (c (? . 0) q drracket:help-desk:goto-plt-license)) q (59152 . 2)) ((c def c (c (? . 0) q drracket:unit:teachpack-callbacks)) c (? . 20)) ((c def c (c (? . 0) q drscheme:language:text/pos-text)) q (86054 . 3)) ((c meth c (c (? . 2) q find-matching-tab)) q (8691 . 4)) ((c meth c (c (? . 13) q get-additional-important-urls)) q (57583 . 3)) ((c def c (c (? . 0) q drscheme:unit:get-program-editor-mixin)) q (91125 . 3)) ((c def c (c (? . 0) q drscheme:debug:show-backtrace-window/edition-pairs/two)) q (73308 . 26)) ((c def c (c (? . 0) q drscheme:language:create-executable-gui)) q (84359 . 11)) ((c def c (c (? . 0) q drracket:get/extend:get-tab)) q (1659 . 3)) ((c meth c (c (? . 5) q get-one-line-summary)) q (22965 . 3)) ((c meth c (c (? . 6) q is-running?)) q (6263 . 2)) ((c meth c (c (? . 2) q get-canvas%)) q (9991 . 2)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-tab-mixin)) q (69269 . 2)) ((c meth c (c (? . 13) q help-menu:before-about)) q (57990 . 4)) ((c def c (c (? . 0) q drracket:module-language-tools:definitions-text-mixin)) q (67534 . 7)) ((c meth c (c (? . 8) q get-user-eventspace)) q (51863 . 3)) ((c def c (c (? . 0) q drracket:module-language-tools:tab-mixin)) q (68054 . 4)) ((c def c (c (? . 0) q drscheme:language:simple-settings-case-sensitive)) q (86536 . 3)) ((c def c (? . 28)) q (66961 . 2)) ((c def c (? . 8)) q (50632 . 4)) ((c def c (c (? . 0) q drscheme:modes:add-mode)) q (87604 . 8)) ((c def c (c (? . 0) q drracket:language:create-module-based-stand-alone-executable)) q (33353 . 17)) ((c form c (c (? . 0) q drracket:tool-exports^)) q (511 . 2)) ((c def c (c (? . 0) q drscheme:rep:current-language-settings)) q (90933 . 3)) ((c meth c (c (? . 3) q create-new-tab)) q (11892 . 2)) ((c def c (c (? . 0) q drscheme:language:struct:text/pos)) q (86412 . 2)) ((c meth c (c (? . 13) q file-menu:new-string)) q (57215 . 2)) ((c def c (c (? . 0) q drracket:eval:expand-program)) q (59613 . 18)) ((c def c (? . 26)) q (7181 . 4)) ((c form c (c (? . 29) q syncheck:button-callback)) q (274 . 2)) ((c meth c (c (? . 3) q unregister-toolbar-button)) q (14216 . 4)) ((c def c (c (? . 0) q drracket:language-configuration:language-settings?)) c (? . 21)) ((c meth c (c (? . 19) q begin-metadata-changes)) q (15090 . 3)) ((c def c (? . 18)) q (7424 . 4)) ((c def c (c (? . 0) q drracket:module-language-tools:tab<%>)) q (67406 . 2)) ((c meth c (c (? . 1) q front-end/interaction)) q (27217 . 7)) ((c constructor c (? . 2)) q (8319 . 3)) ((c def c (c (? . 0) q drscheme:language:simple-module-based-language<%>)) q (69919 . 2)) ((c def c (c (? . 29) q syncheck-drracket-button)) q (0 . 7)) ((c meth c (c (? . 3) q get-definitions-text)) q (12522 . 3)) ((c def c (c (? . 0) q drscheme:module-language-tools:frame<%>)) q (70911 . 2)) ((c meth c (c (? . 8) q get-user-thread)) q (52130 . 3)) ((c meth c (c (? . 23) q set-modified)) q (14810 . 2)) ((c def c (c (? . 0) q drscheme:language:module-based-language->language-mixin)) q (70142 . 2)) ((c def c (c (? . 0) q drscheme:language:create-module-based-stand-alone-executable)) q (84805 . 6)) ((c constructor c (? . 23)) q (14637 . 3)) ((c def c (c (? . 30) q htdp-save-file-prefix)) q (351 . 2)) ((c def c (c (? . 0) q drscheme:eval:set-basic-parameters)) q (75751 . 5)) ((c meth c (c (? . 3) q get-interactions-canvas)) q (12706 . 3)) ((c def c (c (? . 0) q drscheme:get/extend:extend-definitions-canvas)) q (80154 . 6)) ((c def c (c (? . 0) q drscheme:rep:module-language-initial-run)) q (91049 . 3)) ((c meth c (c (? . 2) q on-close)) q (10720 . 2)) ((c def c (c (? . 0) q drscheme:eval:traverse-program/multiple)) q (76416 . 12)) ((c meth c (c (? . 2) q file-menu:between-save-as-and-print)) q (9391 . 4)) ((c def c (c (? . 0) q drracket:language-configuration:struct:language-settings)) q (40325 . 3)) ((c def c (c (? . 0) q drscheme:debug:srcloc->edition/pair)) q (74849 . 13)) ((c meth c (c (? . 3) q reorder-tabs)) q (12215 . 3)) ((c def c (c (? . 0) q drscheme:debug:test-coverage-enabled)) q (71656 . 2)) ((c def c (c (? . 0) q drscheme:modes:mode-name)) q (87989 . 2)) ((c meth c (c (? . 2) q get-editor%)) q (10338 . 2)) ((c def c (c (? . 0) q drscheme:language:get-capability-contract)) q (83503 . 4)) ((c def c (c (? . 0) q drscheme:unit:get-definitions-text%)) q (69503 . 2)) ((c meth c (c (? . 7) q marshall-settings)) q (21345 . 3)) ((c meth c (c (? . 1) q extra-repl-information)) q (28764 . 7)) ((c def c (c (? . 0) q drscheme:rep:text<%>)) q (69696 . 2)) ((c meth c (c (? . 1) q metadata->settings)) q (29162 . 4)) ((c def c (c (? . 0) q drracket:language:text/pos-start)) c (? . 17)) ((c meth c (c (? . 5) q get-transformer-module)) q (23195 . 3)) ((c def c (c (? . 0) q drscheme:language-configuration:language-settings?)) q (81713 . 3)) ((c def c (c (? . 0) q drracket:language:setup-printing-parameters)) q (37137 . 7)) ((c def c (c (? . 0) q drscheme:modes:mode-repl-submit)) q (88175 . 3)) ((c def c (c (? . 0) q drracket:language:text/pos-end)) c (? . 17)) ((c def c (c (? . 0) q drracket:get/extend:extend-definitions-canvas)) q (3912 . 9)) ((c def c (c (? . 0) q drracket:language-configuration:make-language-settings)) q (40406 . 3)) ((c def c (c (? . 0) q drracket:debug:profiling-enabled)) q (44951 . 4)) ((c meth c (c (? . 5) q get-reader)) q (23058 . 3)) ((c def c (c (? . 0) q drracket:unit:definitions-canvas%)) q (15892 . 3)) ((c meth c (c (? . 11) q get-module)) q (20045 . 3)) ((c def c (c (? . 0) q drracket:get/extend:extend-tab)) q (1197 . 9)) ((c def c (c (? . 0) q drscheme:get/extend:get-definitions-canvas)) q (80424 . 3)) ((c def c (c (? . 0) q drscheme:language:register-capability)) q (83006 . 7)) ((c meth c (c (? . 16) q get-in-module-language?)) q (67301 . 3)) ((c def c (c (? . 0) q drscheme:language-configuration:language-settings-language)) q (81797 . 3)) ((c def c (c (? . 0) q drscheme:language:language<%>)) q (69814 . 2)) ((c def c (c (? . 0) q drscheme:module-language-tools:tab-mixin)) q (70421 . 2)) ((c meth c (c (? . 2) q break-callback)) q (8536 . 2)) ((c def c (c (? . 0) q drscheme:language:simple-settings-annotations)) q (87220 . 3)) ((c def c (c (? . 0) q drscheme:help-desk:help-desk)) q (81043 . 6)) ((c def c (c (? . 0) q drscheme:rep:get-welcome-delta)) q (90410 . 2)) ((c def c (c (? . 0) q drscheme:eval:get-snip-classes)) q (75898 . 3)) ((c def c (c (? . 0) q drracket:debug:test-coverage-interactions-text-mixin)) q (42846 . 6)) ((c meth c (c (? . 8) q highlight-errors/exn)) q (52448 . 3)) ((c def c (c (? . 0) q drracket:language:add-snip-value)) q (31307 . 7)) ((c meth c (c (? . 1) q get-comment-character)) q (27536 . 3)) ((c def c (c (? . 0) q drracket:debug:show-backtrace-window)) q (48989 . 12)) ((c meth c (c (? . 1) q default-settings?)) q (26542 . 4)) ((c def c (c (? . 0) q drscheme:get/extend:disallow-re-extension!)) q (80916 . 2)) ((c def c (c (? . 0) q drracket:eval:get-snip-classes)) q (59531 . 3)) ((c def c (c (? . 0) q drracket:language-configuration:fill-language-dialog)) q (41071 . 15)) ((c meth c (c (? . 2) q file-menu:save-as-string)) q (9595 . 2)) ((c meth c (c (? . 3) q ensure-rep-shown)) q (11427 . 2)) ((c meth c (c (? . 8) q after-many-evals)) q (51473 . 2)) ((c def c (c (? . 0) q drracket:language:simple-settings->vector)) q (39110 . 4)) ((c def c (c (? . 0) q drscheme:module-language-tools:add-online-expansion-monitor)) q (89549 . 8)) ((c def c (c (? . 0) q drscheme:module-language:module-language<%>)) q (70302 . 2)) ((c def c (c (? . 0) q drscheme:language:simple-settings-insert-newlines)) q (87108 . 3)) ((c meth c (c (? . 10) q update-running)) q (54579 . 3)) ((c def c (c (? . 0) q drscheme:get/extend:extend-unit-frame)) q (77664 . 6)) ((c def c (c (? . 0) q drscheme:rep:get-error-delta)) q (90555 . 2)) ((c def c (c (? . 0) q drscheme:unit:teachpack-callbacks?)) q (91677 . 2)) ((c def c (c (? . 0) q drracket:debug:make-debug-eval-handler)) q (44574 . 3)) ((c meth c (c (? . 3) q move-current-tab-left)) q (12144 . 2)) ((c def c (c (? . 0) q drracket:language:make-text/pos)) q (37848 . 2)) ((c meth c (c (? . 1) q first-opened)) q (26656 . 4)) ((c def c (c (? . 0) q drracket:module-language-tools:register-online-expansion-pref)) q (66646 . 4))))
 value
 syncheck-drracket-button : (list/c
                             string?
@@ -265,12 +54,26 @@ procedure
                                              [before                                
                                               #:name-for-changes name-for-changes]) 
  -> void?
-  mixin : (make-mixin-contract drracket:unit:definitions-text<%>)
+  mixin : (make-mixin-contract drracket:unit:definitions-text<%>
+                               editor:standard-style-list<%>
+                               editor:info<%>
+                               racket:text<%>
+                               text:all-string-snips<%>
+                               text:file<%>
+                               text:info<%>
+                               text:wide-snip<%>)
   before : boolean? = #t
   name-for-changes : (or/c #f symbol?) = #f
 procedure
 (drracket:get/extend:get-definitions-text)
- -> (implementation?/c drracket:unit:definitions-text<%>)
+ -> (and/c (implementation?/c drracket:unit:definitions-text<%>)
+           (implementation?/c editor:standard-style-list<%>)
+           (implementation?/c editor:info<%>)
+           (implementation?/c racket:text<%>)
+           (implementation?/c text:all-string-snips<%>)
+           (implementation?/c text:file<%>)
+           (implementation?/c text:info<%>)
+           (implementation?/c text:wide-snip<%>))
 procedure
 (drracket:get/extend:extend-interactions-text                                        
                                                mixin                                 
@@ -423,19 +226,23 @@ method
 (send a-drracket:unit:frame change-to-tab tab) -> void?
   tab : (is-a?/c drracket:unit:tab%)
 method
-(send a-drracket:unit:frame edit-menu:between-select-all-and-find)
+(send a-drracket:unit:frame edit-menu:between-select-all-and-find edit-menu)
  -> void?
+  edit-menu : (is-a?/c menu%)
 method
 (send a-drracket:unit:frame execute-callback) -> void?
 method
-(send a-drracket:unit:frame file-menu:between-open-and-revert)
+(send a-drracket:unit:frame file-menu:between-open-and-revert file-menu)
  -> void?
+  file-menu : (is-a?/c menu%)
 method
-(send a-drracket:unit:frame file-menu:between-print-and-close)
+(send a-drracket:unit:frame file-menu:between-print-and-close file-menu)
  -> void?
+  file-menu : (is-a?/c menu%)
 method
-(send a-drracket:unit:frame file-menu:between-save-as-and-print)
+(send a-drracket:unit:frame file-menu:between-save-as-and-print file-menu)
  -> void?
+  file-menu : (is-a?/c menu%)
 method
 (send a-drracket:unit:frame file-menu:print-string) -> void?
 method
@@ -619,17 +426,20 @@ class
 drracket:unit:definitions-canvas% : class?
   superclass: editor-canvas%
 procedure
+(drracket:unit:get-definitions-text%)
+ -> (implementation?/c drracket:unit:definitions-text<%>)
+procedure
 (drracket:unit:get-program-editor-mixin)
  -> ((subclass?/c text%) . -> . (subclass?/c text%))
 procedure
 (drracket:unit:add-to-program-editor-mixin mixin) -> void?
   mixin : ((subclass?/c text%) . -> . (subclass?/c text%))
 procedure
-(drracket:unit:open-drscheme-window)
+(drracket:unit:open-drscheme-window [filename        
+                                     #:show? show?]) 
  -> (is-a?/c drracket:unit:frame%)
-(drracket:unit:open-drscheme-window filename)
- -> (is-a?/c drracket:unit:frame%)
-  filename : (or/c string? false/c)
+  filename : (or/c string? #f) = #f
+  show? : boolean? = #t
 procedure
 (drracket:unit:add-search-help-desk-menu-item  text          
                                                menu          
@@ -640,12 +450,12 @@ procedure
   position : exact-nonnegative-integer?
   add-sep : (-> any) = void
 struct
-(struct drracket:unit:teachpack-callbacks       (get-names
-                                                add
-                                                remove
-                                                remove-all)
-        #:extra-constructor-name
-        make-drracket:unit:teachpack-callbacks)
+(struct drracket:unit:teachpack-callbacks (get-names
+                                           add
+                                           remove
+                                           remove-all)
+    #:extra-constructor-name
+    make-drracket:unit:teachpack-callbacks)
   get-names : (-> any/c (listof string?))
   add : (-> any/c path-string? any/c)
   remove : (-> path-string? any/c any/c)
@@ -923,7 +733,11 @@ method
  -> (or/c sexp-representing-a-require-spec false/c)
 method
 (send a-drracket:language:language get-style-delta)
- -> (or/c #f (is-a?/c style-delta%) (listof (list/c (is-a?/c style-delta%) number? number?)))
+ -> (or/c #f
+          (is-a?/c style-delta%)
+          (listof (list/c (is-a?/c style-delta%)
+                          number?
+                          number?)))
 method
 (send a-drracket:language:language extra-repl-information          
                                                           settings 
@@ -1116,7 +930,7 @@ procedure
  -> (-> (-> any) drracket:language:simple-settings? (or/c number? 'infinity) any)
 struct
 (struct drracket:language:text/pos (text start end)
-        #:extra-constructor-name make-drracket:language:text/pos)
+    #:extra-constructor-name make-drracket:language:text/pos)
   text : (is-a?/c text%)
   start : exact-nonnegative-integer?
   end : exact-nonnegative-integer?
@@ -1125,14 +939,14 @@ drracket:language:make-text/pos : procedure?
 value
 drracket:language:struct:text/pos : struct-type?
 struct
-(struct drracket:language:simple-settings       (case-sensitive
-                                                printing-style
-                                                fraction-style
-                                                show-sharing
-                                                insert-newlines
-                                                annotations)
-        #:extra-constructor-name
-        make-drracket:language:simple-settings)
+(struct drracket:language:simple-settings (case-sensitive
+                                           printing-style
+                                           fraction-style
+                                           show-sharing
+                                           insert-newlines
+                                           annotations)
+    #:extra-constructor-name
+    make-drracket:language:simple-settings)
   case-sensitive : boolean?
   printing-style : (or/c 'constructor
                          'quasiquote
@@ -1170,17 +984,19 @@ procedure
  -> symbol?
 struct
 (struct drracket:language-configuration:language-settings
-                                                                (language
-                                                                settings)
-        #:extra-constructor-name
-        make-drracket:language-configuration:language-settings)
+        (language
+         settings)
+    #:extra-constructor-name
+    make-drracket:language-configuration:language-settings)
   language : (or/c (is-a?/c drracket:language:language<%>)
                    drracket:language:object/c)
   settings : any/c
 value
-drracket:language-configuration:struct:language-settings : struct-type?
+drracket:language-configuration:struct:language-settings
+ : struct-type?
 value
-drracket:language-configuration:make-language-settings : procedure?
+drracket:language-configuration:make-language-settings
+ : procedure?
 procedure
 (drracket:language-configuration:language-dialog                            
                                                   show-welcome?             
@@ -1209,13 +1025,40 @@ mixin
 drracket:debug:profile-unit-frame-mixin : (class? . -> . class?)
   argument extends/implements: drracket:frame:<%>
                                drracket:unit:frame<%>
+method
+(send a-drracket:debug:profile-unit-frame show-profile-gui)
+ -> void?
+method
+(send a-drracket:debug:profile-unit-frame hide-profile-gui)
+ -> void?
 mixin
-drracket:debug:profile-interactions-text-mixin : (class? . -> . class?)
-  argument extends/implements: drracket:rep:text<%>
+drracket:debug:profile-tab-mixin : (class? . -> . class?)
+  argument extends/implements: drracket:unit:tab<%>
+  result implements: drracket:debug:profile-interactions-tab<%>
 mixin
 drracket:debug:profile-definitions-text-mixin : (class? . -> . class?)
   argument extends/implements: drracket:unit:definitions-text<%>
                                text%
+mixin
+drracket:debug:test-coverage-definitions-text-mixin : (class? . -> .
+class?)
+  argument extends/implements: text%
+                               drracket:unit:definitions-text<%>
+mixin
+drracket:debug:test-coverage-interactions-text-mixin : (class? . -> .
+class?)
+  argument extends/implements: drracket:rep:text<%>
+                               text:basic<%>
+  result implements: drracket:debug:test-coverage-interactions-text<%>
+mixin
+drracket:debug:test-coverage-tab-mixin : (class? . -> . class?)
+  argument extends/implements: drracket:rep:context<%>
+                               drracket:unit:tab<%>
+  result implements: drracket:debug:test-coverage-tab<%>
+mixin
+drracket:debug:test-coverage-frame-mixin : (class? . -> . class?)
+  argument extends/implements: drracket:unit:frame<%>
+  result implements: drracket:debug:test-coverage-frame<%>
 procedure
 (drracket:debug:error-display-handler/stacktrace                             
                                                   msg                        
@@ -1461,8 +1304,7 @@ method
  -> (or/c thread? false/c)
     (or/c custodian? false/c)
 method
-(send a-drracket:rep:context get-directory)
- -> (union string false/c)
+(send a-drracket:rep:context get-directory) -> path?
 method
 (send a-drracket:rep:context needs-execution)
  -> (or/c string? false/c)
@@ -1499,6 +1341,10 @@ parameter
 (drracket:rep:current-language-settings language-settings)
  -> void?
   language-settings : drracket:language-configuration:language-settings?
+parameter
+(drracket:rep:module-language-initial-run) -> boolean?
+(drracket:rep:module-language-initial-run initial-run?) -> void?
+  initial-run? : boolean?
 class
 drracket:frame:name-message% : class?
   superclass: canvas%
@@ -1523,8 +1369,9 @@ drracket:frame:basics-mixin : (class? . -> . class?)
   argument extends/implements: frame:standard-menus<%>
   result implements: drracket:frame:basics<%>
 method
-(send a-drracket:frame:basics edit-menu:between-find-and-preferences)
+(send a-drracket:frame:basics edit-menu:between-find-and-preferences edit-menu)
  -> void?
+  edit-menu : (is-a?/c menu%)
 method
 (send a-drracket:frame:basics file-menu:between-open-and-revert file-menu)
  -> void?
@@ -1670,24 +1517,29 @@ procedure
   kill-termination : (-> void?)
   gui-modules? : boolean? = #t
 procedure
-(drracket:modes:add-mode name              
-                         surrogate         
-                         repl-submit       
-                         matches-language) 
+(drracket:modes:add-mode                                                            
+                          name                                                      
+                          surrogate                                                 
+                          repl-submit                                               
+                          matches-language                                          
+                         [#:intended-to-edit-programs? intended-to-edit-programs?]) 
  -> drracket:modes:mode?
   name : string?
   surrogate : (or/c #f (is-a?/c mode:surrogate-text<%>))
   repl-submit : (-> (is-a?/c drracket:rep:text%) number? boolean?)
   matches-language : (-> (or/c #f (listof string?)) boolean?)
+  intended-to-edit-programs? : boolean? = #t
 struct
 (struct drracket:modes:mode (name
                              surrogate
                              repl-submit
-                             matches-language))
+                             matches-language
+                             intended-to-edit-programs?))
   name : string?
   surrogate : (or/c #f (is-a?/c mode:surrogate-text<%>))
   repl-submit : (-> (is-a?/c drracket:rep:text%) number? boolean?)
   matches-language : (-> (or/c #f (listof string?)) boolean?)
+  intended-to-edit-programs? : boolean?
 value
 drracket:modes:struct:mode : struct-type?
 procedure
@@ -1697,6 +1549,17 @@ procedure
                                                             make-button       
                                                             id                
                                                            [#:number number]) 
+ -> void?
+  make-button : (-> (is-a?/c top-level-window<%>)
+                    (is-a?/c area-container<%>)
+                    (is-a?/c switchable-button%))
+  id : symbol?
+  number : (or/c real? #f) = #f
+procedure
+(drracket:module-language-tools:add-opt-in-toolbar-button                    
+                                                           make-button       
+                                                           id                
+                                                          [#:number number]) 
  -> void?
   make-button : (-> (is-a?/c top-level-window<%>)
                     (is-a?/c area-container<%>)
@@ -1737,18 +1600,57 @@ procedure
 (drracket:module-language-tools:done? val) -> boolean?
   val : any/c
 value
-drracket:module-language-tools:done : drracket:module-language-tools:done?
+drracket:module-language-tools:done
+ : drracket:module-language-tools:done?
 interface
-drracket:language:module-language<%> : interface?
+drracket:module-language:module-language<%> : interface?
 method
-(send a-drracket:language:module-language get-users-language-name)
+(send a-drracket:module-language:module-language get-users-language-name)
  -> string
+interface
+drracket:module-language-tools:definitions-text<%> : interface?
+method
+(send a-drracket:module-language-tools:definitions-text move-to-new-language)
+ -> void?
+method
+(send a-drracket:module-language-tools:definitions-text get-in-module-language?)
+ -> boolean?
+interface
+drracket:module-language-tools:tab<%> : interface?
+interface
+drracket:module-language-tools:frame<%> : interface?
+mixin
+drracket:module-language-tools:definitions-text-mixin : (class? . -> .
+class?)
+  argument extends/implements: text:basic<%>
+                               racket:text<%>
+                               drracket:unit:definitions-text<%>
+  result implements: drracket:module-language-tools:definitions-text<%>
+mixin
+drracket:module-language-tools:frame-mixin : (class? . -> . class?)
+  argument extends/implements: drracket:unit:frame<%>
+  result implements: drracket:module-language-tools:frame<%>
+mixin
+drracket:module-language-tools:tab-mixin : (class? . -> . class?)
+  argument extends/implements: drracket:unit:tab<%>
+  result implements: drracket:module-language-tools:tab<%>
 procedure
 (drracket:module-language:add-module-language) -> any
 procedure
 (drracket:module-language:module-language-put-file-mixin super%)
  -> (implementation?/c text:basic<%>)
   super% : (implementation?/c text:basic<%>)
+mixin
+drracket:tracing:tab-mixin : (class? . -> . class?)
+  argument extends/implements: drracket:unit:tab<%>
+                               drracket:rep:context<%>
+mixin
+drracket:tracing:frame-mixin : (class? . -> . class?)
+  argument extends/implements: drracket:frame:<%>
+                               drracket:unit:frame<%>
+procedure
+(drracket:tracing:annotate stx) -> syntax?
+  stx : syntax?
 value
 drscheme:tool^ : any/c
 value
@@ -1765,6 +1667,8 @@ value
 drscheme:debug:test-coverage-definitions-text-mixin : any/c
 value
 drscheme:debug:test-coverage-tab-mixin : any/c
+value
+drscheme:debug:test-coverage-frame-mixin : any/c
 value
 drscheme:unit:tab% : any/c
 value
@@ -1794,7 +1698,8 @@ drscheme:language:simple-module-based-language<%> : any/c
 value
 drscheme:language:simple-module-based-language% : any/c
 value
-drscheme:language:simple-module-based-language->module-based-language-mixin : any/c
+drscheme:language:simple-module-based-language->module-based-language-mixin
+ : any/c
 value
 drscheme:language:module-based-language->language-mixin : any/c
 value
@@ -1828,391 +1733,490 @@ drscheme:module-language-tools:tab<%> : any/c
 value
 drscheme:module-language-tools:frame<%> : any/c
 value
-drscheme:debug:error-display-handler/stacktrace : (->* (string? any/c)
-                                                       ((or/c false/c (listof srcloc?))
-                                                        #:definitions-text (or/c #f (is-a?/c drracket:unit:definitions-text<%>))
-                                                        #:interactions-text (or/c #f (is-a?/c drracket:rep:text<%>)))
-                                                   
-                                                       any/c)
+drscheme:debug:error-display-handler/stacktrace
+ : (->* (string? any/c)
+        ((or/c false/c (listof srcloc?))
+         #:definitions-text (or/c #f (is-a?/c drracket:unit:definitions-text<%>))
+         #:interactions-text (or/c #f (is-a?/c drracket:rep:text<%>)))
+    
+        any/c)
 value
-drscheme:debug:make-debug-error-display-handler : (-> (-> string? (or/c any/c exn?) any)
-                                                      (-> string? (or/c any/c exn?) any))
+drscheme:debug:make-debug-error-display-handler
+ : (-> (-> string? (or/c any/c exn?) any)
+       (-> string? (or/c any/c exn?) any))
 value
 drscheme:debug:hide-backtrace-window : (-> void?)
 value
 drscheme:debug:add-prefs-panel : (-> void?)
 value
-drscheme:debug:make-debug-eval-handler : (-> (-> any/c any) (-> any/c any))
+drscheme:debug:make-debug-eval-handler
+ : (-> (-> any/c any) (-> any/c any))
 value
-drscheme:debug:test-coverage-enabled : (parameter/cboolean?)
+drscheme:debug:test-coverage-enabled : (parameter/c boolean?)
 value
 drscheme:debug:test-coverage-on-style-name : string?
 value
 drscheme:debug:test-coverage-off-style-name : string?
 value
-drscheme:debug:profiling-enabled : (parameter/cboolean?)
+drscheme:debug:profiling-enabled : (parameter/c boolean?)
 value
-drscheme:debug:bug-info->ticket-url : (-> (listof (cons/c symbol? (or/c #f string?)))
-                                          url?)
+drscheme:debug:bug-info->ticket-url
+ : (-> (listof (cons/c symbol? (or/c #f string?)))
+       url?)
 value
 drscheme:debug:small-planet-bitmap : (is-a?/c bitmap%)
 value
-drscheme:debug:open-and-highlight-in-file : (->* ((or/c srcloc? (listof srcloc?)))
-                                                 ((or/c #f (cons/c (λ (x) (and (weak-box? x)
-                                                                               (let ([v (weak-box-value x)])
-                                                                                 (or (not v)
-                                                                                     (is-a?/c v editor<%>)))))
-                                                                   number?)))
-                                                 void?)
+drscheme:debug:open-and-highlight-in-file
+ : (->* ((or/c srcloc? (listof srcloc?)))
+        ((or/c #f (cons/c (λ (x) (and (weak-box? x)
+                                      (let ([v (weak-box-value x)])
+                                        (or (not v)
+                                            (is-a?/c v editor<%>)))))
+                          number?)))
+        void?)
 value
-drscheme:debug:show-backtrace-window/edition-pairs : (-> string?
-                                                         (listof srcloc?)
-                                                         (listof
-                                                          (or/c
-                                                           #f
-                                                           (cons/c (λ (x)
-                                                                     (and (weak-box? x)
-                                                                          (let ([v (weak-box-value x)])
-                                                                            (or (not v)
-                                                                                (is-a?/c v editor<%>)))))
-                                                                   number?)))
-                                                         (or/c #f (is-a?/c drracket:unit:definitions-text<%>))
-                                                         (or/c #f (is-a?/c drracket:rep:text<%>))
-                                                         void?)
+drscheme:debug:show-backtrace-window/edition-pairs
+ : (-> string?
+       (listof srcloc?)
+       (listof
+        (or/c
+         #f
+         (cons/c (λ (x)
+                   (and (weak-box? x)
+                        (let ([v (weak-box-value x)])
+                          (or (not v)
+                              (is-a?/c v editor<%>)))))
+                 number?)))
+       (or/c #f (is-a?/c drracket:unit:definitions-text<%>))
+       (or/c #f (is-a?/c drracket:rep:text<%>))
+       void?)
 value
-drscheme:debug:show-backtrace-window/edition-pairs/two : (-> string?
-                                                             (listof srcloc?)
-                                                             (listof
-                                                              (or/c
-                                                               #f
-                                                               (cons/c (λ (x)
-                                                                         (and (weak-box? x)
-                                                                              (let ([v (weak-box-value x)])
-                                                                                (or (not v)
-                                                                                    (is-a?/c v editor<%>)))))
-                                                                       number?)))
-                                                             (listof srcloc?)
-                                                             (listof
-                                                              (or/c
-                                                               #f
-                                                               (cons/c (λ (x)
-                                                                         (and (weak-box? x)
-                                                                              (let ([v (weak-box-value x)])
-                                                                                (or (not v)
-                                                                                    (is-a?/c v editor<%>)))))
-                                                                       number?)))
-                                                             (or/c #f (is-a?/c drracket:unit:definitions-text<%>))
-                                                             (or/c #f (is-a?/c drracket:rep:text<%>))
-                                                             void?)
+drscheme:debug:show-backtrace-window/edition-pairs/two
+ : (-> string?
+       (listof srcloc?)
+       (listof
+        (or/c
+         #f
+         (cons/c (λ (x)
+                   (and (weak-box? x)
+                        (let ([v (weak-box-value x)])
+                          (or (not v)
+                              (is-a?/c v editor<%>)))))
+                 number?)))
+       (listof srcloc?)
+       (listof
+        (or/c
+         #f
+         (cons/c (λ (x)
+                   (and (weak-box? x)
+                        (let ([v (weak-box-value x)])
+                          (or (not v)
+                              (is-a?/c v editor<%>)))))
+                 number?)))
+       (or/c #f (is-a?/c drracket:unit:definitions-text<%>))
+       (or/c #f (is-a?/c drracket:rep:text<%>))
+       void?)
 value
 drscheme:debug:get-error-color : (-> (is-a?/c color%))
 value
-drscheme:debug:show-backtrace-window : (->* (string?
-                                             (or/c exn?
-                                                   (listof srcloc?)
-                                                   (non-empty-listof (cons/c string? (listof srcloc?)))))
-                                            ((or/c #f (is-a?/c drracket:rep:text<%>))
-                                             (or/c #f (is-a?/c drracket:unit:definitions-text<%>)))
-                                            void?)
+drscheme:debug:show-backtrace-window
+ : (->* (string?
+         (or/c exn?
+               (listof srcloc?)
+               (non-empty-listof (cons/c string? (listof srcloc?)))))
+        ((or/c #f (is-a?/c drracket:rep:text<%>))
+         (or/c #f (is-a?/c drracket:unit:definitions-text<%>)))
+        void?)
 value
-drscheme:debug:srcloc->edition/pair : (->* (srcloc?
-                                            (or/c #f (is-a?/c drracket:rep:text<%>))
-                                            (or/c #f (is-a?/c drracket:unit:definitions-text<%>)))
-                                           ((or/c #f (and/c hash? hash-equal?)))
-                                           (or/c #f (cons/c (let ([weak-box-containing-an-editor?
-                                                                   (λ (x) (and (weak-box? x)
-                                                                               (let ([v (weak-box-value x)])
-                                                                                 (or (not v)
-                                                                                     (is-a?/c v editor<%>)))))])
-                                                              weak-box-containing-an-editor?)
-                                                            number?)))
+drscheme:debug:srcloc->edition/pair
+ : (->* (srcloc?
+         (or/c #f (is-a?/c drracket:rep:text<%>))
+         (or/c #f (is-a?/c drracket:unit:definitions-text<%>)))
+        ((or/c #f (and/c hash? hash-equal?)))
+        (or/c #f (cons/c (let ([weak-box-containing-an-editor?
+                                (λ (x) (and (weak-box? x)
+                                            (let ([v (weak-box-value x)])
+                                              (or (not v)
+                                                  (is-a?/c v editor<%>)))))])
+                           weak-box-containing-an-editor?)
+                         number?)))
 value
-drscheme:eval:set-basic-parameters : (->* ((listof (is-a?/c snip-class%)))
-                                          (#:gui-modules? boolean?)
-                                          void?)
+drscheme:eval:set-basic-parameters
+ : (->* ((listof (is-a?/c snip-class%)))
+        (#:gui-modules? boolean?)
+        void?)
 value
-drscheme:eval:get-snip-classes : (-> (listof (is-a?/c snip-class%)))
+drscheme:eval:get-snip-classes
+ : (-> (listof (is-a?/c snip-class%)))
 value
-drscheme:eval:expand-program : (->* ((or/c input-port? drracket:language:text/pos?)
-                                     drracket:language-configuration:language-settings?
-                                     boolean?
-                                     (-> void?)
-                                     (-> void?)
-                                     (-> (or/c eof-object? syntax? (cons/c string? any/c))
-                                         (-> any)
-                                         any))
-                                    (#:gui-modules? boolean?)
-                                    void?)
+drscheme:eval:expand-program
+ : (->* ((or/c input-port? drracket:language:text/pos?)
+         drracket:language-configuration:language-settings?
+         boolean?
+         (-> void?)
+         (-> void?)
+         (-> (or/c eof-object? syntax? (cons/c string? any/c))
+             (-> any)
+             any))
+        (#:gui-modules? boolean?)
+        void?)
 value
-drscheme:eval:traverse-program/multiple : (->* (drracket:language-configuration:language-settings?
-                                                (-> void?)
-                                                (-> void?))
-                                               (#:gui-modules? boolean?)
-                                               (-> (or/c input-port? drracket:language:text/pos?)
-                                                   (-> (or/c eof-object? syntax? (cons/c string? any/c))
-                                                       (-> any)
-                                                       any)
-                                                   boolean?
-                                                   void?))
+drscheme:eval:traverse-program/multiple
+ : (->* (drracket:language-configuration:language-settings?
+         (-> void?)
+         (-> void?))
+        (#:gui-modules? boolean?)
+        (-> (or/c input-port? drracket:language:text/pos?)
+            (-> (or/c eof-object? syntax? (cons/c string? any/c))
+                (-> any)
+                any)
+            boolean?
+            void?))
 value
-drscheme:eval:expand-program/multiple : (->* (drracket:language-configuration:language-settings?
-                                              boolean?
-                                              (-> void?)
-                                              (-> void?))
-                                             (#:gui-modules? boolean?)
-                                             (-> (or/c input-port? drracket:language:text/pos?)
-                                                 (-> (or/c eof-object? syntax? (cons/c string? any/c))
-                                                     (-> any)
-                                                     any)
-                                                 boolean?
-                                                 void?))
+drscheme:eval:expand-program/multiple
+ : (->* (drracket:language-configuration:language-settings?
+         boolean?
+         (-> void?)
+         (-> void?))
+        (#:gui-modules? boolean?)
+        (-> (or/c input-port? drracket:language:text/pos?)
+            (-> (or/c eof-object? syntax? (cons/c string? any/c))
+                (-> any)
+                any)
+            boolean?
+            void?))
 value
-drscheme:eval:build-user-eventspace/custodian : (->* (drracket:language-configuration:language-settings?
-                                                      (-> void?)
-                                                      (-> void?))
-                                                     (#:gui-modules? boolean?)
-                                                     (values eventspace? custodian?))
+drscheme:eval:build-user-eventspace/custodian
+ : (->* (drracket:language-configuration:language-settings?
+         (-> void?)
+         (-> void?))
+        (#:gui-modules? boolean?)
+        (values eventspace? custodian?))
 value
-drscheme:get/extend:extend-unit-frame : (->i ([mixin (make-mixin-contract drracket:unit:frame%)])
-                                             ([before boolean?]
-                                              #:name-for-changes [name-for-changes (or/c #f symbol?)])
-                                             [result void?])
+drscheme:get/extend:extend-unit-frame
+ : (->i ([mixin (make-mixin-contract drracket:unit:frame%)])
+        ([before boolean?]
+         #:name-for-changes [name-for-changes (or/c #f symbol?)])
+        [result void?])
 value
-drscheme:get/extend:get-unit-frame : (-> (subclass?/c drracket:unit:frame%))
+drscheme:get/extend:get-unit-frame
+ : (-> (subclass?/c drracket:unit:frame%))
 value
-drscheme:get/extend:extend-tab : (->i ([mixin (make-mixin-contract drracket:unit:tab<%>)])
-                                      ([before boolean?]
-                                       #:name-for-changes [name-for-changes (or/c #f symbol?)])
-                                      [result void?])
+drscheme:get/extend:extend-tab
+ : (->i ([mixin (make-mixin-contract drracket:unit:tab<%>)])
+        ([before boolean?]
+         #:name-for-changes [name-for-changes (or/c #f symbol?)])
+        [result void?])
 value
-drscheme:get/extend:get-tab : (-> (implementation?/c drracket:unit:tab<%>))
+drscheme:get/extend:get-tab
+ : (-> (implementation?/c drracket:unit:tab<%>))
 value
-drscheme:get/extend:extend-definitions-text : (->i ([mixin (make-mixin-contract drracket:unit:definitions-text<%>)])
-                                                   ([before boolean?]
-                                                    #:name-for-changes [name-for-changes (or/c #f symbol?)])
-                                                   [result void?])
+drscheme:get/extend:extend-definitions-text
+ : (->i ([mixin (make-mixin-contract drracket:unit:definitions-text<%>
+                                     editor:standard-style-list<%>
+                                     editor:info<%>
+                                     racket:text<%>
+                                     text:all-string-snips<%>
+                                     text:file<%>
+                                     text:info<%>
+                                     text:wide-snip<%>)])
+        ([before boolean?]
+         #:name-for-changes [name-for-changes (or/c #f symbol?)])
+        [result void?])
 value
-drscheme:get/extend:get-definitions-text : (-> (implementation?/c drracket:unit:definitions-text<%>))
+drscheme:get/extend:get-definitions-text
+ : (-> (and/c (implementation?/c drracket:unit:definitions-text<%>)
+              (implementation?/c editor:standard-style-list<%>)
+              (implementation?/c editor:info<%>)
+              (implementation?/c racket:text<%>)
+              (implementation?/c text:all-string-snips<%>)
+              (implementation?/c text:file<%>)
+              (implementation?/c text:info<%>)
+              (implementation?/c text:wide-snip<%>)))
 value
-drscheme:get/extend:extend-interactions-text : (->i ([mixin (make-mixin-contract drracket:rep:text<%>)])
-                                                    ([before boolean?]
-                                                     #:name-for-changes [name-for-changes (or/c #f symbol?)])
-                                                    [result void?])
+drscheme:get/extend:extend-interactions-text
+ : (->i ([mixin (make-mixin-contract drracket:rep:text<%>)])
+        ([before boolean?]
+         #:name-for-changes [name-for-changes (or/c #f symbol?)])
+        [result void?])
 value
-drscheme:get/extend:get-interactions-text : (-> (implementation?/c drracket:rep:text<%>))
+drscheme:get/extend:get-interactions-text
+ : (-> (implementation?/c drracket:rep:text<%>))
 value
-drscheme:get/extend:extend-definitions-canvas : (->i ([mixin (make-mixin-contract drracket:unit:definitions-canvas%)])
-                                                     ([before boolean?]
-                                                      #:name-for-changes [name-for-changes (or/c #f symbol?)])
-                                                     [result void?])
+drscheme:get/extend:extend-definitions-canvas
+ : (->i ([mixin (make-mixin-contract drracket:unit:definitions-canvas%)])
+        ([before boolean?]
+         #:name-for-changes [name-for-changes (or/c #f symbol?)])
+        [result void?])
 value
-drscheme:get/extend:get-definitions-canvas : (-> (subclass?/c drracket:unit:definitions-canvas%))
+drscheme:get/extend:get-definitions-canvas
+ : (-> (subclass?/c drracket:unit:definitions-canvas%))
 value
-drscheme:get/extend:extend-interactions-canvas : (->i ([mixin (make-mixin-contract drracket:unit:interactions-canvas%)])
-                                                      ([before boolean?]
-                                                       #:name-for-changes [name-for-changes (or/c #f symbol?)])
-                                                      [result void?])
+drscheme:get/extend:extend-interactions-canvas
+ : (->i ([mixin (make-mixin-contract drracket:unit:interactions-canvas%)])
+        ([before boolean?]
+         #:name-for-changes [name-for-changes (or/c #f symbol?)])
+        [result void?])
 value
-drscheme:get/extend:get-interactions-canvas : (-> (subclass?/c drracket:unit:interactions-canvas%))
+drscheme:get/extend:get-interactions-canvas
+ : (-> (subclass?/c drracket:unit:interactions-canvas%))
 value
 drscheme:get/extend:disallow-re-extension! : (-> void?)
 value
 drscheme:get/extend:allow-re-extension! : (-> void?)
 value
-drscheme:help-desk:help-desk : (->* ()
-                                    ((or/c #f string?)
-                                     (or/c #f string? (list/c string? string?)))
-                                    any)
+drscheme:help-desk:help-desk
+ : (->* ()
+        ((or/c #f string?)
+         (or/c #f string? (list/c string? string?)))
+        any)
 value
 drscheme:help-desk:goto-plt-license : (-> void?)
 value
-drscheme:language-configuration:get-languages : (-> (listof (is-a?/c drracket:language:language<%>)))
+drscheme:language-configuration:get-languages
+ : (-> (listof (is-a?/c drracket:language:language<%>)))
 value
-drscheme:language-configuration:add-language : (->* ((and/c (is-a?/c drracket:language:language<%>)
-                                                            drracket:language:object/c))
-                                                    (#:allow-executable-creation? boolean?)
-                                                    void?)
+drscheme:language-configuration:add-language
+ : (->* ((and/c (is-a?/c drracket:language:language<%>)
+                drracket:language:object/c))
+        (#:allow-executable-creation? boolean?)
+        void?)
 value
-drscheme:language-configuration:get-settings-preferences-symbol : (-> symbol?)
+drscheme:language-configuration:get-settings-preferences-symbol
+ : (-> symbol?)
 value
-drscheme:language-configuration:language-settings? : (->any/cboolean?)
+drscheme:language-configuration:language-settings?
+ : (-> any/c boolean?)
 value
-drscheme:language-configuration:language-settings-language : (->drracket:language-configuration:language-settings?(or/c(is-a?/cdrracket:language:language<%>)drracket:language:object/c))
+drscheme:language-configuration:language-settings-language
+ : (-> drracket:language-configuration:language-settings? (or/c (is-a?/c drracket:language:language<%>) drracket:language:object/c))
 value
-drscheme:language-configuration:language-settings-settings : (->drracket:language-configuration:language-settings?any/c)
+drscheme:language-configuration:language-settings-settings
+ : (-> drracket:language-configuration:language-settings? any/c)
 value
-drscheme:language-configuration:struct:language-settings : struct-type?
+drscheme:language-configuration:struct:language-settings
+ : struct-type?
 value
-drscheme:language-configuration:make-language-settings : procedure?
+drscheme:language-configuration:make-language-settings
+ : procedure?
 value
-drscheme:language-configuration:language-dialog : (->* (boolean? drracket:language-configuration:language-settings?)
-                                                       ((or/c false/c (is-a?/c top-level-window<%>)))
-                                                       (or/c false/c drracket:language-configuration:language-settings?))
+drscheme:language-configuration:language-dialog
+ : (->* (boolean? drracket:language-configuration:language-settings?)
+        ((or/c false/c (is-a?/c top-level-window<%>)))
+        (or/c false/c drracket:language-configuration:language-settings?))
 value
-drscheme:language-configuration:fill-language-dialog : (->*
-                                                        ((is-a?/c vertical-panel%)
-                                                         (is-a?/c area-container<%>)
-                                                         drracket:language-configuration:language-settings?)
-                                                        ((or/c false/c (is-a?/c top-level-window<%>))
-                                                         (-> symbol? void?))
-                                                        (values (-> (is-a?/c drracket:language:language<%>))
-                                                                (-> any/c)
-                                                                (-> any/c (is-a?/c mouse-event%) any)))
+drscheme:language-configuration:fill-language-dialog
+ : (->*
+    ((is-a?/c vertical-panel%)
+     (is-a?/c area-container<%>)
+     drracket:language-configuration:language-settings?)
+    ((or/c false/c (is-a?/c top-level-window<%>))
+     (-> symbol? void?))
+    (values (-> (is-a?/c drracket:language:language<%>))
+            (-> any/c)
+            (-> any/c (is-a?/c mouse-event%) any)))
 value
-drscheme:language:register-capability : (->i ([s symbol?]
-                                              [the-contract contract?]
-                                              [default (the-contract) the-contract])
-                                             ()
-                                             [res void?])
+drscheme:language:register-capability
+ : (->i ([s symbol?]
+         [the-contract contract?]
+         [default (the-contract) the-contract])
+        ()
+        [res void?])
 value
 drscheme:language:capability-registered? : (-> symbol? boolean?)
 value
-drscheme:language:get-capability-default : (->i ([s (and/c symbol? drracket:language:capability-registered?)])
-                                                ()
-                                                [res (s) (drracket:language:get-capability-contract s)])
+drscheme:language:get-capability-default
+ : (->i ([s (and/c symbol? drracket:language:capability-registered?)])
+        ()
+        [res (s) (drracket:language:get-capability-contract s)])
 value
-drscheme:language:get-capability-contract : (-> (and/c symbol? drracket:language:capability-registered?)
-                                                contract?)
+drscheme:language:get-capability-contract
+ : (-> (and/c symbol? drracket:language:capability-registered?)
+       contract?)
 value
-drscheme:language:add-snip-value : (->* ((-> any/c boolean?)
-                                         (-> any/c (is-a?/c snip%)))
-                                        ((-> any/c))
-                                        void?)
+drscheme:language:add-snip-value
+ : (->* ((-> any/c boolean?)
+         (-> any/c (is-a?/c snip%)))
+        ((-> any/c))
+        void?)
 value
-drscheme:language:extend-language-interface : (-> interface?
-                                                  (make-mixin-contract drracket:language:language<%>)
-                                                  void?)
+drscheme:language:extend-language-interface
+ : (-> interface?
+       (make-mixin-contract drracket:language:language<%>)
+       void?)
 value
-drscheme:language:get-default-mixin : (-> (make-mixin-contract drracket:language:language<%>))
+drscheme:language:get-default-mixin
+ : (-> (make-mixin-contract drracket:language:language<%>))
 value
-drscheme:language:get-language-extensions : (-> (listof interface?))
+drscheme:language:get-language-extensions
+ : (-> (listof interface?))
 value
-drscheme:language:put-executable : ((is-a?/c top-level-window<%>)
-                                    path?
-                                    (or/c boolean? 'launcher 'standalone 'distribution)
-                                    boolean?
-                                    string?
-                                    . -> . (or/c false/c path?))
+drscheme:language:put-executable
+ : ((is-a?/c top-level-window<%>)
+    path?
+    (or/c boolean? 'launcher 'standalone 'distribution)
+    boolean?
+    string?
+    . -> . (or/c false/c path?))
 value
-drscheme:language:create-executable-gui : ((or/c false/c (is-a?/c top-level-window<%>))
-                                           (or/c false/c string?)
-                                           (or/c #t 'launcher 'standalone 'distribution)
-                                           (or/c #t 'mzscheme 'mred)
-                                           . -> .
-                                           (or/c false/c
-                                                 (list/c (or/c 'no-show 'launcher 'stand-alone 'distribution)
-                                                         (or/c 'no-show 'mred 'mzscheme)
-                                                         string?)))
+drscheme:language:create-executable-gui
+ : ((or/c false/c (is-a?/c top-level-window<%>))
+    (or/c false/c string?)
+    (or/c #t 'launcher 'standalone 'distribution)
+    (or/c #t 'mzscheme 'mred)
+    . -> .
+    (or/c false/c
+          (list/c (or/c 'no-show 'launcher 'stand-alone 'distribution)
+                  (or/c 'no-show 'mred 'mzscheme)
+                  string?)))
 value
-drscheme:language:create-module-based-stand-alone-executable : ((or/c path? string?)
-                                                                (or/c path? string?) any/c any/c any/c boolean? boolean?
-                                                                . -> .
-                                                                void?)
+drscheme:language:create-module-based-stand-alone-executable
+ : ((or/c path? string?)
+    (or/c path? string?) any/c any/c any/c boolean? boolean?
+    . -> .
+    void?)
 value
-drscheme:language:create-module-based-distribution : ((or/c path? string?)
-                                                      (or/c path? string?) any/c any/c any/c boolean? boolean?
-                                                      . -> .
-                                                      void?)
+drscheme:language:create-module-based-distribution
+ : ((or/c path? string?)
+    (or/c path? string?) any/c any/c any/c boolean? boolean?
+    . -> .
+    void?)
 value
-drscheme:language:create-distribution-for-executable : ((or/c path? string?)
-                                                        boolean?
-                                                        (-> path? void?)
-                                                        . -> .
-                                                        void?)
+drscheme:language:create-distribution-for-executable
+ : ((or/c path? string?)
+    boolean?
+    (-> path? void?)
+    . -> .
+    void?)
 value
-drscheme:language:create-module-based-launcher : ((or/c path? string?) (or/c path? string?) any/c any/c any/c boolean? boolean?
-                                                                       . -> .
-                                                                       void?)
+drscheme:language:create-module-based-launcher
+ : ((or/c path? string?) (or/c path? string?) any/c any/c any/c boolean? boolean?
+                         . -> .
+                         void?)
 value
-drscheme:language:simple-module-based-language-convert-value : (-> any/c drracket:language:simple-settings? any)
+drscheme:language:simple-module-based-language-convert-value
+ : (-> any/c drracket:language:simple-settings? any)
 value
-drscheme:language:setup-printing-parameters : (-> (-> any) drracket:language:simple-settings? (or/c number? 'infinity) any)
+drscheme:language:setup-printing-parameters
+ : (-> (-> any) drracket:language:simple-settings? (or/c number? 'infinity) any)
 value
-drscheme:language:make-setup-printing-parameters : (-> (-> (-> any) drracket:language:simple-settings? (or/c number? 'infinity) any))
+drscheme:language:make-setup-printing-parameters
+ : (-> (-> (-> any) drracket:language:simple-settings? (or/c number? 'infinity) any))
 value
-drscheme:language:text/pos? : (->any/cboolean?)
+drscheme:language:text/pos? : (-> any/c boolean?)
 value
-drscheme:language:text/pos-text : (->drracket:language:text/pos?(is-a?/ctext%))
+drscheme:language:text/pos-text
+ : (-> drracket:language:text/pos? (is-a?/c text%))
 value
-drscheme:language:text/pos-start : (->drracket:language:text/pos?exact-nonnegative-integer?)
+drscheme:language:text/pos-start
+ : (-> drracket:language:text/pos? exact-nonnegative-integer?)
 value
-drscheme:language:text/pos-end : (->drracket:language:text/pos?exact-nonnegative-integer?)
+drscheme:language:text/pos-end
+ : (-> drracket:language:text/pos? exact-nonnegative-integer?)
 value
 drscheme:language:make-text/pos : procedure?
 value
 drscheme:language:struct:text/pos : struct-type?
 value
-drscheme:language:simple-settings? : (->any/cboolean?)
+drscheme:language:simple-settings? : (-> any/c boolean?)
 value
-drscheme:language:simple-settings-case-sensitive : (->drracket:language:simple-settings?boolean?)
+drscheme:language:simple-settings-case-sensitive
+ : (-> drracket:language:simple-settings? boolean?)
 value
-drscheme:language:simple-settings-printing-style : (->drracket:language:simple-settings?(or/c'constructor'quasiquote'write'trad-write'print))
+drscheme:language:simple-settings-printing-style
+ : (-> drracket:language:simple-settings? (or/c 'constructor 'quasiquote 'write 'trad-write 'print))
 value
-drscheme:language:simple-settings-fraction-style : (->drracket:language:simple-settings?(or/c'mixed-fraction'mixed-fraction-e'repeating-decimal'repeating-decimal-e))
+drscheme:language:simple-settings-fraction-style
+ : (-> drracket:language:simple-settings? (or/c 'mixed-fraction 'mixed-fraction-e 'repeating-decimal 'repeating-decimal-e))
 value
-drscheme:language:simple-settings-show-sharing : (->drracket:language:simple-settings?boolean?)
+drscheme:language:simple-settings-show-sharing
+ : (-> drracket:language:simple-settings? boolean?)
 value
-drscheme:language:simple-settings-insert-newlines : (->drracket:language:simple-settings?boolean?)
+drscheme:language:simple-settings-insert-newlines
+ : (-> drracket:language:simple-settings? boolean?)
 value
-drscheme:language:simple-settings-annotations : (->drracket:language:simple-settings?(or/c'none'debug'debug/profile'test-coverage))
+drscheme:language:simple-settings-annotations
+ : (-> drracket:language:simple-settings? (or/c 'none 'debug 'debug/profile 'test-coverage))
 value
 drscheme:language:make-simple-settings : procedure?
 value
 drscheme:language:struct:simple-settings : struct-type?
 value
-drscheme:language:simple-settings->vector : (drracket:language:simple-settings? .
--> . vector?)
+drscheme:language:simple-settings->vector
+ : (drracket:language:simple-settings? . -> . vector?)
 value
-drscheme:modes:add-mode : (-> string?
-                              (or/c #f (is-a?/c mode:surrogate-text<%>))
-                              (-> (is-a?/c drracket:rep:text%) number? boolean?)
-                              (-> (or/c #f (listof string?)) boolean?)
-                              drracket:modes:mode?)
+drscheme:modes:add-mode
+ : (->* (string?
+         (or/c #f (is-a?/c mode:surrogate-text<%>))
+         (-> (is-a?/c drracket:rep:text%) number? boolean?)
+         (-> (or/c #f (listof string?)) boolean?))
+        (#:intended-to-edit-programs? boolean?)
+        drracket:modes:mode?)
 value
-drscheme:modes:mode? : (->any/cboolean?)
+drscheme:modes:mode? : (-> any/c boolean?)
 value
-drscheme:modes:mode-name : (->drracket:modes:mode?string?)
+drscheme:modes:mode-name : (-> drracket:modes:mode? string?)
 value
-drscheme:modes:mode-surrogate : (->drracket:modes:mode?(or/c#f(is-a?/cmode:surrogate-text<%>)))
+drscheme:modes:mode-surrogate
+ : (-> drracket:modes:mode? (or/c #f (is-a?/c mode:surrogate-text<%>)))
 value
-drscheme:modes:mode-repl-submit : (->drracket:modes:mode?(->(is-a?/cdrracket:rep:text%)number?boolean?))
+drscheme:modes:mode-repl-submit
+ : (-> drracket:modes:mode? (-> (is-a?/c drracket:rep:text%) number? boolean?))
 value
-drscheme:modes:mode-matches-language : (->drracket:modes:mode?(->(or/c#f(listofstring?))boolean?))
+drscheme:modes:mode-matches-language
+ : (-> drracket:modes:mode? (-> (or/c #f (listof string?)) boolean?))
+value
+drscheme:modes:mode-intended-to-edit-programs?
+ : (-> drracket:modes:mode? boolean?)
 value
 drscheme:modes:struct:mode : struct-type?
 value
 drscheme:modes:get-modes : (-> (listof drracket:modes:mode?))
 value
-drscheme:module-language-tools:add-opt-out-toolbar-button : (->* ((-> (is-a?/c top-level-window<%>)
-                                                                      (is-a?/c area-container<%>)
-                                                                      (is-a?/c switchable-button%))
-                                                                  symbol?)
-                                                                 (#:number (or/c real? #f))
-                                                                 void?)
+drscheme:module-language-tools:add-opt-out-toolbar-button
+ : (->* ((-> (is-a?/c top-level-window<%>)
+             (is-a?/c area-container<%>)
+             (is-a?/c switchable-button%))
+         symbol?)
+        (#:number (or/c real? #f))
+        void?)
 value
-drscheme:module-language-tools:add-online-expansion-handler : (-> path-string? symbol? (-> (is-a?/c drracket:unit:definitions-text<%>)
-                                                                                           any/c
-                                                                                           any)
-                                                                  void?)
+drscheme:module-language-tools:add-opt-in-toolbar-button
+ : (->* ((-> (is-a?/c top-level-window<%>)
+             (is-a?/c area-container<%>)
+             (is-a?/c switchable-button%))
+         symbol?)
+        (#:number (or/c real? #f))
+        void?)
 value
-drscheme:module-language-tools:add-online-expansion-monitor : (-> path-string? symbol?
-                                                                  (-> (is-a?/c drracket:unit:definitions-text<%>)
-                                                                      (or/c drracket:module-language-tools:start?
-                                                                            any/c)
-                                                                      any)
-                                                                  void?)
+drscheme:module-language-tools:add-online-expansion-handler
+ : (-> path-string? symbol? (-> (is-a?/c drracket:unit:definitions-text<%>)
+                                any/c
+                                any)
+       void?)
+value
+drscheme:module-language-tools:add-online-expansion-monitor
+ : (-> path-string? symbol?
+       (-> (is-a?/c drracket:unit:definitions-text<%>)
+           (or/c drracket:module-language-tools:start?
+                 any/c)
+           any)
+       void?)
 value
 drscheme:module-language-tools:start? : (-> any/c boolean?)
 value
-drscheme:module-language-tools:register-online-expansion-pref : (-> (-> (is-a?/c vertical-panel%) void?) void?)
+drscheme:module-language-tools:register-online-expansion-pref
+ : (-> (-> (is-a?/c vertical-panel%) void?) void?)
 value
 drscheme:module-language-tools:done? : (-> any/c boolean?)
 value
-drscheme:module-language-tools:done : drracket:module-language-tools:done?
+drscheme:module-language-tools:done
+ : drracket:module-language-tools:done?
 value
 drscheme:module-language:add-module-language : (-> any)
 value
-drscheme:module-language:module-language-put-file-mixin : (-> (implementation?/c text:basic<%>) (implementation?/c text:basic<%>))
+drscheme:module-language:module-language-put-file-mixin
+ : (-> (implementation?/c text:basic<%>) (implementation?/c text:basic<%>))
 value
 drscheme:rep:get-welcome-delta : (-> (is-a?/c style-delta%))
 value
@@ -2222,38 +2226,52 @@ drscheme:rep:get-error-delta : (-> (is-a?/c style-delta%))
 value
 drscheme:rep:get-drs-bindings-keymap : (-> (is-a?/c keymap%))
 value
-drscheme:rep:current-rep : (-> (or/c false/c (is-a?/c drracket:rep:text%)))
+drscheme:rep:current-rep
+ : (-> (or/c false/c (is-a?/c drracket:rep:text%)))
 value
 drscheme:rep:current-value-port : (-> (or/c false/c port?))
 value
-drscheme:rep:after-expression : (parameter/c(or/c#f(->any)))
+drscheme:rep:after-expression : (parameter/c (or/c #f (-> any)))
 value
-drscheme:rep:current-language-settings : (parameter/cdrracket:language-configuration:language-settings?)
+drscheme:rep:current-language-settings
+ : (parameter/c drracket:language-configuration:language-settings?)
 value
-drscheme:unit:get-program-editor-mixin : (-> ((subclass?/c text%) . ->
-. (subclass?/c text%)))
+drscheme:rep:module-language-initial-run
+ : (parameter/c boolean?)
 value
-drscheme:unit:add-to-program-editor-mixin : (((subclass?/c text%) . ->
-. (subclass?/c text%)) . -> . void?)
+drscheme:unit:get-program-editor-mixin
+ : (-> ((subclass?/c text%) . -> . (subclass?/c text%)))
 value
-drscheme:unit:open-drscheme-window : (case->
-                                      (-> (is-a?/c drracket:unit:frame%))
-                                      ((or/c string? false/c) . -> . (is-a?/c drracket:unit:frame%)))
+drscheme:unit:add-to-program-editor-mixin
+ : (((subclass?/c text%) . -> . (subclass?/c text%)) . -> . void?)
 value
-drscheme:unit:add-search-help-desk-menu-item : (->* ((is-a?/c text%) (is-a?/c menu-item-container<%>) exact-nonnegative-integer?) ((-> any)) void?)
+drscheme:unit:open-drscheme-window
+ : (->* ()
+        ((or/c string? #f) #:show? boolean?)
+        (is-a?/c drracket:unit:frame%))
 value
-drscheme:unit:teachpack-callbacks? : (->any/cboolean?)
+drscheme:unit:add-search-help-desk-menu-item
+ : (->* ((is-a?/c text%) (is-a?/c menu-item-container<%>) exact-nonnegative-integer?) ((-> any)) void?)
 value
-drscheme:unit:teachpack-callbacks-get-names : (->drracket:unit:teachpack-callbacks?(->any/c(listofstring?)))
+drscheme:unit:teachpack-callbacks? : (-> any/c boolean?)
 value
-drscheme:unit:teachpack-callbacks-add : (->drracket:unit:teachpack-callbacks?(->any/cpath-string?any/c))
+drscheme:unit:teachpack-callbacks-get-names
+ : (-> drracket:unit:teachpack-callbacks? (-> any/c (listof string?)))
 value
-drscheme:unit:teachpack-callbacks-remove : (->drracket:unit:teachpack-callbacks?(->path-string?any/cany/c))
+drscheme:unit:teachpack-callbacks-add
+ : (-> drracket:unit:teachpack-callbacks? (-> any/c path-string? any/c))
 value
-drscheme:unit:teachpack-callbacks-remove-all : (->drracket:unit:teachpack-callbacks?(->any/cany/c))
+drscheme:unit:teachpack-callbacks-remove
+ : (-> drracket:unit:teachpack-callbacks? (-> path-string? any/c any/c))
+value
+drscheme:unit:teachpack-callbacks-remove-all
+ : (-> drracket:unit:teachpack-callbacks? (-> any/c any/c))
 value
 drscheme:unit:struct:teachpack-callbacks : struct-type?
 value
 drscheme:unit:make-teachpack-callbacks : procedure?
 value
-drscheme:unit:find-symbol : (-> (is-a?/c text%) exact-nonnegative-integer? string?)
+drscheme:unit:find-symbol
+ : (-> (is-a?/c text%) exact-nonnegative-integer? string?)
+value
+drscheme:tracing:annotate : (-> syntax? syntax?)

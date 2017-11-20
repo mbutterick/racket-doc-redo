@@ -1,5 +1,5 @@
-9385
-((3) 0 () 21 ((q lib "mzlib/contract.rkt") (q lib "mzlib/compat.rkt") (q lib "mzlib/pconvert-prop.rkt") (q lib "mzlib/etc.rkt") (q lib "mzlib/string.rkt") (q lib "mzlib/pconvert.rkt") (q lib "mzlib/file.rkt") (q lib "mzlib/list.rkt") (q lib "mzlib/match.rkt") (q lib "mzlib/struct.rkt") (q lib "mzlib/class100.rkt") (q lib "mzlib/awk.rkt") (q lib "mzlib/include.rkt") (q lib "mzlib/cml.rkt") (q submod (lib "racket/unit.rkt") compat) (q lib "mzlib/serialize.rkt") (q lib "mzlib/kw.rkt") (q lib "mzlib/pregexp.rkt") (q lib "mzlib/os.rkt") (q lib "mzlib/transcr.rkt") (q lib "mzlib/thread.rkt")) () (h ! (equal) ((c form c (c (? . 3) q rec)) q (9327 . 4)) ((c def c (c (? . 2) q print-converter-proc)) q (17468 . 4)) ((c form c (c (? . 9) q define-struct/properties)) q (24577 . 7)) ((c form c (c (? . 0) q case->)) q (8221 . 2)) ((c def c (c (? . 1) q getprop)) q (5535 . 5)) ((c form c (c (? . 0) q ->d)) q (6886 . 2)) ((c def c (c (? . 5) q whole/fractional-exact-numbers)) q (17230 . 4)) ((c def c (c (? . 1) q >?)) q (4837 . 3)) ((c def c (c (? . 7) q third)) q (12767 . 3)) ((c def c (c (? . 4) q glob->regexp)) q (23091 . 10)) ((c def c (c (? . 6) q build-absolute-path)) q (10571 . 8)) ((c def c (c (? . 11) q regexp-exec)) q (1630 . 4)) ((c def c (c (? . 2) q prop:print-convert-constructor-name)) q (17584 . 2)) ((c form c (c (? . 3) q this-expression-source-directory)) q (9429 . 3)) ((q def ((lib "mzlib/sendevent.rkt") send-event)) q (21684 . 14)) ((c def c (c (? . 4) q eval-string)) q (23684 . 6)) ((c def c (c (? . 2) q print-converter?)) q (17411 . 3)) ((c def c (c (? . 5) q quasi-read-style-printing)) q (17024 . 4)) ((c def c (c (? . 6) q call-with-output-file*)) q (9827 . 11)) ((c def c (c (? . 2) q print-convert-named-constructor?)) q (17640 . 3)) ((c form c (c (? . 0) q ->r)) q (7085 . 7)) ((c form c (c (? . 8) q match-letrec)) q (13974 . 2)) ((c form c (c (? . 15) q define-serializable-struct)) q (22394 . 2)) ((c form c (c (? . 12) q include-at/relative-to)) q (11172 . 2)) ((c def c (c (? . 6) q build-relative-path)) q (10275 . 7)) ((c form c (c (? . 3) q begin-with-definitions)) q (8384 . 2)) ((c def c (c (? . 17) q pregexp-match-positions)) q (18732 . 15)) ((c def c (c (? . 7) q second)) q (12703 . 3)) ((c form c (c (? . 0) q ->)) q (6328 . 3)) ((c form c (c (? . 3) q opt-lambda)) q (9245 . 2)) ((c def c (c (? . 5) q build-share)) q (15304 . 3)) ((c def c (c (? . 6) q call-with-input-file*)) q (9650 . 5)) ((c form c (c (? . 8) q match-define)) q (14028 . 2)) ((c form c (c (? . 3) q recur)) q (9286 . 2)) ((c form c (c (? . 8) q define-match-expander)) q (14061 . 4)) ((c form c (c (? . 10) q class100*-asi)) q (3449 . 2)) ((c def c (c (? . 5) q current-build-share-name-hook)) q (15778 . 5)) ((c def c (c (? . 16) q keyword-get)) q (12504 . 5)) ((c form c (c (? . 8) q match-lambda*)) q (13835 . 2)) ((c form c (c (? . 0) q ->pp)) q (7288 . 11)) ((c def c (c (? . 5) q current-read-eval-convert-print-prompt)) q (16351 . 4)) ((c form c (c (? . 9) q make-->vector)) q (24846 . 2)) ((c def c (c (? . 1) q 1-)) q (5050 . 3)) ((c def c (c (? . 1) q flush-output-port)) q (5185 . 3)) ((c form c (c (? . 3) q this-expression-file-name)) q (9513 . 3)) ((c def c (c (? . 0) q vectorof)) q (6006 . 3)) ((c form c (c (? . 3) q let+)) q (8675 . 11)) ((c form c (c (? . 10) q class100*)) q (1742 . 36)) ((c form c (c (? . 9) q copy-struct)) q (24475 . 3)) ((c def c (c (? . 4) q read-from-string)) q (23985 . 6)) ((c def c (c (? . 11) q match:substring)) q (1511 . 4)) ((c def c (c (? . 1) q =?)) q (4727 . 3)) ((c form c (c (? . 12) q include/reader)) q (11312 . 2)) ((c def c (c (? . 3) q loop-until)) q (8947 . 6)) ((c def c (c (? . 1) q real-time)) q (5280 . 2)) ((c form c (c (? . 14) q struct~s/ctc)) q (26394 . 2)) ((c def c (c (? . 5) q install-converting-printer)) q (16643 . 2)) ((c def c (c (? . 11) q match:start)) q (1245 . 4)) ((c def c (c (? . 0) q box/c)) q (5940 . 3)) ((c def c (c (? . 4) q expr->string)) q (23922 . 3)) ((c def c (c (? . 7) q last-pair)) q (13196 . 3)) ((c def c (c (? . 1) q gentmp)) q (5099 . 3)) ((c form c (c (? . 10) q class100-asi)) q (3390 . 2)) ((c form c (c (? . 0) q struct/c)) q (6149 . 2)) ((c form c (c (? . 0) q define/contract)) q (5879 . 2)) ((c def c (c (? . 18) q getpid)) q (14428 . 2)) ((c def c (c (? . 5) q print-convert)) q (16693 . 4)) ((c def c (c (? . 0) q vector/c)) q (6075 . 3)) ((c def c (c (? . 2) q prop:print-converter)) q (17370 . 2)) ((c form c (c (? . 12) q include)) q (10944 . 10)) ((c form c (c (? . 0) q ->pp-rest)) q (7649 . 13)) ((c def c (c (? . 5) q constructor-style-printing)) q (15357 . 4)) ((c def c (c (? . 13) q spawn)) q (4336 . 3)) ((c def c (c (? . 4) q string-uppercase!)) q (23588 . 3)) ((c form c (c (? . 3) q hash-table)) q (9583 . 2)) ((q def ((lib "mzlib/port.rkt") strip-shell-command-start)) q (17968 . 3)) ((c form c (c (? . 10) q class100)) q (3309 . 4)) ((c def c (c (? . 5) q current-print-convert-hook)) q (15972 . 8)) ((c def c (c (? . 1) q putprop)) q (5666 . 5)) ((c def c (c (? . 13) q channel-recv-evt)) q (4432 . 3)) ((q form ((lib "mzlib/plt-match.rkt") define-match-expander)) q (17811 . 4)) ((c form c (c (? . 3) q begin-lifted)) q (8350 . 2)) ((c form c (c (? . 3) q define-syntax-set)) q (8435 . 2)) ((c def c (c (? . 3) q namespace-defined?)) q (9126 . 3)) ((c def c (c (? . 7) q rest)) q (13149 . 3)) ((c def c (c (? . 4) q read-from-string-all)) q (24228 . 6)) ((c form c (c (? . 14) q struct/ctc)) q (26167 . 7)) ((q form ((lib "mzlib/cmdline.rkt") command-line)) q (3561 . 21)) ((c form c (c (? . 14) q struct~s)) q (26378 . 2)) ((c form c (c (? . 15) q define-serializable-struct/versions)) q (22485 . 13)) ((c form c (c (? . 16) q lambda/kw)) q (11360 . 2)) ((c def c (c (? . 0) q build-flat-contract)) q (6203 . 4)) ((c def c (c (? . 7) q quicksort)) q (13517 . 4)) ((c def c (c (? . 7) q seventh)) q (13020 . 3)) ((c def c (c (? . 20) q consumer-thread)) q (24880 . 4)) ((c form c (c (? . 8) q match)) q (13634 . 5)) ((c form c (c (? . 8) q define/match)) q (13744 . 2)) ((c def c (c (? . 5) q abbreviate-cons-as-list)) q (14596 . 4)) ((c form c (c (? . 14) q struct~r)) q (26342 . 2)) ((c def c (c (? . 1) q 1+)) q (5001 . 3)) ((c def c (c (? . 1) q new-cafe)) q (5784 . 3)) ((c def c (c (? . 7) q sixth)) q (12957 . 3)) ((c def c (c (? . 1) q atom?)) q (5322 . 3)) ((q def ((lib "mzlib/sandbox.rkt") make-evaluator)) q (20889 . 15)) ((c def c (c (? . 13) q channel)) q (4398 . 2)) ((q def ((lib "mzlib/math.rkt") e)) q (14373 . 2)) ((c form c (c (? . 10) q super-init)) q (3521 . 2)) ((c form c (c (? . 0) q opt->)) q (6579 . 3)) ((c def c (c (? . 5) q named/undefined-handler)) q (15007 . 4)) ((c form c (c (? . 14) q struct)) q (26013 . 7)) ((c def c (c (? . 5) q booleans-as-true/false)) q (14722 . 4)) ((c form c (c (? . 3) q nand)) q (9196 . 2)) ((c def c (c (? . 7) q fourth)) q (12830 . 3)) ((c form c (c (? . 1) q define-structure)) q (5368 . 4)) ((q def ((lib "mzlib/restart.rkt") restart-mzscheme)) q (20534 . 9)) ((c form c (c (? . 8) q match-lambda)) q (13800 . 2)) ((c def c (c (? . 19) q transcript-on)) q (25909 . 3)) ((c def c (c (? . 17) q pregexp-split)) q (19476 . 9)) ((c def c (c (? . 7) q fifth)) q (12894 . 3)) ((c def c (c (? . 13) q thread-done-evt)) q (4577 . 3)) ((c def c (c (? . 2) q print-convert-constructor-name)) q (17713 . 3)) ((c form c (c (? . 0) q object-contract)) q (8278 . 2)) ((c def c (c (? . 7) q first)) q (12655 . 3)) ((c def c (c (? . 17) q pregexp-match)) q (18044 . 15)) ((c def c (c (? . 18) q truncate-file)) q (14467 . 4)) ((c form c (c (? . 11) q awk)) q (0 . 38)) ((c def c (c (? . 5) q show-sharing)) q (17138 . 4)) ((c def c (c (? . 13) q current-time)) q (4639 . 2)) ((c def c (c (? . 5) q add-make-prefix-to-constructor)) q (15164 . 4)) ((c def c (c (? . 17) q pregexp-replace*)) q (20214 . 7)) ((c def c (c (? . 1) q >=?)) q (4946 . 3)) ((c def c (c (? . 5) q print-convert-expr)) q (16811 . 7)) ((c def c (c (? . 7) q eighth)) q (13085 . 3)) ((c form c (c (? . 0) q ->*)) q (6417 . 6)) ((c def c (c (? . 19) q transcript-off)) q (25977 . 2)) ((c def c (c (? . 8) q match-equality-test)) q (14218 . 4)) ((c def c (c (? . 4) q string-lowercase!)) q (23492 . 3)) ((c def c (c (? . 7) q merge-sorted-lists)) q (13248 . 5)) ((c form c (c (? . 0) q ->d*)) q (6946 . 3)) ((c def c (c (? . 5) q current-build-share-hook)) q (15501 . 7)) ((c def c (c (? . 20) q run-server)) q (24997 . 21)) ((c def c (c (? . 1) q <?)) q (4783 . 3)) ((c def c (c (? . 18) q gethostname)) q (14391 . 2)) ((c form c (c (? . 16) q define/kw)) q (11403 . 32)) ((c form c (c (? . 3) q evcase)) q (8484 . 3)) ((c form c (c (? . 8) q match-let)) q (13871 . 2)) ((c def c (c (? . 1) q <=?)) q (4891 . 3)) ((c def c (c (? . 13) q time-evt)) q (4675 . 3)) ((c form c (c (? . 14) q struct~r/ctc)) q (26358 . 2)) ((c form c (c (? . 0) q opt->*)) q (6728 . 3)) ((c def c (c (? . 11) q match:end)) q (1379 . 4)) ((c def c (c (? . 5) q get-shared)) q (16492 . 5)) ((c form c (c (? . 12) q include-at/relative-to/reader)) q (11232 . 2)) ((c def c (c (? . 3) q identity)) q (8624 . 3)) ((c form c (c (? . 8) q match-let*)) q (13922 . 2)) ((c def c (c (? . 5) q use-named/undefined-handler)) q (14842 . 4)) ((c def c (c (? . 17) q pregexp-replace)) q (19895 . 7)) ((c form c (c (? . 3) q nor)) q (9221 . 2)) ((c def c (c (? . 7) q mergesort)) q (13400 . 4)) ((c def c (c (? . 13) q channel-send-evt)) q (4495 . 4))))
+9096
+((3) 0 () 20 ((q lib "mzlib/contract.rkt") (q lib "mzlib/compat.rkt") (q lib "mzlib/list.rkt") (q submod (lib "racket/unit.rkt") compat) (q lib "mzlib/etc.rkt") (q lib "mzlib/kw.rkt") (q lib "mzlib/pconvert.rkt") (q lib "mzlib/os.rkt") (q lib "mzlib/include.rkt") (q lib "mzlib/struct.rkt") (q lib "mzlib/pregexp.rkt") (q lib "mzlib/match.rkt") (q lib "mzlib/pconvert-prop.rkt") (q lib "mzlib/cml.rkt") (q lib "mzlib/thread.rkt") (q lib "mzlib/awk.rkt") (q lib "mzlib/serialize.rkt") (q lib "mzlib/string.rkt") (q lib "mzlib/file.rkt") (q lib "mzlib/transcr.rkt")) () (h ! (equal) ((c def c (c (? . 7) q gethostname)) q (12572 . 2)) ((c def c (c (? . 1) q putprop)) q (3847 . 5)) ((c def c (c (? . 0) q vector/c)) q (4256 . 3)) ((c form c (c (? . 16) q define-serializable-struct)) q (20575 . 2)) ((c def c (c (? . 2) q mergesort)) q (11581 . 4)) ((c form c (c (? . 8) q include-at/relative-to)) q (9353 . 2)) ((c form c (c (? . 3) q struct~r/ctc)) q (24539 . 2)) ((c def c (c (? . 0) q vectorof)) q (4187 . 3)) ((c form c (c (? . 0) q opt->)) q (4760 . 3)) ((c form c (c (? . 0) q ->*)) q (4598 . 6)) ((c def c (c (? . 1) q <=?)) q (3072 . 3)) ((c def c (c (? . 2) q eighth)) q (11266 . 3)) ((c def c (c (? . 18) q call-with-output-file*)) q (8008 . 11)) ((c form c (c (? . 4) q recur)) q (7467 . 2)) ((c def c (c (? . 13) q spawn)) q (2517 . 3)) ((c form c (c (? . 3) q struct~s/ctc)) q (24575 . 2)) ((c form c (c (? . 4) q this-expression-source-directory)) q (7610 . 3)) ((c def c (c (? . 17) q string-uppercase!)) q (21769 . 3)) ((c form c (c (? . 5) q lambda/kw)) q (9541 . 2)) ((c form c (c (? . 5) q define/kw)) q (9584 . 32)) ((q def ((lib "mzlib/math.rkt") e)) q (12554 . 2)) ((q form ((lib "mzlib/plt-match.rkt") define-match-expander)) q (15992 . 4)) ((c def c (c (? . 1) q new-cafe)) q (3965 . 3)) ((c def c (c (? . 2) q sixth)) q (11138 . 3)) ((c def c (c (? . 1) q atom?)) q (3503 . 3)) ((c def c (c (? . 0) q build-flat-contract)) q (4384 . 4)) ((c def c (c (? . 1) q 1-)) q (3231 . 3)) ((c def c (c (? . 6) q booleans-as-true/false)) q (12903 . 4)) ((c def c (c (? . 1) q real-time)) q (3461 . 2)) ((c form c (c (? . 1) q define-structure)) q (3549 . 4)) ((c form c (c (? . 4) q this-expression-file-name)) q (7694 . 3)) ((c def c (c (? . 2) q quicksort)) q (11698 . 4)) ((c form c (c (? . 4) q define-syntax-set)) q (6616 . 2)) ((c def c (c (? . 6) q print-convert-expr)) q (14992 . 7)) ((c def c (c (? . 7) q truncate-file)) q (12648 . 4)) ((c form c (c (? . 0) q ->d*)) q (5127 . 3)) ((c def c (c (? . 15) q match:substring)) q (1511 . 4)) ((c def c (c (? . 6) q add-make-prefix-to-constructor)) q (13345 . 4)) ((c def c (c (? . 10) q pregexp-match)) q (16225 . 15)) ((q form ((lib "mzlib/cmdline.rkt") command-line)) q (1742 . 21)) ((c def c (c (? . 2) q last-pair)) q (11377 . 3)) ((c form c (c (? . 8) q include/reader)) q (9493 . 2)) ((c def c (c (? . 6) q show-sharing)) q (15319 . 4)) ((c form c (c (? . 4) q hash-table)) q (7764 . 2)) ((q def ((lib "mzlib/port.rkt") strip-shell-command-start)) q (16149 . 3)) ((c def c (c (? . 6) q constructor-style-printing)) q (13538 . 4)) ((c form c (c (? . 4) q opt-lambda)) q (7426 . 2)) ((c def c (c (? . 4) q namespace-defined?)) q (7307 . 3)) ((c form c (c (? . 3) q struct/ctc)) q (24348 . 7)) ((c def c (c (? . 1) q <?)) q (2964 . 3)) ((c form c (c (? . 11) q match)) q (11815 . 5)) ((c def c (c (? . 14) q run-server)) q (23178 . 21)) ((c def c (c (? . 12) q prop:print-converter)) q (15551 . 2)) ((c def c (c (? . 6) q whole/fractional-exact-numbers)) q (15411 . 4)) ((c form c (c (? . 9) q define-struct/properties)) q (22758 . 7)) ((c form c (c (? . 9) q copy-struct)) q (22656 . 3)) ((c form c (c (? . 0) q ->d)) q (5067 . 2)) ((c def c (c (? . 10) q pregexp-replace*)) q (18395 . 7)) ((c def c (c (? . 1) q flush-output-port)) q (3366 . 3)) ((c def c (c (? . 6) q current-read-eval-convert-print-prompt)) q (14532 . 4)) ((c form c (c (? . 0) q case->)) q (6402 . 2)) ((c form c (c (? . 8) q include)) q (9125 . 10)) ((c form c (c (? . 0) q object-contract)) q (6459 . 2)) ((c def c (c (? . 2) q seventh)) q (11201 . 3)) ((c form c (c (? . 4) q begin-with-definitions)) q (6565 . 2)) ((c form c (c (? . 0) q ->)) q (4509 . 3)) ((c form c (c (? . 11) q match-define)) q (12209 . 2)) ((c def c (c (? . 4) q identity)) q (6805 . 3)) ((c def c (c (? . 12) q print-converter-proc)) q (15649 . 4)) ((c def c (c (? . 13) q channel-recv-evt)) q (2613 . 3)) ((c def c (c (? . 6) q install-converting-printer)) q (14824 . 2)) ((c def c (c (? . 6) q current-build-share-hook)) q (13682 . 7)) ((c form c (c (? . 0) q ->r)) q (5266 . 7)) ((c form c (c (? . 4) q nand)) q (7377 . 2)) ((c form c (c (? . 9) q make-->vector)) q (23027 . 2)) ((c def c (c (? . 13) q current-time)) q (2820 . 2)) ((c def c (c (? . 14) q consumer-thread)) q (23061 . 4)) ((c def c (c (? . 1) q >?)) q (3018 . 3)) ((c form c (c (? . 4) q nor)) q (7402 . 2)) ((c def c (c (? . 2) q first)) q (10836 . 3)) ((c def c (c (? . 15) q regexp-exec)) q (1630 . 4)) ((c def c (c (? . 6) q current-print-convert-hook)) q (14153 . 8)) ((c form c (c (? . 16) q define-serializable-struct/versions)) q (20666 . 13)) ((c def c (c (? . 17) q read-from-string)) q (22166 . 6)) ((c form c (c (? . 3) q struct)) q (24194 . 7)) ((c def c (c (? . 2) q second)) q (10884 . 3)) ((c form c (c (? . 0) q opt->*)) q (4909 . 3)) ((c def c (c (? . 13) q thread-done-evt)) q (2758 . 3)) ((c def c (c (? . 12) q prop:print-convert-constructor-name)) q (15765 . 2)) ((c def c (c (? . 12) q print-convert-named-constructor?)) q (15821 . 3)) ((c def c (c (? . 11) q match-equality-test)) q (12399 . 4)) ((c form c (c (? . 8) q include-at/relative-to/reader)) q (9413 . 2)) ((c form c (c (? . 11) q match-let*)) q (12103 . 2)) ((c def c (c (? . 6) q print-convert)) q (14874 . 4)) ((c form c (c (? . 0) q struct/c)) q (4330 . 2)) ((c def c (c (? . 10) q pregexp-split)) q (17657 . 9)) ((c def c (c (? . 13) q channel)) q (2579 . 2)) ((c def c (c (? . 2) q third)) q (10948 . 3)) ((c def c (c (? . 4) q loop-until)) q (7128 . 6)) ((c def c (c (? . 6) q build-share)) q (13485 . 3)) ((c def c (c (? . 1) q getprop)) q (3716 . 5)) ((c form c (c (? . 3) q struct~r)) q (24523 . 2)) ((c form c (c (? . 0) q ->pp-rest)) q (5830 . 13)) ((c def c (c (? . 2) q rest)) q (11330 . 3)) ((c form c (c (? . 11) q define/match)) q (11925 . 2)) ((c def c (c (? . 18) q build-relative-path)) q (8456 . 7)) ((c def c (c (? . 6) q named/undefined-handler)) q (13188 . 4)) ((c form c (c (? . 11) q match-lambda)) q (11981 . 2)) ((c def c (c (? . 19) q transcript-on)) q (24090 . 3)) ((c form c (c (? . 3) q struct~s)) q (24559 . 2)) ((c def c (c (? . 15) q match:end)) q (1379 . 4)) ((q def ((lib "mzlib/restart.rkt") restart-mzscheme)) q (18715 . 9)) ((c form c (c (? . 11) q match-letrec)) q (12155 . 2)) ((c def c (c (? . 2) q merge-sorted-lists)) q (11429 . 5)) ((c def c (c (? . 6) q abbreviate-cons-as-list)) q (12777 . 4)) ((c def c (c (? . 1) q 1+)) q (3182 . 3)) ((c form c (c (? . 11) q match-let)) q (12052 . 2)) ((c def c (c (? . 17) q expr->string)) q (22103 . 3)) ((c def c (c (? . 13) q time-evt)) q (2856 . 3)) ((c form c (c (? . 4) q rec)) q (7508 . 4)) ((c def c (c (? . 17) q read-from-string-all)) q (22409 . 6)) ((c def c (c (? . 6) q current-build-share-name-hook)) q (13959 . 5)) ((c def c (c (? . 7) q getpid)) q (12609 . 2)) ((c def c (c (? . 10) q pregexp-replace)) q (18076 . 7)) ((c def c (c (? . 5) q keyword-get)) q (10685 . 5)) ((c form c (c (? . 11) q define-match-expander)) q (12242 . 4)) ((c form c (c (? . 15) q awk)) q (0 . 38)) ((c def c (c (? . 6) q quasi-read-style-printing)) q (15205 . 4)) ((c form c (c (? . 0) q define/contract)) q (4060 . 2)) ((c def c (c (? . 15) q match:start)) q (1245 . 4)) ((c def c (c (? . 17) q glob->regexp)) q (21272 . 10)) ((c form c (c (? . 4) q begin-lifted)) q (6531 . 2)) ((c def c (c (? . 2) q fifth)) q (11075 . 3)) ((c def c (c (? . 6) q use-named/undefined-handler)) q (13023 . 4)) ((c def c (c (? . 6) q get-shared)) q (14673 . 5)) ((c def c (c (? . 13) q channel-send-evt)) q (2676 . 4)) ((c def c (c (? . 1) q >=?)) q (3127 . 3)) ((c form c (c (? . 0) q ->pp)) q (5469 . 11)) ((c def c (c (? . 12) q print-converter?)) q (15592 . 3)) ((c def c (c (? . 1) q gentmp)) q (3280 . 3)) ((c def c (c (? . 18) q build-absolute-path)) q (8752 . 8)) ((c def c (c (? . 2) q fourth)) q (11011 . 3)) ((c def c (c (? . 1) q =?)) q (2908 . 3)) ((c def c (c (? . 17) q string-lowercase!)) q (21673 . 3)) ((c def c (c (? . 12) q print-convert-constructor-name)) q (15894 . 3)) ((c def c (c (? . 0) q box/c)) q (4121 . 3)) ((c def c (c (? . 10) q pregexp-match-positions)) q (16913 . 15)) ((c form c (c (? . 4) q let+)) q (6856 . 11)) ((c form c (c (? . 11) q match-lambda*)) q (12016 . 2)) ((q def ((lib "mzlib/sandbox.rkt") make-evaluator)) q (19070 . 15)) ((c form c (c (? . 4) q evcase)) q (6665 . 3)) ((c def c (c (? . 18) q call-with-input-file*)) q (7831 . 5)) ((c def c (c (? . 19) q transcript-off)) q (24158 . 2)) ((c def c (c (? . 17) q eval-string)) q (21865 . 6)) ((q def ((lib "mzlib/sendevent.rkt") send-event)) q (19865 . 14))))
 syntax
 (awk next-record-expr
      (record field-id ...)
@@ -8,36 +8,36 @@ syntax
      maybe-continue
   clause ...)
  
-maybe-counter   = 
-                | id
-                   
-maybe-continue  = 
-                | id
-                   
-clause          = (test body ...+)
-                | (test => procedure-expr)
-                | (/ regexp-str / (id-or-false ...+) body ...+)
-                | (range excl-start-test excl-stop-test body ...+)
-                | (:range incl-start-test excl-stop-test body ...+)
-                | (range: excl-start-test incl-stop-test body ...+)
-                | (:range: incl-start-test incl-stop-test body ...+)
-                | (else body ...+)
-                | (after body ...+)
-                   
-test            = integer
-                | regexp-string
-                | expr
-                   
+  maybe-counter = 
+                | id
+                   
+ maybe-continue = 
+                | id
+                   
+         clause = (test body ...+)
+                | (test => procedure-expr)
+                | (/ regexp-str / (id-or-false ...+) body ...+)
+                | (range excl-start-test excl-stop-test body ...+)
+                | (:range incl-start-test excl-stop-test body ...+)
+                | (range: excl-start-test incl-stop-test body ...+)
+                | (:range: incl-start-test incl-stop-test body ...+)
+                | (else body ...+)
+                | (after body ...+)
+                   
+           test = integer
+                | regexp-string
+                | expr
+                   
 excl-start-test = test
-                   
-excl-stop-test  = test
-                   
+                   
+ excl-stop-test = test
+                   
 incl-start-test = test
-                   
-incl-stop-test  = test
-                   
-id-or-false     = id
-                | #f
+                   
+ incl-stop-test = test
+                   
+    id-or-false = id
+                | #f
 procedure
 (match:start rec [which]) -> exact-nonnegative-integer?
   rec : ....
@@ -55,72 +55,26 @@ procedure
   re : (or/c string? regexp?)
   s : string?
 syntax
-(class100* superclass-expr (interface-expr ...) init-ids
-  class100-clause
-  ...)
- 
-init-ids            = id
-                    | (id ... id-with-default ...)
-                    | (id ... id-with-default ... . id)
-                       
-id-with-default     = (id default-expr)
-                       
-class100-clause     = (sequence expr ...)
-                    | (public public-method-decl ...)
-                    | (override public-method-decl ...)
-                    | (augment public-method-decl ...)
-                    | (pubment public-method-decl ...)
-                    | (overment public-method-decl ...)
-                    | (augride public-method-decl ...)
-                    | (private private-method-decl ...)
-                    | (private-field private-var-decl ...)
-                    | (inherit inherit-method-decl ...)
-                    | (rename rename-method-decl ...)
-                       
-public-method-decl  = ((internal-id external-id) method-procedure)
-                    | (id method-procedure)
-                       
-private-method-decl = (id method-procedure)
-                       
-private-var-decl    = (id initial-value-expr)
-                    | (id)
-                    | id
-                       
-inherit-method-decl = id
-                    | (internal-instance-id external-inherited-id)
-                       
-rename-method-decl  = (internal-id external-id)
-syntax
-(class100 superclass-expr init-ids
-    class100-clause
-    ...)
-syntax
-(class100-asi superclass instance-id-clause ...)
-syntax
-(class100*-asi superclass interfaces instance-id-clause ...)
-syntax
-(super-init init-arg-expr ...)
-syntax
 (command-line program-name-expr argv-expr clause ...)
  
-clause      = (multi flag-spec ...)
-            | (once-each flag-spec ...)
-            | (once-any flag-spec ...)
-            | (final flag-spec ...)
-            | (help-labels string ...)
-            | (args arg-formals body-expr ...+)
-            | (=> finish-proc-expr arg-help-expr help-proc-expr
+     clause = (multi flag-spec ...)
+            | (once-each flag-spec ...)
+            | (once-any flag-spec ...)
+            | (final flag-spec ...)
+            | (help-labels string ...)
+            | (args arg-formals body-expr ...+)
+            | (=> finish-proc-expr arg-help-expr help-proc-expr
                   unknown-proc-expr)
-               
-flag-spec   = (flags id ... help-str ...+ body-expr ...+)
-            | (flags => handler-expr help-expr)
-               
-flags       = flag-string
-            | (flag-string ...+)
-               
+               
+  flag-spec = (flags id ... help-str ...+ body-expr ...+)
+            | (flags => handler-expr help-expr)
+               
+      flags = flag-string
+            | (flag-string ...+)
+               
 arg-formals = id
-            | (id ...)
-            | (id ...+ . id)
+            | (id ...)
+            | (id ...+ . id)
 procedure
 (spawn thunk) -> thread?
   thunk : (-> any)
@@ -215,7 +169,7 @@ syntax
 (->* (contract-dom-expr ...) contract-rest-expr ->*rng)
  
 ->*rng = (contract-rng-expr ...)
-       | any
+       | any
 syntax
 (opt-> (contract-req-expr ...) (contact-opt-expr ...) any)
 (opt-> (contract-req-expr ...) (contact-opt-expr ...) contract-rng-expr)
@@ -232,8 +186,8 @@ syntax
 (->r ([dom-x contract-dom-expr] ...) rest-x contract-rest-expr rng)
  
 rng = any
-    | (values contract-expr ...)
-    | contract-expr
+    | (values contract-expr ...)
+    | contract-expr
 syntax
 (->pp ([dom-x contract-dom-expr] ...) pre-cond-expr any)
 (->pp ([dom-x contract-dom-expr] ...)
@@ -278,13 +232,13 @@ syntax
 (let+ clause body-expr ...+)
  
 clause = (val target expr)
-       | (rec target expr)
-       | (vals (target ...) expr)
-       | (recs (target expr) ...)
-       | (_ expr ...)
-          
+       | (rec target expr)
+       | (vals (target ...) expr)
+       | (recs (target expr) ...)
+       | (_ expr ...)
+          
 target = id
-       | (values id ...)
+       | (values id ...)
 procedure
 (loop-until start done? next f) -> void?
   start : any/c
@@ -349,12 +303,12 @@ syntax
 (include path-spec)
  
 path-spec = string
-          | (build-path elem ...+)
-          | (lib file-string collection-string ...)
-             
-elem      = string
-          | up
-          | same
+          | (build-path elem ...+)
+          | (lib file-string collection-string ...)
+             
+     elem = string
+          | up
+          | same
 syntax
 (include-at/relative-to context source path-spec)
 syntax
@@ -366,35 +320,35 @@ syntax
 syntax
 (define/kw (head args) body ...+)
  
-kw-formals     = id
-               | (id ... [#:optional optional-spec ...]
+    kw-formals = id
+               | (id ... [#:optional optional-spec ...]
                          [#:key key-spec ...]
                          [rest/mode-spec ...])
-               | (id ... . id)
-                  
-optional-spec  = id
-               | (id default-expr)
-                  
-key-spec       = id
-               | (id default-expr)
-               | (id keyword default-expr)
-                  
+               | (id ... . id)
+                  
+ optional-spec = id
+               | (id default-expr)
+                  
+      key-spec = id
+               | (id default-expr)
+               | (id keyword default-expr)
+                  
 rest/mode-spec = #:rest id
-               | #:other-keys id
-               | #:other-keys+body id
-               | #:all-keys id
-               | #:body kw-formals
-               | #:allow-other-keys
-               | #:forbid-other-keys
-               | #:allow-duplicate-keys
-               | #:forbid-duplicate-keys
-               | #:allow-body
-               | #:forbid-body
-               | #:allow-anything
-               | #:forbid-anything
-                  
-head           = id
-               | (head . kw-formals)
+               | #:other-keys id
+               | #:other-keys+body id
+               | #:all-keys id
+               | #:body kw-formals
+               | #:allow-other-keys
+               | #:forbid-other-keys
+               | #:allow-duplicate-keys
+               | #:forbid-duplicate-keys
+               | #:allow-body
+               | #:forbid-body
+               | #:allow-anything
+               | #:forbid-anything
+                  
+          head = id
+               | (head . kw-formals)
 procedure
 (keyword-get args kw not-found) -> any
   args : (listof (cons/c keyword? any/c))
@@ -447,7 +401,7 @@ syntax
 (match val-expr clause ...)
  
 clause = [pat expr ...+]
-       | [pat (=> id) expr ...+]
+       | [pat (=> id) expr ...+]
 syntax
 (define/match (head args) match*-clause ...)
 syntax
@@ -683,12 +637,12 @@ syntax
                                      (other-version-clause ...)
                                      maybe-inspector-expr)
  
-id-maybe-super       = id
-                     | (id super-id)
-                        
+      id-maybe-super = id
+                     | (id super-id)
+                        
 maybe-inspector-expr = 
-                     | inspector-expr
-                        
+                     | inspector-expr
+                        
 other-version-clause = (other-vers make-proc-expr
                                    cycle-make-proc-expr)
 procedure
@@ -737,7 +691,7 @@ syntax
                           maybe-inspector-expr)
  
 maybe-inspector-expr = 
-                     | expr
+                     | expr
 syntax
 (make-->vector struct-id)
 procedure
@@ -774,16 +728,16 @@ syntax
 (struct id (field-id ...) omit-decl ...)
  
 omit-decl = -type
-          | -selectors
-          | -setters
-          | -constructor
+          | -selectors
+          | -setters
+          | -constructor
 syntax
 (struct/ctc id ([field-id contract-expr] ...) omit-decl ...)
  
 omit-decl = -type
-          | -selectors
-          | -setters
-          | -constructor
+          | -selectors
+          | -setters
+          | -constructor
 syntax
 struct~r
 syntax

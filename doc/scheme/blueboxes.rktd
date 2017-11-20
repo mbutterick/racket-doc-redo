@@ -1,5 +1,5 @@
 1026
-((3) 0 () 5 ((q lib "scheme/base.rkt") (q lib "scheme/sandbox.rkt") (q 993 . 17) (q lib "scheme/foreign.rkt") (q lib "scheme/gui/base.rkt")) () (h ! (equal) ((c def c (c (? . 0) q make-base-namespace)) q (54 . 2)) ((c def c (c (? . 1) q make-module-evaluator)) c (? . 2)) ((c form c (c (? . 3) q provide*)) q (188 . 6)) ((q def ((lib "scheme/class.rkt") printable<%>)) q (137 . 2)) ((c form c (c (? . 0) q #%module-begin)) q (102 . 2)) ((c def c (c (? . 1) q sandbox-namespace-specs)) q (726 . 6)) ((c def c (c (? . 4) q make-gui-empty-namespace)) q (397 . 2)) ((q form ((lib "scheme/nest.rkt") nest)) q (563 . 2)) ((c def c (c (? . 0) q make-base-empty-namespace)) q (0 . 2)) ((c def c (c (? . 1) q make-evaluator)) c (? . 2)) ((c form c (c (? . 3) q define-unsafer)) q (369 . 2)) ((q def ((lib "scheme/gui/dynamic.rkt") gui-dynamic-require)) q (497 . 3)) ((c def c (c (? . 4) q make-gui-namespace)) q (450 . 2)) ((q def ((lib "scheme/pretty.rkt") pretty-print)) q (611 . 4)) ((c form c (c (? . 3) q unsafe!)) q (171 . 2))))
+((3) 0 () 5 ((q lib "scheme/foreign.rkt") (q lib "scheme/sandbox.rkt") (q lib "scheme/base.rkt") (q 993 . 17) (q lib "scheme/gui/base.rkt")) () (h ! (equal) ((q def ((lib "scheme/pretty.rkt") pretty-print)) q (611 . 4)) ((c def c (c (? . 1) q make-evaluator)) c (? . 3)) ((c def c (c (? . 2) q make-base-namespace)) q (54 . 2)) ((c form c (c (? . 0) q define-unsafer)) q (369 . 2)) ((q def ((lib "scheme/gui/dynamic.rkt") gui-dynamic-require)) q (497 . 3)) ((c form c (c (? . 0) q unsafe!)) q (171 . 2)) ((c def c (c (? . 1) q sandbox-namespace-specs)) q (726 . 6)) ((c def c (c (? . 4) q make-gui-empty-namespace)) q (397 . 2)) ((c form c (c (? . 2) q #%module-begin)) q (102 . 2)) ((q form ((lib "scheme/nest.rkt") nest)) q (563 . 2)) ((c def c (c (? . 1) q make-module-evaluator)) c (? . 3)) ((q def ((lib "scheme/class.rkt") printable<%>)) q (137 . 2)) ((c def c (c (? . 2) q make-base-empty-namespace)) q (0 . 2)) ((c form c (c (? . 0) q provide*)) q (188 . 6)) ((c def c (c (? . 4) q make-gui-namespace)) q (450 . 2))))
 procedure
 (make-base-empty-namespace) -> namespace?
 procedure
@@ -14,8 +14,8 @@ syntax
 (provide* provide-star-spec ...)
  
 provide-star-spec = (unsafe id)
-                  | (unsafe (rename-out [id external-id]))
-                  | provide-spec
+                  | (unsafe (rename-out [id external-id]))
+                  | provide-spec
 syntax
 (define-unsafer id)
 procedure

@@ -1,5 +1,5 @@
-27579
-((3) 0 () 61 ((q lib "net/mime.rkt") (q lib "net/nntp.rkt") (q lib "net/pop3.rkt") (q lib "net/imap.rkt") (q lib "net/uri-codec.rkt") (q 31013 . 26) (q 30837 . 6) (q lib "net/url-structs.rkt") (q 3773 . 18) (q lib "net/base64.rkt") (q lib "net/url.rkt") (q 37783 . 3) (q 26898 . 8) (q 35730 . 7) (q lib "net/ftp.rkt") (q 38151 . 4) (q 33785 . 3) (q 30485 . 4) (q 32936 . 3) (q 4609 . 5) (q lib "net/tcp-sig.rkt") (q lib "net/cgi.rkt") (q 33683 . 3) (q 32139 . 16) (q 29191 . 3) (q 30328 . 4) (q lib "net/qp.rkt") (q 38814 . 4) (q lib "net/http-client.rkt") (q 37860 . 5) (q lib "net/websocket/conn.rkt") (q 29574 . 4) (q 33030 . 4) (q 38562 . 4) (q lib "net/cookie.rkt") (q 30131 . 5) (q 34901 . 3) (q 33481 . 3) (q 29741 . 5) (q lib "net/dns.rkt") (q 33173 . 4) (q 38710 . 3) (q lib "net/head.rkt") (q 35003 . 3) (q 38956 . 3) (q lib "net/sendurl.rkt") (q 29931 . 5) (q 38429 . 4) (q 29268 . 3) (q 34821 . 3) (q 33587 . 3) (q 38026 . 4) (q lib "net/websocket/client.rkt") (q lib "net/sendmail.rkt") (q 45503 . 3) (q 29470 . 3) (q 29366 . 3) (q 38298 . 4) (q 33330 . 4) (q lib "net/url-sig.rkt") (q lib "net/smtp.rkt")) () (h ! (equal) ((c def c (c (? . 0) q entity-body)) c (? . 5)) ((c sig-val c (c (? . 20) q tcp^ tcp-accept/enable-break)) q (40788 . 3)) ((c def c (c (? . 0) q message-fields)) c (? . 6)) ((c def c (c (? . 7) q url-user)) c (? . 8)) ((c def c (c (? . 1) q unexpected-response-code)) c (? . 29)) ((c def c (c (? . 1) q nntp?)) c (? . 11)) ((c def c (c (? . 3) q imap-connect*)) q (22101 . 18)) ((c def c (c (? . 60) q smtp-sending-end-of-message)) q (17996 . 4)) ((c def c (c (? . 2) q disconnect-not-quiet-communicator)) c (? . 25)) ((c def c (c (? . 2) q make-not-ready-for-transaction)) c (? . 31)) ((c def c (c (? . 1) q premature-close?)) c (? . 15)) ((c def c (c (? . 4) q current-alist-separator-mode)) q (10590 . 5)) ((c def c (c (? . 3) q imap-disconnect)) q (22717 . 3)) ((c def c (c (? . 4) q uri-path-segment-decode)) q (9708 . 3)) ((c def c (c (? . 10) q post-impure-port)) q (6905 . 5)) ((c def c (c (? . 0) q make-entity)) c (? . 5)) ((c def c (c (? . 9) q base64-encode)) q (33957 . 4)) ((c def c (c (? . 2) q communicator)) c (? . 12)) ((c def c (c (? . 0) q make-message)) c (? . 6)) ((c def c (c (? . 0) q struct:empty-subtype)) c (? . 22)) ((c def c (c (? . 0) q unexpected-termination)) c (? . 32)) ((c def c (c (? . 7) q url-host)) c (? . 8)) ((c def c (c (? . 9) q base64-encode-stream)) q (34141 . 5)) ((c def c (c (? . 26) q qp-decode)) q (34513 . 3)) ((c def c (c (? . 10) q url->path)) q (5245 . 4)) ((q form ((lib "net/dns-sig.rkt") dns^)) q (35701 . 2)) ((c def c (c (? . 0) q empty-disposition-type?)) c (? . 16)) ((c def c (c (? . 1) q nntp)) c (? . 11)) ((c def c (c (? . 7) q url-path)) c (? . 8)) ((c def c (c (? . 2) q get-unique-id/single)) q (28649 . 5)) ((c def c (c (? . 34) q get-cookie)) q (45255 . 4)) ((c def c (c (? . 2) q connect-to-server)) q (27205 . 4)) ((c def c (c (? . 2) q communicator-receiver)) c (? . 12)) ((c def c (c (? . 2) q communicator?)) c (? . 12)) ((c def c (c (? . 2) q get-message/headers)) q (28071 . 6)) ((c def c (c (? . 2) q make-cannot-connect)) c (? . 48)) ((c def c (c (? . 4) q form-urlencoded->alist)) q (10488 . 4)) ((c def c (c (? . 0) q mime-error)) c (? . 18)) ((c def c (c (? . 1) q make-communicator)) c (? . 13)) ((c def c (c (? . 10) q http-connection-close)) q (7957 . 3)) ((c def c (c (? . 4) q uri-path-segment-unreserved-encode)) q (10066 . 3)) ((q form ((lib "net/mime-sig.rkt") mime^)) q (33927 . 2)) ((c def c (c (? . 10) q delete-impure-port)) q (6496 . 4)) ((c def c (c (? . 2) q not-given-headers?)) c (? . 38)) ((c def c (c (? . 14) q ftp-establish-connection)) q (12799 . 9)) ((c def c (c (? . 1) q communicator-port)) c (? . 13)) ((c def c (c (? . 2) q malformed-server-response-communicator)) c (? . 17)) ((c def c (c (? . 45) q send-url/contents)) q (15858 . 11)) ((c def c (c (? . 14) q ftp-make-directory)) q (14844 . 4)) ((c def c (c (? . 1) q struct:premature-close)) c (? . 15)) ((q def ((lib "net/ssl-tcp-unit.rkt") make-ssl-tcp@)) q (41586 . 15)) ((c def c (c (? . 1) q make-bad-newsgroup-line)) c (? . 57)) ((c def c (c (? . 0) q empty-disposition-type)) c (? . 16)) ((c def c (c (? . 2) q make-desired-header)) q (28962 . 3)) ((c def c (c (? . 0) q struct:message)) c (? . 6)) ((c def c (c (? . 2) q struct:malformed-server-response)) c (? . 17)) ((c def c (c (? . 14) q ftp-delete-directory)) q (14964 . 4)) ((c def c (c (? . 3) q imap-get-messages)) q (24579 . 8)) ((c def c (c (? . 3) q imap-recent)) q (23575 . 3)) ((c def c (c (? . 0) q disposition-filename)) c (? . 23)) ((c def c (c (? . 0) q mime-error?)) c (? . 18)) ((c def c (c (? . 7) q struct:path/param)) c (? . 19)) ((c def c (c (? . 39) q dns-get-mail-exchanger)) q (35498 . 4)) ((c def c (c (? . 10) q get-pure-port)) q (5717 . 7)) ((c def c (c (? . 21) q extract-bindings)) q (42607 . 4)) ((c def c (c (? . 7) q path/param-param)) c (? . 19)) ((c def c (c (? . 1) q article-not-in-group-article)) c (? . 33)) ((c def c (c (? . 10) q current-proxy-servers)) q (8422 . 5)) ((c sig-val c (c (? . 20) q tcp^ tcp-connect/enable-break)) q (40114 . 13)) ((c def c (c (? . 2) q pop3?)) c (? . 24)) ((c def c (c (? . 21) q string->html)) q (43605 . 3)) ((c def c (c (? . 2) q get-unique-id/all)) q (28833 . 4)) ((c def c (c (? . 0) q make-empty-subtype)) c (? . 22)) ((c def c (c (? . 21) q get-bindings)) q (42343 . 3)) ((c def c (c (? . 0) q make-disposition)) c (? . 23)) ((c def c (c (? . 0) q message-entity)) c (? . 6)) ((c def c (c (? . 0) q struct:empty-disposition-type)) c (? . 16)) ((c def c (c (? . 0) q make-empty-disposition-type)) c (? . 16)) ((c def c (c (? . 2) q pop3)) c (? . 24)) ((c def c (c (? . 0) q disposition-type)) c (? . 23)) ((c def c (c (? . 30) q ws-conn-closed?)) q (12372 . 3)) ((c def c (c (? . 10) q put-pure-port)) q (6762 . 5)) ((c def c (c (? . 1) q head-of-message)) q (36636 . 5)) ((c def c (c (? . 2) q make-disconnect-not-quiet)) c (? . 25)) ((c def c (c (? . 0) q entity-params)) c (? . 5)) ((c def c (c (? . 2) q cannot-delete-message-message)) c (? . 35)) ((c def c (c (? . 1) q struct:article-not-found)) c (? . 27)) ((c def c (c (? . 4) q uri-unreserved-decode)) q (9994 . 3)) ((c def c (c (? . 26) q struct:qp-error)) c (? . 49)) ((c def c (c (? . 3) q imap-uidvalidity)) q (23876 . 3)) ((c def c (c (? . 7) q path/param-path)) c (? . 19)) ((c def c (c (? . 1) q struct:bad-status-line)) c (? . 51)) ((c def c (c (? . 28) q http-conn-close!)) q (832 . 3)) ((q form ((lib "net/head-sig.rkt") head^)) q (21239 . 2)) ((c def c (c (? . 1) q communicator-server)) c (? . 13)) ((c def c (c (? . 52) q ws-url?)) q (10864 . 3)) ((c def c (c (? . 1) q make-article-not-found)) c (? . 27)) ((c def c (c (? . 28) q http-conn-abandon!)) q (898 . 3)) ((c def c (c (? . 1) q make-unexpected-response)) c (? . 29)) ((c def c (c (? . 0) q entity)) c (? . 5)) ((c def c (c (? . 0) q malformed-multipart-entity-msg)) c (? . 58)) ((c def c (c (? . 14) q ftp-make-file-seconds)) q (13566 . 3)) ((c def c (c (? . 53) q send-mail-message)) q (18689 . 15)) ((c form c (c (? . 20) q tcp^)) q (39124 . 2)) ((c def c (c (? . 3) q imap-flag->symbol)) q (24914 . 3)) ((c def c (c (? . 7) q url-query)) c (? . 8)) ((c def c (c (? . 2) q communicator-server)) c (? . 12)) ((c def c (c (? . 3) q imap-pending-updates?)) q (24495 . 3)) ((c def c (c (? . 3) q imap-list-child-mailboxes)) q (26260 . 9)) ((c def c (c (? . 2) q malformed-server-response)) c (? . 17)) ((c def c (c (? . 0) q message)) c (? . 6)) ((c def c (c (? . 2) q get-mailbox-status)) q (27686 . 4)) ((c def c (c (? . 26) q qp-wrong-line-size)) c (? . 43)) ((c def c (c (? . 30) q ws-recv)) q (12594 . 3)) ((c def c (c (? . 0) q struct:mime-error)) c (? . 18)) ((c def c (c (? . 1) q struct:nntp)) c (? . 11)) ((c def c (c (? . 3) q symbol->imap-flag)) q (24984 . 3)) ((c def c (c (? . 2) q make-password-rejected)) c (? . 55)) ((c def c (c (? . 3) q imap-connect)) q (21331 . 15)) ((c def c (c (? . 28) q http-conn-recv!)) q (1692 . 8)) ((c def c (c (? . 26) q qp-wrong-input?)) c (? . 36)) ((c def c (c (? . 2) q struct:not-ready-for-transaction)) c (? . 31)) ((c def c (c (? . 0) q struct:empty-type)) c (? . 50)) ((c def c (c (? . 0) q empty-mechanism?)) c (? . 37)) ((c def c (c (? . 10) q delete-pure-port)) q (6137 . 4)) ((c def c (c (? . 4) q uri-encode)) q (9512 . 3)) ((c def c (c (? . 3) q imap-status)) q (25835 . 5)) ((c def c (c (? . 0) q make-unexpected-termination)) c (? . 32)) ((c def c (c (? . 1) q make-article-not-in-group)) c (? . 33)) ((c def c (c (? . 1) q body-of-message)) q (36829 . 5)) ((c def c (c (? . 1) q communicator-receiver)) c (? . 13)) ((c def c (c (? . 1) q struct:unexpected-response)) c (? . 29)) ((q form ((lib "net/imap-sig.rkt") imap^)) q (26868 . 2)) ((c def c (c (? . 3) q imap-examine)) q (23075 . 5)) ((c def c (c (? . 7) q make-url)) c (? . 8)) ((c def c (c (? . 10) q netscape/string->url)) q (5023 . 3)) ((c def c (c (? . 2) q disconnect-not-quiet?)) c (? . 25)) ((c def c (c (? . 1) q make-no-group-selected)) c (? . 41)) ((q form ((lib "net/base64-sig.rkt") base64^)) q (34421 . 2)) ((c def c (c (? . 2) q get-message/body)) q (28278 . 6)) ((c def c (c (? . 1) q extract-desired-headers)) q (37638 . 4)) ((c def c (c (? . 3) q imap-copy)) q (25345 . 5)) ((c def c (c (? . 10) q url-exception?)) q (8644 . 3)) ((c def c (c (? . 4) q uri-decode)) q (9573 . 3)) ((c def c (c (? . 0) q entity-disposition)) c (? . 5)) ((c def c (c (? . 1) q unexpected-response-text)) c (? . 29)) ((c def c (c (? . 3) q imap-messages)) q (23481 . 3)) ((c def c (c (? . 34) q cookie:add-expires)) q (44860 . 4)) ((c def c (c (? . 2) q struct:cannot-delete-message)) c (? . 35)) ((c def c (c (? . 34) q valid-domain?)) q (44132 . 3)) ((c def c (c (? . 2) q disconnect-from-server)) q (27351 . 3)) ((c def c (c (? . 3) q imap-mailbox-flags)) q (26707 . 4)) ((c def c (c (? . 34) q cookie:add-comment)) q (44411 . 4)) ((c def c (c (? . 26) q qp-wrong-input)) c (? . 36)) ((c def c (c (? . 1) q make-premature-close)) c (? . 15)) ((c def c (c (? . 0) q make-empty-mechanism)) c (? . 37)) ((c def c (c (? . 2) q make-illegal-message-number)) c (? . 46)) ((c sig-val c (c (? . 20) q tcp^ tcp-connect)) q (39562 . 12)) ((c def c (c (? . 1) q premature-close-communicator)) c (? . 15)) ((c def c (c (? . 3) q imap-mailbox-exists?)) q (26000 . 4)) ((c def c (c (? . 0) q disposition-params)) c (? . 23)) ((c def c (c (? . 0) q entity-parts)) c (? . 5)) ((c def c (c (? . 7) q url-port)) c (? . 8)) ((q form ((lib "net/cookie-sig.rkt") cookie^)) q (45625 . 2)) ((c def c (c (? . 3) q imap-poll)) q (23412 . 3)) ((c def c (c (? . 0) q missing-multipart-boundary-parameter?)) c (? . 40)) ((c def c (c (? . 2) q username-rejected)) c (? . 56)) ((c def c (c (? . 2) q struct:not-given-headers)) c (? . 38)) ((c def c (c (? . 3) q imap-force-disconnect)) q (22792 . 3)) ((c def c (c (? . 39) q dns-find-nameserver)) q (35618 . 2)) ((c def c (c (? . 10) q http-connection?)) q (7840 . 3)) ((c def c (c (? . 0) q disposition-modification)) c (? . 23)) ((c def c (c (? . 2) q communicator-state)) c (? . 12)) ((c def c (c (? . 10) q file-url-path-convention-type)) q (5395 . 4)) ((c def c (c (? . 1) q struct:non-existent-group)) c (? . 47)) ((c def c (c (? . 42) q insert-field)) q (19901 . 5)) ((c def c (c (? . 26) q qp-encode)) q (34453 . 3)) ((c def c (c (? . 1) q newnews-since)) q (37022 . 4)) ((c def c (c (? . 1) q authentication-rejected)) c (? . 44)) ((c def c (c (? . 0) q missing-multipart-boundary-parameter)) c (? . 40)) ((c def c (c (? . 1) q communicator)) c (? . 13)) ((c def c (c (? . 1) q disconnect-from-server)) q (36107 . 3)) ((c def c (c (? . 1) q article-not-found?)) c (? . 27)) ((c def c (c (? . 1) q no-group-selected)) c (? . 41)) ((c def c (c (? . 0) q struct:empty-mechanism)) c (? . 37)) ((c def c (c (? . 1) q unexpected-response)) c (? . 29)) ((c def c (c (? . 10) q get-pure-port/headers)) q (7328 . 12)) ((c def c (c (? . 0) q disposition?)) c (? . 23)) ((c def c (c (? . 42) q extract-addresses)) q (20891 . 7)) ((c def c (c (? . 7) q struct:url)) c (? . 8)) ((c def c (c (? . 39) q dns-get-address)) q (35161 . 7)) ((c def c (c (? . 26) q struct:qp-wrong-line-size)) c (? . 43)) ((c def c (c (? . 10) q make-http-connection)) q (7902 . 2)) ((c def c (c (? . 1) q struct:authentication-rejected)) c (? . 44)) ((c def c (c (? . 30) q framing-mode)) q (12079 . 4)) ((q form ((lib "net/nntp-sig.rkt") nntp^)) q (39094 . 2)) ((c def c (c (? . 45) q browser-preference?)) q (16464 . 3)) ((c def c (c (? . 0) q struct:missing-multipart-boundary-parameter)) c (? . 40)) ((c def c (c (? . 2) q illegal-message-number-communicator)) c (? . 46)) ((c def c (c (? . 1) q non-existent-group)) c (? . 47)) ((c def c (c (? . 2) q cannot-connect)) c (? . 48)) ((c def c (c (? . 4) q uri-userinfo-decode)) q (9852 . 3)) ((q def ((lib "net/websocket/server.rkt") ws-serve)) q (11100 . 18)) ((c def c (c (? . 10) q head-impure-port)) q (6376 . 4)) ((c def c (c (? . 21) q get-bindings/post)) q (42428 . 3)) ((c def c (c (? . 28) q http-conn?)) q (0 . 3)) ((c def c (c (? . 34) q set-cookie)) q (44308 . 4)) ((c def c (c (? . 0) q make-missing-multipart-boundary-parameter)) c (? . 40)) ((c def c (c (? . 0) q entity-subtype)) c (? . 5)) ((c def c (c (? . 45) q send-url/file)) q (15498 . 9)) ((c def c (c (? . 28) q http-conn)) q (117 . 2)) ((c def c (c (? . 3) q imap-reselect)) q (22873 . 5)) ((c def c (c (? . 9) q base64-decode-stream)) q (34296 . 4)) ((c def c (c (? . 2) q delete-message)) q (28479 . 5)) ((c def c (c (? . 1) q communicator-sender)) c (? . 13)) ((c def c (c (? . 42) q empty-header)) q (19290 . 2)) ((c def c (c (? . 1) q struct:no-group-selected)) c (? . 41)) ((c def c (c (? . 3) q imap-reset-new!)) q (24057 . 3)) ((c def c (c (? . 0) q disposition)) c (? . 23)) ((c def c (c (? . 26) q qp-error?)) c (? . 49)) ((c def c (c (? . 28) q http-sendrecv)) q (2822 . 20)) ((c def c (c (? . 3) q imap-unseen)) q (23667 . 3)) ((c def c (c (? . 7) q path/param)) c (? . 19)) ((c def c (c (? . 2) q cannot-delete-message-communicator)) c (? . 35)) ((c def c (c (? . 1) q article-not-found-article)) c (? . 27)) ((c def c (c (? . 21) q output-http-headers)) q (42957 . 2)) ((c def c (c (? . 42) q data-lines->data)) q (20818 . 3)) ((c def c (c (? . 3) q imap-new?)) q (23985 . 3)) ((c def c (c (? . 10) q combine-url/relative)) q (4921 . 4)) ((c def c (c (? . 14) q ftp-rename-file)) q (15086 . 5)) ((c def c (c (? . 30) q open-ws-conn?)) q (12252 . 3)) ((c def c (c (? . 26) q qp-wrong-line-size?)) c (? . 43)) ((c def c (c (? . 4) q uri-userinfo-encode)) q (9782 . 3)) ((c def c (c (? . 34) q cookie?)) q (44079 . 3)) ((c def c (c (? . 0) q entity-id)) c (? . 5)) ((c def c (c (? . 3) q imap-append)) q (25537 . 7)) ((c def c (c (? . 34) q make-cookie-error)) c (? . 54)) ((c def c (c (? . 34) q cookie:version)) q (45063 . 4)) ((c def c (c (? . 7) q url-path-absolute?)) c (? . 8)) ((c def c (c (? . 28) q http-conn-sendrecv!)) q (1992 . 18)) ((q form ((lib "net/cgi-sig.rkt") cgi^)) q (44050 . 2)) ((c def c (c (? . 0) q empty-subtype)) c (? . 22)) ((c def c (c (? . 42) q extract-field)) q (19411 . 4)) ((c def c (c (? . 0) q empty-subtype?)) c (? . 22)) ((c def c (c (? . 7) q url)) c (? . 8)) ((c def c (c (? . 0) q make-mime-error)) c (? . 18)) ((c def c (c (? . 2) q make-communicator)) c (? . 12)) ((c sig-val c (c (? . 20) q tcp^ tcp-listener?)) q (41055 . 3)) ((c def c (c (? . 21) q get-bindings/get)) q (42518 . 3)) ((c def c (c (? . 4) q form-urlencoded-encode)) q (10236 . 3)) ((c def c (c (? . 4) q uri-path-segment-encode)) q (9634 . 3)) ((q def ((lib "net/qp-unit.rkt") qp@)) q (35113 . 2)) ((c def c (c (? . 1) q unexpected-response?)) c (? . 29)) ((c def c (c (? . 3) q imap-get-hierarchy-delimiter)) q (26618 . 3)) ((c sig-val c (c (? . 20) q tcp^ tcp-addresses)) q (41187 . 7)) ((c def c (c (? . 42) q assemble-address-field)) q (21130 . 3)) ((c def c (c (? . 0) q empty-type)) c (? . 50)) ((c def c (c (? . 21) q generate-error-output)) q (43772 . 3)) ((c def c (c (? . 2) q struct:communicator)) c (? . 12)) ((c def c (c (? . 1) q authenticate-user)) q (36411 . 7)) ((c def c (c (? . 7) q make-path/param)) c (? . 19)) ((c def c (c (? . 2) q not-ready-for-transaction-communicator)) c (? . 31)) ((c sig-val c (c (? . 20) q tcp^ tcp-listen)) q (39153 . 10)) ((c def c (c (? . 0) q unexpected-termination-msg)) c (? . 32)) ((c def c (c (? . 4) q form-urlencoded-decode)) q (10309 . 3)) ((c def c (c (? . 14) q ftp-download-file)) q (13655 . 13)) ((c def c (c (? . 1) q non-existent-group-group)) c (? . 47)) ((c def c (c (? . 3) q imap-port-number)) q (21978 . 4)) ((c def c (c (? . 14) q ftp-directory-list)) q (13299 . 7)) ((c def c (c (? . 0) q disposition-read)) c (? . 23)) ((c def c (c (? . 1) q premature-close)) c (? . 15)) ((c def c (c (? . 10) q head-pure-port)) q (6019 . 4)) ((c def c (c (? . 7) q url-scheme)) c (? . 8)) ((c def c (c (? . 7) q url?)) c (? . 8)) ((q def ((lib "net/cgi-unit.rkt") cgi@)) q (44029 . 2)) ((q form ((lib "net/smtp-sig.rkt") smtp^)) q (18143 . 2)) ((c def c (c (? . 2) q struct:pop3)) c (? . 24)) ((c def c (c (? . 42) q replace-field)) q (20092 . 5)) ((c def c (c (? . 0) q entity-description)) c (? . 5)) ((q form ((lib "net/pop3-sig.rkt") pop3^)) q (30674 . 2)) ((c def c (c (? . 34) q cookie:add-max-age)) q (44630 . 4)) ((c def c (c (? . 10) q path->url)) q (5150 . 3)) ((c def c (c (? . 4) q alist->form-urlencoded)) q (10382 . 3)) ((c def c (c (? . 1) q bad-status-line-line)) c (? . 51)) ((c def c (c (? . 3) q imap-store)) q (25052 . 6)) ((c def c (c (? . 21) q bindings-as-html)) q (43910 . 3)) ((c def c (c (? . 21) q extract-binding/single)) q (42784 . 4)) ((c def c (c (? . 26) q make-qp-wrong-line-size)) c (? . 43)) ((c def c (c (? . 0) q entity-other)) c (? . 5)) ((c def c (c (? . 3) q imap-create-mailbox)) q (26132 . 4)) ((c def c (c (? . 26) q make-qp-error)) c (? . 49)) ((c sig-val c (c (? . 20) q tcp^ tcp-accept)) q (40693 . 3)) ((c def c (c (? . 0) q entity-fields)) c (? . 5)) ((c def c (c (? . 2) q extract-desired-headers)) q (29046 . 4)) ((c def c (c (? . 1) q struct:article-not-in-group)) c (? . 33)) ((c def c (c (? . 4) q uri-path-segment-unreserved-decode)) q (10151 . 3)) ((q def ((lib "net/imap-unit.rkt") imap@)) q (26846 . 2)) ((c def c (c (? . 2) q struct:disconnect-not-quiet)) c (? . 25)) ((c def c (c (? . 3) q imap-get-expunges)) q (24132 . 3)) ((c def c (c (? . 2) q cannot-connect?)) c (? . 48)) ((c def c (c (? . 10) q put-impure-port)) q (7051 . 5)) ((c def c (c (? . 14) q ftp-close-connection)) q (13106 . 3)) ((c def c (c (? . 52) q ws-connect)) q (10971 . 4)) ((c def c (c (? . 28) q http-conn-open)) q (525 . 7)) ((c def c (c (? . 45) q unix-browser-list)) q (16529 . 2)) ((c def c (c (? . 34) q print-cookie)) q (45186 . 3)) ((c def c (c (? . 42) q standard-message-header)) q (20447 . 11)) ((c def c (c (? . 53) q send-mail-message/port)) q (18173 . 13)) ((c def c (c (? . 21) q get-cgi-method)) q (43852 . 2)) ((c def c (c (? . 1) q open-news-group)) q (36202 . 7)) ((c def c (c (? . 1) q article-not-in-group?)) c (? . 33)) ((c def c (c (? . 26) q struct:qp-wrong-input)) c (? . 36)) ((q def ((lib "net/url-unit.rkt") url@)) q (9426 . 2)) ((c def c (c (? . 30) q ws-send!)) q (12513 . 4)) ((c sig-val c (c (? . 20) q tcp^ tcp-accept-ready?)) q (40896 . 3)) ((c def c (c (? . 10) q url->string)) q (5091 . 3)) ((q def ((lib "net/head-unit.rkt") head@)) q (21217 . 2)) ((c def c (c (? . 1) q struct:communicator)) c (? . 13)) ((c def c (c (? . 21) q generate-link-text)) q (43668 . 4)) ((c def c (c (? . 0) q unexpected-termination?)) c (? . 32)) ((c def c (c (? . 1) q generic-message-command)) q (37184 . 9)) ((c def c (c (? . 2) q illegal-message-number-message)) c (? . 46)) ((c def c (c (? . 0) q empty-type?)) c (? . 50)) ((c def c (c (? . 14) q ftp-cd)) q (13193 . 4)) ((c def c (c (? . 0) q struct:unexpected-termination)) c (? . 32)) ((c def c (c (? . 0) q entity-charset)) c (? . 5)) ((c def c (c (? . 1) q article-not-found)) c (? . 27)) ((c def c (c (? . 2) q communicator-port)) c (? . 12)) ((c def c (c (? . 3) q imap-noop)) q (23275 . 4)) ((c def c (c (? . 26) q qp-decode-stream)) q (34724 . 4)) ((c form c (c (? . 59) q url^)) q (9447 . 2)) ((c def c (c (? . 2) q cannot-delete-message)) c (? . 35)) ((c def c (c (? . 34) q cookie-name?)) q (44191 . 3)) ((c def c (c (? . 34) q struct:cookie-error)) c (? . 54)) ((c def c (c (? . 39) q dns-get-name)) q (35388 . 4)) ((c def c (c (? . 4) q uri-unreserved-encode)) q (9922 . 3)) ((c def c (c (? . 2) q make-not-given-headers)) c (? . 38)) ((q form ((lib "net/qp-sig.rkt") qp^)) q (35133 . 2)) ((c def c (c (? . 2) q illegal-message-number)) c (? . 46)) ((c def c (c (? . 2) q password-rejected?)) c (? . 55)) ((c def c (c (? . 1) q communicator?)) c (? . 13)) ((q def ((lib "net/ftp-unit.rkt") ftp@)) q (15226 . 2)) ((c def c (c (? . 0) q struct:entity)) c (? . 5)) ((c def c (c (? . 2) q not-given-headers-communicator)) c (? . 38)) ((c def c (c (? . 2) q make-username-rejected)) c (? . 56)) ((c def c (c (? . 1) q bad-newsgroup-line?)) c (? . 57)) ((c def c (c (? . 10) q string->url)) q (4784 . 4)) ((c def c (c (? . 0) q make-empty-type)) c (? . 50)) ((c def c (c (? . 1) q make-authentication-rejected)) c (? . 44)) ((c def c (c (? . 1) q bad-status-line?)) c (? . 51)) ((c def c (c (? . 10) q display-pure-port)) q (7196 . 3)) ((c def c (c (? . 30) q ws-conn-headers)) q (12438 . 3)) ((q def ((lib "net/dns-unit.rkt") dns@)) q (35680 . 2)) ((c def c (c (? . 26) q qp-error)) c (? . 49)) ((c def c (c (? . 10) q http-sendrecv/url)) q (8704 . 12)) ((q def ((lib "net/url-connect.rkt") current-https-protocol)) q (9249 . 4)) ((c def c (c (? . 0) q message-version)) c (? . 6)) ((q form ((lib "net/uri-codec-sig.rkt") uri-codec^)) q (10829 . 2)) ((c def c (c (? . 34) q cookie:add-path)) q (44757 . 4)) ((c def c (c (? . 0) q message?)) c (? . 6)) ((q def ((lib "net/tcp-unit.rkt") tcp@)) q (41461 . 2)) ((q def ((lib "net/smtp-unit.rkt") smtp@)) q (18121 . 2)) ((c def c (c (? . 1) q no-group-selected?)) c (? . 41)) ((c def c (c (? . 28) q http-conn-send!)) q (966 . 15)) ((c def c (c (? . 34) q cookie-value?)) q (44249 . 3)) ((c def c (c (? . 2) q get-message/complete)) q (27862 . 6)) ((c def c (c (? . 2) q make-malformed-server-response)) c (? . 17)) ((c def c (c (? . 9) q base64-decode)) q (34077 . 3)) ((q def ((lib "net/sendmail-unit.rkt") sendmail@)) q (19230 . 2)) ((c def c (c (? . 1) q make-non-existent-group)) c (? . 47)) ((c def c (c (? . 2) q password-rejected)) c (? . 55)) ((q def ((lib "net/tcp-redirect.rkt") tcp-redirect)) q (41482 . 3)) ((c def c (c (? . 45) q external-browser)) q (16343 . 4)) ((c def c (c (? . 1) q non-existent-group?)) c (? . 47)) ((c sig-val c (c (? . 20) q tcp^ tcp-abandon-port)) q (41114 . 3)) ((q def ((lib "net/uri-codec-unit.rkt") uri-codec@)) q (10802 . 2)) ((c def c (c (? . 14) q ftp-delete-file)) q (14720 . 4)) ((c def c (c (? . 2) q not-ready-for-transaction?)) c (? . 31)) ((c def c (c (? . 34) q cookie-error)) c (? . 54)) ((c def c (c (? . 10) q purify-port)) q (7264 . 3)) ((c def c (c (? . 7) q path/param?)) c (? . 19)) ((c def c (c (? . 1) q bad-status-line)) c (? . 51)) ((c def c (c (? . 30) q ws-close!)) q (12677 . 3)) ((c def c (c (? . 26) q qp-encode-stream)) q (34573 . 5)) ((c def c (c (? . 42) q remove-field)) q (19755 . 4)) ((c def c (c (? . 30) q ws-conn?)) q (12198 . 3)) ((c def c (c (? . 2) q struct:cannot-connect)) c (? . 48)) ((c def c (c (? . 10) q get-impure-port)) q (6257 . 4)) ((q def ((lib "net/cookie-unit.rkt") cookie@)) q (45601 . 2)) ((c def c (c (? . 2) q username-rejected?)) c (? . 56)) ((c def c (c (? . 2) q make-pop3)) c (? . 24)) ((q def ((lib "net/base64-unit.rkt") base64@)) q (34397 . 2)) ((c def c (c (? . 0) q struct:disposition)) c (? . 23)) ((c def c (c (? . 0) q empty-mechanism)) c (? . 37)) ((c sig-val c (c (? . 20) q tcp^ tcp-close)) q (40981 . 3)) ((c def c (c (? . 1) q bad-newsgroup-line)) c (? . 57)) ((c def c (c (? . 1) q make-desired-header)) q (37554 . 3)) ((c def c (c (? . 0) q entity-encoding)) c (? . 5)) ((c def c (c (? . 0) q make-malformed-multipart-entity)) c (? . 58)) ((c def c (c (? . 45) q send-url)) q (15276 . 7)) ((c def c (c (? . 52) q wss-url?)) q (10917 . 3)) ((q form ((lib "net/ftp-sig.rkt") ftp^)) q (15247 . 2)) ((c def c (c (? . 3) q imap-expunge)) q (25273 . 3)) ((c def c (c (? . 1) q make-bad-status-line)) c (? . 51)) ((c def c (c (? . 2) q not-ready-for-transaction)) c (? . 31)) ((c def c (c (? . 14) q ftp-upload-file)) q (14230 . 11)) ((c form c (c (? . 59) q url+scheme^)) q (9476 . 2)) ((c def c (c (? . 14) q ftp-connection?)) q (12738 . 3)) ((c def c (c (? . 2) q illegal-message-number?)) c (? . 46)) ((c def c (c (? . 2) q struct:illegal-message-number)) c (? . 46)) ((c def c (c (? . 0) q disposition-creation)) c (? . 23)) ((c def c (c (? . 34) q cookie:secure)) q (44961 . 4)) ((c def c (c (? . 2) q authenticate/plain-text)) q (27446 . 7)) ((c def c (c (? . 10) q call/input-url)) q (8050 . 10)) ((c def c (c (? . 0) q disposition-size)) c (? . 23)) ((c def c (c (? . 34) q get-cookie/single)) q (45372 . 4)) ((c def c (c (? . 0) q malformed-multipart-entity)) c (? . 58)) ((c def c (c (? . 26) q make-qp-wrong-input)) c (? . 36)) ((c def c (c (? . 3) q imap-uidnext)) q (23771 . 3)) ((c def c (c (? . 1) q bad-newsgroup-line-line)) c (? . 57)) ((c def c (c (? . 1) q connect-to-server)) q (35961 . 4)) ((c def c (c (? . 2) q struct:username-rejected)) c (? . 56)) ((c def c (c (? . 3) q imap-connection?)) q (21269 . 3)) ((c def c (c (? . 2) q not-given-headers-message)) c (? . 38)) ((c def c (c (? . 60) q smtp-send-message)) q (16575 . 29)) ((c def c (c (? . 1) q article-not-in-group)) c (? . 33)) ((c def c (c (? . 2) q make-cannot-delete-message)) c (? . 35)) ((c def c (c (? . 2) q not-given-headers)) c (? . 38)) ((c def c (c (? . 0) q entity?)) c (? . 5)) ((c def c (c (? . 34) q cookie-error?)) c (? . 54)) ((c def c (c (? . 2) q cannot-delete-message?)) c (? . 35)) ((c def c (c (? . 2) q disconnect-not-quiet)) c (? . 25)) ((c def c (c (? . 0) q mime-analyze)) q (30704 . 4)) ((c def c (c (? . 0) q entity-type)) c (? . 5)) ((q form ((lib "net/sendmail-sig.rkt") sendmail^)) q (19256 . 2)) ((c def c (c (? . 42) q extract-all-fields)) q (19567 . 5)) ((c def c (c (? . 3) q imap-pending-expunges?)) q (24240 . 3)) ((c def c (c (? . 42) q validate-header)) q (19321 . 3)) ((c def c (c (? . 2) q malformed-server-response?)) c (? . 17)) ((c def c (c (? . 34) q cookie:add-domain)) q (44519 . 4)) ((c def c (c (? . 1) q struct:bad-newsgroup-line)) c (? . 57)) ((c def c (c (? . 21) q generate-html-output)) q (43000 . 15)) ((c def c (c (? . 42) q append-headers)) q (20293 . 4)) ((c def c (c (? . 0) q malformed-multipart-entity?)) c (? . 58)) ((c def c (c (? . 2) q struct:password-rejected)) c (? . 55)) ((c def c (c (? . 30) q ws-conn-line)) q (12311 . 3)) ((c def c (c (? . 10) q current-url-encode-mode)) q (5552 . 4)) ((c def c (c (? . 1) q authentication-rejected?)) c (? . 44)) ((c def c (c (? . 28) q http-conn-live?)) q (56 . 3)) ((q def ((lib "net/mime-unit.rkt") mime@)) q (33905 . 2)) ((c def c (c (? . 1) q make-nntp)) c (? . 11)) ((c def c (c (? . 7) q url-fragment)) c (? . 8)) ((q def ((lib "net/nntp-unit.rkt") nntp@)) q (39072 . 2)) ((c def c (c (? . 28) q http-conn-open!)) q (155 . 9)) ((c def c (c (? . 10) q post-pure-port)) q (6618 . 5)) ((c def c (c (? . 0) q struct:malformed-multipart-entity)) c (? . 58)) ((q def ((lib "net/pop3-unit.rkt") pop3@)) q (30652 . 2)) ((c def c (c (? . 2) q communicator-sender)) c (? . 12)) ((c def c (c (? . 3) q imap-get-updates)) q (24325 . 5))))
+28768
+((3) 0 () 63 ((q lib "net/cookie.rkt") (q lib "net/pop3.rkt") (q lib "net/nntp.rkt") (q lib "net/imap.rkt") (q lib "net/mime.rkt") (q lib "net/url.rkt") (q lib "net/http-client.rkt") (q 30811 . 5) (q 31685 . 26) (q 33567 . 3) (q lib "net/dns.rkt") (q 39162 . 3) (q lib "net/uri-codec.rkt") (q lib "net/url-structs.rkt") (q 32448 . 16) (q 33671 . 3) (q lib "net/qp.rkt") (q 36198 . 7) (q 38885 . 4) (q lib "net/sendurl.rkt") (q 30425 . 5) (q lib "net/git-checkout.rkt") (q 48296 . 4) (q 31511 . 6) (q lib "net/head.rkt") (q 31006 . 4) (q lib "net/cgi.rkt") (q 33032 . 3) (q 45949 . 3) (q 30260 . 4) (q 38611 . 4) (q 29960 . 3) (q 33765 . 3) (q 30613 . 5) (q 27594 . 8) (q lib "net/ftp.rkt") (q 5208 . 18) (q 39016 . 4) (q 38324 . 5) (q lib "net/base64.rkt") (q 38756 . 4) (q 33124 . 4) (q 30056 . 3) (q 38488 . 4) (q 33865 . 3) (q 33418 . 4) (q 34977 . 3) (q 30158 . 3) (q lib "net/tcp-sig.rkt") (q 38249 . 3) (q 35647 . 7) (q 39404 . 3) (q 35077 . 3) (q lib "net/unihead.rkt") (q 34899 . 3) (q 39264 . 4) (q lib "net/sendmail.rkt") (q 31161 . 4) (q 33265 . 4) (q lib "net/url-sig.rkt") (q 29885 . 3) (q 5801 . 5) (q lib "net/smtp.rkt")) () (h ! (equal) ((c def c (c (? . 0) q get-cookie/single)) q (45818 . 4)) ((c def c (c (? . 4) q struct:empty-type)) c (? . 15)) ((c def c (c (? . 1) q make-cannot-delete-message)) c (? . 7)) ((c def c (c (? . 24) q remove-field)) q (20229 . 4)) ((c def c (c (? . 0) q cookie-name?)) q (44637 . 3)) ((c def c (c (? . 5) q current-no-proxy-servers)) q (10283 . 4)) ((c def c (c (? . 1) q not-given-headers-message)) c (? . 20)) ((c def c (c (? . 3) q imap-list-child-mailboxes)) q (26956 . 9)) ((c def c (c (? . 2) q article-not-found)) c (? . 55)) ((q def ((lib "net/url-connect.rkt") current-https-protocol)) q (11468 . 4)) ((c def c (c (? . 2) q make-desired-header)) q (38020 . 3)) ((c def c (c (? . 6) q http-conn-abandon!)) q (1266 . 3)) ((c def c (c (? . 1) q illegal-message-number-communicator)) c (? . 33)) ((c def c (c (? . 2) q no-group-selected)) c (? . 11)) ((c def c (c (? . 3) q imap-poll)) q (24108 . 3)) ((q form ((lib "net/sendmail-sig.rkt") sendmail^)) q (19730 . 2)) ((c def c (c (? . 4) q entity-charset)) c (? . 8)) ((c def c (c (? . 19) q send-url/contents)) q (16206 . 11)) ((c def c (c (? . 4) q struct:mime-error)) c (? . 27)) ((c def c (c (? . 5) q url->path)) q (6389 . 4)) ((c def c (c (? . 1) q not-ready-for-transaction-communicator)) c (? . 29)) ((c def c (c (? . 3) q imap-flag->symbol)) q (25610 . 3)) ((c def c (c (? . 2) q struct:bad-status-line)) c (? . 43)) ((c def c (c (? . 6) q http-conn-recv!)) q (2236 . 10)) ((c def c (c (? . 1) q cannot-delete-message)) c (? . 7)) ((c def c (c (? . 4) q entity)) c (? . 8)) ((c def c (c (? . 4) q struct:empty-mechanism)) c (? . 9)) ((c def c (c (? . 5) q get-pure-port/headers)) q (8886 . 12)) ((q def ((lib "net/smtp-unit.rkt") smtp@)) q (18595 . 2)) ((c def c (c (? . 10) q dns-get-mail-exchanger)) q (35966 . 4)) ((c def c (c (? . 4) q empty-subtype)) c (? . 32)) ((c def c (c (? . 5) q call/input-url)) q (9608 . 10)) ((c def c (c (? . 0) q cookie:add-expires)) q (45306 . 4)) ((c def c (c (? . 21) q exn:fail:git?)) c (? . 22)) ((c def c (c (? . 4) q unexpected-termination-msg)) c (? . 41)) ((c def c (c (? . 4) q empty-mechanism)) c (? . 9)) ((c def c (c (? . 5) q tcp-or-tunnel-connect)) q (11303 . 6)) ((c def c (c (? . 0) q struct:cookie-error)) c (? . 28)) ((c def c (c (? . 16) q qp-error?)) c (? . 54)) ((c def c (c (? . 13) q url-query)) c (? . 36)) ((c def c (c (? . 10) q dns-find-nameserver)) q (36086 . 2)) ((c def c (c (? . 4) q disposition-params)) c (? . 14)) ((c def c (c (? . 1) q get-message/headers)) q (28765 . 6)) ((c def c (c (? . 2) q communicator)) c (? . 17)) ((c def c (c (? . 12) q form-urlencoded->alist)) q (12707 . 4)) ((c def c (c (? . 3) q imap-get-expunges)) q (24828 . 3)) ((c def c (c (? . 2) q make-no-group-selected)) c (? . 11)) ((c def c (c (? . 56) q send-mail-message)) q (19163 . 15)) ((c def c (c (? . 6) q http-conn-close!)) q (1200 . 3)) ((c def c (c (? . 12) q alist->form-urlencoded)) q (12601 . 3)) ((c def c (c (? . 13) q path/param)) c (? . 61)) ((c def c (c (? . 4) q disposition-read)) c (? . 14)) ((c sig-val c (c (? . 48) q tcp^ tcp-connect)) q (40008 . 12)) ((c def c (c (? . 4) q empty-type)) c (? . 15)) ((c def c (c (? . 16) q make-qp-wrong-input)) c (? . 46)) ((c def c (c (? . 2) q make-non-existent-group)) c (? . 18)) ((c def c (c (? . 2) q make-communicator)) c (? . 17)) ((c def c (c (? . 2) q non-existent-group)) c (? . 18)) ((c form c (c (? . 59) q url+scheme^)) q (11695 . 2)) ((c def c (c (? . 2) q premature-close)) c (? . 30)) ((c def c (c (? . 26) q extract-binding/single)) q (43230 . 4)) ((c def c (c (? . 4) q malformed-multipart-entity)) c (? . 45)) ((c def c (c (? . 19) q send-url)) q (15621 . 7)) ((c def c (c (? . 4) q make-empty-mechanism)) c (? . 9)) ((c def c (c (? . 5) q display-pure-port)) q (8754 . 3)) ((c def c (c (? . 1) q not-given-headers-communicator)) c (? . 20)) ((c def c (c (? . 1) q cannot-connect?)) c (? . 31)) ((c def c (c (? . 6) q data-procedure/c)) q (5093 . 2)) ((c def c (c (? . 1) q delete-message)) q (29173 . 5)) ((q form ((lib "net/base64-sig.rkt") base64^)) q (34499 . 2)) ((c def c (c (? . 21) q exn:fail:git)) c (? . 22)) ((c def c (c (? . 4) q entity-id)) c (? . 8)) ((c def c (c (? . 4) q message-version)) c (? . 23)) ((c def c (c (? . 4) q message-fields)) c (? . 23)) ((q form ((lib "net/imap-sig.rkt") imap^)) q (27564 . 2)) ((c def c (c (? . 5) q netscape/string->url)) q (6167 . 3)) ((c def c (c (? . 1) q communicator-server)) c (? . 34)) ((c def c (c (? . 3) q imap-reselect)) q (23569 . 5)) ((c def c (c (? . 10) q dns-get-name)) q (35856 . 4)) ((c def c (c (? . 4) q entity-other)) c (? . 8)) ((c def c (c (? . 3) q imap-mailbox-flags)) q (27403 . 4)) ((c def c (c (? . 24) q extract-addresses)) q (21365 . 7)) ((q def ((lib "net/uri-codec-unit.rkt") uri-codec@)) q (13021 . 2)) ((c def c (c (? . 1) q disconnect-not-quiet)) c (? . 25)) ((c def c (c (? . 2) q generic-message-command)) q (37650 . 9)) ((c def c (c (? . 4) q entity-body)) c (? . 8)) ((c def c (c (? . 1) q disconnect-not-quiet?)) c (? . 25)) ((c def c (c (? . 26) q string->html)) q (44051 . 3)) ((c def c (c (? . 3) q imap-uidnext)) q (24467 . 3)) ((q def ((lib "net/mime-unit.rkt") mime@)) q (33983 . 2)) ((c def c (c (? . 5) q file-url-path-convention-type)) q (6709 . 4)) ((c def c (c (? . 3) q imap-force-disconnect)) q (23488 . 3)) ((c def c (c (? . 2) q communicator-receiver)) c (? . 17)) ((q form ((lib "net/uri-codec-sig.rkt") uri-codec^)) q (13048 . 2)) ((c def c (c (? . 4) q mime-error)) c (? . 27)) ((c def c (c (? . 53) q generalize-encoding)) q (21871 . 3)) ((c def c (c (? . 2) q unexpected-response-code)) c (? . 38)) ((c def c (c (? . 0) q valid-domain?)) q (44578 . 3)) ((c def c (c (? . 0) q cookie-error?)) c (? . 28)) ((c def c (c (? . 2) q article-not-in-group?)) c (? . 37)) ((c def c (c (? . 39) q base64-decode)) q (34155 . 3)) ((c def c (c (? . 5) q make-http-connection)) q (9460 . 2)) ((q form ((lib "net/smtp-sig.rkt") smtp^)) q (18617 . 2)) ((c def c (c (? . 1) q not-ready-for-transaction?)) c (? . 29)) ((c def c (c (? . 2) q premature-close?)) c (? . 30)) ((c def c (c (? . 35) q ftp-connection?)) q (13083 . 3)) ((c def c (c (? . 4) q make-empty-type)) c (? . 15)) ((c def c (c (? . 24) q empty-header)) q (19764 . 2)) ((c def c (c (? . 1) q struct:not-ready-for-transaction)) c (? . 29)) ((c def c (c (? . 3) q imap-new?)) q (24681 . 3)) ((c def c (c (? . 12) q uri-decode)) q (11792 . 3)) ((q form ((lib "net/nntp-sig.rkt") nntp^)) q (39540 . 2)) ((c def c (c (? . 62) q smtp-sending-end-of-message)) q (18470 . 4)) ((c def c (c (? . 2) q connect-to-server)) q (36427 . 4)) ((c def c (c (? . 1) q cannot-connect)) c (? . 31)) ((q def ((lib "net/tcp-unit.rkt") tcp@)) q (41907 . 2)) ((c def c (c (? . 1) q username-rejected?)) c (? . 42)) ((c def c (c (? . 4) q make-empty-subtype)) c (? . 32)) ((c def c (c (? . 1) q illegal-message-number)) c (? . 33)) ((c def c (c (? . 1) q communicator-state)) c (? . 34)) ((q form ((lib "net/qp-sig.rkt") qp^)) q (35205 . 2)) ((c def c (c (? . 24) q replace-field)) q (20566 . 5)) ((c def c (c (? . 35) q ftp-establish-connection)) q (13144 . 9)) ((c def c (c (? . 3) q imap-status)) q (26531 . 5)) ((c def c (c (? . 4) q struct:empty-subtype)) c (? . 32)) ((c def c (c (? . 1) q illegal-message-number-message)) c (? . 33)) ((c def c (c (? . 13) q url-fragment)) c (? . 36)) ((c def c (c (? . 4) q entity?)) c (? . 8)) ((c def c (c (? . 4) q entity-type)) c (? . 8)) ((c def c (c (? . 10) q srv-rr?)) c (? . 50)) ((c def c (c (? . 0) q cookie:add-comment)) q (44857 . 4)) ((c def c (c (? . 0) q print-cookie)) q (45632 . 3)) ((c def c (c (? . 4) q disposition-modification)) c (? . 14)) ((c def c (c (? . 4) q disposition-size)) c (? . 14)) ((c def c (c (? . 2) q make-article-not-in-group)) c (? . 37)) ((c def c (c (? . 2) q unexpected-response)) c (? . 38)) ((c def c (c (? . 5) q http-connection?)) q (9398 . 3)) ((c def c (c (? . 1) q make-desired-header)) q (29656 . 3)) ((c def c (c (? . 5) q purify-port)) q (8822 . 3)) ((c def c (c (? . 3) q imap-reset-new!)) q (24753 . 3)) ((c def c (c (? . 1) q password-rejected)) c (? . 47)) ((c def c (c (? . 5) q post-pure-port)) q (8176 . 5)) ((c def c (c (? . 2) q make-bad-newsgroup-line)) c (? . 40)) ((c def c (c (? . 24) q append-headers)) q (20767 . 4)) ((c def c (c (? . 2) q make-unexpected-response)) c (? . 38)) ((c def c (c (? . 39) q base64-encode)) q (34035 . 4)) ((c def c (c (? . 4) q entity-encoding)) c (? . 8)) ((c def c (c (? . 2) q bad-newsgroup-line-line)) c (? . 40)) ((c def c (c (? . 12) q uri-userinfo-encode)) q (12001 . 3)) ((c def c (c (? . 4) q make-unexpected-termination)) c (? . 41)) ((c def c (c (? . 13) q url-path-absolute?)) c (? . 36)) ((c def c (c (? . 26) q get-bindings/post)) q (42874 . 3)) ((c def c (c (? . 0) q cookie?)) q (44525 . 3)) ((q def ((lib "net/cgi-unit.rkt") cgi@)) q (44475 . 2)) ((c def c (c (? . 4) q make-missing-multipart-boundary-parameter)) c (? . 58)) ((q def ((lib "net/ssl-tcp-unit.rkt") make-ssl-tcp@)) q (42032 . 15)) ((c def c (c (? . 1) q make-username-rejected)) c (? . 42)) ((c def c (c (? . 4) q empty-disposition-type?)) c (? . 44)) ((c def c (c (? . 3) q imap-get-updates)) q (25021 . 5)) ((q def ((lib "net/tcp-redirect.rkt") tcp-redirect)) q (41928 . 3)) ((c def c (c (? . 1) q communicator-sender)) c (? . 34)) ((c def c (c (? . 2) q bad-status-line-line)) c (? . 43)) ((c def c (c (? . 12) q form-urlencoded-decode)) q (12528 . 3)) ((c def c (c (? . 12) q current-alist-separator-mode)) q (12809 . 5)) ((c def c (c (? . 5) q delete-impure-port)) q (7931 . 4)) ((c def c (c (? . 24) q extract-all-fields)) q (20041 . 5)) ((c def c (c (? . 4) q struct:empty-disposition-type)) c (? . 44)) ((c def c (c (? . 35) q ftp-make-directory)) q (15189 . 4)) ((c def c (c (? . 6) q http-sendrecv)) q (3499 . 20)) ((c def c (c (? . 4) q message)) c (? . 23)) ((c def c (c (? . 24) q insert-field)) q (20375 . 5)) ((c def c (c (? . 2) q authenticate-user)) q (36877 . 7)) ((c def c (c (? . 1) q cannot-delete-message-communicator)) c (? . 7)) ((c def c (c (? . 12) q uri-unreserved-encode)) q (12141 . 3)) ((c def c (c (? . 4) q make-message)) c (? . 23)) ((c def c (c (? . 4) q mime-error?)) c (? . 27)) ((q def ((lib "net/nntp-unit.rkt") nntp@)) q (39518 . 2)) ((c def c (c (? . 12) q form-urlencoded-encode)) q (12455 . 3)) ((c def c (c (? . 0) q cookie-error)) c (? . 28)) ((c def c (c (? . 6) q http-conn-liveable?)) q (117 . 3)) ((c def c (c (? . 5) q post-impure-port)) q (8463 . 5)) ((c def c (c (? . 35) q ftp-make-file-seconds)) q (13911 . 3)) ((c def c (c (? . 6) q http-conn-live?)) q (56 . 3)) ((c def c (c (? . 2) q struct:authentication-rejected)) c (? . 51)) ((c def c (c (? . 26) q generate-link-text)) q (44114 . 4)) ((c def c (c (? . 4) q make-empty-disposition-type)) c (? . 44)) ((c def c (c (? . 4) q struct:malformed-multipart-entity)) c (? . 45)) ((c def c (c (? . 2) q struct:no-group-selected)) c (? . 11)) ((c def c (c (? . 4) q empty-subtype?)) c (? . 32)) ((c def c (c (? . 6) q http-conn-send!)) q (1402 . 17)) ((c def c (c (? . 16) q qp-encode)) q (34531 . 3)) ((c def c (c (? . 4) q make-disposition)) c (? . 14)) ((q def ((lib "net/qp-unit.rkt") qp@)) q (35185 . 2)) ((c def c (c (? . 2) q no-group-selected?)) c (? . 11)) ((c def c (c (? . 5) q current-url-encode-mode)) q (6866 . 4)) ((c def c (c (? . 19) q send-url/file)) q (15846 . 9)) ((c def c (c (? . 3) q imap-noop)) q (23971 . 4)) ((c def c (c (? . 5) q head-pure-port)) q (7333 . 4)) ((c def c (c (? . 1) q not-ready-for-transaction)) c (? . 29)) ((c def c (c (? . 6) q http-conn-open!)) q (220 . 11)) ((q def ((lib "net/cookie-unit.rkt") cookie@)) q (46045 . 2)) ((c def c (c (? . 35) q ftp-cd)) q (13538 . 4)) ((c def c (c (? . 4) q message?)) c (? . 23)) ((c def c (c (? . 1) q not-given-headers)) c (? . 20)) ((c def c (c (? . 2) q nntp?)) c (? . 49)) ((c def c (c (? . 5) q url->string)) q (6235 . 3)) ((c def c (c (? . 16) q struct:qp-wrong-input)) c (? . 46)) ((c def c (c (? . 1) q password-rejected?)) c (? . 47)) ((c def c (c (? . 6) q base-ssl?/c)) q (5140 . 2)) ((c def c (c (? . 21) q struct:exn:fail:git)) c (? . 22)) ((c def c (c (? . 5) q get-pure-port)) q (7031 . 7)) ((c def c (c (? . 4) q struct:message)) c (? . 23)) ((c def c (c (? . 1) q malformed-server-response)) c (? . 57)) ((c def c (c (? . 4) q message-entity)) c (? . 23)) ((c def c (c (? . 12) q uri-path-segment-unreserved-encode)) q (12285 . 3)) ((c def c (c (? . 1) q illegal-message-number?)) c (? . 33)) ((c def c (c (? . 1) q cannot-delete-message?)) c (? . 7)) ((c sig-val c (c (? . 48) q tcp^ tcp-listener?)) q (41501 . 3)) ((c def c (c (? . 35) q ftp-delete-file)) q (15065 . 4)) ((c def c (c (? . 1) q get-unique-id/single)) q (29343 . 5)) ((c def c (c (? . 1) q get-message/body)) q (28972 . 6)) ((c def c (c (? . 26) q extract-bindings)) q (43053 . 4)) ((c def c (c (? . 1) q struct:cannot-connect)) c (? . 31)) ((c def c (c (? . 13) q url-user)) c (? . 36)) ((c def c (c (? . 16) q struct:qp-wrong-line-size)) c (? . 52)) ((c def c (c (? . 1) q get-unique-id/all)) q (29527 . 4)) ((c def c (c (? . 2) q struct:nntp)) c (? . 49)) ((c def c (c (? . 1) q struct:illegal-message-number)) c (? . 33)) ((c def c (c (? . 2) q communicator-sender)) c (? . 17)) ((c def c (c (? . 10) q srv-rr-weight)) c (? . 50)) ((c def c (c (? . 4) q empty-type?)) c (? . 15)) ((c def c (c (? . 2) q make-premature-close)) c (? . 30)) ((c def c (c (? . 13) q url)) c (? . 36)) ((c def c (c (? . 2) q authentication-rejected?)) c (? . 51)) ((c def c (c (? . 2) q communicator?)) c (? . 17)) ((c def c (c (? . 3) q imap-unseen)) q (24363 . 3)) ((c def c (c (? . 12) q uri-unreserved-decode)) q (12213 . 3)) ((c def c (c (? . 16) q qp-wrong-line-size)) c (? . 52)) ((q def ((lib "net/base64-unit.rkt") base64@)) q (34475 . 2)) ((c def c (c (? . 12) q uri-path-segment-encode)) q (11853 . 3)) ((c def c (c (? . 4) q unexpected-termination)) c (? . 41)) ((c def c (c (? . 5) q http-sendrecv/url)) q (10740 . 12)) ((c def c (c (? . 5) q options-pure-port)) q (7571 . 4)) ((c def c (c (? . 3) q imap-mailbox-exists?)) q (26696 . 4)) ((c def c (c (? . 2) q unexpected-response?)) c (? . 38)) ((c def c (c (? . 16) q qp-encode-stream)) q (34651 . 5)) ((c def c (c (? . 24) q standard-message-header)) q (20921 . 11)) ((c def c (c (? . 2) q bad-status-line?)) c (? . 43)) ((c def c (c (? . 53) q encode-for-header)) q (21743 . 3)) ((c def c (c (? . 5) q string->url)) q (6003 . 3)) ((c def c (c (? . 2) q make-bad-status-line)) c (? . 43)) ((c def c (c (? . 13) q url-path)) c (? . 36)) ((c def c (c (? . 4) q entity-subtype)) c (? . 8)) ((c def c (c (? . 3) q imap-uidvalidity)) q (24572 . 3)) ((c def c (c (? . 16) q make-qp-error)) c (? . 54)) ((c def c (c (? . 16) q qp-error)) c (? . 54)) ((q form ((lib "net/mime-sig.rkt") mime^)) q (34005 . 2)) ((c def c (c (? . 26) q get-bindings/get)) q (42964 . 3)) ((c def c (c (? . 1) q connect-to-server)) q (27899 . 4)) ((c def c (c (? . 2) q authentication-rejected)) c (? . 51)) ((q form ((lib "net/pop3-sig.rkt") pop3^)) q (31348 . 2)) ((c def c (c (? . 24) q extract-field)) q (19885 . 4)) ((c def c (c (? . 5) q proxy-server-for)) q (10474 . 5)) ((c def c (c (? . 24) q data-lines->data)) q (21292 . 3)) ((c def c (c (? . 10) q dns-get-srv)) q (35460 . 6)) ((c def c (c (? . 16) q qp-decode)) q (34591 . 3)) ((c def c (c (? . 0) q get-cookie)) q (45701 . 4)) ((c def c (c (? . 2) q article-not-found?)) c (? . 55)) ((c def c (c (? . 4) q mime-analyze)) q (31378 . 4)) ((c def c (c (? . 56) q send-mail-message/port)) q (18647 . 13)) ((c def c (c (? . 2) q struct:non-existent-group)) c (? . 18)) ((c def c (c (? . 2) q make-nntp)) c (? . 49)) ((c def c (c (? . 6) q http-conn)) q (182 . 2)) ((c def c (c (? . 0) q make-cookie-error)) c (? . 28)) ((c def c (c (? . 35) q ftp-rename-file)) q (15431 . 5)) ((c def c (c (? . 3) q imap-append)) q (26233 . 7)) ((c def c (c (? . 10) q dns-get-address)) q (35233 . 7)) ((c def c (c (? . 2) q bad-status-line)) c (? . 43)) ((c def c (c (? . 3) q imap-messages)) q (24177 . 3)) ((c def c (c (? . 2) q struct:communicator)) c (? . 17)) ((c def c (c (? . 1) q communicator)) c (? . 34)) ((c def c (c (? . 35) q ftp-upload-file)) q (14575 . 11)) ((c def c (c (? . 19) q browser-preference?)) q (16938 . 3)) ((c def c (c (? . 1) q struct:disconnect-not-quiet)) c (? . 25)) ((c def c (c (? . 2) q disconnect-from-server)) q (36573 . 3)) ((c def c (c (? . 6) q http-conn-enliven!)) q (1334 . 3)) ((c def c (c (? . 1) q pop3)) c (? . 60)) ((c def c (c (? . 1) q disconnect-not-quiet-communicator)) c (? . 25)) ((c def c (c (? . 13) q url-host)) c (? . 36)) ((c def c (c (? . 19) q external-browser)) q (16817 . 4)) ((c def c (c (? . 1) q username-rejected)) c (? . 42)) ((c def c (c (? . 1) q malformed-server-response?)) c (? . 57)) ((c def c (c (? . 53) q decode-for-header)) q (21807 . 3)) ((c def c (c (? . 2) q nntp)) c (? . 49)) ((c def c (c (? . 4) q disposition?)) c (? . 14)) ((q form ((lib "net/cgi-sig.rkt") cgi^)) q (44496 . 2)) ((q def ((lib "net/sendmail-unit.rkt") sendmail@)) q (19704 . 2)) ((c def c (c (? . 16) q qp-wrong-line-size?)) c (? . 52)) ((c def c (c (? . 2) q struct:article-not-found)) c (? . 55)) ((c form c (c (? . 48) q tcp^)) q (39570 . 2)) ((c def c (c (? . 1) q cannot-delete-message-message)) c (? . 7)) ((c def c (c (? . 1) q not-given-headers?)) c (? . 20)) ((c def c (c (? . 1) q struct:not-given-headers)) c (? . 20)) ((c def c (c (? . 4) q disposition-type)) c (? . 14)) ((c sig-val c (c (? . 48) q tcp^ tcp-accept-ready?)) q (41342 . 3)) ((c def c (c (? . 1) q struct:malformed-server-response)) c (? . 57)) ((c def c (c (? . 13) q url-scheme)) c (? . 36)) ((c def c (c (? . 21) q current-git-username)) q (48018 . 4)) ((c def c (c (? . 5) q relative-path->relative-url-string)) q (6539 . 4)) ((c def c (c (? . 3) q imap-pending-expunges?)) q (24936 . 3)) ((c def c (c (? . 1) q malformed-server-response-communicator)) c (? . 57)) ((c def c (c (? . 1) q communicator?)) c (? . 34)) ((c def c (c (? . 35) q ftp-close-connection)) q (13451 . 3)) ((c def c (c (? . 12) q uri-path-segment-decode)) q (11927 . 3)) ((c def c (c (? . 21) q make-exn:fail:git)) c (? . 22)) ((c def c (c (? . 1) q make-malformed-server-response)) c (? . 57)) ((c def c (c (? . 4) q entity-params)) c (? . 8)) ((c def c (c (? . 3) q symbol->imap-flag)) q (25680 . 3)) ((c def c (c (? . 5) q combine-url/relative)) q (6065 . 4)) ((c def c (c (? . 4) q unexpected-termination?)) c (? . 41)) ((c def c (c (? . 12) q uri-userinfo-decode)) q (12071 . 3)) ((c def c (c (? . 4) q struct:unexpected-termination)) c (? . 41)) ((c def c (c (? . 2) q non-existent-group-group)) c (? . 18)) ((c def c (c (? . 19) q unix-browser-list)) q (17003 . 2)) ((c def c (c (? . 10) q srv-rr-priority)) c (? . 50)) ((c def c (c (? . 3) q imap-store)) q (25748 . 6)) ((c def c (c (? . 5) q head-impure-port)) q (7811 . 4)) ((c def c (c (? . 3) q imap-port-number)) q (22674 . 4)) ((c def c (c (? . 4) q missing-multipart-boundary-parameter)) c (? . 58)) ((c def c (c (? . 5) q put-pure-port)) q (8320 . 5)) ((c def c (c (? . 1) q struct:username-rejected)) c (? . 42)) ((c def c (c (? . 3) q imap-get-hierarchy-delimiter)) q (27314 . 3)) ((c def c (c (? . 1) q authenticate/plain-text)) q (28140 . 7)) ((c def c (c (? . 5) q url-exception?)) q (10680 . 3)) ((c def c (c (? . 5) q options-impure-port)) q (8053 . 4)) ((q form ((lib "net/ftp-sig.rkt") ftp^)) q (15592 . 2)) ((c def c (c (? . 26) q generate-html-output)) q (43446 . 15)) ((c def c (c (? . 16) q qp-wrong-input?)) c (? . 46)) ((c def c (c (? . 13) q make-url)) c (? . 36)) ((c def c (c (? . 2) q article-not-in-group)) c (? . 37)) ((c def c (c (? . 3) q imap-connection?)) q (21965 . 3)) ((c def c (c (? . 3) q imap-create-mailbox)) q (26828 . 4)) ((c def c (c (? . 16) q struct:qp-error)) c (? . 54)) ((c def c (c (? . 4) q struct:disposition)) c (? . 14)) ((c def c (c (? . 26) q generate-error-output)) q (44218 . 3)) ((c def c (c (? . 1) q make-password-rejected)) c (? . 47)) ((c def c (c (? . 3) q imap-get-messages)) q (25275 . 8)) ((c form c (c (? . 59) q url^)) q (11666 . 2)) ((c def c (c (? . 4) q entity-parts)) c (? . 8)) ((c def c (c (? . 39) q base64-decode-stream)) q (34374 . 4)) ((c def c (c (? . 4) q empty-disposition-type)) c (? . 44)) ((c def c (c (? . 0) q cookie:add-path)) q (45203 . 4)) ((q def ((lib "net/pop3-unit.rkt") pop3@)) q (31326 . 2)) ((c def c (c (? . 4) q disposition-filename)) c (? . 14)) ((c def c (c (? . 1) q struct:cannot-delete-message)) c (? . 7)) ((c def c (c (? . 6) q http-conn-open)) q (753 . 9)) ((c def c (c (? . 5) q get-impure-port)) q (7692 . 4)) ((c def c (c (? . 1) q struct:communicator)) c (? . 34)) ((c def c (c (? . 4) q make-mime-error)) c (? . 27)) ((c def c (c (? . 0) q cookie-value?)) q (44695 . 3)) ((c def c (c (? . 0) q cookie:add-domain)) q (44965 . 4)) ((c def c (c (? . 6) q http-conn-sendrecv!)) q (2647 . 18)) ((c def c (c (? . 2) q extract-desired-headers)) q (38104 . 4)) ((c def c (c (? . 4) q malformed-multipart-entity?)) c (? . 45)) ((c def c (c (? . 4) q make-malformed-multipart-entity)) c (? . 45)) ((c def c (c (? . 2) q make-authentication-rejected)) c (? . 51)) ((c def c (c (? . 2) q communicator-port)) c (? . 17)) ((c def c (c (? . 2) q bad-newsgroup-line)) c (? . 40)) ((c def c (c (? . 2) q head-of-message)) q (37102 . 5)) ((c def c (c (? . 1) q make-pop3)) c (? . 60)) ((c def c (c (? . 26) q output-http-headers)) q (43403 . 2)) ((c def c (c (? . 5) q path->url)) q (6294 . 3)) ((c def c (c (? . 0) q set-cookie)) q (44754 . 4)) ((c def c (c (? . 2) q struct:bad-newsgroup-line)) c (? . 40)) ((c def c (c (? . 3) q imap-connect)) q (22027 . 15)) ((c def c (c (? . 1) q make-not-given-headers)) c (? . 20)) ((c def c (c (? . 4) q disposition)) c (? . 14)) ((c sig-val c (c (? . 48) q tcp^ tcp-accept)) q (41139 . 3)) ((c def c (c (? . 2) q body-of-message)) q (37295 . 5)) ((c def c (c (? . 4) q make-entity)) c (? . 8)) ((c def c (c (? . 1) q extract-desired-headers)) q (29740 . 4)) ((c def c (c (? . 0) q cookie:version)) q (45509 . 4)) ((c def c (c (? . 2) q make-article-not-found)) c (? . 55)) ((c sig-val c (c (? . 48) q tcp^ tcp-addresses)) q (41633 . 7)) ((c def c (c (? . 4) q struct:entity)) c (? . 8)) ((q def ((lib "net/imap-unit.rkt") imap@)) q (27542 . 2)) ((q def ((lib "net/dns-unit.rkt") dns@)) q (36148 . 2)) ((q def ((lib "net/head-unit.rkt") head@)) q (21691 . 2)) ((c def c (c (? . 35) q ftp-delete-directory)) q (15309 . 4)) ((c def c (c (? . 2) q open-news-group)) q (36668 . 7)) ((c def c (c (? . 16) q qp-decode-stream)) q (34802 . 4)) ((c def c (c (? . 3) q imap-expunge)) q (25969 . 3)) ((c def c (c (? . 4) q empty-mechanism?)) c (? . 9)) ((c def c (c (? . 13) q path/param-path)) c (? . 61)) ((c def c (c (? . 3) q imap-connect*)) q (22797 . 18)) ((c def c (c (? . 13) q struct:url)) c (? . 36)) ((c def c (c (? . 1) q make-communicator)) c (? . 34)) ((c def c (c (? . 1) q disconnect-from-server)) q (28045 . 3)) ((c def c (c (? . 2) q premature-close-communicator)) c (? . 30)) ((c def c (c (? . 2) q article-not-in-group-article)) c (? . 37)) ((c def c (c (? . 2) q unexpected-response-text)) c (? . 38)) ((c def c (c (? . 6) q http-conn?)) q (0 . 3)) ((q def ((lib "net/url-unit.rkt") url@)) q (11645 . 2)) ((c sig-val c (c (? . 48) q tcp^ tcp-abandon-port)) q (41560 . 3)) ((c def c (c (? . 26) q get-cgi-method)) q (44298 . 2)) ((c def c (c (? . 2) q bad-newsgroup-line?)) c (? . 40)) ((c def c (c (? . 10) q srv-rr)) c (? . 50)) ((c def c (c (? . 5) q put-impure-port)) q (8609 . 5)) ((c def c (c (? . 10) q struct:srv-rr)) c (? . 50)) ((c def c (c (? . 4) q struct:missing-multipart-boundary-parameter)) c (? . 58)) ((c def c (c (? . 2) q communicator-server)) c (? . 17)) ((c def c (c (? . 35) q ftp-directory-list)) q (13644 . 7)) ((c def c (c (? . 16) q qp-wrong-input)) c (? . 46)) ((c def c (c (? . 35) q ftp-download-file)) q (14000 . 13)) ((c def c (c (? . 26) q bindings-as-html)) q (44356 . 3)) ((c def c (c (? . 13) q path/param-param)) c (? . 61)) ((c def c (c (? . 13) q url?)) c (? . 36)) ((c def c (c (? . 5) q url-regexp)) q (5974 . 2)) ((c def c (c (? . 5) q delete-pure-port)) q (7451 . 4)) ((c def c (c (? . 3) q imap-copy)) q (26041 . 5)) ((c def c (c (? . 1) q struct:pop3)) c (? . 60)) ((c def c (c (? . 5) q current-proxy-servers)) q (9980 . 5)) ((q form ((lib "net/dns-sig.rkt") dns^)) q (36169 . 2)) ((q form ((lib "net/head-sig.rkt") head^)) q (21713 . 2)) ((c def c (c (? . 4) q malformed-multipart-entity-msg)) c (? . 45)) ((c def c (c (? . 13) q struct:path/param)) c (? . 61)) ((c sig-val c (c (? . 48) q tcp^ tcp-accept/enable-break)) q (41234 . 3)) ((c def c (c (? . 21) q git-checkout)) q (46101 . 37)) ((c def c (c (? . 4) q entity-disposition)) c (? . 8)) ((c sig-val c (c (? . 48) q tcp^ tcp-connect/enable-break)) q (40560 . 13)) ((c def c (c (? . 1) q make-illegal-message-number)) c (? . 33)) ((c def c (c (? . 62) q smtp-send-message)) q (17049 . 29)) ((c def c (c (? . 10) q srv-rr-port)) c (? . 50)) ((c def c (c (? . 2) q struct:premature-close)) c (? . 30)) ((c sig-val c (c (? . 48) q tcp^ tcp-close)) q (41427 . 3)) ((c def c (c (? . 0) q cookie:secure)) q (45407 . 4)) ((c def c (c (? . 0) q cookie:add-max-age)) q (45076 . 4)) ((c def c (c (? . 1) q make-disconnect-not-quiet)) c (? . 25)) ((c def c (c (? . 4) q disposition-creation)) c (? . 14)) ((c def c (c (? . 1) q make-not-ready-for-transaction)) c (? . 29)) ((c def c (c (? . 5) q http-connection-close)) q (9515 . 3)) ((c def c (c (? . 1) q communicator-port)) c (? . 34)) ((c def c (c (? . 13) q path/param?)) c (? . 61)) ((c def c (c (? . 12) q uri-path-segment-unreserved-decode)) q (12370 . 3)) ((c def c (c (? . 3) q imap-examine)) q (23771 . 5)) ((c def c (c (? . 13) q make-path/param)) c (? . 61)) ((q form ((lib "net/cookie-sig.rkt") cookie^)) q (46069 . 2)) ((c def c (c (? . 39) q base64-encode-stream)) q (34219 . 5)) ((c def c (c (? . 12) q uri-encode)) q (11731 . 3)) ((c def c (c (? . 2) q struct:article-not-in-group)) c (? . 37)) ((c def c (c (? . 5) q proxiable-url-schemes)) q (10202 . 3)) ((c sig-val c (c (? . 48) q tcp^ tcp-listen)) q (39599 . 10)) ((c def c (c (? . 16) q make-qp-wrong-line-size)) c (? . 52)) ((c def c (c (? . 13) q url-port)) c (? . 36)) ((c def c (c (? . 21) q current-git-password)) q (48157 . 4)) ((c def c (c (? . 1) q pop3?)) c (? . 60)) ((c def c (c (? . 3) q imap-pending-updates?)) q (25191 . 3)) ((c def c (c (? . 24) q assemble-address-field)) q (21604 . 3)) ((c def c (c (? . 2) q article-not-found-article)) c (? . 55)) ((c def c (c (? . 1) q communicator-receiver)) c (? . 34)) ((c def c (c (? . 4) q entity-description)) c (? . 8)) ((c def c (c (? . 1) q make-cannot-connect)) c (? . 31)) ((c def c (c (? . 10) q srv-rr-target)) c (? . 50)) ((c def c (c (? . 24) q validate-header)) q (19795 . 3)) ((c def c (c (? . 4) q entity-fields)) c (? . 8)) ((c def c (c (? . 2) q newnews-since)) q (37488 . 4)) ((q def ((lib "net/ftp-unit.rkt") ftp@)) q (15571 . 2)) ((c def c (c (? . 1) q get-mailbox-status)) q (28380 . 4)) ((c def c (c (? . 1) q get-message/complete)) q (28556 . 6)) ((c def c (c (? . 26) q get-bindings)) q (42789 . 3)) ((c def c (c (? . 1) q struct:password-rejected)) c (? . 47)) ((c def c (c (? . 3) q imap-recent)) q (24271 . 3)) ((c def c (c (? . 6) q base-ssl?-tnl/c)) q (5172 . 2)) ((c def c (c (? . 4) q missing-multipart-boundary-parameter?)) c (? . 58)) ((c def c (c (? . 2) q non-existent-group?)) c (? . 18)) ((c def c (c (? . 19) q send-url/mac)) q (16691 . 4)) ((c def c (c (? . 3) q imap-disconnect)) q (23413 . 3)) ((c def c (c (? . 6) q http-conn-CONNECT-tunnel)) q (4437 . 14)) ((c def c (c (? . 2) q struct:unexpected-response)) c (? . 38))))
 procedure
 (http-conn? x) -> boolean?
   x : any/c
@@ -7,23 +7,30 @@ procedure
 (http-conn-live? x) -> boolean?
   x : any/c
 procedure
+(http-conn-liveable? x) -> boolean?
+  x : any/c
+procedure
 (http-conn) -> http-conn?
 procedure
-(http-conn-open!  hc                
-                  host              
-                 [#:ssl? ssl?       
-                  #:port port]) -> void?
+(http-conn-open!  hc                                      
+                  host                                    
+                 [#:ssl? ssl?                             
+                  #:port port                             
+                  #:auto-reconnect? auto-reconnect?]) -> void?
   hc : http-conn?
   host : (or/c bytes? string?)
-  ssl? : (or/c boolean? ssl-client-context? symbol?) = #f
+  ssl? : base-ssl?-tnl/c = #f
   port : (between/c 1 65535) = (if ssl? 443 80)
+  auto-reconnect? : boolean? = #f
 procedure
-(http-conn-open  host              
-                [#:ssl? ssl?       
-                 #:port port]) -> http-conn?
+(http-conn-open  host                                    
+                [#:ssl? ssl?                             
+                 #:port port                             
+                 #:auto-reconnect? auto-reconnect?]) -> http-conn?
   host : (or/c bytes? string?)
-  ssl? : (or/c boolean? ssl-client-context? symbol?) = #f
+  ssl? : base-ssl?-tnl/c = #f
   port : (between/c 1 65535) = (if ssl? 443 80)
+  auto-reconnect? : boolean? = #f
 procedure
 (http-conn-close! hc) -> void?
   hc : http-conn?
@@ -31,27 +38,34 @@ procedure
 (http-conn-abandon! hc) -> void?
   hc : http-conn?
 procedure
+(http-conn-enliven! hc) -> void?
+  hc : http-conn?
+procedure
 (http-conn-send!  hc                           
                   uri                          
                  [#:version version            
                   #:method method              
+                  #:close? close?              
                   #:headers headers            
                   #:content-decode decodes     
                   #:data data])            -> void?
-  hc : http-conn-live?
+  hc : http-conn-liveable?
   uri : (or/c bytes? string?)
   version : (or/c bytes? string?) = #"1.1"
   method : (or/c bytes? string? symbol?) = #"GET"
+  close? : boolean? = #f
   headers : (listof (or/c bytes? string?)) = empty
   decodes : (listof symbol?) = '(gzip)
-  data : (or/c false/c bytes? string?) = #f
+  data : (or/c false/c bytes? string? data-procedure/c) = #f
 procedure
 (http-conn-recv!  hc                       
                  [#:content-decode decodes 
+                  #:method method          
                   #:close? close?])        
  -> bytes? (listof bytes?) input-port?
-  hc : http-conn-live?
+  hc : http-conn-liveable?
   decodes : (listof symbol?) = '(gzip)
+  method : (or/c bytes? string? symbol?) = #"GET"
   close? : boolean? = #f
 procedure
 (http-conn-sendrecv!  hc                       
@@ -63,12 +77,12 @@ procedure
                       #:content-decode decodes 
                       #:close? close?])        
  -> bytes? (listof bytes?) input-port?
-  hc : http-conn-live?
+  hc : http-conn-liveable?
   uri : (or/c bytes? string?)
   version : (or/c bytes? string?) = #"1.1"
   method : (or/c bytes? string? symbol?) = #"GET"
   headers : (listof (or/c bytes? string?)) = empty
-  data : (or/c false/c bytes? string?) = #f
+  data : (or/c false/c bytes? string? data-procedure/c) = #f
   decodes : (listof symbol?) = '(gzip)
   close? : boolean? = #f
 procedure
@@ -84,23 +98,43 @@ procedure
  -> bytes? (listof bytes?) input-port?
   host : (or/c bytes? string?)
   uri : (or/c bytes? string?)
-  ssl? : (or/c boolean? ssl-client-context? symbol?) = #f
+  ssl? : base-ssl?-tnl/c = #f
   port : (between/c 1 65535) = (if ssl? 443 80)
   version : (or/c bytes? string?) = #"1.1"
   method : (or/c bytes? string? symbol?) = #"GET"
   headers : (listof (or/c bytes? string?)) = empty
-  data : (or/c false/c bytes? string?) = #f
+  data : (or/c false/c bytes? string? data-procedure/c) = #f
   decodes : (listof symbol?) = '(gzip)
+procedure
+(http-conn-CONNECT-tunnel  proxy-host        
+                           proxy-port        
+                           target-host       
+                           target-port       
+                          [#:ssl? ssl?]) -> base-ssl?/c
+                                            input-port?
+                                            output-port?
+                                            (-> port? void?)
+  proxy-host : (or/c bytes? string?)
+  proxy-port : (between/c 1 65535)
+  target-host : (or/c bytes? string?)
+  target-port : (between/c 1 65535)
+  ssl? : base-ssl?/c = #f
+value
+data-procedure/c : chaperone-contract?
+value
+base-ssl?/c : contract?
+value
+base-ssl?-tnl/c : contract?
 struct
-(struct url                                (scheme
-                                           user
-                                           host
-                                           port
-                                           path-absolute?
-                                           path
-                                           query
-                                           fragment)
-        #:extra-constructor-name make-url)
+(struct url (scheme
+             user
+             host
+             port
+             path-absolute?
+             path
+             query
+             fragment)
+    #:extra-constructor-name make-url)
   scheme : (or/c false/c string?)
   user : (or/c false/c string?)
   host : (or/c false/c string?)
@@ -111,13 +145,14 @@ struct
   fragment : (or/c false/c string?)
 struct
 (struct path/param (path param)
-        #:extra-constructor-name make-path/param)
+    #:extra-constructor-name make-path/param)
   path : (or/c string? (or/c 'up 'same))
   param : (listof string?)
+value
+url-regexp : regexp?
 procedure
 (string->url str) -> url?
-  str : (or/c (not/c #rx"^([^:/?#]*):")
-              #rx"^[a-zA-Z][a-zA-Z0-9+.-]*:")
+  str : url-regexp
 procedure
 (combine-url/relative base relative) -> url?
   base : url?
@@ -135,6 +170,10 @@ procedure
 (url->path URL [kind]) -> path-for-some-system?
   URL : url?
   kind : (or/c 'unix 'windows) = (system-path-convention-type)
+procedure
+(relative-path->relative-url-string path) -> string?
+  path : (and/c (or/c path-string? path-for-some-system?)
+                relative-path?)
 parameter
 (file-url-path-convention-type) -> (or/c 'unix 'windows)
 (file-url-path-convention-type kind) -> void?
@@ -159,6 +198,10 @@ procedure
   URL : url?
   header : (listof string?) = null
 procedure
+(options-pure-port URL [header]) -> input-port?
+  URL : url?
+  header : (listof string?) = null
+procedure
 (get-impure-port URL [header]) -> input-port?
   URL : url?
   header : (listof string?) = null
@@ -168,6 +211,10 @@ procedure
   header : (listof string?) = null
 procedure
 (delete-impure-port URL [header]) -> input-port?
+  URL : url?
+  header : (listof string?) = null
+procedure
+(options-impure-port URL [header]) -> input-port?
   URL : url?
   header : (listof string?) = null
 procedure
@@ -231,6 +278,18 @@ parameter
  -> (listof (list/c string? string? (integer-in 0 65535)))
 (current-proxy-servers mapping) -> void?
   mapping : (listof (list/c string? string? (integer-in 0 65535)))
+value
+proxiable-url-schemes : (listof string?)
+ = '("http" "https" "git")
+parameter
+(current-no-proxy-servers) -> (listof (or/c string? regexp?))
+(current-no-proxy-servers dest-hosts-list) -> void?
+  dest-hosts-list : (listof (or/c string? regexp?))
+procedure
+(proxy-server-for url-schm [dest-host-name])
+ -> (or/c (list/c string? string? (integer-in 0 65535)) #f)
+  url-schm : string?
+  dest-host-name : (or/c false/c string?) = #f
 procedure
 (url-exception? x) -> boolean?
   x : any/c
@@ -244,8 +303,14 @@ procedure
   u : url?
   method : (or/c bytes? string? symbol?) = #"GET"
   headers : (listof (or/c bytes? string?)) = empty
-  data : (or/c false/c bytes? string?) = #f
+  data : (or/c false/c bytes? string? data-procedure/c) = #f
   decodes : (listof symbol?) = '(gzip)
+procedure
+(tcp-or-tunnel-connect scheme host port)
+ -> input-port? output-port?
+  scheme : string?
+  host : string?
+  port : (between/c 1 65535)
 parameter
 (current-https-protocol) -> (or/c ssl-client-context? symbol?)
 (current-https-protocol protocol) -> void?
@@ -308,63 +373,6 @@ value
 uri-codec@ : unit?
 signature
 uri-codec^ : signature
-procedure
-(ws-url? x) -> boolean?
-  x : any/c
-procedure
-(wss-url? x) -> boolean?
-  x : any/c
-procedure
-(ws-connect u [#:headers headers]) -> open-ws-conn?
-  u : ws-url?
-  headers : (listof header?) = empty
-procedure
-(ws-serve  conn-handle                             
-          [#:conn-headers conn-headers             
-           #:tcp@ tcp@                             
-           #:port port                             
-           #:listen-ip listen-ip                   
-           #:max-waiting max-waiting               
-           #:timeout timeout                       
-           #:confirmation-channel confirm-ch]) -> (-> void)
-  conn-handle : (open-ws-conn? any/c . -> . void)
-  conn-headers : (bytes? (listof header?) . -> . (values (listof header?) any/c))
-               = (λ (b hs) (values empty (void)))
-  tcp@ : (unit/c (import) (export tcp^)) = raw:tcp@
-  port : tcp-listen-port? = 80
-  listen-ip : (or/c string? false/c) = #f
-  max-waiting : integer? = 4
-  timeout : integer? = (* 60 60)
-  confirm-ch : (or/c false/c async-channel?) = #f
-parameter
-(framing-mode) -> (symbols 'old 'new)
-(framing-mode mode) -> void?
-  mode : (symbols 'old 'new)
-procedure
-(ws-conn? x) -> boolean?
-  x : any/c
-procedure
-(open-ws-conn? x) -> boolean?
-  x : any/c
-procedure
-(ws-conn-line ws) -> bytes?
-  ws : ws-conn?
-procedure
-(ws-conn-closed? ws) -> boolean?
-  ws : ws-conn?
-procedure
-(ws-conn-headers ws) -> (listof header?)
-  ws : ws-conn?
-procedure
-(ws-send! ws s) -> void
-  ws : open-ws-conn?
-  s : string?
-procedure
-(ws-recv ws) -> (or/c string? eof-object?)
-  ws : open-ws-conn?
-procedure
-(ws-close! ws) -> void
-  ws : open-ws-conn?
 procedure
 (ftp-connection? v) -> boolean?
   v : any/c
@@ -440,9 +448,9 @@ ftp@ : unit?
 signature
 ftp^ : signature
 procedure
-(send-url  str                    
-          [separate-window?       
-           #:escape escape?]) -> void?
+(send-url  str                     
+          [separate-window?        
+           #:escape? escape?]) -> void?
   str : string?
   separate-window? : any/c = #t
   escape? : any/c = #t
@@ -466,6 +474,10 @@ procedure
   fragment : (or/c string? false/c) = #f
   query : (or/c string? false/c) = #f
   seconds : (or/c number? false/c) = #f
+procedure
+(send-url/mac url [#:browser browser]) -> void?
+  url : string?
+  browser : (or/c string? #f) = #f
 parameter
 (external-browser) -> browser-preference?
 (external-browser cmd) -> void?
@@ -604,6 +616,15 @@ value
 head@ : unit?
 signature
 head^ : signature
+procedure
+(encode-for-header s) -> string?
+  s : string?
+procedure
+(decode-for-header s) -> string?
+  s : string?
+procedure
+(generalize-encoding s) -> (or string? bytes?)
+  s : (or string? bytes?)
 procedure
 (imap-connection? v) -> boolean?
   v : any/c
@@ -772,7 +793,7 @@ signature
 imap^ : signature
 struct
 (struct communicator (sender receiver server port state)
-        #:extra-constructor-name make-communicator)
+    #:extra-constructor-name make-communicator)
   sender : output-port?
   receiver : input-port?
   server : string?
@@ -837,42 +858,42 @@ procedure
   desireds : (listof regexp?)
 struct
 (struct pop3 exn ()
-        #:extra-constructor-name make-pop3)
+    #:extra-constructor-name make-pop3)
 struct
 (struct cannot-connect pop3 ()
-        #:extra-constructor-name make-cannot-connect)
+    #:extra-constructor-name make-cannot-connect)
 struct
 (struct username-rejected pop3 ()
-        #:extra-constructor-name make-username-rejected)
+    #:extra-constructor-name make-username-rejected)
 struct
 (struct password-rejected pop3 ()
-        #:extra-constructor-name make-password-rejected)
+    #:extra-constructor-name make-password-rejected)
 struct
 (struct not-ready-for-transaction pop3 (communicator)
-        #:extra-constructor-name make-not-ready-for-transaction)
+    #:extra-constructor-name make-not-ready-for-transaction)
   communicator : communicator?
 struct
 (struct not-given-headers pop3 (communicator message)
-        #:extra-constructor-name make-not-given-headers)
+    #:extra-constructor-name make-not-given-headers)
   communicator : communicator?
   message : exact-integer?
 struct
 (struct illegal-message-number pop3 (communicator message)
-        #:extra-constructor-name make-illegal-message-number)
+    #:extra-constructor-name make-illegal-message-number)
   communicator : communicator?
   message : exact-integer?
 struct
 (struct cannot-delete-message exn (communicator message)
-        #:extra-constructor-name make-cannot-delete-message)
+    #:extra-constructor-name make-cannot-delete-message)
   communicator : communicator?
   message : exact-integer?
 struct
 (struct disconnect-not-quiet pop3 (communicator)
-        #:extra-constructor-name make-disconnect-not-quiet)
+    #:extra-constructor-name make-disconnect-not-quiet)
   communicator : communicator?
 struct
 (struct malformed-server-response pop3 (communicator)
-        #:extra-constructor-name make-malformed-server-response)
+    #:extra-constructor-name make-malformed-server-response)
   communicator : communicator?
 value
 pop3@ : unit?
@@ -884,24 +905,24 @@ procedure
   part? : any/c = #f
 struct
 (struct message (version entity fields)
-        #:extra-constructor-name make-message)
+    #:extra-constructor-name make-message)
   version : real?
   entity : entity
   fields : (listof string?)
 struct
-(struct entity                                (type
-                                              subtype
-                                              charset
-                                              encoding
-                                              disposition
-                                              params
-                                              id
-                                              description
-                                              other
-                                              fields
-                                              parts
-                                              body)
-        #:extra-constructor-name make-entity)
+(struct entity (type
+                subtype
+                charset
+                encoding
+                disposition
+                params
+                id
+                description
+                other
+                fields
+                parts
+                body)
+    #:extra-constructor-name make-entity)
   type : symbol?
   subtype : symbol?
   charset : symbol?
@@ -915,14 +936,14 @@ struct
   parts : (listof message?)
   body : (or/c (output-port? . -> . void?) null?)
 struct
-(struct disposition                                (type
-                                                   filename
-                                                   creation
-                                                   modification
-                                                   read
-                                                   size
-                                                   params)
-        #:extra-constructor-name make-disposition)
+(struct disposition (type
+                     filename
+                     creation
+                     modification
+                     read
+                     size
+                     params)
+    #:extra-constructor-name make-disposition)
   type : symbol?
   filename : (or/c string? false/c)
   creation : (or/c string? false/c)
@@ -932,31 +953,31 @@ struct
   params : (listof (cons/c symbol? string?))
 struct
 (struct mime-error exn:fail ()
-        #:extra-constructor-name make-mime-error)
+    #:extra-constructor-name make-mime-error)
 struct
 (struct unexpected-termination mime-error (msg)
-        #:extra-constructor-name make-unexpected-termination)
+    #:extra-constructor-name make-unexpected-termination)
   msg : string?
 struct
 (struct missing-multipart-boundary-parameter mime-error ()
-        #:extra-constructor-name
-        make-missing-multipart-boundary-parameter)
+    #:extra-constructor-name
+    make-missing-multipart-boundary-parameter)
 struct
 (struct malformed-multipart-entity mime-error (msg)
-        #:extra-constructor-name make-malformed-multipart-entity)
+    #:extra-constructor-name make-malformed-multipart-entity)
   msg : string?
 struct
 (struct empty-mechanism mime-error ()
-        #:extra-constructor-name make-empty-mechanism)
+    #:extra-constructor-name make-empty-mechanism)
 struct
 (struct empty-type mime-error ()
-        #:extra-constructor-name make-empty-type)
+    #:extra-constructor-name make-empty-type)
 struct
 (struct empty-subtype mime-error ()
-        #:extra-constructor-name make-empty-subtype)
+    #:extra-constructor-name make-empty-subtype)
 struct
 (struct empty-disposition-type mime-error ()
-        #:extra-constructor-name make-empty-disposition-type)
+    #:extra-constructor-name make-empty-disposition-type)
 value
 mime@ : unit?
 signature
@@ -998,13 +1019,13 @@ procedure
   out : output-port?
 struct
 (struct qp-error ()
-        #:extra-constructor-name make-qp-error)
+    #:extra-constructor-name make-qp-error)
 struct
 (struct qp-wrong-input qp-error ()
-        #:extra-constructor-name make-qp-wrong-input)
+    #:extra-constructor-name make-qp-wrong-input)
 struct
 (struct qp-wrong-line-size qp-error ()
-        #:extra-constructor-name make-qp-wrong-line-size)
+    #:extra-constructor-name make-qp-wrong-line-size)
 value
 qp@ : unit?
 signature
@@ -1016,6 +1037,19 @@ procedure
   nameserver : string?
   address : string?
   ipv6? : any/c = #f
+procedure
+(dns-get-srv nameserver name service [proto]) -> (listof srv-rr?)
+  nameserver : string?
+  name : string?
+  service : string?
+  proto : string? = "tcp"
+struct
+(struct srv-rr (priority weight port target)
+    #:prefab)
+  priority : (integer-in 0 65535)
+  weight : (integer-in 0 65535)
+  port : (integer-in 0 65535)
+  target : string?
 procedure
 (dns-get-name nameserver address) -> string?
   nameserver : string?
@@ -1032,7 +1066,7 @@ signature
 dns^ : signature
 struct
 (struct communicator (sender receiver server port)
-        #:extra-constructor-name make-communicator)
+    #:extra-constructor-name make-communicator)
   sender : output-port?
   receiver : input-port?
   server : string?
@@ -1090,42 +1124,42 @@ procedure
   desireds : (listof regexp?)
 struct
 (struct nntp exn ()
-        #:extra-constructor-name make-nntp)
+    #:extra-constructor-name make-nntp)
 struct
 (struct unexpected-response nntp (code text)
-        #:extra-constructor-name make-unexpected-response)
+    #:extra-constructor-name make-unexpected-response)
   code : exact-integer?
   text : string?
 struct
 (struct bad-status-line nntp (line)
-        #:extra-constructor-name make-bad-status-line)
+    #:extra-constructor-name make-bad-status-line)
   line : string?
 struct
 (struct premature-close nntp (communicator)
-        #:extra-constructor-name make-premature-close)
+    #:extra-constructor-name make-premature-close)
   communicator : communicator?
 struct
 (struct bad-newsgroup-line nntp (line)
-        #:extra-constructor-name make-bad-newsgroup-line)
+    #:extra-constructor-name make-bad-newsgroup-line)
   line : string?
 struct
 (struct non-existent-group nntp (group)
-        #:extra-constructor-name make-non-existent-group)
+    #:extra-constructor-name make-non-existent-group)
   group : string?
 struct
 (struct article-not-in-group nntp (article)
-        #:extra-constructor-name make-article-not-in-group)
+    #:extra-constructor-name make-article-not-in-group)
   article : exact-integer?
 struct
 (struct no-group-selected nntp ()
-        #:extra-constructor-name make-no-group-selected)
+    #:extra-constructor-name make-no-group-selected)
 struct
 (struct article-not-found nntp (article)
-        #:extra-constructor-name make-article-not-found)
+    #:extra-constructor-name make-article-not-found)
   article : exact-integer?
 struct
 (struct authentication-rejected nntp ()
-        #:extra-constructor-name make-authentication-rejected)
+    #:extra-constructor-name make-authentication-rejected)
 value
 nntp@ : unit?
 signature
@@ -1138,7 +1172,7 @@ procedure
              reuse?             
              hostname])     -> tcp-listener?
   port-no : (and/c exact-nonnegative-integer?
-                   (integer-in 1 65535))
+                   (integer-in 0 65535))
   max-allow-wait : exact-nonnegative-integer? = 4
   reuse? : any/c = #f
   hostname : (or/c string? false/c) = #f
@@ -1322,8 +1356,57 @@ procedure
   cookies : string?
 struct
 (struct cookie-error exn:fail ()
-        #:extra-constructor-name make-cookie-error)
+    #:extra-constructor-name make-cookie-error)
 value
 cookie@ : unit?
 signature
 cookie^ : signature
+procedure
+(git-checkout  hostname                            
+               repository                          
+               #:dest-dir dest-dir                 
+              [#:ref ref                           
+               #:transport transport               
+               #:depth depth                       
+               #:status-printf status-printf       
+               #:initial-error initial-error       
+               #:tmp-dir given-tmp-dir             
+               #:clean-tmp-dir? clean-tmp-dir?     
+               #:verify-server? verify-server?     
+               #:port port                         
+               #:strict-links? strict-links?       
+               #:username username                 
+               #:password password])           -> string?
+  hostname : string?
+  repository : string?
+  dest-dir : (or/c path-string? #f)
+  ref : string? = "master"
+  transport : (or/c 'git 'http 'https) = 'git
+  depth : (or/c #f exact-positive-integer?) = 1
+  status-printf : (string? any/c ... . -> . void?)
+                = (lambda args
+                    (apply printf args)
+                    (flush-output))
+  initial-error : (or #f (-> any)) = #f
+  given-tmp-dir : (or/c #f path-string?) = #f
+  clean-tmp-dir? : any/c = (not given-tmp-dir)
+  verify-server? : any/c = #t
+  port : (or/c #f (integer-in 1 65535)) = (case transport
+                                            [(git) 9418]
+                                            [(http) 80]
+                                            [(https) 443])
+  strict-links? : any/c = #f
+  username : (or/c string? #f) = (current-git-username)
+  password : (or/c string? #f) = (current-git-password)
+parameter
+(current-git-username) -> (or/c string? #f)
+(current-git-username username) -> void?
+  username : (or/c string? #f)
+parameter
+(current-git-password) -> (or/c string? #f)
+(current-git-password password) -> void?
+  password : (or/c string? #f)
+struct
+(struct exn:fail:git exn:fail ()
+    #:extra-constructor-name make-exn:fail:git
+    #:transparent)

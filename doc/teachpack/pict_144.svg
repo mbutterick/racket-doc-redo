@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71pt" height="81pt" viewBox="0 0 71 81" version="1.1">
-<g id="surface4672">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 40 70 C 40 75.523438 37.761719 80 35 80 C 32.238281 80 30 75.523438 30 70 C 30 64.476562 32.238281 60 35 60 C 37.761719 60 40 64.476562 40 70 Z M 40 70 "/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(41.176471%,41.176471%,41.176471%);fill-opacity:1;" d="M 50 50 C 50 55.523438 43.285156 60 35 60 C 26.714844 60 20 55.523438 20 50 C 20 44.476562 26.714844 40 35 40 C 43.285156 40 50 44.476562 50 50 Z M 50 50 "/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(66.27451%,66.27451%,66.27451%);fill-opacity:1;" d="M 60 30 C 60 35.523438 48.808594 40 35 40 C 21.191406 40 10 35.523438 10 30 C 10 24.476562 21.191406 20 35 20 C 48.808594 20 60 24.476562 60 30 Z M 60 30 "/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(74.509804%,74.509804%,74.509804%);fill-opacity:1;" d="M 70 10 C 70 15.523438 54.328125 20 35 20 C 15.671875 20 0 15.523438 0 10 C 0 4.476562 15.671875 0 35 0 C 54.328125 0 70 4.476562 70 10 Z M 70 10 "/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="87" viewBox="0 0 87 87" version="1.1">
+<g id="surface7010">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(74.509804%,74.509804%,74.509804%);fill-opacity:1;" d="M 83 43 C 83 65.089844 65.089844 83 43 83 C 20.910156 83 3 65.089844 3 43 C 3 20.910156 20.910156 3 43 3 C 65.089844 3 83 20.910156 83 43 Z "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(14.117647%,14.117647%,54.901961%);fill-opacity:1;" d="M 68 33 C 68 38.523438 63.523438 43 58 43 C 52.476562 43 48 38.523438 48 33 C 48 27.476562 52.476562 23 58 23 C 63.523438 23 68 27.476562 68 33 Z "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(14.117647%,14.117647%,54.901961%);fill-opacity:1;" d="M 38 33 C 38 38.523438 33.523438 43 28 43 C 22.476562 43 18 38.523438 18 33 C 18 27.476562 22.476562 23 28 23 C 33.523438 23 38 27.476562 38 33 Z "/>
 </g>
 </svg>

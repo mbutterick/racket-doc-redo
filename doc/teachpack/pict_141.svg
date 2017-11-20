@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="81pt" height="71pt" viewBox="0 0 81 71" version="1.1">
-<g id="surface4657">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(14.117647%,14.117647%,54.901961%);fill-opacity:1;" d="M 80 65 C 80 67.761719 75.523438 70 70 70 C 64.476562 70 60 67.761719 60 65 C 60 62.238281 64.476562 60 70 60 C 75.523438 60 80 62.238281 80 65 Z M 80 65 "/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(41.568627%,35.294118%,80.392157%);fill-opacity:1;" d="M 60 55 C 60 63.285156 55.523438 70 50 70 C 44.476562 70 40 63.285156 40 55 C 40 46.714844 44.476562 40 50 40 C 55.523438 40 60 46.714844 60 55 Z M 60 55 "/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(48.235294%,40.784314%,93.333333%);fill-opacity:1;" d="M 40 45 C 40 58.808594 35.523438 70 30 70 C 24.476562 70 20 58.808594 20 45 C 20 31.191406 24.476562 20 30 20 C 35.523438 20 40 31.191406 40 45 Z M 40 45 "/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(69.019608%,76.862745%,87.058824%);fill-opacity:1;" d="M 20 35 C 20 54.328125 15.523438 70 10 70 C 4.476562 70 0 54.328125 0 35 C 0 15.671875 4.476562 0 10 0 C 15.523438 0 20 15.671875 20 35 Z M 20 35 "/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57" height="57" viewBox="0 0 57 57" version="1.1">
+<g id="surface6992">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(18.039216%,54.509804%,34.117647%);fill-opacity:1;" d="M 3 3 C 3 3 53 3 53 3 C 53 3 53 53 53 53 C 53 53 3 53 3 53 C 3 53 3 3 3 3 Z "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(75.294118%,75.294118%,75.294118%);fill-opacity:1;" d="M 13 3 C 13 3 53 3 53 3 C 53 3 53 43 53 43 C 53 43 13 43 13 43 C 13 43 13 3 13 3 Z "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(18.039216%,54.509804%,34.117647%);fill-opacity:1;" d="M 23 3 C 23 3 53 3 53 3 C 53 3 53 33 53 33 C 53 33 23 33 23 33 C 23 33 23 3 23 3 Z "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(75.294118%,75.294118%,75.294118%);fill-opacity:1;" d="M 33 3 C 33 3 53 3 53 3 C 53 3 53 23 53 23 C 53 23 33 23 33 23 C 33 23 33 3 33 3 Z "/>
 </g>
 </svg>

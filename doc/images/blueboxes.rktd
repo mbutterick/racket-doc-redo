@@ -1,38 +1,37 @@
-12347
-((3) 0 () 14 ((q lib "images/flomap.rkt") (q lib "images/logos.rkt") (q lib "images/icons/control.rkt") (q lib "images/icons/arrow.rkt") (q 37210 . 6) (q lib "images/icons/style.rkt") (q lib "images/icons/file.rkt") (q lib "images/icons/symbol.rkt") (q lib "images/icons/misc.rkt") (q lib "images/icons/tool.rkt") (q 48474 . 5) (q 49833 . 4) (q lib "images/icons/stickman.rkt") (q lib "images/compile-time.rkt")) () (h ! (equal) ((c def c (c (? . 0) q flomap-flip-vertical)) q (47247 . 3)) ((c def c (c (? . 0) q flomap-cc-crop)) q (44363 . 5)) ((c form c (c (? . 0) q Projection)) q (49815 . 2)) ((c def c (c (? . 0) q flomap-take-components)) q (40428 . 4)) ((c def c (c (? . 2) q continue-forward-icon)) q (11866 . 12)) ((c def c (c (? . 0) q fm*)) q (41153 . 4)) ((c def c (c (? . 0) q fmsqr)) q (40761 . 3)) ((c def c (c (? . 0) q flomap)) c (? . 4)) ((c def c (c (? . 1) q planet-logo)) q (36091 . 6)) ((c def c (c (? . 1) q stepper-logo)) q (36379 . 6)) ((c def c (c (? . 3) q up-arrow-icon)) q (2910 . 12)) ((c def c (c (? . 6) q small-save-icon)) q (16184 . 15)) ((c def c (c (? . 0) q fmmin)) q (41349 . 4)) ((c def c (c (? . 2) q record-icon)) q (9652 . 11)) ((c def c (c (? . 0) q flomap-gaussian-blur-y)) q (42279 . 4)) ((c def c (c (? . 0) q equal-area-projection)) q (49672 . 3)) ((c def c (c (? . 3) q left-over-arrow-icon)) q (4594 . 12)) ((c def c (c (? . 5) q default-icon-height)) q (518 . 5)) ((c def c (c (? . 0) q flomap-extreme-values)) q (38024 . 3)) ((c def c (c (? . 1) q macro-stepper-logo)) q (36669 . 7)) ((c def c (c (? . 0) q flomap-divide-alpha)) q (39876 . 3)) ((c def c (c (? . 0) q flomap-width)) c (? . 4)) ((c def c (c (? . 5) q icon-color->outline-color)) q (1677 . 3)) ((c def c (c (? . 9) q macro-stepper-hash-color)) q (35584 . 3)) ((c def c (c (? . 0) q make-flomap-2d-mapping)) q (48691 . 5)) ((c def c (c (? . 7) q hash-quote-icon)) q (20984 . 12)) ((c def c (c (? . 0) q coords->index)) q (38317 . 7)) ((c def c (c (? . 0) q unsafe-flomap-ref*)) q (38651 . 8)) ((c def c (c (? . 0) q flomap-pin*)) q (45427 . 13)) ((c def c (c (? . 6) q save-icon)) q (14754 . 14)) ((c def c (c (? . 3) q left-under-arrow-icon)) q (5754 . 12)) ((c def c (c (? . 7) q lambda-icon)) q (20389 . 12)) ((c def c (c (? . 0) q struct:flomap-2d-mapping)) c (? . 10)) ((c def c (c (? . 5) q glass-icon-material)) q (1123 . 2)) ((c def c (c (? . 8) q magnifying-glass-icon)) q (24049 . 15)) ((c def c (c (? . 0) q flomap-lc-superimpose)) q (45850 . 4)) ((c def c (c (? . 8) q regular-polygon-icon)) q (21561 . 16)) ((c def c (c (? . 7) q recycle-icon)) q (18570 . 11)) ((c def c (c (? . 9) q macro-stepper-icon)) q (33631 . 10)) ((c def c (c (? . 0) q flomap-rt-crop)) q (44569 . 5)) ((c def c (c (? . 0) q flomap-box-blur-x)) q (42509 . 4)) ((c def c (c (? . 0) q flomap-id-transform)) q (47949 . 2)) ((c def c (c (? . 5) q dark-metal-icon-color)) q (161 . 3)) ((c def c (c (? . 9) q check-syntax-icon)) q (32697 . 10)) ((c def c (c (? . 0) q flomap-cc-superimpose)) q (46141 . 4)) ((c def c (c (? . 0) q flomap-values)) c (? . 4)) ((c def c (c (? . 0) q flomap-lb-superimpose)) q (45947 . 4)) ((c def c (c (? . 0) q flomap-nonzero-rect)) q (38098 . 6)) ((c def c (c (? . 0) q unsafe-flomap-ref)) q (38460 . 9)) ((c def c (c (? . 2) q pause-icon)) q (10210 . 11)) ((c def c (c (? . 0) q flomap-gradient-y)) q (41866 . 3)) ((c def c (c (? . 0) q flomap-shadow)) q (49940 . 5)) ((c def c (c (? . 8) q left-bomb-icon)) q (26336 . 16)) ((c def c (c (? . 3) q left-arrow-icon)) q (2354 . 12)) ((c def c (c (? . 0) q flomap-flip-horizontal)) q (47178 . 3)) ((c def c (c (? . 0) q flomap-rt-superimpose)) q (46335 . 4)) ((c def c (c (? . 2) q step-icon)) q (10764 . 11)) ((c form c (c (? . 0) q Flomap-Transform)) q (48450 . 2)) ((c def c (c (? . 0) q flomap-2d-mapping?)) c (? . 10)) ((c def c (c (? . 8) q foot-icon)) q (23499 . 11)) ((c def c (c (? . 0) q draw-flomap)) q (39696 . 5)) ((c form c (c (? . 13) q compiled-bitmap-list)) q (37081 . 5)) ((c def c (c (? . 2) q continue-backward-icon)) q (12446 . 12)) ((c def c (c (? . 0) q flomap-2d-mapping)) c (? . 10)) ((c def c (c (? . 0) q flomap-ref-component)) q (40340 . 4)) ((c def c (c (? . 3) q right-over-arrow-icon)) q (4014 . 12)) ((c def c (c (? . 0) q stereographic-projection)) q (49742 . 3)) ((c def c (c (? . 1) q plt-logo)) q (35808 . 6)) ((c def c (c (? . 8) q lock-icon)) q (29506 . 16)) ((c def c (c (? . 0) q flomap-blur)) q (42693 . 5)) ((c def c (c (? . 12) q running-stickman-icon)) q (31753 . 18)) ((c def c (c (? . 8) q stop-sign-icon)) q (22351 . 12)) ((c def c (c (? . 0) q flomap-2d-mapping-bounded-by)) c (? . 10)) ((c def c (c (? . 9) q small-debugger-icon)) q (35017 . 10)) ((c def c (c (? . 9) q small-macro-stepper-hash-color)) q (35692 . 3)) ((c def c (c (? . 6) q load-icon)) q (15469 . 14)) ((c def c (c (? . 7) q x-icon)) q (19150 . 13)) ((c def c (c (? . 0) q flomap-transform)) q (47996 . 16)) ((c def c (c (? . 0) q flomap-fisheye-transform)) q (47739 . 3)) ((c def c (c (? . 8) q stopwatch-icon)) q (27859 . 16)) ((c def c (c (? . 9) q small-macro-stepper-icon)) q (34092 . 10)) ((c def c (c (? . 0) q flomap-blur-x)) q (42805 . 4)) ((c def c (c (? . 8) q short-stethoscope-icon)) q (29058 . 9)) ((c def c (c (? . 6) q small-load-icon)) q (16904 . 15)) ((c def c (c (? . 0) q flomap-box-blur-y)) q (42601 . 4)) ((c def c (c (? . 0) q flomap-blur-y)) q (42887 . 4)) ((c def c (c (? . 0) q flomap-gradient-x)) q (41802 . 3)) ((c def c (c (? . 0) q flomap-bilinear-ref)) q (37673 . 6)) ((c def c (c (? . 8) q left-magnifying-glass-icon)) q (24807 . 15)) ((c def c (c (? . 0) q flomap-trim)) q (43331 . 4)) ((c def c (c (? . 2) q step-back-icon)) q (11314 . 12)) ((c def c (c (? . 0) q orthographic-projection)) q (49600 . 3)) ((c def c (c (? . 0) q flomap-size)) q (37362 . 3)) ((c def c (c (? . 2) q search-backward-icon)) q (13602 . 12)) ((c def c (c (? . 0) q flomap-cb-crop)) q (44466 . 5)) ((c def c (c (? . 0) q flomap-ref*)) q (37571 . 5)) ((c def c (c (? . 8) q close-icon)) q (30317 . 11)) ((c def c (c (? . 5) q plastic-icon-material)) q (1004 . 2)) ((c def c (c (? . 0) q flomap-cb-superimpose)) q (46238 . 4)) ((c def c (c (? . 7) q check-icon)) q (19816 . 11)) ((c def c (c (? . 5) q bitmap-render-icon)) q (1421 . 6)) ((c def c (c (? . 0) q flomap-lt-crop)) q (43951 . 5)) ((c def c (c (? . 0) q flomap->bitmap)) q (38825 . 5)) ((c def c (c (? . 5) q default-icon-backing-scale)) q (836 . 5)) ((c def c (c (? . 0) q flomap-cw-rotate)) q (47377 . 3)) ((c def c (c (? . 0) q flomap-vl-append)) q (46626 . 4)) ((c def c (c (? . 0) q flomap-min-value)) q (37900 . 3)) ((c def c (c (? . 0) q flomap-lb-crop)) q (44157 . 5)) ((c def c (c (? . 0) q struct:projection-mapping)) c (? . 11)) ((c def c (c (? . 0) q make-flomap)) q (39060 . 6)) ((c def c (c (? . 0) q flomap-vr-append)) q (46810 . 4)) ((c def c (c (? . 0) q subflomap)) q (43151 . 7)) ((c def c (c (? . 0) q flomap-whirl-transform)) q (47662 . 3)) ((c def c (c (? . 0) q projection-mapping?)) c (? . 11)) ((c def c (c (? . 12) q standing-stickman-icon)) q (30883 . 16)) ((c def c (c (? . 8) q clock-icon)) q (27082 . 15)) ((c def c (c (? . 0) q flomap-scale)) q (44878 . 5)) ((c def c (c (? . 0) q flomap-rc-superimpose)) q (46432 . 4)) ((c form c (c (? . 0) q inline-flomap-lift2)) q (41731 . 4)) ((c def c (c (? . 0) q flomap-gradient)) q (41930 . 3)) ((c def c (c (? . 0) q flomap-normalize)) q (40894 . 3)) ((c def c (c (? . 0) q fm+)) q (40957 . 4)) ((c def c (c (? . 0) q flomap-components)) c (? . 4)) ((c def c (c (? . 0) q flomap-lift2)) q (41549 . 3)) ((c def c (c (? . 0) q flomap-2d-mapping-fun)) c (? . 10)) ((c def c (c (? . 0) q make-flomap*)) q (39187 . 5)) ((c def c (c (? . 0) q flomap-copy)) q (42969 . 7)) ((c form c (c (? . 13) q compiled-bitmap)) q (36967 . 5)) ((c def c (c (? . 0) q flomap-hc-append)) q (46994 . 4)) ((c def c (c (? . 9) q debugger-icon)) q (34571 . 10)) ((c def c (c (? . 0) q flomap-hb-append)) q (47086 . 4)) ((c def c (c (? . 0) q flomap-max-value)) q (37962 . 3)) ((c def c (c (? . 5) q metal-icon-color)) q (79 . 3)) ((c def c (c (? . 0) q flomap-gaussian-blur)) q (42069 . 5)) ((c def c (c (? . 0) q flomap-crop)) q (43785 . 7)) ((c def c (c (? . 0) q flomap-height)) c (? . 4)) ((c def c (c (? . 0) q flomap-gaussian-blur-x)) q (42190 . 4)) ((c def c (c (? . 7) q text-icon)) q (17624 . 19)) ((c def c (c (? . 2) q back-icon)) q (7430 . 11)) ((c def c (c (? . 3) q right-under-arrow-icon)) q (5170 . 12)) ((c def c (c (? . 0) q bitmap->flomap)) q (39002 . 3)) ((c def c (c (? . 6) q floppy-disk-icon)) q (14178 . 12)) ((c form c (c (? . 0) q inline-flomap-lift)) q (41668 . 4)) ((c def c (c (? . 0) q flomap-box-blur)) q (42368 . 5)) ((c def c (c (? . 0) q flomap-transpose)) q (47314 . 3)) ((c def c (c (? . 2) q rewind-icon)) q (8544 . 11)) ((c def c (c (? . 0) q flomap-rb-crop)) q (44775 . 5)) ((c def c (c (? . 0) q flomap-vc-append)) q (46718 . 4)) ((c def c (c (? . 0) q flomap-lc-crop)) q (44054 . 5)) ((c def c (c (? . 0) q fm-)) q (41055 . 4)) ((c def c (c (? . 0) q projection-mapping-fun)) c (? . 11)) ((c def c (c (? . 5) q toolbar-icon-height)) q (677 . 5)) ((c def c (c (? . 2) q bar-icon)) q (6334 . 11)) ((c def c (c (? . 0) q flomap-bilinear-ref*)) q (37795 . 5)) ((c def c (c (? . 0) q fm/)) q (41251 . 4)) ((c def c (c (? . 0) q perspective-projection)) q (49463 . 3)) ((c def c (c (? . 9) q small-check-syntax-icon)) q (33155 . 10)) ((c def c (c (? . 0) q flomap-drop-components)) q (40518 . 4)) ((c def c (c (? . 0) q flomap-projection-transform)) q (49213 . 7)) ((c def c (c (? . 0) q flomap-ccw-rotate)) q (47440 . 3)) ((c def c (c (? . 0) q struct:flomap)) c (? . 4)) ((c def c (c (? . 0) q projection-mapping-inv)) c (? . 11)) ((c def c (c (? . 0) q flomap-append-components)) q (40608 . 4)) ((c def c (c (? . 5) q metal-icon-material)) q (1181 . 2)) ((c def c (c (? . 0) q fmsqrt)) q (40708 . 3)) ((c def c (c (? . 0) q flomap-resize)) q (45011 . 5)) ((c def c (c (? . 2) q search-forward-icon)) q (13030 . 12)) ((c form c (c (? . 0) q inline-build-flomap*)) q (40149 . 8)) ((c def c (c (? . 0) q flomap-ct-crop)) q (44260 . 5)) ((c def c (c (? . 0) q fmmax)) q (41449 . 4)) ((c form c (c (? . 0) q inline-build-flomap)) q (39942 . 8)) ((c def c (c (? . 0) q flomap?)) c (? . 4)) ((c def c (c (? . 0) q flomap-outline)) q (50092 . 5)) ((c def c (c (? . 0) q flomap-rotate)) q (47504 . 4)) ((c def c (c (? . 0) q flomap-lift)) q (40813 . 3)) ((c def c (c (? . 0) q flomap-rb-superimpose)) q (46529 . 4)) ((c def c (c (? . 5) q run-icon-color)) q (443 . 3)) ((c def c (c (? . 9) q debugger-bomb-color)) q (35481 . 3)) ((c def c (c (? . 0) q projection-mapping)) c (? . 11)) ((c def c (c (? . 0) q flomap-ct-superimpose)) q (46044 . 4)) ((c def c (c (? . 0) q flomap-2d-mapping-inv)) c (? . 10)) ((c def c (c (? . 0) q flomap-inset)) q (43429 . 14)) ((c def c (c (? . 5) q rubber-icon-material)) q (1064 . 2)) ((c def c (c (? . 2) q fast-forward-icon)) q (7980 . 12)) ((c def c (c (? . 8) q stop-signs-icon)) q (22923 . 12)) ((c def c (c (? . 0) q flomap-lt-superimpose)) q (45753 . 4)) ((c def c (c (? . 2) q stop-icon)) q (9102 . 11)) ((c def c (c (? . 5) q default-icon-material)) q (1239 . 5)) ((c def c (c (? . 0) q build-flomap)) q (39313 . 6)) ((c def c (c (? . 0) q flomap-pin)) q (45133 . 13)) ((c def c (c (? . 0) q flomap-gradient-normal)) q (42000 . 3)) ((c def c (c (? . 2) q play-icon)) q (6880 . 11)) ((c def c (c (? . 8) q bomb-icon)) q (25590 . 15)) ((c def c (c (? . 3) q down-arrow-icon)) q (3458 . 12)) ((c def c (c (? . 8) q stethoscope-icon)) q (28628 . 9)) ((c def c (c (? . 5) q syntax-icon-color)) q (243 . 3)) ((c def c (c (? . 5) q light-metal-icon-color)) q (0 . 3)) ((c def c (c (? . 5) q halt-icon-color)) q (344 . 3)) ((c def c (c (? . 0) q flomap-transform-bounds)) q (49065 . 5)) ((c def c (c (? . 0) q flomap-scale-transform)) q (47818 . 4)) ((c def c (c (? . 0) q flomap-ht-append)) q (46902 . 4)) ((c def c (c (? . 0) q flomap-ref)) q (37452 . 6)) ((c def c (c (? . 0) q linear-projection)) q (49534 . 3)) ((c def c (c (? . 0) q build-flomap*)) q (39497 . 7)) ((c def c (c (? . 0) q flomap-rotate-transform)) q (47584 . 3)) ((c def c (c (? . 0) q flomap-multiply-alpha)) q (39808 . 3)) ((c def c (c (? . 0) q flomap-rc-crop)) q (44672 . 5)) ((c def c (c (? . 3) q right-arrow-icon)) q (1794 . 12)) ((c def c (c (? . 0) q flomap-transform-compose)) q (48942 . 4))))
+12348
+((3) 0 () 14 ((q lib "images/flomap.rkt") (q 37685 . 6) (q lib "images/icons/style.rkt") (q lib "images/logos.rkt") (q lib "images/icons/misc.rkt") (q lib "images/icons/arrow.rkt") (q lib "images/icons/control.rkt") (q lib "images/icons/tool.rkt") (q lib "images/icons/file.rkt") (q 50357 . 4) (q 48998 . 5) (q lib "images/icons/symbol.rkt") (q lib "images/icons/stickman.rkt") (q lib "images/compile-time.rkt")) () (h ! (equal) ((c def c (c (? . 0) q flomap?)) c (? . 1)) ((c def c (c (? . 0) q unsafe-flomap-ref*)) q (39126 . 8)) ((c def c (c (? . 0) q flomap-2d-mapping)) c (? . 10)) ((c def c (c (? . 0) q flomap-ht-append)) q (47426 . 4)) ((c def c (c (? . 0) q flomap-gradient)) q (42454 . 3)) ((c def c (c (? . 0) q flomap-height)) c (? . 1)) ((c def c (c (? . 7) q macro-stepper-hash-color)) q (36027 . 3)) ((c def c (c (? . 6) q continue-backward-icon)) q (12617 . 12)) ((c def c (c (? . 3) q stepper-logo)) q (36842 . 7)) ((c def c (c (? . 5) q left-over-arrow-icon)) q (4653 . 12)) ((c def c (c (? . 0) q flomap-gradient-normal)) q (42524 . 3)) ((c def c (c (? . 2) q light-metal-icon-color)) q (0 . 3)) ((c def c (c (? . 2) q plastic-icon-material)) q (1021 . 2)) ((c def c (c (? . 0) q flomap-box-blur-y)) q (43125 . 4)) ((c def c (c (? . 3) q macro-stepper-logo)) q (37136 . 7)) ((c def c (c (? . 0) q flomap-transpose)) q (47838 . 3)) ((c def c (c (? . 4) q stop-sign-icon)) q (22624 . 12)) ((c form c (c (? . 0) q inline-build-flomap*)) q (40673 . 8)) ((c def c (c (? . 4) q stopwatch-icon)) q (28196 . 16)) ((c def c (c (? . 5) q up-arrow-icon)) q (2945 . 12)) ((c def c (c (? . 0) q flomap-flip-horizontal)) q (47702 . 3)) ((c def c (c (? . 6) q step-icon)) q (10911 . 11)) ((c def c (c (? . 0) q projection-mapping-inv)) c (? . 9)) ((c def c (c (? . 0) q flomap-gradient-y)) q (42390 . 3)) ((c def c (c (? . 5) q right-over-arrow-icon)) q (4065 . 12)) ((c def c (c (? . 7) q debugger-icon)) q (34996 . 10)) ((c def c (c (? . 2) q default-icon-height)) q (529 . 5)) ((c def c (c (? . 7) q check-syntax-icon)) q (33090 . 10)) ((c def c (c (? . 6) q play-icon)) q (6971 . 11)) ((c def c (c (? . 4) q stop-signs-icon)) q (23204 . 12)) ((c def c (c (? . 0) q flomap-ref*)) q (38046 . 5)) ((c def c (c (? . 0) q flomap-cb-superimpose)) q (46762 . 4)) ((c def c (c (? . 0) q flomap-blur-x)) q (43329 . 4)) ((c def c (c (? . 0) q flomap-lb-superimpose)) q (46471 . 4)) ((c def c (c (? . 6) q search-forward-icon)) q (13209 . 12)) ((c def c (c (? . 7) q small-macro-stepper-hash-color)) q (36137 . 3)) ((c def c (c (? . 0) q flomap-hb-append)) q (47610 . 4)) ((c def c (c (? . 11) q check-icon)) q (20057 . 11)) ((c def c (c (? . 0) q coords->index)) q (38792 . 7)) ((c def c (c (? . 0) q flomap-flip-vertical)) q (47771 . 3)) ((c def c (c (? . 0) q flomap-lt-crop)) q (44475 . 5)) ((c def c (c (? . 0) q flomap-cc-superimpose)) q (46665 . 4)) ((c def c (c (? . 0) q fm-)) q (41579 . 4)) ((c def c (c (? . 8) q save-icon)) q (14957 . 14)) ((c def c (c (? . 0) q flomap-multiply-alpha)) q (40332 . 3)) ((c def c (c (? . 2) q glass-icon-material)) q (1140 . 2)) ((c def c (c (? . 8) q small-save-icon)) q (16403 . 15)) ((c def c (c (? . 0) q flomap-append-components)) q (41132 . 4)) ((c def c (c (? . 2) q run-icon-color)) q (453 . 2)) ((c def c (c (? . 0) q fmsqrt)) q (41232 . 3)) ((c def c (c (? . 6) q bar-icon)) q (6417 . 11)) ((c def c (c (? . 0) q fm*)) q (41677 . 4)) ((c def c (c (? . 0) q make-flomap)) q (39584 . 6)) ((c def c (c (? . 0) q projection-mapping)) c (? . 9)) ((c def c (c (? . 0) q flomap-shadow)) q (50464 . 5)) ((c def c (c (? . 0) q flomap-copy)) q (43493 . 7)) ((c def c (c (? . 0) q build-flomap)) q (39837 . 6)) ((c def c (c (? . 0) q perspective-projection)) q (49987 . 3)) ((c def c (c (? . 0) q flomap-lc-superimpose)) q (46374 . 4)) ((c def c (c (? . 0) q flomap-min-value)) q (38375 . 3)) ((c def c (c (? . 0) q flomap-rotate)) q (48028 . 4)) ((c form c (c (? . 0) q Projection)) q (50339 . 2)) ((c def c (c (? . 2) q metal-icon-color)) q (81 . 3)) ((c def c (c (? . 0) q flomap-inset)) q (43953 . 14)) ((c def c (c (? . 0) q fmsqr)) q (41285 . 3)) ((c def c (c (? . 0) q fmmax)) q (41973 . 4)) ((c def c (c (? . 4) q short-stethoscope-icon)) q (29411 . 9)) ((c def c (c (? . 0) q flomap-2d-mapping-bounded-by)) c (? . 10)) ((c def c (c (? . 6) q step-back-icon)) q (11469 . 12)) ((c def c (c (? . 0) q flomap-transform-bounds)) q (49589 . 5)) ((c def c (c (? . 3) q plt-logo)) q (36255 . 6)) ((c def c (c (? . 7) q macro-stepper-icon)) q (34040 . 10)) ((c def c (c (? . 0) q flomap-pin*)) q (45951 . 13)) ((c def c (c (? . 0) q flomap-cc-crop)) q (44887 . 5)) ((c def c (c (? . 0) q flomap-resize)) q (45535 . 5)) ((c def c (c (? . 8) q floppy-disk-icon)) q (14373 . 12)) ((c def c (c (? . 0) q flomap-rc-superimpose)) q (46956 . 4)) ((c def c (c (? . 0) q flomap-ref-component)) q (40864 . 4)) ((c def c (c (? . 11) q recycle-icon)) q (18813 . 12)) ((c def c (c (? . 0) q flomap-blur)) q (43217 . 5)) ((c def c (c (? . 0) q flomap-vc-append)) q (47242 . 4)) ((c def c (c (? . 8) q load-icon)) q (15680 . 14)) ((c def c (c (? . 6) q rewind-icon)) q (8659 . 11)) ((c def c (c (? . 0) q flomap-cb-crop)) q (44990 . 5)) ((c def c (c (? . 0) q linear-projection)) q (50058 . 3)) ((c def c (c (? . 0) q flomap-extreme-values)) q (38499 . 3)) ((c def c (c (? . 0) q flomap-bilinear-ref)) q (38148 . 6)) ((c def c (c (? . 2) q default-icon-backing-scale)) q (851 . 5)) ((c def c (c (? . 0) q draw-flomap)) q (40220 . 5)) ((c form c (c (? . 0) q inline-flomap-lift)) q (42192 . 4)) ((c def c (c (? . 0) q orthographic-projection)) q (50124 . 3)) ((c def c (c (? . 0) q fmmin)) q (41873 . 4)) ((c def c (c (? . 0) q flomap-vr-append)) q (47334 . 4)) ((c def c (c (? . 4) q clock-icon)) q (27411 . 15)) ((c def c (c (? . 0) q struct:projection-mapping)) c (? . 9)) ((c def c (c (? . 0) q flomap-gaussian-blur-x)) q (42714 . 4)) ((c def c (c (? . 0) q flomap-2d-mapping-fun)) c (? . 10)) ((c def c (c (? . 6) q back-icon)) q (7529 . 11)) ((c def c (c (? . 4) q regular-polygon-icon)) q (21826 . 16)) ((c def c (c (? . 0) q flomap-size)) q (37837 . 3)) ((c def c (c (? . 0) q flomap-lift)) q (41337 . 3)) ((c def c (c (? . 0) q flomap-ct-crop)) q (44784 . 5)) ((c def c (c (? . 0) q flomap-trim)) q (43855 . 4)) ((c def c (c (? . 3) q planet-logo)) q (36546 . 6)) ((c def c (c (? . 0) q make-flomap-2d-mapping)) q (49215 . 5)) ((c def c (c (? . 0) q flomap-transform-compose)) q (49466 . 4)) ((c def c (c (? . 5) q right-arrow-icon)) q (1813 . 12)) ((c def c (c (? . 0) q flomap-lift2)) q (42073 . 3)) ((c def c (c (? . 0) q flomap-rt-crop)) q (45093 . 5)) ((c def c (c (? . 11) q hash-quote-icon)) q (21241 . 12)) ((c def c (c (? . 4) q stethoscope-icon)) q (28973 . 9)) ((c def c (c (? . 12) q running-stickman-icon)) q (32138 . 18)) ((c def c (c (? . 0) q struct:flomap-2d-mapping)) c (? . 10)) ((c def c (c (? . 0) q flomap-normalize)) q (41418 . 3)) ((c def c (c (? . 12) q standing-stickman-icon)) q (31260 . 16)) ((c def c (c (? . 0) q flomap-lc-crop)) q (44578 . 5)) ((c def c (c (? . 0) q flomap-max-value)) q (38437 . 3)) ((c def c (c (? . 2) q syntax-icon-color)) q (249 . 3)) ((c def c (c (? . 7) q debugger-bomb-color)) q (35922 . 3)) ((c def c (c (? . 5) q left-under-arrow-icon)) q (5829 . 12)) ((c def c (c (? . 0) q stereographic-projection)) q (50266 . 3)) ((c def c (c (? . 4) q magnifying-glass-icon)) q (24346 . 15)) ((c def c (c (? . 0) q flomap-outline)) q (50616 . 5)) ((c def c (c (? . 0) q make-flomap*)) q (39711 . 5)) ((c def c (c (? . 6) q stop-icon)) q (9225 . 11)) ((c def c (c (? . 7) q small-check-syntax-icon)) q (33556 . 10)) ((c def c (c (? . 0) q flomap-gaussian-blur)) q (42593 . 5)) ((c def c (c (? . 0) q flomap-take-components)) q (40952 . 4)) ((c def c (c (? . 5) q right-under-arrow-icon)) q (5237 . 12)) ((c def c (c (? . 11) q lambda-icon)) q (20638 . 12)) ((c def c (c (? . 5) q left-arrow-icon)) q (2381 . 12)) ((c def c (c (? . 0) q flomap-values)) c (? . 1)) ((c def c (c (? . 0) q flomap->bitmap)) q (39300 . 5)) ((c def c (c (? . 0) q build-flomap*)) q (40021 . 7)) ((c def c (c (? . 2) q rubber-icon-material)) q (1081 . 2)) ((c def c (c (? . 0) q flomap-pin)) q (45657 . 13)) ((c def c (c (? . 11) q x-icon)) q (19383 . 13)) ((c def c (c (? . 0) q equal-area-projection)) q (50196 . 3)) ((c def c (c (? . 0) q flomap-transform)) q (48520 . 16)) ((c def c (c (? . 0) q flomap-box-blur-x)) q (43033 . 4)) ((c def c (c (? . 0) q flomap-vl-append)) q (47150 . 4)) ((c form c (c (? . 13) q compiled-bitmap)) q (37442 . 5)) ((c def c (c (? . 0) q flomap-box-blur)) q (42892 . 5)) ((c def c (c (? . 0) q flomap-rb-superimpose)) q (47053 . 4)) ((c def c (c (? . 0) q flomap-2d-mapping-inv)) c (? . 10)) ((c form c (c (? . 0) q Flomap-Transform)) q (48974 . 2)) ((c def c (c (? . 0) q flomap-rt-superimpose)) q (46859 . 4)) ((c def c (c (? . 0) q projection-mapping-fun)) c (? . 9)) ((c def c (c (? . 0) q flomap-rb-crop)) q (45299 . 5)) ((c def c (c (? . 2) q icon-color->outline-color)) q (1696 . 3)) ((c def c (c (? . 0) q bitmap->flomap)) q (39480 . 4)) ((c def c (c (? . 6) q record-icon)) q (9783 . 11)) ((c def c (c (? . 0) q flomap-drop-components)) q (41042 . 4)) ((c def c (c (? . 0) q flomap-nonzero-rect)) q (38573 . 6)) ((c def c (c (? . 0) q flomap-ccw-rotate)) q (47964 . 3)) ((c def c (c (? . 0) q unsafe-flomap-ref)) q (38935 . 9)) ((c def c (c (? . 2) q dark-metal-icon-color)) q (165 . 3)) ((c def c (c (? . 0) q struct:flomap)) c (? . 1)) ((c def c (c (? . 2) q bitmap-render-icon)) q (1440 . 6)) ((c def c (c (? . 0) q subflomap)) q (43675 . 7)) ((c def c (c (? . 0) q flomap-divide-alpha)) q (40400 . 3)) ((c def c (c (? . 0) q flomap-width)) c (? . 1)) ((c def c (c (? . 0) q flomap-scale-transform)) q (48342 . 4)) ((c form c (c (? . 0) q inline-build-flomap)) q (40466 . 8)) ((c def c (c (? . 0) q flomap-cw-rotate)) q (47901 . 3)) ((c def c (c (? . 0) q flomap-components)) c (? . 1)) ((c def c (c (? . 4) q left-magnifying-glass-icon)) q (25112 . 15)) ((c def c (c (? . 6) q continue-forward-icon)) q (12029 . 12)) ((c def c (c (? . 7) q small-debugger-icon)) q (35450 . 10)) ((c def c (c (? . 0) q flomap-projection-transform)) q (49737 . 7)) ((c def c (c (? . 0) q fm/)) q (41775 . 4)) ((c def c (c (? . 0) q flomap-crop)) q (44309 . 7)) ((c def c (c (? . 0) q flomap-scale)) q (45402 . 5)) ((c def c (c (? . 0) q flomap-rc-crop)) q (45196 . 5)) ((c def c (c (? . 4) q bomb-icon)) q (25903 . 15)) ((c def c (c (? . 4) q close-icon)) q (30686 . 11)) ((c def c (c (? . 8) q small-load-icon)) q (17131 . 15)) ((c def c (c (? . 6) q fast-forward-icon)) q (8087 . 12)) ((c def c (c (? . 0) q flomap-ct-superimpose)) q (46568 . 4)) ((c def c (c (? . 0) q flomap-hc-append)) q (47518 . 4)) ((c def c (c (? . 0) q flomap-gaussian-blur-y)) q (42803 . 4)) ((c def c (c (? . 0) q flomap-rotate-transform)) q (48108 . 3)) ((c def c (c (? . 0) q flomap-lb-crop)) q (44681 . 5)) ((c def c (c (? . 0) q flomap)) c (? . 1)) ((c def c (c (? . 0) q flomap-blur-y)) q (43411 . 4)) ((c def c (c (? . 0) q projection-mapping?)) c (? . 9)) ((c def c (c (? . 6) q pause-icon)) q (10349 . 11)) ((c def c (c (? . 5) q down-arrow-icon)) q (3501 . 12)) ((c def c (c (? . 0) q flomap-bilinear-ref*)) q (38270 . 5)) ((c def c (c (? . 2) q metal-icon-material)) q (1198 . 2)) ((c def c (c (? . 0) q flomap-fisheye-transform)) q (48263 . 3)) ((c def c (c (? . 2) q default-icon-material)) q (1256 . 5)) ((c def c (c (? . 4) q lock-icon)) q (29867 . 16)) ((c def c (c (? . 0) q flomap-lt-superimpose)) q (46277 . 4)) ((c def c (c (? . 0) q flomap-whirl-transform)) q (48186 . 3)) ((c def c (c (? . 7) q small-macro-stepper-icon)) q (34509 . 10)) ((c def c (c (? . 4) q foot-icon)) q (23788 . 11)) ((c def c (c (? . 11) q text-icon)) q (17859 . 19)) ((c def c (c (? . 2) q halt-icon-color)) q (352 . 3)) ((c def c (c (? . 0) q flomap-gradient-x)) q (42326 . 3)) ((c form c (c (? . 0) q inline-flomap-lift2)) q (42255 . 4)) ((c def c (c (? . 0) q flomap-2d-mapping?)) c (? . 10)) ((c form c (c (? . 13) q compiled-bitmap-list)) q (37556 . 5)) ((c def c (c (? . 6) q search-backward-icon)) q (13789 . 12)) ((c def c (c (? . 4) q left-bomb-icon)) q (26657 . 16)) ((c def c (c (? . 0) q flomap-ref)) q (37927 . 6)) ((c def c (c (? . 2) q toolbar-icon-height)) q (690 . 5)) ((c def c (c (? . 0) q flomap-id-transform)) q (48473 . 2)) ((c def c (c (? . 0) q fm+)) q (41481 . 4))))
 value
 light-metal-icon-color : (or/c string? (is-a?/c color%))
-=  "azure"
+ = "azure"
 value
 metal-icon-color : (or/c string? (is-a?/c color%))
-=  "lightsteelblue"
+ = "lightsteelblue"
 value
 dark-metal-icon-color : (or/c string? (is-a?/c color%))
-=  "steelblue"
+ = "steelblue"
 value
 syntax-icon-color : (or/c string? (is-a?/c color%))
-=  (make-object color% 76 76 255)
+ = (make-object color% 76 76 255)
 value
 halt-icon-color : (or/c string? (is-a?/c color%))
-=  (make-object color% 255 32 24)
+ = (make-object color% 255 32 24)
 value
-run-icon-color : (or/c string? (is-a?/c color%))
-=  "lawngreen"
+run-icon-color : (or/c string? (is-a?/c color%)) = "lawngreen"
 parameter
 (default-icon-height) -> (and/c rational? (>=/c 0))
 (default-icon-height height) -> void?
   height : (and/c rational? (>=/c 0))
-=  24
+ = 24
 parameter
 (toolbar-icon-height) -> (and/c rational? (>=/c 0))
 (toolbar-icon-height height) -> void?
   height : (and/c rational? (>=/c 0))
-=  16
+ = 16
 parameter
 (default-icon-backing-scale) -> (and/c rational? (>/c 0))
 (default-icon-backing-scale scale) -> void?
   scale : (and/c rational? (>/c 0))
-=  2
+ = 2
 value
 plastic-icon-material : deep-flomap-material-value?
 value
@@ -45,7 +44,7 @@ parameter
 (default-icon-material) -> deep-flomap-material-value?
 (default-icon-material material) -> void?
   material : deep-flomap-material-value?
-=  plastic-icon-material
+ = plastic-icon-material
 procedure
 (bitmap-render-icon bitmap [z-ratio material]) -> (is-a?/c bitmap%)
   bitmap : (is-a?/c bitmap%)
@@ -60,296 +59,296 @@ procedure
                   [#:height height                 
                    #:material material             
                    #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (left-arrow-icon  #:color color                   
                  [#:height height                 
                   #:material material             
                   #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (up-arrow-icon  #:color color                   
                [#:height height                 
                 #:material material             
                 #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (down-arrow-icon  #:color color                   
                  [#:height height                 
                   #:material material             
                   #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (right-over-arrow-icon  #:color color                   
                        [#:height height                 
                         #:material material             
                         #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (left-over-arrow-icon  #:color color                   
                       [#:height height                 
                        #:material material             
                        #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (right-under-arrow-icon  #:color color                   
                         [#:height height                 
                          #:material material             
                          #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (left-under-arrow-icon  #:color color                   
                        [#:height height                 
                         #:material material             
                         #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (bar-icon  #:color color                       
           [#:height height                     
            #:material material                 
-           #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+           #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (play-icon  #:color color                       
            [#:height height                     
             #:material material                 
-            #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+            #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (back-icon  #:color color                       
            [#:height height                     
             #:material material                 
-            #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+            #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (fast-forward-icon  #:color color                   
                    [#:height height                 
                     #:material material             
                     #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (rewind-icon  #:color color                       
              [#:height height                     
               #:material material                 
-              #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+              #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (stop-icon  #:color color                       
            [#:height height                     
             #:material material                 
-            #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+            #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (record-icon  #:color color                       
              [#:height height                     
               #:material material                 
-              #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+              #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (pause-icon  #:color color                       
             [#:height height                     
              #:material material                 
-             #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+             #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (step-icon  #:color color                       
            [#:height height                     
             #:material material                 
-            #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+            #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (step-back-icon  #:color color                   
                 [#:height height                 
                  #:material material             
                  #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (continue-forward-icon  #:color color                   
                        [#:height height                 
                         #:material material             
                         #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (continue-backward-icon  #:color color                   
                         [#:height height                 
                          #:material material             
                          #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (search-forward-icon  #:color color                   
                      [#:height height                 
                       #:material material             
                       #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (search-backward-icon  #:color color                   
                       [#:height height                 
                        #:material material             
                        #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (floppy-disk-icon [#:color color                   
                    #:height height                 
                    #:material material             
                    #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%)) = "slategray"
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (save-icon [#:disk-color disk-color             
             #:arrow-color arrow-color           
             #:height height                     
             #:material material                 
-            #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+            #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   disk-color : (or/c string? (is-a?/c color%)) = "gold"
   arrow-color : (or/c string? (is-a?/c color%))
               = syntax-icon-color
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (load-icon [#:disk-color disk-color             
             #:arrow-color arrow-color           
             #:height height                     
             #:material material                 
-            #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+            #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   disk-color : (or/c string? (is-a?/c color%)) = "gold"
   arrow-color : (or/c string? (is-a?/c color%))
               = syntax-icon-color
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (small-save-icon [#:disk-color disk-color         
@@ -357,14 +356,14 @@ procedure
                   #:height height                 
                   #:material material             
                   #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   disk-color : (or/c string? (is-a?/c color%)) = "gold"
   arrow-color : (or/c string? (is-a?/c color%))
               = syntax-icon-color
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (small-load-icon [#:disk-color disk-color         
@@ -372,14 +371,14 @@ procedure
                   #:height height                 
                   #:material material             
                   #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   disk-color : (or/c string? (is-a?/c color%)) = "gold"
   arrow-color : (or/c string? (is-a?/c color%))
               = syntax-icon-color
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (text-icon  str                                 
@@ -389,7 +388,7 @@ procedure
             #:height height                     
             #:material material                 
             #:outline outline                   
-            #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+            #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   str : string?
   font : (is-a?/c font%) = (make-font)
   trim? : boolean? = #t
@@ -398,66 +397,67 @@ procedure
   material : deep-flomap-material-value?
            = (default-icon-material)
   outline : (and/c rational? (>=/c 0)) = (/ height 32)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
-(recycle-icon [#:color color                       
-               #:height height                     
-               #:material material                 
-               #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+(recycle-icon [#:color color                   
+               #:height height                 
+               #:material material             
+               #:backing-scale backing-scale]) 
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%)) = "forestgreen"
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (x-icon [#:color color                       
          #:height height                     
          #:material material                 
          #:thickness thickness               
-         #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+         #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%)) = halt-icon-color
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
   thickness : (and/c rational? (>=/c 0)) = 10
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (check-icon [#:color color                       
              #:height height                     
              #:material material                 
-             #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+             #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%)) = run-icon-color
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (lambda-icon [#:color color                       
               #:height height                     
               #:material material                 
-              #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+              #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
         = light-metal-icon-color
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (hash-quote-icon [#:color color                   
                   #:height height                 
                   #:material material             
                   #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%)) = "mediumseagreen"
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (regular-polygon-icon  sides                           
@@ -466,49 +466,49 @@ procedure
                       [#:height height                 
                        #:material material             
                        #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   sides : exact-positive-integer?
   start : real? = (- (/ pi sides) (* 1/2 pi))
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (stop-sign-icon [#:color color                   
                  #:height height                 
                  #:material material             
                  #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%)) = halt-icon-color
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (stop-signs-icon [#:color color                   
                   #:height height                 
                   #:material material             
                   #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%)) = halt-icon-color
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (foot-icon  #:color color                       
            [#:height height                     
             #:material material                 
-            #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+            #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%))
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (magnifying-glass-icon [#:frame-color frame-color       
@@ -516,14 +516,14 @@ procedure
                         #:height height                 
                         #:material material             
                         #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   frame-color : (or/c string? (is-a?/c color%))
               = light-metal-icon-color
   handle-color : (or/c string? (is-a?/c color%)) = "brown"
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (left-magnifying-glass-icon [#:frame-color frame-color       
@@ -531,21 +531,21 @@ procedure
                              #:height height                 
                              #:material material             
                              #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   frame-color : (or/c string? (is-a?/c color%))
               = light-metal-icon-color
   handle-color : (or/c string? (is-a?/c color%)) = "brown"
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (bomb-icon [#:cap-color cap-color               
             #:bomb-color bomb-color             
             #:height height                     
             #:material material                 
-            #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+            #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   cap-color : (or/c string? (is-a?/c color%))
             = light-metal-icon-color
   bomb-color : (or/c string? (is-a?/c color%))
@@ -553,7 +553,7 @@ procedure
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (left-bomb-icon [#:cap-color cap-color           
@@ -561,7 +561,7 @@ procedure
                  #:height height                 
                  #:material material             
                  #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   cap-color : (or/c string? (is-a?/c color%))
             = light-metal-icon-color
   bomb-color : (or/c string? (is-a?/c color%))
@@ -569,7 +569,7 @@ procedure
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (clock-icon [hours                               
@@ -577,14 +577,14 @@ procedure
              #:face-color face-color             
              #:hand-color hand-color             
              #:height height                     
-             #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+             #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   hours : (integer-in 0 11) = 0
   minutes : (real-in 0 60) = 47
   face-color : (or/c string? (is-a?/c color%))
              = light-metal-icon-color
   hand-color : (or/c string? (is-a?/c color%)) = "firebrick"
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (stopwatch-icon [hours                           
@@ -593,32 +593,32 @@ procedure
                  #:hand-color hand-color         
                  #:height height                 
                  #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   hours : (integer-in 0 11) = 0
   minutes : (real-in 0 60) = 47
   face-color : (or/c string? (is-a?/c color%))
              = light-metal-icon-color
   hand-color : (or/c string? (is-a?/c color%)) = "firebrick"
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (stethoscope-icon [#:color color                   
                    #:height height                 
                    #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%)) = "black"
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (short-stethoscope-icon [#:color color                   
                          #:height height                 
                          #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%)) = "black"
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (lock-icon [open?                               
@@ -626,7 +626,7 @@ procedure
             #:shackle-color shackle-color       
             #:height height                     
             #:material material                 
-            #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+            #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   open? : boolean? = #f
   body-color : (or/c string? (is-a?/c color%)) = "orange"
   shackle-color : (or/c string? (is-a?/c color%))
@@ -634,18 +634,18 @@ procedure
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (close-icon [#:color color                       
              #:height height                     
              #:material material                 
-             #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+             #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   color : (or/c string? (is-a?/c color%)) = "black"
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (standing-stickman-icon [#:body-color body-color         
@@ -654,14 +654,14 @@ procedure
                          #:height height                 
                          #:material material             
                          #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   body-color : (or/c string? (is-a?/c color%)) = run-icon-color
   arm-color : (or/c string? (is-a?/c color%)) = "white"
   head-color : (or/c string? (is-a?/c color%)) = run-icon-color
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (running-stickman-icon  t                               
@@ -671,7 +671,7 @@ procedure
                         #:height height                 
                         #:material material             
                         #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   t : rational?
   body-color : (or/c string? (is-a?/c color%)) = run-icon-color
   arm-color : (or/c string? (is-a?/c color%)) = "white"
@@ -679,101 +679,102 @@ procedure
   height : (and/c rational? (>=/c 0)) = (default-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (check-syntax-icon [#:height height                 
                     #:material material             
                     #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   height : (and/c rational? (>=/c 0)) = (toolbar-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (small-check-syntax-icon [#:height height                 
                           #:material material             
                           #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   height : (and/c rational? (>=/c 0)) = (toolbar-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (macro-stepper-icon [#:height height                 
                      #:material material             
                      #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   height : (and/c rational? (>=/c 0)) = (toolbar-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (small-macro-stepper-icon [#:height height                 
                            #:material material             
                            #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   height : (and/c rational? (>=/c 0)) = (toolbar-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (debugger-icon [#:height height                 
                 #:material material             
                 #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   height : (and/c rational? (>=/c 0)) = (toolbar-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (small-debugger-icon [#:height height                 
                       #:material material             
                       #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   height : (and/c rational? (>=/c 0)) = (toolbar-icon-height)
   material : deep-flomap-material-value?
            = (default-icon-material)
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 value
 debugger-bomb-color : (or/c string? (is-a?/c color%))
-=  (make-object color% 128 32 32)
+ = (make-object color% 128 32 32)
 value
 macro-stepper-hash-color : (or/c string? (is-a?/c color%))
-=  (make-object color% 60 192 60)
+ = (make-object color% 60 192 60)
 value
 small-macro-stepper-hash-color : (or/c string? (is-a?/c color%))
-=  (make-object color% 128 255 128)
+ = (make-object color% 128 255 128)
 procedure
 (plt-logo [#:height height                     
-           #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+           #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   height : (and/c rational? (>=/c 0)) = 256
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (planet-logo [#:height height                     
-              #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+              #:backing-scale backing-scale]) -> (is-a?/c bitmap%)
   height : (and/c rational? (>=/c 0)) = 96
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
-(stepper-logo [#:height height                     
-               #:backing-scale backing-scale]) -> (is-a?/cbitmap%)
+(stepper-logo [#:height height                 
+               #:backing-scale backing-scale]) 
+ -> (is-a?/c bitmap%)
   height : (and/c rational? (>=/c 0)) = 96
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 procedure
 (macro-stepper-logo [#:height height                 
                      #:backing-scale backing-scale]) 
- -> (is-a?/cbitmap%)
+ -> (is-a?/c bitmap%)
   height : (and/c rational? (>=/c 0)) = 96
-  backing-scale : (and/crational?(>/c0.0))
+  backing-scale : (and/c rational? (>/c 0.0))
                 = (default-icon-backing-scale)
 syntax
 (compiled-bitmap expr [quality])
@@ -859,10 +860,11 @@ procedure
 (flomap->bitmap fm                                 
                 #:backing-scale backing-scale) -> Any
   fm : flomap
-  backing-scale : (>/c 0.0)
+  backing-scale : Positive-Real
 procedure
-(bitmap->flomap bm) -> flomap
+(bitmap->flomap bm #:unscaled? unscaled?) -> flomap
   bm : Any
+  unscaled? : Any
 procedure
 (make-flomap c w h [v]) -> flomap
   c : Integer

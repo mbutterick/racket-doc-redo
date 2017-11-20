@@ -1,5 +1,5 @@
-22619
-((3) 0 () 42 ((q quote #%foreign) (q lib "ffi/unsafe/com.rkt") (q lib "ffi/vector.rkt") (q lib "ffi/unsafe.rkt") (q lib "ffi/unsafe/objc.rkt") (q 21782 . 22) (q 20324 . 22) (q lib "ffi/unsafe/custodian.rkt") (q lib "ffi/unsafe/atomic.rkt") (q 19444 . 23) (q 15960 . 22) (q 18473 . 24) (q 2166 . 13) (q 14341 . 22) (q 16764 . 23) (q 15131 . 22) (q lib "ffi/unsafe/cvector.rkt") (q 39893 . 7) (q 3314 . 4) (q lib "ffi/unsafe/alloc.rkt") (q 2511 . 16) (q 2393 . 4) (q lib "ffi/unsafe/define.rkt") (q 21053 . 22) (q 1790 . 5) (q 2981 . 4) (q 24437 . 7) (q lib "ffi/com-registry.rkt") (q 2452 . 4) (q 2791 . 6) (q lib "ffi/file.rkt") (q 2936 . 3) (q 17644 . 22) (q lib "ffi/unsafe/nsalloc.rkt") (q 13631 . 22) (q 9572 . 25) (q 3230 . 4) (q lib "ffi/winapi.rkt") (q 23583 . 17) (q 39731 . 7) (q 2891 . 3) (q lib "ffi/unsafe/try-atomic.rkt")) () (h ! (equal) ((c def c (c (? . 1) q com-release)) q (32344 . 3)) ((c def c (c (? . 3) q _sword)) c (? . 28)) ((c def c (c (? . 8) q start-atomic)) q (26708 . 2)) ((c def c (c (? . 33) q call-with-autorelease)) q (31362 . 3)) ((c def c (c (? . 0) q _path)) q (3182 . 2)) ((c def c (c (? . 0) q free-immobile-cell)) q (13273 . 3)) ((c def c (c (? . 2) q u32vector->list)) c (? . 32)) ((c form c (c (? . 1) q define-com-interface)) q (36413 . 8)) ((c def c (c (? . 1) q _GUID)) q (37701 . 2)) ((c form c (c (? . 2) q _s32vector)) q (17596 . 3)) ((c def c (c (? . 3) q _array)) q (6988 . 4)) ((c def c (c (? . 3) q _enum)) q (8472 . 5)) ((c def c (c (? . 4) q class_addIvar)) q (30090 . 11)) ((c def c (c (? . 2) q u16vector-ref)) c (? . 10)) ((c def c (c (? . 1) q AddRef)) q (36932 . 3)) ((c def c (c (? . 4) q objc_msgSend/typed)) q (30717 . 6)) ((c def c (c (? . 3) q ffi-obj-ref)) q (1334 . 5)) ((c form c (c (? . 2) q _s64vector)) q (19396 . 3)) ((c def c (c (? . 3) q _sint64)) c (? . 12)) ((c def c (c (? . 3) q ffi-lib)) q (54 . 11)) ((c def c (c (? . 4) q make-objc_super)) q (31192 . 4)) ((c def c (c (? . 4) q objc-is-a?)) q (29206 . 4)) ((c def c (c (? . 3) q ctype->layout)) q (1947 . 4)) ((c def c (c (? . 2) q list->u64vector)) c (? . 9)) ((c def c (c (? . 0) q ctype-c->scheme)) c (? . 17)) ((q form ((lib "ffi/serialize-cstruct.rkt") define-serializable-cstruct)) q (24608 . 9)) ((c form c (c (? . 4) q selector)) q (29177 . 2)) ((c def c (c (? . 2) q make-f32vector)) c (? . 6)) ((q def ((lib "ffi/unsafe/nsstring.rkt") _NSString)) q (31335 . 2)) ((c def c (c (? . 2) q f80vector->cpointer)) c (? . 5)) ((c def c (c (? . 1) q com-object-get-iunknown)) q (35485 . 3)) ((c def c (c (? . 16) q cvector-ptr)) q (22995 . 3)) ((c def c (c (? . 3) q _slong)) c (? . 20)) ((c def c (c (? . 4) q _id)) q (27516 . 2)) ((c def c (c (? . 3) q cast)) q (39186 . 5)) ((c def c (c (? . 2) q make-s64vector)) c (? . 11)) ((c def c (c (? . 1) q com-type=?)) q (32926 . 4)) ((c def c (c (? . 3) q _string*/utf-8)) c (? . 18)) ((c def c (c (? . 2) q s16vector-set!)) c (? . 15)) ((c def c (c (? . 1) q com-omit)) q (33468 . 2)) ((c def c (c (? . 1) q clsid?)) q (31519 . 3)) ((c def c (c (? . 2) q f80vector-set!)) c (? . 5)) ((c def c (c (? . 1) q com-get-active-object)) q (32408 . 3)) ((c def c (c (? . 19) q releaser)) q (25742 . 4)) ((c def c (c (? . 1) q LOCALE_SYSTEM_DEFAULT)) q (37804 . 2)) ((c def c (c (? . 2) q f32vector)) c (? . 6)) ((c form c (c (? . 4) q get-ivar)) q (29088 . 2)) ((c def c (c (? . 7) q unregister-custodian-shutdown)) q (26538 . 5)) ((c def c (c (? . 7) q register-custodian-shutdown)) q (26052 . 11)) ((c def c (c (? . 2) q f32vector->list)) c (? . 6)) ((c def c (c (? . 37) q win64?)) q (38662 . 2)) ((c def c (c (? . 1) q com-event-executor?)) q (34928 . 3)) ((c def c (c (? . 0) q ctype-alignof)) c (? . 24)) ((c def c (c (? . 8) q in-atomic-mode?)) q (27005 . 2)) ((c def c (c (? . 2) q u64vector-length)) c (? . 9)) ((c def c (c (? . 0) q ffi-obj-name)) c (? . 39)) ((c def c (c (? . 2) q u64vector-set!)) c (? . 9)) ((c def c (c (? . 2) q u16vector)) c (? . 10)) ((c def c (c (? . 2) q s64vector-length)) c (? . 11)) ((c def c (c (? . 4) q objc_allocateClassPair)) q (29499 . 5)) ((c def c (c (? . 0) q _int32)) c (? . 12)) ((c def c (c (? . 2) q s32vector)) c (? . 14)) ((c def c (c (? . 2) q u16vector->cpointer)) c (? . 10)) ((c def c (c (? . 3) q set-ffi-obj!)) q (835 . 6)) ((c def c (c (? . 3) q _sint8)) c (? . 12)) ((c def c (c (? . 3) q _sint16)) c (? . 12)) ((c def c (c (? . 4) q _BOOL)) q (27610 . 2)) ((c def c (c (? . 1) q windows-error)) q (38163 . 4)) ((c def c (c (? . 3) q union-ptr)) q (8415 . 3)) ((c def c (c (? . 1) q progid->clsid)) q (31936 . 3)) ((c def c (c (? . 2) q u64vector->list)) c (? . 9)) ((c def c (c (? . 1) q string->iid)) q (31745 . 3)) ((c form c (c (? . 4) q define-objc-mixin)) q (28869 . 6)) ((c def c (c (? . 2) q u64vector-ref)) c (? . 9)) ((c def c (c (? . 2) q list->s8vector)) c (? . 13)) ((c def c (c (? . 1) q com-set-property-type)) q (34229 . 6)) ((c def c (c (? . 0) q prop:cpointer)) q (13585 . 2)) ((c def c (c (? . 2) q s64vector)) c (? . 11)) ((c def c (c (? . 2) q s8vector->cpointer)) c (? . 13)) ((c def c (c (? . 22) q make-not-available)) q (25352 . 3)) ((c def c (c (? . 0) q _int16)) c (? . 12)) ((c def c (c (? . 8) q end-atomic)) q (26744 . 2)) ((c def c (c (? . 1) q com-object-get-idispatch)) q (35568 . 3)) ((c form c (c (? . 3) q define-cstruct)) q (6616 . 9)) ((c def c (c (? . 0) q memset)) q (11858 . 12)) ((c def c (c (? . 2) q make-s32vector)) c (? . 14)) ((c def c (c (? . 2) q s16vector-length)) c (? . 15)) ((c def c (c (? . 3) q _string/eof)) q (3582 . 2)) ((c def c (c (? . 16) q cvector)) q (22701 . 4)) ((c def c (c (? . 0) q _int8)) c (? . 12)) ((c def c (c (? . 2) q list->s64vector)) c (? . 11)) ((c def c (c (? . 3) q vector->cblock)) q (38815 . 4)) ((c def c (c (? . 0) q ctype-scheme->c)) c (? . 17)) ((c def c (c (? . 0) q malloc-immobile-cell)) q (13206 . 3)) ((c def c (c (? . 1) q com-object-clsid)) q (32524 . 3)) ((c def c (c (? . 3) q _string*/latin-1)) c (? . 18)) ((c def c (c (? . 4) q objc_getProtocol)) q (29362 . 3)) ((c def c (c (? . 0) q _scheme)) q (3690 . 2)) ((c def c (c (? . 0) q _ufixint)) c (? . 31)) ((c form c (c (? . 3) q _box)) q (5977 . 2)) ((c def c (c (? . 27) q clsid->coclass)) q (36345 . 3)) ((c def c (c (? . 0) q ffi-callback)) q (40505 . 13)) ((c def c (c (? . 19) q allocator)) q (25488 . 4)) ((c def c (c (? . 1) q com-get-property-type)) q (33605 . 6)) ((c def c (c (? . 16) q make-cvector)) q (22586 . 4)) ((c def c (c (? . 3) q list->cblock)) q (38732 . 4)) ((c form c (c (? . 1) q _wfun)) q (37372 . 3)) ((c form c (c (? . 3) q define-fun-syntax)) q (5848 . 2)) ((c def c (c (? . 2) q s8vector)) c (? . 13)) ((c def c (c (? . 3) q cblock->vector)) q (39442 . 5)) ((c def c (c (? . 16) q cvector?)) q (22789 . 3)) ((c def c (c (? . 0) q offset-ptr?)) q (9076 . 3)) ((c def c (c (? . 0) q set-ptr-offset!)) q (9287 . 5)) ((c def c (c (? . 1) q IID_NULL)) q (38019 . 2)) ((c def c (c (? . 4) q objc_lookUpClass)) q (29288 . 3)) ((c def c (c (? . 0) q make-array-type)) q (6874 . 4)) ((c def c (c (? . 4) q _Protocol)) q (27561 . 2)) ((c def c (c (? . 2) q s32vector-ref)) c (? . 14)) ((c def c (c (? . 3) q _string*/locale)) c (? . 18)) ((c def c (c (? . 16) q make-cvector*)) q (23442 . 5)) ((c def c (c (? . 1) q _GUID-pointer)) q (37724 . 2)) ((c def c (c (? . 2) q list->f32vector)) c (? . 6)) ((c def c (c (? . 4) q _Ivar)) q (30694 . 2)) ((c def c (c (? . 0) q _double*)) c (? . 25)) ((c form c (c (? . 4) q import-protocol)) q (28037 . 2)) ((c def c (c (? . 3) q array-length)) q (7426 . 3)) ((c def c (c (? . 0) q free)) q (13078 . 3)) ((c def c (c (? . 2) q s64vector-set!)) c (? . 11)) ((c def c (c (? . 1) q com-create-instance)) q (32151 . 4)) ((c def c (c (? . 2) q f64vector?)) c (? . 23)) ((c def c (c (? . 2) q s64vector->cpointer)) c (? . 11)) ((c def c (c (? . 3) q _string/utf-8)) c (? . 36)) ((c def c (c (? . 0) q ffi-call)) q (40090 . 13)) ((c def c (c (? . 3) q _ullong)) c (? . 20)) ((c def c (c (? . 3) q _sbyte)) c (? . 21)) ((c def c (c (? . 2) q make-s8vector)) c (? . 13)) ((c def c (c (? . 2) q s64vector->list)) c (? . 11)) ((c def c (c (? . 3) q get-ffi-obj)) q (598 . 6)) ((c def c (c (? . 1) q com-object-eq?)) q (32696 . 4)) ((c def c (c (? . 1) q string->guid)) q (31621 . 3)) ((c def c (c (? . 1) q com-unregister-event-callback)) q (35376 . 4)) ((c def c (c (? . 2) q u16vector?)) c (? . 10)) ((c def c (c (? . 2) q f80vector-ref)) c (? . 5)) ((c def c (c (? . 3) q _ubyte)) c (? . 21)) ((c form c (c (? . 22) q provide-protected)) q (25442 . 2)) ((c def c (c (? . 1) q type-description?)) q (35773 . 3)) ((c def c (c (? . 2) q list->u16vector)) c (? . 10)) ((c def c (c (? . 30) q _file/r)) q (38611 . 2)) ((c def c (c (? . 2) q make-f80vector)) c (? . 5)) ((c def c (c (? . 0) q compiler-sizeof)) q (2054 . 3)) ((c def c (c (? . 3) q array?)) q (7099 . 3)) ((c def c (c (? . 2) q f32vector-ref)) c (? . 6)) ((c def c (c (? . 2) q s64vector-ref)) c (? . 11)) ((c def c (c (? . 1) q com-set-property!)) q (34456 . 6)) ((c def c (c (? . 8) q end-breakable-atomic)) q (26824 . 2)) ((c def c (c (? . 0) q _uint32)) c (? . 12)) ((c def c (c (? . 0) q end-stubborn-change)) q (13134 . 3)) ((c form c (c (? . 2) q _s16vector)) q (15912 . 3)) ((c def c (c (? . 1) q type-describe)) q (35897 . 4)) ((c def c (c (? . 0) q _uint16)) c (? . 12)) ((c def c (c (? . 0) q _longdouble)) q (3044 . 2)) ((c def c (c (? . 2) q f32vector?)) c (? . 6)) ((c def c (c (? . 3) q _or-null)) q (3742 . 3)) ((c def c (c (? . 8) q call-as-nonatomic)) q (26935 . 3)) ((c def c (c (? . 3) q _long)) c (? . 20)) ((c def c (c (? . 3) q cblock->list)) q (39301 . 5)) ((c def c (c (? . 3) q union?)) q (8157 . 3)) ((c def c (c (? . 1) q _IUnknown-pointer)) q (38098 . 2)) ((c def c (c (? . 2) q f64vector-ref)) c (? . 23)) ((c form c (c (? . 4) q tellv)) q (27936 . 3)) ((c def c (c (? . 3) q cpointer-push-tag!)) c (? . 26)) ((c form c (c (? . 4) q tell)) q (27678 . 9)) ((c def c (c (? . 2) q s8vector-ref)) c (? . 13)) ((c def c (c (? . 3) q _ushort)) c (? . 20)) ((c def c (c (? . 2) q f32vector-length)) c (? . 6)) ((c def c (c (? . 1) q com-make-event-executor)) q (34993 . 2)) ((c def c (c (? . 3) q array-ptr)) q (7369 . 3)) ((c def c (c (? . 2) q s8vector?)) c (? . 13)) ((c def c (c (? . 2) q s16vector)) c (? . 15)) ((c def c (c (? . 2) q make-u16vector)) c (? . 10)) ((c def c (c (? . 2) q u16vector->list)) c (? . 10)) ((c def c (c (? . 0) q _void)) q (3096 . 2)) ((c def c (c (? . 3) q _string)) q (3401 . 2)) ((c def c (c (? . 1) q _HRESULT)) q (37755 . 2)) ((c def c (c (? . 0) q ctype-sizeof)) c (? . 24)) ((c def c (c (? . 3) q in-array)) q (7558 . 6)) ((c def c (c (? . 3) q _ulong)) c (? . 20)) ((c def c (c (? . 2) q s32vector-length)) c (? . 14)) ((c def c (c (? . 3) q make-c-parameter)) q (1030 . 6)) ((c def c (c (? . 0) q _float)) c (? . 25)) ((c def c (c (? . 4) q object_getClass)) q (29691 . 3)) ((c def c (c (? . 1) q com-set-properties)) q (34117 . 3)) ((c def c (c (? . 2) q f80vector?)) c (? . 5)) ((c def c (c (? . 3) q cpointer-has-tag?)) c (? . 26)) ((c def c (c (? . 16) q cvector->list)) q (23288 . 3)) ((c def c (c (? . 0) q lookup-errno)) q (39091 . 3)) ((c def c (c (? . 2) q f64vector-set!)) c (? . 23)) ((c def c (c (? . 3) q _uintmax)) c (? . 29)) ((c def c (c (? . 3) q _array/vector)) q (7904 . 4)) ((c def c (c (? . 2) q s32vector-set!)) c (? . 14)) ((c def c (c (? . 27) q com-all-controls)) q (36221 . 2)) ((c def c (c (? . 2) q make-f64vector)) c (? . 23)) ((c form c (c (? . 2) q _f64vector)) q (21734 . 3)) ((c def c (c (? . 2) q s32vector->cpointer)) c (? . 14)) ((c form c (c (? . 2) q _f80vector)) q (22488 . 3)) ((c def c (c (? . 3) q _uword)) c (? . 28)) ((c def c (c (? . 2) q s64vector?)) c (? . 11)) ((c def c (c (? . 16) q cvector-ref)) q (23062 . 4)) ((c def c (c (? . 0) q ptr-add!)) q (9433 . 5)) ((c def c (c (? . 2) q make-u8vector)) c (? . 34)) ((c def c (c (? . 0) q vector->cpointer)) q (38901 . 3)) ((c def c (c (? . 3) q array-ref)) q (7151 . 4)) ((c def c (c (? . 3) q _racket)) q (3665 . 2)) ((c def c (c (? . 3) q _size)) c (? . 29)) ((c form c (c (? . 3) q define-c)) q (1291 . 2)) ((c def c (c (? . 3) q _file)) q (3531 . 2)) ((c form c (c (? . 22) q define-ffi-definer)) q (24958 . 7)) ((c def c (c (? . 2) q s32vector->list)) c (? . 14)) ((c def c (c (? . 4) q _objc_super)) q (31284 . 2)) ((c form c (c (? . 4) q import-class)) q (28000 . 2)) ((c form c (c (? . 3) q _ptr)) q (5907 . 6)) ((c form c (c (? . 3) q define-cpointer-type)) q (24237 . 5)) ((c def c (c (? . 30) q _file/rw)) q (38636 . 2)) ((c def c (c (? . 2) q make-s16vector)) c (? . 15)) ((c def c (c (? . 0) q make-cstruct-type)) q (6215 . 5)) ((c def c (c (? . 1) q com-object-type)) q (32854 . 3)) ((c def c (c (? . 1) q com-get-property)) q (33820 . 5)) ((c def c (c (? . 0) q make-sized-byte-string)) q (13459 . 4)) ((c def c (c (? . 2) q u16vector-length)) c (? . 10)) ((c def c (c (? . 4) q objc_msgSendSuper/typed)) q (30889 . 9)) ((c def c (c (? . 16) q cvector-length)) q (22843 . 3)) ((c def c (c (? . 0) q _fixint)) c (? . 31)) ((c def c (c (? . 3) q _ptrdiff)) c (? . 29)) ((c def c (c (? . 3) q _llong)) c (? . 20)) ((c def c (c (? . 1) q com-object?)) q (32084 . 3)) ((c form c (c (? . 2) q _u64vector)) q (20276 . 3)) ((c def c (c (? . 0) q _string/utf-16)) q (3150 . 2)) ((c def c (c (? . 2) q f80vector)) c (? . 5)) ((q form ((lib "ffi/objc.rkt") objc-unsafe!)) q (31313 . 2)) ((c def c (c (? . 0) q make-union-type)) q (8022 . 3)) ((c def c (c (? . 4) q _SEL)) q (27588 . 2)) ((c def c (c (? . 8) q call-as-atomic)) q (26868 . 3)) ((c form c (c (? . 4) q self)) q (28996 . 2)) ((c form c (c (? . 3) q _?)) q (5897 . 2)) ((c def c (c (? . 1) q _IUnknown_vt)) q (38133 . 2)) ((c def c (c (? . 1) q guid?)) q (31468 . 3)) ((c def c (c (? . 2) q u64vector)) c (? . 9)) ((c def c (c (? . 2) q f64vector)) c (? . 23)) ((c form c (c (? . 2) q _u16vector)) q (16716 . 3)) ((c def c (c (? . 0) q ctype-basetype)) c (? . 17)) ((c def c (c (? . 8) q start-breakable-atomic)) q (26778 . 2)) ((c def c (c (? . 0) q malloc)) q (12382 . 16)) ((c def c (c (? . 2) q f32vector-set!)) c (? . 6)) ((c form c (c (? . 3) q _fun)) q (4916 . 23)) ((c def c (c (? . 0) q memcpy)) q (11094 . 24)) ((c def c (c (? . 2) q u32vector-length)) c (? . 32)) ((c def c (c (? . 3) q _uint)) c (? . 20)) ((c def c (c (? . 0) q _int64)) c (? . 12)) ((c def c (c (? . 3) q array-type)) q (7503 . 3)) ((c def c (c (? . 1) q com-object-set-clsid!)) q (32594 . 4)) ((c def c (c (? . 2) q u64vector->cpointer)) c (? . 9)) ((c def c (c (? . 2) q u32vector->cpointer)) c (? . 32)) ((c def c (c (? . 0) q ptr-offset)) q (9143 . 3)) ((c def c (c (? . 3) q register-finalizer)) q (13344 . 4)) ((c def c (c (? . 2) q make-u32vector)) c (? . 32)) ((c def c (c (? . 19) q deallocator)) q (25606 . 4)) ((c def c (c (? . 1) q QueryInterface)) q (36686 . 7)) ((c def c (c (? . 1) q com-iunknown?)) q (35654 . 3)) ((c def c (c (? . 1) q com-get-properties)) q (33493 . 3)) ((c def c (c (? . 2) q u32vector?)) c (? . 32)) ((c def c (c (? . 1) q guid=?)) q (31861 . 4)) ((c def c (c (? . 0) q cpointer-gcable?)) q (9215 . 3)) ((c form c (c (? . 3) q _list)) q (5989 . 9)) ((c def c (c (? . 1) q SysAllocStringLen)) q (37914 . 4)) ((c def c (c (? . 0) q ffi-obj)) q (39587 . 4)) ((c form c (c (? . 1) q _hfun)) q (37562 . 2)) ((c def c (c (? . 3) q _short)) c (? . 20)) ((c def c (c (? . 0) q _double)) c (? . 25)) ((c def c (c (? . 2) q s16vector->list)) c (? . 15)) ((c def c (c (? . 1) q _IUnknown)) q (38071 . 2)) ((c def c (c (? . 27) q com-all-coclasses)) q (36168 . 2)) ((c def c (c (? . 4) q object_getInstanceVariable)) q (30468 . 4)) ((c form c (c (? . 3) q _bytes)) q (6179 . 3)) ((c def c (c (? . 2) q s8vector->list)) c (? . 13)) ((c def c (c (? . 1) q com-event-type)) q (34748 . 5)) ((c def c (c (? . 27) q coclass->clsid)) q (36273 . 3)) ((c def c (c (? . 4) q _Class)) q (27537 . 2)) ((c def c (c (? . 1) q IID_IUnknown)) q (38043 . 2)) ((c form c (c (? . 33) q with-autorelease)) q (31436 . 2)) ((c form c (c (? . 2) q _u32vector)) q (18425 . 3)) ((c def c (c (? . 1) q type-described-value)) q (36000 . 3)) ((c def c (c (? . 1) q com-idispatch?)) q (35713 . 3)) ((c def c (c (? . 0) q ffi-lib?)) q (0 . 3)) ((c def c (c (? . 0) q _pointer)) q (3611 . 2)) ((c def c (c (? . 0) q ptr-set!)) c (? . 35)) ((c def c (c (? . 2) q list->f64vector)) c (? . 23)) ((c def c (c (? . 4) q object_setInstanceVariable)) q (30573 . 5)) ((c def c (c (? . 1) q SysFreeString)) q (37851 . 3)) ((c def c (c (? . 0) q _ufixnum)) c (? . 40)) ((c def c (c (? . 2) q s16vector?)) c (? . 15)) ((c def c (c (? . 0) q saved-errno)) q (39047 . 2)) ((c def c (c (? . 0) q ffi-callback?)) q (40979 . 3)) ((c def c (c (? . 2) q make-u64vector)) c (? . 9)) ((c def c (c (? . 1) q type-described-description)) q (36075 . 3)) ((c def c (c (? . 3) q union-ref)) q (8209 . 4)) ((c def c (c (? . 3) q _sintptr)) c (? . 20)) ((c def c (c (? . 3) q _uintptr)) c (? . 20)) ((c def c (c (? . 3) q array-set!)) q (7250 . 5)) ((c def c (c (? . 3) q _intmax)) c (? . 29)) ((c def c (c (? . 2) q u8vector)) c (? . 34)) ((c def c (c (? . 1) q make-com-object)) q (37114 . 7)) ((c def c (c (? . 16) q list->cvector)) q (23353 . 4)) ((c def c (c (? . 3) q _word)) c (? . 28)) ((c def c (c (? . 1) q com-get-property*)) q (33988 . 5)) ((c def c (c (? . 1) q com-register-event-callback)) q (35054 . 9)) ((c def c (c (? . 0) q _string/ucs-4)) q (3119 . 2)) ((c def c (c (? . 3) q _cprocedure)) q (3863 . 19)) ((c def c (c (? . 3) q _union)) q (8094 . 3)) ((c def c (c (? . 3) q _list-struct)) q (6432 . 5)) ((c def c (c (? . 0) q ptr-ref)) c (? . 35)) ((c form c (c (? . 2) q _f32vector)) q (21005 . 3)) ((c def c (c (? . 2) q s8vector-length)) c (? . 13)) ((c def c (c (? . 0) q cpointer-tag)) q (12226 . 3)) ((c def c (c (? . 1) q com-methods)) q (33013 . 3)) ((c def c (c (? . 1) q com-events)) q (34644 . 3)) ((c def c (c (? . 4) q sel_registerName)) q (29439 . 3)) ((c def c (c (? . 1) q com-invoke)) q (33340 . 5)) ((c def c (c (? . 2) q u8vector?)) c (? . 34)) ((c def c (c (? . 3) q _byte)) c (? . 21)) ((c def c (c (? . 2) q s16vector->cpointer)) c (? . 15)) ((c def c (c (? . 0) q make-ctype)) q (1545 . 5)) ((c def c (c (? . 2) q u8vector->cpointer)) c (? . 34)) ((c def c (c (? . 3) q _string/latin-1)) c (? . 36)) ((c def c (c (? . 2) q list->s16vector)) c (? . 15)) ((c def c (c (? . 2) q s16vector-ref)) c (? . 15)) ((c def c (c (? . 0) q ptr-add)) q (8936 . 5)) ((c form c (c (? . 4) q define-objc-class)) q (28080 . 25)) ((c def c (c (? . 0) q ptr-equal?)) q (8837 . 4)) ((c def c (c (? . 0) q _uint64)) c (? . 12)) ((c def c (c (? . 1) q string->clsid)) q (31682 . 3)) ((c def c (c (? . 0) q flvector->cpointer)) q (38970 . 3)) ((c def c (c (? . 0) q _symbol)) q (3205 . 2)) ((c def c (c (? . 2) q s32vector?)) c (? . 14)) ((c def c (c (? . 4) q YES)) q (27633 . 2)) ((c def c (c (? . 0) q _uint8)) c (? . 12)) ((c form c (c (? . 16) q _cvector)) q (22536 . 3)) ((c def c (c (? . 3) q _sllong)) c (? . 20)) ((c def c (c (? . 3) q _string/locale)) c (? . 36)) ((c def c (c (? . 0) q set-cpointer-tag!)) q (12289 . 4)) ((c def c (c (? . 2) q u32vector-set!)) c (? . 32)) ((c def c (c (? . 3) q _array/list)) q (7788 . 4)) ((c def c (c (? . 3) q function-ptr)) q (5703 . 4)) ((c def c (c (? . 37) q winapi)) q (38688 . 2)) ((c def c (c (? . 2) q u64vector?)) c (? . 9)) ((c def c (c (? . 16) q cvector-set!)) q (23163 . 5)) ((c def c (c (? . 1) q com-type?)) q (32799 . 3)) ((c def c (c (? . 3) q _sint)) c (? . 20)) ((c def c (c (? . 2) q f64vector->list)) c (? . 23)) ((c def c (c (? . 0) q ctype?)) q (1738 . 3)) ((c def c (c (? . 1) q com-method-type)) q (33118 . 6)) ((c def c (c (? . 2) q list->f80vector)) c (? . 5)) ((c def c (c (? . 3) q _cpointer/null)) c (? . 38)) ((c def c (c (? . 2) q f80vector-length)) c (? . 5)) ((c def c (c (? . 2) q u8vector-length)) c (? . 34)) ((c def c (c (? . 0) q memmove)) q (10322 . 24)) ((c def c (c (? . 2) q f64vector-length)) c (? . 23)) ((c def c (c (? . 3) q _cpointer)) c (? . 38)) ((c def c (c (? . 2) q list->u8vector)) c (? . 34)) ((c form c (c (? . 4) q super-tell)) q (29008 . 3)) ((c def c (c (? . 3) q _sint32)) c (? . 12)) ((c def c (c (? . 1) q Release)) q (37021 . 3)) ((c def c (c (? . 41) q try-atomic)) q (27129 . 9)) ((c form c (c (? . 2) q _s8vector)) q (15085 . 3)) ((c def c (c (? . 16) q cvector-type)) q (22930 . 3)) ((c def c (c (? . 1) q type-described?)) q (35836 . 3)) ((c def c (c (? . 3) q _ssize)) c (? . 29)) ((c def c (c (? . 1) q _LCID)) q (37781 . 2)) ((c form c (c (? . 1) q _hmfun)) q (37631 . 2)) ((c def c (c (? . 2) q u32vector-ref)) c (? . 32)) ((c form c (c (? . 3) q _vector)) q (6139 . 2)) ((c def c (c (? . 0) q _gcpointer)) q (3637 . 2)) ((c def c (c (? . 0) q ffi-obj-lib)) c (? . 39)) ((c def c (c (? . 30) q security-guard-check-file)) q (38263 . 5)) ((c form c (c (? . 3) q ->)) q (5838 . 2)) ((c def c (c (? . 4) q NO)) q (27656 . 2)) ((c def c (c (? . 2) q f80vector->list)) c (? . 5)) ((c def c (c (? . 2) q u16vector-set!)) c (? . 10)) ((c form c (c (? . 2) q _u8vector)) q (14295 . 3)) ((c def c (c (? . 0) q ffi-obj?)) c (? . 39)) ((c def c (c (? . 2) q u8vector->list)) c (? . 34)) ((c def c (c (? . 2) q f64vector->cpointer)) c (? . 23)) ((c def c (c (? . 2) q u8vector-set!)) c (? . 34)) ((c def c (c (? . 3) q _int)) c (? . 20)) ((c def c (c (? . 1) q iid?)) q (31571 . 3)) ((c def c (c (? . 0) q _fpointer)) q (3715 . 2)) ((c def c (c (? . 3) q union-set!)) q (8302 . 5)) ((c def c (c (? . 3) q _sshort)) c (? . 20)) ((c def c (c (? . 4) q class_addMethod)) q (29752 . 11)) ((c def c (c (? . 0) q _fixnum)) c (? . 40)) ((c def c (c (? . 0) q _bool)) q (3073 . 2)) ((c def c (c (? . 2) q u32vector)) c (? . 32)) ((c form c (c (? . 1) q _mfun)) q (37467 . 3)) ((c def c (c (? . 2) q u8vector-ref)) c (? . 34)) ((c def c (c (? . 2) q f32vector->cpointer)) c (? . 6)) ((c def c (c (? . 19) q retainer)) q (25875 . 5)) ((c def c (c (? . 30) q _file/guard)) q (38450 . 4)) ((c def c (c (? . 3) q _intptr)) c (? . 20)) ((c def c (c (? . 3) q _bytes/eof)) q (3554 . 2)) ((c def c (c (? . 3) q default-_string-type)) q (3426 . 4)) ((c form c (c (? . 4) q set-ivar!)) q (29126 . 2)) ((c def c (c (? . 3) q _bitmask)) q (8657 . 4)) ((c def c (c (? . 2) q list->u32vector)) c (? . 32)) ((c def c (c (? . 3) q _gcable)) q (3803 . 3)) ((c def c (c (? . 2) q list->s32vector)) c (? . 14)) ((c def c (c (? . 4) q objc_registerClassPair)) q (29621 . 3)) ((c def c (c (? . 0) q cpointer?)) q (8782 . 3)) ((c def c (c (? . 41) q call-as-nonatomic-retry-point)) q (27047 . 3)) ((c def c (c (? . 1) q guid->string)) q (31804 . 3)) ((c def c (c (? . 2) q s8vector-set!)) c (? . 13)) ((c def c (c (? . 1) q clsid->progid)) q (32005 . 3))))
+24175
+((3) 0 () 43 ((q quote #%foreign) (q lib "ffi/unsafe.rkt") (q lib "ffi/unsafe/com.rkt") (q lib "ffi/vector.rkt") (q lib "ffi/unsafe/objc.rkt") (q 17299 . 22) (q lib "ffi/unsafe/atomic.rkt") (q 2791 . 6) (q 18103 . 23) (q 20783 . 23) (q 14970 . 22) (q 2166 . 13) (q 15680 . 22) (q lib "ffi/file.rkt") (q 19812 . 24) (q 18983 . 22) (q 2936 . 3) (q 23121 . 22) (q lib "ffi/unsafe/alloc.rkt") (q 2511 . 16) (q 22392 . 22) (q lib "ffi/winapi.rkt") (q 21663 . 22) (q lib "ffi/unsafe/cvector.rkt") (q 44907 . 7) (q lib "ffi/unsafe/custodian.rkt") (q lib "ffi/unsafe/define.rkt") (q 2981 . 4) (q 16470 . 22) (q lib "ffi/com-registry.rkt") (q lib "ffi/unsafe/define/conventions.rkt") (q 3256 . 4) (q 10823 . 25) (q 3340 . 4) (q 2393 . 4) (q 2891 . 3) (q lib "ffi/unsafe/try-atomic.rkt") (q 45069 . 7) (q 2452 . 4) (q lib "ffi/unsafe/nsalloc.rkt") (q 25925 . 7) (q 1790 . 5) (q 24922 . 17)) () (h ! (equal) ((c def c (c (? . 0) q _pointer)) q (3637 . 2)) ((c form c (c (? . 39) q with-autorelease)) q (35181 . 2)) ((c def c (c (? . 0) q _ufixint)) c (? . 16)) ((c def c (c (? . 1) q ffi-obj-ref)) q (1334 . 5)) ((c def c (c (? . 0) q make-sized-byte-string)) q (14731 . 4)) ((c def c (c (? . 25) q unregister-custodian-shutdown)) q (28572 . 5)) ((c def c (c (? . 1) q _array/vector)) q (9155 . 4)) ((c def c (c (? . 1) q _list-struct)) q (6617 . 10)) ((c def c (c (? . 1) q cpointer-push-tag!)) c (? . 40)) ((c def c (c (? . 3) q u8vector-length)) c (? . 10)) ((c def c (c (? . 2) q type-description?)) q (39723 . 3)) ((c form c (c (? . 2) q _hmfun)) q (41665 . 2)) ((c form c (c (? . 1) q _list)) q (6174 . 9)) ((c def c (c (? . 13) q security-guard-check-file)) q (42656 . 5)) ((c def c (c (? . 0) q free-immobile-cell)) q (14545 . 3)) ((c def c (c (? . 2) q IID_NULL)) q (42412 . 2)) ((c def c (c (? . 1) q _long)) c (? . 19)) ((c def c (c (? . 2) q progid->clsid)) q (35681 . 3)) ((c def c (c (? . 3) q u16vector-ref)) c (? . 5)) ((c def c (c (? . 3) q s64vector-length)) c (? . 14)) ((c def c (c (? . 2) q type-described?)) q (39786 . 3)) ((c def c (c (? . 0) q _int16)) c (? . 11)) ((c def c (c (? . 2) q com-set-property!)) q (38256 . 6)) ((c def c (c (? . 2) q Release)) q (40971 . 3)) ((c def c (c (? . 4) q object_getClass)) q (33368 . 3)) ((c def c (c (? . 0) q memcpy)) q (12345 . 24)) ((c def c (c (? . 3) q make-s32vector)) c (? . 8)) ((c form c (c (? . 1) q define-fun-syntax)) q (6025 . 2)) ((c def c (c (? . 2) q com-object-eq?)) q (36441 . 4)) ((c def c (c (? . 3) q f64vector-length)) c (? . 20)) ((c def c (c (? . 2) q com-enumeration-to-list)) q (39359 . 3)) ((c def c (c (? . 0) q _bool)) q (3099 . 2)) ((c def c (c (? . 4) q objc-get-superclass)) q (32676 . 3)) ((c def c (c (? . 1) q _bytes/eof)) q (3580 . 2)) ((c def c (c (? . 1) q get-ffi-obj)) q (598 . 6)) ((c def c (c (? . 2) q com-method-type)) q (36863 . 6)) ((c def c (c (? . 3) q list->s8vector)) c (? . 12)) ((c def c (c (? . 3) q f80vector->cpointer)) c (? . 17)) ((c def c (c (? . 6) q in-atomic-mode?)) q (30052 . 2)) ((c def c (c (? . 4) q objc-is-a?)) q (32355 . 4)) ((c form c (c (? . 30) q convention:hyphen->underscore)) q (27449 . 2)) ((c def c (c (? . 3) q u16vector->cpointer)) c (? . 5)) ((c def c (c (? . 1) q _ptrdiff)) c (? . 7)) ((c def c (c (? . 3) q u32vector?)) c (? . 15)) ((c def c (c (? . 3) q list->f32vector)) c (? . 22)) ((c def c (c (? . 0) q memset)) q (13109 . 12)) ((c def c (c (? . 6) q call-as-atomic)) q (29915 . 3)) ((c def c (c (? . 1) q _string/eof)) q (3608 . 2)) ((q form ((lib "ffi/serialize-cstruct.rkt") define-serializable-cstruct)) q (26105 . 15)) ((c def c (c (? . 4) q objc_registerClassPair)) q (33298 . 3)) ((c def c (c (? . 0) q ctype-basetype)) c (? . 37)) ((c form c (c (? . 3) q _u8vector)) q (15634 . 3)) ((c def c (c (? . 1) q _size)) c (? . 7)) ((c def c (c (? . 0) q _string/utf-16)) q (3176 . 2)) ((c def c (c (? . 3) q s32vector-ref)) c (? . 8)) ((c def c (c (? . 0) q _double*)) c (? . 27)) ((c def c (c (? . 18) q allocator)) q (27522 . 4)) ((c def c (c (? . 0) q ffi-callback?)) q (46155 . 3)) ((c def c (c (? . 0) q cpointer-tag)) q (13477 . 3)) ((c def c (c (? . 3) q u64vector)) c (? . 9)) ((c def c (c (? . 2) q com-get-properties)) q (37293 . 3)) ((c def c (c (? . 3) q u64vector->cpointer)) c (? . 9)) ((c def c (c (? . 3) q u8vector?)) c (? . 10)) ((c def c (c (? . 1) q register-finalizer)) q (14616 . 4)) ((c form c (c (? . 3) q _s32vector)) q (18935 . 3)) ((c def c (c (? . 0) q _uint64)) c (? . 11)) ((c def c (c (? . 4) q objc-set-class!)) q (32592 . 4)) ((c def c (c (? . 0) q _symbol)) q (3231 . 2)) ((c def c (c (? . 3) q s8vector?)) c (? . 12)) ((c def c (c (? . 2) q com-get-property)) q (37620 . 5)) ((c def c (c (? . 1) q function-ptr)) q (5880 . 4)) ((c def c (c (? . 13) q security-guard-check-network)) q (43285 . 9)) ((c def c (c (? . 6) q end-atomic)) q (29791 . 2)) ((c def c (c (? . 2) q guid->string)) q (35549 . 3)) ((c def c (c (? . 4) q _Protocol)) q (30710 . 2)) ((c def c (c (? . 3) q list->s64vector)) c (? . 14)) ((c form c (c (? . 3) q _u16vector)) q (18055 . 3)) ((c def c (c (? . 3) q u32vector-set!)) c (? . 15)) ((c def c (c (? . 2) q guid=?)) q (35606 . 4)) ((c def c (c (? . 2) q com-set-property-type)) q (38029 . 6)) ((c def c (c (? . 0) q ptr-ref)) c (? . 32)) ((c def c (c (? . 0) q ptr-offset)) q (10394 . 3)) ((c def c (c (? . 0) q cpointer-gcable?)) q (10466 . 3)) ((c form c (c (? . 4) q self)) q (32145 . 2)) ((c def c (c (? . 0) q _void)) q (3122 . 2)) ((c def c (c (? . 0) q _fixint)) c (? . 16)) ((c def c (c (? . 3) q list->u32vector)) c (? . 15)) ((c form c (c (? . 2) q define-com-interface)) q (40363 . 8)) ((c def c (c (? . 1) q _array/list)) q (9039 . 4)) ((c def c (c (? . 0) q memmove)) q (11573 . 24)) ((c def c (c (? . 0) q _fpointer)) q (3741 . 2)) ((c def c (c (? . 3) q s64vector->cpointer)) c (? . 14)) ((c def c (c (? . 29) q com-all-coclasses)) q (40118 . 2)) ((c def c (c (? . 3) q f80vector-ref)) c (? . 17)) ((c def c (c (? . 0) q ptr-equal?)) q (10088 . 4)) ((c def c (c (? . 2) q HRESULT-retry?)) q (42013 . 3)) ((c def c (c (? . 18) q deallocator)) q (27640 . 4)) ((c def c (c (? . 3) q s16vector-length)) c (? . 28)) ((c def c (c (? . 3) q f80vector?)) c (? . 17)) ((c def c (c (? . 2) q type-described-description)) q (40025 . 3)) ((c def c (c (? . 1) q _file)) q (3557 . 2)) ((c def c (c (? . 13) q _file/r)) q (43004 . 2)) ((c def c (c (? . 23) q make-cvector)) q (23925 . 4)) ((c def c (c (? . 4) q objc_getProtocol)) q (33039 . 3)) ((c def c (c (? . 1) q _string/locale)) c (? . 31)) ((c form c (c (? . 1) q define-cpointer-type)) q (25650 . 5)) ((c def c (c (? . 2) q com-event-executor?)) q (38728 . 3)) ((c def c (c (? . 3) q list->u64vector)) c (? . 9)) ((c def c (c (? . 0) q ffi-obj-name)) c (? . 24)) ((c def c (c (? . 18) q retainer)) q (27909 . 5)) ((c def c (c (? . 21) q winapi)) q (43625 . 2)) ((c def c (c (? . 1) q _sllong)) c (? . 19)) ((c def c (c (? . 1) q _uword)) c (? . 38)) ((c def c (c (? . 1) q vector->cblock)) q (43843 . 5)) ((c def c (c (? . 4) q objc-get-class)) q (32532 . 3)) ((c def c (c (? . 26) q make-not-available)) q (27313 . 3)) ((c def c (c (? . 3) q f64vector-set!)) c (? . 20)) ((c def c (c (? . 0) q flvector->cpointer)) q (44090 . 3)) ((c def c (c (? . 21) q win64?)) q (43599 . 2)) ((c def c (c (? . 1) q _gcable)) q (3829 . 3)) ((c form c (c (? . 3) q _s8vector)) q (16424 . 3)) ((c def c (c (? . 1) q _slong)) c (? . 19)) ((c def c (c (? . 3) q f32vector)) c (? . 22)) ((c form c (c (? . 4) q set-ivar!)) q (32275 . 2)) ((c def c (c (? . 4) q make-objc_super)) q (34937 . 4)) ((c def c (c (? . 0) q set-cpointer-tag!)) q (13540 . 4)) ((c def c (c (? . 23) q cvector-type)) q (24269 . 3)) ((c def c (c (? . 23) q list->cvector)) q (24692 . 4)) ((c def c (c (? . 0) q _int8)) c (? . 11)) ((c def c (c (? . 3) q make-f32vector)) c (? . 22)) ((c def c (c (? . 3) q s32vector->list)) c (? . 8)) ((c form c (c (? . 1) q _vector)) q (6324 . 2)) ((c def c (c (? . 3) q s64vector->list)) c (? . 14)) ((c def c (c (? . 3) q f64vector->list)) c (? . 20)) ((c def c (c (? . 0) q _ufixnum)) c (? . 35)) ((c def c (c (? . 2) q _GUID-pointer)) q (42117 . 2)) ((c def c (c (? . 0) q ffi-callback)) q (45681 . 13)) ((c def c (c (? . 1) q cast)) q (44362 . 5)) ((c def c (c (? . 23) q cvector->list)) q (24627 . 3)) ((c def c (c (? . 1) q union-ptr)) q (9666 . 3)) ((c def c (c (? . 3) q f80vector-set!)) c (? . 17)) ((c def c (c (? . 0) q make-union-type)) q (9273 . 3)) ((c form c (c (? . 3) q _s16vector)) q (17251 . 3)) ((c def c (c (? . 0) q lookup-errno)) q (44280 . 3)) ((c def c (c (? . 3) q f64vector)) c (? . 20)) ((c def c (c (? . 2) q windows-error)) q (42556 . 4)) ((c def c (c (? . 3) q u64vector->list)) c (? . 9)) ((c def c (c (? . 1) q in-array)) q (8809 . 6)) ((c def c (c (? . 3) q u8vector-set!)) c (? . 10)) ((c form c (c (? . 3) q _f64vector)) q (23073 . 3)) ((c def c (c (? . 0) q offset-ptr?)) q (10327 . 3)) ((c def c (c (? . 2) q _IUnknown-pointer)) q (42491 . 2)) ((c form c (c (? . 1) q define-cstruct)) q (7098 . 21)) ((c def c (c (? . 2) q QueryInterface)) q (40636 . 7)) ((c def c (c (? . 3) q u64vector-set!)) c (? . 9)) ((c def c (c (? . 0) q _uint32)) c (? . 11)) ((c def c (c (? . 1) q array-ptr)) q (8620 . 3)) ((c form c (c (? . 4) q tellv)) q (31085 . 3)) ((c def c (c (? . 3) q list->u8vector)) c (? . 10)) ((c def c (c (? . 1) q _string*/utf-8)) c (? . 33)) ((c def c (c (? . 0) q ffi-obj-lib)) c (? . 24)) ((c def c (c (? . 25) q make-custodian-at-root)) q (29704 . 2)) ((c def c (c (? . 3) q make-f64vector)) c (? . 20)) ((q def ((lib "ffi/unsafe/nsstring.rkt") _NSString)) q (35080 . 2)) ((c def c (c (? . 0) q ffi-obj)) q (44763 . 4)) ((c def c (c (? . 2) q current-hfun-retry-count)) q (41735 . 4)) ((c form c (c (? . 26) q define-ffi-definer)) q (26884 . 8)) ((c def c (c (? . 3) q f32vector?)) c (? . 22)) ((c def c (c (? . 3) q f64vector?)) c (? . 20)) ((c form c (c (? . 4) q import-class)) q (31149 . 2)) ((c def c (c (? . 3) q f64vector->cpointer)) c (? . 20)) ((c def c (c (? . 2) q string->iid)) q (35490 . 3)) ((c def c (c (? . 1) q make-c-parameter)) q (1030 . 6)) ((c def c (c (? . 23) q cvector)) q (24040 . 4)) ((c def c (c (? . 0) q ctype-alignof)) c (? . 41)) ((c def c (c (? . 2) q clsid?)) q (35264 . 3)) ((c def c (c (? . 2) q com-object?)) q (35829 . 3)) ((c def c (c (? . 3) q list->s32vector)) c (? . 8)) ((c form c (c (? . 4) q define-objc-class)) q (31229 . 25)) ((c def c (c (? . 3) q f80vector->list)) c (? . 17)) ((c def c (c (? . 2) q com-type?)) q (36544 . 3)) ((c def c (c (? . 4) q objc_lookUpClass)) q (32965 . 3)) ((c def c (c (? . 1) q _byte)) c (? . 34)) ((c def c (c (? . 1) q union-set!)) q (9553 . 5)) ((c def c (c (? . 4) q object_getInstanceVariable)) q (34213 . 4)) ((c def c (c (? . 6) q start-atomic)) q (29755 . 2)) ((c def c (c (? . 2) q com-object-type)) q (36599 . 3)) ((c def c (c (? . 3) q make-u16vector)) c (? . 5)) ((c def c (c (? . 3) q u64vector-ref)) c (? . 9)) ((c def c (c (? . 3) q u16vector)) c (? . 5)) ((c def c (c (? . 0) q ctype?)) q (1738 . 3)) ((c def c (c (? . 0) q _float)) c (? . 27)) ((c def c (c (? . 23) q cvector-length)) q (24182 . 3)) ((c def c (c (? . 3) q u32vector)) c (? . 15)) ((c def c (c (? . 2) q _IUnknown)) q (42464 . 2)) ((c def c (c (? . 0) q end-stubborn-change)) q (14406 . 3)) ((c def c (c (? . 1) q _sint32)) c (? . 11)) ((c form c (c (? . 1) q _ptr)) q (6084 . 6)) ((c def c (c (? . 4) q _id)) q (30665 . 2)) ((c def c (c (? . 3) q make-f80vector)) c (? . 17)) ((c def c (c (? . 23) q cvector-set!)) q (24502 . 5)) ((c def c (c (? . 4) q class_getSuperclass)) q (33429 . 3)) ((c def c (c (? . 2) q com-iunknown?)) q (39604 . 3)) ((c def c (c (? . 13) q _file/guard)) q (42843 . 4)) ((c def c (c (? . 2) q type-described-value)) q (39950 . 3)) ((c def c (c (? . 1) q list->cblock)) q (43669 . 5)) ((c def c (c (? . 2) q _GUID)) q (42094 . 2)) ((c def c (c (? . 2) q com-invoke)) q (37085 . 5)) ((c def c (c (? . 3) q f32vector-length)) c (? . 22)) ((c def c (c (? . 3) q s16vector->list)) c (? . 28)) ((c def c (c (? . 1) q _array)) q (8239 . 4)) ((c def c (c (? . 0) q malloc-immobile-cell)) q (14478 . 3)) ((c form c (c (? . 1) q define-c)) q (1291 . 2)) ((c form c (c (? . 4) q define-objc-mixin)) q (32018 . 6)) ((c def c (c (? . 3) q list->u16vector)) c (? . 5)) ((c def c (c (? . 18) q releaser)) q (27776 . 4)) ((c def c (c (? . 3) q f64vector-ref)) c (? . 20)) ((c def c (c (? . 1) q ctype->layout)) q (1947 . 4)) ((c def c (c (? . 2) q com-get-property*)) q (37788 . 5)) ((c def c (c (? . 2) q com-get-property-type)) q (37405 . 6)) ((c def c (c (? . 2) q com-release)) q (36089 . 3)) ((c form c (c (? . 3) q _f80vector)) q (23827 . 3)) ((c def c (c (? . 1) q compute-offsets)) q (7893 . 6)) ((c def c (c (? . 3) q s64vector)) c (? . 14)) ((c def c (c (? . 0) q _uint16)) c (? . 11)) ((c def c (c (? . 29) q com-all-controls)) q (40171 . 2)) ((c def c (c (? . 3) q s8vector-set!)) c (? . 12)) ((c def c (c (? . 1) q void/reference-sink)) q (14857 . 3)) ((c def c (c (? . 2) q com-object-get-iunknown)) q (39435 . 3)) ((c form c (c (? . 23) q _cvector)) q (23875 . 3)) ((c def c (c (? . 3) q u64vector-length)) c (? . 9)) ((c def c (c (? . 1) q _uint)) c (? . 19)) ((c def c (c (? . 0) q vector->cpointer)) q (44021 . 3)) ((c form c (c (? . 30) q convention:hyphen->camelcase)) q (27486 . 2)) ((c def c (c (? . 3) q s32vector)) c (? . 8)) ((c def c (c (? . 3) q u16vector?)) c (? . 5)) ((c def c (c (? . 2) q com-object-clsid)) q (36269 . 3)) ((c def c (c (? . 1) q _string/utf-8)) c (? . 31)) ((c def c (c (? . 4) q YES)) q (30782 . 2)) ((c def c (c (? . 3) q u32vector-ref)) c (? . 15)) ((c def c (c (? . 23) q cvector-ref)) q (24401 . 4)) ((c def c (c (? . 2) q com-events)) q (38444 . 3)) ((c def c (c (? . 1) q default-_string-type)) q (3452 . 4)) ((c def c (c (? . 2) q iid?)) q (35316 . 3)) ((c def c (c (? . 1) q _cprocedure)) q (3889 . 21)) ((c def c (c (? . 0) q ptr-set!)) c (? . 32)) ((c form c (c (? . 1) q _fun)) q (5053 . 23)) ((c def c (c (? . 1) q _string*/latin-1)) c (? . 33)) ((c def c (c (? . 3) q make-s64vector)) c (? . 14)) ((c def c (c (? . 3) q f32vector-set!)) c (? . 22)) ((c form c (c (? . 2) q _mfun)) q (41417 . 3)) ((c def c (c (? . 2) q com-get-active-object)) q (36153 . 3)) ((c def c (c (? . 0) q _longdouble)) q (3044 . 2)) ((c def c (c (? . 0) q prop:cpointer)) q (14924 . 2)) ((c def c (c (? . 1) q cblock->vector)) q (44618 . 5)) ((c form c (c (? . 4) q get-ivar)) q (32237 . 2)) ((c form c (c (? . 3) q _f32vector)) q (22344 . 3)) ((c def c (c (? . 3) q s32vector?)) c (? . 8)) ((c def c (c (? . 3) q u16vector->list)) c (? . 5)) ((c def c (c (? . 2) q com-omit?)) q (37238 . 3)) ((c def c (c (? . 1) q _string)) q (3427 . 2)) ((c def c (c (? . 3) q s16vector?)) c (? . 28)) ((q form ((lib "ffi/objc.rkt") objc-unsafe!)) q (35058 . 2)) ((c def c (c (? . 3) q u8vector->cpointer)) c (? . 10)) ((c def c (c (? . 3) q u16vector-length)) c (? . 5)) ((c def c (c (? . 1) q array?)) q (8350 . 3)) ((c def c (c (? . 1) q _uintptr)) c (? . 19)) ((c def c (c (? . 1) q _ubyte)) c (? . 34)) ((c def c (c (? . 1) q _intmax)) c (? . 7)) ((c def c (c (? . 36) q call-as-nonatomic-retry-point)) q (30094 . 3)) ((c def c (c (? . 2) q com-register-event-callback)) q (38854 . 9)) ((c def c (c (? . 3) q s32vector-length)) c (? . 8)) ((c def c (c (? . 3) q make-s16vector)) c (? . 28)) ((c def c (c (? . 2) q com-event-type)) q (38548 . 5)) ((c def c (c (? . 1) q _intptr)) c (? . 19)) ((c def c (c (? . 3) q s64vector?)) c (? . 14)) ((c def c (c (? . 3) q make-u32vector)) c (? . 15)) ((c def c (c (? . 3) q s8vector)) c (? . 12)) ((c def c (c (? . 4) q objc_msgSendSuper/typed)) q (34634 . 9)) ((c def c (c (? . 1) q union?)) q (9408 . 3)) ((c def c (c (? . 3) q list->s16vector)) c (? . 28)) ((c def c (c (? . 3) q s16vector->cpointer)) c (? . 28)) ((c def c (c (? . 13) q _file/rw)) q (43029 . 2)) ((c def c (c (? . 3) q list->f64vector)) c (? . 20)) ((c def c (c (? . 1) q cpointer-predicate-procedure?)) q (25850 . 3)) ((c def c (c (? . 0) q make-cstruct-type)) q (6400 . 5)) ((c def c (c (? . 2) q com-methods)) q (36758 . 3)) ((c def c (c (? . 2) q com-create-instance)) q (35896 . 4)) ((c def c (c (? . 3) q f80vector-length)) c (? . 17)) ((c def c (c (? . 4) q class_addIvar)) q (33835 . 11)) ((c def c (c (? . 4) q _objc_super)) q (35029 . 2)) ((c def c (c (? . 2) q SysAllocStringLen)) q (42307 . 4)) ((c def c (c (? . 3) q f80vector)) c (? . 17)) ((c def c (c (? . 1) q _string*/locale)) c (? . 33)) ((c def c (c (? . 4) q sel_registerName)) q (33116 . 3)) ((c def c (c (? . 3) q u32vector-length)) c (? . 15)) ((c def c (c (? . 3) q make-u8vector)) c (? . 10)) ((c def c (c (? . 2) q make-com-object)) q (41064 . 7)) ((c def c (c (? . 1) q _ushort)) c (? . 19)) ((c def c (c (? . 2) q string->clsid)) q (35427 . 3)) ((c def c (c (? . 1) q _ssize)) c (? . 7)) ((c def c (c (? . 2) q _HRESULT)) q (42148 . 2)) ((c def c (c (? . 3) q list->f80vector)) c (? . 17)) ((c def c (c (? . 0) q malloc)) q (13633 . 16)) ((c def c (c (? . 0) q _fixnum)) c (? . 35)) ((c def c (c (? . 4) q objc_allocateClassPair)) q (33176 . 5)) ((c def c (c (? . 0) q ptr-add)) q (10187 . 5)) ((c def c (c (? . 1) q array-type)) q (8754 . 3)) ((c def c (c (? . 3) q s8vector-length)) c (? . 12)) ((c def c (c (? . 2) q string->guid)) q (35366 . 3)) ((c def c (c (? . 0) q _int32)) c (? . 11)) ((c def c (c (? . 0) q _scheme)) q (3716 . 2)) ((c def c (c (? . 4) q objc-subclass?)) q (32437 . 4)) ((c def c (c (? . 36) q try-atomic)) q (30176 . 9)) ((c form c (c (? . 1) q _bytes)) q (6364 . 3)) ((c def c (c (? . 0) q ctype-scheme->c)) c (? . 37)) ((c form c (c (? . 1) q ->)) q (6015 . 2)) ((c def c (c (? . 1) q _word)) c (? . 38)) ((c def c (c (? . 0) q ptr-add!)) q (10684 . 5)) ((c def c (c (? . 1) q _racket)) q (3691 . 2)) ((c def c (c (? . 0) q ffi-obj?)) c (? . 24)) ((c def c (c (? . 0) q free)) q (14350 . 3)) ((c form c (c (? . 1) q _box)) q (6154 . 2)) ((c def c (c (? . 3) q s64vector-set!)) c (? . 14)) ((c def c (c (? . 1) q _sword)) c (? . 38)) ((c def c (c (? . 2) q com-set-properties)) q (37917 . 3)) ((c def c (c (? . 0) q _uint8)) c (? . 11)) ((c def c (c (? . 4) q _Class)) q (30686 . 2)) ((c def c (c (? . 3) q u16vector-set!)) c (? . 5)) ((c def c (c (? . 3) q u64vector?)) c (? . 9)) ((c def c (c (? . 1) q _sint64)) c (? . 11)) ((c form c (c (? . 4) q tell)) q (30827 . 9)) ((c def c (c (? . 6) q call-as-nonatomic)) q (29982 . 3)) ((c def c (c (? . 4) q _Ivar)) q (34439 . 2)) ((c def c (c (? . 3) q u8vector)) c (? . 10)) ((c def c (c (? . 1) q _sint16)) c (? . 11)) ((c def c (c (? . 3) q s16vector-set!)) c (? . 28)) ((c def c (c (? . 0) q set-ptr-offset!)) q (10538 . 5)) ((c def c (c (? . 1) q _sint)) c (? . 19)) ((c def c (c (? . 1) q cblock->list)) q (44477 . 5)) ((c def c (c (? . 1) q set-ffi-obj!)) q (835 . 6)) ((c def c (c (? . 3) q s32vector->cpointer)) c (? . 8)) ((c def c (c (? . 23) q make-cvector*)) q (24781 . 5)) ((c form c (c (? . 2) q _hfun)) q (41512 . 5)) ((c form c (c (? . 4) q selector)) q (32326 . 2)) ((c def c (c (? . 29) q coclass->clsid)) q (40223 . 3)) ((c def c (c (? . 2) q current-hfun-retry-delay)) q (41890 . 4)) ((c def c (c (? . 1) q _llong)) c (? . 19)) ((c def c (c (? . 0) q compiler-sizeof)) q (2054 . 3)) ((c def c (c (? . 6) q start-breakable-atomic)) q (29825 . 2)) ((c form c (c (? . 4) q import-protocol)) q (31186 . 2)) ((c def c (c (? . 39) q call-with-autorelease)) q (35107 . 3)) ((c def c (c (? . 1) q _sint8)) c (? . 11)) ((c def c (c (? . 1) q array-length)) q (8677 . 3)) ((c form c (c (? . 3) q _s64vector)) q (20735 . 3)) ((c def c (c (? . 0) q ctype-c->scheme)) c (? . 37)) ((c form c (c (? . 26) q provide-protected)) q (27403 . 2)) ((c def c (c (? . 29) q clsid->coclass)) q (40295 . 3)) ((c def c (c (? . 2) q com-type=?)) q (36671 . 4)) ((c def c (c (? . 2) q _LCID)) q (42174 . 2)) ((c def c (c (? . 2) q com-make-event-executor)) q (38793 . 2)) ((c def c (c (? . 2) q clsid->progid)) q (35750 . 3)) ((c def c (c (? . 25) q register-custodian-shutdown)) q (28086 . 11)) ((c def c (c (? . 1) q _bitmask)) q (9908 . 4)) ((c def c (c (? . 2) q type-describe)) q (39847 . 4)) ((c def c (c (? . 0) q saved-errno)) q (44167 . 4)) ((c form c (c (? . 4) q super-tell)) q (32157 . 3)) ((c def c (c (? . 1) q _sintptr)) c (? . 19)) ((c def c (c (? . 0) q _double)) c (? . 27)) ((c def c (c (? . 0) q _string/ucs-4)) q (3145 . 2)) ((c form c (c (? . 2) q _wfun)) q (41322 . 3)) ((c def c (c (? . 2) q LOCALE_SYSTEM_DEFAULT)) q (42197 . 2)) ((c def c (c (? . 23) q cvector?)) q (24128 . 3)) ((c def c (c (? . 3) q make-s8vector)) c (? . 12)) ((c def c (c (? . 1) q _ulong)) c (? . 19)) ((c def c (c (? . 1) q array-set!)) q (8501 . 5)) ((c def c (c (? . 0) q _stdbool)) q (3073 . 2)) ((c def c (c (? . 3) q s32vector-set!)) c (? . 8)) ((c def c (c (? . 4) q _BOOL)) q (30759 . 2)) ((c def c (c (? . 1) q cpointer-has-tag?)) c (? . 40)) ((c def c (c (? . 1) q _ullong)) c (? . 19)) ((c def c (c (? . 2) q com-omit)) q (37213 . 2)) ((c def c (c (? . 3) q s8vector-ref)) c (? . 12)) ((c def c (c (? . 0) q _path)) q (3208 . 2)) ((c def c (c (? . 0) q ffi-call)) q (45266 . 13)) ((c def c (c (? . 4) q objc-dispose-class)) q (32744 . 3)) ((c def c (c (? . 0) q make-ctype)) q (1545 . 5)) ((c def c (c (? . 1) q union-ref)) q (9460 . 4)) ((c form c (c (? . 3) q _u64vector)) q (21615 . 3)) ((c def c (c (? . 3) q u32vector->cpointer)) c (? . 15)) ((c def c (c (? . 3) q f32vector->cpointer)) c (? . 22)) ((c def c (c (? . 0) q ctype-sizeof)) c (? . 41)) ((c def c (c (? . 0) q ffi-lib?)) q (0 . 3)) ((c def c (c (? . 3) q s64vector-ref)) c (? . 14)) ((c def c (c (? . 4) q objc-block)) q (32810 . 5)) ((c def c (c (? . 2) q com-object-set-clsid!)) q (36339 . 4)) ((c def c (c (? . 2) q com-idispatch?)) q (39663 . 3)) ((c def c (c (? . 6) q end-breakable-atomic)) q (29871 . 2)) ((c def c (c (? . 1) q ffi-lib)) q (54 . 11)) ((c def c (c (? . 1) q _sbyte)) c (? . 34)) ((c def c (c (? . 1) q _cpointer)) c (? . 42)) ((c def c (c (? . 0) q make-array-type)) q (8125 . 4)) ((c def c (c (? . 1) q array-ref)) q (8402 . 4)) ((c def c (c (? . 1) q _union)) q (9345 . 3)) ((c def c (c (? . 3) q u32vector->list)) c (? . 15)) ((c def c (c (? . 2) q com-enumerate-to-list)) q (39285 . 3)) ((c def c (c (? . 1) q _int)) c (? . 19)) ((c def c (c (? . 4) q class_addMethod)) q (33497 . 11)) ((c def c (c (? . 3) q s16vector)) c (? . 28)) ((c def c (c (? . 3) q make-u64vector)) c (? . 9)) ((c def c (c (? . 4) q _SEL)) q (30737 . 2)) ((c def c (c (? . 1) q _string/latin-1)) c (? . 31)) ((c def c (c (? . 1) q _sshort)) c (? . 19)) ((c def c (c (? . 2) q SysFreeString)) q (42244 . 3)) ((c def c (c (? . 1) q _cpointer/null)) c (? . 42)) ((c def c (c (? . 3) q f32vector-ref)) c (? . 22)) ((c def c (c (? . 3) q s16vector-ref)) c (? . 28)) ((c def c (c (? . 2) q AddRef)) q (40882 . 3)) ((c def c (c (? . 1) q _or-null)) q (3768 . 3)) ((c def c (c (? . 0) q cpointer?)) q (10033 . 3)) ((c def c (c (? . 1) q _short)) c (? . 19)) ((c form c (c (? . 1) q _?)) q (6074 . 2)) ((c def c (c (? . 3) q s8vector->cpointer)) c (? . 12)) ((c def c (c (? . 3) q u8vector->list)) c (? . 10)) ((c def c (c (? . 23) q cvector-ptr)) q (24334 . 3)) ((c def c (c (? . 2) q com-unregister-event-callback)) q (39176 . 4)) ((c def c (c (? . 3) q f32vector->list)) c (? . 22)) ((c def c (c (? . 4) q object_setInstanceVariable)) q (34318 . 5)) ((q def ((lib "ffi/unsafe/global.rkt") register-process-global)) q (30563 . 4)) ((c form c (c (? . 3) q _u32vector)) q (19764 . 3)) ((c def c (c (? . 2) q com-object-get-idispatch)) q (39518 . 3)) ((c def c (c (? . 1) q _enum)) q (9723 . 5)) ((c def c (c (? . 2) q guid?)) q (35213 . 3)) ((c def c (c (? . 3) q s8vector->list)) c (? . 12)) ((c def c (c (? . 25) q register-finalizer-and-custodian-shutdown)) q (28742 . 16)) ((c def c (c (? . 0) q _gcpointer)) q (3663 . 2)) ((c def c (c (? . 4) q NO)) q (30805 . 2)) ((c def c (c (? . 3) q u8vector-ref)) c (? . 10)) ((c def c (c (? . 1) q _uintmax)) c (? . 7)) ((c def c (c (? . 13) q security-guard-check-file-link)) q (43055 . 7)) ((c def c (c (? . 0) q _int64)) c (? . 11)) ((c def c (c (? . 4) q objc_msgSend/typed)) q (34462 . 6)) ((c def c (c (? . 2) q _IUnknown_vt)) q (42526 . 2)) ((c def c (c (? . 2) q IID_IUnknown)) q (42436 . 2))))
 procedure
 (ffi-lib? v) -> boolean?
   v : any/c
@@ -40,10 +40,10 @@ procedure
   lib : (or/c ffi-lib? path-string? #f)
   failure-thunk : (or/c (-> any) #f) = #f
 procedure
-(make-ctype type scheme-to-c c-to-scheme) -> ctype?
+(make-ctype type racket-to-c c-to-racket) -> ctype?
   type : ctype?
-  scheme-to-c : (or/c #f (any/c . -> . any))
-  c-to-scheme : (or/c #f (any/c . -> . any))
+  racket-to-c : (or/c #f (any/c . -> . any))
+  c-to-racket : (or/c #f (any/c . -> . any))
 procedure
 (ctype? v) -> boolean?
   v : any/c
@@ -115,6 +115,8 @@ _double* : ctype?
 value
 _longdouble : ctype?
 value
+_stdbool : ctype?
+value
 _bool : ctype?
 value
 _void : ctype?
@@ -168,6 +170,7 @@ procedure
              [#:abi abi                                   
               #:atomic? atomic?                           
               #:async-apply async-apply                   
+              #:lock-name lock-name                       
               #:in-original-place? in-original-place?     
               #:save-errno save-errno                     
               #:wrapper wrapper                           
@@ -177,6 +180,7 @@ procedure
   abi : (or/c #f 'default 'stdcall 'sysv) = #f
   atomic? : any/c = #f
   async-apply : (or/c #f ((-> any/c) . -> . any/c) box?) = #f
+  lock-name : (or/c string? #f) = #f
   in-original-place? : any/c = #f
   save-errno : (or/c #f 'posix 'windows) = #f
   wrapper : (or/c #f (procedure? . -> . procedure?)) = #f
@@ -185,25 +189,25 @@ syntax
 (_fun fun-option ... maybe-args type-spec ... -> type-spec
       maybe-wrapper)
  
-fun-option    = #:abi abi-expr
-              | #:save-errno save-errno-expr
-              | #:keep keep-expr
-              | #:atomic? atomic?-expr
-              | #:async-apply async-apply-expr
-              | #:in-original-place? in-original-place?-expr
-                 
-maybe-args    = 
-              | (id ...) ::
-              | id ::
-              | (id ... . id) ::
-                 
-type-spec     = type-expr
-              | (id : type-expr)
-              | (type-expr = value-expr)
-              | (id : type-expr = value-expr)
-                 
+   fun-option = #:abi abi-expr
+              | #:save-errno save-errno-expr
+              | #:keep keep-expr
+              | #:atomic? atomic?-expr
+              | #:async-apply async-apply-expr
+              | #:lock-name lock-name-expr
+              | #:in-original-place? in-original-place?-expr
+              | #:retry (retry-id [arg-id init-expr])
+                 
+   maybe-args = 
+              | formals ::
+                 
+    type-spec = type-expr
+              | (id : type-expr)
+              | (type-expr = value-expr)
+              | (id : type-expr = value-expr)
+                 
 maybe-wrapper = 
-              | -> output-expr
+              | -> output-expr
 procedure
 (function-ptr ptr-or-proc fun-type) -> cpointer?
   ptr-or-proc : (or cpointer? procedure?)
@@ -218,19 +222,19 @@ syntax
 (_ptr mode type-expr)
  
 mode = i
-     | o
-     | io
+     | o
+     | io
 syntax
-_box
+(_box type)
 syntax
 (_list mode type maybe-len)
  
-mode      = i
-          | o
-          | io
-             
+     mode = i
+          | o
+          | io
+             
 maybe-len = 
-          | len-expr
+          | len-expr
 syntax
 (_vector mode type maybe-len)
 syntax
@@ -242,19 +246,42 @@ procedure
   abi : (or/c #f 'default 'stdcall 'sysv) = #f
   alignment : (or/c #f 1 2 4 8 16) = #f
 procedure
-(_list-struct [#:alignment alignment]     
-               type ...+)             -> ctype?
+(_list-struct [#:alignment alignment          
+               #:malloc-mode malloc-mode]     
+               type ...+)                 -> ctype?
   alignment : (or/c #f 1 2 4 8 16) = #f
+  malloc-mode : (one-of/c 'raw 'atomic 'nonatomic 'tagged
+                           'atomic-interior 'interior
+                           'stubborn 'uncollectable 'eternal)
+              = 'atomic
   type : ctype?
 syntax
-(define-cstruct id/sup ([field-id type-expr] ...) property ...)
+(define-cstruct id/sup ([field-id type-expr field-option ...] ...)
+  property ...)
  
-id/sup   = _id
-         | (_id _super-id)
-            
-property = #:alignment alignment-expr
-         | #:property prop-expr val-expr
-         | #:no-equal
+      id/sup = _id
+             | (_id _super-id)
+                
+field-option = #:offset offset-expr
+                
+    property = #:alignment alignment-expr
+             | #:malloc-mode malloc-mode-expr
+             | #:property prop-expr val-expr
+             | #:no-equal
+             | #:define-unsafe
+ 
+  offset-expr : exact-integer?
+  alignment-expr : (or/c #f 1 2 4 8 16)
+  malloc-mode-expr : (one-of/c 'raw 'atomic 'nonatomic 'tagged
+                               'atomic-interior 'interior
+                               'stubborn 'uncollectable 'eternal)
+  prop-expr : struct-type-property?
+procedure
+(compute-offsets types [alignment declare])
+ -> (listof exact-integer?)
+  types : (listof ctype?)
+  alignment : (or/c #f 1 2 4 8 16) = #f
+  declare : (listof (or/c #f exact-integer?)) = '()
 procedure
 (make-array-type type count) -> ctype?
   type : ctype?
@@ -463,9 +490,9 @@ procedure
                         ctype?)
                 = absent
   cptr : cpointer? = absent
-  mode : (one-of/c 'nonatomic 'stubborn 'uncollectable = absent
-                   'eternal 'interior 'atomic-interior
-                   'raw)
+  mode : (one-of/c 'raw 'atomic 'nonatomic 'tagged    = absent
+                   'atomic-interior 'interior
+                   'stubborn 'uncollectable 'eternal)
   fail-mode : (one-of/c 'failok) = absent
 procedure
 (free cptr) -> void
@@ -487,6 +514,9 @@ procedure
 (make-sized-byte-string cptr length) -> bytes?
   cptr : cpointer?
   length : exact-nonnegative-integer?
+procedure
+(void/reference-sink v ...) -> void?
+  v : any/c
 value
 prop:cpointer : struct-type-property?
 procedure
@@ -815,61 +845,75 @@ procedure
 procedure
 (_cpointer  tag               
            [ptr-type          
-            scheme-to-c       
-            c-to-scheme]) -> ctype
+            racket-to-c       
+            c-to-racket]) -> ctype?
   tag : any/c
-  ptr-type : ctype? = _pointer
-  scheme-to-c : (any/c . -> . any/c) = values
-  c-to-scheme : (any/c . -> . any/c) = values
+  ptr-type : (or/c ctype? #f) = _pointer
+  racket-to-c : (or/c (any/c . -> . any/c) #f) = values
+  c-to-racket : (or/c (any/c . -> . any/c) #f) = values
 (_cpointer/null  tag               
                 [ptr-type          
-                 scheme-to-c       
-                 c-to-scheme]) -> ctype
+                 racket-to-c       
+                 c-to-racket]) -> ctype?
   tag : any/c
-  ptr-type : ctype? = _pointer
-  scheme-to-c : (any/c . -> . any/c) = values
-  c-to-scheme : (any/c . -> . any/c) = values
+  ptr-type : (or/c ctype? #f) = _pointer
+  racket-to-c : (or/c (any/c . -> . any/c) #f) = values
+  c-to-racket : (or/c (any/c . -> . any/c) #f) = values
 syntax
 (define-cpointer-type _id)
 (define-cpointer-type _id ptr-type-expr)
 (define-cpointer-type _id ptr-type-expr
-                      scheme-to-c-expr c-to-scheme-expr)
+                      racket-to-c-expr c-to-racket-expr)
+procedure
+(cpointer-predicate-procedure? v) -> boolean?
+  v : any/c
 procedure
 (cpointer-has-tag? cptr tag) -> boolean?
-  cptr : any/c
+  cptr : cpointer?
   tag : any/c
-(cpointer-push-tag! cptr tag) -> void
-  cptr : any/c
+(cpointer-push-tag! cptr tag) -> void?
+  cptr : cpointer?
   tag : any/c
 syntax
 (define-serializable-cstruct _id ([field-id type-expr] ...)
                              property ...)
  
 property = #:alignment alignment-expr
-         | #:malloc-mode malloc-mode-expr
-         | #:serialize-inplace
-         | #:deserialize-inplace
-         | #:property prop-expr val-expr
+         | #:malloc-mode malloc-mode-expr
+         | #:serialize-inplace
+         | #:deserialize-inplace
+         | #:version vers
+         | #:other-versions ([other-vers deserialize-chain-expr
+                                         convert-proc-expr
+                                         unconvert-proc-expr
+                                         cycle-convert-proc-expr]
+                              ...)
+         | #:property prop-expr val-expr
 syntax
 (define-ffi-definer define-id ffi-lib-expr
   option ...)
  
 option = #:provide provide-id
-       | #:define core-define-id
-       | #:default-make-fail default-make-fail-expr
+       | #:define core-define-id
+       | #:default-make-fail default-make-fail-expr
+       | #:make-c-id make-c-id
 
 (define-id id type-expr
   bind-option ...)
  
 bind-option = #:c-id c-id
-            | #:wrap wrap-expr
-            | #:make-fail make-fail-expr
-            | #:fail fail-expr
+            | #:wrap wrap-expr
+            | #:make-fail make-fail-expr
+            | #:fail fail-expr
 procedure
 (make-not-available name) -> (#:rest list? -> any/c)
   name : symbol?
 syntax
 (provide-protected provide-spec ...)
+syntax
+convention:hyphen->underscore
+syntax
+convention:hyphen->camelcase
 procedure
 ((allocator dealloc) alloc) -> procedure?
   dealloc : (any/c . -> . any)
@@ -902,7 +946,25 @@ procedure
 (unregister-custodian-shutdown v                 
                                registration) -> void?
   v : any/c
-  registration : _cpointer
+  registration : cpointer?
+procedure
+(register-finalizer-and-custodian-shutdown                                                 
+                                            v                                              
+                                            callback                                       
+                                           [custodian                                      
+                                            #:at-exit? at-exit?                            
+                                            #:weak? weak?                                  
+                                            #:custodian-unavailable unavailable-callback]) 
+ -> any
+  v : any/c
+  callback : (any/c . -> . any)
+  custodian : custodian? = (current-custodian)
+  at-exit? : any/c = #f
+  weak? : any/c = #f
+  unavailable-callback : ((-> void?) -> any)
+                       = (lambda (reg-fnl) (reg-fnl))
+procedure
+(make-custodian-at-root) -> custodian?
 procedure
 (start-atomic) -> void?
 procedure
@@ -931,6 +993,10 @@ procedure
   default-val : any/c
   give-up-proc : (-> any/c) = run-200-milliseconds
   keep-in-order? : any/c = #t
+procedure
+(register-process-global key val) -> cpointer?
+  key : bytes?
+  val : cpointer?
 value
 _id : ctype?
 value
@@ -950,10 +1016,10 @@ syntax
 (tell result-type obj-expr arg ...)
  
 result-type = 
-            | #:type ctype-expr
-               
-arg         = method-id arg-expr
-            | method-id #:type ctype-expr arg-expr
+            | #:type ctype-expr
+               
+        arg = method-id arg-expr
+            | method-id #:type ctype-expr arg-expr
 syntax
 (tellv obj-expr method-id)
 (tellv obj-expr arg ...)
@@ -968,24 +1034,24 @@ syntax
   [field-id ...]
   method ...)
  
-maybe-mixins    = 
-                | #:mixins (mixin-expr ...)
-                   
+   maybe-mixins = 
+                | #:mixins (mixin-expr ...)
+                   
 maybe-protocols = 
-                | #:protocols (protocol-expr ...)
-                   
-method          = (mode maybe-async result-ctype-expr (method-id) body ...+)
-                | (mode maybe-async result-ctype-expr (arg ...+) body ...+)
-                   
-mode            = +
-                | -
-                | +a
-                | -a
-                   
-maybe-async     = 
-                | #:async-apply async-apply-expr
-                   
-arg             = method-id [ctype-expr arg-id]
+                | #:protocols (protocol-expr ...)
+                   
+         method = (mode maybe-async result-ctype-expr (method-id) body ...+)
+                | (mode maybe-async result-ctype-expr (arg ...+) body ...+)
+                   
+           mode = +
+                | -
+                | +a
+                | -a
+                   
+    maybe-async = 
+                | #:async-apply async-apply-expr
+                   
+            arg = method-id [ctype-expr arg-id]
 syntax
 (define-objc-mixin (class-id superclass-id)
   maybe-mixins
@@ -1008,6 +1074,28 @@ procedure
   obj : _id
   cls : _Class
 procedure
+(objc-subclass? subcls cls) -> boolean?
+  subcls : _Class
+  cls : _Class
+procedure
+(objc-get-class obj) -> _Class
+  obj : _id
+procedure
+(objc-set-class! obj cls) -> void?
+  obj : _id
+  cls : _Class
+procedure
+(objc-get-superclass cls) -> _Class
+  cls : _Class
+procedure
+(objc-dispose-class cls) -> void?
+  cls : _Class
+procedure
+(objc-block function-type? proc #:keep keep) -> cpointer?
+  function-type? : ctype
+  proc : procedure?
+  keep : (box/c list?)
+procedure
 (objc_lookUpClass s) -> (or/c _Class #f)
   s : string?
 procedure
@@ -1027,6 +1115,9 @@ procedure
 procedure
 (object_getClass obj) -> _Class
   obj : _id
+procedure
+(class_getSuperclass cls) -> _Class
+  cls : _Class
 procedure
 (class_addMethod cls                
                  sel                
@@ -1172,6 +1263,9 @@ procedure
 value
 com-omit : any/c
 procedure
+(com-omit? v) -> boolean?
+  v : any/c
+procedure
 (com-get-properties obj/type) -> (listof string?)
   obj/type : (or/c com-object? com-type?)
 procedure
@@ -1232,6 +1326,12 @@ procedure
   obj : com-object?
   name : string?
 procedure
+(com-enumerate-to-list obj) -> list?
+  obj : com-object?
+procedure
+(com-enumeration-to-list obj) -> list?
+  obj : com-object?
+procedure
 (com-object-get-iunknown obj) -> com-iunkown?
   obj : com-object?
 procedure
@@ -1274,9 +1374,9 @@ syntax
   ([method-id ctype-expr maybe-alloc-spec] ...))
  
 maybe-alloc-spec = 
-                 | #:release-with-function function-id
-                 | #:release-with-method method-id
-                 | #:releases
+                 | #:release-with-function function-id
+                 | #:release-with-method method-id
+                 | #:releases
 procedure
 (QueryInterface iunknown               
                 iid                    
@@ -1304,9 +1404,23 @@ syntax
 (_mfun fun-option ... maybe-args type-spec ... -> type-spec
    maybe-wrapper)
 syntax
-(_hfun fun-option ... type-spec ... -> id output-expr)
+(_hfun fun-option ... type-spec ... -> id maybe-allow output-expr)
+ 
+maybe-allow = 
+            | #:allow [result-id allow?-expr]
 syntax
 (_hmfun fun-option ... type-spec ... -> id output-expr)
+parameter
+(current-hfun-retry-count) -> count
+(current-hfun-retry-count exact-nonnegative-integer?) -> void?
+  exact-nonnegative-integer? : count
+parameter
+(current-hfun-retry-delay) -> (>=/c 0.0)
+(current-hfun-retry-delay secs) -> void?
+  secs : (>=/c 0.0)
+procedure
+(HRESULT-retry? r) -> boolean?
+  r : exact-nonnegative-integer?
 value
 _GUID : ctype?
 value
@@ -1351,18 +1465,36 @@ value
 _file/r : ctype?
 value
 _file/rw : ctype?
+procedure
+(security-guard-check-file-link who       
+                                path      
+                                dest) -> void?
+  who : symbol?
+  path : path-string?
+  dest : path-string?
+procedure
+(security-guard-check-network who       
+                              host      
+                              port      
+                              mode) -> void?
+  who : symbol?
+  host : string?
+  port : (integer-in 1 65535)
+  mode : (or/c 'client 'server)
 value
 win64? : boolean?
 value
 winapi : (or/c 'stdcall 'default)
 procedure
-(list->cblock lst type) -> any
+(list->cblock lst type [expect-length]) -> cpointer?
   lst : list?
   type : ctype?
+  expect-length : (or/c exact-nonnegative-integer? #f) = #f
 procedure
-(vector->cblock vec type) -> any
+(vector->cblock vec type [expect-length]) -> cpointer?
   vec : vector?
-  type : type?
+  type : ctype?
+  expect-length : (or/c exact-nonnegative-integer? #f) = #f
 procedure
 (vector->cpointer vec) -> cpointer?
   vec : vector?
@@ -1371,9 +1503,11 @@ procedure
   flvec : flvector?
 procedure
 (saved-errno) -> exact-integer?
+(saved-errno new-value) -> void?
+  new-value : exact-integer?
 procedure
-(lookup-errno sym) -> exact-integer?
-  sym : (or/c 'EINTR 'EEXIST 'EAGAIN)
+(lookup-errno sym) -> (or/c exact-integer? #f)
+  sym : symbol?
 procedure
 (cast v from-type to-type) -> any/c
   v : any/c

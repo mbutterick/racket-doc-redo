@@ -1,5 +1,5 @@
 3562
-((3) 0 () 1 ((q lib "mzscheme/main.rkt")) () (h ! (equal) ((c def c (c (? . 0) q free-identifier=?)) q (4766 . 4)) ((c def c (c (? . 0) q call-with-input-file)) q (2757 . 5)) ((c def c (c (? . 0) q module-identifier=?)) q (4339 . 4)) ((c def c (c (? . 0) q hash-table-remove!)) q (6074 . 2)) ((c def c (c (? . 0) q hash-table-map)) q (6189 . 2)) ((c def c (c (? . 0) q collection-path)) q (6642 . 3)) ((c def c (c (? . 0) q namespace-transformer-require)) q (4970 . 3)) ((c def c (c (? . 0) q hash-table-copy)) q (6152 . 2)) ((c def c (c (? . 0) q hash-table-iterate-next)) q (6312 . 2)) ((c def c (c (? . 0) q apply)) q (1387 . 5)) ((c def c (c (? . 0) q hash-table-get)) q (6001 . 2)) ((c form c (c (? . 0) q require)) q (1026 . 2)) ((c def c (c (? . 0) q make-immutable-hash-table)) q (5735 . 8)) ((c def c (c (? . 0) q open-input-file)) q (1538 . 4)) ((c form c (c (? . 0) q lambda)) q (121 . 2)) ((c def c (c (? . 0) q with-input-from-file)) q (2276 . 5)) ((c form c (c (? . 0) q #%datum)) q (1326 . 2)) ((c form c (c (? . 0) q fluid-let)) q (773 . 2)) ((c form c (c (? . 0) q provide-for-label)) q (1281 . 2)) ((c def c (c (? . 0) q expand-path)) q (6447 . 2)) ((c form c (c (? . 0) q #%app)) q (191 . 3)) ((c form c (c (? . 0) q define)) q (301 . 9)) ((c def c (c (? . 0) q collection-file-path)) q (6516 . 4)) ((c def c (c (? . 0) q open-output-file)) q (1675 . 7)) ((c def c (c (? . 0) q hash-table-count)) q (6114 . 2)) ((c def c (c (? . 0) q module-transformer-identifier=?)) q (4439 . 4)) ((c form c (c (? . 0) q define-syntax)) q (469 . 3)) ((c def c (c (? . 0) q hash-table-for-each)) q (6225 . 2)) ((c form c (c (? . 0) q #%plain-module-begin)) q (35 . 2)) ((c form c (c (? . 0) q #%plain-app)) q (240 . 3)) ((c def c (c (? . 0) q datum->syntax-object)) q (3330 . 17)) ((c def c (c (? . 0) q with-output-to-file)) q (2441 . 8)) ((c def c (c (? . 0) q transcript-on)) q (5046 . 3)) ((c def c (c (? . 0) q syntax-object->datum)) q (3263 . 3)) ((c form c (c (? . 0) q define-for-syntax)) q (544 . 3)) ((c def c (c (? . 0) q hash-table-iterate-first)) q (6266 . 2)) ((c form c (c (? . 0) q require-for-template)) q (1107 . 2)) ((c form c (c (? . 0) q let-struct)) q (961 . 2)) ((c def c (c (? . 0) q hash-table-iterate-value)) q (6357 . 2)) ((c form c (c (? . 0) q case)) q (731 . 2)) ((c def c (c (? . 0) q make-hash-table)) q (5465 . 7)) ((c form c (c (? . 0) q cond)) q (699 . 2)) ((c form c (c (? . 0) q require-for-label)) q (1155 . 2)) ((c form c (c (? . 0) q require-for-syntax)) q (1061 . 2)) ((c def c (c (? . 0) q module-template-identifier=?)) q (4551 . 4)) ((c form c (c (? . 0) q #%top-interaction)) q (1352 . 2)) ((c def c (c (? . 0) q module-label-identifier=?)) q (4660 . 4)) ((c form c (c (? . 0) q if)) q (627 . 3)) ((c def c (c (? . 0) q transcript-off)) q (5114 . 2)) ((c def c (c (? . 0) q hash-table?)) q (5150 . 10)) ((c def c (c (? . 0) q list-immutable)) q (6480 . 2)) ((c form c (c (? . 0) q λ)) q (158 . 2)) ((c form c (c (? . 0) q provide-for-syntax)) q (1235 . 2)) ((c def c (c (? . 0) q prop:procedure)) q (1491 . 2)) ((c def c (c (? . 0) q make-namespace)) q (4864 . 3)) ((c def c (c (? . 0) q hash-table-iterate-key)) q (6403 . 2)) ((c def c (c (? . 0) q open-input-output-file)) q (1965 . 8)) ((c def c (c (? . 0) q call-with-output-file)) q (2933 . 8)) ((c form c (c (? . 0) q #%module-begin)) q (0 . 2)) ((c def c (c (? . 0) q hash-table-put!)) q (6037 . 2)) ((c form c (c (? . 0) q #%plain-lambda)) q (76 . 2)) ((c form c (c (? . 0) q provide)) q (1200 . 2)) ((c form c (c (? . 0) q define-struct)) q (823 . 5))))
+((3) 0 () 1 ((q lib "mzscheme/main.rkt")) () (h ! (equal) ((c def c (c (? . 0) q collection-path)) q (6711 . 3)) ((c def c (c (? . 0) q namespace-transformer-require)) q (5039 . 3)) ((c form c (c (? . 0) q #%top-interaction)) q (1352 . 2)) ((c def c (c (? . 0) q module-transformer-identifier=?)) q (4508 . 4)) ((c form c (c (? . 0) q fluid-let)) q (773 . 2)) ((c def c (c (? . 0) q make-hash-table)) q (5534 . 7)) ((c form c (c (? . 0) q #%plain-module-begin)) q (35 . 2)) ((c def c (c (? . 0) q make-namespace)) q (4933 . 3)) ((c form c (c (? . 0) q provide-for-label)) q (1281 . 2)) ((c def c (c (? . 0) q hash-table-count)) q (6183 . 2)) ((c form c (c (? . 0) q cond)) q (699 . 2)) ((c def c (c (? . 0) q prop:procedure)) q (1491 . 2)) ((c def c (c (? . 0) q hash-table-for-each)) q (6294 . 2)) ((c form c (c (? . 0) q λ)) q (158 . 2)) ((c def c (c (? . 0) q module-identifier=?)) q (4408 . 4)) ((c form c (c (? . 0) q #%app)) q (191 . 3)) ((c form c (c (? . 0) q require)) q (1026 . 2)) ((c def c (c (? . 0) q call-with-input-file)) q (2826 . 5)) ((c def c (c (? . 0) q expand-path)) q (6516 . 2)) ((c form c (c (? . 0) q provide)) q (1200 . 2)) ((c form c (c (? . 0) q define-for-syntax)) q (544 . 3)) ((c def c (c (? . 0) q list-immutable)) q (6549 . 2)) ((c form c (c (? . 0) q provide-for-syntax)) q (1235 . 2)) ((c form c (c (? . 0) q require-for-label)) q (1155 . 2)) ((c def c (c (? . 0) q with-input-from-file)) q (2345 . 5)) ((c def c (c (? . 0) q module-template-identifier=?)) q (4620 . 4)) ((c def c (c (? . 0) q transcript-on)) q (5115 . 3)) ((c def c (c (? . 0) q open-input-file)) q (1538 . 5)) ((c def c (c (? . 0) q with-output-to-file)) q (2510 . 8)) ((c form c (c (? . 0) q #%plain-lambda)) q (76 . 2)) ((c form c (c (? . 0) q define-syntax)) q (469 . 3)) ((c def c (c (? . 0) q hash-table-remove!)) q (6143 . 2)) ((c def c (c (? . 0) q collection-file-path)) q (6585 . 4)) ((c def c (c (? . 0) q hash-table-copy)) q (6221 . 2)) ((c def c (c (? . 0) q hash-table-iterate-next)) q (6381 . 2)) ((c def c (c (? . 0) q make-immutable-hash-table)) q (5804 . 8)) ((c def c (c (? . 0) q hash-table-iterate-value)) q (6426 . 2)) ((c def c (c (? . 0) q apply)) q (1387 . 5)) ((c form c (c (? . 0) q require-for-syntax)) q (1061 . 2)) ((c def c (c (? . 0) q hash-table-iterate-key)) q (6472 . 2)) ((c form c (c (? . 0) q case)) q (731 . 2)) ((c form c (c (? . 0) q require-for-template)) q (1107 . 2)) ((c form c (c (? . 0) q let-struct)) q (961 . 2)) ((c form c (c (? . 0) q #%module-begin)) q (0 . 2)) ((c form c (c (? . 0) q define-struct)) q (823 . 5)) ((c def c (c (? . 0) q open-input-output-file)) q (2034 . 8)) ((c def c (c (? . 0) q hash-table?)) q (5219 . 10)) ((c def c (c (? . 0) q module-label-identifier=?)) q (4729 . 4)) ((c def c (c (? . 0) q syntax-object->datum)) q (3332 . 3)) ((c form c (c (? . 0) q #%datum)) q (1326 . 2)) ((c form c (c (? . 0) q lambda)) q (121 . 2)) ((c def c (c (? . 0) q transcript-off)) q (5183 . 2)) ((c def c (c (? . 0) q hash-table-put!)) q (6106 . 2)) ((c form c (c (? . 0) q #%plain-app)) q (240 . 3)) ((c form c (c (? . 0) q define)) q (301 . 9)) ((c def c (c (? . 0) q hash-table-get)) q (6070 . 2)) ((c def c (c (? . 0) q open-output-file)) q (1744 . 7)) ((c form c (c (? . 0) q if)) q (627 . 3)) ((c def c (c (? . 0) q datum->syntax-object)) q (3399 . 17)) ((c def c (c (? . 0) q call-with-output-file)) q (3002 . 8)) ((c def c (c (? . 0) q hash-table-map)) q (6258 . 2)) ((c def c (c (? . 0) q hash-table-iterate-first)) q (6335 . 2)) ((c def c (c (? . 0) q free-identifier=?)) q (4835 . 4))))
 syntax
 (#%module-begin form ...)
 syntax
@@ -21,10 +21,10 @@ syntax
 (define (head args) body ...+)
  
 head = id
-     | (head args)
-        
+     | (head args)
+        
 args = arg-id ...
-     | arg-id ... . rest-id
+     | arg-id ... . rest-id
 syntax
 (define-syntax id expr)
 (define-syntax (head args) body ...+)
@@ -44,7 +44,7 @@ syntax
 (define-struct id-maybe-super (field-id ...) maybe-inspector-expr)
  
 maybe-inspector-expr = 
-                     | expr
+                     | expr
 syntax
 (let-struct id-maybe-super (field-id ...) body ...+)
 syntax
@@ -73,9 +73,10 @@ procedure
 value
 prop:procedure : struct-type-property?
 procedure
-(open-input-file file [mode]) -> input-port?
+(open-input-file file [mode module-mode]) -> input-port?
   file : path-string?
   mode : (one-of/c 'text 'binary) = 'binary
+  module-mode : (or-of/c 'module 'none) = 'none
 procedure
 (open-output-file file [mode exists]) -> input-port?
   file : path-string?
