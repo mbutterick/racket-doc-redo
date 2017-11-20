@@ -31,8 +31,8 @@
 
 
 ◊; Fira
-◊(define fira-names '("light" "regular" "medium" "bold"))
-◊(define fira-weights '("300" "400" "500" "600"))
+◊(define fira-names '("light" "regular" "medium"))
+◊(define fira-weights '("300" "400" "500"))
 ◊(string-join (map (λ(name weight) (font-face-declaration "Fira" (string-append font-dir "fira/woff/firasans-" name ".woff") #:font-weight weight #:base64 do-base64)) fira-names fira-weights) "\n")
 
 ◊(define fira-italic-names '("LightItalic" "RegularItalic"))
