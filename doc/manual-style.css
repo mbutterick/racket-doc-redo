@@ -135,6 +135,7 @@ h3, h4, h5, h6, h7, h8 {
 body {
     color: black;
     background-color: white;
+    font-feature-settings: 'tnum' 1, 'liga' 0;
 }
 
 .maincolumn {
@@ -408,7 +409,6 @@ a:hover {
     padding-left: 0.2rem;
     line-height: 1.1;
     font-family: 'Fira', sans-serif;
-    font-feature-settings: 'tnum' 1, 'liga' 0;
 }
 
 .tocset td a {
