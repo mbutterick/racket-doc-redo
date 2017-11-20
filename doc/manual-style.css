@@ -32,7 +32,6 @@
 }
 
 .stt {
-    font-weight: 500;
 }
 
 h2 .stt {
@@ -61,8 +60,11 @@ h3 .stt, h4 .stt, h5 .stt {
 
 /* Serif: */
 .main, .refcontent, .tocview, .tocsub, .sroman, i {
-    font-family: 'Charter', serif;
+    font-family: 'Charter-Racket', serif;
     font-size: 1.18rem;
+/* Don't use font-feature-settings with Charter, 
+it fouls up loading for reasons mysterious */
+/*    font-feature-settings: 'tnum' 1, 'liga' 0; */
 }
 
 
@@ -118,6 +120,7 @@ h2 { /* per-page main title */
     font-family: 'Cooper-Hewitt';
     margin-top: 4rem;
     font-size: 2.3rem;
+    font-weight: bold;
     line-height: 1.1;
     width: 90%;
 }
@@ -134,7 +137,6 @@ h3, h4, h5, h6, h7, h8 {
 body {
     color: black;
     background-color: white;
-    font-feature-settings: 'tnum' 1, 'liga' 0;
 }
 
 .maincolumn {
@@ -254,8 +256,11 @@ a:hover {
     font-family: 'Fira-Mono', monospace;
 }
 
+
 #search_box {
-    font-size: 0.8rem;
+    font-family: 'Fira-Mono', monospace;
+    font-size: 1rem;
+    padding: 0.25rem 0.3rem ;
 }
 
 /* Default to local view. Global will specialize */
@@ -602,7 +607,6 @@ blockquote > blockquote.SVInsetFlow {
 
 .SVInsetFlow a, .SCodeFlow a {
     color: #07A;
-    font-weight: 500;
 }
 
 .SubFlow {

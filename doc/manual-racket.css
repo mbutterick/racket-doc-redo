@@ -121,7 +121,6 @@ span.RktValDef, span.RktStxDef, span.RktSymDef
 .RktValLink, .RktStxLink, .RktModLink {
   text-decoration: none;
     color: #07A;
-    font-weight: 500;
     font-size: 1rem;
 }
 
@@ -133,7 +132,7 @@ h2 .RktMod, h3 .RktMod, h4 .RktMod, h5 .RktMod,
 h2 .RktVal, h3 .RktVal, h4 .RktVal, h5 .RktVal,
 h2 .RktPn, h3 .RktPn, h4 .RktPn, h5 .RktPn {
     color: #333;
-    font-size: 1.65rem;
+    font-size: 1.50rem;
     font-weight: 400;
 }
 
@@ -201,7 +200,7 @@ tbody > tr:first-child > td > .together {
     padding: 0.25rem 0.75rem 0.25rem 0.5rem;
     margin-bottom: 1rem;
     width: 100%;
-    background-color: hsl(60, 29%, 94%);
+    background-color: #ebf0f4;
 }
 
 .defmodule a {
