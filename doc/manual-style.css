@@ -595,16 +595,19 @@ blockquote {
     margin: 0;
     margin-top: 2em;
     padding: 0.25em;
-    padding-bottom: 0.5em;
+    padding-top: 0.3em;
+    padding-bottom: 0.4em;
+    /* set default font for incidental chars (like arrows) */
+    font-family: 'Fira', sans-serif;
     background: #f3f3f3;
     box-sizing:border-box;
     border-top: 1px solid #99b;
     background: hsl(216, 78%, 95%);
-    background: -moz-linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(216, 78%, 95%) 100%);
-    background: -webkit-linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(216, 78%, 95%) 100%);
-    background: -o-linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(216, 78%, 95%) 100%);
-    background: -ms-linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(216, 78%, 95%) 100%);
-    background: linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(216, 78%, 95%) 100%);
+    background: -moz-linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(216, 62%, 95%) 100%);
+    background: -webkit-linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(216, 62%, 95%) 100%);
+    background: -o-linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(216, 62%, 95%) 100%);
+    background: -ms-linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(216, 62%, 95%) 100%);
+    background: linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(216, 62%, 95%) 100%);
 }
 
 blockquote > blockquote.SVInsetFlow {
