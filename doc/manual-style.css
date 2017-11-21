@@ -81,9 +81,10 @@ it fouls up loading for reasons mysterious */
 .version, .versionNoNav, .ssansserif {
     font-family: 'Fira', sans-serif;
 }
+
+/* used mostly for DrRacket menu commands */
 .ssansserif {
     font-family: 'Fira', sans-serif;
-    font-weight: 500;
     font-size: 0.9em;
 }
 
