@@ -36,6 +36,8 @@
 
 h2 .stt {
     font-size: 2.7rem;
+    /* prevent automatic bolding from h2 */
+    font-weight: 400;
 }
 
 .toptoclink .stt {
