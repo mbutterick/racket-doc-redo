@@ -18,7 +18,7 @@ in a definition box (i.e., the symbol being defined) */
 a.RktValDef, a.RktStxDef, a.RktSymDef,
 span.RktValDef, span.RktStxDef, span.RktSymDef
 {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     color: black;
     font-weight: 500;
 }
