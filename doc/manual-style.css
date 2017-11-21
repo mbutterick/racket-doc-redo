@@ -603,6 +603,12 @@ blockquote {
     margin-bottom: 0.5em;
 }
 
+/* put a little air between lines of code sample */
+/* Fira Mono appears taller than Source Code Pro */
+.SCodeFlow td {
+    padding-bottom: 2px;
+}
+
 .boxed {
     margin: 0;
     margin-top: 2em;
