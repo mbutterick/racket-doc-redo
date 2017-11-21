@@ -123,11 +123,11 @@ h2 { /* per-page main title */
     margin-top: 4rem;
     font-size: 2.3rem;
     font-weight: bold;
-    line-height: 1.1;
+    line-height: 1.2;
     width: 90%;
     /* a little nudge to make text visually lower than 4rem rule in left margin */
     position: relative;
-    top: 3px;
+    top: 6px;
 }
 
 h3, h4, h5, h6, h7, h8 {
