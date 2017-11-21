@@ -37,7 +37,7 @@
 /* so we'll use this slightly tortured sibling selector that hooks onto the h2 tag */
 h2[x-source-module='(lib "scribblings/main/start.scrbl")'] ~ table a[href="guide/index.html"], 
 h2[x-source-module='(lib "scribblings/main/start.scrbl")'] ~ table a[href="reference/index.html"] {
-  font-weight: bolder;
+  font-weight: bold;
 }
 
 
